@@ -1,0 +1,101 @@
+# http://fitlayout.github.io/resource/art66 -> https://www.imdb.com/title/tt7949204/fullcredits/
+character=Sasha Yazzie	name=Sivan Alyra Rose	episodes=10 episodes, 2019 	
+character=Big Frank Yazzie	name=Marcus LaVoi	episodes=10 episodes, 2019 	
+character=Elliott Lefevre	name=Nicholas Galitzine	episodes=10 episodes, 2019 	
+character=Yvonne	name=Kyanna Simone	episodes=10 episodes, 2019 	
+character=TJ Locklear	name=Griffin Powell-Arcand	episodes=10 episodes, 2019 	
+character=Penelope Fowler	name=Lilli Kay	episodes=10 episodes, 2019 	
+character=Marnie	name=Sarah Mezzanotte	episodes=10 episodes, 2019 	
+character=Ben Lefevre	name=Tony Goldwyn	episodes=10 episodes, 2019 	
+character=Nancy Lefevre	name=Uma Thurman	episodes=10 episodes, 2019 	
+character=Becky Lefevre	name=Lilliya Scarlett Reid	episodes=10 episodes, 2019 	
+character=Ruth Pezim	name=Lili Taylor	episodes=7 episodes, 2019 	
+character=Ravi Jerome	name=Jonny Rios	episodes=6 episodes, 2019 	
+character=Evan Pezim	name=Matthew Rauch	episodes=6 episodes, 2019 	
+character=Neighbor and Driver	name=J. Nathan Simmons	episodes=6 episodes, 2019 	
+character=Coach Jones	name=Michael Stahl-David	episodes=5 episodes, 2019 	
+character=Deacon	name=Khan Baykal	episodes=5 episodes, 2019 	
+character=Tourmaline Woman	name=Teddy Eggleston	episodes=5 episodes, 2019 	
+character=The Skater in Red	name=Joseph Morris	episodes=4 episodes, 2019 	
+character=Tracey Perkins	name=Patrice Johnson	episodes=3 episodes, 2019 	
+character=Harrison Yazzie	name=Richard Ray Whitman	episodes=3 episodes, 2019 	
+character=Russell Perkins	name=Charles Malik Whitfield	episodes=3 episodes, 2019 	
+character=Bail Bonds	name=Don Harvey	episodes=3 episodes, 2019 	
+character=Johnny 	name=Don Harvey	episodes=3 episodes, 2019 	
+character=Night Nurse	name=Augusta Allen-Jones	episodes=3 episodes, 2019 	
+character=Security Guard	name=Lonnie Lane	episodes=3 episodes, 2019 	
+character=Miss Schwartz	name=Carrie Lazar	episodes=2 episodes, 2019 	
+character=Annex Recruiter	name=Trina E. Siopy	episodes=2 episodes, 2019 	
+character=Cop	name=Matt Page	episodes=2 episodes, 2019 	
+character=Toddler Becky	name=Marie Wagenman	episodes=2 episodes, 2019 	
+character=Mr. Thomys	name=Hayes Hargrove	episodes=2 episodes, 2019 	
+character=Lena Yazzie	name=Kumiko Konishi	episodes=2 episodes, 2019 	
+character=DJ	name=Riley Carson Lewis	episodes=2 episodes, 2019 	
+character=Dr. Whitaker	name=Peter Diseth	episodes=2 episodes, 2019 	
+character=Candy Striper Doll	name=Victoria Walker	episodes=2 episodes, 2019 	
+character=Clare	name=Ammie Masterson	episodes=2 episodes, 2019 	
+character=School Security Guard	name=Lonnie James Lane	episodes=2 episodes, 2019 	
+character=Family Friend	name=Gonzalo Robles	episodes=2 episodes, 2019 	
+character=Shop Owner	name=Morningstar Angeline	episodes=1 episode, 2019 	
+character=Safe Sex Student	name=Bekah Jung	episodes=1 episode, 2019 	
+character=Cottonwood Sub	name=Rodney A. James II	episodes=1 episode, 2019 	
+character=Peter	name=David Midthunder	episodes=1 episode, 2019 	
+character=Dr. Schneider	name=Beth Bailey	episodes=1 episode, 2019 	
+character=Julia Locklear	name=Monika Crowfoot	episodes=1 episode, 2019 	
+character=Young Elliot	name=Landon Cochran	episodes=1 episode, 2019 	
+character=Kara	name=Sara Anne	episodes=1 episode, 2019 	
+character=Annex Orderly	name=Monique Candelaria	episodes=1 episode, 2019 	
+character=Mr. Probasco	name=Jose Miguel Vasquez	episodes=1 episode, 2019 	
+character=Tatted-Up Dude	name=Nicholas R. Doyle	episodes=1 episode, 2019 	
+character=Martin Jones	name=Carlos Beserra	episodes=1 episode, 2019 	
+character=Jacob Perkins	name=Jeremaya Roybal	episodes=1 episode, 2019 	
+character=Gary	name=Keith Jardine	episodes=1 episode, 2019 	
+character=Annex Orderly	name=Dani Payne	episodes=1 episode, 2019 	
+character=Cowgirl Doll	name=Corinne Fox	episodes=1 episode, 2019 	
+character=Bus Driver	name=Ramona King	episodes=1 episode, 2019 	
+character=Hospital Nurse	name=Colleen Mooney	episodes=1 episode, 2019 	
+character=Jamiee	name=Hadiya Eshé	episodes=1 episode, 2019 	
+character=Lil Russ Perkins	name=Timothy Kamphuis	episodes=1 episode, 2019 	
+character=Navajo Speaker 1	name=Carmelita Lee	episodes=1 episode, 2019 	
+character=Samantha	name=Morgan Wolk	episodes=1 episode, 2019 	
+character=Navajo Speaker 2	name=Francine Williams	episodes=1 episode, 2019 	
+character=Police Officer	name=Shawn McCall	episodes=1 episode, 2019 	
+character=Receptionist	name=Jade Kammerman	episodes=1 episode, 2019 	
+character=Beauty Queen Doll	name=Jessie Springer	episodes=1 episode, 2019 	
+character=Organ Courier	name=Lucas Leggio	episodes=1 episode, 2019 	
+character=Victor	name=Victor Z.	episodes=1 episode, 2019 	
+character=Paramedic 	name=Merritt C. Glover	episodes=1 episode, 2019 	
+character=Ripped Dude 	name=Derek Blakeney	episodes=1 episode, 2019 	
+character=Gate Annex Employee	name=Shawn Patrick Boyd	episodes=1 episode, 2019 	
+character=ER Nurse	name=Jason Weiler	episodes=1 episode, 2019 	
+character=Smoking Kid	name=Harrison Wirstrom	episodes=1 episode, 2019 	
+character=Crow	name=Paul Crow Willis	episodes=1 episode, 2019 	
+character=Annex Worker 	name=Hans Eisenhart	episodes=1 episode, 2019 	
+character=Ripped Dude 	name=Dennis Keiffer	episodes=1 episode, 2019 	
+character=Annex Worker 	name=Jermaine Washington	episodes=1 episode, 2019 	
+character=Paramedic 	name=Moi Powell	episodes=1 episode, 2019 	
+character=Paramedic 	name=J	episodes=1 episode, 2019 	
+character=Paramedic 	name=David Pinter	episodes=1 episode, 2019 	
+character=Security	name=Dave Colon	episodes=1 episode, 2019 	
+character=Paramedic 	name=Dan Brockett	episodes=1 episode, 2019 	
+character=Employee	name=Leandro Valdez	episodes=1 episode, 2019 	
+character=Hurricane	name=Leandro Valdez	episodes=1 episode, 2019 	
+character=Penelope	name=Habib Madison	episodes=1 episode, 2019 	
+character=Mom	name=Habib Madison	episodes=1 episode, 2019 	
+character=Nurse	name=Lauren Chavez-Myers	episodes=1 episode, 2019 	
+character=Little Girl A	name=Cheryl Tomingas	episodes=1 episode, 2019 	
+character=Little Girl B	name=Connie Tomingas	episodes=1 episode, 2019 	
+character=Hospital Patient	name=David Hight	episodes=1 episode, 2019 	
+character=Self	name=Stephen R. Estler	episodes=1 episode, 2019 	
+character=Hospital Patient	name=Stephanie Hill	episodes=1 episode, 2019 	
+character=Track student running	name=Gabrielle Chevalier	episodes=1 episode, 2019 	
+character=Additional Voices	name=Matthew Campbell Dowling	episodes=1 episode, 2019 	
+character=Annex Nurse	name=Shannon Henderson Herrera	episodes=1 episode, 2019 	
+character=Patron	name=Bonita King	episodes=1 episode, 2019 	
+character=Self	name=Victeria Dupree	episodes=1 episode, 2019 	
+character=Jail Visitor	name=Tureygua Inaru	episodes=10 episodes, 2019 	
+character=Flight Attendant	name=Cynthia Casaus	episodes=1 episode, 2019 	
+character=Driver	name=Richard Beal	episodes=1 episode, 2019 	
+character=High Schooler	name=Ashton Knox	episodes=1 episode, 2019 	
+character=Wake Attendee	name=Clayton Barth	episodes=1 episode, 2019 	
+character=Annex Employee	name=Johnny Tenorio	episodes=1 episode, 2019 	

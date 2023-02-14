@@ -1,0 +1,150 @@
+# http://fitlayout.github.io/resource/art54 -> https://www.imdb.com/title/tt10048342/fullcredits/
+character=Beth Harmon	name=Anya Taylor-Joy	episodes=7 episodes, 2020 	
+character=Alice Harmon	name=Chloe Pirrie	episodes=6 episodes, 2020 	
+character=Mr. Shaibel	name=Bill Camp	episodes=5 episodes, 2020 	
+character=Vasily Borgov	name=Marcin Dorocinski	episodes=5 episodes, 2020 	
+character=Alma Wheatley	name=Marielle Heller	episodes=5 episodes, 2020 	
+character=Benny Watts	name=Thomas Brodie-	episodes=4 episodes, 2020 	
+character=Benny Watts	name=Thomas Brodie-nullSangster	episodes=4 episodes, 2020 	
+character=Jolene	name=Moses Ingram	episodes=4 episodes, 2020 	
+character=Harry Beltik	name=Harry Melling	episodes=4 episodes, 2020 	
+character=Young Beth Harmon	name=Isla Johnston	episodes=4 episodes, 2020 	
+character=Borgov	name=Janina Elkin	episodes=4 episodes, 2020 	
+character=Wife	name=Janina Elkin	episodes=4 episodes, 2020 	
+character=Matt	name=Matthew Dennis Lewis	episodes=4 episodes, 2020 	
+character=Mike	name=Russell Dennis Lewis	episodes=4 episodes, 2020 	
+character=Allston Wheatley	name=Patrick Kennedy	episodes=3 episodes, 2020 	
+character=Helen Deardorff	name=Christiane Seidel	episodes=3 episodes, 2020 	
+character=D.L. Townes	name=Jacob Fortune-Lloyd	episodes=4 episodes, 2020 	
+character=Mr. Fergusson	name=Akemnji Ndifornyen	episodes=3 episodes, 2020 	
+character=Five-Year-Old Beth	name=Annabeth Kelly	episodes=3 episodes, 2020 	
+character=Margaret	name=Dolores Carbonari	episodes=4 episodes, 2020 	
+character=Girl 	name=Zoé Höche	episodes=3 episodes, 2020 	
+character=Russian	name=Andruscha Hilscher	episodes=3 episodes, 2020 	
+character=Another Russian	name=Iskander Madjitov	episodes=3 episodes, 2020 	
+character=Miss Lonsdale	name=Rebecca Root	episodes=2 episodes, 2020 	
+character=Tournament Director	name=Clement Guyot	episodes=2 episodes, 2020 	
+character=Man In Elevator	name=Frederic Stromenger	episodes=2 episodes, 2020 	
+character=Miss Graham	name=Sophie McShera	episodes=2 episodes, 2020 	
+character=Girl 	name=Katherine Towe	episodes=2 episodes, 2020 	
+character=Girl in Elevator	name=Mia-Luisa Schrader	episodes=2 episodes, 2020 	
+character=Margaret	name=Nina Herzberg	episodes=2 episodes, 2020 	
+character=Friend	name=Nina Herzberg	episodes=2 episodes, 2020 	
+character=Jolene	name=Laura Danne	episodes=2 episodes, 2020 	
+character=Friend	name=Laura Danne	episodes=2 episodes, 2020 	
+character=Mr. Bradley	name=Richard Waugh	episodes=2 episodes, 2020 	
+character=Mr. Espero	name=Marian Meder	episodes=2 episodes, 2020 	
+character=Apple Pi Girl 	name=Frieda Raab	episodes=2 episodes, 2020 	
+character=Beth	name=Sergio Di Zio	episodes=3 episodes, 2020 	
+character=Father	name=Sergio Di Zio	episodes=3 episodes, 2020 	
+character=Toby	name=William Horberg	episodes=2 episodes, 2020 	
+character=Apple Pi Girl 	name=Lucy Ella von Scheele	episodes=2 episodes, 2020 	
+character=Giggling Girl 	name=Emma Henker	episodes=2 episodes, 2020 	
+character=Apple Pi Girl 	name=Alva Schäfer	episodes=2 episodes, 2020 	
+character=Apple Pi Girl 	name=Marlene Leinemann	episodes=2 episodes, 2020 	
+character=Borgov	name=Matteo Vinogradov	episodes=2 episodes, 2020 	
+character=Child	name=Matteo Vinogradov	episodes=2 episodes, 2020 	
+character=Levertov	name=Max Krause	episodes=2 episodes, 2020 	
+character=Hilton Wexler	name=Ryan Wichert	episodes=2 episodes, 2020 	
+character=Annette Packer	name=Eloise Webb	episodes=2 episodes, 2020 	
+character=Cleo	name=Millie Brady	episodes=1 episode, 2020 	
+character=Stewardess	name=Rebecca Dyson-Smith	episodes=1 episode, 2020 	
+character=Marceno	name=Felice	episodes=1 episode, 2020 	
+character=Laev	name=Frederik Schmid	episodes=1 episode, 2020 	
+character=Tournament Director	name=Philipp Droste	episodes=1 episode, 2020 	
+character=Russian Teacher	name=Nikolai Jegorow	episodes=1 episode, 2020 	
+character=Tim	name=Sam Gilroy	episodes=1 episode, 2020 	
+character=Young Borgov	name=Maximilian Frisch	episodes=1 episode, 2020 	
+character=Man at Sign in Table	name=Daniel Brunet	episodes=1 episode, 2020 	
+character=Someone	name=Raphael Keric	episodes=1 episode, 2020 	
+character=Barbara	name=Sophia Frank	episodes=1 episode, 2020 	
+character=Eileen	name=Salber Lee Williams	episodes=1 episode, 2020 	
+character=Middle Aged Man	name=Adrian Hagenguth	episodes=1 episode, 2020 	
+character=Manfredi	name=Alexander Albrecht	episodes=1 episode, 2020 	
+character=Rudolph	name=Ilja Roßbander	episodes=1 episode, 2020 	
+character=Friedman	name=Jeremy Mockridge	episodes=1 episode, 2020 	
+character=Alec Bergland	name=Simon Jensen	episodes=1 episode, 2020 	
+character=Third Opponent	name=Frederik Funke	episodes=1 episode, 2020 	
+character=Miss Jean Blake	name=Samantha Soule	episodes=1 episode, 2020 	
+character=Teenage Reporter	name=Alec Dahmer	episodes=1 episode, 2020 	
+character=Alec Bergland	name=Simon Jansen	episodes=1 episode, 2020 	
+character=Another Reporter	name=Uke Bosse	episodes=1 episode, 2020 	
+character=Mrs. Macarthur	name=Pia Schlipphak	episodes=1 episode, 2020 	
+character=Weiss	name=Ben Gageik	episodes=1 episode, 2020 	
+character=Manuel	name=Pablo Scola	episodes=1 episode, 2020 	
+character=Russian Reporter	name=Dmitriy Frid	episodes=1 episode, 2020 	
+character=Cop 	name=Drew Doyle	episodes=1 episode, 2020 	
+character=Boy	name=David Gorelik	episodes=1 episode, 2020 	
+character=Cop 	name=Paul Johnston	episodes=1 episode, 2020 	
+character=Lutheran Minister	name=Peter Gilbert Cotton	episodes=1 episode, 2020 	
+character=Paris Waiter	name=Frédéric Vonhof	episodes=1 episode, 2020 	
+character=Matron	name=Jenny Galloway	episodes=1 episode, 2020 	
+character=Mrs. Dodge	name=Charlotte Lucas	episodes=1 episode, 2020 	
+character=Girl in Lunchroom	name=Lily Lesser	episodes=1 episode, 2020 	
+character=Mrs. Blocker	name=Nicky Goldie	episodes=1 episode, 2020 	
+character=Vendor	name=Rahul Chakraborty	episodes=1 episode, 2020 	
+character=Mr. Booth	name=John Schwab	episodes=1 episode, 2020 	
+character=Giggling Girl 	name=Maria Heinsch	episodes=1 episode, 2020 	
+character=French Guy 	name=Maximilian Diehle	episodes=1 episode, 2020 	
+character=Vendor 	name=Paul Walther	episodes=1 episode, 2020 	
+character=French Guy 	name=Lukas Huber	episodes=1 episode, 2020 	
+character=Russian Limo Driver	name=Juri Padel	episodes=1 episode, 2020 	
+character=Russian Radio Announcer	name=Evgenij Verenin	episodes=1 episode, 2020 	
+character=Russian Tournament Director	name=Konstantin Frank	episodes=1 episode, 2020 	
+character=Mary-Sue	name=Jennifer Haas	episodes=1 episode, 2020 	
+character=Luchenko	name=Marcus Loges	episodes=1 episode, 2020 	
+character=Giggling Girl 	name=Marja Haensch	episodes=1 episode, 2020 	
+character=Librarian	name=Rosalie Craig	episodes=1 episode, 2020 	
+character=Chennault	name=Colin Stinton	episodes=1 episode, 2020 	
+character=Roger	name=Tim Kalkhof	episodes=1 episode, 2020 	
+character=Mr. Hume	name=Ben Moor	episodes=1 episode, 2020 	
+character=Director	name=Alberto Ruano	episodes=1 episode, 2020 	
+character=Girl in Line	name=Dora Zygouri	episodes=1 episode, 2020 	
+character=Duhamel	name=Michel Diercks	episodes=1 episode, 2020 	
+character=Mowing Boy	name=Matthew Rowsell	episodes=1 episode, 2020 	
+character=Boyfriend	name=Elvis Nowatzki	episodes=2 episodes, 2020 	
+character=Margaret	name=Elvis Nowatzki	episodes=2 episodes, 2020 	
+character=Guy	name=Ben Posener	episodes=1 episode, 2020 	
+character=Alberto Diaz	name=Jan Nahuel Häfliger	episodes=1 episode, 2020 	
+character=Diedrich	name=Adrian Zwicker	episodes=1 episode, 2020 	
+character=Hellstrom	name=Hugo Grimm	episodes=1 episode, 2020 	
+character=Other Player	name=William von Tagen	episodes=1 episode, 2020 	
+character=Mr. Ganz	name=Jonjo O	episodes=1 episode, 2020 	
+character=Mr. Ganz	name=Neill	episodes=1 episode, 2020 	
+character=Girev	name=Louis Ashbourne Serkis	episodes=1 episode, 2020 	
+character=Singer at Piano	name=Anna Hauss	episodes=1 episode, 2020 	
+character=Shapkin	name=Vlad Chiriac	episodes=1 episode, 2020 	
+character=Paul Tix	name=Ricky Watson	episodes=1 episode, 2020 	
+character=Local Makeout Girl	name=Josepha Walter	episodes=2 episodes, 2020 	
+character=Flento	name=Till Trenkel	episodes=1 episode, 2020 	
+character=Old Man	name=Juozas Budraitis	episodes=1 episode, 2020 	
+character=Local Makeout Boy	name=Marc Bergemann	episodes=2 episodes, 2020 	
+character=Shirley Munson	name=Maddie Holliday	episodes=1 episode, 2020 	
+character=Doctor	name=Tatsu Carvalho	episodes=1 episode, 2020 	
+character=Ed Spencer	name=Bruce Pandolfini	episodes=1 episode, 2020 	
+character=Second Old Man	name=Tiit Lilleorg	episodes=1 episode, 2020 	
+character=Cullen	name=Steffen Mennekes	episodes=1 episode, 2020 	
+character=Manager	name=Andreas Muñoz	episodes=1 episode, 2020 	
+character=Charles Levy	name=Alexander Berdichevsky	episodes=1 episode, 2020 	
+character=Randall Foster	name=John Hollingworth	episodes=1 episode, 2020 	
+character=Cooke	name=Daniel Holzberg	episodes=1 episode, 2020 	
+character=Samantha	name=Nelly Russakowa	episodes=1 episode, 2020 	
+character=Farmacia Man	name=Ivan Gallardo	episodes=1 episode, 2020 	
+character=Sizemore	name=Johannes Franke	episodes=1 episode, 2020 	
+character=Russian Waiter	name=Anton Krymskiy	episodes=1 episode, 2020 	
+character=Klein	name=Jérémie Galiana	episodes=1 episode, 2020 	
+character=Young Russian Boy	name=Ben Brener	episodes=1 episode, 2020 	
+character=Reporter In Lobby 	name=Jonathan Failla	episodes=1 episode, 2020 	
+character=Reporter In Lobby 	name=Marc Zwinz	episodes=1 episode, 2020 	
+character=Reporter In Lobby 	name=Frank Streffing	episodes=1 episode, 2020 	
+character=Reporter In Lobby 	name=Daniel Montoya	episodes=1 episode, 2020 	
+character=Max	name=Joshua Neil	episodes=1 episode, 2020 	
+character=Derek	name=Charlie Hamblett	episodes=1 episode, 2020 	
+character=B. Cooper	name=Nicolo Pasetti	episodes=1 episode, 2020 	
+character=Reporter 	name=Nicolo Pasetti	episodes=1 episode, 2020 	
+character=Newsreel Reporter	name=David Masterson	episodes=1 episode, 2020 	
+character=Choreographer	name=Tim Olcay	episodes=1 episode, 2020 	
+character=Life Photographer	name=Geoffrey Rude	episodes=1 episode, 2020 	
+character=Reporter	name=Martin Müller	episodes=1 episode, 2020 	
+character=Woman 	name=Sarah Schubert	episodes=1 episode, 2020 	
+character=Poker Player	name=Murat Dikenci	episodes=1 episode, 2020 	

@@ -1,0 +1,446 @@
+# http://fitlayout.github.io/resource/art36 -> https://www.imdb.com/title/tt2707408/fullcredits/
+character=Javier Peña	name=Pedro Pascal	episodes=30 episodes, 2015-2017 	
+character=Pablo Escobar	name=Wagner Moura	episodes=20 episodes, 2015-2016 	
+character=Steve Murphy	name=Boyd Holbrook	episodes=20 episodes, 2015-2016 	
+character=Pacho Herrera	name=Alberto Ammann	episodes=20 episodes, 2015-2017 	
+character=Tata Escobar	name=Paulina Gaitan	episodes=19 episodes, 2015-2016 	
+character=Juan Pablo Escobar	name=Juan Murcia	episodes=19 episodes, 2015-2016 	
+character=Trujillo	name=Jorge Monterrosa	episodes=18 episodes, 2015-2017 	
+character=César Gaviria	name=Raúl Méndez	episodes=17 episodes, 2015-2016 	
+character=Navegante	name=Juan Sebastián Calero	episodes=17 episodes, 2015-2017 	
+character=Hermilda Gaviria	name=Paulina García	episodes=15 episodes, 2015-2016 	
+character=La Quica	name=Diego Cataño	episodes=15 episodes, 2015-2016 	
+character=Arthur Crosby	name=Brett Cullen	episodes=15 episodes, 2016-2017 	
+character=Blackie	name=Julián Díaz	episodes=15 episodes, 2015-2016 	
+character=Connie Murphy	name=Joanna Christie	episodes=14 episodes, 2015-2016 	
+character=Horacio Carrillo	name=Maurice Compte	episodes=12 episodes, 2015-2016 	
+character=Manuela	name=María José Sanchez Real	episodes=12 episodes, 2015-2016 	
+character=Valeria Velez	name=Stephanie Sigman	episodes=11 episodes, 2015-2016 	
+character=Jorge Salcedo	name=Matias Varela	episodes=10 episodes, 2017 	
+character=David Rodriguez	name=Arturo Castro	episodes=10 episodes, 2017 	
+character=Eduardo Sandoval	name=Manolo Cardona	episodes=10 episodes, 2015-2016 	
+character=Fernando Duque	name=Bruno Bichir	episodes=10 episodes, 2015-2016 	
+character=Maria Salazar	name=Andrea Londo	episodes=10 episodes, 2017 	
+character=Limon	name=Leynar Gomez	episodes=10 episodes, 2016 	
+character=Gustavo Gaviria	name=Juan Pablo Raba	episodes=10 episodes, 2015-2016 	
+character=Agent DEA	name=Richard T. Jones	episodes=10 episodes, 2015-2016 	
+character=Paola Salcedo	name=Taliana Vargas	episodes=10 episodes, 2017 	
+character=Don Berna	name=Mauricio Cujar	episodes=10 episodes, 2016-2017 	
+character=Technician	name=Jason Chad Roth	episodes=10 episodes, 2015 	
+character=Chepe Santacruz Londoño	name=Pêpê Rapazote	episodes=9 episodes, 2017 	
+character=Chris Feistl	name=Michael Stahl-David	episodes=9 episodes, 2017 	
+character=Daniel Van Ness	name=Matt Whelan	episodes=9 episodes, 2017 	
+character=Poison	name=Jorge A. Jimenez	episodes=9 episodes, 2015-2016 	
+character=Bill Stechner	name=Eric Lange	episodes=9 episodes, 2016-2017 	
+character=Ambassador Noonan	name=Danielle Kennedy	episodes=9 episodes, 2015 	
+character=Enrique	name=Carrell Lasso	episodes=9 episodes, 2017 	
+character=Darío	name=Roberto Cano	episodes=9 episodes, 2017 	
+character=Colonel Martinez	name=Juan Pablo Shuk	episodes=9 episodes, 2016-2017 	
+character=Vera Salcedo	name=Juana Álvarez	episodes=9 episodes, 2017 	
+character=Judy Moncada	name=Cristina Umaña	episodes=8 episodes, 2015-2016 	
+character=Major Wysession	name=Patrick St. Esprit	episodes=8 episodes, 2015-2016 	
+character=Edward Jacoby	name=Konstantin Melikhov	episodes=8 episodes, 2016 	
+character=Sure Shot	name=Ariel Sierra	episodes=8 episodes, 2015-2016 	
+character=Carlos Castaño	name=Mauricio Mejía	episodes=8 episodes, 2016-2017 	
+character=Fidel Castaño	name=Gustavo Angarita Jr.	episodes=8 episodes, 2016-2017 	
+character=Gustavo De Greiff	name=Germán Jaramillo	episodes=8 episodes, 2016 	
+character=Jorge Luis Ochoa	name=André Mattos	episodes=7 episodes, 2015 	
+character=Fabio Ochoa	name=Roberto Urbina	episodes=7 episodes, 2015 	
+character=Claudia Messina	name=Florencia Lozano	episodes=7 episodes, 2016 	
+character=Velasco	name=Alejandro Buitrago	episodes=7 episodes, 2015-2016 	
+character=Ricardo Prisco	name=Federico Rivera	episodes=7 episodes, 2016 	
+character=Jairo	name=Jairo Ordoñez	episodes=7 episodes, 2015-2016 	
+character=Alma Salcedo	name=Bella Barragán	episodes=7 episodes, 2017 	
+character=Guillermo Pallomari	name=Javier Cámara	episodes=6 episodes, 2017 	
+character=José Rodríguez Gacha	name=Luis Guzmán	episodes=6 episodes, 2015 	
+character=Orlando Henao	name=Julián Arango	episodes=6 episodes, 2017 	
+character=Hugo Martinez Jr.	name=Sebastian Vega	episodes=6 episodes, 2016 	
+character=Fercho	name=Cristian Sarmiento	episodes=6 episodes, 2017 	
+character=Gerda	name=Vicky Hernández	episodes=6 episodes, 2017 	
+character=CIA Agent Owen	name=Thaddeus Phillips	episodes=6 episodes, 2015-2016 	
+character=Gaviria	name=Alejandra Crispin	episodes=6 episodes, 2015-2016 	
+character=Secretary	name=Alejandra Crispin	episodes=6 episodes, 2015-2016 	
+character=General Diego Vargas	name=Álvaro García	episodes=6 episodes, 2016-2017 	
+character=Christina Jurado	name=Kerry Bishé	episodes=5 episodes, 2017 	
+character=Maritza	name=Martina García	episodes=5 episodes, 2016 	
+character=Franklin Jurado	name=Miguel Ángel Silvestre	episodes=5 episodes, 2017 	
+character=Elisa Alvaro	name=Ana de la Reguera	episodes=5 episodes, 2015 	
+character=Carlo Córdova	name=Andrés Crespo	episodes=5 episodes, 2017 	
+character=Nicolas Rodriguez	name=Sebastian Eslava	episodes=5 episodes, 2017 	
+character=Fernando Botero	name=Luis Mesa	episodes=5 episodes, 2017 	
+character=Stoddard	name=Raymond Ablack	episodes=5 episodes, 2017 	
+character=Wilber Varela	name=Girolly Gutierrez	episodes=5 episodes, 2017 	
+character=Ana Gaviria	name=Vera Mercado	episodes=5 episodes, 2015-2016 	
+character=Patricia Pallomari	name=Lina Castrillón	episodes=5 episodes, 2017 	
+character=Pedro Salazar	name=Jerónimo Barón	episodes=5 episodes, 2017 	
+character=Amado Carrillo Fuentes	name=José María Yazpik	episodes=4 episodes, 2017 	
+character=Carlos Lehder	name=Juan Riedinger	episodes=4 episodes, 2015 	
+character=Flaco	name=Arnold Cantillo	episodes=4 episodes, 2017 	
+character=The Lion	name=Jon-Michael Ecker	episodes=4 episodes, 2015-2016 	
+character=General Serrano	name=Gastón Velandia	episodes=4 episodes, 2015-2017 	
+character=Alberto Suarez	name=Julián Beltrán	episodes=4 episodes, 2015 	
+character=Alvaro Herrera	name=Edgar Prada	episodes=4 episodes, 2017 	
+character=Sergeant Morales	name=Fabian Villa	episodes=4 episodes, 2016 	
+character=Marina Ochoa	name=Laura Perico	episodes=4 episodes, 2015 	
+character=Kiko Moncada	name=Christian Tappan	episodes=4 episodes, 2015-2016 	
+character=Fernando Galeano	name=Orlando Valenzuela	episodes=4 episodes, 2015-2016 	
+character=General Jaramillo	name=Andrés Felipe Martínez	episodes=4 episodes, 2015 	
+character=Lugo	name=Juan Camilo Pérez	episodes=4 episodes, 2016 	
+character=Pinchadito	name=Daniel Merizalde	episodes=4 episodes, 2016-2017 	
+character=Baby	name=Julieta Cardona	episodes=4 episodes, 2015 	
+character=Natalie	name=Julieta Cardona	episodes=4 episodes, 2015 	
+character=David	name=Darío Cifuentes	episodes=4 episodes, 2016 	
+character=Diana Turbay	name=Gabriela de la Garza	episodes=3 episodes, 2015 	
+character=Gato	name=Pedro Calvo	episodes=3 episodes, 2016 	
+character=Gustavo Calderon	name=Juan Carlos Messier	episodes=3 episodes, 2017 	
+character=Colonel Pinzón	name=Luis Fernando Hoyos	episodes=3 episodes, 2016 	
+character=Manuel	name=Maurho Jimenez	episodes=3 episodes, 2017 	
+character=El Mugre	name=Rafael Rodriguez	episodes=3 episodes, 2015-2016 	
+character=Edgar Prisco	name=Leonardo García Vale	episodes=3 episodes, 2016 	
+character=Ambassador	name=Jesse Rose Moore	episodes=3 episodes, 2015 	
+character=Secretary	name=Jesse Rose Moore	episodes=3 episodes, 2015 	
+character=Juliana Carrillo	name=Maruia Shelton	episodes=3 episodes, 2015-2016 	
+character=Rojas	name=Carlos Mariño	episodes=3 episodes, 2016 	
+character=Mariela Rodriguez	name=Marcela Gallego	episodes=3 episodes, 2016-2017 	
+character=Bogotá	name=Frank Cuervo	episodes=3 episodes, 2015 	
+character=DEA 	name=Frank Cuervo	episodes=3 episodes, 2015 	
+character=Chucho Peña	name=Edward James Olmos	episodes=2 episodes, 2017 	
+character=Agent Duffy	name=Shea Whigham	episodes=2 episodes, 2017 	
+character=Agent Lopez	name=Nicholas Gonzalez	episodes=2 episodes, 2017 	
+character=Alan Starkman	name=Wayne Knight	episodes=2 episodes, 2017 	
+character=Mike Spencer	name=Matthew Glave	episodes=2 episodes, 2016-2017 	
+character=Marta Ochoa	name=Carolina Gaitan	episodes=2 episodes, 2015 	
+character=El Paisa	name=Luis Miguel Hurtado	episodes=2 episodes, 2015 	
+character=Carlos Henao	name=Andres Felipe Torres	episodes=2 episodes, 2016 	
+character=Polo	name=Oscar González	episodes=2 episodes, 2015 	
+character=Jaime	name=German De Greiff	episodes=2 episodes, 2015 	
+character=General Ariza	name=Juan Carlos Arango	episodes=2 episodes, 2015 	
+character=Sugar	name=Rodrigo Celis	episodes=2 episodes, 2015 	
+character=Manuel de Dios Unane	name=Gabriel Sloyer	episodes=2 episodes, 2017 	
+character=Luis Carlos Galán	name=Juan Pablo Espinosa	episodes=2 episodes, 2015 	
+character=Cali Sicario 	name=Javier Gardeazábal	episodes=2 episodes, 2015 	
+character=Maicol	name=Javier Gardeazábal	episodes=2 episodes, 2015 	
+character=Father Sobrino	name=Salvador del Solar	episodes=2 episodes, 2015 	
+character=Santiago	name=Raúl Ocampo	episodes=2 episodes, 2015 	
+character=Ivan Torres	name=Aldemar Correa	episodes=2 episodes, 2015 	
+character=Gorilla	name=Hector Lucumi	episodes=2 episodes, 2015 	
+character=Julio Turbay	name=Fernando Arévalo	episodes=2 episodes, 2015 	
+character=Duvan Salazar	name=Carlos Rios	episodes=2 episodes, 2017 	
+character=Elias	name=Lux Pascal	episodes=2 episodes, 2017 	
+character=Santiago Medina	name=Gustavo Ángel	episodes=2 episodes, 2017 	
+character=Nydia Turbay	name=Helena Mallarino	episodes=2 episodes, 2015 	
+character=Raul Salazar	name=Jaime Arango	episodes=2 episodes, 2017 	
+character=Natalie	name=Karen Alejandra Díaz	episodes=2 episodes, 2015 	
+character=Lucho	name=Jefferson Carabali	episodes=2 episodes, 2017 	
+character=Riano	name=Juan Manuel Lenis	episodes=2 episodes, 2015 	
+character=El Mensaje	name=Daniel Castaño	episodes=2 episodes, 2015 	
+character=Herve	name=Manuel Antonio Gómez	episodes=2 episodes, 2015 	
+character=Jorge	name=Weimar Delgado	episodes=2 episodes, 2016 	
+character=Secretary	name=Maria Luisa Diuza	episodes=2 episodes, 2015 	
+character=Gaviria	name=Maria Luisa Diuza	episodes=2 episodes, 2015 	
+character=Gabriela	name=Carolina Acevedo	episodes=2 episodes, 2016 	
+character=Major Baiz	name=Julian Rodriguez	episodes=2 episodes, 2015 	
+character=Rosa	name=Alejandra Lara	episodes=2 episodes, 2016 	
+character=Manuel	name=Yesi García	episodes=2 episodes, 2016 	
+character=Prostitute	name=Ángela Forero	episodes=2 episodes, 2016 	
+character=CNP Officer	name=Javier Achury	episodes=2 episodes, 2016-2017 	
+character=Paula	name=Cristina Restrepo	episodes=2 episodes, 2016 	
+character=Pablo Sicario 2	name=Alejandro Gomez	episodes=2 episodes, 2015 	
+character=Advisor 	name=Javier Sáenz	episodes=2 episodes, 2016 	
+character=Ortiz	name=Kevin Marin	episodes=2 episodes, 2016 	
+character=Accountant	name=Ernesto Alcalde	episodes=2 episodes, 2015 	
+character=Military Man	name=Michael Uribe	episodes=2 episodes, 2015 	
+character=Pablo Sicario 3	name=Alejandro Rubio	episodes=2 episodes, 2015 	
+character=News Reporter	name=Julieth Giraldo	episodes=2 episodes, 2015-2016 	
+character=El Tosca	name=Dorian Keller	episodes=2 episodes, 2015 	
+character=Pablo Sicario 4	name=Javier Rodriguez	episodes=2 episodes, 2015 	
+character=Cesar	name=Camilo Amores	episodes=2 episodes, 2016 	
+character=Katie	name=Laura Londoño	episodes=2 episodes, 2017 	
+character=Presidential Aide	name=Alejandro Gutierrez	episodes=2 episodes, 2016 	
+character=Calí Taxi Driver	name=Juan Cardona	episodes=2 episodes, 2017 	
+character=Waitress	name=Wendy Susan Hammer	episodes=2 episodes, 2017 	
+character=Spotter 2	name=Dubán Andrés Prado	episodes=2 episodes, 2016 	
+character=American Pilot	name=Jeff Glaser	episodes=2 episodes, 2016-2017 	
+character=Alejandro Ayala	name=Rafael Cebrián	episodes=2 episodes, 2015 	
+character=Capitan Sastoque	name=Ed Roa	episodes=2 episodes, 2015 	
+character=Dominican Gangster	name=Gabriel Iglesias	episodes=1 episode, 2017 	
+character=Abel Escobar	name=Alfredo Castro	episodes=1 episode, 2016 	
+character=Kevin Brady	name=A.J. Buckley	episodes=1 episode, 2015 	
+character=Minister Lara	name=Adan Canto	episodes=1 episode, 2015 	
+character=Senator Martin	name=Glenn Morshower	episodes=1 episode, 2017 	
+character=La Cucaracha	name=Luis Gnecco	episodes=1 episode, 2015 	
+character=Sergio	name=Carlos Congote	episodes=1 episode, 2017 	
+character=Helena	name=Adria Arjona	episodes=1 episode, 2015 	
+character=Special Forces Commander	name=Gabriel Mangones	episodes=1 episode, 2015 	
+character=Gilbert Mills	name=Curtiss Cook	episodes=1 episode, 2017 	
+character=Fredy	name=David Valencia	episodes=1 episode, 2017 	
+character=Fiscale	name=Camilo Colmenares	episodes=1 episode, 2017 	
+character=Barry Seal aka McPickle	name=Dylan Bruno	episodes=1 episode, 2015 	
+character=Jaime Mendoza	name=Steven Salcedo	episodes=1 episode, 2016 	
+character=Herrera DAS Agent	name=Adrián Jiménez	episodes=1 episode, 2015 	
+character=Jairo Ortega	name=Julian Bustamante	episodes=1 episode, 2015 	
+character=Andrés	name=Malcolm Ruíz	episodes=1 episode, 2017 	
+character=Ibarra DAS Agent	name=Jorge Castellanos	episodes=1 episode, 2015 	
+character=Asst. U.S. Attorney	name=Brian Guest	episodes=1 episode, 2017 	
+character=Ivan	name=Orlando Bernal	episodes=1 episode, 2017 	
+character=Freddy Gacha	name=Jair Arango Meneses	episodes=1 episode, 2015 	
+character=Henry Loaiza	name=Álex Quiroga	episodes=1 episode, 2017 	
+character=Yasiel	name=Ricardo de la Vega	episodes=1 episode, 2017 	
+character=Gacha	name=Diana Isabel Acevedo	episodes=1 episode, 2015 	
+character=Maid	name=Diana Isabel Acevedo	episodes=1 episode, 2015 	
+character=Lieutenant Dominguez	name=Johan Méndez	episodes=1 episode, 2015 	
+character=Lieutenant	name=Juan Guillermo Rangel	episodes=1 episode, 2016 	
+character=Search Block Captain	name=Joaquín García	episodes=1 episode, 2016 	
+character=Díaz	name=Fernando Lara	episodes=1 episode, 2017 	
+character=Ernesto	name=Johnny Ramos	episodes=1 episode, 2017 	
+character=Prison Warden	name=Nestor Sastoque	episodes=1 episode, 2017 	
+character=The Spaniard	name=Carlos Aguilar	episodes=1 episode, 2015 	
+character=Zapata	name=Alexander Doncel	episodes=1 episode, 2015 	
+character=CNP Officer	name=Alexander Alzate	episodes=1 episode, 2016 	
+character=Search Block Sniper	name=Alejandro Sierra	episodes=1 episode, 2016 	
+character=Hernan	name=Ariel Merchan	episodes=1 episode, 2017 	
+character=Santos	name=David Ramírez	episodes=1 episode, 2017 	
+character=Gonzalo Espedes	name=César Vargas	episodes=1 episode, 2017 	
+character=Older Sergeant	name=Mario Roberto Rivero	episodes=1 episode, 2015 	
+character=Car Salesman	name=Jaider Velasco	episodes=1 episode, 2015 	
+character=Elderly Man	name=Gabriel Moure	episodes=1 episode, 2016 	
+character=Beltre	name=Rodolfo Silva	episodes=1 episode, 2017 	
+character=Osner	name=Jerry Sanchez	episodes=1 episode, 2017 	
+character=Emilio Salazar	name=Andrés Franco	episodes=1 episode, 2017 	
+character=Hotel Manager	name=José Puentes	episodes=1 episode, 2017 	
+character=Senator	name=Herberto Borjas	episodes=1 episode, 2015 	
+character=Policeman	name=Yesid Moreno	episodes=1 episode, 2015 	
+character=Partner	name=Buster Rojas	episodes=1 episode, 2015 	
+character=Gacha	name=Buster Rojas	episodes=1 episode, 2015 	
+character=Juan Pablo Escobar	name=Juan Murica	episodes=1 episode, 2015 	
+character=Waitress	name=Shelly Guberek	episodes=1 episode, 2016 	
+character=Heaven	name=Massiel Mordan	episodes=1 episode, 2017 	
+character=Gunman 1	name=Fabian Martínez	episodes=1 episode, 2017 	
+character=Mercedes Driver Sicario	name=Andrés Durán	episodes=1 episode, 2017 	
+character=Congress Guard	name=David Santiago	episodes=1 episode, 2015 	
+character=Peru Lab Manager	name=Santiago Tocarruncho	episodes=1 episode, 2015 	
+character=Jorge	name=Fabián Aranda	episodes=1 episode, 2016 	
+character=Bus Passenger	name=Stiven Lourido	episodes=1 episode, 2016 	
+character=Senator Toyle	name=Louis Herthum	episodes=1 episode, 2017 	
+character=Stylist 	name=Lisann Valentin	episodes=1 episode, 2017 	
+character=Bernardo Gonzales	name=Luis Eduardo Motoa	episodes=1 episode, 2017 	
+character=Paola	name=Constanza Gutierrez	episodes=1 episode, 2017 	
+character=Mom	name=Constanza Gutierrez	episodes=1 episode, 2017 	
+character=Gunman 2	name=Fabio Mugno	episodes=1 episode, 2017 	
+character=Professor at Stanford	name=William Lowe	episodes=1 episode, 2015 	
+character=Taxi Driver	name=Carlos Martinez	episodes=1 episode, 2015 	
+character=Yamile	name=Paola Barrera	episodes=1 episode, 2016 	
+character=Piraña	name=Harby Rodriguez	episodes=1 episode, 2016 	
+character=Priest	name=Daniel Páez	episodes=1 episode, 2017 	
+character=Receptionist	name=Sindy Alexis Baquero	episodes=1 episode, 2017 	
+character=Prison Guard	name=Oscar Rodo	episodes=1 episode, 2017 	
+character=El Espectador Reporter	name=Ricardo Niño	episodes=1 episode, 2015 	
+character=Student at Stanford	name=R.J. Russell	episodes=1 episode, 2015 	
+character=Sophia	name=Xiomara Galeano	episodes=1 episode, 2015 	
+character=Israeli Trainer	name=Eivar Fardy	episodes=1 episode, 2015 	
+character=General Gonzalez	name=Ricardo Gomez	episodes=1 episode, 2015 	
+character=Weaver	name=Joseph Fussey	episodes=1 episode, 2015 	
+character=Simon Duque	name=Juan Manuel Acosta	episodes=1 episode, 2016 	
+character=Santiago Gallon	name=Miguel Ángel Romero	episodes=1 episode, 2016 	
+character=Lorraine	name=Bre Blair	episodes=1 episode, 2017 	
+character=Rico	name=Sebastian Chacon	episodes=1 episode, 2017 	
+character=Aura	name=Natalia Jerez	episodes=1 episode, 2017 	
+character=FARC Soldier	name=Sebastián Moya	episodes=1 episode, 2017 	
+character=Motorcycle Girl 1	name=Damaris Garcia	episodes=1 episode, 2017 	
+character=Freckles	name=Rodrigo Hernandez	episodes=1 episode, 2017 	
+character=Luisa	name=Gina Benedetti	episodes=1 episode, 2017 	
+character=Private Instructor	name=Andrés Carvajal	episodes=1 episode, 2017 	
+character=Arete	name=Víctor Rodríguez	episodes=1 episode, 2015 	
+character=Military Sergeant	name=Silvio Plaza	episodes=1 episode, 2015 	
+character=Jimenez	name=Leandro López	episodes=1 episode, 2016 	
+character=Carmelita	name=Karen Carabalí	episodes=1 episode, 2016 	
+character=Pedro Gallon	name=Frank Delgado	episodes=1 episode, 2016 	
+character=Gilberto	name=Johana Castaño	episodes=1 episode, 2016 	
+character=Secretary	name=Johana Castaño	episodes=1 episode, 2016 	
+character=Secretary	name=Javier Garrido	episodes=1 episode, 2016 	
+character=Pinzón	name=Javier Garrido	episodes=1 episode, 2016 	
+character=Immigration Officer	name=Michael Stojek	episodes=1 episode, 2016 	
+character=Camila	name=Juliette Pardau	episodes=1 episode, 2017 	
+character=Randy	name=Carter Roy	episodes=1 episode, 2017 	
+character=Traqueto	name=Aldo Uribe	episodes=1 episode, 2017 	
+character=Newswoman	name=Camy Jiménez	episodes=1 episode, 2017 	
+character=Silvio	name=Andrés Felipe Rojas	episodes=1 episode, 2017 	
+character=Strip Club Waitress	name=Isabella Rodríguez	episodes=1 episode, 2017 	
+character=Mom	name=Josefina Cruz	episodes=1 episode, 2017 	
+character=Andrés	name=Josefina Cruz	episodes=1 episode, 2017 	
+character=Purina	name=Pedro Arias	episodes=1 episode, 2015 	
+character=Reyes	name=Pedro Arias	episodes=1 episode, 2015 	
+character=Comuna Boy	name=Heider Matallana	episodes=1 episode, 2015 	
+character=Luís Muñoz	name=Ivan Orjuela	episodes=1 episode, 2016 	
+character=Hector Gallon	name=Manolo Gutiérrez	episodes=1 episode, 2016 	
+character=Sicario	name=José Restrepo	episodes=1 episode, 2016 	
+character=Father	name=Luis Ángel Ospina	episodes=1 episode, 2016 	
+character=Soldier 2	name=Freddy Cabezas	episodes=1 episode, 2016 	
+character=Ernesto Samper	name=Tristán Ulloa	episodes=1 episode, 2017 	
+character=Wedding Guest	name=Efrén Valladares	episodes=1 episode, 2017 	
+character=Amparo	name=Susana Victoria	episodes=1 episode, 2017 	
+character=Security Guard	name=Christian López	episodes=1 episode, 2017 	
+character=PR Woman	name=Mabel Moreno	episodes=1 episode, 2015 	
+character=Pretty Woman	name=Susana Rojas	episodes=1 episode, 2015 	
+character=Military Man	name=Leonardo Rojas	episodes=1 episode, 2015 	
+character=Alberto Areiza	name=Rodrigo Avilán R.	episodes=1 episode, 2015 	
+character=Marta Orejuela	name=Abril Schreiber	episodes=1 episode, 2016 	
+character=Granny	name=Olga Garavito	episodes=1 episode, 2016 	
+character=David	name=Olga Garavito	episodes=1 episode, 2016 	
+character=Boy	name=David Camargo	episodes=1 episode, 2016 	
+character=Warehouse Manager	name=Brien	episodes=1 episode, 2017 	
+character=Warehouse Manager	name=Lorenzo O	episodes=1 episode, 2017 	
+character=Commissioner	name=Christophe de Geest	episodes=1 episode, 2017 	
+character=Party Bartender	name=Carlos Clavijo	episodes=1 episode, 2017 	
+character=Corporate Jet Rep	name=Juan Manuel Diaz	episodes=1 episode, 2017 	
+character=Doorman	name=Roger Rodríguez	episodes=1 episode, 2017 	
+character=Natalie	name=Heisel Mora	episodes=1 episode, 2015 	
+character=Girlfriend	name=Heisel Mora	episodes=1 episode, 2015 	
+character=Julian Michel Galan	name=Sebastián Gutiérrez	episodes=1 episode, 2015 	
+character=Masked Judge	name=Carlos Echeverri	episodes=1 episode, 2015 	
+character=Maria Gaviria	name=Valeria Acosta	episodes=1 episode, 2015 	
+character=Reporter	name=Jarol Fonseca	episodes=1 episode, 2016 	
+character=Mother	name=Liseth Bitar	episodes=1 episode, 2016 	
+character=Mother	name=Sandy Suárez	episodes=1 episode, 2016 	
+character=Attorney General Valdivieso	name=Matias Maldonado	episodes=1 episode, 2017 	
+character=Bartender	name=Yacko Márquez	episodes=1 episode, 2017 	
+character=CNP Captain	name=David Guerrero	episodes=1 episode, 2017 	
+character=Jorge Salcedo Sr.	name=Carlos E. Velásquez	episodes=1 episode, 2017 	
+character=Lagarto	name=Jefferson Paez	episodes=1 episode, 2015 	
+character=Simon Gaviria	name=Samuel Peña	episodes=1 episode, 2015 	
+character=Girl	name=Isabella Sierra	episodes=1 episode, 2016 	
+character=Mr. Hernandez	name=Pablo Rodríguez	episodes=1 episode, 2016 	
+character=Spotter 1	name=Miguel Martínez	episodes=1 episode, 2016 	
+character=Alejandro	name=Herman Sanchez	episodes=1 episode, 2016 	
+character=Rojas Man	name=Gustavo Salazar	episodes=1 episode, 2016 	
+character=Maria Salcedo	name=Adriana Osorio	episodes=1 episode, 2017 	
+character=Pancho	name=Juan Angulo	episodes=1 episode, 2017 	
+character=Gunman	name=Juan Angulo	episodes=1 episode, 2017 	
+character=Senator	name=Santiago Dorronsoro	episodes=1 episode, 2017 	
+character=Dock Worker	name=Gabriel Perea	episodes=1 episode, 2017 	
+character=Frankenstein	name=Hedras Urrego	episodes=1 episode, 2015 	
+character=Juan Carlos 	name=Hedras Urrego	episodes=1 episode, 2015 	
+character=Colombian Soldier	name=Wilderman García	episodes=1 episode, 2015 	
+character=Cop	name=Diego Corredor	episodes=1 episode, 2015 	
+character=Judge	name=Mike Morgan	episodes=1 episode, 2015 	
+character=Diego	name=Jose Lombana	episodes=1 episode, 2016 	
+character=Producer	name=Michel Ruben	episodes=1 episode, 2016 	
+character=Chancellor Kohl	name=James Moore	episodes=1 episode, 2016 	
+character=Old Man	name=Tiberio Rojas	episodes=1 episode, 2016 	
+character=Mother	name=Sandra Ardila	episodes=1 episode, 2016 	
+character=Maritza	name=Sandra Ardila	episodes=1 episode, 2016 	
+character=Sub-Lieutenant	name=Carlos Peláez	episodes=1 episode, 2017 	
+character=Soldier 	name=Cristian Camilo Rodríguez	episodes=1 episode, 2017 	
+character=Judge	name=Paul Marks	episodes=1 episode, 2017 	
+character=Stewardess	name=Nahara Riveros	episodes=1 episode, 2015 	
+character=El Ronca	name=Daniel Infante	episodes=1 episode, 2015 	
+character=Well Dressed Narco	name=Javier Tejerina	episodes=1 episode, 2015 	
+character=Ticket Agent	name=Victoria Gaitán	episodes=1 episode, 2016 	
+character=Jesus Castaño	name=Luis Enrique Gomez	episodes=1 episode, 2016 	
+character=Young Staffer	name=Silvana Araoz	episodes=1 episode, 2016 	
+character=Spotter 3	name=Sebastián Cruz	episodes=1 episode, 2016 	
+character=Salesman	name=Luis Fernando Santos	episodes=1 episode, 2016 	
+character=Bank President	name=Douglas Ceballos	episodes=1 episode, 2017 	
+character=Prosecutor	name=Kateri Garcia	episodes=1 episode, 2017 	
+character=Soldier 	name=Ronaldo Torres	episodes=1 episode, 2017 	
+character=Doorman	name=Jimmy Cristancho López	episodes=1 episode, 2017 	
+character=Presidential Page	name=Andres Salazar	episodes=1 episode, 2017 	
+character=DEA Agent 	name=Steven Galarce	episodes=1 episode, 2015 	
+character=Radio Girl	name=Mara Gutierrez	episodes=1 episode, 2015 	
+character=Shoe Shine Boy	name=Mateo Camacho	episodes=1 episode, 2016 	
+character=Security Guard 	name=Gustavo Andrade	episodes=1 episode, 2016 	
+character=Raid Officer	name=Alvaro Rodriguez	episodes=1 episode, 2016 	
+character=Aeronautica Civil Controller	name=Oscar Reyes	episodes=1 episode, 2016 	
+character=Newswoman	name=Adriana Silva	episodes=1 episode, 2017 	
+character=Front Desk Clerk	name=Alejandro Maya	episodes=1 episode, 2017 	
+character=Hernán	name=Raul Tovar Salazar	episodes=1 episode, 2017 	
+character=Soldier 	name=Juan Pablo Landaeta	episodes=1 episode, 2017 	
+character=Pablo Sicario 5	name=Milton Lopez	episodes=1 episode, 2015 	
+character=DEA Agent 	name=Timothy Jansen	episodes=1 episode, 2015 	
+character=News Reporter	name=Maria Camila Rincón	episodes=1 episode, 2016 	
+character=De Greiff	name=Beatriz Ramirez	episodes=1 episode, 2016 	
+character=Secretary	name=Beatriz Ramirez	episodes=1 episode, 2016 	
+character=Lufthansa Stewardess	name=Linda Patiño	episodes=1 episode, 2016 	
+character=Young Recruit	name=Fernando Herrera	episodes=1 episode, 2016 	
+character=Customs Officer	name=Carlos Carballo	episodes=1 episode, 2016 	
+character=Agent Samuels	name=Tatu Jokila	episodes=1 episode, 2017 	
+character=Driver	name=Juan David Pacheco	episodes=1 episode, 2017 	
+character=Son	name=Manuel Vergel	episodes=1 episode, 2017 	
+character=Inspector	name=Manuel Vergel	episodes=1 episode, 2017 	
+character=Chilean Soldier	name=Gustavo Rincon	episodes=1 episode, 2015 	
+character=Mom	name=Merena Demont	episodes=1 episode, 2016 	
+character=Jairo	name=Merena Demont	episodes=1 episode, 2016 	
+character=Pinzón	name=Edwin Garrido	episodes=1 episode, 2016 	
+character=Secretary	name=Edwin Garrido	episodes=1 episode, 2016 	
+character=Sicario	name=Yorneis García	episodes=1 episode, 2016 	
+character=Blackie	name=Yorneis García	episodes=1 episode, 2016 	
+character=Waiter	name=Juan Carlos Lesmes	episodes=1 episode, 2016 	
+character=Young Sicario	name=Ernesto Ballén	episodes=1 episode, 2016 	
+character=Embassy Security Guard	name=Raymundo Castillo	episodes=1 episode, 2016 	
+character=Wife	name=Paola Caycedo	episodes=1 episode, 2017 	
+character=Inspector	name=Paola Caycedo	episodes=1 episode, 2017 	
+character=Elderly Woman 3rd Floor	name=Sonia Cucalón	episodes=1 episode, 2017 	
+character=Investor 	name=Marco López	episodes=1 episode, 2017 	
+character=Doe-Eyed Colombian Girl	name=Alejandra Parra	episodes=1 episode, 2015 	
+character=Reporter	name=Jon Otazua	episodes=1 episode, 2016 	
+character=Older Woman	name=Marietta Ocampo	episodes=1 episode, 2016 	
+character=Old Woman	name=Greta Rodríguez	episodes=1 episode, 2016 	
+character=Servant	name=Juan Jose Aguirre	episodes=1 episode, 2016 	
+character=Security Officer 1	name=Luis Nova	episodes=1 episode, 2016 	
+character=Gahagen	name=Anddy Caicedo	episodes=1 episode, 2017 	
+character=CNP Officer	name=Joao Oliveros	episodes=1 episode, 2017 	
+character=Investor 	name=Hernán Alvarez	episodes=1 episode, 2017 	
+character=Lover	name=Tuan Oliveros	episodes=1 episode, 2017 	
+character=Inspector	name=Tuan Oliveros	episodes=1 episode, 2017 	
+character=Wife	name=Tuan Oliveros	episodes=1 episode, 2017 	
+character=Wife	name=Diana Wiswell	episodes=1 episode, 2015 	
+character=Cockroach	name=Diana Wiswell	episodes=1 episode, 2015 	
+character=CNP Officer 	name=Héctor M. Cruz Molina	episodes=1 episode, 2015 	
+character=Sicario 	name=Santiago Urbina	episodes=1 episode, 2016 	
+character=Miguel	name=Daniel Díaz	episodes=1 episode, 2016 	
+character=Luis Muñoz	name=Alvaro Orjuela	episodes=1 episode, 2016 	
+character=Camera Man - Juan	name=David Vélez	episodes=1 episode, 2016 	
+character=Man in Diner	name=Bobby Daniel Rodriguez	episodes=1 episode, 2017 	
+character=Ticket Agent	name=Julio Osorio	episodes=1 episode, 2017 	
+character=CNP Officer 2	name=Alberto Suárez	episodes=1 episode, 2017 	
+character=Connie	name=Fiona Horsey	episodes=1 episode, 2015 	
+character=Friend	name=Fiona Horsey	episodes=1 episode, 2015 	
+character=CNP Officer 	name=Rodrigo Cárdenas	episodes=1 episode, 2015 	
+character=Olivia Murphy	name=Violeta Piñeros	episodes=1 episode, 2016 	
+character=News Van Driver	name=John Álex Jiménez	episodes=1 episode, 2016 	
+character=Roberto	name=Jordan Loaiza	episodes=1 episode, 2016 	
+character=Concierge	name=David Páez	episodes=1 episode, 2017 	
+character=Herve Assistant	name=Fredy Pinilla	episodes=1 episode, 2015 	
+character=Pregnant Woman	name=Johanna Rubio	episodes=1 episode, 2015 	
+character=Liberal Party Official 	name=Bernardo López	episodes=1 episode, 2016 	
+character=Immigration Agent	name=Antti Siegmann	episodes=1 episode, 2016 	
+character=Brother	name=Jean Pierre Oñate	episodes=1 episode, 2016 	
+character=Security Guard	name=Daniel Guerrero	episodes=1 episode, 2017 	
+character=Receptionist	name=Juliana Cuevas	episodes=1 episode, 2017 	
+character=Nurse 	name=Tiffany Joy	episodes=1 episode, 2015 	
+character=German Chemist 	name=Rudiger Kunze	episodes=1 episode, 2015 	
+character=Boy	name=Emmanuel Tique	episodes=1 episode, 2016 	
+character=Liberal Party Official 	name=Héctor Manuel Cruz	episodes=1 episode, 2016 	
+character=Bold Pedestrian	name=Sebastián Hoyos	episodes=1 episode, 2016 	
+character=Father	name=Manuel Murillo	episodes=1 episode, 2016 	
+character=Beautiful Girl	name=Valentina Perez	episodes=1 episode, 2017 	
+character=German Chemist 	name=Johan Franz Eckert	episodes=1 episode, 2015 	
+character=Embassy Staffer	name=Daniel Posada	episodes=1 episode, 2016 	
+character=Translator	name=Diego Ramírez-Schrempp	episodes=1 episode, 2016 	
+character=Pablo Fan 1	name=Hilda Gutiérrez	episodes=1 episode, 2016 	
+character=Pablo Fan 2	name=Patricia Castañeda	episodes=1 episode, 2016 	
+character=Airline Employee 1	name=Karine Amaya	episodes=1 episode, 2016 	
+character=Young Man	name=Juan Raul Sierra	episodes=1 episode, 2016 	
+character=Airline Employee 2	name=Silvia Santamaría	episodes=1 episode, 2016 	
+character=Guy 1	name=Mike Justus	episodes=1 episode, 2016 	
+character=Drug Cartel Boss Kid	name=Nicolas Stan	episodes=1 episode, 2015 	
+character=Juliana	name=Marcela Vanegas	episodes=1 episode, 2016 	
+character=Drug dealer	name=Carlos Paez Buitrago	episodes=1 episode, 2016 	
+character=Crack Man	name=Sean Welch	episodes=1 episode, 2017 	
+character=Nusret Gökçe	name=Nusret Gökçe	episodes=1 episode, 2017 	
+character=New Yorker	name=Celia Rocha	episodes=1 episode, 2017 	
+character=NY traqueta	name=Idalia Limón	episodes=1 episode, 2017 	
+character=Safety Inspector	name=Alberto Cardeño	episodes=1 episode, 2017 	
+character=Bar tender Pena	name=David Galeano	episodes=1 episode, 2017 	
+character=Cartel Leader	name=Jose Lizarde Jr.	episodes=10 episodes, 2017 	
+character=Bryan	name=Ryan Tramont	episodes=1 episode, 2017 	

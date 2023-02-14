@@ -1,0 +1,138 @@
+# http://fitlayout.github.io/resource/art52 -> https://www.imdb.com/title/tt5753856/fullcredits/
+character=Jonas Kahnwald	name=Louis Hofmann	episodes=25 episodes, 2017-2020 	
+character=Charlotte Doppler	name=Karoline Eichhorn	episodes=21 episodes, 2017-2020 	
+character=Martha Nielsen	name=Lisa Vicari	episodes=20 episodes, 2017-2020 	
+character=Hannah Kahnwald	name=Maja Schöne	episodes=20 episodes, 2017-2020 	
+character=Katharina Nielsen	name=Jördis Triebel	episodes=19 episodes, 2017-2020 	
+character=The Stranger	name=Andreas Pietschmann	episodes=19 episodes, 2017-2020 	
+character=Peter Doppler	name=Stephan Kampwirth	episodes=20 episodes, 2017-2020 	
+character=Bartosz Tiedemann	name=Paul Lux	episodes=18 episodes, 2017-2020 	
+character=Ulrich Nielsen	name=Oliver Masucci	episodes=17 episodes, 2017-2020 	
+character=Magnus Nielsen	name=Moritz Jahn	episodes=18 episodes, 2017-2020 	
+character=Aleksander Tiedemann	name=Peter Benedict	episodes=17 episodes, 2017-2020 	
+character=Franziska Doppler	name=Gina Stiebitz	episodes=16 episodes, 2017-2020 	
+character=Regina Tiedemann	name=Deborah Kaufmann	episodes=16 episodes, 2017-2020 	
+character=Mikkel Nielsen	name=Daan Lennard Liebrenz	episodes=14 episodes, 2017-2020 	
+character=Elisabeth Doppler	name=Carlotta von Falkenhayn	episodes=14 episodes, 2017-2020 	
+character=Adam	name=Dietrich Hollinderbäumer	episodes=13 episodes, 2019-2020 	
+character=Noah	name=Mark Waschke	episodes=13 episodes, 2017-2020 	
+character=Torben Wöller	name=Leopold Hornung	episodes=13 episodes, 2017-2020 	
+character=Egon Tiedemann 1986	name=Christian Pätzold	episodes=12 episodes, 2017-2020 	
+character=Helge Doppler	name=Hermann Beyer	episodes=10 episodes, 2017-2020 	
+character=H.G. Tannhaus 1986	name=Christian Steyer	episodes=10 episodes, 2017-2020 	
+character=Doris	name=Tamar Pelzig	episodes=10 episodes, 2017-2019 	
+character=The Stranger	name=Will Beinbrink	episodes=10 episodes, 2017-2019 	
+character=Claudia Tiedemann	name=Lisa Kreuzer	episodes=9 episodes, 2017-2020 	
+character=Ines Kahnwald 1986	name=Anne Ratte-Polle	episodes=9 episodes, 2017-2020 	
+character=Tronte Nielsen	name=Walter Kreye	episodes=8 episodes, 2017-2020 	
+character=Regina Tiedemann 1986	name=Lydia Maria Makrides	episodes=8 episodes, 2017-2020 	
+character=Katharina Nielsen 1986	name=Nele Trebs	episodes=8 episodes, 2017-2020 	
+character=Jana Nielsen	name=Tatja Seibt	episodes=8 episodes, 2017-2019 	
+character=Girl from the Future	name=Lea van Acken	episodes=7 episodes, 2017-2020 	
+character=Young Noah	name=Max Schimmelpfennig	episodes=7 episodes, 2019-2020 	
+character=Hannah Kahnwald 1986	name=Ella Lee	episodes=7 episodes, 2017-2020 	
+character=Helge Doppler 1953	name=Tom Philipp	episodes=8 episodes, 2017-2020 	
+character=Helge Doppler 1986	name=Peter Schneider	episodes=7 episodes, 2017-2020 	
+character=Elisabeth Doppler 2053	name=Sandra Borgmann	episodes=7 episodes, 2019-2020 	
+character=Adult Franziska Doppler	name=Carina Wiese	episodes=7 episodes, 2019-2020 	
+character=Police Officer Jankowski	name=Mieke Schymura	episodes=7 episodes, 2017-2020 	
+character=Eva	name=Barbara Nüsse	episodes=6 episodes, 2020 	
+character=Benni	name=Anton Rubtsov	episodes=7 episodes, 2017-2020 	
+character=Secretary Jasmin Trewen	name=Lea Willkowsky	episodes=7 episodes, 2017-2020 	
+character=Adult Unknown	name=Jakob Diehl	episodes=6 episodes, 2020 	
+character=Investigator Clausen	name=Sylvester Groth	episodes=6 episodes, 2019 	
+character=Old Unknown	name=Hans Diehl	episodes=6 episodes, 2020 	
+character=Ulrich Nielsen 1986	name=Ludger Bökelmann	episodes=6 episodes, 2017-2020 	
+character=Egon Tiedemann 1953	name=Sebastian Hülk	episodes=7 episodes, 2017-2020 	
+character=Young Unknown	name=Claude Heinrich	episodes=6 episodes, 2020 	
+character=H.G. Tannhaus 1953	name=Arnd Klawitter	episodes=6 episodes, 2017-2020 	
+character=Agnes Nielsen	name=Antje Traue	episodes=7 episodes, 2017-2020 	
+character=Greta Doppler 1953	name=Cordelia Wege	episodes=6 episodes, 2017-2020 	
+character=Michael Kahnwald	name=Sebastian Rudolph	episodes=6 episodes, 2017-2020 	
+character=Daniel Kahnwald	name=Florian Panzner	episodes=6 episodes, 2017-2020 	
+character=Female Stranger	name=Nina Kronjäger	episodes=5 episodes, 2020 	
+character=Ines Kahnwald	name=Angela Winkler	episodes=5 episodes, 2017 	
+character=Adult Magnus Nielsen	name=Wolfram Koch	episodes=5 episodes, 2019-2020 	
+character=Old Ulrich Nielsen 1987	name=Winfried Glatzeder	episodes=5 episodes, 2019-2020 	
+character=Doris Tiedemann	name=Luise Heyer	episodes=5 episodes, 2017-2020 	
+character=Jürgen Obendorf	name=Tom Jahn	episodes=5 episodes, 2017-2020 	
+character=Claudia Tiedemann 1953	name=Gwendolyn Göbel	episodes=4 episodes, 2017-2020 	
+character=Charlotte Doppler 1986	name=Stephanie Amarell	episodes=4 episodes, 2017-2020 	
+character=Tronte Nielsen 1953	name=Joshio Marlon	episodes=4 episodes, 2017-2020 	
+character=Jana Nielsen 1986	name=Anne Lebinsky	episodes=4 episodes, 2017-2020 	
+character=Tronte Nielsen 1986	name=Felix Kramer	episodes=4 episodes, 2017-2020 	
+character=Bernd Doppler 1953	name=Anatole Taubman	episodes=4 episodes, 2017-2020 	
+character=Bernd Doppler 1986	name=Michael Mendl	episodes=4 episodes, 2017-2020 	
+character=Pathologist Edda Heimann	name=Anna König	episodes=4 episodes, 2017-2020 	
+character=Girl in School	name=Tara Fischer	episodes=4 episodes, 2017-2020 	
+character=Adult Bartosz Tiedemann	name=Roman Knizka	episodes=3 episodes, 2019-2020 	
+character=Kilian Obendorf	name=Sammy Scheuritzel	episodes=3 episodes, 2017-2020 	
+character=Jana Nielsen 1953	name=Rike Sindler	episodes=3 episodes, 2017-2020 	
+character=Yasin Friese	name=Vico Mücke	episodes=3 episodes, 2017 	
+character=Helene Albers	name=Katharina Spiering	episodes=3 episodes, 2019-2020 	
+character=Teacher	name=Nils Brunkhorst	episodes=3 episodes, 2017-2020 	
+character=Ines Kahnwald 1953	name=Lena Urzendowsky	episodes=3 episodes, 2017-2020 	
+character=Erik Obendorf	name=Paul Radom	episodes=3 episodes, 2017 	
+character=Police Officer 1954	name=Roland Wolf	episodes=3 episodes, 2017-2019 	
+character=Nurse Clara Schrage	name=Lena Dörrie	episodes=3 episodes, 2017 	
+character=Gustav Tannhaus	name=Axel Werner	episodes=2 episodes, 2020 	
+character=Farmer Hermann Albers	name=Thomas Arnold	episodes=2 episodes, 2017-2020 	
+character=Martin Döhring	name=Franz Hartwig	episodes=2 episodes, 2017-2020 	
+character=Sebastian Krüger	name=Denis Schmidt	episodes=2 episodes, 2017 	
+character=Pathologist Udo Meier	name=Henning Peker	episodes=2 episodes, 2017-2019 	
+character=Nurse Donata	name=Anna Schönberg	episodes=2 episodes, 2017 	
+character=Powerplant Worker 	name=Andreas Schröders	episodes=2 episodes, 2019 	
+character=Adult Erna	name=Tilla Kratochwil	episodes=2 episodes, 2019-2020 	
+character=Caseworker Selma Ahrens	name=Barbara Philipp	episodes=2 episodes, 2017 	
+character=Mads Nielsen	name=Valentin Oppermann	episodes=1 episode, 2017 	
+character=Agnes Nielsen 1921	name=Helena Pieske	episodes=1 episode, 2019 	
+character=Young Peter Doppler	name=Pablo Striebeck	episodes=1 episode, 2020 	
+character=Nurse Anne Reisch	name=Eva Maria Jost	episodes=1 episode, 2017 	
+character=Theater	name=Leon Lukas Blaschke	episodes=1 episode, 2017 	
+character=Student 	name=Leon Lukas Blaschke	episodes=1 episode, 2017 	
+character=Bully 	name=Nino Böhlau	episodes=1 episode, 2017 	
+character=Ulla Obendorf	name=Jennipher Antoni	episodes=1 episode, 2017 	
+character=Bully 	name=Lenz Lengers	episodes=1 episode, 2017 	
+character=Mother	name=Helena Abay	episodes=1 episode, 2017 	
+character=Yasin	name=Helena Abay	episodes=1 episode, 2017 	
+character=School for the Deaf Teacher	name=Nina Weniger	episodes=1 episode, 2017 	
+character=Male Nurse Psychiatry	name=Eric Bouwer	episodes=1 episode, 2019 	
+character=Bus Driver	name=Moritz Heinlin	episodes=1 episode, 2020 	
+character=Farmer 	name=Hendrik Heutmann	episodes=1 episode, 2019 	
+character=Prison Guard 1954	name=Jörg Malchow	episodes=1 episode, 2019 	
+character=Burglar	name=Isaak Dentler	episodes=1 episode, 2020 	
+character=Father	name=Werner Wölbern	episodes=1 episode, 2020 	
+character=Gustav Tannhaus	name=Werner Wölbern	episodes=1 episode, 2020 	
+character=Farmer 	name=Oliver Bigalke	episodes=1 episode, 2019 	
+character=Powerplant Worker 	name=Christian Kerepeszki	episodes=1 episode, 2019 	
+character=Nurse	name=Lisa-Marie Janke	episodes=1 episode, 2019 	
+character=Doctor	name=Holger Handtke	episodes=1 episode, 2020 	
+character=Young Gustav Tannhaus	name=Linus Fischer	episodes=1 episode, 2020 	
+character=Woman Search Party	name=Cornelia Lippert	episodes=1 episode, 2017 	
+character=Labratory Technician	name=Arne Fiedler	episodes=1 episode, 2019 	
+character=Mayor of Winden	name=Michael Schenk	episodes=1 episode, 2020 	
+character=Drama Teacher	name=Natascha Paulick	episodes=1 episode, 2020 	
+character=Dr. Reimann	name=Hannes Wegener	episodes=1 episode, 2017 	
+character=Power Plant Security Guard	name=Alexander Schubert	episodes=1 episode, 2019 	
+character=Veterinarian Dr. Schaller	name=Luc Feit	episodes=1 episode, 2017 	
+character=Library Employee	name=Michael Ihnow	episodes=1 episode, 2019 	
+character=Library Student	name=Paula Kroh	episodes=1 episode, 2019 	
+character=Regina	name=Christian Kuchenbuch	episodes=1 episode, 2019 	
+character=Doctor	name=Christian Kuchenbuch	episodes=1 episode, 2019 	
+character=Marek Tannhaus	name=Merlin Rose	episodes=1 episode, 2020 	
+character=Young Erna	name=Anja Willutzki	episodes=1 episode, 2020 	
+character=Scientist in Future	name=Frédéric Vonhof	episodes=1 episode, 2019 	
+character=Sonja Tannhaus	name=Svenja Jung	episodes=1 episode, 2020 	
+character=Child Noah	name=Till Patz	episodes=1 episode, 2020 	
+character=Adult Silja Tiedemann	name=Lissy Pernthaler	episodes=1 episode, 2020 	
+character=Child Martha Nielsen	name=Luna Arwen Krüger	episodes=1 episode, 2020 	
+character=Soldier Checkpoint	name=Maximilian Dirr	episodes=1 episode, 2020 	
+character=Child Jonas Kahnwald	name=Jonas Gerzabek	episodes=1 episode, 2020 	
+character=Child Silja	name=Aurora Dervisi	episodes=1 episode, 2020 	
+character=Soldier in Tent	name=Anjorka Strechel	episodes=1 episode, 2020 	
+character=Mercenary 2053	name=Chris Theisinger	episodes=1 episode, 2019 	
+character=Teacher	name=Mandy M. Haupert	episodes=2 episodes, 2017-2019 	
+character=Police Officer	name=Frederik Klaus	episodes=2 episodes, 2017-2019 	
+character=Army Officer	name=David Brückner	episodes=2 episodes, 2020 	
+character=School Girl	name=Annika	episodes=1 episode, 2017 	
+character=Captain on Horse	name=Joachim Paul Assböck	episodes=1 episode, 2019 	

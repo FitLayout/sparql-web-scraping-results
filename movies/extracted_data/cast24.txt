@@ -1,0 +1,91 @@
+# http://fitlayout.github.io/resource/art24 -> https://www.imdb.com/title/tt1399664/fullcredits/
+character=Richard Roper	name=Hugh Laurie	episodes=6 episodes, 2016 	
+character=Jonathan Pine	name=Tom Hiddleston	episodes=6 episodes, 2016 	
+character=Jed Marshall	name=Elizabeth Debicki	episodes=6 episodes, 2016 	
+character=Angela Burr	name=Olivia Colman	episodes=6 episodes, 2016 	
+character=Sandy Langbourne	name=Alistair Petrie	episodes=6 episodes, 2016 	
+character=Frisky	name=Michael Nardone	episodes=6 episodes, 2016 	
+character=Tabby	name=Hovik Keuchkerian	episodes=6 episodes, 2016 	
+character=Rob Singhal	name=Adeel Akhtar	episodes=5 episodes, 2016 	
+character=Lance Corkoran	name=Tom Hollander	episodes=5 episodes, 2016 	
+character=Rex Mayhew	name=Douglas Hodge	episodes=5 episodes, 2016 	
+character=Joel Steadman	name=David Harewood	episodes=5 episodes, 2016 	
+character=Geoffrey Dromgoole	name=Tobias Menzies	episodes=5 episodes, 2016 	
+character=Caroline Langbourne	name=Natasha Little	episodes=4 episodes, 2016 	
+character=Juan Apostol	name=Antonio de la Torre	episodes=4 episodes, 2016 	
+character=Daniel Roper	name=Noah Jupe	episodes=3 episodes, 2016 	
+character=Permanent Secretary	name=Katherine Kelly	episodes=3 episodes, 2016 	
+character=Omar Barghati	name=Nasser Memarzia	episodes=3 episodes, 2016 	
+character=Grace	name=Simona Brown	episodes=3 episodes, 2016 	
+character=Pearl	name=Buffy Davis	episodes=3 episodes, 2016 	
+character=Raymond Galt	name=Jonathan Aris	episodes=3 episodes, 2016 	
+character=Harry Palfrey	name=Neil Morrissey	episodes=3 episodes, 2016 	
+character=Mercedes	name=Marta Torné	episodes=3 episodes, 2016 	
+character=Youssef	name=Amir El-Masry	episodes=2 episodes, 2016 	
+character=Freddie Hamid	name=David Avery	episodes=2 episodes, 2016 	
+character=Elena Apostol	name=Tábata Cerezo	episodes=2 episodes, 2016 	
+character=Sophie Alekan	name=Aure Atika	episodes=2 episodes, 2016 	
+character=Nanny	name=Alice Bier Zanden	episodes=2 episodes, 2016 	
+character=Jasper	name=Sam Redford	episodes=2 episodes, 2016 	
+character=Hector Jimenez	name=Gabriel Andreu	episodes=2 episodes, 2016 	
+character=Jed	name=Nancy Baldwin	episodes=1 episode, 2016 	
+character=Mother	name=Nancy Baldwin	episodes=1 episode, 2016 	
+character=Barbara Vandon	name=Sara Stewart	episodes=1 episode, 2016 	
+character=Apostol	name=Esther Regina	episodes=1 episode, 2016 	
+character=Housekeeper	name=Esther Regina	episodes=1 episode, 2016 	
+character=Addict	name=Tressa Brooks	episodes=1 episode, 2016 	
+character=Ahmer	name=Aymen Hamdouchi	episodes=1 episode, 2016 	
+character=Maitre D	name=Nader Boussandel	episodes=1 episode, 2016 	
+character=American Woman	name=Holly Hayes	episodes=1 episode, 2016 	
+character=Egyptian Youth	name=Aziz Dhiouer	episodes=1 episode, 2016 	
+character=Madrid Waiter	name=Salvador Oliva	episodes=1 episode, 2016 	
+character=Simon Ogilvey	name=Russell Tovey	episodes=1 episode, 2016 	
+character=Military Courier	name=Mohamed Boussalem	episodes=1 episode, 2016 	
+character=British Squaddie	name=Branwell Donaghey	episodes=1 episode, 2016 	
+character=Head Waiter Jorge	name=Gregor Acuña-Pohl	episodes=1 episode, 2016 	
+character=Albanian 1	name=Mario de la Rosa	episodes=1 episode, 2016 	
+character=Latvian Soldier	name=Alex Delescu	episodes=1 episode, 2016 	
+character=Albanian 2	name=Sean Adames	episodes=1 episode, 2016 	
+character=Tailor	name=Bartholomew Cariss	episodes=1 episode, 2016 	
+character=Egyptian Police Officer	name=Mansour Badri	episodes=1 episode, 2016 	
+character=Herr Strippli	name=Erich Redman	episodes=1 episode, 2016 	
+character=Kouyami	name=Bijan Daneshmand	episodes=1 episode, 2016 	
+character=Head Waiter	name=Jorge Suquet	episodes=1 episode, 2016 	
+character=Fraulein Vipp	name=Gertrude Thoma	episodes=1 episode, 2016 	
+character=Roper	name=Andie Betty	episodes=1 episode, 2016 	
+character=Waiter	name=Cuco Usín	episodes=1 episode, 2016 	
+character=Marilyn	name=Hannah Steele	episodes=1 episode, 2016 	
+character=Mr. Burr	name=Malcolm Freeman	episodes=1 episode, 2016 	
+character=Ice Cream Vendor	name=Casimiro Torrero	episodes=1 episode, 2016 	
+character=Jacob Dodridge	name=Conor McCarry	episodes=1 episode, 2016 	
+character=Egyptian Singer	name=Amal Chakir	episodes=1 episode, 2016 	
+character=Priest	name=José Luis Moreno	episodes=1 episode, 2016 	
+character=Jacob	name=Beth Walker	episodes=1 episode, 2016 	
+character=Talyan	name=Yahyaoui Mohamed	episodes=1 episode, 2016 	
+character=Charles Narramore	name=Duncan Pow	episodes=1 episode, 2016 	
+character=Cengiz	name=Said Bey	episodes=1 episode, 2016 	
+character=Turkish Taxi Driver	name=Umit Ulgen	episodes=1 episode, 2016 	
+character=Night Manager	name=Mourad Zaoui	episodes=1 episode, 2016 	
+character=Alfred	name=Eric MacLennan	episodes=1 episode, 2016 	
+character=IEA Officer Gardener	name=Loughlin	episodes=1 episode, 2016 	
+character=IEA Officer Gardener	name=Kevin O	episodes=1 episode, 2016 	
+character=Secretary	name=Abigail McKern	episodes=1 episode, 2016 	
+character=Mayhew	name=Abigail McKern	episodes=1 episode, 2016 	
+character=Maggie	name=Fleur Keith	episodes=1 episode, 2016 	
+character=Friend	name=Abdelmoula Hadif	episodes=1 episode, 2016 	
+character=Ahmer	name=Abdelmoula Hadif	episodes=1 episode, 2016 	
+character=Port Security	name=Kader Ben	episodes=1 episode, 2016 	
+character=Barry Harlow	name=Harry Attwell	episodes=1 episode, 2016 	
+character=Turkish Lawyer	name=Rami Nasr	episodes=1 episode, 2016 	
+character=Police Officer	name=Caroline Loncq	episodes=1 episode, 2016 	
+character=Swiss Banker	name=Gido Schimanski	episodes=1 episode, 2016 	
+character=Latvian Leader	name=Andrei Zayats	episodes=1 episode, 2016 	
+character=PA	name=Emily Stride	episodes=1 episode, 2016 	
+character=Diner	name=John le Carré	episodes=1 episode, 2016 	
+character=Arabic Newscaster	name=Walles Hamonde	episodes=1 episode, 2016 	
+character=Mario the Head Doorman	name=Marian Lorencik	episodes=1 episode, 2016 	
+character=Maid	name=Lauren Beacham	episodes=1 episode, 2016 	
+character=Passerby	name=Janette Sharpe	episodes=1 episode, 2016 	
+character=Receptionist	name=Said Taibi	episodes=1 episode, 2016 	
+character=Waiter	name=Pascal Holzer	episodes=1 episode, 2016 	
+character=Benito	name=Adrian Tauss	episodes=1 episode, 2016 	

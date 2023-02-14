@@ -1,0 +1,430 @@
+# http://fitlayout.github.io/resource/art13 -> https://www.imdb.com/title/tt0903747/fullcredits/
+character=Walter White	name=Bryan Cranston	episodes=62 episodes, 2008-2013 	
+character=Skyler White	name=Anna Gunn	episodes=62 episodes, 2008-2013 	
+character=Jesse Pinkman	name=Aaron Paul	episodes=62 episodes, 2008-2013 	
+character=Marie Schrader	name=Betsy Brandt	episodes=62 episodes, 2008-2013 	
+character=Walter White, Jr.	name=RJ Mitte	episodes=62 episodes, 2008-2013 	
+character=Hank Schrader	name=Dean Norris	episodes=62 episodes, 2008-2013 	
+character=Saul Goodman	name=Bob Odenkirk	episodes=43 episodes, 2009-2013 	
+character=Steven Gomez	name=Steven Michael Quezada	episodes=33 episodes, 2008-2013 	
+character=Mike Ehrmantraut	name=Jonathan Banks	episodes=28 episodes, 2009-2012 	
+character=Gus Fring	name=Giancarlo Esposito	episodes=26 episodes, 2009-2011 	
+character=Skinny Pete	name=Charles Baker	episodes=15 episodes, 2008-2013 	
+character=Todd	name=Jesse Plemons	episodes=13 episodes, 2012-2013 	
+character=Ted Beneke	name=Christopher Cousins	episodes=13 episodes, 2009-2012 	
+character=Lydia Rodarte-Quayle	name=Laura Fraser	episodes=12 episodes, 2012-2013 	
+character=Badger	name=Matt Jones	episodes=12 episodes, 2008-2013 	
+character=ASAC George Merkert	name=Michael Shamus Wiles	episodes=11 episodes, 2009-2012 	
+character=Huell	name=Lavell Crawford	episodes=11 episodes, 2011-2013 	
+character=Tyrus Kitt	name=Ray Campbell	episodes=10 episodes, 2011 	
+character=Jane Margolis	name=Krysten Ritter	episodes=9 episodes, 2009-2010 	
+character=Carmen Molina	name=Carmen Serano	episodes=9 episodes, 2008-2013 	
+character=Andrea Cantillo	name=Emily Rios	episodes=9 episodes, 2010-2013 	
+character=Francesca	name=Tina Parker	episodes=9 episodes, 2009-2013 	
+character=Tio Salamanca	name=Mark Margolis	episodes=8 episodes, 2009-2011 	
+character=Victor	name=Jeremiah Bitsui	episodes=8 episodes, 2009-2011 	
+character=Brock Cantillo	name=Ian Posada	episodes=8 episodes, 2010-2013 	
+character=Gale Boetticher	name=David Costabile	episodes=7 episodes, 2010-2011 	
+character=Uncle Jack	name=Michael Bowen	episodes=7 episodes, 2012-2013 	
+character=Dr. Delcavoli	name=David House	episodes=7 episodes, 2008-2009 	
+character=Kenny	name=Kevin Rankin	episodes=7 episodes, 2012-2013 	
+character=Leonel Salamanca	name=Daniel Moncada	episodes=6 episodes, 2010-2011 	
+character=Frankie	name=Patrick Sane	episodes=6 episodes, 2012-2013 	
+character=Holly White	name=Moira Bryg MacDonald	episodes=1 episode, 2013 	
+character=Gretchen Schwartz	name=Jessica Hecht	episodes=5 episodes, 2008-2013 	
+character=Kuby	name=Bill Burr	episodes=5 episodes, 2011-2013 	
+character=Bogdan Wolynetz	name=Marius Stan	episodes=5 episodes, 2008-2011 	
+character=Combo	name=Rodney Rush	episodes=5 episodes, 2008-2010 	
+character=SAC Ramey	name=Todd Terry	episodes=5 episodes, 2009-2013 	
+character=Marco Salamanca	name=Luis Moncada	episodes=5 episodes, 2010 	
+character=Kaylee Ehrmantraut	name=Kaija Bales	episodes=5 episodes, 2010-2012 	
+character=Lester	name=Tait Fletcher	episodes=5 episodes, 2013 	
+character=Matt	name=Matthew T. Metzler	episodes=5 episodes, 2013 	
+character=Tuco Salamanca	name=Raymond Cruz	episodes=4 episodes, 2008-2009 	
+character=Mrs. Pinkman	name=Tess Harper	episodes=4 episodes, 2008-2010 	
+character=Donald Margolis	name=John de Lancie	episodes=4 episodes, 2009-2010 	
+character=Group Leader	name=Jere Burns	episodes=4 episodes, 2010-2011 	
+character=APD Detective Tim Roberts	name=Nigel Gibbs	episodes=4 episodes, 2009-2011 	
+character=Clovis	name=Tom Kiesche	episodes=4 episodes, 2009-2010 	
+character=Gaff	name=Maurice Compte	episodes=4 episodes, 2011 	
+character=Driver	name=Morse Bicknell	episodes=4 episodes, 2012-2013 	
+character=Declan	name=Morse Bicknell	episodes=4 episodes, 2012-2013 	
+character=Chris Mara	name=Christopher King	episodes=1 episode, 2011-2012 	
+character=Krazy-8	name=Max Arciniega	episodes=3 episodes, 2008 	
+character=Mr. Pinkman	name=Michael Bofshever	episodes=3 episodes, 2008-2010 	
+character=Elliott Schwartz	name=Adam Godley	episodes=3 episodes, 2008-2013 	
+character=Pamela	name=Julie Dretzin	episodes=3 episodes, 2010 	
+character=No-Doze	name=Jesus Jr.	episodes=3 episodes, 2008-2009 	
+character=Declan	name=Louis Ferreira	episodes=3 episodes, 2012-2013 	
+character=Gonzo	name=Cesar Garcia	episodes=3 episodes, 2008-2009 	
+character=Wendy	name=Julia Minesci	episodes=3 episodes, 2008-2010 	
+character=Dennis Markowski	name=Mike Batayeh	episodes=3 episodes, 2011-2012 	
+character=Juan Bolsa	name=Javier Grajeda	episodes=3 episodes, 2010-2011 	
+character=Tomas	name=Angelo Martinez	episodes=3 episodes, 2009-2010 	
+character=Detective Kalanchoe	name=Gonzalo Menendez	episodes=3 episodes, 2011-2013 	
+character=Dan Wachsberger	name=Chris Freihofer	episodes=3 episodes, 2012 	
+character=Rival Dealer 	name=Mike Seal	episodes=3 episodes, 2009-2010 	
+character=E.M.T.	name=Christopher Dempsey	episodes=3 episodes, 2008-2010 	
+character=Pollos Manager	name=Ashley Kajiki	episodes=3 episodes, 2009-2011 	
+character=Janice	name=Mary Sue Evans	episodes=3 episodes, 2010-2013 	
+character=Detective Munn	name=Jason Douglas	episodes=3 episodes, 2011-2013 	
+character=Rival Dealer 	name=Antonio Leyba	episodes=3 episodes, 2009-2010 	
+character=Emilio	name=John Koyama	episodes=2 episodes, 2008 	
+character=Tortuga	name=Danny Trejo	episodes=2 episodes, 2009-2010 	
+character=Woman	name=Dale Dickey	episodes=2 episodes, 2009 	
+character=Spooge	name=Dale Dickey	episodes=2 episodes, 2009 	
+character=Spooge	name=David Ury	episodes=2 episodes, 2009 	
+character=Lawson	name=Jim Beaver	episodes=2 episodes, 2011-2012 	
+character=Dr. Victor Bravenec	name=Sam McMurray	episodes=2 episodes, 2009 	
+character=Mr. Gardiner	name=Dan Desmond	episodes=2 episodes, 2009-2010 	
+character=Sketchy	name=Jeremy Howard	episodes=2 episodes, 2011 	
+character=Old Joe	name=Larry Hankin	episodes=2 episodes, 2010-2012 	
+character=Dr. Barry Goodman	name=JB Blanc	episodes=2 episodes, 2011-2012 	
+character=Ben	name=Jason Byrd	episodes=2 episodes, 2008 	
+character=Duane Chow	name=James Ning	episodes=2 episodes, 2010-2012 	
+character=Ron Forenall	name=Russ Dillen	episodes=2 episodes, 2012 	
+character=Barry	name=Jonathan Ragsdale	episodes=2 episodes, 2009-2010 	
+character=Don Eladio	name=Steven Bauer	episodes=2 episodes, 2011 	
+character=Drew Sharp	name=Sam Webb	episodes=2 episodes, 2012 	
+character=Office Manager	name=Judith Rane	episodes=2 episodes, 2008-2009 	
+character=Louis	name=Caleb Landry Jones	episodes=2 episodes, 2009-2010 	
+character=Receptionist	name=Catherine Haun	episodes=2 episodes, 2009-2010 	
+character=Grandma	name=Virginia Montero	episodes=2 episodes, 2010-2011 	
+character=Security Team 2	name=Eric Steinig	episodes=2 episodes, 2011 	
+character=Mike	name=Eric Steinig	episodes=2 episodes, 2011 	
+character=Mariano	name=Pedro García	episodes=2 episodes, 2013 	
+character=DEA Agent	name=Phil Duran	episodes=2 episodes, 2012-2013 	
+character=TV Reporter	name=Antoinette Antonio	episodes=2 episodes, 2012 	
+character=Fernando	name=Miguel Martinez	episodes=2 episodes, 2012 	
+character=Big Biker	name=John Christopher Hicks	episodes=2 episodes, 2009-2011 	
+character=Cartel Henchman	name=Lou Pimber	episodes=2 episodes, 2011 	
+character=DEA Agent	name=Matt Berlin	episodes=2 episodes, 2011 	
+character=Anchor 	name=Dana Cortez	episodes=2 episodes, 2009-2010 	
+character=DEA Agent Scott	name=Joe Nemmers	episodes=2 episodes, 2013 	
+character=DEA Point Man	name=David Priemazon	episodes=2 episodes, 2009-2013 	
+character=Henchman	name=Mark Vasconcellos	episodes=1 episode, 2013 	
+character=Jack	name=Mark Vasconcellos	episodes=1 episode, 2013 	
+character=Getz	name=DJ Qualls	episodes=1 episode, 2009 	
+character=Dr. Chavez	name=Harry Groener	episodes=1 episode, 2009 	
+character=Realtor	name=Beth Bailey	episodes=1 episode, 2008 	
+character=Ob-Gyn	name=Shane Marinson	episodes=1 episode, 2008 	
+character=Lt. Adam Estiguez	name=Fred Cruz	episodes=1 episode, 2012 	
+character=Ken Wins	name=Kyle Bornheimer	episodes=1 episode, 2008 	
+character=Police Officer	name=Geoffrey Rivas	episodes=1 episode, 2008 	
+character=Manager	name=William Sterchi	episodes=1 episode, 2008 	
+character=Hugo Archuleta	name=Pierre Barrera	episodes=1 episode, 2008 	
+character=Urinal Guy	name=Jeff Fenter	episodes=1 episode, 2009 	
+character=Jock	name=Aaron Hill	episodes=1 episode, 2008 	
+character=Jake Pinkman	name=Benjamin Petry	episodes=1 episode, 2008 	
+character=Sales Girl	name=Anna Felix	episodes=1 episode, 2008 	
+character=Farley	name=Marc Mouchet	episodes=1 episode, 2008 	
+character=Backhoe Operator	name=Anthony Wamego	episodes=1 episode, 2008 	
+character=Rowdy Prisoner	name=Isaac Kappy	episodes=1 episode, 2009 	
+character=Paul Tyree	name=Drew Waters	episodes=1 episode, 2009 	
+character=Technician	name=Marcus M. Mauldin	episodes=1 episode, 2009 	
+character=Tattooed Biker	name=Tomas Potts	episodes=1 episode, 2009 	
+character=Arms Dealer	name=Nate Mooney	episodes=1 episode, 2010 	
+character=Scary Skell	name=Damon Herriman	episodes=1 episode, 2011 	
+character=Stephanie Doswell	name=Jennifer Hasty	episodes=1 episode, 2011 	
+character=Server	name=Kiira Arai	episodes=1 episode, 2008 	
+character=Dr. Belknap	name=Gregory Chase	episodes=1 episode, 2008 	
+character=Neighborhood Kid	name=Ryan Lee	episodes=1 episode, 2009 	
+character=Young Boy	name=Dylan Carr	episodes=1 episode, 2009 	
+character=Sara Tyree	name=Shauna McLean	episodes=1 episode, 2009 	
+character=Tattooed Woman	name=Cyd Schulte	episodes=1 episode, 2009 	
+character=Bob	name=Carl Savering	episodes=1 episode, 2009 	
+character=Realtor	name=Louis Herthum	episodes=1 episode, 2010 	
+character=Mrs. Ortega	name=Carole Gutierrez	episodes=1 episode, 2010 	
+character=Benicio Fuentes	name=Carlo Rota	episodes=1 episode, 2011 	
+character=Tucker	name=Blake Berris	episodes=1 episode, 2011 	
+character=CID Special Agent	name=Rob Brownstein	episodes=1 episode, 2011 	
+character=Peter Schuler	name=Norbert Weisser	episodes=1 episode, 2012 	
+character=Scientist	name=Bill Allen	episodes=1 episode, 2008 	
+character=Meth Drug Dealer	name=Daniel Serrano	episodes=1 episode, 2008 	
+character=DEA Agent	name=Jon Kristian Moore	episodes=1 episode, 2008 	
+character=Detective	name=Vic Browder	episodes=1 episode, 2009 	
+character=Tweaky Dude	name=Shannon McCormick	episodes=1 episode, 2009 	
+character=Young Boy	name=Brandon Carr	episodes=1 episode, 2009 	
+character=DEA Agent Vanco	name=J.D. Garfield	episodes=1 episode, 2009 	
+character=James Edward Kilkelly	name=Jimmy Daniels	episodes=1 episode, 2009 	
+character=Addict	name=Tony Whitecrow	episodes=1 episode, 2009 	
+character=Henry Tyree	name=Liam Ruggles	episodes=1 episode, 2009 	
+character=Doctor	name=Mark Harelik	episodes=1 episode, 2010 	
+character=Doctor	name=Michael Bryan French	episodes=1 episode, 2010 	
+character=Tweaker Thief	name=Frank Andrade	episodes=1 episode, 2011 	
+character=Mortgage Broker	name=Rutherford Cravens	episodes=1 episode, 2011 	
+character=Conductor	name=Jamie McShane	episodes=1 episode, 2012 	
+character=Herr Herzog	name=Wolf Muser	episodes=1 episode, 2012 	
+character=Ira	name=Franc Ross	episodes=1 episode, 2012 	
+character=Secretary	name=Melissa McCurley	episodes=1 episode, 2012 	
+character=Dave	name=Bruce McKenzie	episodes=1 episode, 2013 	
+character=Music Producer	name=Loren Haynes	episodes=1 episode, 2008 	
+character=Jewelry Store Owner	name=Mike Miller	episodes=1 episode, 2008 	
+character=Mrs. Pope	name=Vivian Nesbitt	episodes=1 episode, 2008 	
+character=Chad	name=Evan Bobrick	episodes=1 episode, 2008 	
+character=Bank Teller	name=Tish Rayburn-Miller	episodes=1 episode, 2008 	
+character=Mail Lady	name=Cocoa Brown	episodes=1 episode, 2009 	
+character=Schlubby Guy 	name=Shenoah Allen	episodes=1 episode, 2009 	
+character=Thug Buddy	name=Ka Beesler	episodes=1 episode, 2009 	
+character=Nurse	name=Wendy Scott	episodes=1 episode, 2009 	
+character=Cara	name=Jolene Purdy	episodes=1 episode, 2010 	
+character=Young Marco	name=Ruben Munoz-Soto	episodes=1 episode, 2010 	
+character=Locksmith	name=John Lawlor	episodes=1 episode, 2011 	
+character=Caregiver	name=Myra Turley	episodes=1 episode, 2011 	
+character=Support Group Leader	name=Paul Neis	episodes=1 episode, 2011 	
+character=Car Wash Customer	name=Scott Sharot	episodes=1 episode, 2011 	
+character=Engineer	name=Myk Watford	episodes=1 episode, 2012 	
+character=Chief Food Technician	name=Carrington Vilmont	episodes=1 episode, 2012 	
+character=Duty Officer	name=James Harris	episodes=1 episode, 2012 	
+character=Locksmith	name=Wray Crawford	episodes=1 episode, 2013 	
+character=Girlfriend	name=Roberta Marquez Seret	episodes=1 episode, 2008 	
+character=Chad	name=Roberta Marquez Seret	episodes=1 episode, 2008 	
+character=Concerned Parent	name=Lorri Oliver	episodes=1 episode, 2008 	
+character=Louis	name=Kyle Swimmer	episodes=1 episode, 2008 	
+character=Federale	name=Rio Alexander	episodes=1 episode, 2009 	
+character=Schlubby Guy 	name=Drew Pollock	episodes=1 episode, 2009 	
+character=Jeffrey	name=Andrew Lutheran	episodes=1 episode, 2009 	
+character=Wino	name=Argos MacCallum	episodes=1 episode, 2009 	
+character=O.M.I. Attendant	name=Phil Howell	episodes=1 episode, 2009 	
+character=NA Sponsor	name=Erik J. Bockemeier	episodes=1 episode, 2009 	
+character=Sad Faced Girl	name=Taylor Dearden	episodes=1 episode, 2010 	
+character=Peng	name=Tiley Chao	episodes=1 episode, 2010 	
+character=Young Leonel	name=Victor Munoz-Soto	episodes=1 episode, 2010 	
+character=Neighbor	name=John Barbour	episodes=1 episode, 2011 	
+character=Morning After Girl	name=Brittany Gustin	episodes=1 episode, 2011 	
+character=Truck Guard 1	name=Jason E. Hill	episodes=1 episode, 2011 	
+character=Colleen	name=Fran Martone	episodes=1 episode, 2011 	
+character=Lucy	name=Monique Candelaria	episodes=1 episode, 2012-2013 	
+character=Dorothy Yobs	name=Kathleen Brady	episodes=1 episode, 2012 	
+character=Trent	name=Guy Wilson	episodes=1 episode, 2013 	
+character=Native American Man	name=Saginaw Grant	episodes=1 episode, 2013 	
+character=Carol	name=Cheryl Ford-Mente	episodes=1 episode, 2013 	
+character=Carpet Cleaner	name=Manny Rey	episodes=1 episode, 2013 	
+character=Student	name=Seri DeYoung	episodes=1 episode, 2008 	
+character=Soren	name=Robert Arrington	episodes=1 episode, 2008 	
+character=Concerned Parent	name=Kristen Loree	episodes=1 episode, 2008 	
+character=O.M.I. Officer	name=Juliet Lopez	episodes=1 episode, 2009 	
+character=Hot Chick Cop	name=Casey Cerutti	episodes=1 episode, 2009 	
+character=Emotional Woman	name=Robin Dearden	episodes=1 episode, 2010 	
+character=Cartel Gunman 	name=Eddie J. Fernandez	episodes=1 episode, 2010 	
+character=Policeman	name=Stoney Westmoreland	episodes=1 episode, 2010 	
+character=Union Rep	name=Michael Showers	episodes=1 episode, 2010 	
+character=Hospital Administrator	name=Cynthia Ruffin	episodes=1 episode, 2010 	
+character=Waitress	name=Amanda Schofield	episodes=1 episode, 2010 	
+character=Max Arciniega	name=James Martinez	episodes=1 episode, 2011 	
+character=Chuck	name=Tank Jones	episodes=1 episode, 2011 	
+character=Waiter	name=Rick A. Ortega Jr.	episodes=1 episode, 2011 	
+character=Support Group Member	name=J. Michael Oliva	episodes=1 episode, 2011 	
+character=Truck Guard 2	name=Henry Herman	episodes=1 episode, 2011 	
+character=Waitress	name=Victoria Aultman	episodes=1 episode, 2011 	
+character=Nurse	name=Gail Starr	episodes=1 episode, 2012 	
+character=AUSA	name=Brennan Brown	episodes=1 episode, 2013 	
+character=Detective 	name=Hank Rogerson	episodes=1 episode, 2013 	
+character=Min-Ye	name=Debi Parker	episodes=1 episode, 2013 	
+character=Carpet Cleaner 	name=Rafael Herrera	episodes=1 episode, 2013 	
+character=Lookout	name=Dennis Keiffer	episodes=1 episode, 2008 	
+character=Concerned Parent	name=Dave Colon	episodes=1 episode, 2008 	
+character=Off Duty Cop	name=Frederic Doss	episodes=1 episode, 2008 	
+character=Irving	name=Allan Pacheco	episodes=1 episode, 2008 	
+character=Local Correspondant	name=Kieran Sequoia	episodes=1 episode, 2009 	
+character=Dr. Soper	name=Kat Sawyer	episodes=1 episode, 2009 	
+character=Cartel Gunman 	name=Ben Hernandez Bray	episodes=1 episode, 2010 	
+character=Burnout	name=Mark Hanson	episodes=1 episode, 2010 	
+character=Orderly	name=Steve Corona	episodes=1 episode, 2010 	
+character=Stripper 	name=Erin Elliott	episodes=1 episode, 2010 	
+character=Commercial Narrator	name=Fernando Escandon	episodes=1 episode, 2010 	
+character=Wide Eyed Boy	name=Galen Hutchison	episodes=1 episode, 2010 	
+character=Preppy Shopper	name=Matthew Feight	episodes=1 episode, 2010 	
+character=First Realtor	name=Ralph Alderman	episodes=1 episode, 2011 	
+character=Security Team 1	name=Keith Meriweather	episodes=1 episode, 2011 	
+character=Mike	name=Keith Meriweather	episodes=1 episode, 2011 	
+character=Miguel	name=Stephen Eiland	episodes=1 episode, 2011 	
+character=DEA Agent	name=Phillip Hart	episodes=1 episode, 2012 	
+character=DEA Agent Artie	name=Chad Brummett	episodes=1 episode, 2013 	
+character=Public Defender	name=Eric Price	episodes=1 episode, 2013 	
+character=Detective 	name=Billy Lockwood	episodes=1 episode, 2013 	
+character=Kid	name=Sachie Capitani	episodes=1 episode, 2013 	
+character=Yuppie Woman	name=Carrie Fleming	episodes=1 episode, 2008 	
+character=Medical Technician	name=Juanita Trad	episodes=1 episode, 2008 	
+character=Agent Buddy	name=Lawrence Varnado	episodes=1 episode, 2009 	
+character=Nurse	name=Sheran Goodspeed Keyton	episodes=1 episode, 2009 	
+character=Tio	name=Sheran Goodspeed Keyton	episodes=1 episode, 2009 	
+character=GYN	name=Reis Myers McCormick	episodes=1 episode, 2009 	
+character=Business Community Leader 	name=Richard Williams	episodes=1 episode, 2009 	
+character=ABQ Detective 	name=Mark Sivertsen	episodes=1 episode, 2010 	
+character=Cartel Gunman 	name=Toby Holguin	episodes=1 episode, 2010 	
+character=Stripper 	name=Portia Cline	episodes=1 episode, 2010 	
+character=Friendly Guy	name=Jesus Mayorga	episodes=1 episode, 2010 	
+character=Client	name=Parker Sisty	episodes=1 episode, 2010 	
+character=Saul	name=Parker Sisty	episodes=1 episode, 2010 	
+character=Sexy Cartel Girl	name=Flora Amanda	episodes=1 episode, 2011 	
+character=Female Homeowner	name=Delana Michaels	episodes=1 episode, 2011 	
+character=Pediatric Nurse	name=T.C. Warner	episodes=1 episode, 2011 	
+character=Laundry Woman 1	name=Celia Anaya	episodes=1 episode, 2011 	
+character=Delores	name=Norma Maldonado	episodes=1 episode, 2012 	
+character=Ed	name=Robert Forster	episodes=1 episode, 2013 	
+character=Homeless Man	name=Jack Burning	episodes=1 episode, 2013 	
+character=Cop 	name=Patricio Delgado	episodes=1 episode, 2013 	
+character=Chemical Plant Guard	name=Matthew Page	episodes=1 episode, 2008 	
+character=Sexy Neighbor	name=Linda Speciale	episodes=1 episode, 2008 	
+character=Business Community Leader 	name=Daniel D. Halleck	episodes=1 episode, 2009 	
+character=Narcocorridos Band 	name=Gabriel Berrelleza	episodes=1 episode, 2009 	
+character=Restaurant Employee	name=Erin Miller-Gibbs	episodes=1 episode, 2009 	
+character=ER Doctor 	name=Lora Martinez-Cunningham	episodes=1 episode, 2010 	
+character=Cartel Gunman 	name=Eddie Perez	episodes=1 episode, 2010 	
+character=ABQ Detective 	name=Chris Ranney	episodes=1 episode, 2010 	
+character=Daughter	name=Lorél Medina	episodes=1 episode, 2010 	
+character=Pa Kettle	name=Michael McCormick	episodes=1 episode, 2010 	
+character=Deputy Kee	name=Jose Avila	episodes=1 episode, 2010 	
+character=Operative	name=Kevin Wiggins	episodes=1 episode, 2011 	
+character=Gus	name=Kevin Wiggins	episodes=1 episode, 2011 	
+character=Delivery Man	name=Jefferson Arca	episodes=1 episode, 2011 	
+character=Male Homeowner	name=Jonathan Richards	episodes=1 episode, 2011 	
+character=Laundry Woman 2	name=Maria L. Pardo	episodes=1 episode, 2011 	
+character=Fran	name=Debrianna Mansini	episodes=1 episode, 2012 	
+character=Good Samaritan	name=Ryan Begay	episodes=1 episode, 2012 	
+character=Homeless Man	name=Wayne Dehart	episodes=1 episode, 2013 	
+character=Waiter	name=Alex Gianopoulos	episodes=1 episode, 2013 	
+character=Customer	name=Millard Drexler	episodes=1 episode, 2013 	
+character=Cop 	name=Carlos Telles	episodes=1 episode, 2013 	
+character=Friend 	name=Jesus Ramirez	episodes=1 episode, 2008 	
+character=Jock	name=Jesus Ramirez	episodes=1 episode, 2008 	
+character=Prospective Buyer	name=Jacob O	episodes=1 episode, 2008 	
+character=Prospective Buyer	name=Brien Mulliken	episodes=1 episode, 2008 	
+character=Stew	name=Richard Christie	episodes=1 episode, 2009 	
+character=Supermarket Clerk	name=Ramsey Williams	episodes=1 episode, 2009 	
+character=Father	name=Mario Moreno	episodes=1 episode, 2010 	
+character=Realtor	name=Frank Bond	episodes=1 episode, 2010 	
+character=Ma Kettle	name=Kathy Rose Center	episodes=1 episode, 2010 	
+character=Cop	name=J. Taylor	episodes=1 episode, 2010 	
+character=OPR Official 	name=Steve Cormier	episodes=1 episode, 2010 	
+character=Beto	name=James Espinoza	episodes=1 episode, 2010 	
+character=EMT	name=Brian G. Lax	episodes=1 episode, 2010 	
+character=Physical Therapist	name=Rebecca Crago	episodes=1 episode, 2010 	
+character=Party Girl	name=Sarah Minnich	episodes=1 episode, 2011 	
+character=Cancer Patient	name=Michael Sheets	episodes=1 episode, 2011 	
+character=Dog Handler	name=Michael Valverde	episodes=1 episode, 2011 	
+character=News Reporter	name=Augusta Meyers	episodes=1 episode, 2011 	
+character=Laundry Woman 3	name=Veronica Jaquez	episodes=1 episode, 2011 	
+character=Partygoer	name=Stephen Braddock	episodes=1 episode, 2011 	
+character=Ms. Tromel	name=Trine Christensen	episodes=1 episode, 2012 	
+character=Darla	name=Kristin Hansen	episodes=1 episode, 2012 	
+character=Public Defender	name=Scott Ward	episodes=1 episode, 2012 	
+character=DEA Agent	name=Steve Stafford	episodes=1 episode, 2013 	
+character=Customer	name=Merritt C. Glover	episodes=1 episode, 2013 	
+character=Waitress	name=Caroline Patz	episodes=1 episode, 2013 	
+character=DEA Agent	name=Victoria Lease	episodes=1 episode, 2013 	
+character=Homeowner	name=Brett Shane Cooley	episodes=1 episode, 2013 	
+character=Mr. Wilson	name=Charles Dowdy III	episodes=1 episode, 2008 	
+character=Friend 	name=Joshua S. Patton	episodes=1 episode, 2008 	
+character=Jock	name=Joshua S. Patton	episodes=1 episode, 2008 	
+character=Nurse	name=Ravenna Fahey	episodes=1 episode, 2009 	
+character=Mother	name=Jiji Hise	episodes=1 episode, 2010 	
+character=Lead Doctor	name=John Welker	episodes=1 episode, 2010 	
+character=Mother	name=Maria Bethke	episodes=1 episode, 2010 	
+character=Rookie Officer	name=Daniel Champine	episodes=1 episode, 2010 	
+character=Screaming Shopper	name=Wendy Kostora	episodes=1 episode, 2010 	
+character=Commercial Voice Over	name=David Robinson Jr.	episodes=1 episode, 2011 	
+character=Little Old Lady	name=Lorenzita Anaya	episodes=1 episode, 2011 	
+character=Salesman	name=Alex Knight	episodes=1 episode, 2012 	
+character=Asst. US Attorney	name=Craig Nigh	episodes=1 episode, 2012 	
+character=Lawyer	name=Mathias Kaesebier	episodes=1 episode, 2012 	
+character=Skater	name=Ray Chavez	episodes=1 episode, 2013 	
+character=Beneke Employee 	name=Maggie Fine	episodes=1 episode, 2009 	
+character=Nurse	name=Trina E. Siopy	episodes=1 episode, 2010 	
+character=Bingo Lady	name=Shari Rhodes	episodes=1 episode, 2010 	
+character=APD Officer	name=Kevin Christopher Brown	episodes=1 episode, 2010 	
+character=Old Crawler	name=Cicelo Solano	episodes=1 episode, 2010 	
+character=Bingo Caller	name=Marty Smith	episodes=1 episode, 2011 	
+character=Homeowner	name=Mike Ostroski	episodes=1 episode, 2012 	
+character=Detective	name=Brennan Foster	episodes=1 episode, 2012 	
+character=Beneke Employee 	name=Kate Schroeder	episodes=1 episode, 2009 	
+character=Anchor 	name=Ashleigh Banfield	episodes=1 episode, 2010 	
+character=Friendly Agent	name=Ken Thomas	episodes=1 episode, 2010 	
+character=Radio DJ 	name=Erica Viking	episodes=1 episode, 2011 	
+character=Kiira	name=Lillian Presley Leyba	episodes=1 episode, 2012 	
+character=Anchor 	name=Marla Tellez	episodes=1 episode, 2010 	
+character=Doctor	name=Rosa Estrada	episodes=1 episode, 2010 	
+character=Radio DJ 	name=Steve Ruiz	episodes=1 episode, 2011 	
+character=Deputy 	name=Aaron Wright	episodes=1 episode, 2013 	
+character=Anchor 	name=Jeff Maher	episodes=1 episode, 2010 	
+character=Old Man	name=Michael Davis	episodes=1 episode, 2013 	
+character=Meth Cook	name=Kevin Owen McDonald	episodes=1 episode, 2013 	
+character=Waitress	name=Julianne Flores	episodes=1 episode, 2013 	
+character=Government Lawyer	name=William R. Stafford	episodes=1 episode, 2013 	
+character=School Office Worker	name=Deborah Martinez	episodes=1 episode, 2013 	
+character=Bartender	name=Kurt Soderstrom	episodes=1 episode, 2013 	
+character=Barfly	name=Carroll	episodes=1 episode, 2013 	
+character=Barfly	name=Leslie O	episodes=1 episode, 2013 	
+character=Charlie Rose	name=Charlie Rose	episodes=1 episode, 2013 	
+character=CarWash Patron	name=Martin Palmer	episodes=1 episode, 2011 	
+character=Office Worker	name=Karen M. Hudson	episodes=3 episodes, 2009-2010 	
+character=DEA Agent	name=Jamie Haqqani	episodes=3 episodes, 2009 	
+character=Cab Driver	name=Rodger Larance	episodes=3 episodes, 2010-2013 	
+character=Bad Girl	name=Tavia Schwartz	episodes=2 episodes, 2008-2009 	
+character=DEA	name=Timothy Holmes	episodes=2 episodes, 2010-2013 	
+character=Afro-Latino Sicario	name=Aaron Rogers	episodes=2 episodes, 2012 	
+character=DEA Agent Tom	name=Sergio Kato	episodes=1 episode, 2008 	
+character=Biker	name=Clark Sanchez	episodes=1 episode, 2008 	
+character=DEA Agent 	name=Ed Duran	episodes=1 episode, 2008 	
+character=Shopper	name=Samantha Anastasiou	episodes=1 episode, 2008 	
+character=Pedestrian	name=Peggy Ann O	episodes=1 episode, 2008 	
+character=Pedestrian	name=Neal	episodes=1 episode, 2008 	
+character=Bank Customer	name=Robert Anthony Brass	episodes=1 episode, 2008 	
+character=Teacher	name=Cliff Gravel	episodes=1 episode, 2008 	
+character=Parent	name=William E. Marshall	episodes=1 episode, 2008 	
+character=Neighborhood Boy	name=William T. Johnson	episodes=1 episode, 2008 	
+character=Chemistry Student	name=Benjamin Lax	episodes=1 episode, 2008 	
+character=Boy in Museum	name=Sebastian Tyler Rose	episodes=1 episode, 2009 	
+character=Lady in Car	name=Tina Borek	episodes=1 episode, 2009 	
+character=Corpse	name=David T. Quan	episodes=1 episode, 2009 	
+character=DEA Agent	name=Michael-David Aragon	episodes=1 episode, 2009 	
+character=Skycap	name=Malcolm Ullery	episodes=1 episode, 2009 	
+character=El Paso DEA Agent	name=Paul J. Porter	episodes=1 episode, 2009 	
+character=Look Out	name=Jon Reigle	episodes=1 episode, 2009 	
+character=Bar Fighter	name=Keith Jardine	episodes=1 episode, 2010 	
+character=High School Student	name=Lorena Fernández	episodes=1 episode, 2010 	
+character=Skell	name=Gary Ray Stearns	episodes=1 episode, 2010 	
+character=Rehab Group Girl	name=Laina Loucks	episodes=1 episode, 2010 	
+character=Teacher	name=Kathryn Dove	episodes=1 episode, 2010 	
+character=Rehab Patient	name=Erik Beacham	episodes=1 episode, 2010 	
+character=High School Student	name=Will Ontiveros	episodes=1 episode, 2010 	
+character=The Assassin	name=Joe Freeman	episodes=1 episode, 2010 	
+character=Nurse	name=Angela Blake	episodes=1 episode, 2010 	
+character=Restaurant Patron	name=Phil Arnold	episodes=1 episode, 2010 	
+character=Gunman 	name=Anthony Molinari	episodes=1 episode, 2011 	
+character=Gunman 	name=Marco Morales	episodes=1 episode, 2011 	
+character=Police Officer	name=Ruben Barela	episodes=1 episode, 2011 	
+character=Banger 	name=Anthony Martins	episodes=1 episode, 2011 	
+character=Female Employee	name=Tenaya Torres	episodes=1 episode, 2011 	
+character=Carwash Customer	name=Viola Valdez	episodes=1 episode, 2011 	
+character=Holly White	name=Haven Tomlin	episodes=1 episode, 2011 	
+character=Amber	name=Michelle Greathouse	episodes=1 episode, 2011 	
+character=DEA Agent	name=J.T. Richardson	episodes=1 episode, 2011 	
+character=Hospital Patient	name=Ricardo Andres	episodes=1 episode, 2011 	
+character=Car Wash Attendant	name=Grizelda Quintana	episodes=1 episode, 2011 	
+character=Carwash Customer	name=Richard Barela	episodes=1 episode, 2011 	
+character=Restaurant Patron	name=Michael R. Tafoya	episodes=1 episode, 2011 	
+character=Magnet Guy 	name=Todd Sopher	episodes=1 episode, 2012 	
+character=Prison Guard	name=Michael E. Stogner	episodes=1 episode, 2012 	
+character=Woman in Denny	name=Breanna Perera	episodes=1 episode, 2012 	
+character=Gang member	name=Alexander Aleynikov	episodes=1 episode, 2012 	
+character=Senior DEA Agent	name=Bill Peterson	episodes=1 episode, 2012 	
+character=DEA Agent	name=Frank Sandoval	episodes=1 episode, 2012 	
+character=Madrigal Suit	name=Ryan Schaefer	episodes=1 episode, 2012 	
+character=Airport Traveler	name=Cruz Taylor	episodes=1 episode, 2012 	
+character=Fireman	name=Noah Segan	episodes=1 episode, 2013 	
+character=Car Wash Customer	name=Moira Walley-Beckett	episodes=1 episode, 2013 	
+character=Restaurant Patron	name=Angela Joseph	episodes=1 episode, 2013 	
+character=Car Wash Customer	name=Michael Anthony Stone	episodes=1 episode, 2013 	
+character=Businessman	name=Chester Gayao	episodes=1 episode, 2013 	
+character=Restaurant Patron	name=Paula Ray	episodes=1 episode, 2013 	
+character=Car Wash Patron	name=Jyl Murray	episodes=1 episode, 2013 	
+character=Neighbor	name=Taber Cross	episodes=1 episode, 2013 	
+character=Garduño	name=Jon McGarrah	episodes=1 episode, 2013 	
+character=Diner	name=Jon McGarrah	episodes=1 episode, 2013 	
+character=Homeless Man	name=Holly Pinnell	episodes=1 episode, 2013 	
+character=Wife	name=Holly Pinnell	episodes=1 episode, 2013 	
+character=Restaurant Patron	name=Louise Stange-Wahl	episodes=1 episode, 2013 	
+character=Declan	name=Michael Romero	episodes=1 episode, 2013 	
+character=Crew Member	name=Michael Romero	episodes=1 episode, 2013 	

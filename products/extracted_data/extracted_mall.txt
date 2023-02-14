@@ -1,0 +1,622 @@
+# http://fitlayout.github.io/resource/art1 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-fold-4-5g-12gb-512gb-graygreen
+title='Samsung Galaxy Z Fold 4 5G, 12GB/512GB, Graygreen + antivirová ochrana ZDARMA!'	price='47 990 Kč' 
+# http://fitlayout.github.io/resource/art2 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-fold4-12gb-512gb-moon-beige
+title='Samsung Galaxy Z Fold4, 12GB/512GB, Moon Beige + antivirová ochrana ZDARMA!'	price='47 990 Kč' 
+# http://fitlayout.github.io/resource/art3 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-fold4-12gb-512gb-phantom-black
+title='Samsung Galaxy Z Fold4, 12GB/512GB, Phantom Black + antivirová ochrana ZDARMA!'	price='47 990 Kč' 
+# http://fitlayout.github.io/resource/art4 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-fold4-12gb-256gb-moon-beige
+title='Samsung Galaxy Z Fold4, 12GB/256GB, Moon Beige + antivirová ochrana ZDARMA!'	price='44 990 Kč' 
+# http://fitlayout.github.io/resource/art5 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-fold4-12gb-256gb-graygreen
+title='Samsung Galaxy Z Fold4, 12GB/256GB, Graygreen + antivirová ochrana ZDARMA!'	price='44 990 Kč' 
+# http://fitlayout.github.io/resource/art6 -> https://mall.cz/mobilni-telefony/apple-iphone-13-pro-1tb-silver
+title='Apple iPhone 13 Pro, 1TB, Silver'	price='42 990 Kč' 
+# http://fitlayout.github.io/resource/art7 -> https://mall.cz/mobilni-telefony/apple-iphone-13-pro-1tb-graphite
+title='Apple iPhone 13 Pro, 1TB, Graphite'	price='44 390 Kč' 
+# http://fitlayout.github.io/resource/art8 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-fold3-5g-12gb-256gb-green-100068793279
+title='Samsung Galaxy Z Fold3 5G, 12GB/256GB, Green'	price='37 988 Kč' 
+# http://fitlayout.github.io/resource/art9 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-ultra-12gb-512gb-phantom-black
+title='Samsung Galaxy S22 Ultra, 12GB/512GB, Phantom Black + antivirová ochrana ZDARMA!'	price='36 990 Kč' 
+# http://fitlayout.github.io/resource/art10 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-ultra-12gb-512gb-burgundy
+title='Samsung Galaxy S22 Ultra, 12GB/512GB, Burgundy + antivirová ochrana ZDARMA!'	price='36 990 Kč' 
+# http://fitlayout.github.io/resource/art11 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-ultra-12gb-512gb-phantom-white
+title='Samsung Galaxy S22 Ultra, 12GB/512GB, Phantom White + antivirová ochrana ZDARMA!'	price='36 990 Kč' 
+# http://fitlayout.github.io/resource/art12 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-fold3-5g-12gb512gb-green
+title='Samsung Galaxy Z Fold3 5G, 12GB/512GB, Green + antivirová ochrana ZDARMA!'	price='39 430 Kč' 
+# http://fitlayout.github.io/resource/art13 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-fold3-5g-12gb512gb-silver
+title='Samsung Galaxy Z Fold3 5G, 12GB/512GB, Silver + antivirová ochrana ZDARMA!'	price='39 065 Kč' 
+# http://fitlayout.github.io/resource/art14 -> https://mall.cz/mobilni-telefony/sony-xperia-pro-i-12gb-512gb-black-100074502324
+title='Sony Xperia PRO-I , 12GB/512GB, Black'	price='36 989 Kč' 
+# http://fitlayout.github.io/resource/art15 -> https://mall.cz/mobilni-telefony/apple-iphone-14-512gb-purple-100096450785
+title='Apple iPhone 14, 512GB, Purple'	price='36 490 Kč' 
+# http://fitlayout.github.io/resource/art16 -> https://mall.cz/mobilni-telefony/apple-iphone-14-512gb-midnight-100096450787
+title='Apple iPhone 14, 512GB, Midnight'	price='36 490 Kč' 
+# http://fitlayout.github.io/resource/art17 -> https://mall.cz/mobilni-telefony/apple-iphone-14-512gb-productred-100096450789
+title='Apple iPhone 14, 512GB, PRODUCT(RED)'	price='36 490 Kč' 
+# http://fitlayout.github.io/resource/art18 -> https://mall.cz/mobilni-telefony/sony-xperia-1-iv-5g-purple
+title='Sony Xperia 1 IV 5G, Purple'	price='34 990 Kč' 
+# http://fitlayout.github.io/resource/art19 -> https://mall.cz/mobilni-telefony/sony-xperia-1-iv-5g-white
+title='Sony Xperia 1 IV 5G, White'	price='34 990 Kč' 
+# http://fitlayout.github.io/resource/art20 -> https://mall.cz/mobilni-telefony/sony-xperia-1-iii-5g-black
+title='Sony Xperia 1 III 5G, Black + antivirová ochrana ZDARMA!'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art21 -> https://mall.cz/mobilni-telefony/sony-xperia-1-iv-5g-black
+title='Sony Xperia 1 IV 5G, Black'	price='34 990 Kč' 
+# http://fitlayout.github.io/resource/art22 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-ultra-12gb-256gb-phantom-white
+title='Samsung Galaxy S22 Ultra, 12GB/256GB, Phantom White + antivirová ochrana ZDARMA!'	price='34 490 Kč' 
+# http://fitlayout.github.io/resource/art23 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-ultra-12gb-256gb-phantom-black
+title='Samsung Galaxy S22 Ultra, 12GB/256GB, Phantom Black + antivirová ochrana ZDARMA!'	price='34 490 Kč' 
+# http://fitlayout.github.io/resource/art24 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-ultra-12gb-256gb-burgundy
+title='Samsung Galaxy S22 Ultra, 12GB/256GB, Burgundy + antivirová ochrana ZDARMA!'	price='34 490 Kč' 
+# http://fitlayout.github.io/resource/art25 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-ultra-12gb-256gb-phantom-green
+title='Samsung Galaxy S22 Ultra, 12GB/256GB, Phantom Green + antivirová ochrana ZDARMA!'	price='34 490 Kč' 
+# http://fitlayout.github.io/resource/art26 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-ultra-8gb-128gb-burgundy
+title='Samsung Galaxy S22 Ultra, 8GB/128GB, Burgundy + antivirová ochrana ZDARMA!'	price='31 990 Kč' 
+# http://fitlayout.github.io/resource/art27 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-ultra-8gb-128gb-phantom-white
+title='Samsung Galaxy S22 Ultra, 8GB/128GB, Phantom White + antivirová ochrana ZDARMA!'	price='31 990 Kč' 
+# http://fitlayout.github.io/resource/art28 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-ultra-8gb-128gb-phantom-black
+title='Samsung Galaxy S22 Ultra, 8GB/128GB, Phantom Black + antivirová ochrana ZDARMA!'	price='31 990 Kč' 
+# http://fitlayout.github.io/resource/art29 -> https://mall.cz/mobilni-telefony/apple-iphone-13-pro-256gb-graphite
+title='Apple iPhone 13 Pro, 256GB, Graphite'	price='88 %' 
+# http://fitlayout.github.io/resource/art30 -> https://mall.cz/mobilni-telefony/apple-iphone-13-pro-256gb-alpine-green-mne33cn-a
+title='Apple iPhone 13 Pro, 256GB, Alpine Green'	price='96 %' 
+# http://fitlayout.github.io/resource/art31 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-flip4-8gb-512gb-composite-gray
+title='Samsung Galaxy Z Flip4, 8GB/512GB, Composite Gray + antivirová ochrana ZDARMA!'	price='31 990 Kč' 
+# http://fitlayout.github.io/resource/art32 -> https://mall.cz/mobilni-telefony/apple-iphone-13-512gb-midnight
+title='Apple iPhone 13, 512GB, Midnight'	price='32 190 Kč' 
+# http://fitlayout.github.io/resource/art33 -> https://mall.cz/mobilni-telefony/apple-iphone-13-512gb-blue
+title='Apple iPhone 13, 512GB, Blue'	price='32 190 Kč' 
+# http://fitlayout.github.io/resource/art34 -> https://mall.cz/mobilni-telefony/apple-iphone-13-512gb-productred
+title='Apple iPhone 13, 512GB, (PRODUCT)RED™'	price='32 190 Kč' 
+# http://fitlayout.github.io/resource/art35 -> https://mall.cz/mobilni-telefony/apple-iphone-13-512gb-pink
+title='Apple iPhone 13, 512GB, Pink'	price='32 190 Kč' 
+# http://fitlayout.github.io/resource/art36 -> https://mall.cz/mobilni-telefony/apple-iphone-13-512gb-starlight
+title='Apple iPhone 13, 512GB, Starlight'	price='32 190 Kč' 
+# http://fitlayout.github.io/resource/art37 -> https://mall.cz/mobilni-telefony/apple-iphone-13-512gb-product-red-100068793286
+title='Apple iPhone 13, 512GB, (PRODUCT)RED'	price='32 188 Kč' 
+# http://fitlayout.github.io/resource/art38 -> https://mall.cz/mobilni-telefony/huawei-p50-pocket-100084573306
+title='Huawei P50 Pocket'	price='28 489 Kč' 
+# http://fitlayout.github.io/resource/art39 -> https://mall.cz/mobilni-telefony/apple-iphone-14-256gb-starlight-100096450776
+title='Apple iPhone 14, 256GB, Starlight'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art40 -> https://mall.cz/mobilni-telefony/apple-iphone-14-256gb-midnight-100096450780
+title='Apple iPhone 14, 256GB, Midnight'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art41 -> https://mall.cz/mobilni-telefony/apple-iphone-14-256gb-productred-100096450782
+title='Apple iPhone 14, 256GB, PRODUCT(RED)'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art42 -> https://mall.cz/mobilni-telefony/apple-iphone-14-256gb-blue-100096450777
+title='Apple iPhone 14, 256GB, Blue'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art43 -> https://mall.cz/mobilni-telefony/sony-xperia-1-iii-5g-12gb-256gb-purple-100068795886
+title='Sony Xperia 1 III 5G, 12GB/256GB, Purple'	price='29 989 Kč' 
+# http://fitlayout.github.io/resource/art44 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-flip3-5g-8gb256gb-cream-1
+title='Samsung Galaxy Z Flip3 5G, 8GB/256GB, Cream + antivirová ochrana ZDARMA!'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art45 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-flip4-8gb-256gb-composite-gray
+title='Samsung Galaxy Z Flip4, 8GB/256GB, Composite Gray + antivirová ochrana ZDARMA!'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art46 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-flip4-8gb-256gb-bora-purple
+title='Samsung Galaxy Z Flip4, 8GB/256GB, Bora Purple + antivirová ochrana ZDARMA!'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art47 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-flip3-5g-8gb256gb-black-1
+title='Samsung Galaxy Z Flip3 5G, 8GB/256GB, Black + antivirová ochrana ZDARMA!'	price='100 %' 
+# http://fitlayout.github.io/resource/art48 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-flip4-8gb-256gb-new-blue
+title='Samsung Galaxy Z Flip4, 8GB/256GB, New Blue + antivirová ochrana ZDARMA!'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art49 -> https://mall.cz/mobilni-telefony/apple-iphone-13-pro-128gb-gold
+title='Apple iPhone 13 Pro, 128GB, Gold'	price='100 %' 
+# http://fitlayout.github.io/resource/art50 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-flip4-8gb-256gb-gold
+title='Samsung Galaxy Z Flip4, 8GB/256GB, Gold + antivirová ochrana ZDARMA!'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art51 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-flip3-5g-8gb256gb-green-1
+title='Samsung Galaxy Z Flip3 5G, 8GB/256GB, Green + antivirová ochrana ZDARMA!'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art52 -> https://mall.cz/mobilni-telefony/apple-iphone-13-pro-128gb-sierra-blue
+title='Apple iPhone 13 Pro, 128GB, Sierra Blue'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art53 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22plus-8gb-256gb-phantom-green-1
+title='Samsung Galaxy S22+, 8GB/256GB, Phantom Green + antivirová ochrana ZDARMA!'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art54 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22plus-8gb-256gb-phantom-black-1
+title='Samsung Galaxy S22+, 8GB/256GB, Phantom Black + antivirová ochrana ZDARMA!'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art55 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22plus-8gb-256gb-phantom-white-1
+title='Samsung Galaxy S22+, 8GB/256GB, Phantom White + antivirová ochrana ZDARMA!'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art56 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22plus-8gb-256gb-brush-1
+title='Samsung Galaxy S22+, 8GB/256GB, Pink Gold + antivirová ochrana ZDARMA!'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art57 -> https://mall.cz/mobilni-telefony/xiaomi-12-pro-12gb-256gb-blue
+title='Xiaomi 12 Pro, 12GB/256GB, Blue + navíc masážní pistole, mlýnek na kávu a pouzdro ZDARMA!'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art58 -> https://mall.cz/mobilni-telefony/xiaomi-12-pro-12gb-256gb-purple
+title='Xiaomi 12 Pro, 12GB/256GB, Purple + navíc masážní pistole, mlýnek na kávu a pouzdro ZDARMA!'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art59 -> https://mall.cz/mobilni-telefony/xiaomi-12-pro-5g-12gb-256gb-gray-100084113531
+title='Xiaomi 12 Pro 5G, 12GB/256GB,Gray'	price='27 989 Kč' 
+# http://fitlayout.github.io/resource/art60 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-flip4-8gb-128gb-new-blue
+title='Samsung Galaxy Z Flip4, 8GB/128GB, New Blue + antivirová ochrana ZDARMA!'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art61 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-flip4-8gb-128gb-composite-gray
+title='Samsung Galaxy Z Flip4, 8GB/128GB, Composite Gray + antivirová ochrana ZDARMA!'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art62 -> https://mall.cz/mobilni-telefony/apple-iphone-13-mini-512gb-productred
+title='Apple iPhone 13 mini, 512GB, (PRODUCT)RED™'	price='100 %' 
+# http://fitlayout.github.io/resource/art63 -> https://mall.cz/mobilni-telefony/apple-iphone-13-mini-512gb-pink
+title='Apple iPhone 13 mini, 512GB, Pink'	price='100 %' 
+# http://fitlayout.github.io/resource/art64 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-flip4-8gb-128gb-gold
+title='Samsung Galaxy Z Flip4, 8GB/128GB, Gold + antivirová ochrana ZDARMA!'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art65 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-flip4-8gb-128gb-bora-purple
+title='Samsung Galaxy Z Flip4, 8GB/128GB, Bora Purple + antivirová ochrana ZDARMA!'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art66 -> https://mall.cz/mobilni-telefony/apple-iphone-13-mini-512gb-midnight
+title='Apple iPhone 13 mini, 512GB, Midnight'	price='29 190 Kč' 
+# http://fitlayout.github.io/resource/art67 -> https://mall.cz/mobilni-telefony/apple-iphone-13-mini-512gb-starlight
+title='Apple iPhone 13 mini, 512GB, Starlight'	price='100 %' 
+# http://fitlayout.github.io/resource/art68 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22plus-8gb-128gb-phantom-black-1
+title='Samsung Galaxy S22+, 8GB/128GB, Phantom Black + antivirová ochrana ZDARMA!'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art69 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22plus-8gb-128gb-brush-1
+title='Samsung Galaxy S22+, 8GB/128GB, Pink Gold + antivirová ochrana ZDARMA!'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art70 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22plus-8gb-128gb-phantom-white-1
+title='Samsung Galaxy S22+, 8GB/128GB, Phantom White + antivirová ochrana ZDARMA!'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art71 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22plus-8gb-128gb-phantom-green-1
+title='Samsung Galaxy S22+, 8GB/128GB, Phantom Green + antivirová ochrana ZDARMA!'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art72 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-flip3-5g-8gb128gb-black-1
+title='Samsung Galaxy Z Flip3 5G, 8GB/128GB, Black + antivirová ochrana ZDARMA!'	price='100 %' 
+# http://fitlayout.github.io/resource/art73 -> https://mall.cz/mobilni-telefony/vivo-x80-pro-12gb-256gb-cosmic-black
+title='VIVO X80 Pro, 12GB/256GB, Cosmic Black'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art74 -> https://mall.cz/mobilni-telefony/apple-iphone-14-128gb-productred-100096453587
+title='Apple iPhone 14, 128GB, PRODUCT(RED)'	price='26 490 Kč' 
+# http://fitlayout.github.io/resource/art75 -> https://mall.cz/mobilni-telefony/apple-iphone-14-128gb-midnight-100096453586
+title='Apple iPhone 14, 128GB, Midnight'	price='26 490 Kč' 
+# http://fitlayout.github.io/resource/art76 -> https://mall.cz/mobilni-telefony/huawei-p50-pro-black-100084573445
+title='Huawei P50 Pro Black'	price='22 293 Kč' 
+# http://fitlayout.github.io/resource/art77 -> https://mall.cz/mobilni-telefony/huawei-p50-pro-gold-100084573416
+title='Huawei P50 Pro Gold'	price='22 293 Kč' 
+# http://fitlayout.github.io/resource/art78 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-flip3-5g-8gb-128gb-black-100068793308
+title='Samsung Galaxy Z Flip3 5G, 8GB/128GB, Black'	price='24 997 Kč' 
+# http://fitlayout.github.io/resource/art79 -> https://mall.cz/mobilni-telefony/samsung-galaxy-z-flip3-5g-8gb128gb-black
+title='Samsung Galaxy Z Flip3 5G, 8GB/128GB, Black + antivirová ochrana ZDARMA!'	price='24 990 Kč' 
+# http://fitlayout.github.io/resource/art80 -> https://mall.cz/mobilni-telefony/apple-iphone-13-256gb-pink
+title='Apple iPhone 13, 256GB, Pink'	price='98 %' 
+# http://fitlayout.github.io/resource/art81 -> https://mall.cz/mobilni-telefony/apple-iphone-13-256gb-blue
+title='Apple iPhone 13, 256GB, Blue'	price='88 %' 
+# http://fitlayout.github.io/resource/art82 -> https://mall.cz/mobilni-telefony/apple-iphone-13-256gb-starlight
+title='Apple iPhone 13, 256GB, Starlight'	price='25 990 Kč' 
+# http://fitlayout.github.io/resource/art83 -> https://mall.cz/mobilni-telefony/apple-iphone-13-256gb-productred
+title='Apple iPhone 13, 256GB, (PRODUCT)RED™'	price='25 990 Kč' 
+# http://fitlayout.github.io/resource/art84 -> https://mall.cz/mobilni-telefony/oneplus-10-pro-12gb-256gb-volcanic-black
+title='OnePlus 10 Pro, 12GB/256GB, Volcanic Black + antivirová ochrana ZDARMA!'	price='25 990 Kč' 
+# http://fitlayout.github.io/resource/art85 -> https://mall.cz/mobilni-telefony/oneplus-10-pro-12gb-256gb-emerald-forest
+title='OnePlus 10 Pro, 12GB/256GB, Emerald Forest + antivirová ochrana ZDARMA!'	price='25 990 Kč' 
+# http://fitlayout.github.io/resource/art86 -> https://mall.cz/mobilni-telefony/apple-iphone-13-mini-512gb-blue
+title='Apple iPhone 13 mini, 512GB, Blue'	price='100 %' 
+# http://fitlayout.github.io/resource/art87 -> https://mall.cz/mobilni-telefony/oneplus-10-pro-12gb-256gb-black-100075820602
+title='OnePlus 10 Pro, 12GB/256GB, Black'	price='25 989 Kč' 
+# http://fitlayout.github.io/resource/art88 -> https://mall.cz/mobilni-telefony/oneplus-10-pro-12gb-256gb-green-100075820605
+title='OnePlus 10 Pro, 12GB/256GB, Green'	price='25 989 Kč' 
+# http://fitlayout.github.io/resource/art89 -> https://mall.cz/mobilni-telefony/oneplus-9-pro-12-256gb-4500mah-100089052823
+title='OnePlus 9 Pro 12/256GB, 4500mAh, stříbrná'	price='23 749 Kč' 
+# http://fitlayout.github.io/resource/art90 -> https://mall.cz/mobilni-telefony/oneplus-9-pro-8-256gb-4500mah-stribrna-100080625311
+title='OnePlus 9 Pro 8/256GB, 4500mAh, stříbrná'	price='23 000 Kč' 
+# http://fitlayout.github.io/resource/art91 -> https://mall.cz/mobilni-telefony/oneplus-9-pro-8-256gb-4500mah-cerna-100080625312
+title='OnePlus 9 Pro 8/256GB, 4500mAh, černá'	price='23 000 Kč' 
+# http://fitlayout.github.io/resource/art92 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-8gb-256gb-phantom-black
+title='Samsung Galaxy S22, 8GB/256GB, Phantom Black + antivirová ochrana ZDARMA!'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art93 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-8gb-256gb-phantom-white
+title='Samsung Galaxy S22, 8GB/256GB, Phantom White + antivirová ochrana ZDARMA!'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art94 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-8gb-256gb-brush
+title='Samsung Galaxy S22, 8GB/256GB, Pink Gold + antivirová ochrana ZDARMA!'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art95 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-8gb-256gb-phantom-green
+title='Samsung Galaxy S22, 8GB/256GB, Phantom Green + antivirová ochrana ZDARMA!'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art96 -> https://mall.cz/mobilni-telefony/sony-xperia-5-iii-5g-black
+title='Sony Xperia 5 III  5G, Black + antivirová ochrana ZDARMA!'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art97 -> https://mall.cz/mobilni-telefony/apple-iphone-12-256gb-black
+title='Apple iPhone 12, 256GB, Black'	price='100 %' 
+# http://fitlayout.github.io/resource/art98 -> https://mall.cz/mobilni-telefony/apple-iphone-12-256gb-green
+title='Apple iPhone 12, 256GB, Green'	price='24 490 Kč' 
+# http://fitlayout.github.io/resource/art99 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-8gb-256gb-bora-purple
+title='Samsung Galaxy S22, 8GB/256GB, Bora Purple + antivirová ochrana ZDARMA!'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art100 -> https://mall.cz/mobilni-telefony/apple-iphone-12-256gb-product-red-100059195441
+title='Apple iPhone 12, 256GB, (PRODUCT)RED'	price='24 490 Kč' 
+# http://fitlayout.github.io/resource/art101 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-5g-8gb-256gb-bora-100095233195
+title='Samsung Galaxy S22 5G, 8GB/256GB, Bora Purple'	price='22 989 Kč' 
+# http://fitlayout.github.io/resource/art102 -> https://mall.cz/mobilni-telefony/apple-iphone-12-256gb-blue-100059195444
+title='Apple iPhone 12, 256GB, Blue'	price='24 489 Kč' 
+# http://fitlayout.github.io/resource/art103 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-8gb-128gb-phantom-green
+title='Samsung Galaxy S22, 8GB/128GB, Phantom Green + antivirová ochrana ZDARMA!'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art104 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-8gb-128gb-brush
+title='Samsung Galaxy S22, 8GB/128GB, Pink Gold + antivirová ochrana ZDARMA!'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art105 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-8gb-128gb-phantom-white
+title='Samsung Galaxy S22, 8GB/128GB, Phantom White + antivirová ochrana ZDARMA!'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art106 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-8gb-128gb-phantom-black
+title='Samsung Galaxy S22, 8GB/128GB, Phantom Black + antivirová ochrana ZDARMA!'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art107 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s22-8gb-128gb-bora-purple
+title='Samsung Galaxy S22, 8GB/128GB, Bora Purple + antivirová ochrana ZDARMA!'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art108 -> https://mall.cz/mobilni-telefony/oneplus-10-pro-8gb-128gb-volcanic-black
+title='OnePlus 10 Pro, 8GB/128GB, Volcanic Black'	price='23 490 Kč' 
+# http://fitlayout.github.io/resource/art109 -> https://mall.cz/mobilni-telefony/apple-iphone-13-mini-256gb-starlight
+title='Apple iPhone 13 mini, 256GB, Starlight'	price='100 %' 
+# http://fitlayout.github.io/resource/art110 -> https://mall.cz/mobilni-telefony/apple-iphone-13-mini-256gb-pink
+title='Apple iPhone 13 mini, 256GB, Pink'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art111 -> https://mall.cz/mobilni-telefony/apple-iphone-13-mini-256gb-blue
+title='Apple iPhone 13 mini, 256GB, Blue'	price='100 %' 
+# http://fitlayout.github.io/resource/art112 -> https://mall.cz/mobilni-telefony/apple-iphone-13-mini-256gb-productred
+title='Apple iPhone 13 mini, 256GB, (PRODUCT)RED™'	price='100 %' 
+# http://fitlayout.github.io/resource/art113 -> https://mall.cz/mobilni-telefony/apple-iphone-13-mini-256gb-green-100080309065
+title='Apple iPhone 13 mini, 256GB, Green'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art114 -> https://mall.cz/mobilni-telefony/apple-iphone-13-mini-256gb-midnight
+title='Apple iPhone 13 mini, 256GB, Midnight'	price='100 %' 
+# http://fitlayout.github.io/resource/art115 -> https://mall.cz/mobilni-telefony/oneplus-10-pro-8gb-128gb-black-100075820600
+title='OnePlus 10 Pro, 8GB/128GB, Black'	price='23 489 Kč' 
+# http://fitlayout.github.io/resource/art116 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s21-fe-5g-8gb-256gb-graphite-100074502293
+title='Samsung Galaxy S21 FE 5G, 8GB/256GB, Graphite'	price='100 %' 
+# http://fitlayout.github.io/resource/art117 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s21-fe-5g-8gb-256gb-white-100074502294
+title='Samsung Galaxy S21 FE 5G, 8GB/256GB, White'	price='100 %' 
+# http://fitlayout.github.io/resource/art118 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s21-fe-5g-8gb-256gb-olive-100074502291
+title='Samsung Galaxy S21 FE 5G, 8GB/256GB, Olive'	price='100 %' 
+# http://fitlayout.github.io/resource/art119 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s21-fe-5g-8gb-256gb-lavender-100074505946
+title='Samsung Galaxy S21 FE 5G, 8GB/256GB, Lavender'	price='100 %' 
+# http://fitlayout.github.io/resource/art120 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s21-fe-5g-8gb-256gb-green-2
+title='Samsung Galaxy S21 FE 5G, 8GB/256GB, Green + antivirová ochrana ZDARMA!'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art121 -> https://mall.cz/mobilni-telefony/oneplus-10t-5g-16gb-256gb-jade-green
+title='OnePlus 10T 5G, 16GB/256GB, Jade Green'	price='20 490 Kč' 
+# http://fitlayout.github.io/resource/art122 -> https://mall.cz/mobilni-telefony/oneplus-10t-5g-16gb-256gb-moonstone-black
+title='OnePlus 10T 5G, 16GB/256GB, Moonstone Black'	price='20 490 Kč' 
+# http://fitlayout.github.io/resource/art123 -> https://mall.cz/mobilni-telefony/apple-iphone-12-128gb-productred
+title='Apple iPhone 12, 128GB, (PRODUCT)RED™'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art124 -> https://mall.cz/mobilni-telefony/apple-iphone-12-128gb-black
+title='Apple iPhone 12, 128GB, Black'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art125 -> https://mall.cz/mobilni-telefony/realme-gt-2-pro-12gb-256gb-paper-white
+title='realme GT 2 Pro, 12GB/256GB, Paper White + antivirová ochrana ZDARMA!'	price='17 488 Kč' 
+# http://fitlayout.github.io/resource/art126 -> https://mall.cz/mobilni-telefony/apple-iphone-12-128gb-white
+title='Apple iPhone 12, 128GB, White'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art127 -> https://mall.cz/mobilni-telefony/apple-iphone-12-mini-256gb-green
+title='Apple iPhone 12 mini, 256GB, Green'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art128 -> https://mall.cz/mobilni-telefony/apple-iphone-12-mini-256gb-productred
+title='Apple iPhone 12 mini, 256GB, (PRODUCT)RED™'	price='18 690 Kč' 
+# http://fitlayout.github.io/resource/art129 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s21-fe-5g-8gb-256gb-gray-2
+title='Samsung Galaxy S21 FE 5G, 8GB/256GB, Gray + antivirová ochrana ZDARMA!'	price='20 990 Kč' 
+# http://fitlayout.github.io/resource/art130 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s21-fe-5g-8gb-256gb-white-2
+title='Samsung Galaxy S21 FE 5G, 8GB/256GB, White + antivirová ochrana ZDARMA!'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art131 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s21-fe-5g-8gb-256gb-violet-2
+title='Samsung Galaxy S21 FE 5G, 8GB/256GB, Violet + antivirová ochrana ZDARMA!'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art132 -> https://mall.cz/mobilni-telefony/asus-zenfone-8-8gb-256gb-silver-100059195950
+title='ASUS Zenfone 8, 8GB/256GB, Silver'	price='19 489 Kč' 
+# http://fitlayout.github.io/resource/art133 -> https://mall.cz/mobilni-telefony/apple-iphone-se-2022-256gb-product-red-100080307691
+title='Apple iPhone SE 2022, 256GB, (PRODUCT)RED'	price='19 190 Kč' 
+# http://fitlayout.github.io/resource/art134 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s21-fe-5g-6gb-128gb-graphite-100074502292
+title='Samsung Galaxy S21 FE 5G, 6GB/128GB, Graphite'	price='18 998 Kč' 
+# http://fitlayout.github.io/resource/art135 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s21-fe-5g-6gb-128gb-lavender-100074505945
+title='Samsung Galaxy S21 FE 5G, 6GB/128GB, Lavender'	price='100 %' 
+# http://fitlayout.github.io/resource/art136 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s21-fe-5g-6gb-128gb-white-100074505947
+title='Samsung Galaxy S21 FE 5G, 6GB/128GB, White'	price='18 998 Kč' 
+# http://fitlayout.github.io/resource/art137 -> https://mall.cz/mobilni-telefony/xiaomi-12-8gb-256gb-gray
+title='Xiaomi 12, 8GB/256GB, Gray + navíc shaker, mlýnek na kávu a pouzdro ZDARMA!'	price='20 990 Kč' 
+# http://fitlayout.github.io/resource/art138 -> https://mall.cz/mobilni-telefony/xiaomi-12-8gb-256gb-blue
+title='Xiaomi 12, 8GB/256GB, Blue + navíc shaker, mlýnek na kávu a pouzdro ZDARMA!'	price='20 990 Kč' 
+# http://fitlayout.github.io/resource/art139 -> https://mall.cz/mobilni-telefony/xiaomi-12-5g-8gb-256gb-purple-100084113526
+title='Xiaomi 12 5G, 8GB/256GB,Purple'	price='20 989 Kč' 
+# http://fitlayout.github.io/resource/art140 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s21-fe-5g-6gb-128gb-green-2
+title='Samsung Galaxy S21 FE 5G, 6GB/128GB, Green + antivirová ochrana ZDARMA!'	price='18 716 Kč' 
+# http://fitlayout.github.io/resource/art141 -> https://mall.cz/mobilni-telefony/apple-iphone-12-64gb-productred
+title='Apple iPhone 12, 64GB, (PRODUCT)RED™'	price='98 %' 
+# http://fitlayout.github.io/resource/art142 -> https://mall.cz/mobilni-telefony/apple-iphone-12-64gb-black
+title='Apple iPhone 12, 64GB, Black'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art143 -> https://mall.cz/mobilni-telefony/apple-iphone-13-mini-128gb-pink
+title='Apple iPhone 13 mini, 128GB, Pink'	price='100 %' 
+# http://fitlayout.github.io/resource/art144 -> https://mall.cz/mobilni-telefony/apple-iphone-12-64gb-white
+title='Apple iPhone 12, 64GB, White'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art145 -> https://mall.cz/mobilni-telefony/apple-iphone-12-64gb-green
+title='Apple iPhone 12, 64GB, Green'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art146 -> https://mall.cz/mobilni-telefony/apple-iphone-12-64gb-blue
+title='Apple iPhone 12, 64GB, Blue'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art147 -> https://mall.cz/mobilni-telefony/apple-iphone-12-64gb-purple
+title='Apple iPhone 12, 64GB, Purple'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art148 -> https://mall.cz/mobilni-telefony/asus-zenfone-8-8gb-128gb-silver-100059195945
+title='ASUS Zenfone 8, 8GB/128GB, Silver'	price='18 489 Kč' 
+# http://fitlayout.github.io/resource/art149 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s21-fe-5g-6gb-128gb-white-2
+title='Samsung Galaxy S21 FE 5G, 6GB/128GB, White + antivirová ochrana ZDARMA!'	price='18 718 Kč' 
+# http://fitlayout.github.io/resource/art150 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s21-fe-5g-6gb-128gb-gray-2
+title='Samsung Galaxy S21 FE 5G, 6GB/128GB, Gray + antivirová ochrana ZDARMA!'	price='18 608 Kč' 
+# http://fitlayout.github.io/resource/art151 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s21-fe-5g-6gb-128gb-violet-2
+title='Samsung Galaxy S21 FE 5G, 6GB/128GB, Violet + antivirová ochrana ZDARMA!'	price='18 788 Kč' 
+# http://fitlayout.github.io/resource/art152 -> https://mall.cz/mobilni-telefony/xiaomi-12-8gb-128gb-purple
+title='Xiaomi 12, 8GB/128GB, Purple + navíc shaker, mlýnek na kávu a pouzdro ZDARMA!'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art153 -> https://mall.cz/mobilni-telefony/xiaomi-12-8gb-128gb-gray
+title='Xiaomi 12, 8GB/128GB, Gray + navíc shaker, mlýnek na kávu a pouzdro ZDARMA!'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art154 -> https://mall.cz/mobilni-telefony/xiaomi-12-8gb-128gb-blue
+title='Xiaomi 12, 8GB/128GB, Blue + navíc shaker, mlýnek na kávu a pouzdro ZDARMA!'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art155 -> https://mall.cz/mobilni-telefony/oneplus-10t-5g-8gb-128gb-jade-green
+title='OnePlus 10T 5G, 8GB/128GB, Jade Green'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art156 -> https://mall.cz/mobilni-telefony/oneplus-10t-5g-8gb-128gb-moonstone-black
+title='OnePlus 10T 5G, 8GB/128GB, Moonstone Black'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art157 -> https://mall.cz/mobilni-telefony/realme-gt-2-pro-12gb-256gb-paper-green
+title='realme GT 2 Pro, 12GB/256GB, Paper Green + antivirová ochrana ZDARMA!'	price='17 488 Kč' 
+# http://fitlayout.github.io/resource/art158 -> https://mall.cz/mobilni-telefony/poco-f4-gt-12gb-256gb-stealth-black
+title='POCO F4 GT, 12GB/256GB, Stealth Black'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art159 -> https://mall.cz/mobilni-telefony/xiaomi-11t-pro-8gb256gb-moonlight-white
+title='Xiaomi 11T Pro, 8GB/256GB, Moonlight White + antivirová ochrana ZDARMA!'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art160 -> https://mall.cz/mobilni-telefony/apple-iphone-12-mini-128gb-purple
+title='Apple iPhone 12 mini, 128GB, Purple'	price='100 %' 
+# http://fitlayout.github.io/resource/art161 -> https://mall.cz/mobilni-telefony/apple-iphone-12-mini-128gb-white
+title='Apple iPhone 12 mini, 128GB, White'	price='100 %' 
+# http://fitlayout.github.io/resource/art162 -> https://mall.cz/mobilni-telefony/apple-iphone-12-mini-128gb-green
+title='Apple iPhone 12 mini, 128GB, Green'	price='100 %' 
+# http://fitlayout.github.io/resource/art163 -> https://mall.cz/mobilni-telefony/apple-iphone-12-mini-128gb-productred
+title='Apple iPhone 12 mini, 128GB, (PRODUCT)RED™'	price='100 %' 
+# http://fitlayout.github.io/resource/art164 -> https://mall.cz/mobilni-telefony/apple-iphone-12-mini-128gb-blue
+title='Apple iPhone 12 mini, 128GB, Blue'	price='90 %' 
+# http://fitlayout.github.io/resource/art165 -> https://mall.cz/mobilni-telefony/xiaomi-11t-pro-8gb256gb-celestial-blue
+title='Xiaomi 11T Pro, 8GB/256GB, Celestial Blue + antivirová ochrana ZDARMA!'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art166 -> https://mall.cz/mobilni-telefony/apple-iphone-12-mini-128gb-black
+title='Apple iPhone 12 mini, 128GB, Black'	price='96 %' 
+# http://fitlayout.github.io/resource/art167 -> https://mall.cz/mobilni-telefony/apple-iphone-se-2022-256gb-starlight
+title='Apple iPhone SE 2022, 256GB, Starlight'	price='19 190 Kč' 
+# http://fitlayout.github.io/resource/art168 -> https://mall.cz/mobilni-telefony/apple-iphone-se-2022-256gb-midnight
+title='Apple iPhone SE 2022, 256GB, Midnight'	price='19 190 Kč' 
+# http://fitlayout.github.io/resource/art169 -> https://mall.cz/mobilni-telefony/apple-refurbished-repasovany-iphone-11-128gb-black-by-100059195881
+title='OMLOUVÁME SE, ALE TATO STRÁNKA JIŽ NEEXISTUJE.'	price='14 dnů na vrácení' 
+# http://fitlayout.github.io/resource/art170 -> https://mall.cz/mobilni-telefony/xiaomi-11t-pro-8gb128gb-celestial-blue
+title='Xiaomi 11T Pro, 8GB/128GB, Celestial Blue + antivirová ochrana ZDARMA!'	price='15 990 Kč' 
+# http://fitlayout.github.io/resource/art171 -> https://mall.cz/mobilni-telefony/xiaomi-11t-pro-8gb128gb-meteorite-gray
+title='Xiaomi 11T Pro, 8GB/128GB, Meteorite Gray + antivirová ochrana ZDARMA!'	price='15 990 Kč' 
+# http://fitlayout.github.io/resource/art172 -> https://mall.cz/mobilni-telefony/apple-iphone-12-mini-64gb-white
+title='Apple iPhone 12 mini, 64GB, White'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art173 -> https://mall.cz/mobilni-telefony/apple-iphone-12-mini-64gb-green
+title='Apple iPhone 12 mini, 64GB, Green'	price='100 %' 
+# http://fitlayout.github.io/resource/art174 -> https://mall.cz/mobilni-telefony/apple-iphone-12-mini-64gb-blue
+title='Apple iPhone 12 mini, 64GB, Blue'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art175 -> https://mall.cz/mobilni-telefony/apple-iphone-12-mini-64gb-purple
+title='Apple iPhone 12 mini, 64GB, Purple'	price='100 %' 
+# http://fitlayout.github.io/resource/art176 -> https://mall.cz/mobilni-telefony/apple-iphone-12-mini-64gb-black
+title='Apple iPhone 12 mini, 64GB, Black'	price='100 %' 
+# http://fitlayout.github.io/resource/art177 -> https://mall.cz/mobilni-telefony/apple-iphone-12-mini-64gb-productred
+title='Apple iPhone 12 mini, 64GB, (PRODUCT)RED™'	price='100 %' 
+# http://fitlayout.github.io/resource/art178 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s20-fe-5g-8gb256gb-blue
+title='Samsung Galaxy S20 FE 5G, 8GB/256GB, Blue + antivirová ochrana ZDARMA!'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art179 -> https://mall.cz/mobilni-telefony/motorola-edge-30-fusion-8gb-128gb-cosmic-black
+title='Motorola Edge 30 Fusion, 8GB/128GB, Cosmic Black + antivirová ochrana ZDARMA!'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art180 -> https://mall.cz/mobilni-telefony/apple-refurbished-repasovany-iphone-11-pro-64gb-gold-by-100059195873
+title='Apple Refurbished Repasovaný iPhone 11 Pro, 64GB, Gold (by Renewd)'	price='13 989 Kč' 
+# http://fitlayout.github.io/resource/art181 -> https://mall.cz/mobilni-telefony/google-pixel-6-5g-8gb-128gb-stromy-black-100068796306
+title='Google Pixel 6 5G, 8GB/128GB, Stromy Black'	price='14 989 Kč' 
+# http://fitlayout.github.io/resource/art182 -> https://mall.cz/mobilni-telefony/honor-70-8gb-256gb-midnight-black
+title='Honor 70, 8GB/256GB, Midnight Black'	price='14 490 Kč' 
+# http://fitlayout.github.io/resource/art183 -> https://mall.cz/mobilni-telefony/tcl-20pro-5g-moondust-gray
+title='TCL 20PRO 5G, Moondust Gray + antivirová ochrana ZDARMA!'	price='14 490 Kč' 
+# http://fitlayout.github.io/resource/art184 -> https://mall.cz/mobilni-telefony/myphone-hammer-blade-5g-6gb-128gb-black-100075820599
+title='myPhone Hammer Blade 5G, 6GB/128GB, Black'	price='14 489 Kč' 
+# http://fitlayout.github.io/resource/art185 -> https://mall.cz/mobilni-telefony/nokia-xr20-6gb-128gb-ultra-blue
+title='Nokia XR20, 6GB/128GB, Ultra Blue + antivirová ochrana ZDARMA!'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art186 -> https://mall.cz/mobilni-telefony/xiaomi-11t-8gb256gb-meteorite-gray
+title='Xiaomi 11T, 8GB/256GB, Meteorite Gray + antivirová ochrana ZDARMA!'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art187 -> https://mall.cz/mobilni-telefony/xiaomi-12x-8gb-128gb-gray
+title='Xiaomi 12X, 8GB/128GB, Gray'	price='100 %' 
+# http://fitlayout.github.io/resource/art188 -> https://mall.cz/mobilni-telefony/xiaomi-12x-8gb-128gb-blue
+title='Xiaomi 12X, 8GB/128GB, Blue'	price='74 %' 
+# http://fitlayout.github.io/resource/art189 -> https://mall.cz/mobilni-telefony/xiaomi-11t-8gb256gb-moonlight-white
+title='Xiaomi 11T, 8GB/256GB, Moonlight White + antivirová ochrana ZDARMA!'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art190 -> https://mall.cz/mobilni-telefony/xiaomi-12x-5g-8gb-128gb-gray-100084113538
+title='Xiaomi 12X 5G, 8GB/128GB,Gray'	price='15 989 Kč' 
+# http://fitlayout.github.io/resource/art191 -> https://mall.cz/mobilni-telefony/xiaomi-11t-pro-8gb128gb-moonlight-white
+title='Xiaomi 11T Pro 8GB/128GB Moonlight White + antivirová ochrana ZDARMA!'	price='12 052 Kč' 
+# http://fitlayout.github.io/resource/art192 -> https://mall.cz/mobilni-telefony/honor-50-5g-6-128-gb-emerald-green-100071631332
+title='Honor 50 5G 6/ 128 GB - Emerald Green'	price='12 957 Kč' 
+# http://fitlayout.github.io/resource/art193 -> https://mall.cz/mobilni-telefony/honor-70-8gb-128gb-midnight-black
+title='Honor 70, 8GB/128GB, Midnight Black'	price='13 490 Kč' 
+# http://fitlayout.github.io/resource/art194 -> https://mall.cz/mobilni-telefony/honor-70-8gb-128gb-emerald-green
+title='Honor 70, 8GB/128GB, Emerald Green'	price='13 490 Kč' 
+# http://fitlayout.github.io/resource/art195 -> https://mall.cz/mobilni-telefony/realme-gt-2-12gb-256gb-paper-green
+title='realme GT 2, 12GB/256GB, Paper Green + antivirová ochrana ZDARMA!'	price='13 213 Kč' 
+# http://fitlayout.github.io/resource/art196 -> https://mall.cz/mobilni-telefony/realme-gt-2-12gb-256gb-steel-black
+title='realme GT 2, 12GB/256GB, Steel Black + antivirová ochrana ZDARMA!'	price='13 202 Kč' 
+# http://fitlayout.github.io/resource/art197 -> https://mall.cz/mobilni-telefony/iget-gbl6000-pro-8gb256gb-gray
+title='iGET GBL6000 Pro, 8GB/256GB, Gray + antivirová ochrana ZDARMA!'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art198 -> https://mall.cz/mobilni-telefony/xiaomi-11t-8gb128gb-meteorite-gray
+title='Xiaomi 11T, 8GB/128GB, Meteorite Gray + antivirová ochrana ZDARMA!'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art199 -> https://mall.cz/mobilni-telefony/realme-gt-2-12gb-256gb-paper-white
+title='realme GT 2, 12GB/256GB, Paper White + antivirová ochrana ZDARMA!'	price='13 212 Kč' 
+# http://fitlayout.github.io/resource/art200 -> https://mall.cz/mobilni-telefony/xiaomi-mi-10t-6gb128gb-cosmic-black
+title='Xiaomi Mi 10T 6GB/128GB Cosmic Black + antivirová ochrana ZDARMA!'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art201 -> https://mall.cz/mobilni-telefony/huawei-nova-9-8gb-128gb-black
+title='Huawei Nova 9, 8GB/128GB, Black + antivirová ochrana ZDARMA!'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art202 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s20-fe-5g-6gb128gb-blue
+title='Samsung Galaxy S20 FE 5G, 6GB/128GB, Blue + antivirová ochrana ZDARMA!'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art203 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s20-fe-5g-6gb128gb-white
+title='Samsung Galaxy S20 FE 5G, 6GB/128GB, White + antivirová ochrana ZDARMA!'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art204 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s20-fe-5g-6gb128gb-lavender
+title='Samsung Galaxy S20 FE 5G, 6GB/128GB, Lavender + antivirová ochrana ZDARMA!'	price='96 %' 
+# http://fitlayout.github.io/resource/art205 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s20-fe-5g-6gb128gb-red
+title='Samsung Galaxy S20 FE 5G, 6GB/128GB, Red + antivirová ochrana ZDARMA!'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art206 -> https://mall.cz/mobilni-telefony/realme-gt-5g-8gb128gb-dashing-blue
+title='realme GT 5G, 8GB/128GB, Dashing Blue + antivirová ochrana ZDARMA!'	price='11 990 Kč' 
+# http://fitlayout.github.io/resource/art207 -> https://mall.cz/mobilni-telefony/huawei-nova-9-8gb-128gb-starry-blue
+title='Huawei Nova 9, 8GB/128GB, Starry Blue + antivirová ochrana ZDARMA!'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art208 -> https://mall.cz/mobilni-telefony/xiaomi-11t-8gb128gb-moonlight-white
+title='Xiaomi 11T, 8GB/128GB, Moonlight White + antivirová ochrana ZDARMA!'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art209 -> https://mall.cz/mobilni-telefony/oneplus-nord-2t-5g-12gb-256gb-gray-shadow
+title='OnePlus Nord 2T 5G, 12GB/256GB, Gray Shadow + antivirová ochrana ZDARMA!'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art210 -> https://mall.cz/mobilni-telefony/realme-gt-2-8gb-128gb-steel-black
+title='realme GT 2, 8GB/128GB, Steel Black + antivirová ochrana ZDARMA!'	price='11 290 Kč' 
+# http://fitlayout.github.io/resource/art211 -> https://mall.cz/mobilni-telefony/samsung-galaxy-s20-fe-6gb-128gb-5g-green-100059195537
+title='Samsung Galaxy S20 FE, 6GB/128GB, 5G, Green'	price='90 %' 
+# http://fitlayout.github.io/resource/art212 -> https://mall.cz/mobilni-telefony/nokia-xr20-6gb128gb-granite
+title='Nokia XR20, 6GB/128GB, Granite + antivirová ochrana ZDARMA!'	price='12 890 Kč' 
+# http://fitlayout.github.io/resource/art213 -> https://mall.cz/mobilni-telefony/apple-iphone-11-64gb-purple
+title='Apple iPhone 11, 64GB, Purple'	price='90 %' 
+# http://fitlayout.github.io/resource/art214 -> https://mall.cz/mobilni-telefony/apple-iphone-11-64gb-black
+title='Apple iPhone 11, 64GB, Black'	price='12 890 Kč' 
+# http://fitlayout.github.io/resource/art215 -> https://mall.cz/mobilni-telefony/apple-iphone-11-64gb-red
+title='Apple iPhone 11, 64GB, (PRODUCT)RED™'	price='100 %' 
+# http://fitlayout.github.io/resource/art216 -> https://mall.cz/mobilni-telefony/apple-iphone-11-64gb-white
+title='Apple iPhone 11, 64GB, White'	price='12 890 Kč' 
+# http://fitlayout.github.io/resource/art217 -> https://mall.cz/mobilni-telefony/apple-iphone-11-64gb-yellow
+title='Apple iPhone 11, 64GB, Yellow'	price='100 %' 
+# http://fitlayout.github.io/resource/art218 -> https://mall.cz/mobilni-telefony/sony-xperia-10-iv-5g-mint
+title='Sony Xperia 10 IV 5G, Mint'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art219 -> https://mall.cz/mobilni-telefony/sony-xperia-10-iv-5g-white
+title='Sony Xperia 10 IV 5G, White'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art220 -> https://mall.cz/mobilni-telefony/sony-xperia-10-iv-5g-lavander
+title='Sony Xperia 10 IV 5G, Lavander'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art221 -> https://mall.cz/mobilni-telefony/caterpillar-s53-5g-6gb-128gb-100095233291
+title='Caterpillar S53 5G, 6GB/128GB'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art222 -> https://mall.cz/mobilni-telefony/sony-xperia-10-iv-5g-black
+title='Sony Xperia 10 IV 5G, Black'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art223 -> https://mall.cz/mobilni-telefony/cat-s53-6gb-128gb
+title='CAT S53, 6GB/128GB + antivirová ochrana ZDARMA!'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art224 -> https://mall.cz/mobilni-telefony/google-pixel-6a-5g-6gb-128gb-chalk-100094511845
+title='Google Pixel 6a 5G, 6GB/128GB, Chalk'	price='12 489 Kč' 
+# http://fitlayout.github.io/resource/art225 -> https://mall.cz/mobilni-telefony/google-pixel-6a-5g-6gb128gb-100094511850
+title='Google Pixel 6a 5G, 6GB/128GB, Charcoal'	price='12 489 Kč' 
+# http://fitlayout.github.io/resource/art226 -> https://mall.cz/mobilni-telefony/google-pixel-6a-5g-6gb-128gb-sage-100094511855
+title='Google Pixel 6a 5G, 6GB/128GB, Sage'	price='12 489 Kč' 
+# http://fitlayout.github.io/resource/art227 -> https://mall.cz/mobilni-telefony/xiaomi-11t-8gb256gb-celestial-blue
+title='Xiaomi 11T, 8GB/256GB, Celestial Blue + antivirová ochrana ZDARMA!'	price='13 999 Kč' 
+# http://fitlayout.github.io/resource/art228 -> https://mall.cz/mobilni-telefony/webhiddenbrand-1-8gb-128gb-black-100095360995
+title='(1), 8GB/128GB, Black'	price='11 988 Kč' 
+# http://fitlayout.github.io/resource/art229 -> https://mall.cz/mobilni-telefony/realme-gt-neo-2-8gb-128gb-neo-black
+title='realme GT Neo 2, 8GB/128GB, Neo Black + antivirová ochrana ZDARMA!'	price='11 990 Kč' 
+# http://fitlayout.github.io/resource/art230 -> https://mall.cz/mobilni-telefony/realme-gt-neo-2-8gb-128gb-neo-blue
+title='realme GT Neo 2, 8GB/128GB, Neo Blue + antivirová ochrana ZDARMA!'	price='11 990 Kč' 
+# http://fitlayout.github.io/resource/art231 -> https://mall.cz/mobilni-telefony/umidigi-bison-gt2-pro-5g-8gb-256gb
+title='Umidigi Bison GT2 Pro 5G, 8GB/256GB'	price='11 990 Kč' 
+# http://fitlayout.github.io/resource/art232 -> https://mall.cz/mobilni-telefony/vivo-v23-5g-12gb-256gb-sunshine-100084113508
+title='Vivo V23 5G, 12GB/256GB, Sunshine Gold'	price='10 989 Kč' 
+# http://fitlayout.github.io/resource/art233 -> https://mall.cz/mobilni-telefony/samsung-galaxy-a53-8gb-256gb-black
+title='Samsung Galaxy A53 5G, 8GB/256GB, Black + antivirová ochrana ZDARMA!'	price='11 490 Kč' 
+# http://fitlayout.github.io/resource/art234 -> https://mall.cz/mobilni-telefony/samsung-galaxy-a53-8gb-256gb-blue
+title='Samsung Galaxy A53 5G, 8GB/256GB, Blue + antivirová ochrana ZDARMA!'	price='11 490 Kč' 
+# http://fitlayout.github.io/resource/art235 -> https://mall.cz/mobilni-telefony/samsung-galaxy-a53-8gb-256gb-orange
+title='Samsung Galaxy A53 5G, 8GB/256GB, Orange + antivirová ochrana ZDARMA!'	price='11 490 Kč' 
+# http://fitlayout.github.io/resource/art236 -> https://mall.cz/mobilni-telefony/oppo-reno-5-8gb128gb-5g-starry-black
+title='Oppo Reno 5 8GB/128GB 5G, Starry Black'	price='11 399 Kč' 
+# http://fitlayout.github.io/resource/art237 -> https://mall.cz/mobilni-telefony/honor-50-6gb128gb-midnight-black
+title='Honor 50, 6GB/128GB, Midnight Black + navíc smart hodinky ZDARMA!'	price='10 723 Kč' 
+# http://fitlayout.github.io/resource/art238 -> https://mall.cz/mobilni-telefony/realme-gt-2-8gb-128gb-paper-green
+title='realme GT 2, 8GB/128GB, Paper Green + antivirová ochrana ZDARMA!'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art239 -> https://mall.cz/mobilni-telefony/realme-gt-2-8gb-128gb-paper-white
+title='realme GT 2, 8GB/128GB, Paper White + antivirová ochrana ZDARMA!'	price='10 170 Kč' 
+# http://fitlayout.github.io/resource/art240 -> https://mall.cz/mobilni-telefony/samsung-galaxy-m53-5g-8gb-128gb-blue
+title='Samsung Galaxy M53 5G, 8GB/128GB, Blue + antivirová ochrana ZDARMA!'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art241 -> https://mall.cz/mobilni-telefony/umidigi-bison-gt2-5g-8gb-128gb
+title='Umidigi Bison GT2 5G, 8GB/128GB'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art242 -> https://mall.cz/mobilni-telefony/poco-f4-8gb-256gb-nebula-green
+title='POCO F4, 8GB/256GB, Nebula Green'	price='10 290 Kč' 
+# http://fitlayout.github.io/resource/art243 -> https://mall.cz/mobilni-telefony/poco-f4-8gb-256gb-moonlight-silver
+title='POCO F4, 8GB/256GB, Moonlight Silver'	price='10 290 Kč' 
+# http://fitlayout.github.io/resource/art244 -> https://mall.cz/mobilni-telefony/poco-f4-8gb-256gb-night-black
+title='POCO F4, 8GB/256GB, Night Black'	price='10 290 Kč' 
+# http://fitlayout.github.io/resource/art245 -> https://mall.cz/mobilni-telefony/oukitel-wp15-8gb-128gb-black
+title='Oukitel WP15, 8GB/128GB, Black + antivirová ochrana ZDARMA!'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art246 -> https://mall.cz/mobilni-telefony/samsung-galaxy-m53-5g-8gb-128gb-green
+title='Samsung Galaxy M53 5G, 8GB/128GB, Green + antivirová ochrana ZDARMA!'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art247 -> https://mall.cz/mobilni-telefony/vivo-v23-5g-12gb-256gb-stardust-100084113505
+title='Vivo V23 5G, 12GB/256GB, Stardust Black'	price='10 989 Kč' 
+# http://fitlayout.github.io/resource/art248 -> https://mall.cz/mobilni-telefony/motorola-moto-edge-30-8gb-128gb-meteor-gray
+title='Motorola Edge 30, 8GB/128GB, Meteor Gray + antivirová ochrana ZDARMA!'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art249 -> https://mall.cz/mobilni-telefony/iget-gbl5000-8gb128gb-orange
+title='iGET GBL5000, 8GB/128GB, Orange + antivirová ochrana ZDARMA!'	price='9 439 Kč' 
+# http://fitlayout.github.io/resource/art250 -> https://mall.cz/mobilni-telefony/xiaomi-redmi-note-11-pro-plus-5g-6gb-128gb-forest-green
+title='Xiaomi Redmi Note 11 Pro+ 5G, 6GB/128GB, Forest Green + antivirová ochrana ZDARMA!'	price='9 290 Kč' 
+# http://fitlayout.github.io/resource/art251 -> https://mall.cz/mobilni-telefony/realme-gt-master-8gb256gb-cosmos-black
+title='realme GT Master, 8GB/256GB, Cosmos Black + antivirová ochrana ZDARMA!'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art252 -> https://mall.cz/mobilni-telefony/realme-9-pro-8gb-256gb-sunrise-blue
+title='realme 9 Pro+, 8GB/256GB, Sunrise Blue'	price='9 789 Kč' 
+# http://fitlayout.github.io/resource/art253 -> https://mall.cz/mobilni-telefony/xiaomi-redmi-note-11-pro-plus-5g-6gb-128gb-star-blue
+title='Xiaomi Redmi Note 11 Pro+ 5G, 6GB/128GB, Star Blue + antivirová ochrana ZDARMA!'	price='9 290 Kč ' 
+# http://fitlayout.github.io/resource/art254 -> https://mall.cz/mobilni-telefony/xiaomi-poco-f3-8gb256gb-arctic-white
+title='POCO F3, 8GB/256GB, Arctic White + antivirová ochrana ZDARMA!'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art255 -> https://mall.cz/mobilni-telefony/realme-gt-master-8gb256gbvoyager-grey
+title='realme GT Master, 8GB/256GB,Voyager Grey + antivirová ochrana ZDARMA!'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art256 -> https://mall.cz/mobilni-telefony/realme-9-pro-8gb-256gb-aurora-green
+title='realme 9 Pro+, 8GB/256GB, Aurora Green'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art257 -> https://mall.cz/mobilni-telefony/oneplus-nord-2t-5g-8gb-128gb-jade-fog
+title='OnePlus Nord 2T 5G, 8GB/128GB, Jade Fog + antivirová ochrana ZDARMA!'	price='8 989 Kč' 
+# http://fitlayout.github.io/resource/art258 -> https://mall.cz/mobilni-telefony/realme-9-pro-8gb-256gb-midnight-black
+title='realme 9 Pro+, 8GB/256GB, Midnight Black'	price='9 419 Kč' 
+# http://fitlayout.github.io/resource/art259 -> https://mall.cz/mobilni-telefony/realme-gt-master-8gb256gb-luna-white
+title='realme GT Master, 8GB/256GB, Luna White + antivirová ochrana ZDARMA!'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art260 -> https://mall.cz/mobilni-telefony/oneplus-nord-2t-5g-8gb-128gb-gray-100095233275
+title='OnePlus Nord 2T 5G, 8GB/128GB, Gray Shadow'	price='8 988 Kč' 
+# http://fitlayout.github.io/resource/art261 -> https://mall.cz/mobilni-telefony/xiaomi-redmi-note-11-pro-5g-100084113568
+title='Xiaomi Redmi Note 11 Pro+ 5G, 6GB/128GB, Graphite Gray'	price='100 %' 
+# http://fitlayout.github.io/resource/art262 -> https://mall.cz/mobilni-telefony/motorola-moto-edge-30-8gb-128gb-aurora-green
+title='Motorola Edge 30, 8GB/128GB, Aurora Green + antivirová ochrana ZDARMA!'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art263 -> https://mall.cz/mobilni-telefony/nokia-x20-6-128gb-dual-sim-nordic-100095739546
+title='OMLOUVÁME SE, ALE TATO STRÁNKA JIŽ NEEXISTUJE.'	price='14 dnů na vrácení' 
+# http://fitlayout.github.io/resource/art264 -> https://mall.cz/mobilni-telefony/vivo-ef-v21-5g-modra-dazzle
+title='VIVO V21 5G, 8GB/128GB, Modrá Dazzle + antivirová ochrana ZDARMA!'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art265 -> https://mall.cz/mobilni-telefony/oukitel-wp13-8gb-128gb-black
+title='Oukitel WP13, 8GB/128GB, Black + antivirová ochrana ZDARMA!'	price='8 989 Kč' 
+# http://fitlayout.github.io/resource/art266 -> https://mall.cz/mobilni-telefony/motorola-edge-30-neo-8gb-128gb-veri-peri
+title='Motorola Edge 30 NEO, 8GB/128GB, Very Peri + antivirová ochrana ZDARMA!'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art267 -> https://mall.cz/mobilni-telefony/motorola-edge-30-neo-8gb-128gb-black-onyx
+title='Motorola Edge 30 NEO, 8GB/128GB, Black Onyx + antivirová ochrana ZDARMA!'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art268 -> https://mall.cz/mobilni-telefony/samsung-galaxy-a53-6gb-128gb-blue
+title='Samsung Galaxy A53 5G, 6GB/128GB, Blue + antivirová ochrana ZDARMA!'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art269 -> https://mall.cz/mobilni-telefony/samsung-galaxy-a53-6gb-128gb-black
+title='Samsung Galaxy A53 5G, 6GB/128GB, Black + antivirová ochrana ZDARMA!'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art270 -> https://mall.cz/mobilni-telefony/samsung-galaxy-a53-6gb-128gb-white
+title='Samsung Galaxy A53 5G, 6GB/128GB, White + antivirová ochrana ZDARMA!'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art271 -> https://mall.cz/mobilni-telefony/samsung-galaxy-a53-5g-6gb-128gb-orange-100080309129
+title='Samsung Galaxy A53 5G, 6GB/128GB, Orange'	price='100 %' 
+# http://fitlayout.github.io/resource/art272 -> https://mall.cz/mobilni-telefony/iget-gbl5000-8gb128gb-black
+title='iGET GBL5000, 8GB/128GB, Black + antivirová ochrana ZDARMA!'	price='9 399 Kč' 
+# http://fitlayout.github.io/resource/art273 -> https://mall.cz/mobilni-telefony/poco-x4-gt-8gb-256gb-blue
+title='POCO X4 GT, 8GB/256GB, Blue'	price='9 329 Kč' 
+# http://fitlayout.github.io/resource/art274 -> https://mall.cz/mobilni-telefony/poco-x4-gt-8gb-256gb-black
+title='POCO X4 GT 8GB/256GB Black'	price='9 329 Kč' 
+# http://fitlayout.github.io/resource/art275 -> https://mall.cz/mobilni-telefony/poco-x4-gt-8gb-256gb-silver
+title='POCO X4 GT, 8GB/256GB, Silver'	price='9 329 Kč' 
+# http://fitlayout.github.io/resource/art276 -> https://mall.cz/mobilni-telefony/iget-blackview-gbv8800-8gb-128gb-black
+title='iGET Blackview GBV8800, 8GB/128GB, Black + antivirová ochrana ZDARMA!'	price='9 889 Kč' 
+# http://fitlayout.github.io/resource/art277 -> https://mall.cz/mobilni-telefony/myphone-hammer-explorer-pro-6gb128gb-silver
+title='myPhone Hammer Explorer Pro, 6GB/128GB, Silver + antivirová ochrana ZDARMA!'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art278 -> https://mall.cz/mobilni-telefony/myphone-hammer-explorer-pro-6gb128gb-orange
+title='myPhone Hammer Explorer Pro, 6GB/128GB, Orange + antivirová ochrana ZDARMA!'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art279 -> https://mall.cz/mobilni-telefony/poco-f3-8gb-256gb-moonlight-silver
+title='POCO F3, 8GB/256GB, Moonlight Silver'	price='10 309 Kč' 
+# http://fitlayout.github.io/resource/art280 -> https://mall.cz/mobilni-telefony/oukitel-wp15-5g-8-128gb-15600mah-cerna-100068592609
+title='Oukitel WP15 5G 8/128GB, 15600mAh, černá'	price='40 %' 
+# http://fitlayout.github.io/resource/art281 -> https://mall.cz/mobilni-telefony/doogee-doogee-s98-8-256gb-6000-mah-100089780817
+title='Doogee DOOGEE S98 8/256GB 6000 mAh, černá'	price='100 %' 
+# http://fitlayout.github.io/resource/art282 -> https://mall.cz/mobilni-telefony/samsung-galaxy-a52s-5g-6gb128gb-black-1
+title='Samsung Galaxy A52s 5G, 6GB/128GB, Black + antivirová ochrana ZDARMA!'	price='11 490 Kč' 
+# http://fitlayout.github.io/resource/art283 -> https://mall.cz/mobilni-telefony/samsung-galaxy-a52s-5g-6gb128gb-violet-1
+title='Samsung Galaxy A52s 5G, 6GB/128GB, Violet + antivirová ochrana ZDARMA!'	price='98 %' 
+# http://fitlayout.github.io/resource/art284 -> https://mall.cz/mobilni-telefony/samsung-galaxy-a52s-5g-6gb128gb-green-1
+title='Samsung Galaxy A52s 5G, 6GB/128GB, Green + antivirová ochrana ZDARMA!'	price='11 490 Kč' 
+# http://fitlayout.github.io/resource/art285 -> https://mall.cz/mobilni-telefony/ulefone-ulefone-power-armor-13-8-256gb-13200mah-100078011518
+title='Ulefone Power Armor 13, 8/256GB 13200mAh, černý'	price='90 %' 
+# http://fitlayout.github.io/resource/art286 -> https://mall.cz/mobilni-telefony/doogee-s90c-4-64gb-super-set-cerna-100080625301
+title='Doogee S90C 4/64GB super set, černá'	price='9 299 Kč' 
+# http://fitlayout.github.io/resource/art287 -> https://mall.cz/mobilni-telefony/iget-gbv6600-pro-thermo-4gb64gb-orange
+title='iGET GBV6600 Pro Thermo, 4GB/64GB, Orange + antivirová ochrana ZDARMA!'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art288 -> https://mall.cz/mobilni-telefony/huawei-nova-8i-6gb-128gb-starry-black
+title='Huawei Nova 8i, 6GB/128GB, Starry Black + antivirová ochrana ZDARMA!'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art289 -> https://mall.cz/mobilni-telefony/realme-gt-master-6gb128gb-luna-white
+title='realme GT Master, 6GB/128GB, Luna White + antivirová ochrana ZDARMA!'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art290 -> https://mall.cz/mobilni-telefony/oppo-reno-5z-8gb128gb-5g-cosmo-blue
+title='Oppo Reno 5Z 8GB/128GB 5G, Cosmo Blue'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art291 -> https://mall.cz/mobilni-telefony/tecno-camon-18-premier-8gb-256gb-polar-night
+title='Tecno Camon 18 Premier, 8GB/256GB, Polar Night + antivirová ochrana ZDARMA!'	price='8 889 Kč' 
+# http://fitlayout.github.io/resource/art292 -> https://mall.cz/mobilni-telefony/tecno-camon-18-premier-8gb-256gb-vast-sky
+title='Tecno Camon 18 Premier, 8GB/256GB, Vast Sky + antivirová ochrana ZDARMA!'	price='8 889 Kč' 
+# http://fitlayout.github.io/resource/art293 -> https://mall.cz/mobilni-telefony/iget-gbv6600-pro-thermo-4gb64gb-black
+title='iGET GBV6600 Pro Thermo, 4GB/64GB, Black + antivirová ochrana ZDARMA!'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art294 -> https://mall.cz/mobilni-telefony/xiaomi-11-lite-5g-ne-8gb128gb-truffle-black
+title='Xiaomi 11 Lite 5G NE, 8GB/128GB, Truffle Black + antivirová ochrana ZDARMA!'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art295 -> https://mall.cz/mobilni-telefony/xiaomi-redmi-note-11-pro-5g-6gb-128gb-atlanticblue
+title='Xiaomi Redmi Note 11 Pro 5G, 6GB/128GB, Atlantic Blue + antivirová ochrana ZDARMA!'	price='8 690 Kč' 
+# http://fitlayout.github.io/resource/art296 -> https://mall.cz/mobilni-telefony/xiaomi-redmi-note-11-pro-5g-6gb128gb-100084113496
+title='Xiaomi Redmi Note 11 Pro 5G, 6GB/128GB, Polar White'	price='8 988 Kč' 
+# http://fitlayout.github.io/resource/art297 -> https://mall.cz/mobilni-telefony/xiaomi-redmi-note-11-pro-5g-6gb128gb-100084113493
+title='Xiaomi Redmi Note 11 Pro 5G, 6GB/128GB, Graphite Gray'	price='80 %' 
+# http://fitlayout.github.io/resource/art298 -> https://mall.cz/mobilni-telefony/poco-x4-pro-5g-8gb-256gb-yellow-100080307789
+title='POCO X4 Pro 5G, 8GB/256GB, Yellow'	price='10 %' 
+# http://fitlayout.github.io/resource/art299 -> https://mall.cz/mobilni-telefony/poco-x4-pro-5g-8gb-256gb-laser-blue-100080307788
+title='POCO X4 Pro 5G, 8GB/256GB, Laser Blue'	price='10 %' 
+# http://fitlayout.github.io/resource/art300 -> https://mall.cz/mobilni-telefony/lenovo-motorola-edge-20-5g-frosted-white-100077376567
+title='OMLOUVÁME SE, ALE TATO STRÁNKA JIŽ NEEXISTUJE.'	price='14 dnů na vrácení' 
+# http://fitlayout.github.io/resource/art301 -> https://mall.cz/mobilni-telefony/nokia-x10-4-128gb-dual-sim-forest-100095936613
+title='OMLOUVÁME SE, ALE TATO STRÁNKA JIŽ NEEXISTUJE.'	price='14 dnů na vrácení' 
+# http://fitlayout.github.io/resource/art302 -> https://mall.cz/mobilni-telefony/doogee-v10-8-128-gb-8500mah-5g-100088315533
+title='Doogee V10 8/128 GB, 8500mAh 5G , černý'	price='100 %' 
+# http://fitlayout.github.io/resource/art303 -> https://mall.cz/mobilni-telefony/webhiddenbrand-xiaomi-mi-11-lite-4g-8gb128gb-100092113930
+title='Xiaomi Mi 11 Lite 4G 8GB/128GB, černá'	price='8 499 Kč' 
+# http://fitlayout.github.io/resource/art304 -> https://mall.cz/mobilni-telefony/doogee-doogee-s97-pro-8-128gb-8500mah-laser-100068592603
+title='Doogee S97 Pro 8/128GB, 8500mAh, Laser meter, oranžový'	price='7 999 Kč' 
+# http://fitlayout.github.io/resource/art305 -> https://mall.cz/mobilni-telefony/doogee-s97-pro-8-128gb-8500mah-100068592602
+title='Doogee S97 Pro 8/128GB, 8500mAh, Laser meter, červený'	price='7 999 Kč' 
+# http://fitlayout.github.io/resource/art306 -> https://mall.cz/mobilni-telefony/samsung-galaxy-a33-6gb-128gb-white-100080307764
+title='Samsung Galaxy A33, 6GB/128GB, White'	price='7 989 Kč' 
+# http://fitlayout.github.io/resource/art307 -> https://mall.cz/mobilni-telefony/samsung-galaxy-a33-6gb-128gb-orange
+title='Samsung Galaxy A33 5G, 6GB/128GB, Orange + antivirová ochrana ZDARMA!'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art308 -> https://mall.cz/mobilni-telefony/samsung-galaxy-a33-6gb-128gb-blue
+title='Samsung Galaxy A33 5G, 6GB/128GB, Blue + antivirová ochrana ZDARMA!'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art309 -> https://mall.cz/mobilni-telefony/samsung-galaxy-a33-6gb-128gb-black
+title='Samsung Galaxy A33 5G, 6GB/128GB, Black + antivirová ochrana ZDARMA!'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art310 -> https://mall.cz/mobilni-telefony/samsung-galaxy-a23-5g-4gb-128gb-blue
+title='Samsung Galaxy A23 5G, 4GB/128GB, Blue + antivirová ochrana ZDARMA!'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art311 -> https://mall.cz/mobilni-telefony/xiaomi-redmi-note-10-pro-6gb128gb-glacier-blue
+title='Xiaomi Redmi Note 10 Pro, 6GB/128GB, Glacier Blue'	price='92 %' 

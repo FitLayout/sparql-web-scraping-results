@@ -1,0 +1,80 @@
+# http://fitlayout.github.io/resource/art51 -> https://www.imdb.com/title/tt6763664/fullcredits/
+character=Steven Crain	name=Michiel Huisman	episodes=10 episodes, 2018 	
+character=Olivia Crain	name=Carla Gugino	episodes=10 episodes, 2018 	
+character=Young Hugh Crain	name=Henry Thomas	episodes=10 episodes, 2018 	
+character=Shirley Crain	name=Elizabeth Reaser	episodes=10 episodes, 2018 	
+character=Luke Crain	name=Oliver Jackson-Cohen	episodes=10 episodes, 2018 	
+character=Theodora Crain	name=Kate Siegel	episodes=10 episodes, 2018 	
+character=Nell Crain	name=Victoria Pedretti	episodes=10 episodes, 2018 	
+character=Young Shirley	name=Lulu Wilson	episodes=10 episodes, 2018 	
+character=Young Theo	name=Mckenna Grace	episodes=10 episodes, 2018 	
+character=Young Steven	name=Paxton Singleton	episodes=10 episodes, 2018 	
+character=Young Luke	name=Julian Hilliard	episodes=10 episodes, 2018 	
+character=Young Nell	name=Violet McGraw	episodes=10 episodes, 2018 	
+character=Hugh Crain	name=Timothy Hutton	episodes=10 episodes, 2018 	
+character=Steven Crain	name=Natalia Rosminati	episodes=10 episodes, 2018 	
+character=Kevin Harris	name=Anthony Ruivivar	episodes=8 episodes, 2018 	
+character=Leigh Crain	name=Samantha Sloyan	episodes=8 episodes, 2018 	
+character=Mrs. Dudley	name=Annabeth Gish	episodes=6 episodes, 2018 	
+character=Mr. Dudley	name=Robert Longstreet	episodes=6 episodes, 2018 	
+character=Abigail	name=Olive Abercrombie	episodes=5 episodes, 2018 	
+character=Ryan	name=James Lafferty	episodes=4 episodes, 2018 	
+character=Trish Park	name=Levy Tran	episodes=4 episodes, 2018 	
+character=Allie Harris	name=May Badr	episodes=4 episodes, 2018 	
+character=William Hill	name=Fedor Steer	episodes=4 episodes, 2018 	
+character=Jayden Harris	name=Logan Medina	episodes=4 episodes, 2018 	
+character=Older Hazel	name=Mimi Gould	episodes=3 episodes, 2018 	
+character=Arthur	name=Jordane Christie	episodes=3 episodes, 2018 	
+character=Poppy Hill	name=Katie Parker	episodes=3 episodes, 2018 	
+character=Aunt Janet	name=Elizabeth Becka	episodes=3 episodes, 2018 	
+character=Andi	name=Brittany Godfrey	episodes=3 episodes, 2018 	
+character=Joey	name=Anna Enger Ritch	episodes=2 episodes, 2018 	
+character=Funeral Director	name=Jamie Flanagan	episodes=2 episodes, 2018 	
+character=Stacey	name=Katie Carpenter	episodes=2 episodes, 2018 	
+character=Max	name=Arianne Martin	episodes=2 episodes, 2018 	
+character=Mother	name=Arianne Martin	episodes=2 episodes, 2018 	
+character=Max	name=Trace Masters	episodes=2 episodes, 2018 	
+character=Max	name=David Shae	episodes=2 episodes, 2018 	
+character=Father	name=David Shae	episodes=2 episodes, 2018 	
+character=Fan 	name=Dane MacWhinnie	episodes=1 episode, 2018 	
+character=Cocktail Server	name=Andzelika Bobrova	episodes=2 episodes, 2018 	
+character=Paige	name=Selena Anduze	episodes=1 episode, 2018 	
+character=Older Poppy	name=Polly Craig	episodes=1 episode, 2018 	
+character=Gordon	name=Nelson Bonilla	episodes=1 episode, 2018 	
+character=Sheriff Beckley	name=Keith Arthur Bolden	episodes=1 episode, 2018 	
+character=Dr. Montague	name=Russ Tamblyn	episodes=1 episode, 2018 	
+character=Mrs. Walker	name=Saidah Arrika Ekulona	episodes=1 episode, 2018 	
+character=Addict 3	name=Amber Chaney	episodes=1 episode, 2018 	
+character=Clerk	name=Jonathan Kleitman	episodes=1 episode, 2018 	
+character=NA Chip Person	name=Tiffany Denise Hobbs	episodes=1 episode, 2018 	
+character=Mold Remediator	name=Elan Gale	episodes=1 episode, 2018 	
+character=Fertility Doctor	name=Carrie Walrond Hood	episodes=1 episode, 2018 	
+character=Fan 	name=Allie Arasi	episodes=1 episode, 2018 	
+character=Addict 1	name=Wes Jetton	episodes=1 episode, 2018 	
+character=Rehab Coordinator	name=Tenaya Cleveland	episodes=1 episode, 2018 	
+character=Attorney	name=Kurt Yue	episodes=1 episode, 2018 	
+character=Addict 2	name=Dominick Racano	episodes=1 episode, 2018 	
+character=Eileen	name=Christine Horn	episodes=1 episode, 2018 	
+character=Staff Member	name=Lauren Halperin	episodes=1 episode, 2018 	
+character=Bartender	name=Justin James Boykin	episodes=1 episode, 2018 	
+character=Young Patient	name=Dylan Partington	episodes=1 episode, 2018 	
+character=Kelsey Dunlap	name=Charli Slaughter	episodes=1 episode, 2018 	
+character=Fan 	name=JP Valenti	episodes=1 episode, 2018 	
+character=Rick	name=Craig Welzbacher	episodes=1 episode, 2018 	
+character=New Reporter	name=Amahl Lipkins	episodes=1 episode, 2018 	
+character=House Ghost	name=Andrew S. McMillan	episodes=3 episodes, 2018 	
+character=House Ghost	name=Jeremy Ambler	episodes=2 episodes, 2018 	
+character=Pedestrian with Car	name=Ashley Uecker	episodes=2 episodes, 2018 	
+character=House Ghost	name=Kathy Walton	episodes=2 episodes, 2018 	
+character=Homeless Person	name=Juan Gaspard	episodes=1 episode, 2018 	
+character=Funeral Family Member	name=Melinda Russell	episodes=1 episode, 2018 	
+character=Funeral Director	name=Tommy Campbell	episodes=1 episode, 2018 	
+character=NYE Party Guest	name=Amye Partain	episodes=1 episode, 2018 	
+character=Funeral Director	name=Chad J. Wagner	episodes=1 episode, 2018 	
+character=Construction Worker	name=Mason Pike	episodes=1 episode, 2018 	
+character=Dealer	name=Ruben Vidal	episodes=1 episode, 2018 	
+character=Ghostly Hands on Theo	name=Jeanette Stout	episodes=1 episode, 2018 	
+character=N.A. Member	name=Reid Pittman	episodes=1 episode, 2018 	
+character=Stuffed Seal	name=Darrell Duane	episodes=1 episode, 2018 	
+character=Waiter	name=Benjamin Weaver	episodes=1 episode, 2018 	
+character=N.A. Member	name=Warren Franks	episodes=1 episode, 2018 	

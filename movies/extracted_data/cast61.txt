@@ -1,0 +1,80 @@
+# http://fitlayout.github.io/resource/art61 -> https://www.imdb.com/title/tt6898970/fullcredits/
+character=Cal McTeer	name=Charlotte Best	episodes=8 episodes, 2018 	
+character=Dylan	name=Marco Pigossi	episodes=8 episodes, 2018 	
+character=Augie McTeer	name=Aaron Jakubenko	episodes=8 episodes, 2018 	
+character=Corey Welch	name=Mattias Inwood	episodes=8 episodes, 2018 	
+character=Lamar Cloutier	name=Dalip Sondhi	episodes=8 episodes, 2018 	
+character=Rosa	name=Caroline Brazier	episodes=8 episodes, 2018 	
+character=Adrielle Cuthbert	name=Elsa Pataky	episodes=8 episodes, 2018 	
+character=Leandra	name=Jet Tranter	episodes=8 episodes, 2018 	
+character=Paul Murdoch	name=Alex Dimitriades	episodes=7 episodes, 2018 	
+character=Colton Raxter	name=Richard Davies	episodes=7 episodes, 2018 	
+character=Bill Sentelle	name=Peter O	episodes=7 episodes, 2018 	
+character=Bill Sentelle	name=Brien	episodes=7 episodes, 2018 	
+character=Genoveva	name=Cate Feldmann	episodes=7 episodes, 2018 	
+character=Laura Maney	name=Annabelle Stephenson	episodes=7 episodes, 2018 	
+character=Wendall Overman	name=Brad McMurray	episodes=7 episodes, 2018 	
+character=Violca	name=Madeleine Madden	episodes=6 episodes, 2018 	
+character=Gilles	name=Finn Little	episodes=6 episodes, 2018 	
+character=Gregori Stolin	name=Jacek Koman	episodes=6 episodes, 2018 	
+character=Bijou	name=Chloe De Los Santos	episodes=6 episodes, 2018 	
+character=Somoche	name=Bianca Saul	episodes=6 episodes, 2018 	
+character=Lev Nuyland	name=Alex Andreas	episodes=6 episodes, 2018 	
+character=Pat McTeer	name=Dustin Clare	episodes=6 episodes, 2018 	
+character=Leo De Luca	name=Sam Conway	episodes=6 episodes, 2018 	
+character=Ian 	name=Tom Cossettini	episodes=6 episodes, 2018 	
+character=Memphis	name=Tom Cossettini	episodes=6 episodes, 2018 	
+character=Reid	name=Tom Cossettini	episodes=6 episodes, 2018 	
+character=Young Cal	name=Zoe King	episodes=5 episodes, 2018 	
+character=Yvette	name=Loani Arman	episodes=5 episodes, 2018 	
+character=Jared	name=Hunter Page-Lochard	episodes=4 episodes, 2018 	
+character=Grayson Raxter	name=Daniel Roberts	episodes=4 episodes, 2018 	
+character=Cliff Trice	name=Mick Corrigan	episodes=4 episodes, 2018 	
+character=Hasham Deeb	name=Michael Valamios	episodes=4 episodes, 2018 	
+character=Sava	name=Yasca Sinigaglia	episodes=4 episodes, 2018 	
+character=Thomas Penny	name=Scott Gregory	episodes=4 episodes, 2018 	
+character=Stolin	name=Jace Lee	episodes=4 episodes, 2018 	
+character=Henchman	name=Jace Lee	episodes=4 episodes, 2018 	
+character=Edwin Welch	name=Damien Garvey	episodes=2 episodes, 2018 	
+character=China Tom	name=Gary Young	episodes=2 episodes, 2018 	
+character=Young Genoveva	name=Melanie Zanetti	episodes=2 episodes, 2018 	
+character=Milos	name=Darko Tuscan	episodes=2 episodes, 2018 	
+character=Henchman	name=Scott George	episodes=2 episodes, 2018 	
+character=Stolin	name=Scott George	episodes=2 episodes, 2018 	
+character=Zach Maney	name=Sam Foster	episodes=1 episode, 2018 	
+character=Sea Widow	name=Luisa Prosser	episodes=1 episode, 2018 	
+character=Crab Fisherman 	name=Robert Reitano	episodes=1 episode, 2018 	
+character=Siren Mother	name=Lisa Seiffert	episodes=1 episode, 2018 	
+character=Police Sergeant	name=John Reynolds	episodes=1 episode, 2018 	
+character=Ronnie Dedrick	name=Brendan Glanville	episodes=1 episode, 2018 	
+character=Crab Fisherman 	name=Stephen Daddow	episodes=1 episode, 2018 	
+character=Siren 	name=Arnijka Larcombe-Weate	episodes=1 episode, 2018 	
+character=Obstetrician	name=Miyuki Lotz	episodes=1 episode, 2018 	
+character=Prison Officer	name=Tracie Filmer	episodes=1 episode, 2018 	
+character=Dr. Keeble	name=Barbara Lowing	episodes=1 episode, 2018 	
+character=Minister of Antiquities	name=Neveen Hanna	episodes=1 episode, 2018 	
+character=Professor Lonstrom	name=Bryan Probets	episodes=1 episode, 2018 	
+character=Young Adrielle	name=Matilda Harding	episodes=1 episode, 2018 	
+character=Algerian Bodyguard	name=Daran Thomson	episodes=1 episode, 2018 	
+character=Young Bill	name=Rijen Laine	episodes=1 episode, 2018 	
+character=Morgue Attendant	name=Ngoc Phan	episodes=1 episode, 2018 	
+character=Tidelander	name=Sharnae Orley	episodes=1 episode, 2018 	
+character=Handsome Tourist	name=Ethan Keenan	episodes=1 episode, 2018 	
+character=Chris Crotty	name=Chantelle Slee	episodes=1 episode, 2018 	
+character=Tidelander	name=Zoe Blake	episodes=1 episode, 2018 	
+character=Dana Mason	name=Paula Nazarski	episodes=1 episode, 2018 	
+character=Tidelander	name=Joel Greasley	episodes=1 episode, 2018 	
+character=Tidelander	name=Haywa Adams	episodes=1 episode, 2018 	
+character=Tidelander	name=Gabriel Keane	episodes=1 episode, 2018 	
+character=Tidelander	name=Natalie Hunt	episodes=1 episode, 2018 	
+character=Tidelander	name=Brandon Sherwood	episodes=1 episode, 2018 	
+character=Tidelander	name=Winson Lam	episodes=2 episodes, 2018 	
+character=Tidelander	name=Annaliese McGuire	episodes=1 episode, 2018 	
+character=Trawlerman In Bar	name=Marco Sinigaglia	episodes=1 episode, 2018 	
+character=Flirty Bar Patron	name=Tara Wraith	episodes=1 episode, 2018 	
+character=Pub Patron	name=Leo Castro	episodes=1 episode, 2018 	
+character=Sea Widow	name=Susan Bush	episodes=1 episode, 2018 	
+character=Flashback Shooter	name=Charmain Jackson	episodes=1 episode, 2018 	
+character=Tidelander	name=Jack T. Murphy	episodes=1 episode, 2018 	
+character=Young Rosa	name=Gemma Willing	episodes=1 episode, 2018 	
+character=Prison Inmate	name=Sara Hickman	episodes=1 episode, 2018 	

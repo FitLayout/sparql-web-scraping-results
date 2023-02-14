@@ -1,0 +1,1402 @@
+# http://fitlayout.github.io/resource/art37 -> https://www.imdb.com/title/tt1856010/fullcredits/
+character=Claire Underwood	name=Robin Wright	episodes=73 episodes, 2013-2018 	
+character=Doug Stamper	name=Michael Kelly	episodes=72 episodes, 2013-2018 	
+character=Francis Underwood	name=Kevin Spacey	episodes=65 episodes, 2013-2017 	
+character=Seth Grayson	name=Derek Cecil	episodes=49 episodes, 2014-2018 	
+character=Catherine Durant	name=Jayne Atkinson	episodes=38 episodes, 2013-2018 	
+character=Edward Meechum	name=Nathan Darrow	episodes=35 episodes, 2013-2016 	
+character=Remy Danton	name=Mahershala Ali	episodes=33 episodes, 2013-2016 	
+character=Tom Hammerschmidt	name=Boris McGiver	episodes=30 episodes, 2013-2018 	
+character=Thomas Yates	name=Paul Sparks	episodes=27 episodes, 2015-2018 	
+character=Jackie Sharp	name=Molly Parker	episodes=25 episodes, 2014-2016 	
+character=Leann Harvey	name=Neve Campbell	episodes=25 episodes, 2016-2017 	
+character=Nathan Green	name=Jeremy Holm	episodes=25 episodes, 2014-2018 	
+character=WH Press Corp	name=Marla Aaron Wapner	episodes=7 episodes, 2013-2017 	
+character=Assistant	name=Nini Le Huynh	episodes=21 episodes, 2015-2018 	
+character=Claire	name=Nini Le Huynh	episodes=21 episodes, 2015-2018 	
+character=Heather Dunbar	name=Elizabeth Marvel	episodes=20 episodes, 2014-2016 	
+character=Bob Birch	name=Larry Pine	episodes=21 episodes, 2013-2017 	
+character=Mark Usher	name=Campbell Scott	episodes=19 episodes, 2017-2018 	
+character=Linda Vasquez	name=Sakina Jaffrey	episodes=18 episodes, 2013-2018 	
+character=Janine Skorsky	name=Constance Zimmer	episodes=19 episodes, 2013-2018 	
+character=Rachel Posner	name=Rachel Brosnahan	episodes=19 episodes, 2013-2015 	
+character=Terry Womack	name=Curtiss Cook	episodes=18 episodes, 2013-2017 	
+character=Congressman	name=John Wells	episodes=3 episodes, 2014-2016 	
+character=Christina Gallagher	name=Kristen Connolly	episodes=17 episodes, 2013-2014 	
+character=Lucas Goodwin	name=Sebastian Arcelus	episodes=17 episodes, 2013-2016 	
+character=Donald Blythe	name=Reed Birney	episodes=17 episodes, 2013-2017 	
+character=Gavin Orsay	name=Jimmi Simpson	episodes=16 episodes, 2014-2015 	
+character=White House Press Corps	name=Antoinette Montgomery	episodes=4 episodes, 2016-2018 	
+character=Raymond Tusk	name=Gerald McRaney	episodes=16 episodes, 2013-2017 	
+character=Hannah Conway	name=Dominique McElligott	episodes=15 episodes, 2016-2017 	
+character=Will Conway	name=Joel Kinnaman	episodes=15 episodes, 2016-2017 	
+character=Freddy	name=Reg E. Cathey	episodes=15 episodes, 2013-2016 	
+character=Zoe Barnes	name=Kate Mara	episodes=14 episodes, 2013-2016 	
+character=Aidan Macallan	name=Damian Young	episodes=14 episodes, 2016-2017 	
+character=Nancy Kaufberger	name=Elizabeth Norment	episodes=14 episodes, 2013-2014 	
+character=Viktor Petrov	name=Lars Mikkelsen	episodes=13 episodes, 2015-2018 	
+character=Rep. Peter Russo	name=Corey Stoll	episodes=12 episodes, 2013-2016 	
+character=Lisa Williams	name=Kate Lyn Sheil	episodes=11 episodes, 2014-2017 	
+character=Protester	name=Tatyana N. Pokrovskaya	episodes=4 episodes, 2013-2017 	
+character=Jane Davis	name=Patricia Clarkson	episodes=11 episodes, 2017-2018 	
+character=Gillian Cole	name=Sandrine Holt	episodes=11 episodes, 2013-2014 	
+character=General Brockhart	name=Colm Feore	episodes=11 episodes, 2016-2017 	
+character=Ayla Sayyad	name=Mozhan Marnò	episodes=11 episodes, 2014-2015 	
+character=CIA Director	name=John Rue	episodes=11 episodes, 2015-2017 	
+character=Sean Jeffries	name=Korey Jackson	episodes=10 episodes, 2017 	
+character=Harry Marshall	name=Andrew Polk	episodes=10 episodes, 2016-2017 	
+character=Reporter	name=Tim Pabon	episodes=10 episodes, 2015-2018 	
+character=Charlie Conway	name=Finn Douglas	episodes=10 episodes, 2016-2017 	
+character=Reporter	name=Stephanie Cookie Carson	episodes=3 episodes, 2013-2018 	
+character=Convention Delegate	name=Loretta Burnette	episodes=3 episodes, 2014-2018 	
+character=Kate Baldwin	name=Kim Dickens	episodes=9 episodes, 2015-2017 	
+character=Alex Romero	name=James Martinez	episodes=9 episodes, 2017 	
+character=Secretary of Defense	name=Robert Poletick	episodes=5 episodes, 2014-2017 	
+character=Marine	name=Dan Matteucci	episodes=9 episodes, 2014-2018 	
+character=White House Press	name=Peter Chiamardas	episodes=4 episodes, 2015-2017 	
+character=WH Press Corps	name=Draaco Aventura	episodes=5 episodes, 2016 	
+character=Cynthia Driscoll	name=Eisa Davis	episodes=8 episodes, 2015-2016 	
+character=Eric Rawlings	name=Malcolm Madera	episodes=8 episodes, 2014-2017 	
+character=Reporter	name=Julie Mun	episodes=8 episodes, 2015-2018 	
+character=Reporter	name=Peter Muggleworth	episodes=1 episode, 2013-2015 	
+character=Annette Shepherd	name=Diane Lane	episodes=7 episodes, 2018 	
+character=Bill Shepherd	name=Greg Kinnear	episodes=7 episodes, 2018 	
+character=Adam Galloway	name=Ben Daniels	episodes=7 episodes, 2013-2014 	
+character=First Lady Tricia Walker	name=Joanna Going	episodes=7 episodes, 2014 	
+character=Laura Moretti	name=Wendy Moniz	episodes=7 episodes, 2016-2017 	
+character=Hector Mendoza	name=Benito Martinez	episodes=7 episodes, 2014-2015 	
+character=Nora Cafferty	name=Susan Pourfar	episodes=7 episodes, 2017-2018 	
+character=Kelsey Stewart	name=Kristen Sieh	episodes=7 episodes, 2017-2018 	
+character=Angela	name=Alexis Nichole Smith	episodes=7 episodes, 2017 	
+character=White House Steward	name=Felix Stevenson	episodes=7 episodes, 2015-2017 	
+character=Duncan Shepherd	name=Cody Fern	episodes=6 episodes, 2018 	
+character=Jim Matthews	name=Dan Ziskie	episodes=6 episodes, 2013-2017 	
+character=Abbott Vaughn	name=David Eichenbaum	episodes=6 episodes, 2015-2016 	
+character=Walter Doyle	name=Kenneth Tigar	episodes=6 episodes, 2013-2018 	
+character=WH Secretary	name=Andrea Leigh	episodes=5 episodes, 2015-2016 	
+character=FBI Agent	name=Jody Matzer	episodes=1 episode, 2014-2015 	
+character=Baseball Fan	name=James Krehely	episodes=2 episodes, 2014-2015 	
+character=White House Press Corp.	name=Chrislene Bright	episodes=4 episodes, 2015 	
+character=Audience	name=Marisol Correa	episodes=1 episode, 2016-2018 	
+character=Elizabeth Hale	name=Ellen Burstyn	episodes=5 episodes, 2016 	
+character=Xander Feng	name=Terry Chen	episodes=5 episodes, 2014 	
+character=Melody Cruz	name=Athena Karkanis	episodes=5 episodes, 2018 	
+character=Margaret Tilden	name=Kathleen Chalfant	episodes=5 episodes, 2013-2016 	
+character=Dr. Alan Cooke	name=Shawn Doyle	episodes=5 episodes, 2015 	
+character=Alexi Moryakov	name=Alexander Sokovikov	episodes=5 episodes, 2015 	
+character=Casey Giallo	name=Ian Blackman	episodes=5 episodes, 2014-2016 	
+character=Willard Erickson	name=John Henry Cox	episodes=5 episodes, 2014-2016 	
+character=Megan Hennessey	name=Libby Woodbridge	episodes=5 episodes, 2014 	
+character=Patti Whittaker	name=Suzanne Savoy	episodes=5 episodes, 2013-2017 	
+character=Carly Heath	name=Tawny Cypress	episodes=5 episodes, 2013 	
+character=Chief Justice	name=Michael Gabel	episodes=5 episodes, 2014-2017 	
+character=Mary	name=Kimberly S. Fairbanks	episodes=5 episodes, 2015-2017 	
+character=Connor Ellis	name=Sam Page	episodes=4 episodes, 2014 	
+character=Commission Member 2	name=Tony Moore	episodes=1 episode, 2013-2015 	
+character=Anti Union Protester	name=John Peddie	episodes=1 episode, 2013-2015 	
+character=Conway Security	name=Andre Faulcon	episodes=4 episodes, 2016 	
+character=Celia Jones	name=LisaGay Hamilton	episodes=4 episodes, 2016 	
+character=Brett Cole	name=Boris Kodjoe	episodes=4 episodes, 2018 	
+character=Gary Stamper	name=Kelly AuCoin	episodes=4 episodes, 2015 	
+character=Daniel Lanagin	name=Gil Birmingham	episodes=4 episodes, 2014 	
+character=Sharon	name=Christina Bennett Lind	episodes=4 episodes, 2015 	
+character=Sen. Charles Holburn	name=Karl Kenzler	episodes=4 episodes, 2013 	
+character=Barney Hull	name=Chuck Cooper	episodes=4 episodes, 2013-2015 	
+character=Bridget Cohen	name=Paton Ashbrook	episodes=4 episodes, 2017 	
+character=Eliana Caspi	name=Jenna Stern	episodes=4 episodes, 2015 	
+character=Sarah Russo	name=Daisy Tahan	episodes=4 episodes, 2013 	
+character=Admiral Dale	name=Kevin Carrigan	episodes=4 episodes, 2015-2017 	
+character=Jennifer Baumgarten	name=Linda Marie Larson	episodes=4 episodes, 2018 	
+character=Oliver Spence	name=Michael Warner	episodes=4 episodes, 2013-2014 	
+character=Dr. Larson	name=Theresa McCarthy	episodes=4 episodes, 2013-2018 	
+character=Editor 	name=John Moon	episodes=4 episodes, 2014-2017 	
+character=Sam Price	name=Dave Quay	episodes=4 episodes, 2015-2016 	
+character=Kendra Lee	name=Isabelle McNally	episodes=1 episode, 2014 	
+character=Congresswoman	name=Kathryn Browning	episodes=1 episode, 2013-2015 	
+character=Orioles Fan	name=Neal McNeil	episodes=1 episode, 2013-2015 	
+character=Protester	name=John Jarvis	episodes=1 episode, 2015-2017 	
+character=College Student	name=A.C. Bryan	episodes=3 episodes, 2016-2018 	
+character=Cabinet Member	name=Phil Notarange	episodes=1 episode, 2016-2018 	
+character=Cabinet Secretary	name=Alan Tilles	episodes=3 episodes, 2016-2018 	
+character=White House Press Corps	name=Jay McCord	episodes=1 episode, 2016-2017 	
+character=Doris Jones	name=Cicely Tyson	episodes=3 episodes, 2016 	
+character=Dr. Charles Rosen	name=Chip Zien	episodes=3 episodes, 2018 	
+character=Marcy Siegerson	name=Linda Powell	episodes=3 episodes, 2018 	
+character=Benjamin Grant	name=Daniel Sauli	episodes=3 episodes, 2016-2017 	
+character=Ray Meyers	name=Brian Keane	episodes=3 episodes, 2018 	
+character=Justice Jacobs	name=Jonathan Hogan	episodes=3 episodes, 2015 	
+character=Vincent Abruzzo	name=Ron Canada	episodes=3 episodes, 2018 	
+character=Paul Capra	name=Wass Stevens	episodes=3 episodes, 2013 	
+character=Nick Henslow	name=Jeremy Bobb	episodes=3 episodes, 2014 	
+character=Marty Spinella	name=Al Sapienza	episodes=3 episodes, 2013 	
+character=Felicity Holburn	name=Francie Swift	episodes=3 episodes, 2013 	
+character=Henry Mitchell	name=Marc Kudisch	episodes=3 episodes, 2015-2018 	
+character=Dr. Saxon	name=David Pittu	episodes=3 episodes, 2016 	
+character=Steve	name=Chance Kelly	episodes=3 episodes, 2013 	
+character=Kevin Russo	name=Ben Hyland	episodes=3 episodes, 2013 	
+character=Joshua Masterson	name=Jefferson White	episodes=3 episodes, 2016-2017 	
+character=Stan Durant	name=Gregg Edelman	episodes=3 episodes, 2018 	
+character=Michael Kern	name=Kevin Kilner	episodes=3 episodes, 2013-2014 	
+character=Rachel Maddow	name=Rachel Maddow	episodes=3 episodes, 2014-2017 	
+character=Governor Olmstead	name=Lee R. Sellars	episodes=3 episodes, 2017-2018 	
+character=Evelyn	name=Maryann Plunkett	episodes=3 episodes, 2013-2014 	
+character=Willa	name=Carolyn Michelle Smith	episodes=3 episodes, 2014-2015 	
+character=Curtis Haas	name=Michael Park	episodes=3 episodes, 2014 	
+character=Captain Rockland	name=Charles Borland	episodes=3 episodes, 2014 	
+character=Editor in Chief	name=Tom Kemp	episodes=3 episodes, 2017 	
+character=Hazan Aruri	name=Alok Tewari	episodes=3 episodes, 2015 	
+character=Editor 	name=Dayna Beilenson	episodes=3 episodes, 2017-2018 	
+character=John King	name=John King	episodes=3 episodes, 2013-2016 	
+character=Lorrie Tate	name=Andrea Cirie	episodes=3 episodes, 2014 	
+character=Ted Barnes	name=Mark Borkowski	episodes=3 episodes, 2016-2017 	
+character=David Rasmussen	name=Michael Siberry	episodes=3 episodes, 2013-2017 	
+character=Fred Amburg	name=David Price	episodes=3 episodes, 2018 	
+character=Secretary of Energy	name=Christopher Mann	episodes=3 episodes, 2014-2016 	
+character=Mitch Scanlon	name=Steve Coulter	episodes=3 episodes, 2017 	
+character=NSA Director	name=Andre Ware	episodes=3 episodes, 2016-2017 	
+character=Wolf Blitzer	name=Wolf Blitzer	episodes=3 episodes, 2016-2018 	
+character=Caroline Miller	name=Jennifer Leigh Mann	episodes=3 episodes, 2016-2017 	
+character=Melissa Miller	name=Alie Urquhart	episodes=3 episodes, 2016-2017 	
+character=Secret Service Agent	name=Samuel Smith	episodes=3 episodes, 2016-2018 	
+character=Secret Service Agent	name=Kenneth Israel	episodes=3 episodes, 2016 	
+character=Greg	name=William L. Thomas	episodes=3 episodes, 2015-2017 	
+character=NSA Agent 	name=Craig Newkirk	episodes=3 episodes, 2016 	
+character=Dignitary	name=Mark Vincent	episodes=2 episodes, 2013-2015 	
+character=Secret Service Agent	name=Altorro Prince Black	episodes=1 episode, 2014-2016 	
+character=General	name=Frank Bliss	episodes=1 episode, 2013-2018 	
+character=Color Guard	name=Aaron Wiggins	episodes=1 episode, 2013-2015 	
+character=Embassy Attache	name=Alexander Emmert	episodes=2 episodes, 2015-2018 	
+character=Campaign Volunteer	name=Shira Bethea	episodes=1 episode, 2015 	
+character=NSA Agent 2	name=Gretchen Koerner	episodes=3 episodes, 2016 	
+character=Restaurant Customer	name=Dennis P. Marburger	episodes=1 episode, 2017 	
+character=Airport Commuter	name=Janae Palmer	episodes=3 episodes, 2018 	
+character=Press Reporter	name=Elizabeth-Burton Jones	episodes=3 episodes, 2018 	
+character=White House Press Corp	name=Charlita Woodruff	episodes=3 episodes, 2018 	
+character=Cabinet Member	name=Jackie McClain	episodes=3 episodes, 2018 	
+character=Michael Corrigan	name=Christian Camargo	episodes=2 episodes, 2015 	
+character=Ken Caswell	name=William Hill	episodes=2 episodes, 2013-2017 	
+character=Ted Havemeyer	name=David Clennon	episodes=2 episodes, 2014 	
+character=Twenty-Year-Old Claire	name=Willa Fitzgerald	episodes=2 episodes, 2018 	
+character=Oren Chase	name=Murphy Guyer	episodes=2 episodes, 2013-2016 	
+character=Senator Sheer	name=John C. Vennema	episodes=2 episodes, 2016 	
+character=U.S. Attorney	name=Joy Lynn Jacobs	episodes=2 episodes, 2017-2018 	
+character=Gene Clancy	name=Lance E. Nichols	episodes=2 episodes, 2013-2016 	
+character=EPA Administrator	name=Robert Newman	episodes=2 episodes, 2018 	
+character=Dalton McGinnis	name=Peter Bradbury	episodes=2 episodes, 2014 	
+character=Connie Chung	name=Connie Chung	episodes=2 episodes, 2017 	
+character=Adam Gould	name=Donnie Kehr	episodes=2 episodes, 2016 	
+character=Martha Wilson	name=Ellen Harvey	episodes=2 episodes, 2016 	
+character=Tommy Devine	name=Albert Jones	episodes=2 episodes, 2014 	
+character=Reverend Jenkins	name=Bill Phillips	episodes=2 episodes, 2013-2015 	
+character=Ben Goldstein	name=Geoffrey Cantor	episodes=2 episodes, 2014-2016 	
+character=Madam Secretary	name=Linda Atkinson	episodes=2 episodes, 2016 	
+character=Rafiq Nasser	name=Darwin Shaw	episodes=2 episodes, 2018 	
+character=Jean Tusk	name=Peggy J. Scott	episodes=2 episodes, 2013-2014 	
+character=Congressman Abrams	name=Brent Langdon	episodes=2 episodes, 2013 	
+character=Paul Landry	name=Sam Freed	episodes=2 episodes, 2015 	
+character=Congressman Vanderburgh	name=Craig Waletzko	episodes=2 episodes, 2013 	
+character=Deshawn Hayes	name=Darren Alford	episodes=2 episodes, 2014-2015 	
+character=Bill Galich	name=Mark Zeisler	episodes=2 episodes, 2014 	
+character=Michael	name=Aaron Marcus	episodes=2 episodes, 2016 	
+character=Candy Crowley	name=Candy Crowley	episodes=2 episodes, 2013-2014 	
+character=Consuela	name=Monica Sanchez	episodes=2 episodes, 2015-2018 	
+character=Airman Webson	name=Andy Murray	episodes=2 episodes, 2017 	
+character=Julia Melman	name=Erika Rolfsrud	episodes=2 episodes, 2016 	
+character=Teen Claire	name=Ali Collier	episodes=2 episodes, 2018 	
+character=Babe	name=Hazel Honeysuckle	episodes=2 episodes, 2013 	
+character=Wayne	name=Eli Goodman	episodes=2 episodes, 2015-2018 	
+character=Meredith Lee	name=Cindy Cheung	episodes=2 episodes, 2016-2017 	
+character=Agent Schiller	name=Ed Moran	episodes=2 episodes, 2016 	
+character=Leon	name=Victor Cruz	episodes=2 episodes, 2013 	
+character=Teen Annette	name=Abby Rose Merrill	episodes=2 episodes, 2018 	
+character=Julianna Goldman	name=Julianna Goldman	episodes=2 episodes, 2014-2015 	
+character=Matt Bai	name=Matt Bai	episodes=2 episodes, 2014 	
+character=Agent Morgan	name=Jason Tottenham	episodes=2 episodes, 2016 	
+character=George Stephanopoulos	name=George Stephanopoulos	episodes=2 episodes, 2013-2015 	
+character=Jake Tapper	name=Jake Tapper	episodes=2 episodes, 2015-2016 	
+character=Agent Lasker	name=C.J. Wilson	episodes=2 episodes, 2016 	
+character=Igor Milkin	name=Leonid Citer	episodes=2 episodes, 2016 	
+character=Young Claire	name=Ann Charles Sutton	episodes=2 episodes, 2018 	
+character=Tanya Benson	name=Sophie von Haselberg	episodes=2 episodes, 2017 	
+character=Reporter	name=Lora Lee Gayer	episodes=2 episodes, 2018 	
+character=CIA Liaison	name=Richard Cutting	episodes=2 episodes, 2014-2015 	
+character=Thomas Larkin	name=Tom Galantich	episodes=2 episodes, 2014 	
+character=Agent Holbrooke	name=Alfredo Narciso	episodes=2 episodes, 2016 	
+character=Captain	name=Rick Zahn	episodes=2 episodes, 2015 	
+character=Newscaster	name=Gord James	episodes=2 episodes, 2017 	
+character=Donna Brazile	name=Donna Brazile	episodes=2 episodes, 2013-2015 	
+character=Ann Curry	name=Ann Curry	episodes=2 episodes, 2017 	
+character=Press Secretary	name=Kathy McCafferty	episodes=2 episodes, 2013 	
+character=Calista Bates	name=Karen Tsen Lee	episodes=2 episodes, 2015-2016 	
+character=Secretary	name=Erica Frene	episodes=2 episodes, 2016 	
+character=Seth	name=Erica Frene	episodes=2 episodes, 2016 	
+character=Morris Jones	name=Morris Jones	episodes=2 episodes, 2014 	
+character=Assistant	name=Jennifer Osborn	episodes=2 episodes, 2013-2014 	
+character=Claire	name=Jennifer Osborn	episodes=2 episodes, 2013-2014 	
+character=Ashley	name=Erin Fritch	episodes=2 episodes, 2013 	
+character=Media Consultant	name=Curran Connor	episodes=2 episodes, 2013 	
+character=Yusuf Al Ahmadi	name=Farshad Farahat	episodes=2 episodes, 2016-2017 	
+character=Matthew Dowd	name=Matthew Dowd	episodes=2 episodes, 2015-2018 	
+character=S.E. Cupp	name=S.E. Cupp	episodes=2 episodes, 2016-2017 	
+character=Van Jones	name=Van Jones	episodes=2 episodes, 2016-2017 	
+character=Agent March	name=Kim Ramirez	episodes=2 episodes, 2016 	
+character=Agent Drake	name=Corey Maher	episodes=2 episodes, 2016 	
+character=James Miller	name=Sean C. Graham	episodes=2 episodes, 2016 	
+character=Secretary	name=Joy Kigin	episodes=2 episodes, 2016 	
+character=Stamper	name=Joy Kigin	episodes=2 episodes, 2016 	
+character=Alisyn Camerota	name=Alisyn Camerota	episodes=2 episodes, 2018 	
+character=News Anchor	name=Chagmion Antoine	episodes=2 episodes, 2016-2017 	
+character=Reporter	name=Tasia Grant	episodes=2 episodes, 2016 	
+character=Head Lawyer	name=Geoffrey Dawe	episodes=2 episodes, 2014 	
+character=Tusk	name=Geoffrey Dawe	episodes=2 episodes, 2014 	
+character=Aide	name=Michael Bonis	episodes=2 episodes, 2014 	
+character=Dunbar	name=Michael Bonis	episodes=2 episodes, 2014 	
+character=Anchor	name=Traci Mitchell	episodes=2 episodes, 2016 	
+character=Reporter	name=Steve Lebens	episodes=2 episodes, 2013-2015 	
+character=Lawyer 	name=Barney Fitzpatrick	episodes=2 episodes, 2014 	
+character=Tusk	name=Barney Fitzpatrick	episodes=2 episodes, 2014 	
+character=Reporter	name=Quinn	episodes=2 episodes, 2016 	
+character=Reporter	name=Lauren O	episodes=2 episodes, 2016 	
+character=Reporter	name=Sanjay Raja	episodes=2 episodes, 2016 	
+character=Reporter	name=Cynthia Steele Vance	episodes=2 episodes, 2016 	
+character=Cassandra	name=Erica Chamblee	episodes=2 episodes, 2013 	
+character=Zachary Hawthorne	name=Ben VanderMey	episodes=2 episodes, 2016 	
+character=Secretary of Energy	name=Pat Dortch	episodes=2 episodes, 2018 	
+character=Reporter	name=Stephanie Umoh	episodes=2 episodes, 2018 	
+character=Staffer 	name=Eshan Bay	episodes=2 episodes, 2013 	
+character=Staffer 	name=Joe Lanza	episodes=2 episodes, 2013 	
+character=Staffer 	name=Prentice Onayemi	episodes=2 episodes, 2013 	
+character=News Anchor	name=Melanie Hastings	episodes=2 episodes, 2013-2016 	
+character=Anchor	name=Lee Ordeman	episodes=2 episodes, 2016 	
+character=Air Force One Steward	name=Darrin Archer	episodes=2 episodes, 2015 	
+character=Sign Language Interpreter	name=Katrina Clark	episodes=2 episodes, 2016 	
+character=Secret Service Agent	name=Craig Galloway	episodes=2 episodes, 2016 	
+character=Tim Corbet	name=David Andrews	episodes=2 episodes, 2013-2015 	
+character=Bishop Charles Eddis	name=John Doman	episodes=1 episode, 2015 	
+character=Elaine Brooks	name=Margaret Daly	episodes=1 episode, 2014 	
+character=Secretary of Transportation	name=Evander Duck Jr.	episodes=1 episode, 2015-2016 	
+character=Alaska Chair	name=MauraClaire Harford	episodes=1 episode, 2015-2016 	
+character=Arnold Silva	name=Richard Toth	episodes=2 episodes, 2015 	
+character=Hotel Manager	name=Michael McKenzie	episodes=1 episode, 2013 	
+character=Reporter	name=Kianné Muschett	episodes=1 episode, 2013 	
+character=Illinois Delegate	name=Elizabeth Thorp	episodes=1 episode, 2016-2018 	
+character=Vasquez Aide	name=Samuel Muriithi	episodes=1 episode, 2013 	
+character=Protester	name=Prairie Griffith	episodes=1 episode, 2013 	
+character=Comm Director	name=John-Patrick Driscoll	episodes=1 episode, 2016 	
+character=Dunbar	name=John-Patrick Driscoll	episodes=1 episode, 2016 	
+character=Senator	name=Michael J. Lyons	episodes=1 episode, 2015-2016 	
+character=Moderator	name=Kathleen Mary Carthy	episodes=1 episode, 2017 	
+character=Mother	name=Shaira Barton	episodes=1 episode, 2013-2016 	
+character=Luisa	name=Shaira Barton	episodes=1 episode, 2013-2016 	
+character=Military Aide	name=Greg Lang	episodes=1 episode, 2016 	
+character=Spitting Inmate	name=Lucky Harmon	episodes=1 episode, 2014-2018 	
+character=Orioles Fan	name=Ashleigh Michèle McGill	episodes=1 episode, 2014 	
+character=Protester	name=Wesley Bocian	episodes=1 episode, 2015 	
+character=Navy Color Guard	name=Isaac Reeb	episodes=1 episode, 2015 	
+character=Town Hall Patron	name=Tiffany Marz	episodes=2 episodes, 2015 	
+character=Underwood Press Videographer	name=James McClenahan	episodes=1 episode, 2015 	
+character=Military Recruit	name=B. Cherie Patterson	episodes=1 episode, 2016-2018 	
+character=White House Reporter	name=Anthony Cook	episodes=2 episodes, 2016-2017 	
+character=Hotel Guest	name=Rick Kelvin Branch	episodes=1 episode, 2016-2017 	
+character=Party Goer	name=Iris Crenshaw	episodes=1 episode, 2016-2017 	
+character=Camera Man	name=Konstantine James	episodes=2 episodes, 2016-2017 	
+character=Billionaire	name=Garrick Wimbush	episodes=1 episode, 2016-2017 	
+character=Secret Service Agent	name=Jeffrey Klemmer	episodes=2 episodes, 2016 	
+character=Businessman	name=Jeff Moore	episodes=1 episode, 2016 	
+character=Campaign Donor	name=Emet Mihajlo	episodes=1 episode, 2017-2018 	
+character=FBI Agent	name=Debbie Tsamoudakis	episodes=1 episode, 2017-2018 	
+character=Congressman	name=Gary Lee Vincent	episodes=1 episode, 2017 	
+character=Executive Campaign Staff	name=Charles D. Clark	episodes=1 episode, 2017 	
+character=Photographer	name=Yasmin Qudah	episodes=1 episode, 2017 	
+character=Makeup Artist	name=Sarah Laine Smith	episodes=2 episodes, 2017 	
+character=Mourner	name=Jennifer Stokes	episodes=1 episode, 2017 	
+character=Anti-Underwood Protester	name=Herbert Lee Frazier III	episodes=1 episode, 2017 	
+character=Secret Service	name=Greg Puckett	episodes=2 episodes, 2018 	
+character=White House Press Corps	name=Tracie Conrad	episodes=2 episodes, 2018 	
+character=Young Asian Man	name=Wonsup Chung	episodes=1 episode, 2014 	
+character=Lester Holt	name=Lester Holt	episodes=1 episode, 2015 	
+character=Ashleigh Banfield	name=Ashleigh Banfield	episodes=1 episode, 2014 	
+character=Suzie	name=Annie Parisse	episodes=1 episode, 2015 	
+character=Boris Litsky	name=Kristof Konrad	episodes=1 episode, 2015 	
+character=Phil Langdon	name=J.C. MacKenzie	episodes=1 episode, 2013 	
+character=Bianca	name=Ava Del Cielo	episodes=1 episode, 2015 	
+character=Ben	name=Mike Hayes	episodes=1 episode, 2015 	
+character=Senator Dean Austen	name=Sean Cullen	episodes=1 episode, 2016 	
+character=Lawyer	name=Gameela Wright	episodes=1 episode, 2018 	
+character=Special Agent Rick Bowman	name=Chris Agos	episodes=1 episode, 2018 	
+character=Bruce Higgins	name=Brian Reddy	episodes=1 episode, 2013 	
+character=Darnell Hayes	name=Malcolm Goodwin	episodes=1 episode, 2014 	
+character=Kaseem Mahmoud	name=Waleed Zuaiter	episodes=1 episode, 2015 	
+character=Maria	name=Diane Villegas	episodes=1 episode, 2015 	
+character=Nurse	name=Karen Carbone	episodes=1 episode, 2015 	
+character=Brien	name=Brien	episodes=1 episode, 2013 	
+character=Brien	name=Soledad O	episodes=1 episode, 2013 	
+character=Soledad O	name=Brien	episodes=1 episode, 2013 	
+character=Soledad O	name=Soledad O	episodes=1 episode, 2013 	
+character=Orderly	name=Antonio Edwards Suarez	episodes=1 episode, 2013 	
+character=Emma Lane	name=Emily Dorsch	episodes=1 episode, 2014 	
+character=Dr. Lanjawni	name=Poorna Jagannathan	episodes=1 episode, 2015 	
+character=Congressman Carlson Greer	name=John Harrington Bland	episodes=1 episode, 2015 	
+character=Tabitha Peters	name=Beth Chamberlin	episodes=1 episode, 2018 	
+character=Alicia Heyman	name=Kaili Vernoff	episodes=1 episode, 2018 	
+character=Principal	name=John Judy	episodes=1 episode, 2013 	
+character=Howard Webb	name=Spencer Garrett	episodes=1 episode, 2014 	
+character=Manager	name=Juanita Trad	episodes=1 episode, 2015 	
+character=Louise	name=Delphi Harrington	episodes=1 episode, 2016 	
+character=Senator Baker	name=Doug Barron	episodes=1 episode, 2016 	
+character=Aide	name=Asher Grodman	episodes=1 episode, 2018 	
+character=Hunter	name=John Ellison Conlee	episodes=1 episode, 2018 	
+character=Tabitha Lonnergan	name=Hollis McCarthy	episodes=1 episode, 2013 	
+character=Caroline	name=Cindy Gueli	episodes=1 episode, 2013 	
+character=Wes Buchwalter	name=John Scurti	episodes=1 episode, 2014 	
+character=Hazmat Chief	name=Danny Johnson	episodes=1 episode, 2014 	
+character=Inez	name=Carme Boixadera	episodes=1 episode, 2014 	
+character=Director of NWS	name=Ben Livingston	episodes=1 episode, 2015 	
+character=Harlan Traub	name=Frank Ridley	episodes=1 episode, 2015 	
+character=Dana Bash	name=Dana Bash	episodes=1 episode, 2015 	
+character=Bartender	name=Miguel Martinez	episodes=1 episode, 2015 	
+character=Gagik	name=Elan Zafir	episodes=1 episode, 2016 	
+character=Vi	name=Betty Leigh	episodes=1 episode, 2016 	
+character=Xu Jiabao	name=Phil Nee	episodes=1 episode, 2017 	
+character=Reed	name=David Corenswet	episodes=1 episode, 2018 	
+character=Private Jenna Burton	name=Gabby Beans	episodes=1 episode, 2018 	
+character=Staff	name=Joshua David Scarlett	episodes=1 episode, 2018 	
+character=Russo	name=Phyllis Somerville	episodes=1 episode, 2013 	
+character=Mother	name=Phyllis Somerville	episodes=1 episode, 2013 	
+character=Policy Aide	name=Jamie Flanagan	episodes=1 episode, 2013 	
+character=CWI Receptionist	name=Anne Rutter	episodes=1 episode, 2013 	
+character=Susan Marbury	name=Deanna Dunagan	episodes=1 episode, 2014 	
+character=Stephanie Daldry	name=Susannah Hoffman	episodes=1 episode, 2014 	
+character=Congressman 	name=John Leslie Wolfe	episodes=1 episode, 2014 	
+character=Chuck Todd	name=Chuck Todd	episodes=1 episode, 2015 	
+character=Neal Kumar Katyal	name=Neal Katyal	episodes=1 episode, 2015 	
+character=Michelle Kosinski	name=Michelle Kosinski	episodes=1 episode, 2015 	
+character=News Anchor	name=Art McFarland	episodes=1 episode, 2015 	
+character=Mechanic	name=Fernando Urquides	episodes=1 episode, 2015 	
+character=Chris Lawrence	name=Chris Lawrence	episodes=1 episode, 2015 	
+character=Bar	name=Hillary Mazer	episodes=1 episode, 2016 	
+character=Joram Ismat	name=Al Nazemian	episodes=1 episode, 2017 	
+character=Earl Hanna	name=Thomas Kopache	episodes=1 episode, 2018 	
+character=Maître D	name=Jason Nuzzo	episodes=1 episode, 2018 	
+character=Desk Officer 	name=Dawn McGee	episodes=1 episode, 2013 	
+character=President of NEA	name=Ross Bickell	episodes=1 episode, 2013 	
+character=Lonnie McDermott	name=Elizabeth Rich	episodes=1 episode, 2013 	
+character=Sean Hannity	name=Sean Hannity	episodes=1 episode, 2014 	
+character=Gallery Owner	name=Prue Lewarne	episodes=1 episode, 2014 	
+character=Congressman 	name=Greg Williams	episodes=1 episode, 2014 	
+character=Nadezhda Tolokonnikova	name=Nadezhda Tolokonnikova	episodes=1 episode, 2015 	
+character=Kristen Welker	name=Kristen Welker	episodes=1 episode, 2015 	
+character=Meet the Press Announcer	name=Bert Pence	episodes=1 episode, 2015 	
+character=Man	name=Aurelio Dominguez	episodes=1 episode, 2015 	
+character=Dr. Krebs	name=James Saito	episodes=1 episode, 2016 	
+character=Dana Treister	name=Julee Cerda	episodes=1 episode, 2016 	
+character=Sam	name=Brian Stapf	episodes=1 episode, 2016 	
+character=Gretchen Carlson	name=Gretchen Carlson	episodes=1 episode, 2016 	
+character=Valerie	name=Kate Sanford	episodes=1 episode, 2016 	
+character=Charles Gibson	name=Charles Gibson	episodes=1 episode, 2016 	
+character=Lawyer 	name=Shaun O	episodes=1 episode, 2017 	
+character=Lawyer 	name=Hagan	episodes=1 episode, 2017 	
+character=Translator	name=Shamel Hashish	episodes=1 episode, 2017 	
+character=Reporter	name=Richie Moriarty	episodes=1 episode, 2018 	
+character=Scotty Tibbs	name=Robert Neal Marshall	episodes=1 episode, 2018 	
+character=Scott Cunningham	name=Armand Schultz	episodes=1 episode, 2013 	
+character=Desk Officer 	name=J. Omar Castro	episodes=1 episode, 2013 	
+character=Cadet 	name=Brandon Gill	episodes=1 episode, 2013 	
+character=Large Woman	name=Jo Twiss	episodes=1 episode, 2013 	
+character=Reporter	name=Maureen Reese	episodes=1 episode, 2013 	
+character=Chief Whitehall	name=Mo Brings Plenty	episodes=1 episode, 2014 	
+character=Congressman 	name=J. Scott Watkins	episodes=1 episode, 2014 	
+character=Ari Melber	name=Ari Melber	episodes=1 episode, 2015 	
+character=Mariya Alyokhina	name=Mariya Alyokhina	episodes=1 episode, 2015 	
+character=Comm Director	name=Hayden Saunier	episodes=1 episode, 2015 	
+character=Carol Costello	name=Carol Costello	episodes=1 episode, 2015 	
+character=Maurice	name=Ben Cunis	episodes=1 episode, 2015 	
+character=Gordon	name=Nik Menotiades	episodes=1 episode, 2015 	
+character=Charlotte	name=Bonnie Johnson	episodes=1 episode, 2016 	
+character=Monica Crowley	name=Monica Crowley	episodes=1 episode, 2016 	
+character=Helen	name=Pippa Pearthree	episodes=1 episode, 2016 	
+character=Penny	name=Brenna McDonough	episodes=1 episode, 2016 	
+character=Tennessee Chair	name=Susanne Arrington	episodes=1 episode, 2016 	
+character=Louise Talbert	name=Barbara Rosenblat	episodes=1 episode, 2017 	
+character=Maureen Shaud	name=Jennifer Riker	episodes=1 episode, 2017 	
+character=The Man	name=Andrew Hunsicker	episodes=1 episode, 2017 	
+character=Lawyer 	name=Brit Whittle	episodes=1 episode, 2017 	
+character=Vern	name=Joey Auzenne	episodes=1 episode, 2017 	
+character=Tech Sgt Bracco	name=Tamara Jones	episodes=1 episode, 2017 	
+character=Reporter	name=Sullivan Jones	episodes=1 episode, 2018 	
+character=Russell	name=Aaron Serotsky	episodes=1 episode, 2018 	
+character=Priest	name=Dan Daily	episodes=1 episode, 2018 	
+character=Doorman	name=Jason Babinsky	episodes=1 episode, 2013 	
+character=Travis Shore	name=Peter Jay Fernandez	episodes=1 episode, 2013 	
+character=Cadet 	name=Ken Wulf Clark	episodes=1 episode, 2013 	
+character=Reporter 	name=Brian Cade	episodes=1 episode, 2013 	
+character=Bearded Man	name=PJ Landers	episodes=1 episode, 2013 	
+character=Register Clerk	name=Tina Edwards	episodes=1 episode, 2013 	
+character=Michael Frost	name=Litefoot	episodes=1 episode, 2014 	
+character=Chris Matthews	name=Chris Matthews	episodes=1 episode, 2014 	
+character=Congressman 	name=Bob Paff	episodes=1 episode, 2014 	
+character=Drug Dealer 	name=Jonathan David Randle	episodes=1 episode, 2014 	
+character=Mrs. MacManus	name=Kathleen McNenny	episodes=1 episode, 2015 	
+character=Editor	name=Matthew Lawler	episodes=1 episode, 2015 	
+character=Secretary of Labor	name=Andy Clemence	episodes=1 episode, 2015 	
+character=Chief Justice	name=Richard V. Licata	episodes=1 episode, 2015 	
+character=Announcer at Underwood Rally	name=Christopher Lee Philips	episodes=1 episode, 2015 	
+character=Pyotr Verzilov	name=Pyotr Verzilov	episodes=1 episode, 2015 	
+character=Perry Bacon	name=Perry Bacon Jr.	episodes=1 episode, 2015 	
+character=Shihab Rattansi	name=Shihab Rattansi	episodes=1 episode, 2015 	
+character=B	name=James Fielder	episodes=1 episode, 2015 	
+character=B Proprietor	name=James Fielder	episodes=1 episode, 2015 	
+character=Mark Stevens	name=Michael Beasley	episodes=1 episode, 2016 	
+character=Texas Chair	name=Gilbert Cruz	episodes=1 episode, 2016 	
+character=Olivia Austen	name=Tracy McMullan	episodes=1 episode, 2016 	
+character=Juan Williams	name=Juan Williams	episodes=1 episode, 2016 	
+character=Nadia Surkova	name=Svetlana Efremova	episodes=1 episode, 2017 	
+character=Kerry Kuilima	name=Kayla Blake	episodes=1 episode, 2017 	
+character=Senior Airman Edwards	name=Jay DeVon Johnson	episodes=1 episode, 2017 	
+character=Randy Watts	name=Scott Whitehurst	episodes=1 episode, 2017 	
+character=Interviewer	name=Jamie Ann Romero	episodes=1 episode, 2018 	
+character=Plant Representative	name=Nat DeWolf	episodes=1 episode, 2018 	
+character=Jonah	name=Timothy Britten Parker	episodes=1 episode, 2018 	
+character=Wayne Paley	name=Gene Jones	episodes=1 episode, 2013 	
+character=Diane	name=Amy Tribbey	episodes=1 episode, 2013 	
+character=Adam	name=Kailani Coba	episodes=1 episode, 2013 	
+character=Assistant	name=Kailani Coba	episodes=1 episode, 2013 	
+character=Deputy Chair	name=Peak Kwinarian	episodes=1 episode, 2013 	
+character=Secret Service	name=Michael Davis	episodes=1 episode, 2013 	
+character=Strip Club Guy	name=Chris Gagnon	episodes=1 episode, 2013 	
+character=Well Wisher 1	name=Wil Bradford	episodes=1 episode, 2013 	
+character=Elizabeth Ward	name=Karen Pittman	episodes=1 episode, 2014 	
+character=Lieutenant Phelps	name=Sean Phillips	episodes=1 episode, 2014 	
+character=Drug Dealer 	name=Terrence Shingler	episodes=1 episode, 2014 	
+character=Kelly O	name=Kelly O	episodes=1 episode, 2014 	
+character=Kelly O	name=Donnell	episodes=1 episode, 2014 	
+character=Donnell	name=Kelly O	episodes=1 episode, 2014 	
+character=Donnell	name=Donnell	episodes=1 episode, 2014 	
+character=Director	name=Joel Hurt Jones	episodes=1 episode, 2014 	
+character=Gordon	name=Michael Kincade	episodes=1 episode, 2014 	
+character=Congresswoman 	name=Kim Tuvin	episodes=1 episode, 2014 	
+character=Stephen Colbert	name=Stephen Colbert	episodes=1 episode, 2015 	
+character=Senator Timms	name=David Little	episodes=1 episode, 2015 	
+character=Peter Cincotti	name=Peter Cincotti	episodes=1 episode, 2015 	
+character=Justice Moretti	name=Kris Andrews	episodes=1 episode, 2015 	
+character=Deli Clerk	name=Caleb J. Jackson	episodes=1 episode, 2015 	
+character=Sally	name=Allie McCulloch	episodes=1 episode, 2016 	
+character=Debbie Simms	name=Amy Hohn	episodes=1 episode, 2016 	
+character=CIA Agent	name=Lancer Dean Shull	episodes=1 episode, 2016 	
+character=Alabama Chair	name=Randall Taylor	episodes=1 episode, 2016 	
+character=Anchor	name=Jackie Nedell	episodes=1 episode, 2016 	
+character=Newscaster 	name=Michelle Davidson	episodes=1 episode, 2017 	
+character=Susan Newman	name=Kelly McAndrew	episodes=1 episode, 2017 	
+character=Roseanne Masterson	name=Angela Reed	episodes=1 episode, 2017 	
+character=Staff Sgt Gold	name=Christian Brunetti	episodes=1 episode, 2017 	
+character=Walker	name=Martin Barabas	episodes=1 episode, 2017 	
+character=Lawyer	name=Martin Barabas	episodes=1 episode, 2017 	
+character=Simone Murphy	name=Darlesia Cearcy	episodes=1 episode, 2017 	
+character=Server	name=Emily Jackson	episodes=1 episode, 2018 	
+character=EPA Regional Administrator	name=Tom O	episodes=1 episode, 2018 	
+character=EPA Regional Administrator	name=Keefe	episodes=1 episode, 2018 	
+character=Rob	name=Pun Bandhu	episodes=1 episode, 2018 	
+character=Reporter	name=Lynette Rathnam	episodes=1 episode, 2018 	
+character=Bill Maher	name=Bill Maher	episodes=1 episode, 2013 	
+character=Bouncer	name=Jimmy Gary Jr.	episodes=1 episode, 2013 	
+character=Waitress	name=Gabrielle Senn	episodes=1 episode, 2013 	
+character=Congressman Corey Phillips	name=Bolton Marsh	episodes=1 episode, 2013 	
+character=Well Wisher 2	name=Herndon Lackey	episodes=1 episode, 2013 	
+character=Galloway Friend 	name=Thomas Gobena	episodes=1 episode, 2013 	
+character=Dennis Mendel	name=Morrie Kraemer	episodes=1 episode, 2013 	
+character=Drewery	name=Cotter Smith	episodes=1 episode, 2014 	
+character=Vice Chief	name=Ken Arnold	episodes=1 episode, 2014 	
+character=White Powder Intern	name=Candace Hammer	episodes=1 episode, 2014 	
+character=Detective	name=Steve Sanpietro	episodes=1 episode, 2014 	
+character=Japanese Prime Minister	name=Ron Nakahara	episodes=1 episode, 2014 	
+character=Mrs. Applebaum	name=Holly Twyford	episodes=1 episode, 2014 	
+character=Photographer	name=Patrick Kelly	episodes=1 episode, 2014 	
+character=Secretary of Treasury	name=Neill Hartley	episodes=1 episode, 2014 	
+character=Advance Man	name=Jeff Panzarella	episodes=1 episode, 2015 	
+character=Joe Siskind	name=Mark Lotito	episodes=1 episode, 2015 	
+character=Secret Service	name=James Wilcox	episodes=1 episode, 2015 	
+character=Detective Pryor	name=Neal Matarazzo	episodes=1 episode, 2015 	
+character=Manager	name=Guiesseppe Jones	episodes=1 episode, 2015 	
+character=Secretary	name=Carol Anne Raffa	episodes=1 episode, 2015 	
+character=Claire	name=Carol Anne Raffa	episodes=1 episode, 2015 	
+character=Agnes	name=Helen E. McNutt	episodes=1 episode, 2015 	
+character=Dunbar Staffer	name=Drew Matthews	episodes=1 episode, 2016 	
+character=Executive Director	name=George R. Sheffey	episodes=1 episode, 2016 	
+character=Karl Simms	name=Robert C. Treveiler	episodes=1 episode, 2016 	
+character=Young Woman	name=Hailey Wist	episodes=1 episode, 2016 	
+character=Aide	name=Dustin Lewis	episodes=1 episode, 2016 	
+character=Danton	name=Diann Y. Rust-Tierney	episodes=1 episode, 2016 	
+character=Mother	name=Diann Y. Rust-Tierney	episodes=1 episode, 2016 	
+character=Charlie Rose	name=Charlie Rose	episodes=1 episode, 2017 	
+character=Secret Service Agent	name=Aaron Costa Ganis	episodes=1 episode, 2017 	
+character=Fred	name=Ed Wagenseller	episodes=1 episode, 2017 	
+character=Vivian	name=Malikha Mallette	episodes=1 episode, 2018 	
+character=Male Soldier	name=Michael James Thomas	episodes=1 episode, 2018 	
+character=Special Agent Slater	name=Tony Wade	episodes=1 episode, 2018 	
+character=Jim Acosta	name=Jim Acosta	episodes=1 episode, 2018 	
+character=Reporter	name=Chad Tyler	episodes=1 episode, 2018 	
+character=Doctor	name=Mitchell Hebert	episodes=1 episode, 2018 	
+character=CIA Agent	name=Tom Day	episodes=1 episode, 2018 	
+character=Dennis Miller	name=Dennis Miller	episodes=1 episode, 2013 	
+character=Dean Masters	name=Clark Carmichael	episodes=1 episode, 2013 	
+character=Nash Aarons	name=James Hindman	episodes=1 episode, 2013 	
+character=Galloway Friend 	name=Kelsey Saunders	episodes=1 episode, 2013 	
+character=Serviceman 	name=Beau Baxter	episodes=1 episode, 2013 	
+character=Mayor	name=Kathryn Klvana	episodes=1 episode, 2013 	
+character=Roy Kapeniak	name=T.J. Edwards	episodes=1 episode, 2013 	
+character=Bartender	name=Joe Isenberg	episodes=1 episode, 2013 	
+character=Capra Kid 1	name=Mitchell Palombi	episodes=1 episode, 2013 	
+character=Capital Security Guard	name=David Thornhill	episodes=1 episode, 2013 	
+character=Tammy	name=Tanis Parenteau	episodes=1 episode, 2014 	
+character=Park Ranger	name=Randall Newsome	episodes=1 episode, 2014 	
+character=Assistant Restaurant Manager	name=Kerry Malloy	episodes=1 episode, 2014 	
+character=Greer	name=Jonathan Marballi	episodes=1 episode, 2014 	
+character=Owner of Telegraph	name=Timothy Crowe	episodes=1 episode, 2014 	
+character=Staffer	name=Reuel Belt	episodes=1 episode, 2014 	
+character=Secretary of Agriculture	name=Deborah Benner	episodes=1 episode, 2014 	
+character=Mack the Barber	name=Julius Webb	episodes=1 episode, 2014 	
+character=Ambassador Davila	name=Emilio Delgado	episodes=1 episode, 2015 	
+character=Jose	name=Juan Carlos Hernández	episodes=1 episode, 2015 	
+character=Detective Noland	name=Chris McKinney	episodes=1 episode, 2015 	
+character=John Pasternak	name=Todd Alan Crain	episodes=1 episode, 2015 	
+character=Supervisor	name=Sig Libowitz	episodes=1 episode, 2015 	
+character=Secret Service Agent	name=David M. Raine	episodes=1 episode, 2015 	
+character=Chairman	name=Brian Corrigan	episodes=1 episode, 2015 	
+character=Witsec Officer	name=Jimmy Gonzales	episodes=1 episode, 2016 	
+character=Receptionist	name=Angela Gollan	episodes=1 episode, 2016 	
+character=Jane	name=Anne Bowles	episodes=1 episode, 2016 	
+character=Moderator	name=Richard Barlow	episodes=1 episode, 2016 	
+character=California Chair	name=Demetria Bailey	episodes=1 episode, 2016 	
+character=Danton	name=Kesner Cham	episodes=1 episode, 2016 	
+character=Father	name=Kesner Cham	episodes=1 episode, 2016 	
+character=Jenna Perkins	name=Amanda Warren	episodes=1 episode, 2017 	
+character=Stamper	name=Lauren Halperin	episodes=1 episode, 2017 	
+character=Assistant	name=Lauren Halperin	episodes=1 episode, 2017 	
+character=Shawna Stewart	name=Amy Parrish	episodes=1 episode, 2017 	
+character=Senator	name=Scott Drummond	episodes=1 episode, 2017 	
+character=Aide	name=Scott Drummond	episodes=1 episode, 2017 	
+character=IT Guy	name=Artie Brennan	episodes=1 episode, 2017 	
+character=Annie	name=Deborah Lonon	episodes=1 episode, 2017 	
+character=Reporter	name=Tremayne Norris	episodes=1 episode, 2018 	
+character=Leanne Masters	name=Angela Christian	episodes=1 episode, 2013 	
+character=Blonde Hooker	name=Kellyn Lindsay	episodes=1 episode, 2013 	
+character=Joe Taminini	name=Andrew Kober	episodes=1 episode, 2013 	
+character=Russo Campaign Staffer	name=Erik David Barber	episodes=1 episode, 2013 	
+character=Lady Patricia Walker	name=Dani Englander	episodes=1 episode, 2013 	
+character=CNN Moderator	name=Esther You	episodes=1 episode, 2013 	
+character=Tusk Secretary	name=Leonor Chaves	episodes=1 episode, 2013 	
+character=Reporter	name=Rea Blakey	episodes=1 episode, 2013 	
+character=Capra Kid 2	name=Anthony Quartetti	episodes=1 episode, 2013 	
+character=Galloway Friend 	name=Deletta Gillespie	episodes=1 episode, 2013 	
+character=Miles Shaftsbury	name=Robert Eli	episodes=1 episode, 2014 	
+character=Secretary of Commerce	name=Caroline Clay	episodes=1 episode, 2014 	
+character=Lieutenant	name=Emlyn Elisabeth Morinelli	episodes=1 episode, 2014 	
+character=Manager	name=Matthew Foster	episodes=1 episode, 2014 	
+character=Casino Security Specialist	name=Michael Wingate Jones	episodes=1 episode, 2014 	
+character=Telegraph Legal Counsel	name=Carver Hudson	episodes=1 episode, 2014 	
+character=Escort	name=Olivia Luccardi	episodes=1 episode, 2015 	
+character=Miguel	name=Juan-Pablo Veizaga	episodes=1 episode, 2015 	
+character=Field Office Director	name=Kris Arnold	episodes=1 episode, 2015 	
+character=Presiding Officer	name=Dude Walker	episodes=1 episode, 2015 	
+character=Iowa Reporter	name=Dan Franko	episodes=1 episode, 2015 	
+character=Diplomat	name=Norman Brownstein	episodes=1 episode, 2015 	
+character=Dunbar	name=Michael 	episodes=1 episode, 2016 	
+character=Dunbar	name=Mick	episodes=1 episode, 2016 	
+character=Dunbar	name=Harrity	episodes=1 episode, 2016 	
+character=Security	name=Michael 	episodes=1 episode, 2016 	
+character=Security	name=Mick	episodes=1 episode, 2016 	
+character=Security	name=Harrity	episodes=1 episode, 2016 	
+character=Middle Aged Woman	name=Stacy Rabon	episodes=1 episode, 2016 	
+character=Dr. Chase	name=Rasik Ohal	episodes=1 episode, 2016 	
+character=Delaware Chair	name=Alan Wade	episodes=1 episode, 2016 	
+character=Joe Scarborough	name=Joe Scarborough	episodes=1 episode, 2017 	
+character=Female Agent	name=Nikki Estridge	episodes=1 episode, 2017 	
+character=Herald Assistant	name=Daniel Bridges	episodes=1 episode, 2017 	
+character=Arthur Capo	name=Randy Spence	episodes=1 episode, 2017 	
+character=Jordan Sadowsky	name=Adam Donshik	episodes=1 episode, 2017 	
+character=Rick Sussman	name=Alex Zuko	episodes=1 episode, 2017 	
+character=Gloria Borger	name=Gloria Borger	episodes=1 episode, 2017 	
+character=Rebecca Quick	name=Becky Quick	episodes=1 episode, 2018 	
+character=Hospital Doctor	name=Neil Hellegers	episodes=1 episode, 2018 	
+character=Copy Shop Clerk	name=Gale Nemec	episodes=1 episode, 2018 	
+character=Russo Staffer	name=Jenna Gavigan	episodes=1 episode, 2013 	
+character=Mandy Pierce	name=Kara Jackson	episodes=1 episode, 2013 	
+character=Conservative Pundit	name=Michael Devine	episodes=1 episode, 2013 	
+character=News Anchor 	name=Logan Crawford	episodes=1 episode, 2013 	
+character=Galloway Friend 	name=Dan De Luca	episodes=1 episode, 2013 	
+character=AA Congressman	name=Nathan Purdee	episodes=1 episode, 2013 	
+character=Captain Cardiff	name=Brian Patrick Russell	episodes=1 episode, 2013 	
+character=Jamil Abaza	name=Jonathan Hova	episodes=1 episode, 2013 	
+character=Guidance Counselor	name=Carlyncia S. Peck	episodes=1 episode, 2013 	
+character=Capra Kid 3	name=Marley McKay	episodes=1 episode, 2013 	
+character=Jake Vaughn	name=Kirk Penberthy	episodes=1 episode, 2013 	
+character=Chief Justice	name=Carl Schurr	episodes=1 episode, 2013 	
+character=Feng	name=Grant Chang	episodes=1 episode, 2014 	
+character=Security Guard	name=Grant Chang	episodes=1 episode, 2014 	
+character=Mandarin Translator	name=Yan Xi	episodes=1 episode, 2014 	
+character=Chris Hayes	name=Chris Hayes	episodes=1 episode, 2014 	
+character=Sandra Keith	name=Lisa Golden	episodes=1 episode, 2014 	
+character=Larry	name=Daniel Johnsen	episodes=1 episode, 2014 	
+character=Nurse	name=Amy Garber	episodes=1 episode, 2015 	
+character=Brad Petite	name=Clarke Thorell	episodes=1 episode, 2015 	
+character=Steve Travers	name=Paul O	episodes=1 episode, 2015 	
+character=Steve Travers	name=Brien	episodes=1 episode, 2015 	
+character=Field Director	name=Alan Pratt	episodes=1 episode, 2015 	
+character=WH Steward	name=Scott Gardner	episodes=1 episode, 2015 	
+character=Print Reporter	name=Rob Sheridan	episodes=1 episode, 2015 	
+character=Danny	name=Devin Druid	episodes=1 episode, 2016 	
+character=Hawaii Chair	name=Ann Harada	episodes=1 episode, 2016 	
+character=Young Woman	name=Katie Carpenter	episodes=1 episode, 2016 	
+character=Gas Station Attendant	name=Jose Miguel Vasquez	episodes=1 episode, 2016 	
+character=FISA Court Judge	name=Lorri Lindberg	episodes=1 episode, 2016 	
+character=Young Man	name=Brian Hatch	episodes=1 episode, 2016 	
+character=Photographer	name=Kate Bennis	episodes=1 episode, 2016 	
+character=Mika Brzezinski	name=Mika Brzezinski	episodes=1 episode, 2017 	
+character=Stephen Haines	name=Ken Barnett	episodes=1 episode, 2017 	
+character=Mike	name=Gordon Danniels	episodes=1 episode, 2017 	
+character=Reporter	name=Robert Toomey	episodes=1 episode, 2017 	
+character=Terry Gross	name=Terry Gross	episodes=1 episode, 2018 	
+character=Doctor	name=Eliza Kelley	episodes=1 episode, 2018 	
+character=Young Boy 	name=Jimmy McCool	episodes=1 episode, 2018 	
+character=Print Reporter	name=Curzon Dobell	episodes=1 episode, 2013 	
+character=Police Officer	name=Samuel Ray Gates	episodes=1 episode, 2013 	
+character=Jamie Reed	name=Joe Inscoe	episodes=1 episode, 2013 	
+character=Hostess	name=Lauren Culpepper	episodes=1 episode, 2013 	
+character=Galloway Friend 	name=Alex Emanuel	episodes=1 episode, 2013 	
+character=Drew Coughlin	name=Kevyn Settle	episodes=1 episode, 2013 	
+character=Capra Kid 4	name=Jonah Proepper	episodes=1 episode, 2013 	
+character=Chairman	name=Harlan J. Strauss	episodes=1 episode, 2013 	
+character=Feng	name=Annie Chang	episodes=1 episode, 2014 	
+character=Assistant	name=Annie Chang	episodes=1 episode, 2014 	
+character=Correspondent	name=Barry Ratcliffe	episodes=1 episode, 2014 	
+character=Reporter	name=Oriana Oppice	episodes=1 episode, 2014 	
+character=Abraham Isaacs	name=Edward Gero	episodes=1 episode, 2014 	
+character=Secretary of Defense	name=Lee Murphy	episodes=1 episode, 2014 	
+character=Chinese Woman	name=Bella Chu	episodes=1 episode, 2014 	
+character=Presidential Secretary	name=Wendy Snow	episodes=1 episode, 2014 	
+character=Telegraph Managing Editor	name=Steven Gleich	episodes=1 episode, 2014 	
+character=Meredith Vieira	name=Meredith Vieira	episodes=1 episode, 2015 	
+character=Photographer	name=Danny Boushebel	episodes=1 episode, 2015 	
+character=Sheila	name=Megan Graves	episodes=1 episode, 2015 	
+character=Agent	name=Ed Walsh	episodes=1 episode, 2015 	
+character=Little Kid	name=Judah Sandridge	episodes=1 episode, 2015 	
+character=Lawyer	name=Yvonne Erickson	episodes=1 episode, 2016 	
+character=Dunbar	name=Yvonne Erickson	episodes=1 episode, 2016 	
+character=Austen	name=Tony Senzamici	episodes=1 episode, 2016 	
+character=Chief of Staff	name=Tony Senzamici	episodes=1 episode, 2016 	
+character=Young Mother	name=Shawn Michelle Cosby	episodes=1 episode, 2016 	
+character=Indiana Chair	name=Alan Richmond	episodes=1 episode, 2016 	
+character=Radio Host	name=Lionel	episodes=1 episode, 2016 	
+character=Young Woman	name=Herrari Hamilton	episodes=1 episode, 2016 	
+character=FISA Court Lawyer	name=Thomas Adrian Simpson	episodes=1 episode, 2016 	
+character=Church Soloist	name=Andre Nance	episodes=1 episode, 2016 	
+character=Reporter	name=Kelley Davis	episodes=1 episode, 2017 	
+character=Jeff Squire	name=Reese Madigan	episodes=1 episode, 2017 	
+character=Donny Deutsch	name=Donny Deutsch	episodes=1 episode, 2017 	
+character=Speaker McCarthy	name=Jennifer Barnhart	episodes=1 episode, 2017 	
+character=Spokesperson	name=Noam Harary	episodes=1 episode, 2017 	
+character=Anchor	name=Jessica Abo	episodes=1 episode, 2017 	
+character=Russian Teen	name=Max Firestein	episodes=1 episode, 2017 	
+character=Military Aide	name=Guy LeMonnier	episodes=1 episode, 2018 	
+character=Young Boy 	name=Billy McFadden	episodes=1 episode, 2018 	
+character=Counterman	name=Stan Kang	episodes=1 episode, 2018 	
+character=Nurse	name=Ian Flanders	episodes=1 episode, 2018 	
+character=Senior Staffer	name=Michael Alban	episodes=1 episode, 2013 	
+character=Galloway Friend 	name=Emanuele Ancorini	episodes=1 episode, 2013 	
+character=Girl in Park	name=Sophia Parra	episodes=1 episode, 2013 	
+character=Head of AFT	name=Gwendolyn Briley-Strand	episodes=1 episode, 2013 	
+character=Tech Guy	name=Matthew Bowerman	episodes=1 episode, 2013 	
+character=Reporter 	name=Vanessa A. Jones	episodes=1 episode, 2013 	
+character=Rifleman 1	name=Benjamin Edward Simpson	episodes=1 episode, 2013 	
+character=Randy Flint	name=David Mason	episodes=1 episode, 2013 	
+character=MD Congresswoman	name=Anne Hall	episodes=1 episode, 2013 	
+character=Chinese Delegate	name=Clem Cheung	episodes=1 episode, 2014 	
+character=Senator Cornwall	name=Laura Poe	episodes=1 episode, 2014 	
+character=Morley Safer	name=Morley Safer	episodes=1 episode, 2014 	
+character=Young Woman at B	name=Frances Eve	episodes=1 episode, 2014 	
+character=B	name=Frances Eve	episodes=1 episode, 2014 	
+character=Telegraph Executive Assistant	name=Celeste Jones	episodes=1 episode, 2014 	
+character=Janine	name=Carol Schultz	episodes=1 episode, 2014 	
+character=Mother	name=Carol Schultz	episodes=1 episode, 2014 	
+character=Secretary	name=Brenda Heckert	episodes=1 episode, 2014 	
+character=Tusk	name=Brenda Heckert	episodes=1 episode, 2014 	
+character=Ivan Bugayev	name=Peter Von Berg	episodes=1 episode, 2015 	
+character=Saxby	name=Rick Crom	episodes=1 episode, 2015 	
+character=Spanish Anchor	name=Jennice Fuentes	episodes=1 episode, 2015 	
+character=NSC Staffer	name=Katie Killacky	episodes=1 episode, 2015 	
+character=Stylist	name=Patricia Prete	episodes=1 episode, 2015 	
+character=Protester	name=Lindsley Register	episodes=1 episode, 2016 	
+character=Austen	name=Suehyla El-Attar Young	episodes=1 episode, 2016 	
+character=Staffer	name=Suehyla El-Attar Young	episodes=1 episode, 2016 	
+character=Reporter	name=A. Smith Harrison	episodes=1 episode, 2016 	
+character=Nurse	name=Megan Petersen	episodes=1 episode, 2016 	
+character=Louisiana Chair	name=Scott Lehman	episodes=1 episode, 2016 	
+character=Reporter	name=Roger Ainslie	episodes=1 episode, 2016 	
+character=News Anchor	name=Shannon Mulaire	episodes=1 episode, 2016 	
+character=Church Pastor	name=Craig Harcum	episodes=1 episode, 2016 	
+character=Secret Service Agent	name=Kendrick Cross	episodes=1 episode, 2017 	
+character=Florida Congressman	name=Peter Oldring	episodes=1 episode, 2017 	
+character=Craig Squire	name=David Silverman	episodes=1 episode, 2017 	
+character=Gina	name=Kwajalyn Brown	episodes=1 episode, 2017 	
+character=Bret Baier	name=Bret Baier	episodes=1 episode, 2017 	
+character=Chairman	name=David Healy	episodes=1 episode, 2017 	
+character=Kasie Hunt	name=Kasie Hunt	episodes=1 episode, 2017 	
+character=Senator	name=Steve Blanchard	episodes=1 episode, 2018 	
+character=Young Boy 	name=Patrick Ryan Wood	episodes=1 episode, 2018 	
+character=Congresswoman 1	name=Robyn Payne	episodes=1 episode, 2013 	
+character=Reporter 	name=Carey Van Driest	episodes=1 episode, 2013 	
+character=Henry Chapman	name=Steven Ted Beckler	episodes=1 episode, 2013 	
+character=Moderator	name=Darla Robinson	episodes=1 episode, 2013 	
+character=Galloway Friend 	name=Don Meehan	episodes=1 episode, 2013 	
+character=Janet	name=Teresa Castracane	episodes=1 episode, 2013 	
+character=Rifleman 2	name=Robert Lance Mooney	episodes=1 episode, 2013 	
+character=Waitress	name=Parisa Fitz-Henley	episodes=1 episode, 2014 	
+character=Young Man at B	name=Jamie Nocher	episodes=1 episode, 2014 	
+character=B	name=Jamie Nocher	episodes=1 episode, 2014 	
+character=Delegation Leader	name=John Thomas Cramer	episodes=1 episode, 2014 	
+character=Secret Service Agent	name=Joshua Craig	episodes=1 episode, 2014 	
+character=Sergeant at Arms	name=John G. Pavelec	episodes=1 episode, 2014 	
+character=Bomber	name=Jefferson Farber	episodes=1 episode, 2014 	
+character=Porter	name=Michael McCormick	episodes=1 episode, 2015 	
+character=Russian Woman	name=Adrienne Nelson	episodes=1 episode, 2015 	
+character=Taylor	name=Louis Murray	episodes=1 episode, 2015 	
+character=Make-Up Artist	name=Makeda Vaughn	episodes=1 episode, 2015 	
+character=Homeless Woman	name=Rebecca Street	episodes=1 episode, 2016 	
+character=Conway Staffer	name=Daryn Kahn	episodes=1 episode, 2016 	
+character=Front Desk Clerk	name=Kelsi Chandler	episodes=1 episode, 2016 	
+character=News Anchor	name=John Trout	episodes=1 episode, 2016 	
+character=President of China	name=Chunying Zhang	episodes=1 episode, 2016 	
+character=Political Director	name=Peter J. Mendez	episodes=1 episode, 2016 	
+character=Dunbar	name=Peter J. Mendez	episodes=1 episode, 2016 	
+character=Secret Service Driver	name=Luke Forbes	episodes=1 episode, 2017 	
+character=Aide to Francis	name=Jasmine Shea	episodes=1 episode, 2017 	
+character=Reg	name=Brannon Cross	episodes=1 episode, 2017 	
+character=Young Boy 	name=Ryan Sell	episodes=1 episode, 2018 	
+character=Abby Green	name=Gina Grinkemeyer	episodes=1 episode, 2018 	
+character=Usher	name=Kristen Adele	episodes=1 episode, 2018 	
+character=Aide	name=Kristen Adele	episodes=1 episode, 2018 	
+character=Pam	name=Amy Parochetti	episodes=1 episode, 2018 	
+character=Congresswoman 2	name=Jeff Allin	episodes=1 episode, 2013 	
+character=Press Secretary Maggie Wilson	name=Nancy Nagrant	episodes=1 episode, 2013 	
+character=Cameraman	name=Adam Kroloff	episodes=1 episode, 2013 	
+character=Galloway Friend 	name=Grady	episodes=1 episode, 2013 	
+character=Galloway Friend 	name=Caroline O	episodes=1 episode, 2013 	
+character=Rifleman 3	name=Adam Bashian	episodes=1 episode, 2013 	
+character=Commission Member 1	name=John McComas	episodes=1 episode, 2013 	
+character=Minister	name=Samuel Maupin	episodes=1 episode, 2013 	
+character=Rachael Price	name=Rachael Price	episodes=1 episode, 2014 	
+character=Major Garrett	name=Major Garrett	episodes=1 episode, 2014 	
+character=Agent Carter	name=Alex Webb	episodes=1 episode, 2014 	
+character=Commissioner Roberts	name=Jim Hild	episodes=1 episode, 2014 	
+character=Lesley	name=Finnerty Steeves	episodes=1 episode, 2015 	
+character=Svetla	name=Aleszea Blanche Germann	episodes=1 episode, 2015 	
+character=Colonel	name=Jeffrey Voice	episodes=1 episode, 2015 	
+character=Head of Advance	name=David Alexander	episodes=1 episode, 2016 	
+character=Pizza Guy	name=Anthony DeVito	episodes=1 episode, 2016 	
+character=Cosmetologist	name=Tricia Sawyer	episodes=1 episode, 2016 	
+character=Seth	name=Daryl Ray Carliles	episodes=1 episode, 2016 	
+character=Staffer	name=Daryl Ray Carliles	episodes=1 episode, 2016 	
+character=Hospice Aide	name=Karina Casiano	episodes=1 episode, 2016 	
+character=Paul Begala	name=Paul Begala	episodes=1 episode, 2016 	
+character=Donor	name=Ian Mark Brown	episodes=1 episode, 2016 	
+character=Chancellor of Germany	name=Gabriele Schafer	episodes=1 episode, 2016 	
+character=Woman	name=Laura Cayouette	episodes=1 episode, 2017 	
+character=Bartender	name=Kevin Patrick Murphy	episodes=1 episode, 2017 	
+character=Mayor Adalardi	name=Alphie Hyorth	episodes=1 episode, 2017 	
+character=Reporter	name=David Abrams	episodes=1 episode, 2017 	
+character=Republican Congressman	name=Jeff Delaney	episodes=1 episode, 2017 	
+character=Nancy Gallagher	name=Sarah Dacey-Charles	episodes=1 episode, 2018 	
+character=Ms. Davis	name=Dionne Audain	episodes=1 episode, 2013 	
+character=Senior Cop	name=Robert G. McKay	episodes=1 episode, 2013 	
+character=Jack Warton	name=Gary Ray Moore	episodes=1 episode, 2013 	
+character=Congressman 3	name=Scott Morgan	episodes=1 episode, 2013 	
+character=Chief of Staff	name=Simon Feil	episodes=1 episode, 2013 	
+character=VP	name=Simon Feil	episodes=1 episode, 2013 	
+character=Staffer Kid	name=James Waters	episodes=1 episode, 2013 	
+character=Rifleman 4	name=Adam Godou	episodes=1 episode, 2013 	
+character=Galloway Friend 	name=Miran Powell	episodes=1 episode, 2013 	
+character=Photographer	name=Clinton Brandhagen	episodes=1 episode, 2014 	
+character=Speechwriter	name=Jonathan Lee Taylor	episodes=1 episode, 2014 	
+character=Communication Director	name=Lance Lewman	episodes=1 episode, 2014 	
+character=Scott Thurman	name=Scott Thurman	episodes=1 episode, 2014 	
+character=Sarah Stamper	name=Heidi Armbruster	episodes=1 episode, 2015 	
+character=Clive Reynolds	name=Reade Kelly	episodes=1 episode, 2015 	
+character=Woman Crossing Street	name=Dakota Romero	episodes=1 episode, 2015 	
+character=Air Force One Steward	name=Joe Peck	episodes=1 episode, 2015 	
+character=Pundit 	name=Pia Glenn	episodes=1 episode, 2016 	
+character=Sergeant at Arms	name=Craig Miller	episodes=1 episode, 2016 	
+character=Rosario	name=Brocki	episodes=1 episode, 2016 	
+character=Rosario	name=Rosa Laura O	episodes=1 episode, 2016 	
+character=Gabby	name=Gabrielle West	episodes=1 episode, 2016 	
+character=Congresswoman	name=Kay Galvin	episodes=1 episode, 2017 	
+character=White House Staffer	name=Victoria White	episodes=1 episode, 2017 	
+character=Reporter	name=Rasool Jahan	episodes=1 episode, 2017 	
+character=Republican Congressman Walters	name=Jim Dougherty	episodes=1 episode, 2017 	
+character=Maxine	name=Lauren White	episodes=1 episode, 2018 	
+character=David Gregory	name=David Gregory	episodes=1 episode, 2018 	
+character=Lorraine	name=Shanara Gabrielle	episodes=1 episode, 2018 	
+character=Congressman 4	name=Michael Mack	episodes=1 episode, 2013 	
+character=Sue Warton	name=Frances Mitchell	episodes=1 episode, 2013 	
+character=Commission Member 3	name=Reiner Prochaska	episodes=1 episode, 2013 	
+character=Galloway Friend 	name=Blanca Avalos	episodes=1 episode, 2013 	
+character=Bartender - Dupont Circle Bar	name=Elan Noelle	episodes=1 episode, 2013 	
+character=Naked Man	name=E. Parker Webb	episodes=1 episode, 2013 	
+character=Ms. Davis Sister 1	name=Terea Grant	episodes=1 episode, 2013 	
+character=Ship Builder 1	name=Erick Washington	episodes=1 episode, 2013 	
+character=Young Boy	name=Felipe Taruselli	episodes=1 episode, 2013 	
+character=Mrs. Hennessey	name=Karen Culp	episodes=1 episode, 2014 	
+character=Press Secretary	name=Beth Hylton	episodes=1 episode, 2014 	
+character=Messenger	name=Andreu Honeycutt	episodes=1 episode, 2014 	
+character=Older Man	name=Liam Hughes	episodes=1 episode, 2015 	
+character=Franke Stamper	name=Franke Kelly	episodes=1 episode, 2015 	
+character=Pundit 	name=Tim Miller	episodes=1 episode, 2016 	
+character=Technician	name=Casey Ford Alexander	episodes=1 episode, 2016 	
+character=George Walleck	name=Dana Healey	episodes=1 episode, 2016 	
+character=Jack	name=Bill Hoag	episodes=1 episode, 2017 	
+character=Reporter	name=Laura Chaneski	episodes=1 episode, 2017 	
+character=South Carolina Congressman	name=Stephen Michael Ayers	episodes=1 episode, 2017 	
+character=Conway Aide	name=Quinten Johnson	episodes=1 episode, 2017 	
+character=Donnell	name=Donnell	episodes=1 episode, 2018 	
+character=Donnell	name=Lawrence O	episodes=1 episode, 2018 	
+character=Lawrence O	name=Donnell	episodes=1 episode, 2018 	
+character=Lawrence O	name=Lawrence O	episodes=1 episode, 2018 	
+character=Bellport Resident	name=Kacy Gabbert	episodes=1 episode, 2018 	
+character=Laura	name=Coleen Prenda	episodes=1 episode, 2018 	
+character=Agent	name=Brian Harvath	episodes=1 episode, 2018 	
+character=Strategist 1	name=Marva Hicks	episodes=1 episode, 2013 	
+character=Brian	name=Bryan Langlitz	episodes=1 episode, 2013 	
+character=Commission Member 4	name=Michael Dean Russell Jr.	episodes=1 episode, 2013 	
+character=Older Woman	name=Caren Anton	episodes=1 episode, 2013 	
+character=Cameraman	name=Ray Miller	episodes=1 episode, 2013 	
+character=Young Girl	name=Catherine Callahan	episodes=1 episode, 2013 	
+character=Ms. Davis Sister 2	name=Nzinga Porter	episodes=1 episode, 2013 	
+character=Student	name=Sean Holloran	episodes=1 episode, 2014 	
+character=Protestor	name=Nathaniel E. Bell	episodes=1 episode, 2015 	
+character=Clinton Stamper	name=Clinton Kelly	episodes=1 episode, 2015 	
+character=Older Woman	name=Mary Suib	episodes=1 episode, 2015 	
+character=Stephanie	name=Stephanie Green	episodes=1 episode, 2015 	
+character=Buha	name=David Shae	episodes=1 episode, 2016 	
+character=Sharp	name=Myke Holmes	episodes=1 episode, 2016 	
+character=Aide	name=Myke Holmes	episodes=1 episode, 2016 	
+character=Private Investigator	name=Nello DeBlasio	episodes=1 episode, 2016 	
+character=Democratic Congressman	name=Dave Blamy	episodes=1 episode, 2017 	
+character=Mother	name=Amy Lynn Stewart	episodes=1 episode, 2018 	
+character=Claire	name=Amy Lynn Stewart	episodes=1 episode, 2018 	
+character=Martha Raddatz	name=Martha Raddatz	episodes=1 episode, 2018 	
+character=Jack	name=James Whalen	episodes=1 episode, 2018 	
+character=Strategist 2	name=Maury Ginsberg	episodes=1 episode, 2013 	
+character=Woman	name=Patricia Squire	episodes=1 episode, 2013 	
+character=Cop	name=Kamal Jones	episodes=1 episode, 2013 	
+character=Commission Member 5	name=Paul Weaver	episodes=1 episode, 2013 	
+character=Young Barista	name=Kalynn Burke	episodes=1 episode, 2013 	
+character=Ship Builder 3	name=Darlene Wallace	episodes=1 episode, 2013 	
+character=Tattoo Artist	name=Scarlett Knopf	episodes=1 episode, 2014 	
+character=Mr. Brown	name=Steve Beauchamp	episodes=1 episode, 2015 	
+character=First Cop	name=Eddie Clark	episodes=1 episode, 2015 	
+character=Analyst	name=Eric Porter	episodes=1 episode, 2015 	
+character=Danny	name=Susan Rome	episodes=1 episode, 2016 	
+character=Mother	name=Susan Rome	episodes=1 episode, 2016 	
+character=FBI Agent	name=Todd James Jackson	episodes=1 episode, 2017 	
+character=Pilot	name=Allen Fawcett	episodes=1 episode, 2017 	
+character=Driver	name=Estes Tarver	episodes=1 episode, 2017 	
+character=Campaign Aide	name=Victoria Ealy	episodes=1 episode, 2017 	
+character=Father	name=Robert T. Bogue	episodes=1 episode, 2018 	
+character=Claire	name=Robert T. Bogue	episodes=1 episode, 2018 	
+character=Corporate Type	name=Mike Sutton	episodes=1 episode, 2018 	
+character=Strategist 3	name=Maureen Kerrigan	episodes=1 episode, 2013 	
+character=Commission Member 6	name=Karen Dadey	episodes=1 episode, 2013 	
+character=Aaron Gunn	name=Mark Segraves	episodes=1 episode, 2013 	
+character=Walker Kid 1	name=Kyle Johnson	episodes=1 episode, 2013 	
+character=Homeless Man	name=Ken Peebles	episodes=1 episode, 2013 	
+character=Congressman from Alabama	name=Ralph Byers	episodes=1 episode, 2014 	
+character=Singing Young Man	name=Jae Jin	episodes=1 episode, 2014 	
+character=WH Reporter Jess	name=Staci Dickerson	episodes=1 episode, 2015 	
+character=Annie Wietz	name=Kit Flanagan	episodes=1 episode, 2015 	
+character=Second Cop	name=Frank Bal	episodes=1 episode, 2015 	
+character=JD Samson	name=Jocelyn Samson	episodes=1 episode, 2015 	
+character=Ibrahim Halabi	name=Amr El-Bayoumi	episodes=1 episode, 2016 	
+character=Finance Anchor	name=Jon Leiberman	episodes=1 episode, 2016 	
+character=FBI Director Clark	name=Brian Kurlander	episodes=1 episode, 2017 	
+character=Co-Pilot	name=Fred Arsenault	episodes=1 episode, 2017 	
+character=Telecom Head	name=Robert Beard	episodes=1 episode, 2017 	
+character=Stephanie Cutter	name=Stephanie Cutter	episodes=1 episode, 2018 	
+character=Strategist 4	name=Kevin Murray	episodes=1 episode, 2013 	
+character=Frank Security 1	name=Brian Distance	episodes=1 episode, 2013 	
+character=Bruce Woodbury	name=Jamie McIntyre	episodes=1 episode, 2013 	
+character=Walker Kid 2	name=Kirsten Johnson	episodes=1 episode, 2013 	
+character=Congresswoman from Tennessee	name=Corinna May	episodes=1 episode, 2014 	
+character=ER Doctor	name=Maceo Oliver	episodes=1 episode, 2015 	
+character=Johanna Fateman	name=Johanna Fateman	episodes=1 episode, 2015 	
+character=Lieutenant	name=Michael L. Gibson	episodes=1 episode, 2015 	
+character=Mrs. Dempsey	name=Lois DaVincent	episodes=1 episode, 2015 	
+character=Gwen Ifill	name=Gwen Ifill	episodes=1 episode, 2016 	
+character=Entertainment Anchor	name=Cat Andersen	episodes=1 episode, 2016 	
+character=Reporter	name=Kelly Mumme	episodes=1 episode, 2017 	
+character=Reporter	name=Genevive Barker	episodes=1 episode, 2017 	
+character=Secret Service	name=Steve K. Young	episodes=1 episode, 2018 	
+character=Adrian Ogioni	name=Andrew Dolan	episodes=1 episode, 2013 	
+character=Frank Security 2	name=Kevin Witt	episodes=1 episode, 2013 	
+character=Dance Couple 1	name=Alexandra Linn	episodes=1 episode, 2013 	
+character=Chairman	name=David DeBoy	episodes=1 episode, 2014 	
+character=Prince Ryad	name=Eyas Younis	episodes=1 episode, 2015 	
+character=Photographer at Graveyard	name=Adam Devine	episodes=1 episode, 2015 	
+character=Producer	name=Anntoinette Johnson	episodes=1 episode, 2016 	
+character=Gwen Ifill	name=Anntoinette Johnson	episodes=1 episode, 2016 	
+character=Sniper	name=Kevin Savage	episodes=1 episode, 2017 	
+character=John Berman	name=John Berman	episodes=1 episode, 2018 	
+character=Michele Marcos	name=Angie Goff	episodes=1 episode, 2013 	
+character=Dance Couple 1	name=Eliot Malamud	episodes=1 episode, 2013 	
+character=U.N. Interpreter	name=Hadi Tabbal	episodes=1 episode, 2015 	
+character=Dance Couple 2	name=Ann Marlow	episodes=1 episode, 2013 	
+character=Pundit	name=Charlie Neal	episodes=1 episode, 2013 	
+character=Federal Marshall	name=Eoin O	episodes=1 episode, 2014 	
+character=Federal Marshall	name=Shea	episodes=1 episode, 2014 	
+character=Guy at Bar	name=Cliff Moylan	episodes=1 episode, 2015 	
+character=CIA Translator	name=Wendy Carter	episodes=1 episode, 2015 	
+character=Cabinet Member	name=Jon Shaver	episodes=1 episode, 2018 	
+character=Dance Couple 2	name=Dan Vanbey	episodes=1 episode, 2013 	
+character=Opera Singer	name=Annie Gill	episodes=1 episode, 2014 	
+character=Woman at Bar	name=Molly Moores	episodes=1 episode, 2015 	
+character=News Correspondent	name=Kelly Miller	episodes=1 episode, 2016 	
+character=Reporter 	name=Sarah Skeist	episodes=1 episode, 2016 	
+character=Dance Couple 3	name=Anna Damen	episodes=1 episode, 2013 	
+character=Bartender	name=Joe Duquette	episodes=1 episode, 2015 	
+character=Reporter 	name=Sara Antonio	episodes=1 episode, 2016 	
+character=Herald Reporter	name=Lane Carlock	episodes=1 episode, 2016 	
+character=Speechwriter 1	name=Mike Lutz	episodes=1 episode, 2016 	
+character=Dance Couple 3	name=Sean Climer	episodes=1 episode, 2013 	
+character=Russian Server	name=Evgeniya Orudzheva	episodes=1 episode, 2015 	
+character=Russian General	name=Matt Gulbranson	episodes=1 episode, 2015 	
+character=Herald Lawyer	name=Anthony Reynolds	episodes=1 episode, 2016 	
+character=Speechwriter 2	name=Felicia Greenfield	episodes=1 episode, 2016 	
+character=Reporter 	name=Jocelyn Sigue	episodes=1 episode, 2013 	
+character=Dance Couple 4	name=Carol Berger	episodes=1 episode, 2013 	
+character=News Anchor	name=Frank Sesno	episodes=1 episode, 2016 	
+character=Reporter	name=Jenny Gulley	episodes=1 episode, 2018 	
+character=Reporter 	name=Colin Grube	episodes=1 episode, 2013 	
+character=Dance Couple 4	name=Ed Costlow	episodes=1 episode, 2013 	
+character=Nurse	name=Rebecca Lines	episodes=1 episode, 2016 	
+character=News Anchor	name=Taylor Thomas	episodes=1 episode, 2016 	
+character=Dance Couple 5	name=Catherine Noblitt	episodes=1 episode, 2013 	
+character=Bellhop	name=Angelo Reyes	episodes=1 episode, 2018 	
+character=Dance Couple 5	name=Mark Norton	episodes=1 episode, 2013 	
+character=News Anchor	name=Carolyn Presutti	episodes=1 episode, 2016 	
+character=SEAL 	name=Jeff Sandor	episodes=1 episode, 2016 	
+character=Special Agent Wenniger	name=Anna Magoulas	episodes=1 episode, 2018 	
+character=Dance Couple 6	name=Debbie Winchell	episodes=1 episode, 2013 	
+character=SEAL 	name=David A MacDonald	episodes=1 episode, 2016 	
+character=Special Agent Gilbar	name=Tim Moriarty	episodes=1 episode, 2018 	
+character=Dance Couple 6	name=Chris Endres	episodes=1 episode, 2013 	
+character=SEAL 	name=David B. Meadows	episodes=1 episode, 2016 	
+character=News Anchor	name=Jessica Kartalija	episodes=1 episode, 2016 	
+character=Dance Couple 7	name=Karen Trimble	episodes=1 episode, 2013 	
+character=News Anchor	name=Jonathan D. Williams	episodes=1 episode, 2016 	
+character=Lieutenant Quintero	name=Edward Incle	episodes=1 episode, 2018 	
+character=Dance Couple 7	name=Dimitri Klubov	episodes=1 episode, 2013 	
+character=Durant	name=Bobby Kruger	episodes=1 episode, 2016 	
+character=Staffer	name=Bobby Kruger	episodes=1 episode, 2016 	
+character=Daughter	name=Molly Nugent	episodes=1 episode, 2018 	
+character=Ray	name=Molly Nugent	episodes=1 episode, 2018 	
+character=Dance Couple 8	name=Honey Kessler	episodes=1 episode, 2013 	
+character=Dance Couple 8	name=Bob Kessler	episodes=1 episode, 2013 	
+character=Dance Couple 9	name=Lucy Henningfield	episodes=1 episode, 2013 	
+character=Dance Couple 9	name=Jack Henningfield	episodes=1 episode, 2013 	
+character=Dance Couple 10	name=Linda Ha	episodes=1 episode, 2013 	
+character=Dance Couple 10	name=David Flynn	episodes=1 episode, 2013 	
+character=Dance Couple 11	name=Natalya Franklin	episodes=1 episode, 2013 	
+character=Dance Couple 11	name=Stephen Gonzales	episodes=1 episode, 2013 	
+character=Dance Couple 12	name=Sally Meints	episodes=1 episode, 2013 	
+character=Dance Couple 12	name=George Winchell	episodes=1 episode, 2013 	
+character=Dance Couple 13	name=Yana Karp	episodes=1 episode, 2013 	
+character=Dance Couple 13	name=Dan Callaway	episodes=1 episode, 2013 	
+character=Dance Couple 14	name=Yuko Yu	episodes=1 episode, 2013 	
+character=Dance Couple 14	name=Thomas Yu	episodes=1 episode, 2013 	
+character=Year-Old Hit and Run Driver	name=Charlie Dreizen	episodes=1 episode, 2013 	
+character=DC Cop 1	name=W. Keith Scott	episodes=1 episode, 2013 	
+character=DC Cop 2	name=Don Whatley	episodes=1 episode, 2013 	
+character=Opera Couple 1	name=Ron Decker	episodes=1 episode, 2013 	
+character=Opera Couple 1	name=Victoria Morrison	episodes=1 episode, 2013 	
+character=School Kid	name=Cody N. Carter	episodes=1 episode, 2013 	
+character=SecretService	name=Randall Lawrence	episodes=1 episode, 2013 	
+character=Political Commercial Announcer	name=Lynnanne Zager	episodes=1 episode, 2014 	
+character=Casino Patron	name=Steve 	episodes=1 episode, 2014 	
+character=Casino Patron	name=Stevieweevie	episodes=1 episode, 2014 	
+character=Casino Patron	name=Jones	episodes=1 episode, 2014 	
+character=VIP Opera Guest	name=Caren Le Berre	episodes=1 episode, 2014 	
+character=Soundman	name=Nakia Dillard	episodes=1 episode, 2015 	
+character=Photographer	name=James Matthew Poole	episodes=1 episode, 2015 	
+character=Campaign Staffer	name=John Paul Andrews	episodes=1 episode, 2015 	
+character=Secret Service	name=Tod Rainey	episodes=1 episode, 2015 	
+character=Town Person	name=Patrick Boyer	episodes=1 episode, 2015 	
+character=Campaign Photographer	name=Colin McHugh	episodes=1 episode, 2015 	
+character=UN Soldier	name=Ricky Montano	episodes=1 episode, 2015 	
+character=UN Marine	name=Brendon Sinclair Wilde	episodes=1 episode, 2015 	
+character=Town Hall Attendee	name=Kyle Flynn	episodes=1 episode, 2015 	
+character=Neighbor	name=Wayne Shearer	episodes=1 episode, 2015 	
+character=Debate Attendee	name=Lori Titus	episodes=1 episode, 2015 	
+character=Dawn Kopecki	name=Dawn Kopecki	episodes=1 episode, 2015 	
+character=Dunbar Supporter	name=Jaclyn McHugh	episodes=1 episode, 2015 	
+character=Debate Attendee	name=Laura Beth Melchiorre	episodes=1 episode, 2015 	
+character=Garrett Pietrocola	name=Garrett Pietrocola	episodes=1 episode, 2015 	
+character=Campaign Volunteer	name=Michelle Xander Gruver	episodes=1 episode, 2015 	
+character=Town Hall Attendee	name=Tracy Flynn	episodes=1 episode, 2015 	
+character=Campaign Volunteer	name=Carla Saylor	episodes=1 episode, 2015 	
+character=Russian Soldier	name=Peter Mason	episodes=1 episode, 2015 	
+character=Governor Parsons	name=Michael Harding	episodes=1 episode, 2016 	
+character=Photographer	name=Kevin Tan	episodes=1 episode, 2016 	
+character=Assistant	name=Kevin Tan	episodes=1 episode, 2016 	
+character=First Lady Patricia Walker	name=Sonia Debreczeni	episodes=1 episode, 2016 	
+character=Bar Patron	name=Cody Bennett	episodes=1 episode, 2016 	
+character=Delegate	name=Maia Yvonne	episodes=1 episode, 2016 	
+character=Rally Photographer	name=Misti Morningstar	episodes=1 episode, 2016 	
+character=Valet	name=Adam DeMarco	episodes=1 episode, 2017 	
+character=Senior Staffer	name=Floyd Henderson	episodes=1 episode, 2017 	
+character=Inquesitive Student	name=Connor Berry	episodes=1 episode, 2017 	
+character=Iowa Governor	name=William G. Tomek	episodes=1 episode, 2017 	
+character=Cameraman	name=Clayton Teat	episodes=1 episode, 2017 	
+character=Tour Guest	name=Maria Konstantinidis	episodes=1 episode, 2017 	
+character=Protestor	name=Kody Kight	episodes=1 episode, 2017 	
+character=TV Reporter	name=Brant Casey	episodes=1 episode, 2017 	
+character=Young Tech Artist	name=Zachary Schwartz	episodes=1 episode, 2017 	
+character=Super	name=Bobby Plasencia	episodes=1 episode, 2017 	
+character=Secret Service	name=Scott Swope	episodes=1 episode, 2018 	
+character=Theater attendee	name=Gabriela Coro	episodes=1 episode, 2018 	
+character=Honored Conference Guest	name=Beth Barnes	episodes=1 episode, 2018 	
+character=Intern	name=Whitney Richardson	episodes=1 episode, 2018 	
+character=Usher	name=Stephen C. Poland	episodes=1 episode, 2018 	
+character=Cabinet	name=Stephen C. Poland	episodes=1 episode, 2018 	
+character=Waiter	name=Chris Marcellas	episodes=1 episode, 2018 	
+character=Duncan Abernathy	name=Andrew Buzolic	episodes=1 episode, 2018 	
+character=Boom Mic Press	name=Billy	episodes=1 episode, 2018 	
+character=Boom Mic Press	name=Sherrod Jr.	episodes=1 episode, 2018 	
+character=Boom Mic Press	name=Nathaniel 	episodes=1 episode, 2018 	
+character=Jackson Green	name=Nikolas Tamburri	episodes=1 episode, 2018 	
+character=Fire Rescue	name=Leo Cort	episodes=1 episode, 2018 	
+character=Resident	name=Tre	episodes=1 episode, 2018 	
+character=Resident	name=Bertrille	episodes=1 episode, 2018 	
+character=Press	name=Matthew Bernard	episodes=19 episodes, 2016-2018 	
+character=Staff	name=Gina Jun	episodes=10 episodes, 2016-2018 	
+character=Staffer	name=Jaci Jones	episodes=8 episodes, 2013 	
+character=Reporter	name=Joanna M. Lewis	episodes=7 episodes, 2014-2015 	
+character=White House Staff	name=James Davenjay	episodes=6 episodes, 2015 	
+character=Mourner	name=Janet Devine Smith	episodes=5 episodes, 2013-2017 	
+character=Politician	name=Brian Foreman	episodes=5 episodes, 2013-2016 	
+character=Friend	name=Dave Fairbanks	episodes=5 episodes, 2013-2016 	
+character=Photographer	name=Liam Ferguson	episodes=5 episodes, 2015 	
+character=Gala VIP	name=Micheila Leighland	episodes=4 episodes, 2013 	
+character=Bar Patron	name=Robert Lucas Nelson	episodes=4 episodes, 2013 	
+character=Cabinet Aide	name=Kaelan Denali Dickinson	episodes=4 episodes, 2015 	
+character=Delegate	name=Heidi Segal	episodes=4 episodes, 2016 	
+character=Congresswoman	name=Gemma McIlhenny	episodes=4 episodes, 2017 	
+character=Staffer	name=Nathan Ferguson	episodes=3 episodes, 2013-2014 	
+character=Francis Staffer	name=Victoria Anastasi	episodes=3 episodes, 2013 	
+character=Staffer	name=Armando Gutierrez	episodes=3 episodes, 2013 	
+character=Staffer	name=Margaret Perkowski	episodes=3 episodes, 2013 	
+character=Photographer	name=Bob Schwartz	episodes=3 episodes, 2013 	
+character=Nurse	name=Marlena Neal	episodes=3 episodes, 2014-2015 	
+character=Driver	name=Basil Kershner	episodes=3 episodes, 2014 	
+character=Tusk	name=Basil Kershner	episodes=3 episodes, 2014 	
+character=Herald Staff	name=Mackie Lou Vigal	episodes=3 episodes, 2014 	
+character=Nurse	name=Patricia DiZebba	episodes=3 episodes, 2015-2016 	
+character=Cameraman	name=Ted Williams	episodes=3 episodes, 2016-2017 	
+character=Delegate	name=Todd Bobenrieth	episodes=3 episodes, 2016 	
+character=Police Officer	name=Joshua Barnes	episodes=3 episodes, 2016 	
+character=Secret Service	name=Stephanie Parker	episodes=3 episodes, 2018 	
+character=Server	name=Christina Munn	episodes=2 episodes, 2013-2018 	
+character=Pedestrian	name=Laura Avnaim	episodes=2 episodes, 2013 	
+character=Slugline	name=Johnson	episodes=2 episodes, 2013 	
+character=Slugline	name=Candice 	episodes=2 episodes, 2013 	
+character=Slugline	name=CJ	episodes=2 episodes, 2013 	
+character=Russo Intern	name=Mary Lee Adams	episodes=2 episodes, 2013 	
+character=Politician Wife	name=Jennifer Richards	episodes=2 episodes, 2013 	
+character=Parishioner	name=Katrinka Stringfield	episodes=2 episodes, 2013 	
+character=Union Protestor	name=Lori Bedsole	episodes=2 episodes, 2013 	
+character=Parent	name=Sunkanmi London	episodes=2 episodes, 2013 	
+character=Photographer	name=Brian Harrison	episodes=2 episodes, 2013 	
+character=Congressman	name=John Hagy	episodes=2 episodes, 2013 	
+character=Bartender	name=Martin Lopez	episodes=2 episodes, 2014 	
+character=Office Assistant	name=Tarra Denise Jackson	episodes=2 episodes, 2014 	
+character=Senator	name=Colin Bishopp	episodes=2 episodes, 2014 	
+character=Church Member	name=Stacy Gedney	episodes=2 episodes, 2014 	
+character=Tusk Lawyer	name=Tom Cutler	episodes=2 episodes, 2014 	
+character=Reporter	name=Kevin Laughon	episodes=2 episodes, 2014 	
+character=Doctor	name=Joseph Giambrone	episodes=2 episodes, 2015-2016 	
+character=Secret Service	name=Brandon Michael Thomas	episodes=2 episodes, 2015 	
+character=Political Journalist	name=Arielle Bielicki	episodes=2 episodes, 2015 	
+character=American Delegate	name=Shawn McBurney	episodes=2 episodes, 2015 	
+character=Journalist	name=Tiller Gray	episodes=2 episodes, 2015 	
+character=Delegate	name=Bob Singer	episodes=2 episodes, 2016-2017 	
+character=Mourner	name=Ira Grossman	episodes=2 episodes, 2016-2017 	
+character=Correspondent 	name=Anne Marie Howard	episodes=2 episodes, 2016 	
+character=Kentucky Delegate	name=Jeffrey Wells	episodes=2 episodes, 2016 	
+character=DNC Cameraman	name=Paul Wallis	episodes=2 episodes, 2016 	
+character=Clerk of Courts	name=Babs Proller	episodes=2 episodes, 2016 	
+character=Congresswoman	name=Alisa Anderson	episodes=2 episodes, 2016 	
+character=Rally Member	name=Theophilus Griffin	episodes=2 episodes, 2016 	
+character=Reporter	name=Kelli Culbertson	episodes=2 episodes, 2017 	
+character=Lawyer	name=Sean M. Brown	episodes=2 episodes, 2017 	
+character=CWI Staffer	name=LaToya Ward	episodes=1 episode, 2013 	
+character=Secretary	name=Stephanie Garvin	episodes=1 episode, 2013 	
+character=Reporter	name=Silvia Baldassini	episodes=1 episode, 2013 	
+character=President	name=Tanya Davis	episodes=1 episode, 2013 	
+character=Aide	name=Tanya Davis	episodes=1 episode, 2013 	
+character=Associate	name=Jan Johns	episodes=1 episode, 2013 	
+character=Staffer	name=Justin Curtis	episodes=1 episode, 2013 	
+character=Guest	name=Monika Spruch	episodes=1 episode, 2013 	
+character=NEA Staffer	name=Eugenia Gonzales	episodes=1 episode, 2013 	
+character=Town Citizen	name=Christine Nelson	episodes=1 episode, 2013 	
+character=Ship Builder	name=Anthony Hackett	episodes=1 episode, 2013 	
+character=Janitor	name=Antonio Jefferson	episodes=1 episode, 2013 	
+character=First Reporter	name=Nina Hodoruk	episodes=1 episode, 2013 	
+character=CWI Staffer	name=Jodi Dawson	episodes=1 episode, 2013 	
+character=Angry Citizen	name=Bruce Drummond	episodes=1 episode, 2013 	
+character=Driver	name=Vincent Riviezzo	episodes=1 episode, 2013 	
+character=Alumni	name=Anthony Logan Cole	episodes=1 episode, 2013 	
+character=Man in Diner	name=Therron Dumas	episodes=1 episode, 2013 	
+character=Party Patron	name=Azize Erim	episodes=1 episode, 2013 	
+character=TV Reporter	name=Serena Rasoul	episodes=1 episode, 2013 	
+character=Commuter	name=Patrick Michael Strange	episodes=1 episode, 2013 	
+character=Restaurant Patron	name=Tex Allen	episodes=1 episode, 2013 	
+character=Reporter	name=Michael Blumenstock	episodes=1 episode, 2013 	
+character=Press Corp	name=Donald Imm	episodes=1 episode, 2013 	
+character=Office Staffer	name=Christina Ritter	episodes=1 episode, 2013 	
+character=Politician	name=William James Kelly	episodes=1 episode, 2013 	
+character=TV Reporter	name=Elena Schick	episodes=1 episode, 2013 	
+character=Union Protestor	name=Yuri Chernykh	episodes=1 episode, 2013 	
+character=Disc Jockey	name=Edward Daniels	episodes=1 episode, 2013 	
+character=Party Patron	name=J.D. Wine	episodes=1 episode, 2013 	
+character=Slugline Employee	name=Jonathan W. Colby	episodes=1 episode, 2013 	
+character=Politician	name=Pete Garvey	episodes=1 episode, 2013 	
+character=Senator	name=Jimmy Bacon	episodes=1 episode, 2013 	
+character=TV Reporter 	name=Steve Ray	episodes=1 episode, 2013 	
+character=Labor Leader	name=Kevin Pitcairn	episodes=1 episode, 2013 	
+character=Anti-Union Protestor	name=Kyle Edwards	episodes=1 episode, 2013 	
+character=Detective	name=Jason M. Jones	episodes=1 episode, 2013 	
+character=Ballroom Attendee	name=Juan Eloy Carrera	episodes=1 episode, 2013 	
+character=Russo Staffer	name=Alan Davis	episodes=1 episode, 2013 	
+character=Martin	name=Mc Jones	episodes=1 episode, 2013 	
+character=Union Protester	name=Telisha L. Davis	episodes=1 episode, 2013 	
+character=Staffer	name=Elliott Kashner	episodes=1 episode, 2013 	
+character=Ship Builder	name=Mary Richards	episodes=1 episode, 2013 	
+character=Wife	name=Mary Richards	episodes=1 episode, 2013 	
+character=Bartender	name=Benjamin Loeh	episodes=1 episode, 2013 	
+character=Reporter	name=Carol Ann Meyer	episodes=1 episode, 2013 	
+character=Secret Agent	name=Mike McVearry	episodes=1 episode, 2013 	
+character=Passerby	name=Joseph Balinas	episodes=1 episode, 2013 	
+character=Politician	name=James Cottingham	episodes=1 episode, 2013 	
+character=Union Protester	name=Jose Luis Munoz	episodes=1 episode, 2013 	
+character=Rude Politician	name=Aaron Bryant	episodes=1 episode, 2013 	
+character=Assistant Pastor	name=Kenneth J. Coughlan	episodes=1 episode, 2013 	
+character=Pizza Hut Guy	name=Michael Bell	episodes=1 episode, 2013 	
+character=Vigil Attendee	name=Sophie Rosenthal	episodes=1 episode, 2013 	
+character=Underwood Caterer	name=Cristen Kennedy	episodes=1 episode, 2013 	
+character=US Congressman	name=Jesse Williams	episodes=1 episode, 2013 	
+character=Herald Staff	name=Lenny Le	episodes=1 episode, 2013 	
+character=Dog Walker	name=Chelsea Grace Fox	episodes=1 episode, 2013 	
+character=Legislative Aide	name=Michelle Roy	episodes=1 episode, 2013 	
+character=Legislative Aide	name=Heather Callahan-Stevens	episodes=1 episode, 2013 	
+character=Photojournalist	name=John Harrington	episodes=1 episode, 2013 	
+character=Park Goer	name=Crystal Dee	episodes=1 episode, 2013 	
+character=Party Goer	name=Gary Charles Pick	episodes=1 episode, 2013 	
+character=Reporter	name=April Whatley	episodes=1 episode, 2013 	
+character=Congressional Aide	name=Julian Johnson	episodes=1 episode, 2013 	
+character=Government Worker	name=Tiara Jackson	episodes=1 episode, 2013 	
+character=Fitz	name=Erik Jensen	episodes=1 episode, 2014 	
+character=Fighter Inmate	name=Lyon Beckwith	episodes=1 episode, 2014 	
+character=Federal Agent	name=Adam Ratcliffe	episodes=1 episode, 2014 	
+character=Belvedere Manager	name=Vincent De Paul	episodes=1 episode, 2014 	
+character=Fighting Wife	name=Jenny Anne Hochberg	episodes=1 episode, 2014 	
+character=Polling Caller	name=Rege Lewis	episodes=1 episode, 2014 	
+character=Protester	name=April Nicole	episodes=1 episode, 2014 	
+character=Congressional Aide	name=Sofia Pellegrino	episodes=1 episode, 2014 	
+character=Ogilvy	name=Ulysses E. Campbell	episodes=1 episode, 2014 	
+character=Busboy	name=Adi Stein	episodes=1 episode, 2014 	
+character=Iowa Supporter	name=Alonzo Bristol	episodes=1 episode, 2014 	
+character=Waiter	name=Matthew Gooley	episodes=1 episode, 2014 	
+character=Customer	name=Morris D. Small	episodes=1 episode, 2014 	
+character=Freddy	name=Morris D. Small	episodes=1 episode, 2014 	
+character=Stamper Staffer	name=Brooke Mulkins	episodes=1 episode, 2014 	
+character=Telegraph Mail Boy	name=Christopher Zash	episodes=1 episode, 2014 	
+character=CWI Staffer	name=Maalik Evans	episodes=1 episode, 2014 	
+character=Gallery Hipster	name=Brocki	episodes=1 episode, 2014 	
+character=Gallery Hipster	name=Chris O	episodes=1 episode, 2014 	
+character=White House Aide	name=Steven Soto	episodes=1 episode, 2014 	
+character=Secret Service	name=Corey Bente	episodes=1 episode, 2014 	
+character=Confederate Soldier	name=Bert Puckett	episodes=1 episode, 2014 	
+character=Guest of the Court	name=James Howard	episodes=1 episode, 2014 	
+character=Concierge	name=Paola Torres	episodes=1 episode, 2014 	
+character=AA Moderator	name=Aimee Cassada	episodes=1 episode, 2014 	
+character=Casino Patron	name=Troy Bogdan	episodes=1 episode, 2014 	
+character=Concierge	name=Paul H Chapman	episodes=1 episode, 2014 	
+character=Military Guest	name=Lillian Cartagena	episodes=1 episode, 2014 	
+character=Senator	name=Erik Mueller	episodes=1 episode, 2014 	
+character=NSA Liaison	name=John Brennan	episodes=1 episode, 2014 	
+character=Neighbor	name=Leslie Olabisi	episodes=1 episode, 2014 	
+character=Freddy	name=Leslie Olabisi	episodes=1 episode, 2014 	
+character=Federal Marshall	name=Steve Rudden	episodes=1 episode, 2014 	
+character=Pollster	name=Kevin Leigh	episodes=1 episode, 2014 	
+character=Neighbor	name=Nateice Aisha	episodes=1 episode, 2014 	
+character=Union Soildier	name=Alex Martin	episodes=1 episode, 2014 	
+character=White House Staff	name=Jose Alejandro Santillan	episodes=1 episode, 2014 	
+character=Staffer	name=Kara Turner	episodes=1 episode, 2014 	
+character=Claire	name=Kara Turner	episodes=1 episode, 2014 	
+character=Congressional Aide	name=Kyle Ensley	episodes=1 episode, 2014 	
+character=Confederate Soldier	name=J. Ryan Smith	episodes=1 episode, 2014 	
+character=Casino Attendent	name=Richard Adams	episodes=1 episode, 2014 	
+character=FBI Agent	name=Brian Stever	episodes=1 episode, 2014 	
+character=Office Worker	name=Ena Wagner	episodes=1 episode, 2014 	
+character=Church Member	name=Debbie Morrison	episodes=1 episode, 2014 	
+character=Metro Passenger	name=Emily Vitek	episodes=1 episode, 2014 	
+character=WH Senior Staffer	name=Monica Lee Bellais	episodes=1 episode, 2015 	
+character=Town Hall Member	name=Chris Wolfe	episodes=1 episode, 2015 	
+character=Dunbar Supporter	name=Jordan Elizabeth Gelber	episodes=1 episode, 2015 	
+character=Agent	name=Pete Burris	episodes=1 episode, 2015 	
+character=Famous Celebrity	name=Vivian Yoon Lee	episodes=1 episode, 2015 	
+character=Telegraph Employee	name=Alex Russo	episodes=1 episode, 2015 	
+character=French Ambassador	name=Jean Brassard	episodes=1 episode, 2015 	
+character=Party Goer	name=Rafael V. DeLeon	episodes=1 episode, 2015 	
+character=Town Hall Attendee	name=Alexander Pennecke	episodes=1 episode, 2015 	
+character=Protester	name=Alexis Barone	episodes=1 episode, 2015 	
+character=Debate Spectator	name=Jill Chestnut	episodes=1 episode, 2015 	
+character=Senator	name=Sheri Lahris	episodes=1 episode, 2015 	
+character=Party Goer	name=Luke Van Bergen	episodes=1 episode, 2015 	
+character=Russian Reporter	name=Nikiya Palombi	episodes=1 episode, 2015 	
+character=Marine	name=Bru Aju	episodes=1 episode, 2015 	
+character=Katyal	name=Randall Gort	episodes=1 episode, 2015 	
+character=Co-counsel	name=Randall Gort	episodes=1 episode, 2015 	
+character=Park Goer	name=Philip Greene	episodes=1 episode, 2015 	
+character=Customer	name=Brian Barela	episodes=1 episode, 2015 	
+character=Press	name=Ryan Phoenix	episodes=1 episode, 2015 	
+character=Protestor	name=Honour Drew	episodes=1 episode, 2015 	
+character=Businessman	name=Ryan Konig	episodes=1 episode, 2015 	
+character=Campaign Staffer	name=Alice Bozga	episodes=1 episode, 2015 	
+character=Mrs. Casey Giallo	name=Bobbie Peterson	episodes=1 episode, 2015 	
+character=Crown Rally	name=Christine Guerra	episodes=1 episode, 2015 	
+character=Secretary	name=Melissa-Lou Ellis	episodes=1 episode, 2015 	
+character=Shopper	name=Elizabeth M. Kallman	episodes=1 episode, 2015 	
+character=Waiter	name=Richard Zane	episodes=1 episode, 2015 	
+character=Student	name=Zionah Butler	episodes=1 episode, 2015 	
+character=FBI Agent	name=Vincent Cucuzza	episodes=1 episode, 2015 	
+character=Rally Crowd	name=Fatima Gloria Shahzad	episodes=1 episode, 2015 	
+character=FBI Agent	name=David J. Smolar	episodes=1 episode, 2015 	
+character=Press Cameraman	name=Zachary Leipert	episodes=1 episode, 2015 	
+character=AA Member	name=James Lyones	episodes=1 episode, 2015 	
+character=Protestor	name=Kit Banks	episodes=1 episode, 2015 	
+character=White House Staff	name=Shawn Gonzalez	episodes=1 episode, 2015 	
+character=Town Hall Attendee	name=Aaron T. Mott	episodes=1 episode, 2015 	
+character=Russian Reporter	name=Claudia Kastellanos	episodes=1 episode, 2015 	
+character=Reporter	name=Vashti Gray Sadjedy	episodes=1 episode, 2015 	
+character=Nurse	name=Cynthia Kossally	episodes=1 episode, 2015 	
+character=Senator	name=Philip Baty	episodes=1 episode, 2015 	
+character=WH Press corps	name=Justin Duckham	episodes=1 episode, 2015 	
+character=Navy Officer	name=Brian Michael Jones	episodes=1 episode, 2015 	
+character=State Police	name=Jay Viera	episodes=1 episode, 2015 	
+character=White House Staffer	name=Velta Moore	episodes=1 episode, 2015 	
+character=White House Intern	name=Lendon LeMelle	episodes=1 episode, 2015 	
+character=White House Press	name=Sarah Labov	episodes=1 episode, 2015 	
+character=Flag Folder	name=Christopher Morrow	episodes=1 episode, 2015 	
+character=Union Supporter	name=Jayla Norris	episodes=1 episode, 2015 	
+character=Marine Sergeant	name=Rafael Alfonzo	episodes=1 episode, 2015 	
+character=Rally Crowd	name=Annie K. Fox	episodes=1 episode, 2015 	
+character=Protester	name=Mikah Meyer	episodes=1 episode, 2015 	
+character=UN Diplomat	name=Ron Christie	episodes=1 episode, 2015 	
+character=Russian General	name=Chad Hartline	episodes=1 episode, 2015 	
+character=Classy Man	name=Eric Bass	episodes=1 episode, 2015 	
+character=Videographer	name=Steven Carino	episodes=1 episode, 2015 	
+character=Videographer	name=Omeed Nabavi	episodes=1 episode, 2015 	
+character=Campaign Assistant	name=Chase Crawford	episodes=1 episode, 2016 	
+character=Traveler	name=Kimia	episodes=1 episode, 2016 	
+character=Traveler	name=Workman	episodes=1 episode, 2016 	
+character=Bright Star Pilot	name=Rusty Martin Sr.	episodes=1 episode, 2016 	
+character=Analyst	name=Chris Konke	episodes=1 episode, 2016 	
+character=Military Police	name=Julian Brittano	episodes=1 episode, 2016 	
+character=Anchor	name=Cathleen Trigg	episodes=1 episode, 2016 	
+character=Parishoner	name=Brad Eaton	episodes=1 episode, 2016 	
+character=Student Protester	name=Jibril Goodman	episodes=1 episode, 2016 	
+character=Mother	name=Loren Fenton	episodes=1 episode, 2016 	
+character=Press Photographer	name=Megan McLain	episodes=1 episode, 2016 	
+character=Supporter	name=Jessica J. Immanuel	episodes=1 episode, 2016 	
+character=Herald Reporter	name=Gonzalo Vargas	episodes=1 episode, 2016 	
+character=Background Player	name=Christopher Reed	episodes=1 episode, 2016 	
+character=Church Member	name=Valencia Gamble	episodes=1 episode, 2016 	
+character=Aid	name=Scott Mielock	episodes=1 episode, 2016 	
+character=General	name=Scott Mielock	episodes=1 episode, 2016 	
+character=SS Agent 	name=Nick Madrick	episodes=1 episode, 2016 	
+character=College Student	name=Valerie Boyd	episodes=1 episode, 2016 	
+character=Videographer	name=Sarah Middlemiss	episodes=1 episode, 2016 	
+character=Veteran Biker	name=Kearon Lehman	episodes=1 episode, 2016 	
+character=Kentucky Delegate	name=Jennifer Joy Funkhouser	episodes=1 episode, 2016 	
+character=Convention Staff	name=Jon Hartley	episodes=1 episode, 2016 	
+character=Analyst	name=Matthew Bowen	episodes=1 episode, 2016 	
+character=Press Cameraman	name=Charles Poole	episodes=1 episode, 2016 	
+character=Trauma Doctor	name=Frances A. Cheever	episodes=1 episode, 2016 	
+character=Press Photographer	name=Michelle Poole	episodes=1 episode, 2016 	
+character=Delegate	name=Sky Coda	episodes=1 episode, 2016 	
+character=Drunk in Bar	name=Brad Hamerly	episodes=1 episode, 2016 	
+character=Press Cameraman	name=Ryan Poole	episodes=1 episode, 2016 	
+character=Student Protester	name=Ronen Lewis	episodes=1 episode, 2016 	
+character=Tv Producer	name=Darian Drescher	episodes=1 episode, 2016 	
+character=Francis Supporter	name=Hillary Schenning	episodes=1 episode, 2016 	
+character=White House Press	name=Kristina Aponte	episodes=1 episode, 2016 	
+character=Photographer	name=Andrew Zappone	episodes=1 episode, 2016 	
+character=Protestor	name=Anna Maria	episodes=1 episode, 2016 	
+character=Delegate	name=Aldoris Bate	episodes=1 episode, 2016 	
+character=Factory Worker	name=Gabriel Scruggs	episodes=1 episode, 2016 	
+character=Campaign Volunteer	name=Jodi Stapler	episodes=1 episode, 2016 	
+character=Crowdmember	name=Reese Langlois	episodes=1 episode, 2016 	
+character=Congressman 	name=Elliott Grey	episodes=1 episode, 2017 	
+character=High Priest	name=Greg Harvey	episodes=1 episode, 2017 	
+character=Colonel USAF	name=Peter Georgo	episodes=1 episode, 2017 	
+character=Photographer	name=Steven Shulgach	episodes=1 episode, 2017 	
+character=Mourner	name=Brandon Crosby	episodes=1 episode, 2017 	
+character=Brigadier General	name=Seth Kozak	episodes=1 episode, 2017 	
+character=Mourner	name=Morgan Flanagan	episodes=1 episode, 2017 	
+character=Governor	name=F. Robert McMurray	episodes=1 episode, 2017 	
+character=Pundit 	name=Matt W. Cody	episodes=1 episode, 2017 	
+character=Chapter 57	name=Gwenyth Clark	episodes=1 episode, 2017 	
+character=Press Photographer	name=Marco Rosario	episodes=1 episode, 2017 	
+character=Dead Redhead	name=Elaina Adrianna	episodes=1 episode, 2017 	
+character=Drug Dealer	name=Ryan A. Phillips	episodes=1 episode, 2017 	
+character=Conway Supporter	name=Marque Dixon	episodes=1 episode, 2017 	
+character=Glad Hander	name=Jesse Milliner	episodes=1 episode, 2017 	
+character=Governor of Nevada	name=Jose L. Penaranda	episodes=1 episode, 2017 	
+character=Herald Reporter	name=Derek Larthey	episodes=1 episode, 2017 	
+character=Mourner	name=Kim Cheek	episodes=1 episode, 2017 	
+character=US Attorney	name=Jeff Andrus	episodes=1 episode, 2017 	
+character=Pundit 	name=Michael Rubino	episodes=1 episode, 2017 	
+character=Event Planner	name=Cara Jaye	episodes=1 episode, 2017 	
+character=White House Aide	name=Melanie Jewel Howard	episodes=1 episode, 2017 	
+character=Ballroom Attendee	name=Fabian Starr	episodes=1 episode, 2017 	
+character=Political Pundit	name=Tom Giannini	episodes=1 episode, 2017 	
+character=Patron	name=Randy Thomas Lindsay	episodes=1 episode, 2017 	
+character=Billionaire Camper	name=Alex Sanon	episodes=1 episode, 2017 	
+character=Bar Patron	name=Jay Soni	episodes=1 episode, 2017 	
+character=Reporter	name=Cody Cooley	episodes=1 episode, 2017 	
+character=Mourner	name=Zaq Harrison	episodes=1 episode, 2017 	
+character=Protester	name=Richard Allen Cramer	episodes=1 episode, 2017 	
+character=Gettysburg Crowd	name=Neil Baltus	episodes=1 episode, 2017 	
+character=Mourner	name=Thomas C. Hessenauer	episodes=1 episode, 2017 	
+character=Glad Hander	name=Jason Aaron Foster	episodes=1 episode, 2017 	
+character=Television Press	name=Rick Samuel	episodes=1 episode, 2017 	
+character=White House Server	name=Patrick Brown	episodes=1 episode, 2017 	
+character=Mourner	name=Amna Geko	episodes=1 episode, 2017 	
+character=Pollyhop Staff	name=David Denyer	episodes=1 episode, 2017 	
+character=Reporter	name=Alexis Skinner	episodes=1 episode, 2017 	
+character=Rich Party Goer	name=Will Debley	episodes=1 episode, 2018 	
+character=Military recruit	name=Sharrie McCain	episodes=1 episode, 2018 	
+character=US Senator	name=Rick Voight	episodes=1 episode, 2018 	
+character=Server	name=Roger Tyler	episodes=1 episode, 2018 	
+character=Victim	name=Jen Ayer Drake	episodes=1 episode, 2018 	
+character=Jackson Green	name=Regan Ferrier	episodes=1 episode, 2018 	
+character=Press Photographer	name=Adrian Nanney	episodes=1 episode, 2018 	
+character=Ballet Patron	name=Mike D Harris	episodes=1 episode, 2018 	
+character=Photographer	name=Alex Brewer	episodes=1 episode, 2018 	
+character=Displaced Victim	name=Eric Lamont	episodes=1 episode, 2018 	
+character=Fundraiser Attendee	name=Edward Stachyra	episodes=1 episode, 2018 	
+character=Victim	name=Tom Haser	episodes=1 episode, 2018 	
+character=Herald Staffer	name=Greg Black	episodes=1 episode, 2018 	
+character=White House Press	name=Darin Moore	episodes=1 episode, 2018 	
+character=Military Recruit	name=Ally Ibach	episodes=1 episode, 2018 	
+character=Press Videographer	name=Chance Gibson	episodes=1 episode, 2018 	
+character=Aim High Girl	name=Molly Ross	episodes=1 episode, 2018 	
+character=Diplomat	name=Riaz Dhanani	episodes=1 episode, 2018 	

@@ -1,0 +1,54 @@
+# http://fitlayout.github.io/resource/art42 -> https://www.imdb.com/title/tt7243884/fullcredits/
+character=Catherine the Great	name=Helen Mirren	episodes=4 episodes, 2019 	
+character=Grigory Potemkin	name=Jason Clarke	episodes=4 episodes, 2019 	
+character=Countess Praskovya Bruce	name=Gina McKee	episodes=4 episodes, 2019 	
+character=Alexi Orlov	name=Kevin McNally	episodes=4 episodes, 2019 	
+character=Prince Paul	name=Joseph Quinn	episodes=4 episodes, 2019 	
+character=Court Fool	name=Clive Russell	episodes=4 episodes, 2019 	
+character=Grigory Orlov	name=Richard Roxburgh	episodes=3 episodes, 2019 	
+character=Sarah	name=Valery Altamar	episodes=4 episodes, 2019 	
+character=Lady in Waiting	name=Aiste S. Gram	episodes=1 episode, 2019 	
+character=Minister Panin	name=Rory Kinnear	episodes=3 episodes, 2019 	
+character=Peter Zavadovsky	name=Thomas Doherty	episodes=3 episodes, 2019 	
+character=Princess Natalia	name=Georgina Beedle	episodes=3 episodes, 2019 	
+character=Lady in Waiting	name=Camilla Borghesani	episodes=1 episode, 2019 	
+character=Alexander Bezborodko	name=James Northcote	episodes=2 episodes, 2019 	
+character=Rumyantsev	name=John Hodgkinson	episodes=2 episodes, 2019 	
+character=Valerian Zubov	name=Adam El Hagar	episodes=2 episodes, 2019 	
+character=Count Andrei Razumovsky	name=Phil Dunster	episodes=2 episodes, 2019 	
+character=Maria	name=Antonia Clarke	episodes=2 episodes, 2019 	
+character=Emelyan Pugachev	name=Paul Kaye	episodes=1 episode, 2019 	
+character=Landgrave of Hesse Darmstadt	name=Dominic Borrelli	episodes=2 episodes, 2019 	
+character=Archbishop Arsenius	name=Iain Mitchell	episodes=2 episodes, 2019 	
+character=Wife	name=Ilona Bagele	episodes=2 episodes, 2019 	
+character=Landgrave	name=Ilona Bagele	episodes=2 episodes, 2019 	
+character=Platon Zubov	name=Raphael Acloque	episodes=1 episode, 2019 	
+character=Suvorov	name=Paul Ritter	episodes=1 episode, 2019 	
+character=Alexander Vasilchikov	name=Sam Palladio	episodes=1 episode, 2019 	
+character=Adjutant	name=Valerijus Jevsejevas	episodes=1 episode, 2019 	
+character=Court Official	name=Ivars Brakovskis	episodes=1 episode, 2019 	
+character=Alexander	name=Felix Jamieson	episodes=1 episode, 2019 	
+character=German Ambassador	name=Albert Welling	episodes=1 episode, 2019 	
+character=English Ambassador	name=Paul Hickey	episodes=1 episode, 2019 	
+character=Doctor	name=Tom Lawrence	episodes=1 episode, 2019 	
+character=Crimean Tatar Leader	name=Aziz Çapkurt	episodes=1 episode, 2019 	
+character=Priest	name=Edmund Kente	episodes=1 episode, 2019 	
+character=Cossack	name=Almantas Sinkünas	episodes=1 episode, 2019 	
+character=Governor	name=Audronis Rukas	episodes=1 episode, 2019 	
+character=Hunter	name=Jonas Bagdziunas	episodes=1 episode, 2019 	
+character=Wife	name=Marta Ormaniec	episodes=1 episode, 2019 	
+character=Governor	name=Marta Ormaniec	episodes=1 episode, 2019 	
+character=Alexander Mamonov	name=Andrew Rothney	episodes=1 episode, 2019 	
+character=Elena	name=Aina Norgilaite	episodes=1 episode, 2019 	
+character=Charles Joseph De Ligne	name=Andrew Bone	episodes=1 episode, 2019 	
+character=Lieutenant Mirovich	name=Lucas Englander	episodes=1 episode, 2019 	
+character=Danila Vlasev	name=Simon Thorp	episodes=1 episode, 2019 	
+character=Ivan VI	name=Ellis Howard	episodes=1 episode, 2019 	
+character=Petitioner	name=Juris Strenga	episodes=1 episode, 2019 	
+character=Extra	name=Agatas Savickis	episodes=1 episode, 2019 	
+character=Lady in Waiting	name=Marina Manych	episodes=1 episode, 2019 	
+character=Soldier	name=Mykolas Dorofejus	episodes=1 episode, 2019 	
+character=Petitioner	name=Ieva Puke	episodes=1 episode, 2019 	
+character=Soldier	name=Kirill Frolov	episodes=1 episode, 2019 	
+character=Peasant	name=Danguole Ragazinskaite	episodes=1 episode, 2019 	
+character=Courtier	name=Lora Thomsen	episodes=1 episode, 2019 	

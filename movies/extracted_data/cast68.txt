@@ -1,0 +1,547 @@
+# http://fitlayout.github.io/resource/art68 -> https://www.imdb.com/title/tt2661044/fullcredits/
+character=Clarke Griffin	name=Eliza Taylor	episodes=100 episodes, 2014-2020 	
+character=Octavia Blake	name=Marie Avgeropoulos	episodes=100 episodes, 2014-2020 	
+character=Bellamy Blake	name=Bob Morley	episodes=97 episodes, 2014-2020 	
+character=Raven Reyes	name=Lindsey Morgan	episodes=98 episodes, 2014-2020 	
+character=John Murphy	name=Richard Harmon	episodes=90 episodes, 2014-2020 	
+character=Dr. Abigail Griffin	name=Paige Turco	episodes=85 episodes, 2014-2020 	
+character=Marcus Kane	name=Henry Ian Cusick	episodes=80 episodes, 2014-2019 	
+character=Monty Green	name=Christopher Larkin	episodes=72 episodes, 2014-2019 	
+character=Nathan Miller	name=Jarod Joseph	episodes=66 episodes, 2014-2020 	
+character=Thelonious Jaha	name=Isaiah Washington	episodes=60 episodes, 2014-2018 	
+character=Dr. Eric Jackson	name=Sachin Sahel	episodes=59 episodes, 2014-2020 	
+character=Jasper Jordan	name=Devon Bostick	episodes=56 episodes, 2014-2017 	
+character=Echo	name=Tasya Teles	episodes=54 episodes, 2015-2020 	
+character=Indra	name=Adina Porter	episodes=54 episodes, 2014-2020 	
+character=Emori	name=Luisa d	episodes=44 episodes, 2015-2020 	
+character=Emori	name=Oliveira	episodes=44 episodes, 2015-2020 	
+character=Harper McIntyre	name=Chelsey Reist	episodes=40 episodes, 2014-2018 	
+character=Lincoln	name=Ricky Whittle	episodes=34 episodes, 2014-2019 	
+character=Niylah	name=Jessica Harmon	episodes=32 episodes, 2016-2020 	
+character=Madi Griffin	name=Lola Flanery	episodes=31 episodes, 2018-2020 	
+character=Jordan Green	name=Shannon Kook	episodes=30 episodes, 2018-2020 	
+character=Gaia	name=Tati Gabrielle	episodes=29 episodes, 2017-2020 	
+character=Sheidheda	name=JR Bourne	episodes=26 episodes, 2019-2020 	
+character=Dr. Gabriel Santiago	name=Chuku Modu	episodes=25 episodes, 2019-2020 	
+character=Charmaine Diyoza	name=Ivana Milicevic	episodes=23 episodes, 2018-2020 	
+character=Finn Collins	name=Thomas McDonell	episodes=22 episodes, 2014-2019 	
+character=Costa	name=Jojo Ahenkorah	episodes=10 episodes, 2014-2017 	
+character=A.L.I.E.	name=Erica Cerra	episodes=21 episodes, 2015-2020 	
+character=Jacapo Sinclair	name=Alessandro Juliani	episodes=19 episodes, 2014-2017 	
+character=Hope Diyoza	name=Shelby Flannery	episodes=17 episodes, 2019-2020 	
+character=King Roan	name=Zach McGowan	episodes=17 episodes, 2016-2020 	
+character=Lexa	name=Alycia Debnam-Carey	episodes=17 episodes, 2014-2020 	
+character=Zoe Monroe	name=Katie Stuart	episodes=15 episodes, 2014-2016 	
+character=Charles Pike	name=Michael Beach	episodes=13 episodes, 2016-2019 	
+character=Maya Vie	name=Eve Harlow	episodes=13 episodes, 2014-2019 	
+character=David Miller	name=Chris Shields	episodes=11 episodes, 2014-2017 	
+character=Fox	name=Genevieve Buechner	episodes=11 episodes, 2014-2016 	
+character=Paxton 	name=William Miller	episodes=11 episodes, 2018 	
+character=Graveyard	name=William Miller	episodes=11 episodes, 2018 	
+character=McCreary	name=William Miller	episodes=11 episodes, 2018 	
+character=Miles Ezekiel Shaw	name=Jordan Bolger	episodes=11 episodes, 2018-2019 	
+character=Bill Cadogan	name=John Pyper-Ferguson	episodes=10 episodes, 2017-2020 	
+character=Cage Wallace	name=Johnny Whitworth	episodes=10 episodes, 2014-2015 	
+character=Jade Royal Guard	name=Bethany Brown	episodes=10 episodes, 2019 	
+character=Nelson	name=Lee Majdoub	episodes=10 episodes, 2019-2020 	
+character=Bryan	name=Jonathan Whitesell	episodes=10 episodes, 2016-2017 	
+character=Lt. Carl Emerson	name=Toby Levins	episodes=10 episodes, 2015-2016 	
+character=Nyko	name=Ty Olsson	episodes=10 episodes, 2014-2017 	
+character=Blythe Ann	name=Karen Holness	episodes=10 episodes, 2019-2020 	
+character=Jae	name=Dean Marshall	episodes=10 episodes, 2019-2020 	
+character=President Dante Wallace	name=Raymond J. Barry	episodes=9 episodes, 2014-2015 	
+character=Dr. Lorelei Tsing	name=Rekha Sharma	episodes=9 episodes, 2014-2015 	
+character=Hannah Green	name=Donna Yamamoto	episodes=9 episodes, 2016 	
+character=Penn	name=Luc Roderique	episodes=9 episodes, 2014-2020 	
+character=Major Byrne	name=Kendall Cross	episodes=8 episodes, 2014-2015 	
+character=Levitt	name=Jason Diaz	episodes=8 episodes, 2020 	
+character=Nikki	name=Alaina Huffman	episodes=8 episodes, 2020 	
+character=Trey	name=Tom Stevens	episodes=8 episodes, 2019-2020 	
+character=Jeremiah	name=Adam Lolacher	episodes=8 episodes, 2020 	
+character=Anya	name=Dichen Lachman	episodes=7 episodes, 2014 	
+character=Ilian	name=Chai Hansen	episodes=7 episodes, 2017 	
+character=Dr. Simone Lightbourne VI	name=Tattiawna Jones	episodes=7 episodes, 2019 	
+character=Luna	name=Nadia Hilker	episodes=7 episodes, 2016-2017 	
+character=Kara Cooper	name=Kyra Zagorsky	episodes=7 episodes, 2018 	
+character=Sterling	name=Keenan Tracey	episodes=7 episodes, 2014 	
+character=Ontari	name=Rhiannon Fish	episodes=7 episodes, 2016 	
+character=Sangeda Delegate 	name=Barbara Beall	episodes=7 episodes, 2018 	
+character=Brell	name=Barbara Beall	episodes=7 episodes, 2018 	
+character=Cassius	name=Sean Kuling	episodes=7 episodes, 2019 	
+character=Knight	name=Xavier de Guzman	episodes=7 episodes, 2020 	
+character=Rex	name=Sean Quan	episodes=7 episodes, 2020 	
+character=Titus	name=Neil Sandilands	episodes=6 episodes, 2016 	
+character=Josephine Lightbourne	name=Sara Thompson	episodes=6 episodes, 2019-2020 	
+character=John 	name=Aaron Miko	episodes=6 episodes, 2014-2016 	
+character=Priya Desai VII	name=Ashleigh LaThrop	episodes=6 episodes, 2019 	
+character=Ryker Desai IX	name=Thomas Cocquerel	episodes=6 episodes, 2019 	
+character=Riley	name=Ben Sullivan	episodes=6 episodes, 2017 	
+character=Sheidheda	name=Dakota Daulby	episodes=6 episodes, 2019-2020 	
+character=Sierra Royal Guard	name=Kat Ruston	episodes=6 episodes, 2019 	
+character=Lindo	name=Max Montesi	episodes=6 episodes, 2018-2020 	
+character=Wells Jaha	name=Eli Goree	episodes=4 episodes, 2014-2017 	
+character=Rockline Warrior	name=Paul Lazenby	episodes=4 episodes, 2014-2018 	
+character=Ambassador 	name=William Coyne	episodes=1 episode, 2016 	
+character=Kyle Wick	name=Steve Talley	episodes=5 episodes, 2014-2015 	
+character=Michael Vinson	name=Mike Dopud	episodes=5 episodes, 2018 	
+character=Kaylee Lee	name=Sarah-Jane Redmond	episodes=5 episodes, 2019 	
+character=Anders	name=Neal McDonough	episodes=5 episodes, 2020 	
+character=Gillmer	name=Shaine Jones	episodes=5 episodes, 2016 	
+character=Layla	name=Megan Danso	episodes=5 episodes, 2016-2019 	
+character=James	name=Camden Filtness	episodes=5 episodes, 2019-2020 	
+character=Luca	name=Dylan Kingwell	episodes=5 episodes, 2020 	
+character=Believer Boy	name=Max Archibald	episodes=5 episodes, 2020 	
+character=Connor	name=Josh Ssettuba	episodes=3 episodes, 2014 	
+character=Commander Shumway	name=Terry Chen	episodes=4 episodes, 2014 	
+character=Conductor	name=Jonathan Scarfe	episodes=4 episodes, 2020 	
+character=Gustus	name=Aleks Paunovic	episodes=4 episodes, 2014-2015 	
+character=Cosser	name=Albert Nicholas	episodes=4 episodes, 2018 	
+character=Ice Nation Warrior	name=Jarett John	episodes=4 episodes, 2017 	
+character=Jones	name=Shane Symons	episodes=4 episodes, 2014-2016 	
+character=Council Member 	name=Sharon Taylor	episodes=4 episodes, 2014 	
+character=Senior Council Member	name=Bill Marchant	episodes=4 episodes, 2014 	
+character=Ethan 	name=St. John Myers	episodes=4 episodes, 2018 	
+character=Yrs	name=St. John Myers	episodes=4 episodes, 2018 	
+character=Council Member 	name=Hiro Kanagawa	episodes=4 episodes, 2014 	
+character=Harris	name=Brad Kelly	episodes=4 episodes, 2014-2018 	
+character=Aden	name=Cory Gruter-Andrew	episodes=4 episodes, 2016 	
+character=Bree	name=Alyson Bath	episodes=4 episodes, 2014-2017 	
+character=Miranda	name=Lucia Walters	episodes=4 episodes, 2019 	
+character=Grounder Guard	name=Glenn Ennis	episodes=4 episodes, 2015-2019 	
+character=Lee	name=Nick Hunnings	episodes=4 episodes, 2014-2015 	
+character=Fio	name=James Michalopolous	episodes=4 episodes, 2015-2017 	
+character=Otis	name=Josh Collins	episodes=4 episodes, 2020 	
+character=Zev	name=Miles Chalmers	episodes=4 episodes, 2019-2020 	
+character=Jake Griffin	name=Chris Browning	episodes=3 episodes, 2014-2019 	
+character=Ambassador 	name=Christian Sloan	episodes=3 episodes, 2016 	
+character=Singing Grounder	name=Julia Dominczak	episodes=3 episodes, 2016-2018 	
+character=Craig	name=Jedidiah Goodacre	episodes=2 episodes, 2015 	
+character=Whitman	name=Rob Hayter	episodes=2 episodes, 2014-2015 	
+character=Diana Sydney	name=Kate Vernon	episodes=3 episodes, 2014 	
+character=Vera Kane	name=Christine Willes	episodes=3 episodes, 2014 	
+character=Tristan	name=Joseph Gatt	episodes=3 episodes, 2014 	
+character=Queen Nia	name=Brenda Strong	episodes=3 episodes, 2016-2019 	
+character=Russell Lightbourne	name=Sean Maguire	episodes=3 episodes, 2019-2020 	
+character=Hatch	name=Chad Rook	episodes=3 episodes, 2020 	
+character=Vincent Vie	name=Ian Tracey	episodes=3 episodes, 2015 	
+character=Hardy	name=Cole Vigue	episodes=3 episodes, 2017 	
+character=Roma	name=Celia Reid	episodes=3 episodes, 2014-2016 	
+character=Tarik	name=David Lennon	episodes=3 episodes, 2018 	
+character=Chase	name=Jared Kurtenbach	episodes=3 episodes, 2016 	
+character=Hayes	name=Alex Pangburn	episodes=3 episodes, 2017 	
+character=Keenan	name=Em Haine	episodes=3 episodes, 2014 	
+character=Denae 	name=Georgia Hacche	episodes=3 episodes, 2016 	
+character=Sick Grounder	name=Georgia Hacche	episodes=3 episodes, 2016 	
+character=Kane	name=Seth Whittaker	episodes=3 episodes, 2014-2018 	
+character=Opponent	name=Seth Whittaker	episodes=3 episodes, 2014-2018 	
+character=Rose	name=Amélie Eve	episodes=3 episodes, 2019 	
+character=Bryson	name=Ian Butcher	episodes=3 episodes, 2019 	
+character=Chris	name=James Neate	episodes=3 episodes, 2015-2016 	
+character=Alyssa	name=Britt Irvin	episodes=3 episodes, 2020 	
+character=Dante	name=Garfield Wilson	episodes=3 episodes, 2014-2015 	
+character=Guard	name=Garfield Wilson	episodes=3 episodes, 2014-2015 	
+character=Chivalrous Boy 	name=Darren Mann	episodes=3 episodes, 2014-2015 	
+character=Kwame	name=Alex Barima	episodes=3 episodes, 2020 	
+character=Mom	name=Leah Hennessey	episodes=3 episodes, 2020 	
+character=Luca	name=Leah Hennessey	episodes=3 episodes, 2020 	
+character=Dax	name=Victor Zinck Jr.	episodes=2 episodes, 2014-2016 	
+character=Chief Guard	name=Primo Allon	episodes=2 episodes, 2014 	
+character=Otan	name=Mik Byskov	episodes=2 episodes, 2015-2016 	
+character=Drew	name=Levi Meaden	episodes=2 episodes, 2014 	
+character=Female Wonkru	name=Cassandra Ebner	episodes=2 episodes, 2018-2020 	
+character=Delano	name=Brendon Zub	episodes=1 episode, 2014 	
+character=Atom	name=Rhys Ward	episodes=2 episodes, 2014 	
+character=Aurora Blake	name=Monique Ganderton	episodes=2 episodes, 2014-2020 	
+character=Charlotte	name=Izabela Vidovic	episodes=2 episodes, 2014 	
+character=Orlando	name=Darren Moore	episodes=2 episodes, 2020 	
+character=Young Hope 	name=Nevis Unipan	episodes=2 episodes, 2020 	
+character=Yrs	name=Nevis Unipan	episodes=2 episodes, 2020 	
+character=Callie	name=Iola Evans	episodes=2 episodes, 2020 	
+character=Boy 	name=Manny Jacinto	episodes=2 episodes, 2014 	
+character=Healthy Kid	name=Jake Croker	episodes=2 episodes, 2014 	
+character=Gina Martin	name=Leah Gibson	episodes=2 episodes, 2016 	
+character=Baylis	name=Bradley Stryker	episodes=2 episodes, 2017 	
+character=Karina	name=Jenna Berman	episodes=2 episodes, 2018 	
+character=Young Hope 	name=Amber Taylor	episodes=2 episodes, 2020 	
+character=Yrs	name=Amber Taylor	episodes=2 episodes, 2020 	
+character=Myles	name=Brendan Meyer	episodes=2 episodes, 2014 	
+character=Guard	name=Reese Alexander	episodes=2 episodes, 2014-2019 	
+character=Ethan	name=Beckham Skodje	episodes=2 episodes, 2017-2018 	
+character=Josephine Lightbourne VII	name=Gwynyth Walsh	episodes=2 episodes, 2019 	
+character=Joanna	name=Stefania Indelicato	episodes=2 episodes, 2016-2020 	
+character=Semet	name=Zak Santiago	episodes=2 episodes, 2016 	
+character=Dr. Gabriel Santiago	name=Ian Pala	episodes=2 episodes, 2019 	
+character=Mel	name=Tanaya Beatty	episodes=2 episodes, 2014 	
+character=Marcus Kane II	name=Greyston Holt	episodes=2 episodes, 2019 	
+character=Cillian	name=Carlo Marks	episodes=2 episodes, 2019 	
+character=Shoana	name=Sunita Prasad	episodes=2 episodes, 2020 	
+character=Captain Meredith	name=Josh Blacker	episodes=2 episodes, 2020 	
+character=Denby	name=Michael J Rogers	episodes=2 episodes, 2014-2015 	
+character=Red	name=Ben Cotton	episodes=2 episodes, 2014 	
+character=Rankin	name=Elfina Luk	episodes=2 episodes, 2018 	
+character=Conductor Corbett	name=Malcolm Masters	episodes=2 episodes, 2020 	
+character=Royal Guard	name=Darien Martin	episodes=2 episodes, 2018 	
+character=Robert	name=Jeremy Jones	episodes=2 episodes, 2018 	
+character=Ridley	name=Teach Grant	episodes=2 episodes, 2014 	
+character=Second Polis Sentry	name=Eric Mazimpaka	episodes=2 episodes, 2016 	
+character=Azgeda Warrior	name=Christopher Judge	episodes=2 episodes, 2017-2018 	
+character=Adria	name=Zoe Wiesenthal	episodes=2 episodes, 2016-2017 	
+character=Taggart	name=Joey Coleman	episodes=2 episodes, 2017 	
+character=Chivalrous Boy 	name=Dejan Loyola	episodes=2 episodes, 2014 	
+character=Ark Guard 	name=Matthew Mandzij	episodes=2 episodes, 2016 	
+character=Captain Sea Grounder	name=Tristan Jensen	episodes=2 episodes, 2016 	
+character=Tai	name=Casey Manderson	episodes=2 episodes, 2019 	
+character=Intimidating Guard	name=Artine Tony Browne	episodes=2 episodes, 2014 	
+character=Gideon	name=John DeSantis	episodes=2 episodes, 2016 	
+character=Rebel Guard	name=Patrick Sabongui	episodes=2 episodes, 2014-2015 	
+character=Dying Woman	name=Nisreen Slim	episodes=2 episodes, 2014-2015 	
+character=Artigas	name=Cameron Roberts	episodes=2 episodes, 2014 	
+character=Atohl	name=Aatash Amir	episodes=2 episodes, 2015 	
+character=Young Echo	name=Milli Wilkinson	episodes=2 episodes, 2019-2020 	
+character=Miss Lucy	name=Jane Craven	episodes=2 episodes, 2014 	
+character=Grounder Guard 	name=Dagan Nish	episodes=2 episodes, 2015-2019 	
+character=Stone Conductor	name=Tina Grant	episodes=2 episodes, 2020 	
+character=Kirsch	name=Kyle Warren	episodes=2 episodes, 2020 	
+character=Tosh	name=Kaylah Zander	episodes=2 episodes, 2019 	
+character=Arabel	name=Carly Buhler	episodes=2 episodes, 2019 	
+character=Angry Parent 	name=Shaw Madson	episodes=2 episodes, 2014-2020 	
+character=Grounder Warrior	name=Colin Lawrence	episodes=2 episodes, 2014 	
+character=Hayden	name=Stephanie Izsak	episodes=2 episodes, 2020 	
+character=Richards	name=James Pizzinato	episodes=2 episodes, 2015 	
+character=Brooke	name=Skylar Radzion	episodes=2 episodes, 2019 	
+character=Podakru Warrior	name=Natasha Denis	episodes=2 episodes, 2017 	
+character=Dave	name=Rohan Campbell	episodes=2 episodes, 2019 	
+character=Cameron	name=Yee Jee Tso	episodes=2 episodes, 2020 	
+character=Anamay	name=AJ Simmons	episodes=2 episodes, 2018-2020 	
+character=Father	name=Chris Bradford	episodes=2 episodes, 2020 	
+character=Luca	name=Chris Bradford	episodes=2 episodes, 2020 	
+character=Geo Terrorist	name=Fraser Corbett	episodes=2 episodes, 2014-2019 	
+character=Terrorist Abductor	name=Hamza Fouad	episodes=2 episodes, 2019 	
+character=Paula	name=Deni DeLory	episodes=2 episodes, 2020 	
+character=Bounty Hunter	name=Mark Gibbon	episodes=2 episodes, 2016 	
+character=Sanctum Prime Guard 1	name=Thomas Nicholson	episodes=2 episodes, 2015-2019 	
+character=Wonkru Guard	name=Stephen Adekolu	episodes=2 episodes, 2020 	
+character=Male Cipher Tech	name=Alan Mak	episodes=2 episodes, 2020 	
+character=Command Disciple	name=Xander Hall	episodes=2 episodes, 2020 	
+character=Hugo	name=Hugo Raymundo	episodes=1 episode, 2018 	
+character=Wilson	name=Will E. McDonald	episodes=1 episode, 2017 	
+character=Observant Guard	name=Lisa Chandler	episodes=1 episode, 2019 	
+character=Disciple	name=Janene Carleton	episodes=1 episode, 2014-2020 	
+character=Mount Weather Soldier 	name=Emy Aneke	episodes=1 episode, 2015 	
+character=Cartwig	name=Kelly Hu	episodes=1 episode, 2014 	
+character=Cece	name=Kelly Hu	episodes=1 episode, 2014 	
+character=Callie 	name=Kelly Hu	episodes=1 episode, 2014 	
+character=Reese Lemkin	name=Lilah Fitzgerald	episodes=1 episode, 2014 	
+character=Young Octavia	name=Olivia Steele Falconer	episodes=1 episode, 2014-2018 	
+character=Tor Lemkin	name=Mac Brandt	episodes=1 episode, 2014 	
+character=Nygel	name=Saidah Arrika Ekulona	episodes=1 episode, 2014 	
+character=Caliban	name=Steve Bacic	episodes=1 episode, 2014 	
+character=Derek	name=Wesley MacInnes	episodes=1 episode, 2014 	
+character=Baby Hope	name=Elizabeth Truman	episodes=1 episode, 2020 	
+character=Young Bellamy	name=Spencer Drever	episodes=1 episode, 2014 	
+character=Trina	name=Chloe Babcook	episodes=1 episode, 2014 	
+character=Del	name=Matteo Stefan	episodes=1 episode, 2014 	
+character=Trapped Prisoner	name=Joshua Murdoch	episodes=1 episode, 2018 	
+character=Reese	name=Adain Bradley	episodes=1 episode, 2020 	
+character=Boy in Mask	name=Andrew Francis	episodes=1 episode, 2014 	
+character=Council Member 	name=Freda Perry	episodes=1 episode, 2014 	
+character=Pascal	name=Zach Martin	episodes=1 episode, 2014 	
+character=Esop	name=Michael Jonsson	episodes=1 episode, 2017 	
+character=Rock Line Ambassador	name=Diana Pavlovská	episodes=1 episode, 2017 	
+character=Louis	name=Jesse James Pierce	episodes=1 episode, 2017 	
+character=Captain Stevens	name=Bob Frazer	episodes=1 episode, 2018 	
+character=August	name=Leo Howard	episodes=1 episode, 2020 	
+character=Disciple	name=Klarc Jerome Wilson	episodes=1 episode, 2020 	
+character=Dev	name=Kamran Fulleylove	episodes=1 episode, 2020 	
+character=Kid 	name=Valerie Tian	episodes=1 episode, 2014 	
+character=Red Eyed Boy	name=Osric Chau	episodes=1 episode, 2014 	
+character=Grounder Tris	name=Alison Thornton	episodes=1 episode, 2014 	
+character=Sienna	name=Luvia Petersen	episodes=1 episode, 2014 	
+character=Apprentice	name=Birkett Turton	episodes=1 episode, 2014 	
+character=Deek	name=Jonathan Alexander	episodes=1 episode, 2014 	
+character=Arker	name=Sarwan Badesha	episodes=1 episode, 2014 	
+character=Quint	name=Graham Shiels	episodes=1 episode, 2015 	
+character=Shay	name=Nesta Cooper	episodes=1 episode, 2016 	
+character=Commander Cole McAdams	name=Roger Cross	episodes=1 episode, 2016 	
+character=Anat	name=Loyd Bateman	episodes=1 episode, 2017 	
+character=Ilian	name=Jana Mitsoula	episodes=1 episode, 2017 	
+character=Willa 	name=Jana Mitsoula	episodes=1 episode, 2017 	
+character=Mother	name=Jana Mitsoula	episodes=1 episode, 2017 	
+character=Mark	name=Peter Flemming	episodes=1 episode, 2017 	
+character=Blue Cliff Warrior	name=Erin Aubrey	episodes=1 episode, 2017 	
+character=Wayne Szybunka	name=Sean Owen Roberts	episodes=1 episode, 2018 	
+character=Falk	name=Colin Decker	episodes=1 episode, 2018 	
+character=Dr. Simone Lightbourne	name=Chelah Horsdal	episodes=1 episode, 2019 	
+character=Tristan	name=Craig Arnold	episodes=1 episode, 2020 	
+character=Disciple A	name=Matt Reimer	episodes=1 episode, 2020 	
+character=Diggs	name=Giacomo Baessato	episodes=1 episode, 2014 	
+character=Angry Parent 	name=Tatiana Turner	episodes=1 episode, 2014 	
+character=Griff	name=Bart Anderson	episodes=1 episode, 2014 	
+character=Young Clarke	name=Ella Pitkin	episodes=1 episode, 2014 	
+character=Sergeant Lovejoy	name=Eric Breker	episodes=1 episode, 2015 	
+character=Dr. Peri Gordon	name=Yasmine Aker	episodes=1 episode, 2016 	
+character=Derrick	name=George Tchortov	episodes=1 episode, 2016 	
+character=Maddie	name=Imogen Tear	episodes=1 episode, 2017-2018 	
+character=Ice Nation Healer	name=Jason Vaisvila	episodes=1 episode, 2017 	
+character=Ilian	name=Kyle Toy	episodes=1 episode, 2017 	
+character=Brother	name=Kyle Toy	episodes=1 episode, 2017 	
+character=Lead COG	name=Jesse Hutch	episodes=1 episode, 2019 	
+character=Grace Cadogan	name=Crystal Balint	episodes=1 episode, 2020 	
+character=Farmer	name=David Benedict Brown	episodes=1 episode, 2020 	
+character=Laughing Kid	name=Murry Peeters	episodes=1 episode, 2014 	
+character=Guard	name=Arleo Dordar	episodes=1 episode, 2015 	
+character=Lexa	name=Arleo Dordar	episodes=1 episode, 2015 	
+character=Grounder Warrior 	name=Jim Shield	episodes=1 episode, 2016 	
+character=Tybe	name=Darcy Laurie	episodes=1 episode, 2017 	
+character=Trikru Warrior	name=Paul C. Grenier	episodes=1 episode, 2017 	
+character=Arker Woman	name=Victoria Katongo	episodes=1 episode, 2017 	
+character=McCreary Guard 	name=Stew McLean	episodes=1 episode, 2018 	
+character=Cooper Arker	name=Julien Hyacinthe	episodes=1 episode, 2018 	
+character=Isaac	name=Jason Tremblay	episodes=1 episode, 2019 	
+character=Joaquin	name=Jarryd Baine	episodes=1 episode, 2019 	
+character=Zoran	name=Finn Wolfhard	episodes=1 episode, 2014 	
+character=Guard	name=Dean Redman	episodes=1 episode, 2014 	
+character=Horace	name=Victor Ayala	episodes=1 episode, 2014 	
+character=Woman	name=Suzanne Ristic	episodes=1 episode, 2014 	
+character=Tranq Gun Guard	name=Conrad Whitaker	episodes=1 episode, 2014 	
+character=Young Wells	name=Ty Benefield	episodes=1 episode, 2014 	
+character=Sobbing Kid	name=Jessica Racz	episodes=1 episode, 2014 	
+character=Caspian	name=Christian Tessier	episodes=1 episode, 2015 	
+character=Lily	name=Tiara Sorensen	episodes=1 episode, 2015 	
+character=Little Girl On Bike	name=Ava Wilson	episodes=1 episode, 2016 	
+character=Dakiva	name=Jennifer Cheon Garcia	episodes=1 episode, 2017 	
+character=Young Trikru Boy	name=Ricardo Ortiz	episodes=1 episode, 2017 	
+character=Sonya Hassler	name=Alika Autran	episodes=1 episode, 2017 	
+character=Arker Man	name=Paul Dzenkiw	episodes=1 episode, 2017 	
+character=Dead Grounder	name=Orve Coello	episodes=1 episode, 2017 	
+character=First Prisoner	name=Todd Scott	episodes=1 episode, 2018 	
+character=Large Warrior	name=Nick Marinos	episodes=1 episode, 2018 	
+character=Dead Female Defector	name=Ally Kaczynski	episodes=1 episode, 2018 	
+character=COG Warrior	name=Brea St. James	episodes=1 episode, 2019 	
+character=Olivia	name=Doralynn Mui	episodes=1 episode, 2019 	
+character=Bullied Child	name=Ben Daon	episodes=1 episode, 2019 	
+character=Patient	name=Lizzie Boys	episodes=1 episode, 2014 	
+character=Inspector Grus	name=Fulvio Cecere	episodes=1 episode, 2014 	
+character=Satisfied Girl	name=Nicole Hombrebueno	episodes=1 episode, 2014 	
+character=Osias	name=Chad Riley	episodes=1 episode, 2014 	
+character=Sergeant Scott	name=Warren Belle	episodes=1 episode, 2014 	
+character=Culled Woman	name=Melissa M. Montgomery	episodes=1 episode, 2014 	
+character=Alpha Reaper	name=Sean Millington	episodes=1 episode, 2015 	
+character=Garza	name=Jackson Berlin	episodes=1 episode, 2015 	
+character=Macallan	name=Shawn Mendes	episodes=1 episode, 2016 	
+character=Follower	name=Armando Canales	episodes=1 episode, 2016 	
+character=Husband	name=James Clayton	episodes=1 episode, 2017 	
+character=Sonya	name=James Clayton	episodes=1 episode, 2017 	
+character=Terro	name=David Attar	episodes=1 episode, 2017 	
+character=Rafel	name=Jason Beaudoin	episodes=1 episode, 2017 	
+character=Wounded Old Man	name=Ray G. Thunderchild	episodes=1 episode, 2017 	
+character=Egyptian Scavenger	name=Zara Durrani	episodes=1 episode, 2017 	
+character=Stevens	name=Brad Bergeron	episodes=1 episode, 2017 	
+character=Wonkru Warrior	name=Neil Webb	episodes=1 episode, 2018 	
+character=Young Madi	name=Lina Renna	episodes=1 episode, 2018 	
+character=Harris	name=Tommy Europe	episodes=1 episode, 2018 	
+character=Huge Wonkru Man	name=Jesse Stretch	episodes=1 episode, 2018 	
+character=Delphi Delegate	name=Anousha Alamian	episodes=1 episode, 2018 	
+character=Prisoner Male Patient	name=Russel 	episodes=1 episode, 2018 	
+character=Prisoner Male Patient	name=Watson	episodes=1 episode, 2018 	
+character=Prisoner Male Patient	name=Snake	episodes=1 episode, 2018 	
+character=Octavia Blodreina Double	name=Paloma Kwiatkowski	episodes=1 episode, 2019 	
+character=Bully	name=Carson Sanca	episodes=1 episode, 2019 	
+character=Lucy	name=Nicole Muñoz	episodes=1 episode, 2020 	
+character=Scar	name=Jason Bell	episodes=1 episode, 2020 	
+character=Other Tech	name=Dalias Blake	episodes=1 episode, 2014 	
+character=Guard	name=Mike Klemak	episodes=1 episode, 2014 	
+character=Woman	name=Kate Bateman	episodes=1 episode, 2014 	
+character=Volunteer	name=Troy Everett	episodes=1 episode, 2014 	
+character=Lead Guard	name=Todd Mann	episodes=1 episode, 2015 	
+character=Ivon	name=Noah Dalton Danby	episodes=1 episode, 2016 	
+character=Sentry	name=Craig Blair	episodes=1 episode, 2016 	
+character=Lexa	name=Craig Blair	episodes=1 episode, 2016 	
+character=Woman With Infinity Hair	name=Eleanor Hall	episodes=1 episode, 2016 	
+character=Azgeda Warrior	name=Jason William Day	episodes=1 episode, 2017 	
+character=Trikru Warrior	name=Shayn Walker	episodes=1 episode, 2017 	
+character=Dragged Dead Grounder	name=John Ulmer	episodes=1 episode, 2017 	
+character=Shallow Valley Ambassador	name=Sandra Dario	episodes=1 episode, 2017 	
+character=Nash	name=Michael Patric	episodes=1 episode, 2018 	
+character=Rabe	name=Mike Kovac	episodes=1 episode, 2018 	
+character=Dead Male Defector	name=Ian David Nsenga	episodes=1 episode, 2018 	
+character=Dexter	name=Daryl Ducharme	episodes=1 episode, 2018 	
+character=Triumphant Grounder	name=Mikael Vierge	episodes=1 episode, 2018 	
+character=Prisoner 	name=David Coles	episodes=1 episode, 2018 	
+character=Kuba 	name=David Coles	episodes=1 episode, 2018 	
+character=Faye	name=Beatrice King	episodes=1 episode, 2019 	
+character=Eriko	name=Christin Park	episodes=1 episode, 2020 	
+character=Cora	name=Parmiss Sehat	episodes=1 episode, 2020 	
+character=Child	name=Dalila Bela	episodes=1 episode, 2014 	
+character=Young Member of The 100	name=Quinn Lord	episodes=1 episode, 2014 	
+character=Reaper	name=Michael Adamthwaite	episodes=1 episode, 2014 	
+character=Brixton Guard	name=Serge Jaswal	episodes=1 episode, 2014 	
+character=Hard Looking Girl	name=Joleigh Schultz	episodes=1 episode, 2014 	
+character=Mt. Weather Soldier	name=Jaime M. Callica	episodes=1 episode, 2015 	
+character=Little Boy Lovejoy	name=Liam O	episodes=1 episode, 2015 	
+character=Little Boy Lovejoy	name=Neill	episodes=1 episode, 2015 	
+character=Ice Nation Ambassador	name=Link Baker	episodes=1 episode, 2016 	
+character=Man	name=Ryan Hesp	episodes=1 episode, 2016 	
+character=Gavriel	name=Michael Strusievici	episodes=1 episode, 2016 	
+character=Polis Sentry	name=Patrick Sparling	episodes=1 episode, 2016 	
+character=Grizzled Warrior	name=Charles Zuckermann	episodes=1 episode, 2017 	
+character=Ankara	name=Melinda Michael	episodes=1 episode, 2017 	
+character=Grounder Girl	name=Eliza Faria	episodes=1 episode, 2017 	
+character=Teenaged Grounder	name=Eric Bempong	episodes=1 episode, 2017 	
+character=Angry Azgeda Warrior	name=Marcus Aurelio	episodes=1 episode, 2018 	
+character=Elderly Azgeda Woman	name=Glynis Davies	episodes=1 episode, 2018 	
+character=Prisoner 	name=Sean Tyson	episodes=1 episode, 2018 	
+character=Miner 	name=Sean Tyson	episodes=1 episode, 2018 	
+character=Large Wonkru Guard	name=Raresh DiMofte	episodes=1 episode, 2018 	
+character=Large Prisoner	name=Phillip Mitchell	episodes=1 episode, 2018 	
+character=Prisoner 	name=Corey Schmitt	episodes=1 episode, 2018 	
+character=Hull	name=Jason Cermak	episodes=1 episode, 2020 	
+character=August	name=Kathleen Duborg	episodes=1 episode, 2020 	
+character=Mom	name=Kathleen Duborg	episodes=1 episode, 2020 	
+character=Tobin	name=Dowd	episodes=1 episode, 2020 	
+character=Tobin	name=Eanna O	episodes=1 episode, 2020 	
+character=Voice in the Crowd 	name=Aaron Issacs	episodes=1 episode, 2014 	
+character=Harris	name=Graem Beddoes	episodes=1 episode, 2015 	
+character=Enera	name=Marilyn Norry	episodes=1 episode, 2016 	
+character=Azgeda Scout	name=Patrick Roccas	episodes=1 episode, 2016 	
+character=Bill	name=Graham McDonald	episodes=1 episode, 2016 	
+character=Pei Chao	name=Colin Foo	episodes=1 episode, 2017 	
+character=Arker Man	name=Craig Erickson	episodes=1 episode, 2017 	
+character=Grounder Woman in Hood	name=Laura Picado	episodes=1 episode, 2017 	
+character=Diyoza Prime Guard	name=Ian Rozylo	episodes=1 episode, 2018 	
+character=Greedy Female Prisoner	name=Teana-Marie Smith	episodes=1 episode, 2018 	
+character=Young Boy	name=Levi Zachary Dunford	episodes=1 episode, 2018 	
+character=Young Ash	name=Kai Dolmans	episodes=1 episode, 2019 	
+character=Female Terrorist	name=Samantha Hum	episodes=1 episode, 2019 	
+character=Musgrave	name=Elysia Rotaru	episodes=1 episode, 2020 	
+character=Dad	name=Chris Robson	episodes=1 episode, 2020 	
+character=August	name=Chris Robson	episodes=1 episode, 2020 	
+character=Tomac	name=Jaeson Lee	episodes=1 episode, 2014 	
+character=Sergeant Langston	name=Aaron Hutchinson	episodes=1 episode, 2014 	
+character=Man	name=Donald Sales	episodes=1 episode, 2015 	
+character=Mount Weather Teenage Boy	name=Matt Giannakos	episodes=1 episode, 2015 	
+character=Female Street Vendor	name=Carmel Amit	episodes=1 episode, 2016 	
+character=Ark Jail Guard	name=Warren Abbott	episodes=1 episode, 2016 	
+character=Zeke	name=Dino Dinicolo	episodes=1 episode, 2016 	
+character=Pei	name=Yvonne Chapman	episodes=1 episode, 2017 	
+character=Daughter	name=Yvonne Chapman	episodes=1 episode, 2017 	
+character=Spitting Grounder	name=Nikki Wallin	episodes=1 episode, 2017 	
+character=Virgil	name=Virgil Davies	episodes=1 episode, 2018 	
+character=War Horn Operator	name=Adam Kelliher	episodes=1 episode, 2018 	
+character=Azgeda Speaking Warrior	name=Mark Krysko	episodes=1 episode, 2019 	
+character=Man	name=Kaare Anderson	episodes=1 episode, 2019 	
+character=Eriko	name=Theresa Wong	episodes=1 episode, 2020 	
+character=Mom	name=Theresa Wong	episodes=1 episode, 2020 	
+character=Disciple	name=Jay Danziger	episodes=1 episode, 2020 	
+character=Shooter	name=Gaelan Beatty	episodes=1 episode, 2014 	
+character=Mount Weather Teenage Girl	name=Pippa Mackie	episodes=1 episode, 2015 	
+character=Scarfaced Grounder	name=Gardiner Millar	episodes=1 episode, 2016 	
+character=Ark Tower Guard	name=Tomas Mauro	episodes=1 episode, 2016 	
+character=Jacov	name=Matt Kennedy	episodes=1 episode, 2017 	
+character=Wailing Woman	name=Jennifer Koenig	episodes=1 episode, 2017 	
+character=Dying Grounder	name=Adam Ballantyne	episodes=1 episode, 2017 	
+character=Armed Miner	name=Camille Hollett-French	episodes=1 episode, 2018 	
+character=Miner 	name=Justin Turnbull	episodes=1 episode, 2018 	
+character=Hope	name=Emma Oliver	episodes=1 episode, 2019 	
+character=Lead Guard	name=J.C. Williams	episodes=1 episode, 2019 	
+character=Golden Guard	name=Justin Breault	episodes=1 episode, 2019 	
+character=Sanctum Apprentice	name=Bernie Yao	episodes=1 episode, 2020 	
+character=Dad	name=C. Douglas Quan	episodes=1 episode, 2020 	
+character=Eriko	name=C. Douglas Quan	episodes=1 episode, 2020 	
+character=Supervising Med Tech	name=Jay Hindle	episodes=1 episode, 2014 	
+character=Guard	name=Lee Tichon	episodes=1 episode, 2016 	
+character=Pike	name=Lee Tichon	episodes=1 episode, 2016 	
+character=Merchant	name=Rick Dobran	episodes=1 episode, 2016 	
+character=Big Arker	name=Douglas Chapman	episodes=1 episode, 2017 	
+character=Sonic Driller	name=Darryl Scheelar	episodes=1 episode, 2018 	
+character=Baby Jordan	name=Neal Kai Chung	episodes=1 episode, 2018 	
+character=Sanctumite Woman	name=Melanie Rose Wilson	episodes=1 episode, 2019 	
+character=Shield Guard Patrol 	name=Arpad Balogh	episodes=1 episode, 2019 	
+character=Miranda	name=Marshall Bingham	episodes=1 episode, 2019 	
+character=Royal Guard	name=Marshall Bingham	episodes=1 episode, 2019 	
+character=New Terrorist Leader	name=Jacob Tazelaar	episodes=1 episode, 2019 	
+character=Mom	name=Ana Volkhina	episodes=1 episode, 2019 	
+character=Rose	name=Ana Volkhina	episodes=1 episode, 2019 	
+character=Zahir	name=Michael Benyaer	episodes=1 episode, 2020 	
+character=Groundskeeper	name=Patrick Keating	episodes=1 episode, 2020 	
+character=Convict	name=Tyler Burrows	episodes=1 episode, 2020 	
+character=Mr. Peters	name=Frank Ferrucci	episodes=1 episode, 2015 	
+character=Young Man 	name=Nathan Barrett	episodes=1 episode, 2016 	
+character=Rhanda	name=Jenn Forgie	episodes=1 episode, 2017 	
+character=Tech Savvy Miner	name=Kaiden Berge	episodes=1 episode, 2018 	
+character=Tory	name=Tricia Collins	episodes=1 episode, 2019 	
+character=Sanctum Guard	name=Dustin Lloyd	episodes=1 episode, 2019 	
+character=Shield Guard Patrol 	name=Jay Clift	episodes=1 episode, 2019 	
+character=Dad	name=Denis Kyzmim	episodes=1 episode, 2019 	
+character=Rose	name=Denis Kyzmim	episodes=1 episode, 2019 	
+character=Miss Haggerman	name=Julie Lynn Mortensen	episodes=1 episode, 2020 	
+character=Young Trikru Woman	name=Anesha Bailey	episodes=1 episode, 2020 	
+character=Mrs. Peters	name=Crystal Verge	episodes=1 episode, 2015 	
+character=Young Man 	name=Ian Collins	episodes=1 episode, 2016 	
+character=Resistor	name=Elizaveta Neretin	episodes=1 episode, 2018-2019 	
+character=Woman 	name=Elizaveta Neretin	episodes=1 episode, 2018-2019 	
+character=Adjustor	name=Christiaan Westerveld	episodes=1 episode, 2019 	
+character=Cell Block Guard	name=Michelle C. Smith	episodes=1 episode, 2020 	
+character=Female Cipher Tech	name=Donia Kash	episodes=1 episode, 2020 	
+character=Lead Disciple	name=Nia Cummins	episodes=1 episode, 2020 	
+character=Nurse Disciple	name=Mat Lo	episodes=1 episode, 2020 	
+character=Lead Ice Grounder	name=James Jenkins	episodes=1 episode, 2016 	
+character=Gabriel II	name=Donald Heng	episodes=1 episode, 2019 	
+character=Armed Guard	name=Christina Lewall	episodes=1 episode, 2019 	
+character=Kim	name=Vera Frederickson	episodes=1 episode, 2020 	
+character=True Believer	name=Lana Jalissa	episodes=1 episode, 2020 	
+character=Guard	name=Wyatt Cameron	episodes=1 episode, 2020 	
+character=One of the Grounders	name=Kurt Ostlund	episodes=1 episode, 2015 	
+character=Teenaged Boy	name=Cameron Andres	episodes=1 episode, 2019 	
+character=Female Tech	name=Wonser De-Gbon	episodes=1 episode, 2020 	
+character=Beautiful Young Woman	name=Marisa Gold	episodes=1 episode, 2020 	
+character=Sean	name=Marcello Guedes	episodes=1 episode, 2020 	
+character=War Chief 	name=Don Lew	episodes=1 episode, 2017 	
+character=Null Man	name=Andrew Chin	episodes=1 episode, 2019 	
+character=Team Six Leader	name=Kelly McCabe	episodes=1 episode, 2019 	
+character=Student 	name=Isla Sunar	episodes=1 episode, 2020 	
+character=Speaking Disciple	name=Camillia Mahal	episodes=1 episode, 2020 	
+character=Beautiful Young Man	name=Jason Bempong	episodes=1 episode, 2020 	
+character=Disciple	name=Phillip Keohavong	episodes=1 episode, 2020 	
+character=Night Nurse	name=Heather Feeney	episodes=1 episode, 2020 	
+character=Student 	name=Grace Sunar	episodes=1 episode, 2020 	
+character=Drummer 	name=Nico Amoroso	episodes=1 episode, 2020 	
+character=Disciple	name=Julia Daye	episodes=1 episode, 2020 	
+character=War Chief 	name=Andre Tricoteux	episodes=1 episode, 2017 	
+character=Ragged Man	name=Shawn Macdonald	episodes=1 episode, 2020 	
+character=Student 	name=Logan McInnes	episodes=1 episode, 2020 	
+character=Drummer 	name=Chris Couto	episodes=1 episode, 2020 	
+character=Person Watching	name=Otto Szabo	episodes=1 episode, 2020 	
+character=Baby Hope	name=Orla Eileen Oliver-Jay	episodes=1 episode, 2020 	
+character=Singer	name=Kenya Jordan	episodes=1 episode, 2020 	
+character=Drummer 	name=Benjamin Kim	episodes=1 episode, 2020 	
+character=Guitarist 	name=Alexa Berard	episodes=1 episode, 2020 	
+character=Musician 	name=Peter Robinson	episodes=1 episode, 2020 	
+character=Musician 	name=Paul Kinman	episodes=1 episode, 2020 	
+character=Sarah McAdams	name=Eden Rothenberg	episodes=1 episode, 2016 	
+character=Ark Citizen	name=John Specogna	episodes=10 episodes, 2014-2016 	
+character=Juvenile Delinquent	name=James Forrester	episodes=8 episodes, 2014 	
+character=Ice Nation Warrior	name=Joe Warshaw	episodes=5 episodes, 2015 	
+character=Healthy Grounder	name=Hedi Rian	episodes=3 episodes, 2016 	
+character=Arker	name=Eoin Bates	episodes=2 episodes, 2016 	
+character=Delegate	name=Linley Subryan	episodes=2 episodes, 2017 	
+character=Grounder	name=Jim Eliason	episodes=2 episodes, 2017 	
+character=Ark Civilian	name=Gerardo Barcala	episodes=1 episode, 2014 	
+character=Louis Montgomery	name=Fred Cruz	episodes=1 episode, 2014 	
+character=Earth Monitor Tech	name=Charles Edward Bae	episodes=1 episode, 2014 	
+character=Grounder	name=Breanna Podlasly	episodes=1 episode, 2014 	
+character=Pianist	name=Adam Sugawara	episodes=1 episode, 2014 	
+character=Tim Barlet	name=Austin J.M. Ross	episodes=1 episode, 2014 	
+character=Ark Guard	name=Leo Chiang	episodes=1 episode, 2015 	
+character=Ice Nation Lieutenant	name=Barry Nerling	episodes=1 episode, 2016 	
+character=Sergeant Shaw	name=Nathan Cann	episodes=1 episode, 2016 	
+character=Ice Grounder	name=Mike Garthwaite	episodes=1 episode, 2016 	
+character=Polis Guard	name=Kent R. Karemaker	episodes=1 episode, 2016 	
+character=Delphi Warrior	name=Tamiko Brownlee	episodes=1 episode, 2017 	
+character=Guitar Playing Arker	name=P.J. Pesce	episodes=1 episode, 2018 	
+character=Kneeling Enemy	name=Greg Zach	episodes=1 episode, 2018 	
+character=Cash	name=Janvier Katabarwa	episodes=1 episode, 2018 	
+character=Gladiator	name=Paul Wu	episodes=1 episode, 2018 	
+character=Wonkru War Battalion	name=Derek Schnobb	episodes=1 episode, 2018 	
+character=Forager	name=M.J. Kehler	episodes=1 episode, 2020 	
+character=Believer	name=Nicholas Dohy	episodes=1 episode, 2020 	

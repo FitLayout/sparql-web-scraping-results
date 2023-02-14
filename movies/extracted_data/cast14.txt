@@ -1,0 +1,870 @@
+# http://fitlayout.github.io/resource/art14 -> https://www.imdb.com/title/tt0773262/fullcredits/
+character=Dexter Morgan	name=Michael C. Hall	episodes=96 episodes, 2006-2013 	
+character=Debra Morgan	name=Jennifer Carpenter	episodes=96 episodes, 2006-2013 	
+character=Sgt. Angel Batista	name=David Zayas	episodes=96 episodes, 2006-2013 	
+character=Harry Morgan	name=James Remar	episodes=96 episodes, 2006-2013 	
+character=Vince Masuka	name=C.S. Lee	episodes=95 episodes, 2006-2013 	
+character=Lt. Maria LaGuerta	name=Luna Lauren Velez	episodes=85 episodes, 2006-2013 	
+character=Det. Joseph 	name=Desmond Harrington	episodes=72 episodes, 2008-2013 	
+character=Quinn	name=Desmond Harrington	episodes=72 episodes, 2008-2013 	
+character=Joey	name=Desmond Harrington	episodes=72 episodes, 2008-2013 	
+character=Rita Bennett	name=Julie Benz	episodes=49 episodes, 2006-2010 	
+character=Astor Bennett	name=Christina Robinson	episodes=47 episodes, 2006-2012 	
+character=Cody Bennett	name=Preston Bailey	episodes=35 episodes, 2007-2012 	
+character=Jamie Batista	name=Aimee Garcia	episodes=34 episodes, 2011-2013 	
+character=Harrison Morgan	name=Luke Andrew Kruntchev	episodes=20 episodes, 2010-2012 	
+character=Sgt. James Doakes	name=Erik King	episodes=25 episodes, 2006-2012 	
+character=Harrison Morgan	name=Evan George Kruntchev	episodes=16 episodes, 2010-2012 	
+character=Det. Angie Miller	name=Dana L. Wilson	episodes=18 episodes, 2012-2013 	
+character=Hannah McKay	name=Yvonne Strahovski	episodes=17 episodes, 2012-2013 	
+character=Anton Briggs	name=David Ramsey	episodes=17 episodes, 2008-2009 	
+character=Det. Robert Ramos	name=Pablo Soriano	episodes=5 episodes, 2007-2008 	
+character=ADA Miguel Prado	name=Jimmy Smits	episodes=12 episodes, 2008 	
+character=Travis Marshall	name=Colin Hanks	episodes=12 episodes, 2011-2012 	
+character=Arthur Mitchell	name=John Lithgow	episodes=12 episodes, 2009 	
+character=Jacob Elway	name=Sean Patrick Flanery	episodes=12 episodes, 2013 	
+character=Det. Jake Simms	name=Francisco Viana	episodes=12 episodes, 2006-2012 	
+character=Christine Hill	name=Courtney Ford	episodes=11 episodes, 2009 	
+character=Sylvia Prado	name=Valerie Cruz	episodes=11 episodes, 2008-2013 	
+character=Det. Mike Anderson	name=Billy Brown	episodes=11 episodes, 2011-2012 	
+character=Louis Greene	name=Josh Cooke	episodes=11 episodes, 2011-2012 	
+character=Harrison Morgan	name=Jadon Wells	episodes=11 episodes, 2013 	
+character=Cody Bennett	name=Daniel Goldman	episodes=11 episodes, 2006 	
+character=Lumen Ann Pierce	name=Julia Stiles	episodes=10 episodes, 2010 	
+character=Dr. Evelyn Vogel	name=Charlotte Rampling	episodes=10 episodes, 2013 	
+character=Prof. James Gellar	name=Edward James Olmos	episodes=10 episodes, 2011 	
+character=Rudy Cooper	name=Christian Camargo	episodes=10 episodes, 2006-2012 	
+character=George Novikov	name=Jason Gedrick	episodes=10 episodes, 2012 	
+character=Lila Tournay	name=Jaime Murray	episodes=10 episodes, 2007 	
+character=Isaak Sirko	name=Ray Stevenson	episodes=9 episodes, 2012 	
+character=Nadia	name=Katia Winter	episodes=9 episodes, 2012 	
+character=Det. Barbara Gianna	name=Kristin Dattilo	episodes=9 episodes, 2008 	
+character=Ramon Prado	name=Jason Manuel Olazabal	episodes=9 episodes, 2008 	
+character=Elliot	name=Rick Peters	episodes=9 episodes, 2009-2010 	
+character=Jurg Yeliashkevych	name=Andrew Kirsanov	episodes=9 episodes, 2012 	
+character=Teenage Dexter	name=Devon Graye	episodes=9 episodes, 2006-2007 	
+character=Stan Liddy	name=Peter Weller	episodes=8 episodes, 2010 	
+character=Sonya	name=Maria Doyle Kennedy	episodes=8 episodes, 2010 	
+character=Off. Cira Manzon	name=April Hernandez Castillo	episodes=8 episodes, 2010 	
+character=Jonah Mitchell	name=Brando Eaton	episodes=8 episodes, 2009-2011 	
+character=Niki Walters	name=Dora Madison	episodes=8 episodes, 2013 	
+character=Paul Bennett	name=Mark Pellegrino	episodes=7 episodes, 2006-2007 	
+character=Jordan Chase	name=Jonny Lee Miller	episodes=6 episodes, 2010 	
+character=Oliver Saxon	name=Darri Ingolfsson	episodes=7 episodes, 2013 	
+character=Dr. Michelle Ross	name=Rya Kihlstedt	episodes=7 episodes, 2011 	
+character=Francis	name=Tasia Sherel	episodes=7 episodes, 2007-2010 	
+character=Karen	name=Mary Alyce Kania	episodes=7 episodes, 2006-2009 	
+character=Ellen Wolf	name=Anne Ramsay	episodes=6 episodes, 2008 	
+character=George King	name=Jesse Borrego	episodes=6 episodes, 2008 	
+character=Laura Moser	name=Sage Kirkpatrick	episodes=6 episodes, 2006-2008 	
+character=Rebecca Mitchell	name=Vanessa Marano	episodes=5 episodes, 2009-2011 	
+character=Brother Sam	name=Yasiin Bey	episodes=5 episodes, 2011 	
+character=Lt. Esme Pascal	name=Judith Scott	episodes=5 episodes, 2006-2007 	
+character=Sally Mitchell	name=Julia Campbell	episodes=5 episodes, 2009 	
+character=Young Dexter	name=Dominic Janes	episodes=5 episodes, 2006-2007 	
+character=Camilla	name=Margo Martindale	episodes=5 episodes, 2006-2008 	
+character=Det. Yuki Amado	name=Liza Lapira	episodes=5 episodes, 2008 	
+character=Little Dexter	name=Maxwell Huckabee	episodes=5 episodes, 2006-2009 	
+character=Nick	name=Germaine De Leon	episodes=5 episodes, 2011 	
+character=Gabriel	name=Dave Baez	episodes=5 episodes, 2007 	
+character=Holly Benson	name=Lacey Beeman	episodes=5 episodes, 2011 	
+character=Cassie Jollenston	name=Bethany Joy Lenz	episodes=4 episodes, 2013 	
+character=Gail Brandon	name=JoBeth Williams	episodes=4 episodes, 2007 	
+character=Tony Tucci	name=Brad William Henke	episodes=4 episodes, 2006 	
+character=Zach Hamilton	name=Sam Underwood	episodes=4 episodes, 2013 	
+character=Lisa Marshall	name=Molly Parker	episodes=4 episodes, 2011 	
+character=Agent Walker	name=Adam J. Harrington	episodes=4 episodes, 2010 	
+character=Ryan Chambers	name=Brea Grant	episodes=4 episodes, 2011 	
+character=Doris Morgan	name=Kathrin Middleton	episodes=4 episodes, 2006-2012 	
+character=Cole Harmon	name=Chris Vance	episodes=3 episodes, 2010 	
+character=Marty	name=Alex Lewis	episodes=4 episodes, 2009-2013 	
+character=Francisco	name=Rudy Quintanilla	episodes=3 episodes, 2008-2012 	
+character=Carlos Guerrero	name=Rudolf Martin	episodes=3 episodes, 2006 	
+character=Santos Jimenez	name=Tony Amendola	episodes=3 episodes, 2007 	
+character=Neil Perry	name=Sam Witwer	episodes=3 episodes, 2006 	
+character=Jim McCourt	name=Raphael Sbarge	episodes=3 episodes, 2010 	
+character=Valerie Hodges	name=Mary Mara	episodes=3 episodes, 2009 	
+character=U.S. Marshal Cooper	name=Kenny Johnson	episodes=3 episodes, 2013 	
+character=Arlene Schram	name=Nicole LaLiberte	episodes=3 episodes, 2012-2013 	
+character=Steve Dorsey	name=Kyle Davis	episodes=3 episodes, 2011 	
+character=Scott Smith	name=Jake Short	episodes=3 episodes, 2009 	
+character=Nina Batista	name=Angela Alvarado	episodes=3 episodes, 2006 	
+character=Tammy Okama	name=Jane McLean Guerra	episodes=3 episodes, 2008 	
+character=Sussman	name=Scott Michael Morgan	episodes=3 episodes, 2013 	
+character=Shanda	name=Lizette Carrion	episodes=3 episodes, 2006 	
+character=Wendell Owens	name=Marc John Jefferies	episodes=3 episodes, 2008 	
+character=Maura Bennett	name=Kathleen Noone	episodes=3 episodes, 2010 	
+character=Mario Astorga	name=Jerry Zatarain Jr.	episodes=3 episodes, 2008 	
+character=Toby Edwards	name=Vincent Pagano	episodes=3 episodes, 2008 	
+character=Bill Bennett	name=Steve Eastin	episodes=3 episodes, 2010 	
+character=Nick Smith	name=Roger Ranney	episodes=3 episodes, 2009 	
+character=Nikki Wald	name=Alicia Lagano	episodes=3 episodes, 2009 	
+character=Evidence Clerk	name=Monica Sanchez	episodes=3 episodes, 2012-2013 	
+character=Diego	name=Justin Huen	episodes=3 episodes, 2011 	
+character=Sara Prado	name=Paula Miranda	episodes=3 episodes, 2008 	
+character=Reporter	name=Nicole Pettis	episodes=3 episodes, 2011 	
+character=Carlos	name=Aramis Knight	episodes=3 episodes, 2008 	
+character=Sal Price	name=Santiago Cabrera	episodes=2 episodes, 2012 	
+character=Boyd Fowler	name=Shawn Hatosy	episodes=2 episodes, 2010 	
+character=Leonis	name=Peter Macon	episodes=2 episodes, 2007 	
+character=FBI Deputy Director Max Adams	name=Jonathan Banks	episodes=2 episodes, 2007 	
+character=A.J. Yates	name=Aaron McCusker	episodes=2 episodes, 2013 	
+character=Hector Estrada	name=Nestor Serrano	episodes=2 episodes, 2012 	
+character=Det. McNamara	name=Scott William Winters	episodes=2 episodes, 2006 	
+character=Valerie Castillo	name=Valerie Dillman	episodes=2 episodes, 2006 	
+character=Freebo	name=Mike Erwin	episodes=2 episodes, 2008 	
+character=Emily Birch	name=Angela Bettis	episodes=2 episodes, 2010 	
+character=Tarla Grant	name=Suzanne Cryer	episodes=2 episodes, 2009 	
+character=Jeremy Downs	name=Mark L. Young	episodes=2 episodes, 2006 	
+character=Monique	name=Evelina Martinez	episodes=2 episodes, 2006 	
+character=Carlos Fuentes	name=Joseph Julian Soria	episodes=2 episodes, 2010 	
+character=Guzman	name=Nick Gomez	episodes=2 episodes, 2013 	
+character=El Sapo	name=Nick Gomez	episodes=2 episodes, 2013 	
+character=Javier 	name=Nick Gomez	episodes=2 episodes, 2013 	
+character=Dan Mendell	name=Sean O	episodes=2 episodes, 2010 	
+character=Dan Mendell	name=Bryan	episodes=2 episodes, 2010 	
+character=Beth Dorsey	name=Jordana Spiro	episodes=2 episodes, 2011 	
+character=Carissa Porter	name=Mariana Klaveno	episodes=2 episodes, 2011 	
+character=Nathan Roberts	name=David Monahan	episodes=2 episodes, 2011 	
+character=Ray Speltzer	name=Matt Gerald	episodes=2 episodes, 2012 	
+character=Hotel Clerk	name=Saxon Trainor	episodes=2 episodes, 2010 	
+character=Ed Hamilton	name=Aquino	episodes=2 episodes, 2013 	
+character=Ed Hamilton	name=John D	episodes=2 episodes, 2013 	
+character=Little Chino	name=Matthew Willig	episodes=2 episodes, 2007 	
+character=Sgt. Lopez	name=Gino Montesinos	episodes=2 episodes, 2010 	
+character=Yasmin Aragon	name=Jessica Camacho	episodes=2 episodes, 2010 	
+character=Officer Martinez	name=Kurt Caceres	episodes=2 episodes, 2013 	
+character=Little Brian	name=Brandon Killham	episodes=2 episodes, 2006-2007 	
+character=Det. Weiss	name=Eli Goodman	episodes=2 episodes, 2007 	
+character=Requisitions Officer	name=Kim Yarbrough	episodes=2 episodes, 2010 	
+character=Welks	name=Dave Chittick	episodes=2 episodes, 2013 	
+character=Federal Agent	name=Adam Lieberman	episodes=2 episodes, 2007 	
+character=Receptionist	name=Roma Chugani	episodes=2 episodes, 2010 	
+character=Anchor Woman	name=Suzanne Whang	episodes=2 episodes, 2013 	
+character=Young Debra	name=Laura Marano	episodes=2 episodes, 2006 	
+character=Teenage Debra	name=Hunter King	episodes=2 episodes, 2006 	
+character=Mariel	name=Minerva García	episodes=2 episodes, 2006 	
+character=Eva	name=Anna Maganini	episodes=2 episodes, 2007 	
+character=Kate	name=Marisa Petroro	episodes=2 episodes, 2009 	
+character=Marissa	name=Jillian Bruno	episodes=2 episodes, 2007 	
+character=Biggest Columbian	name=Joe Ordaz	episodes=2 episodes, 2012-2013 	
+character=TSA Agent 	name=Brian Oblak	episodes=2 episodes, 2010-2013 	
+character=Jandro Mendoza	name=Eddy Martin	episodes=2 episodes, 2010 	
+character=Reporter	name=Deborah Carson	episodes=2 episodes, 2010 	
+character=Sister Daniels	name=Elizabeth Tobias	episodes=2 episodes, 2011 	
+character=Guard	name=Andrew Hawkes	episodes=2 episodes, 2006-2012 	
+character=Reporter	name=Roxanne Beckford	episodes=2 episodes, 2006 	
+character=Javier	name=Ray Santiago	episodes=2 episodes, 2008 	
+character=Andy	name=Romeo Brown	episodes=2 episodes, 2006 	
+character=Jerry	name=Teddy Lane Jr.	episodes=2 episodes, 2006 	
+character=News Anchor	name=Leyna Nguyen	episodes=2 episodes, 2009 	
+character=Leo Hernandez	name=Neto DePaula Pimenta	episodes=2 episodes, 2011 	
+character=Counter Guy	name=Mario Z.	episodes=2 episodes, 2008 	
+character=Court Supervisor	name=Del Hunter-White	episodes=2 episodes, 2006 	
+character=EMT	name=David Haley	episodes=2 episodes, 2006-2013 	
+character=Singer	name=Enzo Villaparedes	episodes=2 episodes, 2008 	
+character=Sketch Artist	name=Gabriel Cordell	episodes=2 episodes, 2006-2008 	
+character=Viktor Baskov	name=Enver Gjokaj	episodes=1 episode, 2012 	
+character=Off. Gordon	name=J.R. Cacia	episodes=2 episodes, 2009 	
+character=Receptionist	name=Nadège August	episodes=2 episodes, 2013 	
+character=Timothy Brand	name=John Griffin	episodes=1 episode, 2009 	
+character=Melanie Garrett	name=Lauren C. Mayhew	episodes=1 episode, 2012 	
+character=Oscar Prado	name=Nick Hermz	episodes=1 episode, 2008 	
+character=Young Cop	name=Tom Frank	episodes=1 episode, 2010 	
+character=Alex Timmons	name=Demetrius Grosse	episodes=1 episode, 2006 	
+character=Anxious Man	name=Jeremy Nichols	episodes=1 episode, 2007 	
+character=FBI Agent	name=Jimmy Star	episodes=2 episodes, 2006-2007 	
+character=Barrel Girl	name=Tara Ketterer	episodes=2 episodes, 2010 	
+character=Matt Chambers	name=Sam Trammell	episodes=1 episode, 2006 	
+character=Mother	name=Vernee Watson	episodes=1 episode, 2006 	
+character=Doakes	name=Vernee Watson	episodes=1 episode, 2006 	
+character=Mrs. Tucci	name=Gina Hecht	episodes=1 episode, 2006 	
+character=Ken Olson	name=Silas Weir Mitchell	episodes=1 episode, 2007 	
+character=Lenny Asher	name=Bruce Weitz	episodes=1 episode, 2007 	
+character=Funeral Director	name=Bill Brochtrup	episodes=1 episode, 2010 	
+character=Norberto Cervantez	name=Cristos	episodes=1 episode, 2006 	
+character=Social Worker	name=Andi Chapman	episodes=1 episode, 2006 	
+character=Jimmy	name=Glenn Plummer	episodes=1 episode, 2007 	
+character=Mr. Wilson	name=Dale Midkiff	episodes=1 episode, 2007 	
+character=Roger Hicks	name=Don McManus	episodes=1 episode, 2007 	
+character=John Henry	name=Salvator Xuereb	episodes=1 episode, 2007 	
+character=Suzanna Coffey	name=Adrienne Barbeau	episodes=1 episode, 2009 	
+character=Jonathan Farrow	name=Greg Ellis	episodes=1 episode, 2009 	
+character=Dr. Cooper	name=Amy Pietz	episodes=1 episode, 2013 	
+character=Lucy Gerard	name=Rebecca Staab	episodes=1 episode, 2013 	
+character=Andrew Briggs	name=Rhys Coiro	episodes=1 episode, 2013 	
+character=Sussman	name=Barbara Tarbuck	episodes=1 episode, 2013 	
+character=Mother	name=Barbara Tarbuck	episodes=1 episode, 2013 	
+character=Rita	name=Malcolm-Jamal Warner	episodes=1 episode, 2006 	
+character=Lawyer	name=Malcolm-Jamal Warner	episodes=1 episode, 2006 	
+character=Jorge Castillo	name=José Zúñiga	episodes=2 episodes, 2006 	
+character=Dr. Pittman	name=Dakin Matthews	episodes=1 episode, 2006 	
+character=Don of Miami Tribune	name=S.A. Griffin	episodes=1 episode, 2007 	
+character=Dr. Hill	name=Tony Colitti	episodes=1 episode, 2007 	
+character=Off. Zoey Kruger	name=Christina Cox	episodes=1 episode, 2009 	
+character=Eddie Noonan	name=Richard Gilliland	episodes=1 episode, 2009 	
+character=Barry Kurt	name=Daniel Travis	episodes=1 episode, 2010 	
+character=Walter Kenney	name=Ronny Cox	episodes=1 episode, 2011 	
+character=Joe Walker	name=John Brotherton	episodes=1 episode, 2011 	
+character=Clint McKay	name=Jim Beaver	episodes=1 episode, 2012 	
+character=Tyler Barnes	name=Bubba Lewis	episodes=1 episode, 2012 	
+character=Dr. Turner	name=Eric Ladin	episodes=1 episode, 2013 	
+character=Dr. Emmett Meridian	name=Tony Goldwyn	episodes=1 episode, 2006 	
+character=Bob Hicks	name=Scott Atkinson	episodes=1 episode, 2006 	
+character=Sgt. McKay	name=Joseph Lyle Taylor	episodes=1 episode, 2006 	
+character=Sean	name=Richard Gunn	episodes=1 episode, 2006 	
+character=Off. Oliver	name=Patrick Michael Buckley	episodes=1 episode, 2006 	
+character=Banana Boat Tour Guide	name=Max Gail	episodes=1 episode, 2007 	
+character=Curtis Barnes	name=John Marshall Jones	episodes=1 episode, 2007 	
+character=Lab Tech Asst 	name=Brian Scolaro	episodes=1 episode, 2007 	
+character=Marriage Therapist	name=Roma Maffia	episodes=1 episode, 2009 	
+character=Andy Brightman	name=J.C. MacKenzie	episodes=1 episode, 2009 	
+character=Benny	name=Lisa Darr	episodes=1 episode, 2009 	
+character=Lawyer	name=Lisa Darr	episodes=1 episode, 2009 	
+character=Sam	name=Tim Maculan	episodes=1 episode, 2009 	
+character=Alex Tilden	name=Scott Grimes	episodes=1 episode, 2010 	
+character=Michael Angelo	name=Kate Moennig	episodes=1 episode, 2010 	
+character=Laurel Mendell	name=Leslie Grossman	episodes=1 episode, 2010 	
+character=Crisis Counselor	name=Vanessa Bell Calloway	episodes=1 episode, 2010 	
+character=Owen	name=David Paetkau	episodes=1 episode, 2010 	
+character=Trisha Billings	name=Kristen Miller	episodes=1 episode, 2011 	
+character=Donna Randall	name=Beth Grant	episodes=1 episode, 2012 	
+character=Wayne Randall	name=Dan Buran	episodes=1 episode, 2012 	
+character=Miles Castner	name=Julian Sands	episodes=1 episode, 2013 	
+character=Nurse Mary	name=Denise Crosby	episodes=1 episode, 2006 	
+character=Rita	name=Erin Daniels	episodes=1 episode, 2006 	
+character=Neighbor	name=Erin Daniels	episodes=1 episode, 2006 	
+character=Elderly Neighbor	name=Jeanette Miller	episodes=1 episode, 2006 	
+character=Alex	name=Mark Matkevich	episodes=1 episode, 2006 	
+character=Prosecutor	name=Lisa Kaminir	episodes=1 episode, 2006 	
+character=Social Worker	name=Ruth Zalduondo	episodes=1 episode, 2006 	
+character=Jaworski	name=Ethan S. Smith	episodes=1 episode, 2006 	
+character=Widow	name=Bertila Damas	episodes=1 episode, 2007 	
+character=Soto	name=Bertila Damas	episodes=1 episode, 2007 	
+character=Amanda	name=Natalie Garza	episodes=1 episode, 2008 	
+character=Kyle Butler 	name=Chad Todhunter	episodes=1 episode, 2009 	
+character=Flashdrive Detective	name=Jerry O	episodes=1 episode, 2009 	
+character=Flashdrive Detective	name=Donnell	episodes=1 episode, 2009 	
+character=Realtor	name=Sharon Sachs	episodes=1 episode, 2009 	
+character=Lance Robinson	name=Chad Allen	episodes=1 episode, 2010 	
+character=Paloma Aragon	name=Liza Colón-Zayas	episodes=1 episode, 2010 	
+character=Rankin	name=Brad Carter	episodes=1 episode, 2010 	
+character=Robert Brunner	name=Chris Payne Gilbert	episodes=1 episode, 2010 	
+character=Stuart Frank	name=Michael Durrell	episodes=1 episode, 2010 	
+character=Olivia	name=Tabitha Morella	episodes=1 episode, 2010 	
+character=Street Vendor	name=Michael Ray Escamilla	episodes=1 episode, 2010 	
+character=Pilot	name=Don Fischer	episodes=1 episode, 2010 	
+character=Admissions Director	name=Michael Hyatt	episodes=1 episode, 2011 	
+character=Lori Kirkwood	name=Julie Warner	episodes=1 episode, 2012 	
+character=Tony Rush	name=Wil Traval	episodes=1 episode, 2012 	
+character=Young Debra	name=Savannah Paige Rae	episodes=1 episode, 2012 	
+character=Handyman	name=Geoffrey Rivas	episodes=1 episode, 2012 	
+character=Co-ed	name=Milauna Jackson	episodes=1 episode, 2006 	
+character=Patty	name=Debbie Lee Carrington	episodes=1 episode, 2006 	
+character=Psychiatrist	name=Albie Selznick	episodes=1 episode, 2007 	
+character=Chad	name=Tyson Chambers	episodes=1 episode, 2007 	
+character=Billy Fleeter	name=Jeff Chase	episodes=1 episode, 2008 	
+character=Kelly	name=Nicole Garza	episodes=1 episode, 2008 	
+character=Stan Beaudry	name=Ian Patrick Williams	episodes=1 episode, 2009 	
+character=Fauzi	name=Juan Carlos Cantu	episodes=1 episode, 2010 	
+character=Heavyset Man	name=Brad Grunberg	episodes=1 episode, 2010 	
+character=Records Clerk	name=Derek Basco	episodes=1 episode, 2010 	
+character=Large Woman	name=Donna Pieroni	episodes=1 episode, 2010 	
+character=Rental Agent	name=Marty Ryan	episodes=1 episode, 2010 	
+character=Receptionist	name=Dianna Miranda	episodes=1 episode, 2011 	
+character=Uniform Cop	name=Cory Blevins	episodes=1 episode, 2011 	
+character=Rubio	name=Jaime Gomez	episodes=1 episode, 2012 	
+character=Benjamin Caffrey	name=Sherman Augustus	episodes=1 episode, 2012 	
+character=Ron Galuzzo	name=Andrew Elvis Miller	episodes=1 episode, 2013 	
+character=Off. Gerard	name=Scott MacDonald	episodes=1 episode, 2006 	
+character=Detective	name=Marc Macaulay	episodes=1 episode, 2006 	
+character=Scott Solomon	name=Kyle Lupo	episodes=1 episode, 2006 	
+character=Allison	name=Kristen Kerr	episodes=1 episode, 2007 	
+character=Headhunter	name=Matt Borlenghi	episodes=1 episode, 2007 	
+character=Fiona Camp	name=Julie Ann Emery	episodes=1 episode, 2008 	
+character=Zack	name=Todd Giebenhain	episodes=1 episode, 2008 	
+character=Uniformed Officer	name=J. Rene Pena	episodes=1 episode, 2008 	
+character=Det. Pratt	name=Frankie J. Allison	episodes=1 episode, 2008 	
+character=Jeffries	name=Jeff Lindsay	episodes=1 episode, 2008 	
+character=Neighbor	name=Frederick Koehler	episodes=1 episode, 2009 	
+character=Special Agent Davis	name=Jim Metzler	episodes=1 episode, 2009 	
+character=Nanny	name=Sarah Grant Brendecke	episodes=1 episode, 2009 	
+character=Attorney	name=Mark Atteberry	episodes=1 episode, 2009 	
+character=Landlady	name=Patrika Darbo	episodes=1 episode, 2010 	
+character=Hot Blonde	name=Gina Comparetto	episodes=1 episode, 2010 	
+character=Miranda	name=Marissa Skell	episodes=1 episode, 2010 	
+character=Dr. Lorre	name=Kim Robillard	episodes=1 episode, 2010 	
+character=Vendor	name=Joseph Bertót	episodes=1 episode, 2010 	
+character=Dr. Trent Casey	name=Alex Hyde-White	episodes=1 episode, 2011 	
+character=Norm	name=Scott Michael Campbell	episodes=1 episode, 2011 	
+character=Grant	name=Elizabeth McLaughlin	episodes=1 episode, 2011 	
+character=Daughter	name=Elizabeth McLaughlin	episodes=1 episode, 2011 	
+character=Docent	name=Maree Cheatham	episodes=1 episode, 2011 	
+character=Alberto	name=Al Vicente	episodes=1 episode, 2011 	
+character=Peter	name=Christopher Frontiero	episodes=1 episode, 2011 	
+character=Jenna	name=Maria Zyrianova	episodes=1 episode, 2012 	
+character=Hostess	name=Meredith Giangrande	episodes=1 episode, 2012 	
+character=Matthew Braun	name=Stewart Skelton	episodes=1 episode, 2012 	
+character=Oleg Mickic	name=Karl Herlinger	episodes=1 episode, 2012 	
+character=Kevin Wyman	name=David Chisum	episodes=1 episode, 2013 	
+character=Armando	name=Rolando Molina	episodes=1 episode, 2013 	
+character=Dr. Willis	name=Marc Gomes	episodes=1 episode, 2013 	
+character=Fort Lauderdale Police Officer	name=Jennifer Christopher	episodes=1 episode, 2013 	
+character=Debt Collector	name=Tom Schanley	episodes=1 episode, 2006 	
+character=Paul	name=Tom Schanley	episodes=1 episode, 2006 	
+character=Oscar	name=Cesar Flores	episodes=1 episode, 2006 	
+character=Kara Simmons	name=Maureen Muldoon	episodes=1 episode, 2006 	
+character=Reynolds	name=Travis Winfrey	episodes=1 episode, 2007 	
+character=FBI Guy 1	name=Paul Keeley	episodes=1 episode, 2007 	
+character=Caroline	name=Brooks Almy	episodes=1 episode, 2007 	
+character=Lexi	name=Stephanie Y. Wang	episodes=1 episode, 2007 	
+character=Lawyer	name=George Tovar	episodes=1 episode, 2007 	
+character=Peters	name=Cedric Duplechain	episodes=1 episode, 2007 	
+character=Police Officer	name=Ryan Smith	episodes=1 episode, 2007 	
+character=Annoying Man	name=Claude Shires	episodes=1 episode, 2007 	
+character=Kim	name=Miranda Frigon	episodes=1 episode, 2008 	
+character=Ethan Turner	name=Larry Sullivan	episodes=1 episode, 2008 	
+character=Teegan Campbell	name=Jelly Howie	episodes=1 episode, 2008 	
+character=Sgt. Jesse Whitaker	name=James Moses Black	episodes=1 episode, 2008 	
+character=Mrs. Owens	name=Dee Freeman	episodes=1 episode, 2008 	
+character=Little Boy	name=Maximus Rodriguez	episodes=1 episode, 2008 	
+character=Valet	name=Ethan Andrew	episodes=1 episode, 2008 	
+character=Jill	name=Kathy Christopherson	episodes=1 episode, 2009 	
+character=Nurse	name=Hayley DuMond	episodes=1 episode, 2009 	
+character=Bob Moore	name=Andrew Thacher	episodes=1 episode, 2009 	
+character=Teddy	name=Erica Shaffer	episodes=1 episode, 2010 	
+character=Mom	name=Erica Shaffer	episodes=1 episode, 2010 	
+character=FBI Agent Ross	name=Annabelle Gurwitch	episodes=1 episode, 2010 	
+character=FBI Handler	name=Angel Oquendo	episodes=1 episode, 2010 	
+character=Old Woman	name=Gina Morelli	episodes=1 episode, 2010 	
+character=Marco Fuentes	name=Josue Aguirre	episodes=1 episode, 2010 	
+character=Reporter 	name=Greg Hashimoto	episodes=1 episode, 2010 	
+character=Laci	name=Cherilyn Wilson	episodes=1 episode, 2011 	
+character=Ricardo	name=Carlos Moreno Jr.	episodes=1 episode, 2011 	
+character=Erin Baer	name=Jamie Silberhartz	episodes=1 episode, 2011 	
+character=Quinones	name=Jack Guzman	episodes=1 episode, 2012 	
+character=Lead Forensic Tech	name=Nick Jaine	episodes=1 episode, 2012 	
+character=First Deputy	name=A.J. Castro	episodes=1 episode, 2012 	
+character=Andres	name=Ezequiel Stremiz	episodes=1 episode, 2012 	
+character=Medical Examiner	name=Miguel Nájera	episodes=1 episode, 2012 	
+character=Young Dexter	name=Nicholas Vigneau	episodes=1 episode, 2012 	
+character=Nurse	name=Eileen Grubba	episodes=1 episode, 2013 	
+character=Young Waitress	name=Christine Garver	episodes=1 episode, 2013 	
+character=Boat Buyer	name=Kevin Brief	episodes=1 episode, 2013 	
+character=Driver	name=Lewis T. Powell	episodes=1 episode, 2013 	
+character=Social Worker	name=Amanda Wyss	episodes=1 episode, 2006 	
+character=Computer Analyst	name=David Batiste	episodes=1 episode, 2006 	
+character=Forbes	name=Damian Toofeek Raven	episodes=1 episode, 2006 	
+character=Off. Simon	name=Justin Kane	episodes=1 episode, 2006 	
+character=FBI Guy 2	name=Daya Vaidya	episodes=1 episode, 2007 	
+character=Minister	name=Darryl Sivad	episodes=1 episode, 2007 	
+character=Old Cuban Woman	name=Julia Vera	episodes=1 episode, 2007 	
+character=Computer Tech	name=Elisa Perry	episodes=1 episode, 2007 	
+character=Borelli	name=Alistair Tober	episodes=1 episode, 2007 	
+character=Clemson Galt	name=Blake Gibbons	episodes=1 episode, 2008 	
+character=Cal Rooney	name=Joel Weiss	episodes=1 episode, 2008 	
+character=Norma	name=Ana Mercedes	episodes=1 episode, 2008 	
+character=Nathan Marten	name=Jason Kaufman	episodes=1 episode, 2008 	
+character=Crime Scene Officer	name=Walter Sawall	episodes=1 episode, 2008 	
+character=Jesse Brightman	name=Matthew Fahey	episodes=1 episode, 2009 	
+character=Doctor	name=D. David Morin	episodes=1 episode, 2009 	
+character=Neighbor Kid	name=Clayton Mattingly	episodes=1 episode, 2009 	
+character=Mr. Lee	name=Greg Joung Paik	episodes=1 episode, 2009 	
+character=Mike	name=James MacPherson	episodes=1 episode, 2009 	
+character=Detective	name=Eric George	episodes=1 episode, 2009 	
+character=Paramedic	name=Terry Maratos	episodes=1 episode, 2010 	
+character=Marcetti	name=Michael Gambino	episodes=1 episode, 2010 	
+character=Uni 	name=Juan Garcia	episodes=1 episode, 2010 	
+character=Second Mom	name=Henree Alyse	episodes=1 episode, 2010 	
+character=Female Club-Goer	name=Randa Walker	episodes=1 episode, 2010 	
+character=Gawker	name=Carlos Linares	episodes=1 episode, 2010 	
+character=Nelson	name=Jack Axelrod	episodes=1 episode, 2011 	
+character=Mills	name=Mark Gantt	episodes=1 episode, 2011 	
+character=Lab Tech	name=Burl Moseley	episodes=1 episode, 2012 	
+character=Second Deputy	name=Ariel Llinas	episodes=1 episode, 2012 	
+character=Alex Dubrozny	name=Ludwig Manukian	episodes=1 episode, 2012 	
+character=Juan Alonso	name=Wayne Lopez	episodes=1 episode, 2012 	
+character=Mechanic	name=Richard Augustine	episodes=1 episode, 2012 	
+character=Gate Attendant	name=Mercedes López Renard	episodes=1 episode, 2013 	
+character=Off Duty Cop	name=Donnell Turner	episodes=1 episode, 2013 	
+character=Attorney	name=Adrian Neil	episodes=1 episode, 2013 	
+character=Messenger	name=Winston Story	episodes=1 episode, 2006 	
+character=Mindy	name=Ashley Rose	episodes=1 episode, 2006 	
+character=Sheriff	name=Wiley M. Pickett	episodes=1 episode, 2006 	
+character=Public Defender	name=Sewell Whitney	episodes=1 episode, 2006 	
+character=Indigent Man	name=Josh Phillips	episodes=1 episode, 2006 	
+character=Lawyer	name=Keith Pillow	episodes=1 episode, 2006 	
+character=Jane Saunders	name=Neeona Neal	episodes=1 episode, 2006 	
+character=Cabbie	name=Troy Metcalf	episodes=1 episode, 2007 	
+character=Droning Man	name=Eddie Kehler	episodes=1 episode, 2007 	
+character=Art Buyer	name=Petrea Burchard	episodes=1 episode, 2007 	
+character=Marlene	name=Mary Ostrow	episodes=1 episode, 2007 	
+character=Gordon	name=Tamir Yardenne	episodes=1 episode, 2007 	
+character=Doctor	name=Ellen Bry	episodes=1 episode, 2008 	
+character=Bartender	name=Paul Lieber	episodes=1 episode, 2008 	
+character=Third Deputy	name=Dig Wayne	episodes=1 episode, 2008 	
+character=Worker	name=Licia L. Shearer	episodes=1 episode, 2008 	
+character=Kyle Butler 	name=Keith Gordon	episodes=1 episode, 2009 	
+character=Joe Nix	name=Cooper Huckabee	episodes=1 episode, 2009 	
+character=Security Guard	name=Christopher Darga	episodes=1 episode, 2009 	
+character=Langsbury	name=Jason Rogel	episodes=1 episode, 2009 	
+character=Angry Driver	name=Christopher Goodman	episodes=1 episode, 2009 	
+character=Woman	name=Katie Grant	episodes=1 episode, 2009 	
+character=Bill	name=Frank Crim	episodes=1 episode, 2009 	
+character=Mrs. Lee	name=Esther Paik	episodes=1 episode, 2009 	
+character=Playgroup Director	name=Annie Tedesco	episodes=1 episode, 2010 	
+character=Med Tech	name=Maya Goodwin	episodes=1 episode, 2010 	
+character=Waitress	name=Kasey Wilson	episodes=1 episode, 2010 	
+character=Det. Linker	name=David Vegh	episodes=1 episode, 2010 	
+character=Young Man	name=Bryan Lugo	episodes=1 episode, 2010 	
+character=Julio Benes	name=Luis Moncada	episodes=1 episode, 2011 	
+character=Goth Female	name=Molly Morgan	episodes=1 episode, 2011 	
+character=Troy	name=Michael Patrick McGill	episodes=1 episode, 2011 	
+character=Alan	name=Andrew Bilgore	episodes=1 episode, 2011 	
+character=Agent Brenda Hubbard	name=Julie Lancaster	episodes=1 episode, 2011 	
+character=Nun	name=Casey Kramer	episodes=1 episode, 2011 	
+character=Doctor	name=David Carey Foster	episodes=1 episode, 2011 	
+character=Burly Man	name=Adam Johnson	episodes=1 episode, 2012 	
+character=Bailiff	name=Patrick Robert Smith	episodes=1 episode, 2012 	
+character=Board Commissioner	name=Clifford Morts	episodes=1 episode, 2012 	
+character=Driver	name=Jernard Burks	episodes=1 episode, 2013 	
+character=Janet	name=Erica Ibsen	episodes=1 episode, 2013 	
+character=Receptionist	name=Angela Bullock	episodes=1 episode, 2013 	
+character=Doorman	name=Darwin Harris	episodes=1 episode, 2013 	
+character=Anchor	name=Jason Williams	episodes=1 episode, 2013 	
+character=Sexy Woman	name=Symba	episodes=1 episode, 2006 	
+character=Paramedic	name=Josh Wingate	episodes=1 episode, 2006 	
+character=Male Elf	name=Kevin Thompson	episodes=1 episode, 2006 	
+character=Jess	name=Kelli Kirkland	episodes=1 episode, 2006 	
+character=Vanessa Gayle	name=Suzanne Lanza	episodes=1 episode, 2006 	
+character=EMT	name=Brandon Morris	episodes=1 episode, 2006 	
+character=Resident	name=Andrew Caple-Shaw	episodes=1 episode, 2006 	
+character=Mrs. Donovan	name=Jeanne Tidwell	episodes=1 episode, 2006 	
+character=Guard	name=Alex Demir	episodes=1 episode, 2006 	
+character=Teo	name=Wilmer Calderon	episodes=1 episode, 2007 	
+character=Blue-Collar Guy	name=Ron Roggé	episodes=1 episode, 2007 	
+character=Phillip Novik	name=John Ciccolini	episodes=1 episode, 2007 	
+character=Hostess	name=Cori Bright	episodes=1 episode, 2007 	
+character=Mayor	name=Manny Suárez	episodes=1 episode, 2007 	
+character=Nurse	name=Carla Jimenez	episodes=1 episode, 2008 	
+character=Doctor	name=Cecelia Specht	episodes=1 episode, 2008 	
+character=Latino Deputy	name=Bernardo Badillo	episodes=1 episode, 2008 	
+character=Malcolm White	name=James Martin Kelly	episodes=1 episode, 2008 	
+character=Band Member	name=MJ Ryers	episodes=1 episode, 2008 	
+character=Court Files TV Reporter	name=Louise Bennett	episodes=1 episode, 2008 	
+character=Pam	name=Olivia Burnette	episodes=1 episode, 2009 	
+character=Doctor	name=Kavita Patil	episodes=1 episode, 2009 	
+character=EMT	name=Onika Day	episodes=1 episode, 2009 	
+character=Lisa Bell	name=Kelly Huddleston	episodes=1 episode, 2009 	
+character=Cop	name=Robert Mammana	episodes=1 episode, 2010 	
+character=Security Guard	name=Steven Lee Allen	episodes=1 episode, 2010 	
+character=Venezuelan Woman	name=Tonita Castro	episodes=1 episode, 2010 	
+character=Mr. Morris	name=J. Downing	episodes=1 episode, 2011 	
+character=College Male	name=Jarrett Sleeper	episodes=1 episode, 2011 	
+character=Mindy	name=Ingrid Beer	episodes=1 episode, 2011 	
+character=Starter	name=Bashir Gavriel	episodes=1 episode, 2011 	
+character=Preacher	name=Jason Ross-Azikiwe	episodes=1 episode, 2011 	
+character=Congenial Narrator	name=Steve Stapenhorst	episodes=1 episode, 2011 	
+character=Daniela	name=Tiffany Pulvino	episodes=1 episode, 2011 	
+character=Suspect	name=Douglas Bennett	episodes=1 episode, 2012 	
+character=Waiter	name=Vince Foster	episodes=1 episode, 2012 	
+character=Attorney	name=Oliver Vaquer	episodes=1 episode, 2012 	
+character=FBI Agent	name=Len Cordova	episodes=1 episode, 2012 	
+character=Female Witness	name=Jenny Phagan	episodes=1 episode, 2012 	
+character=Strip Club Customer	name=Roger Rignack	episodes=1 episode, 2012 	
+character=Andrew Garrett	name=Albert Owens	episodes=1 episode, 2012 	
+character=Nurse	name=Anzu Lawson	episodes=1 episode, 2013 	
+character=Fisherman	name=Derek Graf	episodes=1 episode, 2013 	
+character=Housekeeper	name=Laura Patalano	episodes=1 episode, 2013 	
+character=Reporter	name=Charles Carpenter	episodes=1 episode, 2013 	
+character=Metalhead	name=Colton James	episodes=1 episode, 2006 	
+character=Pierced Chick	name=Christine Barger	episodes=1 episode, 2006 	
+character=Roni	name=Lyn Alicia Henderson	episodes=1 episode, 2006 	
+character=Morgue Attendant	name=Josh Daugherty	episodes=1 episode, 2006 	
+character=Mr. Pryce	name=Roger Hewlett	episodes=1 episode, 2006 	
+character=Truck Driver	name=P.J. Marino	episodes=1 episode, 2006 	
+character=Security Guard	name=Dion B. Vines	episodes=1 episode, 2006 	
+character=Court Official	name=Rolando Millet	episodes=1 episode, 2006 	
+character=Celeste Guerrero	name=Quendo	episodes=1 episode, 2006 	
+character=Celeste Guerrero	name=Margarita O	episodes=1 episode, 2006 	
+character=Desk Sergeant	name=Roy Rutland	episodes=1 episode, 2006 	
+character=Young Woman	name=Charlene Amoia	episodes=1 episode, 2007 	
+character=Leader	name=Bjorn Johnson	episodes=1 episode, 2007 	
+character=Sheriff	name=Gary Kraus	episodes=1 episode, 2007 	
+character=Lawyer	name=Kelley Hazen	episodes=1 episode, 2007 	
+character=Customs Officer	name=Craig Patton	episodes=1 episode, 2007 	
+character=Esteban	name=Gilbert Saldivar	episodes=1 episode, 2007 	
+character=Lab Tech 	name=Clint J. Palmer	episodes=1 episode, 2007 	
+character=Priest	name=Marco De Luca	episodes=1 episode, 2007 	
+character=Dentist	name=Anthony Tyler Quinn	episodes=1 episode, 2008 	
+character=Amber	name=Anastasia Ganias	episodes=1 episode, 2008 	
+character=Tilly	name=Joshua Dov	episodes=1 episode, 2008 	
+character=Attendant	name=Monica Garcia	episodes=1 episode, 2008 	
+character=Yoga Instructor	name=Kristina Krofft	episodes=1 episode, 2008 	
+character=Clerk	name=Jeff Leaf	episodes=1 episode, 2009 	
+character=Cop	name=James Ingersoll	episodes=1 episode, 2009 	
+character=Sonny Skyes	name=Bo Kane	episodes=1 episode, 2009 	
+character=Deputy Russell	name=Ricardo Chacon	episodes=1 episode, 2009 	
+character=Cop	name=Japheth Gordon	episodes=1 episode, 2009 	
+character=Volunteer	name=Mike Kersey	episodes=1 episode, 2009 	
+character=Judge Belford	name=Fred Ochs	episodes=1 episode, 2009 	
+character=Officer	name=Geno Monteiro	episodes=1 episode, 2009 	
+character=Father	name=Bill Doyle	episodes=1 episode, 2009 	
+character=Elena Mendoza	name=Sophia Santi	episodes=1 episode, 2010 	
+character=Frat Guy 	name=Derek DuChesne	episodes=1 episode, 2010 	
+character=Young Nanny	name=Jen Eldridge	episodes=1 episode, 2010 	
+character=Floyd	name=Judson Mills	episodes=1 episode, 2011 	
+character=Bouncer	name=Jeffrey De Serrano	episodes=1 episode, 2011 	
+character=Pudgy Man	name=Marcus Folmar	episodes=1 episode, 2011 	
+character=Paramedic	name=Rafael Feldman	episodes=1 episode, 2011 	
+character=Pastor	name=Scott Ward	episodes=1 episode, 2011 	
+character=Guy One	name=Luke Van Pelt	episodes=1 episode, 2011 	
+character=Uni	name=Michelle Espinoza	episodes=1 episode, 2011 	
+character=Florencia Estrada	name=Peggy Blow	episodes=1 episode, 2012 	
+character=Marina Master	name=Bart Braverman	episodes=1 episode, 2012 	
+character=Year Old Harrison	name=Lucas Adams	episodes=1 episode, 2012 	
+character=Amanda Garrett	name=Marina Anderson	episodes=1 episode, 2012 	
+character=Ticket Agent	name=Annie Little	episodes=1 episode, 2012 	
+character=Call Girl	name=Brittany Slattery	episodes=1 episode, 2012 	
+character=Uni	name=Nico Cortez	episodes=1 episode, 2012 	
+character=Male Witness	name=Mike Polli	episodes=1 episode, 2012 	
+character=Receptionist	name=Skye P. Marshall	episodes=1 episode, 2013 	
+character=Paramedic 	name=Jerry Ying	episodes=1 episode, 2013 	
+character=Reporter	name=Maite Schwartz	episodes=1 episode, 2006 	
+character=Off. Benson	name=Lance Irwin	episodes=1 episode, 2006 	
+character=Assistant	name=Carlease Burke	episodes=1 episode, 2006 	
+character=Alexander Pryce	name=Alex Schemmer	episodes=1 episode, 2006 	
+character=Doctor	name=June Angela	episodes=1 episode, 2006 	
+character=Dock Manager	name=John C. McDonnell	episodes=1 episode, 2006 	
+character=Laline	name=Bunnie Rivera	episodes=1 episode, 2006 	
+character=Rose Guerrero	name=Priscilla Medina	episodes=1 episode, 2006 	
+character=Annoyed Man	name=Jim Hanks	episodes=1 episode, 2007 	
+character=Uniform Cop	name=L.T. Tolliver	episodes=1 episode, 2007 	
+character=Dr. Pena	name=Mario Marcelino	episodes=1 episode, 2007 	
+character=Wild Eyed Man	name=Garrett Brawith	episodes=1 episode, 2007 	
+character=Lab Tech 	name=Leila Leigh	episodes=1 episode, 2007 	
+character=Manager	name=Lou Volpe	episodes=1 episode, 2007 	
+character=Joey	name=Kevin Buitrago	episodes=1 episode, 2007 	
+character=Woman Dancing	name=Catalina Rodriguez	episodes=1 episode, 2008 	
+character=Felipe	name=Celestino Cornielle	episodes=1 episode, 2008 	
+character=Alicia	name=Nikki Novak	episodes=1 episode, 2008 	
+character=Dexter Jr. Age 10	name=Brandon Michael Bass	episodes=1 episode, 2008 	
+character=Attractive Woman	name=Eve Mauro	episodes=1 episode, 2009 	
+character=Deputy	name=John Littlefield	episodes=1 episode, 2009 	
+character=Uni	name=Heather Olt	episodes=1 episode, 2009 	
+character=Boy	name=Aaron Refvem	episodes=1 episode, 2009 	
+character=Off. Reece	name=Asante Jones	episodes=1 episode, 2009 	
+character=Benny Gomez	name=Gino Aquino	episodes=1 episode, 2009 	
+character=Spencer Moore	name=Harrison Thacher	episodes=1 episode, 2009 	
+character=Overweight Nanny	name=Gabby Sanalitro	episodes=1 episode, 2010 	
+character=Bearded Toughguy	name=Christopher Weir	episodes=1 episode, 2010 	
+character=Widow	name=Joi Staton	episodes=1 episode, 2010 	
+character=Frat Guy 	name=Kody Corduan	episodes=1 episode, 2010 	
+character=Junkie	name=Nick McCallum	episodes=1 episode, 2011 	
+character=Little Girl	name=Avery Phillips	episodes=1 episode, 2011 	
+character=EMT Ben	name=Ben Turner Dixon	episodes=1 episode, 2011 	
+character=IT Man	name=David Lengel	episodes=1 episode, 2012 	
+character=Allens	name=Jonathan Camp	episodes=1 episode, 2012 	
+character=Maracas Woman	name=Amy Correa Bell	episodes=1 episode, 2012 	
+character=Bouncer	name=Brent Chase	episodes=1 episode, 2012 	
+character=Gunman	name=David Fraioli	episodes=1 episode, 2012 	
+character=Young Lab Tech	name=Amanda Tepe	episodes=1 episode, 2006 	
+character=D.A.	name=R.F. Daley	episodes=1 episode, 2006 	
+character=Gene Marshall	name=Benton Jennings	episodes=1 episode, 2006 	
+character=Nurse	name=Jennifer Echols	episodes=1 episode, 2006 	
+character=Supervisor	name=Jayden Lund	episodes=1 episode, 2006 	
+character=Tech	name=Terry Woodberry	episodes=1 episode, 2006 	
+character=Young Clerk	name=Jennifer Shon	episodes=1 episode, 2006 	
+character=Lucas	name=Anderson Goncalves	episodes=1 episode, 2006 	
+character=Mother	name=Jennifer Courtney	episodes=1 episode, 2007 	
+character=Bouncer	name=Karim Imam	episodes=1 episode, 2007 	
+character=Lipsey	name=Vince Pavia	episodes=1 episode, 2007 	
+character=Mother	name=Danielle Barbosa	episodes=1 episode, 2007 	
+character=Male Commentator	name=Charles Perez	episodes=1 episode, 2007 	
+character=Half Conscious Woman	name=Kelsey Crane	episodes=1 episode, 2008 	
+character=Teacher	name=Yolanda Snowball	episodes=1 episode, 2008 	
+character=Off. Nunez	name=Giovanni Lopes	episodes=1 episode, 2009 	
+character=Fireman	name=Kim Estes	episodes=1 episode, 2009 	
+character=Julio	name=Jullian Dulce Vida	episodes=1 episode, 2009 	
+character=Volunteer 	name=Steven Ritzi	episodes=1 episode, 2009 	
+character=Desk Officer	name=Jennifer DeFilippo	episodes=1 episode, 2009 	
+character=Elderly Southern Nanny	name=Jill Basey	episodes=1 episode, 2010 	
+character=Connie	name=Sheila Shaw	episodes=1 episode, 2011 	
+character=Cindy	name=Lauren Rose Lewis	episodes=1 episode, 2011 	
+character=EMT Roger	name=Grant Mathis	episodes=1 episode, 2011 	
+character=Gardener	name=Asanio Lara	episodes=1 episode, 2011 	
+character=Barnes	name=Jared Farid Ward	episodes=1 episode, 2012 	
+character=Woman	name=Heather McPhaul	episodes=1 episode, 2012 	
+character=Foxy Raven	name=Angelina Lyubomirova	episodes=1 episode, 2012 	
+character=Female Uni	name=Alexandra Hoover	episodes=1 episode, 2013 	
+character=Library Aide	name=Erica Luttrell	episodes=1 episode, 2006 	
+character=Cindy Landon	name=Julie Dolan	episodes=1 episode, 2006 	
+character=Male Detective 	name=Alex Wexo	episodes=1 episode, 2006 	
+character=Doctor	name=Kathleen Mary Carthy	episodes=1 episode, 2006 	
+character=Captive Prostitute	name=Darcy Fowers	episodes=1 episode, 2006 	
+character=Cop Friend	name=Taso Papadakis	episodes=1 episode, 2006 	
+character=Joshua	name=Renneker Jenkins	episodes=1 episode, 2006 	
+character=Reporter	name=Jay Jackson	episodes=1 episode, 2007 	
+character=Welsh	name=Brian Gattas	episodes=1 episode, 2007 	
+character=Mack	name=Martin Papazian	episodes=1 episode, 2007 	
+character=Old Haitian Man	name=J.R. Starr	episodes=1 episode, 2007 	
+character=Male News Show Host	name=Calvin Hughes	episodes=1 episode, 2007 	
+character=Tailor	name=Victor Campos	episodes=1 episode, 2008 	
+character=Nancy	name=Cassie Silva	episodes=1 episode, 2008 	
+character=Volunteer 	name=Kortney Manns	episodes=1 episode, 2009 	
+character=Off. Hanson	name=Ryan Christiansen	episodes=1 episode, 2009 	
+character=Emo Guy	name=Christopher Sowers	episodes=1 episode, 2010 	
+character=Female TSA Attendant	name=Stephanie Garrett	episodes=1 episode, 2010 	
+character=Ella	name=Caitlin Carmichael	episodes=1 episode, 2011 	
+character=Man With Glasses	name=Eric Normington	episodes=1 episode, 2011 	
+character=Concerned Citizen	name=Niko Posey	episodes=1 episode, 2011 	
+character=Nurse	name=Wendy Haines	episodes=1 episode, 2012 	
+character=Karen Yee	name=Diane Mizota	episodes=1 episode, 2006 	
+character=Roberto	name=Gabriel Salvador	episodes=1 episode, 2006 	
+character=Attractive Woman 	name=Carmen Olivares	episodes=1 episode, 2006 	
+character=Cop	name=Morgan H. Margolis	episodes=1 episode, 2006 	
+character=Reporter	name=K.C. Ramsey	episodes=1 episode, 2006 	
+character=Uniform 	name=Nina Onuora	episodes=1 episode, 2006 	
+character=Desk Sergeant	name=Kim Delgado	episodes=1 episode, 2007 	
+character=Kid 	name=Bryce Robinson	episodes=1 episode, 2008 	
+character=Kitty	name=Ralph Cole Jr.	episodes=1 episode, 2008 	
+character=Manager	name=Cheryl Carter	episodes=1 episode, 2008 	
+character=Deputy	name=Jeremy Overstreet	episodes=1 episode, 2008 	
+character=Male TSA Attendent	name=Danny Kashper	episodes=1 episode, 2010 	
+character=Young Woman	name=Whitney Anderson	episodes=1 episode, 2011 	
+character=Liam	name=Gabreon Womack	episodes=1 episode, 2011 	
+character=Woman 	name=Maggie McCollester	episodes=1 episode, 2011 	
+character=Nurse Jansen	name=Mary-Bonner Baker	episodes=1 episode, 2013 	
+character=Girl Swimming	name=Camila Banus	episodes=1 episode, 2006 	
+character=Meghan Dowd	name=René Ashton	episodes=1 episode, 2006 	
+character=Simon	name=Ashton Moio	episodes=1 episode, 2006 	
+character=Police Cadet	name=Denver Dowridge	episodes=1 episode, 2006 	
+character=Evidence Room Cop	name=Robert Della Cerra	episodes=1 episode, 2006 	
+character=Attractive Woman 	name=Norma Fontana	episodes=1 episode, 2006 	
+character=Gabrielle	name=Mennette Colón	episodes=1 episode, 2006 	
+character=Petunia	name=Rod Keller	episodes=1 episode, 2008 	
+character=Uniformed officer	name=Sean Christopher Davis	episodes=1 episode, 2008 	
+character=Kid 	name=Kaleigh Kennedy	episodes=1 episode, 2008 	
+character=Taxi Driver	name=Erick Chavarria	episodes=1 episode, 2010 	
+character=Woman 	name=Stacie Theon	episodes=1 episode, 2011 	
+character=Nurse	name=Rachelle Pettinato	episodes=1 episode, 2013 	
+character=Soccer Mom	name=Christie Lynn Smith	episodes=1 episode, 2006 	
+character=Carolyn Jillian	name=Mary Chris Wall	episodes=1 episode, 2006 	
+character=Bella	name=Jimena Hoyos	episodes=1 episode, 2006 	
+character=Bully	name=Connor Matheus	episodes=1 episode, 2006 	
+character=Screaming Jogger	name=Allysa Tacher	episodes=1 episode, 2006 	
+character=Uniformed Cop	name=Dheeaba Donghrer	episodes=1 episode, 2008 	
+character=Kid 	name=Vincent King	episodes=1 episode, 2008 	
+character=Waitress	name=Ana Tuazon Parsons	episodes=1 episode, 2010 	
+character=Omar Rivera	name=Eddie J. Fernandez	episodes=1 episode, 2011 	
+character=Latino Man	name=Sergio Garcia	episodes=1 episode, 2013 	
+character=Knife Vendor	name=Tom Nowicki	episodes=1 episode, 2006 	
+character=Grandfather	name=Alden McKay	episodes=1 episode, 2006 	
+character=Warren	name=Jay Pickett	episodes=1 episode, 2008 	
+character=Bishop	name=John O	episodes=1 episode, 2006 	
+character=Bishop	name=Leary	episodes=1 episode, 2006 	
+character=Technician	name=Elena Maria Garcia	episodes=1 episode, 2006 	
+character=Tech	name=Patrick Y. Malone	episodes=1 episode, 2006 	
+character=Singer	name=Krista Swan	episodes=1 episode, 2006 	
+character=Band Director Orquesta Brava	name=Kenny Quintero	episodes=1 episode, 2006 	
+character=Police Officer	name=George Morris Jr.	episodes=1 episode, 2006 	
+character=Santos Hamanes	name=Roman Mitichyan	episodes=1 episode, 2007 	
+character=David	name=Stefan Kumor	episodes=1 episode, 2007 	
+character=Frightened Lumberjack 	name=Kent Hagan	episodes=1 episode, 2007 	
+character=Young Teacher	name=Adalia Braydon	episodes=1 episode, 2009 	
+character=Trinity Killer Victim	name=Nicole Preston	episodes=1 episode, 2009 	
+character=Trinity Killer Victim	name=Jacquelyn Burns	episodes=1 episode, 2009 	
+character=Daughter	name=Erika Brown	episodes=1 episode, 2010 	
+character=Barrel Girl Victim	name=Niko Koshet	episodes=1 episode, 2010 	
+character=Crazed Fan	name=M.J. Dougherty	episodes=1 episode, 2010 	
+character=School girl	name=Hannah Reed	episodes=1 episode, 2010 	
+character=Erin 	name=Karen Levine	episodes=1 episode, 2011 	
+character=Stand In	name=Karen Levine	episodes=1 episode, 2011 	
+character=Airport Traveler	name=William Mulligan	episodes=1 episode, 2012 	
+character=Murder Victim	name=Marc Wayne	episodes=1 episode, 2012 	
+character=Cop	name=Chris Krauser	episodes=7 episodes, 2006-2007 	
+character=Beth	name=Karina Michel	episodes=3 episodes, 2006-2008 	
+character=Dancer	name=Mary Scanlon	episodes=3 episodes, 2006-2008 	
+character=Bertrand	name=El 0	episodes=3 episodes, 2007 	
+character=Bertrand	name=Iseluleko Ma	episodes=3 episodes, 2007 	
+character=Barrel Girl Victim 	name=Brooklynne James	episodes=3 episodes, 2010 	
+character=Nurse	name=Julie McKinnon	episodes=3 episodes, 2011-2012 	
+character=Dancer	name=Laura Soares	episodes=3 episodes, 2012 	
+character=Club Goer	name=Sandra Medina	episodes=2 episodes, 2006-2009 	
+character=Bar Patron	name=Mike Cochrane	episodes=2 episodes, 2006-2007 	
+character=Police Officer	name=Chris Muto	episodes=2 episodes, 2006 	
+character=Beach Jogger	name=Nikki Magnusson	episodes=2 episodes, 2006 	
+character=Additional	name=Patrick Bradford	episodes=2 episodes, 2006 	
+character=Hotel Z Patron	name=Wendy Wells-Gunkel	episodes=2 episodes, 2007 	
+character=District Attorney	name=Michael A. Templeton	episodes=2 episodes, 2008 	
+character=Jogger	name=Olivia Presley	episodes=2 episodes, 2009-2010 	
+character=Restaurant Patron	name=Philippe Badreau	episodes=2 episodes, 2010 	
+character=Inspector Phil Bosso	name=Brett Rickaby	episodes=2 episodes, 2012 	
+character=Exotic Dancer	name=Kiya Roberts	episodes=2 episodes, 2012 	
+character=Young Debra	name=Jadin Gould	episodes=1 episode, 2006 	
+character=Rollerblader	name=Chad Jamian	episodes=1 episode, 2006 	
+character=Police Detective	name=Scott Buckley	episodes=1 episode, 2006 	
+character=Mike Donovan	name=Jim Abele	episodes=1 episode, 2006 	
+character=Detective	name=J.R. Esposito	episodes=1 episode, 2006 	
+character=Girl In Bikini	name=Wendy Lee	episodes=1 episode, 2006 	
+character=Forensic Tech	name=Mark Anthony Williams	episodes=1 episode, 2006 	
+character=Off. Wong	name=Jonathan Khan	episodes=1 episode, 2006 	
+character=Juvenile Prisoner 	name=Germán Legarreta	episodes=1 episode, 2006 	
+character=Dead Victim	name=Rob Goodman	episodes=1 episode, 2006 	
+character=Extra	name=Raymond T. Williams	episodes=1 episode, 2006 	
+character=Man On Cellphone	name=Eric Shackelford	episodes=1 episode, 2006 	
+character=Detective	name=Steve Lantz	episodes=1 episode, 2006 	
+character=Police Officer 	name=Angel Luis Hernández	episodes=1 episode, 2006 	
+character=Crackhead	name=Yvonne Gougelet	episodes=1 episode, 2006 	
+character=Concert Vendor	name=Renier Murillo	episodes=1 episode, 2006 	
+character=Bellhop	name=Ken-Ali	episodes=1 episode, 2006 	
+character=Police Officer	name=Brooklyn Murphy	episodes=1 episode, 2006 	
+character=Crime Scene Officer	name=Jason Bartley	episodes=1 episode, 2006 	
+character=Yearbook Editor	name=Eric Banzon	episodes=1 episode, 2006 	
+character=Witness	name=Ben Hausbach	episodes=1 episode, 2006 	
+character=Female Escort	name=Christine Hitt	episodes=1 episode, 2006 	
+character=Hotel Manager	name=Marc Linsalata	episodes=1 episode, 2006 	
+character=Detective	name=Jeff Bullock	episodes=1 episode, 2006 	
+character=Police Officer	name=Erik Joseph	episodes=1 episode, 2006 	
+character=Grieving Widow	name=Martha Hackett	episodes=1 episode, 2007 	
+character=The Executed	name=Gino Cafarelli	episodes=1 episode, 2007 	
+character=Self	name=Daniel Cerone	episodes=1 episode, 2007 	
+character=FBI Agent	name=Timothy T Tyler	episodes=1 episode, 2007 	
+character=Newsroom Atmosphere	name=Maria Zambrana	episodes=1 episode, 2007 	
+character=FBI Agent	name=Don Abernathy	episodes=1 episode, 2007 	
+character=Classmate	name=Neil Ironfield	episodes=1 episode, 2007 	
+character=Cody	name=Neil Ironfield	episodes=1 episode, 2007 	
+character=Bikini Girl	name=Lili Asvar	episodes=1 episode, 2007 	
+character=FBI Agent	name=De	episodes=1 episode, 2007 	
+character=FBI Agent	name=Leon Howard III	episodes=1 episode, 2007 	
+character=Walters	name=Noli McCool	episodes=1 episode, 2007 	
+character=Dead Body 	name=Nathan Hill	episodes=1 episode, 2007 	
+character=Dead Denny Foster	name=Dan Wickline	episodes=1 episode, 2007 	
+character=Beach Goer	name=Luis Valentin	episodes=1 episode, 2007 	
+character=Classmate	name=John Bartlebaugh	episodes=1 episode, 2007 	
+character=Cody	name=John Bartlebaugh	episodes=1 episode, 2007 	
+character=Shannon	name=Danielle Vasinova	episodes=1 episode, 2008 	
+character=Stripper	name=Jason Lockhart	episodes=1 episode, 2008 	
+character=Classroom Kid	name=Andy Scott Harris	episodes=1 episode, 2008 	
+character=Band Member	name=Gary Calamar	episodes=1 episode, 2008 	
+character=Asian Gangbanger	name=Alex Duong	episodes=1 episode, 2008 	
+character=Doctor	name=Silvia McClure	episodes=1 episode, 2008 	
+character=College Dad	name=Brad Carr	episodes=1 episode, 2008 	
+character=Festival Salsa Dancer	name=Melinda Bennett	episodes=1 episode, 2008 	
+character=Morgue Victim	name=Tj Austin	episodes=1 episode, 2008 	
+character=Frat Boy	name=Dream Kasestatad	episodes=1 episode, 2008 	
+character=Baby Dexter Jr.	name=Gunnar Goldberg	episodes=1 episode, 2008 	
+character=Priest	name=Bob Bencomo	episodes=1 episode, 2008 	
+character=Band Member: Bass	name=Jon Licht	episodes=1 episode, 2008 	
+character=Dexter Jr.	name=Stephen Gabriel	episodes=1 episode, 2008 	
+character=Lisa Morton	name=Dana Frances	episodes=1 episode, 2008 	
+character=Woman in Housecoat	name=Elsa Morales Myers	episodes=1 episode, 2008 	
+character=Hotel Guest	name=Sarah Ospina	episodes=1 episode, 2008 	
+character=Lookout Kid on Bike	name=Darnell J. Cates	episodes=1 episode, 2008 	
+character=Hot Sorority Girl	name=Jillian Difusco	episodes=1 episode, 2008 	
+character=Sorority Party Girl	name=Julia Farsadi	episodes=1 episode, 2008 	
+character=Murder Victim	name=Christie Pesicka	episodes=1 episode, 2008 	
+character=Cousin	name=Anna Hale	episodes=1 episode, 2008 	
+character=Hotel Housekeeper	name=Luna Rocio Cantale	episodes=1 episode, 2008 	
+character=Band Member: Drums	name=Mark Bensi	episodes=1 episode, 2008 	
+character=Taco Stand Customer	name=Alexa Gardner	episodes=1 episode, 2008 	
+character=Club Goer	name=Terricka Rogers	episodes=1 episode, 2008 	
+character=Det. Stanley	name=Angelo Fierro	episodes=1 episode, 2008 	
+character=Cook at Sandwich Shop	name=Patrick Labyorteaux	episodes=1 episode, 2009 	
+character=Farrow Beauty	name=Lisa Catara	episodes=1 episode, 2009 	
+character=Habitat for Humanity	name=Aryn Nelson	episodes=1 episode, 2009 	
+character=Pretty Woman	name=Amanda Perry	episodes=1 episode, 2009 	
+character=Homeless Boy	name=Ty Haile	episodes=1 episode, 2009 	
+character=Dead Child	name=Hannah Victoria Stock	episodes=1 episode, 2009 	
+character=Press Photographer	name=Jera Sky	episodes=1 episode, 2009 	
+character=Detective	name=Adémola	episodes=1 episode, 2009 	
+character=Boy	name=Preston Thompson	episodes=1 episode, 2009 	
+character=Widow	name=Mylinda Royer	episodes=1 episode, 2009 	
+character=Nancy Moore	name=Heidi Brook Myers	episodes=1 episode, 2009 	
+character=Anita Parente	name=Jessica Carlos	episodes=1 episode, 2009 	
+character=Reporter	name=Shanelle Renet	episodes=1 episode, 2009 	
+character=Date	name=Jena Sims	episodes=1 episode, 2010 	
+character=Masuka	name=Jena Sims	episodes=1 episode, 2010 	
+character=Battered Young Woman	name=Mercy Malick	episodes=1 episode, 2010 	
+character=Seminar Audience	name=Waymond Lee	episodes=1 episode, 2010 	
+character=Barrel Girl Victim 	name=Heather Cooney	episodes=1 episode, 2010 	
+character=Mario	name=Adrian Bustamante	episodes=1 episode, 2010 	
+character=Club Dancer	name=Charlene Rose	episodes=1 episode, 2010 	
+character=Pregnant Wife	name=Ann Henson	episodes=1 episode, 2010 	
+character=Death Man Joe	name=Costa Nicolas	episodes=1 episode, 2010 	
+character=Barrel Girl Victim	name=Chelsea Vincent	episodes=1 episode, 2010 	
+character=Homicide Detective	name=Coleman Lannum	episodes=1 episode, 2010 	
+character=Teenage Cole Harmon	name=Tyler Hill	episodes=1 episode, 2010 	
+character=Bartender	name=Josh Allen	episodes=1 episode, 2010 	
+character=Neighbor Kid	name=Christopher Mason	episodes=1 episode, 2010 	
+character=Confronted Venezolano	name=Vanessa Alameda	episodes=1 episode, 2010 	
+character=Barrel Girl Victim 	name=April Chappell	episodes=1 episode, 2010 	
+character=Jordan	name=Cristina Allica	episodes=1 episode, 2010 	
+character=Assistant	name=Cristina Allica	episodes=1 episode, 2010 	
+character=Sex Offender	name=Evan E. Yu	episodes=1 episode, 2010 	
+character=Barrel Girl Victim 	name=Stephanie Ann Davies	episodes=1 episode, 2010 	
+character=Seminar Attendee	name=David Banuelos	episodes=1 episode, 2010 	
+character=Print Photographer	name=Ciel Turich	episodes=1 episode, 2010 	
+character=Neighbor Kid	name=Destiny Mason	episodes=1 episode, 2010 	
+character=Young Janet Walker	name=Alex Rose Wiesel	episodes=1 episode, 2011 	
+character=Landlord	name=George Gerdes	episodes=1 episode, 2011 	
+character=Extra	name=Hudson	episodes=1 episode, 2011 	
+character=Extra	name=Jesse 	episodes=1 episode, 2011 	
+character=Extra	name=Jet Set	episodes=1 episode, 2011 	
+character=Man at the Nightclub	name=Brandon Slagle	episodes=1 episode, 2011 	
+character=Quinn	name=Clark Gilmer	episodes=1 episode, 2011 	
+character=Date	name=Clark Gilmer	episodes=1 episode, 2011 	
+character=Super Model	name=Monika Spruch	episodes=1 episode, 2011 	
+character=Masuka	name=Ashanna Bri	episodes=1 episode, 2011 	
+character=Student	name=Ashanna Bri	episodes=1 episode, 2011 	
+character=Golfer	name=Ruben Roberto Gomez	episodes=1 episode, 2011 	
+character=Waitress	name=Kelly Sarah Samuels	episodes=1 episode, 2011 	
+character=Heather	name=Jean Lupien	episodes=1 episode, 2011 	
+character=Car Hit Victim	name=Gary J. Wayton	episodes=1 episode, 2011 	
+character=Stalkee	name=Michael Raif Brizzolara	episodes=1 episode, 2011 	
+character=Witness Sarah	name=Jasmine Lowe	episodes=1 episode, 2011 	
+character=Dead Wife	name=Shannon Marie Bullock	episodes=1 episode, 2011 	
+character=Office Clerk	name=Audrey Povar	episodes=1 episode, 2011 	
+character=Dead Husband	name=David Dustin Kenyon	episodes=1 episode, 2011 	
+character=Bystander	name=Sommer Fehmel	episodes=1 episode, 2011 	
+character=Market Vendor	name=Tanya R. Barnes	episodes=1 episode, 2011 	
+character=Football Player	name=Ace Antonio Hall	episodes=1 episode, 2011 	
+character=Screaming Kid	name=Rubi Myers	episodes=1 episode, 2011 	
+character=Captain Pierson	name=David Vincent Burns	episodes=1 episode, 2011 	
+character=Dancer	name=Christine Nguyen	episodes=1 episode, 2012 	
+character=Nina Fleischer	name=Kayla Barr Hengami	episodes=1 episode, 2012 	
+character=Jensen	name=Mike Foy	episodes=1 episode, 2012 	
+character=Foxhole dancer	name=Amber Hay	episodes=1 episode, 2012 	
+character=Bikini Girl	name=Hannah Townsend	episodes=1 episode, 2012 	
+character=Table Victim	name=Scott Reynolds	episodes=1 episode, 2012 	
+character=Murder Victim	name=Halszka Wanda Lea Kuza	episodes=1 episode, 2012 	
+character=Off Duty Cop in Bar	name=Michael Dane	episodes=1 episode, 2012 	
+character=Stripper	name=Bentley Stingley	episodes=1 episode, 2012 	
+character=Driver	name=Hunter Ray Barker	episodes=1 episode, 2012 	
+character=Gun Store Clerk	name=Frank Spatacco	episodes=1 episode, 2012 	
+character=Post Office Guy	name=Jeff Nathan	episodes=1 episode, 2012 	
+character=Kissing Gay Bar Patron	name=Lee Christian	episodes=1 episode, 2012 	
+character=FBI Tech	name=Lauren Byrnes	episodes=1 episode, 2012 	
+character=Prison Guard	name=Sexton Newby	episodes=1 episode, 2012 	
+character=Friend	name=Ky Mahone	episodes=1 episode, 2012 	
+character=George	name=Ky Mahone	episodes=1 episode, 2012 	
+character=Reveler	name=Billy Joe Brewer III	episodes=1 episode, 2012 	
+character=Paddle-Boarder	name=Steve Conrad	episodes=1 episode, 2012 	
+character=Salsa Dancer	name=Marisa Hamamoto	episodes=1 episode, 2012 	
+character=Coffee Shop Waitress	name=Devereau Chumrau	episodes=1 episode, 2013 	
+character=Sexy Bartender	name=Natalina Maggio	episodes=1 episode, 2013 	
+character=Beaten Man	name=Britt George	episodes=1 episode, 2013 	
+character=Waitress	name=Ashli Haynes	episodes=1 episode, 2013 	
+character=Rollergirl	name=Brittany Mason	episodes=1 episode, 2013 	
+character=Cheating Secretary	name=Tawny Amber Young	episodes=1 episode, 2013 	
+character=Hot Soccer Mom	name=Victoria Vertuga	episodes=1 episode, 2013 	
+character=Shawn	name=Austin Brook	episodes=1 episode, 2013 	
+character=Client	name=Pamela Lundquist	episodes=1 episode, 2013 	
+character=Dead Cyclist	name=Jacob Clarke	episodes=1 episode, 2013 	
+character=Nurse	name=Mariya Ranieli	episodes=1 episode, 2013 	
+character=Sofia Fuentes	name=Monique Barajas	episodes=1 episode, 2013 	
+character=Roller Skater Waitress	name=Imani T. Williams	episodes=1 episode, 2013 	
+character=Neonatal Nurse	name=Annette Marie Westwood	episodes=1 episode, 2013 	
+character=Nurse	name=Darren P. Leis	episodes=1 episode, 2013 	
+character=Bar Patron	name=Nicholas Gibeault	episodes=1 episode, 2013 	
+character=Sea Plane Pilot	name=Steve Price	episodes=1 episode, 2013 	

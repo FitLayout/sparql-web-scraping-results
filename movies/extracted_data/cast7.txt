@@ -1,0 +1,1327 @@
+# http://fitlayout.github.io/resource/art7 -> https://www.imdb.com/title/tt0098904/fullcredits/
+character=Jerry Seinfeld	name=Jerry Seinfeld	episodes=172 episodes, 1989-1998 	
+character=Elaine Benes	name=Julia Louis-Dreyfus	episodes=171 episodes, 1990-1998 	
+character=George Costanza	name=Jason Alexander	episodes=171 episodes, 1989-1998 	
+character=Cosmo Kramer	name=Michael Richards	episodes=170 episodes, 1989-1998 	
+character=Ruthie Cohen	name=Ruth Cohen	episodes=2 episodes, 1992-1998 	
+character=Newman	name=Wayne Knight	episodes=43 episodes, 1992-1998 	
+character=Man on Sidewalk	name=Norman Brenner	episodes=7 episodes, 1990-1998 	
+character=Susan Ross	name=Heidi Swedberg	episodes=27 episodes, 1992-1997 	
+character=Estelle Costanza	name=Estelle Harris	episodes=25 episodes, 1992-1998 	
+character=Frank Costanza	name=Jerry Stiller	episodes=24 episodes, 1993-1998 	
+character=Helen Seinfeld	name=Liz Sheridan	episodes=20 episodes, 1990-1998 	
+character=J. Peterman	name=Hurley	episodes=20 episodes, 1995-1998 	
+character=J. Peterman	name=John O	episodes=20 episodes, 1995-1998 	
+character=Morty Seinfeld	name=Barney Martin	episodes=19 episodes, 1991-1998 	
+character=Uncle Leo	name=Len Lesser	episodes=14 episodes, 1991-1998 	
+character=Angry Man	name=Deck McKenzie	episodes=7 episodes, 1991-1997 	
+character=Wilhelm	name=Richard Herd	episodes=11 episodes, 1995-1998 	
+character=Office Worker	name=Peggy Lane	episodes=5 episodes, 1992-1996 	
+character=Lippman	name=Richard Fancy	episodes=10 episodes, 1991-1998 	
+character=David Puddy	name=Patrick Warburton	episodes=10 episodes, 1995-1998 	
+character=Waitress	name=Lauren Bowles	episodes=7 episodes, 1991-1998 	
+character=Justin Pitt	name=Ian Abercrombie	episodes=7 episodes, 1994-1998 	
+character=Beck	name=David Blackwood	episodes=7 episodes, 1990-1994 	
+character=Mickey Abbott	name=Danny Woodburn	episodes=6 episodes, 1994-1998 	
+character=Dugan	name=Joe Urla	episodes=6 episodes, 1996-1998 	
+character=Kenny Bania	name=Steve Hytner	episodes=6 episodes, 1994-1998 	
+character=Manager	name=Lawrence A. Mandley	episodes=5 episodes, 1993-1996 	
+character=Russell Dalrymple	name=Bob Balaban	episodes=5 episodes, 1992-1993 	
+character=Tim Whatley	name=Bryan Cranston	episodes=5 episodes, 1994-1997 	
+character=Crazy	name=Peter Crombie	episodes=5 episodes, 1992-1993 	
+character=Joe Davola	name=Peter Crombie	episodes=5 episodes, 1992-1993 	
+character=Henry Ross	name=Warren Frost	episodes=5 episodes, 1992-1998 	
+character=Jackie Chiles	name=Phil Morris	episodes=5 episodes, 1995-1998 	
+character=Jay Crespi	name=Peter Blood	episodes=5 episodes, 1992-1998 	
+character=Stu Chermack	name=Kevin Page	episodes=5 episodes, 1992-1998 	
+character=Mrs. Ross	name=Grace Zabriskie	episodes=5 episodes, 1992-1998 	
+character=Customer	name=David Richardson	episodes=2 episodes, 1993-1997 	
+character=Kruger	name=Daniel von Bargen	episodes=4 episodes, 1997-1998 	
+character=Jake Jarmel	name=Marty Rackham	episodes=4 episodes, 1992-1995 	
+character=Sue Ellen Mischke	name=Brenda Strong	episodes=4 episodes, 1996-1997 	
+character=Carol	name=Lisa Mende	episodes=4 episodes, 1992-1997 	
+character=Morgan	name=Tom Wright	episodes=4 episodes, 1994-1995 	
+character=Jack Klompus	name=Sandy Baron	episodes=4 episodes, 1991-1997 	
+character=Dr. Reston	name=Stephen McHattie	episodes=4 episodes, 1992 	
+character=Walter	name=Wayne Wilderson	episodes=4 episodes, 1997-1998 	
+character=Joanne	name=Lisa Pescia	episodes=4 episodes, 1993-1994 	
+character=Doris	name=Annie Korzen	episodes=4 episodes, 1991-1996 	
+character=Receptionist	name=Julie Claire	episodes=4 episodes, 1992-1996 	
+character=Dr. Wexler	name=Victor Raider-Wexler	episodes=4 episodes, 1993-1998 	
+character=Poppie	name=Reni Santoni	episodes=4 episodes, 1994-1998 	
+character=Ping	name=Ping Wu	episodes=3 episodes, 1991-1993 	
+character=Marla Penny	name=Jane Leeves	episodes=3 episodes, 1992-1998 	
+character=Tommy	name=Steve Skrovan	episodes=2 episodes, 1992-1993 	
+character=Woman	name=Judy Kerr	episodes=1 episode, 1995-1997 	
+character=Dave Mandel	name=David Mandel	episodes=1 episode, 1995-1997 	
+character=Wyck Thayer	name=Bruce Davison	episodes=3 episodes, 1996-1997 	
+character=Tina	name=Siobhan Fallon Hogan	episodes=3 episodes, 1991-1994 	
+character=Dana Foley	name=Gina Hecht	episodes=3 episodes, 1992-1993 	
+character=Nana	name=Billye Ree Wallace	episodes=3 episodes, 1994-1995 	
+character=Deena Lazzari	name=Mary Jo Keenen	episodes=3 episodes, 1995-1996 	
+character=Cedric	name=John Paragon	episodes=3 episodes, 1995-1998 	
+character=Bob	name=Yul Vazquez	episodes=3 episodes, 1995-1998 	
+character=Renee	name=Veralyn Jones	episodes=3 episodes, 1993 	
+character=Babu Bhatt	name=Brian George	episodes=3 episodes, 1991-1998 	
+character=Michael	name=Hiram Kasten	episodes=3 episodes, 1993-1994 	
+character=Rachel Goldstein	name=Melanie Smith	episodes=3 episodes, 1994 	
+character=Guard	name=David Dunard	episodes=3 episodes, 1991-1998 	
+character=Mabel Choate	name=Frances Bay	episodes=3 episodes, 1996-1998 	
+character=Malcolm	name=Tucker Smallwood	episodes=3 episodes, 1991-1997 	
+character=Alice	name=Nancy Balbirer	episodes=3 episodes, 1994-1997 	
+character=Cabbie	name=Bob Shaw	episodes=3 episodes, 1993-1995 	
+character=Rabbi Glickman	name=Bruce Mahler	episodes=3 episodes, 1995-1998 	
+character=Tia Van Camp	name=Jennifer Campbell	episodes=2 episodes, 1992-1993 	
+character=Allison	name=Kari Coleman	episodes=2 episodes, 1993 	
+character=Bobby	name=Thomas Dekker	episodes=2 episodes, 1994-1998 	
+character=Mel Sanger	name=Brian Doyle-Murray	episodes=2 episodes, 1992-1998 	
+character=Sidra Holland	name=Teri Hatcher	episodes=2 episodes, 1993-1998 	
+character=Event Guard	name=Jeffrey Kurt Miller	episodes=2 episodes, 1995-1997 	
+character=Donald Sanger	name=Jon Hayman	episodes=2 episodes, 1992-1998 	
+character=Cab Driver	name=Steve Koren	episodes=1 episode, 1997-1998 	
+character=Vanessa	name=Lynn Clark	episodes=2 episodes, 1990 	
+character=Lt. Martel	name=Peter Murnik	episodes=2 episodes, 1992 	
+character=Karen	name=Lisa Edelstein	episodes=2 episodes, 1993 	
+character=Jeannie Steinman	name=Janeane Garofalo	episodes=2 episodes, 1996 	
+character=Waitress	name=Anita Wise	episodes=2 episodes, 1990 	
+character=Kelly	name=Tracy Kolis	episodes=2 episodes, 1991-1994 	
+character=Leslie	name=Christine Dunford	episodes=2 episodes, 1991-1994 	
+character=Audrey	name=Suzanne Snyder	episodes=2 episodes, 1992-1994 	
+character=Sid	name=Jay Brooks	episodes=2 episodes, 1991-1992 	
+character=Mike Moffitt	name=Lee Arenberg	episodes=2 episodes, 1992-1997 	
+character=Rita Kirson	name=Anne Twomey	episodes=2 episodes, 1992-1993 	
+character=Helene	name=Elmarie Wendel	episodes=2 episodes, 1992 	
+character=Kevin	name=Tim DeKay	episodes=2 episodes, 1996 	
+character=Ava	name=Teri Austin	episodes=2 episodes, 1991 	
+character=Jocelyn Landis	name=Gail Strickland	episodes=2 episodes, 1994-1995 	
+character=Ada	name=Vicki Lewis	episodes=2 episodes, 1994 	
+character=Noreen	name=Kelly Coffield Park	episodes=2 episodes, 1994 	
+character=Lamar	name=Mario Joyner	episodes=2 episodes, 1995-1998 	
+character=Thomassoulo	name=Gordon Jump	episodes=2 episodes, 1997 	
+character=Joe Temple	name=Robert Hooks	episodes=2 episodes, 1994-1995 	
+character=Lloyd Braun	name=Matt McCoy	episodes=2 episodes, 1995-1997 	
+character=Katie	name=Debra Jo Rupp	episodes=2 episodes, 1995-1996 	
+character=Bob Cobb	name=Mark Metcalf	episodes=2 episodes, 1995-1996 	
+character=Sally Weaver	name=Kathy Griffin	episodes=2 episodes, 1996-1998 	
+character=Beth Lukner	name=Debra Messing	episodes=2 episodes, 1996-1997 	
+character=Jenna	name=Kristin Davis	episodes=2 episodes, 1997 	
+character=Maryedith	name=Maryedith Burrell	episodes=2 episodes, 1992-1993 	
+character=Hippie 	name=Ricky Dean Logan	episodes=2 episodes, 1992 	
+character=Dolores	name=Susan Walters	episodes=2 episodes, 1993-1996 	
+character=Peggy	name=Megan Cole	episodes=2 episodes, 1997 	
+character=Hippie 	name=Maud Winchester	episodes=2 episodes, 1990-1992 	
+character=Hostess	name=Jessica Lundy	episodes=2 episodes, 1992 	
+character=Lt. Coleman	name=Vaughn Armstrong	episodes=2 episodes, 1992 	
+character=Vet	name=Rick Hall	episodes=2 episodes, 1996-1997 	
+character=Izzy Mandelbaum	name=Lloyd Bridges	episodes=2 episodes, 1997 	
+character=FBI Man	name=George C. Simms	episodes=2 episodes, 1990-1991 	
+character=Roberta	name=Kate Benton	episodes=2 episodes, 1991-1992 	
+character=Lindsay	name=Jessica Hecht	episodes=2 episodes, 1994 	
+character=Danny Tartabull	name=Danny Tartabull	episodes=2 episodes, 1994 	
+character=Homeless Man	name=Jon Gries	episodes=2 episodes, 1995-1998 	
+character=Evelyn	name=Ann Morgan Guilbert	episodes=2 episodes, 1991-1996 	
+character=Phone Guy	name=Michael Mitz	episodes=2 episodes, 1991-1993 	
+character=Mother	name=Denise Dowse	episodes=2 episodes, 1992-1994 	
+character=Sid Farkus	name=Patrick Cronin	episodes=2 episodes, 1993-1995 	
+character=Ricky	name=Sam Lloyd	episodes=2 episodes, 1993-1994 	
+character=Jiffy Dump Guy	name=Chaim Jeraffi	episodes=2 episodes, 1996-1997 	
+character=Blind Man	name=Rance Howard	episodes=2 episodes, 1993-1996 	
+character=Newsstand Boy	name=Fred Pinkard	episodes=2 episodes, 1994-1996 	
+character=Earl	name=Neal Compton	episodes=2 episodes, 1995-1997 	
+character=Earl	name=O	episodes=2 episodes, 1995-1997 	
+character=Father Curtis	name=Henry Woronicz	episodes=2 episodes, 1997-1998 	
+character=Cop	name=Frank Piazza	episodes=2 episodes, 1990-1991 	
+character=Party Guest	name=Kate Mulligan	episodes=2 episodes, 1991-1995 	
+character=Bomb Squad Guy	name=Mik Scriba	episodes=2 episodes, 1992-1997 	
+character=Kramer	name=C.K. Steefel	episodes=2 episodes, 1992-1993 	
+character=Girlfriend	name=C.K. Steefel	episodes=2 episodes, 1992-1993 	
+character=Ellen	name=Christa Miller	episodes=2 episodes, 1993-1995 	
+character=Robin	name=Melanie Chartoff	episodes=2 episodes, 1994-1998 	
+character=Mailman	name=Benjamin Lum	episodes=2 episodes, 1990-1993 	
+character=The Waitress	name=Heather James	episodes=2 episodes, 1991-1992 	
+character=Newscaster	name=Keith Morrison	episodes=2 episodes, 1992 	
+character=Counter Woman	name=Kathryn Kates	episodes=2 episodes, 1994-1996 	
+character=Joan	name=Mary Scheer	episodes=2 episodes, 1995-1998 	
+character=Pop	name=Sandy Ward	episodes=2 episodes, 1995-1996 	
+character=Gail	name=Monica Allison	episodes=2 episodes, 1996-1998 	
+character=Joey	name=Todd Bosley	episodes=2 episodes, 1996 	
+character=Mrs. Zanfino	name=Diana Castle	episodes=2 episodes, 1996 	
+character=Izzy Mandelbaum Jr.	name=Gene Dynarski	episodes=2 episodes, 1997 	
+character=Matthew	name=John Christian Graas	episodes=2 episodes, 1992-1993 	
+character=Pharmacist	name=David Byrd	episodes=2 episodes, 1995-1998 	
+character=Manager	name=Thom Barry	episodes=2 episodes, 1995 	
+character=Mr. Clotworthy	name=Clive Rosengren	episodes=2 episodes, 1995 	
+character=Rebecca DeMornay	name=Sonya Eddy	episodes=2 episodes, 1997-1998 	
+character=Co-worker	name=Tony Carlin	episodes=2 episodes, 1992-1998 	
+character=Cop 	name=Stan Sellers	episodes=2 episodes, 1992-1997 	
+character=Jesse	name=Michael McDonald	episodes=2 episodes, 1995-1996 	
+character=Exterminator	name=Ellis Williams	episodes=2 episodes, 1995 	
+character=Fireman	name=Anthony Mangano	episodes=2 episodes, 1993-1998 	
+character=Doctor	name=Bruce Jarchow	episodes=2 episodes, 1993-1997 	
+character=Remy Temple	name=Diana Theodore	episodes=2 episodes, 1994-1995 	
+character=Todd	name=Jane A. Johnston	episodes=2 episodes, 1996-1997 	
+character=Mother	name=Jane A. Johnston	episodes=2 episodes, 1996-1997 	
+character=Server	name=Heather Morgan	episodes=2 episodes, 1994-1998 	
+character=Crowd Member	name=Lawrence LeJohn	episodes=2 episodes, 1994-1995 	
+character=Gail	name=Jill Talley	episodes=2 episodes, 1996-1997 	
+character=Old Woman	name=Montrose Hagins	episodes=2 episodes, 1993-1997 	
+character=Clerk	name=Sue Goodman	episodes=2 episodes, 1996-1997 	
+character=Foreign Guy	name=Reuven Bar-Yotam	episodes=2 episodes, 1997-1998 	
+character=Alison	name=Bonnie McNeil	episodes=2 episodes, 1996-1998 	
+character=Lisa	name=Jill Holden	episodes=2 episodes, 1996-1997 	
+character=Sid Luckman	name=Edgar Small	episodes=2 episodes, 1997-1998 	
+character=Other Walter	name=Mark Daniel Cade	episodes=2 episodes, 1998 	
+character=Lt. Joe Bookman	name=Philip Baker Hall	episodes=2 episodes, 1991-1998 	
+character=Homeless Man	name=Ron Ross	episodes=2 episodes, 1992-1993 	
+character=Waitress	name=Susan Segal	episodes=2 episodes, 1994 	
+character=Paramedic	name=Jeff Barton	episodes=2 episodes, 1991-1994 	
+character=Bouncer	name=Jason Beck	episodes=2 episodes, 1995-1996 	
+character=Keith Hernandez	name=Keith Hernandez	episodes=2 episodes, 1992-1998 	
+character=Man in Other Bed	name=Pat Hazell	episodes=2 episodes, 1991-1993 	
+character=Lola	name=Donna Evans	episodes=2 episodes, 1993-1998 	
+character=Cop	name=Marvin Braverman	episodes=2 episodes, 1993-1994 	
+character=Pool Guy	name=Carlos Jacott	episodes=2 episodes, 1995-1998 	
+character=Arnold Deensfrei	name=Robert Katims	episodes=2 episodes, 1995-1998 	
+character=Leslie	name=Wendel Meldrum	episodes=2 episodes, 1993-1998 	
+character=Babs Kramer	name=Sheree North	episodes=2 episodes, 1995-1998 	
+character=Marcelino	name=Miguel Sandoval	episodes=2 episodes, 1997-1998 	
+character=Yev Kassem	name=Larry Thomas	episodes=2 episodes, 1995-1998 	
+character=Robin	name=Ann Talman	episodes=1 episode, 1992 	
+character=Sidney Fields	name=Bill Erwin	episodes=1 episode, 1993 	
+character=Cheryl	name=Maggie Han	episodes=1 episode, 1993 	
+character=Franklin Delano Romanowski	name=Michael McShane	episodes=1 episode, 1997-1998 	
+character=Glenda	name=Patrika Darbo	episodes=1 episode, 1991-1993 	
+character=Mrs. Sanger	name=Carol Mansell	episodes=1 episode, 1992-1993 	
+character=The Drake	name=Rick Overton	episodes=1 episode, 1993 	
+character=Calvin Klein	name=Nicholas Hormann	episodes=1 episode, 1992-1993 	
+character=Rushdie	name=Tony Amendola	episodes=1 episode, 1993 	
+character=Housekeeper	name=Lanei Chapman	episodes=1 episode, 1993 	
+character=First Man in Hockey Audience	name=Fred Stoller	episodes=1 episode, 1995 	
+character=Allison	name=Elizabeth Dennehy	episodes=1 episode, 1993 	
+character=Glenn	name=Brian J. Williams	episodes=1 episode, 1997 	
+character=Judy	name=Coby Turner	episodes=1 episode, 1995 	
+character=Driver	name=Bill Masters	episodes=1 episode, 1992-1993 	
+character=Ellis	name=Marc Hirschfeld	episodes=1 episode, 1993-1998 	
+character=Cop 	name=Ed O	episodes=1 episode, 1995-1998 	
+character=Cop 	name=Ross	episodes=1 episode, 1995-1998 	
+character=Comedy Club Waiter	name=Tory Christopher	episodes=1 episode, 1993 	
+character=Claire	name=Lee Garlington	episodes=1 episode, 1989 	
+character=Laura	name=Pamela Brull	episodes=1 episode, 1989 	
+character=Joel Horneck	name=Kevin Dunn	episodes=1 episode, 1990 	
+character=Steve Pocatello	name=Michael Chiklis	episodes=1 episode, 1991 	
+character=Bruce	name=James Hong	episodes=1 episode, 1991 	
+character=Patrice	name=Valerie Mahaffey	episodes=1 episode, 1991 	
+character=Audrey	name=Susan Diol	episodes=1 episode, 1991 	
+character=Manny	name=Tony Plana	episodes=1 episode, 1991 	
+character=Tor Eckman	name=Stephen Tobolowsky	episodes=1 episode, 1991 	
+character=Dick	name=David Naughton	episodes=1 episode, 1991 	
+character=Alton Benes	name=Lawrence Tierney	episodes=1 episode, 1991 	
+character=Gavin Pollone	name=Joseph Maher	episodes=1 episode, 1991 	
+character=Rick Levitan	name=Fred Applegate	episodes=1 episode, 1991 	
+character=Antonio	name=David Labiosa	episodes=1 episode, 1991 	
+character=Repairman	name=John Apicella	episodes=1 episode, 1991 	
+character=Ray	name=Michael D. Conway	episodes=1 episode, 1991 	
+character=Roy	name=Ralph Bruneau	episodes=1 episode, 1991 	
+character=Carol	name=Tory Polone	episodes=1 episode, 1991 	
+character=Angela	name=Melinda McGraw	episodes=1 episode, 1992 	
+character=Tim	name=Peter Krause	episodes=1 episode, 1992 	
+character=Cynthia	name=Maggie Wheeler	episodes=1 episode, 1992 	
+character=Naked Man	name=Ernie Sabella	episodes=1 episode, 1992 	
+character=Gina	name=Gina Gallego	episodes=1 episode, 1992 	
+character=Noel	name=Elizabeth Morehead	episodes=1 episode, 1992 	
+character=Mohel	name=Charles Levin	episodes=1 episode, 1993 	
+character=Dwayne	name=Timothy Stack	episodes=1 episode, 1993 	
+character=Pat Buckles	name=Barry Diamond	episodes=1 episode, 1993 	
+character=Meryl	name=Courteney Cox	episodes=1 episode, 1994 	
+character=Jane	name=Jami Gertz	episodes=1 episode, 1994 	
+character=Jon Voight	name=Jon Voight	episodes=1 episode, 1994 	
+character=Ned Isakoff	name=Todd Kimsey	episodes=1 episode, 1994 	
+character=Bette Midler	name=Bette Midler	episodes=1 episode, 1995 	
+character=Jimmy	name=Anthony Starke	episodes=1 episode, 1995 	
+character=Robert	name=Robert Mailhouse	episodes=1 episode, 1995 	
+character=Marisa Tomei	name=Marisa Tomei	episodes=1 episode, 1996 	
+character=David Lukner	name=Cary Elwes	episodes=1 episode, 1996 	
+character=Bob	name=Rob Schneider	episodes=1 episode, 1996 	
+character=Brett	name=James Patrick Stuart	episodes=1 episode, 1996 	
+character=Jason Hanky	name=James Spader	episodes=1 episode, 1997 	
+character=Raquel Welch	name=Raquel Welch	episodes=1 episode, 1997 	
+character=Mrs. Abbott	name=Jill St. John	episodes=1 episode, 1997 	
+character=Dr. Sara Sitarides	name=Marcia Cross	episodes=1 episode, 1997 	
+character=Milos	name=Mark Harelik	episodes=1 episode, 1997 	
+character=Conrad	name=Stephen Lee	episodes=1 episode, 1997 	
+character=Loretta	name=Illeana Douglas	episodes=1 episode, 1998 	
+character=Morty Seinfeld	name=Philip Bruns	episodes=1 episode, 1990 	
+character=Dry Cleaner	name=Ted Davis	episodes=1 episode, 1990 	
+character=Larry	name=James F. Dean	episodes=1 episode, 1990 	
+character=Dr. Fein	name=John Posey	episodes=1 episode, 1991 	
+character=Michele	name=Cynthia Ettinger	episodes=1 episode, 1991 	
+character=Harold	name=Glenn Shadix	episodes=1 episode, 1991 	
+character=Landlord	name=Roy Brocksmith	episodes=1 episode, 1991 	
+character=Marion	name=Ashley Gardner	episodes=1 episode, 1991 	
+character=Vic	name=John Capodice	episodes=1 episode, 1991 	
+character=Donna	name=Gretchen German	episodes=1 episode, 1991 	
+character=Rava	name=Nurit Koppel	episodes=1 episode, 1991 	
+character=Tabachnik	name=Vic Polizos	episodes=1 episode, 1991 	
+character=Julianna	name=Terri Hanauer	episodes=1 episode, 1991 	
+character=Eddie	name=Doug Ballard	episodes=1 episode, 1991 	
+character=Rental Car Agent	name=Janet Zarish	episodes=1 episode, 1991 	
+character=Mr. Cohen	name=David Tress	episodes=1 episode, 1991 	
+character=Salesman	name=Frantz Turner	episodes=1 episode, 1991 	
+character=Monica	name=Dawn Arnemann	episodes=1 episode, 1991 	
+character=Attendant 	name=Marvin Wright-Bey	episodes=1 episode, 1991 	
+character=Receptionist	name=Karen Barcus	episodes=1 episode, 1991 	
+character=Nina West	name=Catherine Keener	episodes=1 episode, 1992 	
+character=Scam Woman	name=Barbara Stock	episodes=1 episode, 1992 	
+character=Rula	name=Mimi Lieber	episodes=1 episode, 1992 	
+character=Mrs. Sokol	name=Rae Allen	episodes=1 episode, 1992 	
+character=Prisoner	name=Scott Burkholder	episodes=1 episode, 1992 	
+character=Jerry	name=Nina Tremblay	episodes=1 episode, 1992 	
+character=Girlfriend	name=Nina Tremblay	episodes=1 episode, 1992 	
+character=John	name=Fred Sanders	episodes=1 episode, 1992 	
+character=Jodi	name=Jennifer Coolidge	episodes=1 episode, 1993 	
+character=Amy	name=Anna Gunn	episodes=1 episode, 1993 	
+character=Betsy	name=Megan Mullally	episodes=1 episode, 1993 	
+character=Restaurateur	name=Michael Des Barres	episodes=1 episode, 1993 	
+character=Mrs. Sweedler	name=Debra Mooney	episodes=1 episode, 1993 	
+character=Frank Costanza	name=John Randolph	episodes=1 episode, 1993 	
+character=Roy	name=Sherman Howard	episodes=1 episode, 1993 	
+character=Driver	name=Christopher Darga	episodes=1 episode, 1993 	
+character=Enzo	name=Antony Ponzini	episodes=1 episode, 1993 	
+character=Usher	name=Perry Anzilotti	episodes=1 episode, 1993 	
+character=Joe	name=Leonard Termo	episodes=1 episode, 1993 	
+character=Corinne	name=Carol Kane	episodes=1 episode, 1994 	
+character=Julie	name=Michelle Forbes	episodes=1 episode, 1994 	
+character=Carl	name=David James Elliott	episodes=1 episode, 1994 	
+character=Mrs. Enright	name=Lois Nettleton	episodes=1 episode, 1994 	
+character=Tony	name=Dan Cortese	episodes=1 episode, 1994 	
+character=Toby	name=Veanne Cox	episodes=1 episode, 1994 	
+character=Phil Totola	name=Mark Tymchyshyn	episodes=1 episode, 1994 	
+character=Clerk	name=Frank Novak	episodes=1 episode, 1994 	
+character=Cathy Tierny	name=Katherine LaNasa	episodes=1 episode, 1995 	
+character=Siena	name=Katy Selverstone	episodes=1 episode, 1995 	
+character=Jean-Paul	name=Jeremiah Birkett	episodes=1 episode, 1995 	
+character=Lena	name=Jennifer Guthrie	episodes=1 episode, 1995 	
+character=Gillian	name=Kristin Bauer van Straten	episodes=1 episode, 1996 	
+character=Wig Master	name=Patrick Bristow	episodes=1 episode, 1996 	
+character=Todd Gack	name=John D	episodes=1 episode, 1996 	
+character=Todd Gack	name=Aquino	episodes=1 episode, 1996 	
+character=Brody	name=Neil Giuntoli	episodes=1 episode, 1996 	
+character=Dr. Abbott	name=Robert Wagner	episodes=1 episode, 1997 	
+character=Shellbach	name=Ben Stein	episodes=1 episode, 1997 	
+character=Hal Kitzmiller	name=Vince Grant	episodes=1 episode, 1997 	
+character=Cindy	name=Angela Featherstone	episodes=1 episode, 1998 	
+character=Lisi	name=Julia Campbell	episodes=1 episode, 1998 	
+character=Cabbie	name=Dayton Callie	episodes=1 episode, 1998 	
+character=Maura	name=Alex Kapp	episodes=1 episode, 1998 	
+character=Rick	name=Daniel Hagen	episodes=1 episode, 1998 	
+character=Diane	name=Kimberley Kates	episodes=1 episode, 1990 	
+character=Waitress	name=Jill C. Klein	episodes=1 episode, 1990 	
+character=Isabel	name=Tawny Kitaen	episodes=1 episode, 1991 	
+character=Attendant	name=John Fleck	episodes=1 episode, 1991 	
+character=Lorraine	name=Judy Kain	episodes=1 episode, 1991 	
+character=Raymond	name=Jeff Lester	episodes=1 episode, 1991 	
+character=Roxanne	name=Jeanine Jackson	episodes=1 episode, 1991 	
+character=Customer	name=Suanne Spoke	episodes=1 episode, 1991 	
+character=Manager	name=John Del Regno	episodes=1 episode, 1991 	
+character=Assistant	name=James Lashly	episodes=1 episode, 1991 	
+character=Mr. Lippman	name=Harris Shore	episodes=1 episode, 1991 	
+character=Evie	name=Bridget Sienna	episodes=1 episode, 1991 	
+character=Owen March	name=Edward Penn	episodes=1 episode, 1991 	
+character=Manya	name=Rozsika Halmos	episodes=1 episode, 1991 	
+character=Patti	name=Bobbi Jo Lathan	episodes=1 episode, 1991 	
+character=Attendant 	name=Kelly Wellman	episodes=1 episode, 1991 	
+character=Man in Corvette	name=Gregory T. Daniel	episodes=1 episode, 1991 	
+character=Biker	name=Eric Allan Kramer	episodes=1 episode, 1992 	
+character=Attendant 	name=Jim J. Bullock	episodes=1 episode, 1992 	
+character=Woman With Elaine	name=Rhoda Gemignani	episodes=1 episode, 1992 	
+character=Chaffeur	name=Jeremy Roberts	episodes=1 episode, 1992 	
+character=Leonard West	name=Richard Venture	episodes=1 episode, 1992 	
+character=Chelsea	name=Debi A. Monahan	episodes=1 episode, 1992 	
+character=Joyce	name=Ilana Levine	episodes=1 episode, 1992 	
+character=Michael	name=Joseph Malone	episodes=1 episode, 1992 	
+character=D	name=Bill Applebaum	episodes=1 episode, 1992 	
+character=Giff	name=Bill Applebaum	episodes=1 episode, 1992 	
+character=Mr. Reichman	name=Ross Evans	episodes=1 episode, 1992 	
+character=Ron	name=Tobin Bell	episodes=1 episode, 1993 	
+character=Gail Cunningham	name=Anita Barone	episodes=1 episode, 1993 	
+character=Carl	name=Nick Bakay	episodes=1 episode, 1993 	
+character=Ray	name=Richard Portnow	episodes=1 episode, 1993 	
+character=Tough Guy	name=Tom Towles	episodes=1 episode, 1993 	
+character=Gwen	name=Linda Kash	episodes=1 episode, 1993 	
+character=Older Priest	name=Kay E. Kuter	episodes=1 episode, 1993 	
+character=Joel Rifkin	name=Anthony Cistaro	episodes=1 episode, 1993 	
+character=Gino	name=David Ciminello	episodes=1 episode, 1993 	
+character=Stan	name=Tom Alan Robbins	episodes=1 episode, 1993 	
+character=Ticket Clerk 	name=Carol Rosenthal	episodes=1 episode, 1993 	
+character=Kernis	name=Tom La Grua	episodes=1 episode, 1993 	
+character=Jane	name=Melora Walters	episodes=1 episode, 1994 	
+character=Lois	name=Renee Props	episodes=1 episode, 1994 	
+character=Katya	name=Elina Löwensohn	episodes=1 episode, 1994 	
+character=Karen	name=Marguerite MacIntyre	episodes=1 episode, 1994 	
+character=Stationer	name=Jerry Levine	episodes=1 episode, 1994 	
+character=David	name=Mark Holton	episodes=1 episode, 1994 	
+character=Simon	name=Daniel Gerroll	episodes=1 episode, 1994 	
+character=Mom	name=Elsa Raven	episodes=1 episode, 1994 	
+character=Ronnie Kaye	name=Dom Irrera	episodes=1 episode, 1994 	
+character=Daphne	name=Karla Tamburrelli	episodes=1 episode, 1994 	
+character=Willie	name=Joseph R. Sicari	episodes=1 episode, 1994 	
+character=Billy	name=Scott Patterson	episodes=1 episode, 1995 	
+character=Sheila	name=Alexandra Wentworth	episodes=1 episode, 1995 	
+character=Bonnie	name=Jessica Tuck	episodes=1 episode, 1995 	
+character=Holly	name=Stacey Travis	episodes=1 episode, 1995 	
+character=Clayton	name=Leon Russom	episodes=1 episode, 1995 	
+character=Haarwood	name=Eric Christmas	episodes=1 episode, 1995 	
+character=Alec Berg	name=Mark DeCarlo	episodes=1 episode, 1995 	
+character=Usher	name=Kelly Perine	episodes=1 episode, 1995 	
+character=Ruby	name=June Kyoto Lu	episodes=1 episode, 1995 	
+character=Captain	name=Wayne Tippit	episodes=1 episode, 1995 	
+character=Mr. Lager	name=Stephen Root	episodes=1 episode, 1996 	
+character=Mr. Oh	name=Gedde Watanabe	episodes=1 episode, 1996 	
+character=Anna	name=Rebecca McFarland	episodes=1 episode, 1996 	
+character=Ken	name=Ken Hudson Campbell	episodes=1 episode, 1996 	
+character=Craig	name=Harry Van Gorkum	episodes=1 episode, 1996 	
+character=Bizarro Kramer	name=Pat Kilbane	episodes=1 episode, 1996 	
+character=Dr. Berg	name=Richard Roat	episodes=1 episode, 1996 	
+character=Seth	name=Mark Roberts	episodes=1 episode, 1996 	
+character=Mario	name=Peter Allas	episodes=1 episode, 1996 	
+character=Valerie	name=Lauren Graham	episodes=1 episode, 1997 	
+character=Sam	name=Molly Shannon	episodes=1 episode, 1997 	
+character=Patty	name=Lori Loughlin	episodes=1 episode, 1997 	
+character=Kurt	name=John Michael Higgins	episodes=1 episode, 1997 	
+character=Arthur Milano	name=Larry B. Scott	episodes=1 episode, 1997 	
+character=Ralph	name=Jack McGee	episodes=1 episode, 1997 	
+character=Allison	name=Shannon Kenny	episodes=1 episode, 1997 	
+character=Reilly	name=Joel Polis	episodes=1 episode, 1997 	
+character=Claire	name=Sarah Peterson	episodes=1 episode, 1997 	
+character=Slippery Pete	name=Peter Stormare	episodes=1 episode, 1998 	
+character=Mr. Canterman	name=James Karen	episodes=1 episode, 1998 	
+character=Silvio	name=Jon Polito	episodes=1 episode, 1998 	
+character=Phil	name=Louis Mustillo	episodes=1 episode, 1998 	
+character=Don	name=Joel McCrary	episodes=1 episode, 1998 	
+character=Maxwell	name=Anthony Crivello	episodes=1 episode, 1998 	
+character=Cop	name=Bradford English	episodes=1 episode, 1990 	
+character=Teller	name=Kimberley LaMarque	episodes=1 episode, 1990 	
+character=Newsstand Owner	name=Joseph V. Perry	episodes=1 episode, 1991 	
+character=Mary	name=Margaret Reed	episodes=1 episode, 1991 	
+character=Rita	name=Leslie Neale	episodes=1 episode, 1991 	
+character=Sherry Becker	name=Cynthia Szigeti	episodes=1 episode, 1991 	
+character=Receptionist	name=Flo Di Re	episodes=1 episode, 1991 	
+character=Cashier	name=Gwendolyn Shepherd	episodes=1 episode, 1991 	
+character=Driver	name=Jimmy Woodard	episodes=1 episode, 1991 	
+character=The Mother	name=Carlyle King	episodes=1 episode, 1991 	
+character=Manager	name=Harry Hart-Browne	episodes=1 episode, 1991 	
+character=Saleswoman	name=Rachel Davies	episodes=1 episode, 1991 	
+character=Carrie	name=Carol Ann Susi	episodes=1 episode, 1992 	
+character=OTB Patron	name=Mark Boone Junior	episodes=1 episode, 1992 	
+character=Mr. Armstrong	name=Elliott Reid	episodes=1 episode, 1992 	
+character=Grossbard	name=Allan Wasserman	episodes=1 episode, 1992 	
+character=Officer 	name=Peter Parros	episodes=1 episode, 1992 	
+character=Shelly	name=Rachel Sweet	episodes=1 episode, 1992 	
+character=Sandra	name=Lisa Malkiewicz	episodes=1 episode, 1992 	
+character=Martin	name=C.E. Grimes	episodes=1 episode, 1992 	
+character=Polar Bear	name=Allen Bloomfield	episodes=1 episode, 1992 	
+character=Jodi Baskerville	name=Jodi Baskerville	episodes=1 episode, 1992 	
+character=Mrs. Reichman	name=Harriett S. Miller	episodes=1 episode, 1992 	
+character=Sister Roberta	name=Molly Hagan	episodes=1 episode, 1993 	
+character=Sharon	name=Paula Marshall	episodes=1 episode, 1993 	
+character=Winona	name=Kimberly Guerrero	episodes=1 episode, 1993 	
+character=Barry	name=John Kapelos	episodes=1 episode, 1993 	
+character=Waiter	name=Michael Ornstein	episodes=1 episode, 1993 	
+character=Mr. Pensky	name=Michael Fairman	episodes=1 episode, 1993 	
+character=Client	name=David Brisbin	episodes=1 episode, 1993 	
+character=Ticket Man	name=John Bishop	episodes=1 episode, 1993 	
+character=Myra	name=Jeannie Elias	episodes=1 episode, 1993 	
+character=Ben Cantwell	name=Robert Donley	episodes=1 episode, 1993 	
+character=Todd	name=Jerry Sroka	episodes=1 episode, 1993 	
+character=Maurice	name=Eric Poppick	episodes=1 episode, 1993 	
+character=Babu	name=John Hamelin	episodes=1 episode, 1993 	
+character=Brother	name=John Hamelin	episodes=1 episode, 1993 	
+character=Dr. Allenwood	name=Donald Bishop	episodes=1 episode, 1993 	
+character=Eric the Clown	name=Jon Favreau	episodes=1 episode, 1994 	
+character=Ben	name=Richard Burgi	episodes=1 episode, 1994 	
+character=Duncan Meyer	name=Don McManus	episodes=1 episode, 1994 	
+character=Testikov	name=George Murdock	episodes=1 episode, 1994 	
+character=Tammy	name=Debbie Lee Carrington	episodes=1 episode, 1994 	
+character=Margaret	name=Marita Geraghty	episodes=1 episode, 1994 	
+character=MacKenzie	name=Lane Davies	episodes=1 episode, 1994 	
+character=Donna Chang	name=Angela Dohrmann	episodes=1 episode, 1994 	
+character=Hildy	name=Linda Wallem	episodes=1 episode, 1994 	
+character=Greg	name=Scott LaRose	episodes=1 episode, 1994 	
+character=Saleswoman	name=Arminae Azarian	episodes=1 episode, 1994 	
+character=Pop	name=Mike Robelo	episodes=1 episode, 1994 	
+character=Barbara	name=Suzy Soro	episodes=1 episode, 1994 	
+character=Wendy	name=Wendie Malick	episodes=1 episode, 1995 	
+character=Debby	name=Barbara Alyn Woods	episodes=1 episode, 1995 	
+character=Doorman	name=Larry Miller	episodes=1 episode, 1995 	
+character=Nina	name=Charlotte Lewis	episodes=1 episode, 1995 	
+character=Kim	name=Amy Hill	episodes=1 episode, 1995 	
+character=James	name=Brian McNamara	episodes=1 episode, 1995 	
+character=Mr. Stevenson	name=Edward Winter	episodes=1 episode, 1995 	
+character=Leapin	name=Lewis Arquette	episodes=1 episode, 1995 	
+character=Larry	name=Lewis Arquette	episodes=1 episode, 1995 	
+character=Nancy Klopper	name=Marla Sucharetza	episodes=1 episode, 1995 	
+character=Zeke	name=Ernie Lively	episodes=1 episode, 1995 	
+character=Mr. Pless	name=Raye Birk	episodes=1 episode, 1995 	
+character=Security Guard	name=Gary Yates	episodes=1 episode, 1995 	
+character=Scott	name=Cleto Augusto	episodes=1 episode, 1995 	
+character=Man	name=John Rubano	episodes=1 episode, 1995 	
+character=Usher	name=Billy Williams	episodes=1 episode, 1995 	
+character=Ben	name=Bob Odenkirk	episodes=1 episode, 1996 	
+character=Nicki	name=Dylan Tays	episodes=1 episode, 1996 	
+character=Prostitute	name=Gina Mastrogiacomo	episodes=1 episode, 1996 	
+character=Executive 	name=Sab Shimono	episodes=1 episode, 1996 	
+character=Heather	name=Kymberly Kalil	episodes=1 episode, 1996 	
+character=Alan	name=Tom Gallop	episodes=1 episode, 1996 	
+character=Bizarro George	name=Kyle T. Heffner	episodes=1 episode, 1996 	
+character=Carrie	name=Shannon Holt	episodes=1 episode, 1996 	
+character=Dr. Stern	name=Fort Atkinson	episodes=1 episode, 1996 	
+character=Patty	name=Ivana Milicevic	episodes=1 episode, 1997 	
+character=Lanette	name=Amanda Peet	episodes=1 episode, 1997 	
+character=Mary Anne	name=Rena Sofer	episodes=1 episode, 1997 	
+character=Vivian	name=Kellie Waymire	episodes=1 episode, 1997 	
+character=Darin	name=Jarrad Paul	episodes=1 episode, 1997 	
+character=Nina	name=Justine Miceli	episodes=1 episode, 1997 	
+character=Lou	name=Brent Hinkley	episodes=1 episode, 1997 	
+character=Owner	name=George Cheung	episodes=1 episode, 1997 	
+character=Mrs. Hamilton	name=Louan Gideon	episodes=1 episode, 1997 	
+character=Delivery Man	name=Angelo Tiffe	episodes=1 episode, 1997 	
+character=Mr. Parry	name=David Moreland	episodes=1 episode, 1997 	
+character=Janet	name=Tracy Nelson	episodes=1 episode, 1998 	
+character=Charles	name=Markus Flanagan	episodes=1 episode, 1998 	
+character=Sophie	name=Cindy Ambuehl	episodes=1 episode, 1998 	
+character=Joe Mayo	name=Pat Finn	episodes=1 episode, 1998 	
+character=Glenn	name=Nicholas Walker	episodes=1 episode, 1998 	
+character=Mrs. Nyhart	name=Helen Carey	episodes=1 episode, 1998 	
+character=Willie	name=Michael Kagan	episodes=1 episode, 1998 	
+character=Roger	name=William Fair	episodes=1 episode, 1990 	
+character=Janice	name=Theresa Randle	episodes=1 episode, 1991 	
+character=The Kid	name=Adam Wylie	episodes=1 episode, 1991 	
+character=Mr. Heyman	name=Biff Yeager	episodes=1 episode, 1991 	
+character=Isaac	name=David Fresco	episodes=1 episode, 1991 	
+character=Pam	name=Liz Georges	episodes=1 episode, 1991 	
+character=Frank	name=Dwayne Kennedy	episodes=1 episode, 1991 	
+character=Dan	name=Marcus Smythe	episodes=1 episode, 1991 	
+character=Nurse	name=Andrea Parker	episodes=1 episode, 1992 	
+character=Waitress	name=O-Lan Jones	episodes=1 episode, 1992 	
+character=Trucker	name=Sharon Barr	episodes=1 episode, 1992 	
+character=Sheila	name=Shannon Cochran	episodes=1 episode, 1992 	
+character=Thug	name=Christopher Collins	episodes=1 episode, 1992 	
+character=Luis	name=Miguel Pérez	episodes=1 episode, 1992 	
+character=Usher	name=Bill Saluga	episodes=1 episode, 1992 	
+character=Richie	name=Chris Barnes	episodes=1 episode, 1992 	
+character=Businessman	name=I.M. Hobson	episodes=1 episode, 1992 	
+character=Mrs. Armstrong	name=Justine Johnston	episodes=1 episode, 1992 	
+character=Passenger 	name=Lenny Rose	episodes=1 episode, 1992 	
+character=Doctor	name=Howard Schechter	episodes=1 episode, 1992 	
+character=Molly Dalrymple	name=Denise Richards	episodes=1 episode, 1993 	
+character=Laura	name=Marlee Matlin	episodes=1 episode, 1993 	
+character=Michael Barth 	name=Jeremy Piven	episodes=1 episode, 1993 	
+character=George	name=Jeremy Piven	episodes=1 episode, 1993 	
+character=Hairdresser	name=Taylor Negron	episodes=1 episode, 1993 	
+character=Doctor	name=Tom Verica	episodes=1 episode, 1993 	
+character=Volunteer	name=Nancy Lenehan	episodes=1 episode, 1993 	
+character=Lloyd Braun	name=Peter Keleghan	episodes=1 episode, 1993 	
+character=Babu	name=Gerry Bednob	episodes=1 episode, 1993 	
+character=Friend	name=Gerry Bednob	episodes=1 episode, 1993 	
+character=Mr. Tuttle	name=Jack Shearer	episodes=1 episode, 1993 	
+character=Bryant Gumbel	name=Bryant Gumbel	episodes=1 episode, 1993 	
+character=Resident	name=John Gegenhuber	episodes=1 episode, 1993 	
+character=Woman Behind Elaine	name=Cathy Lind Hayes	episodes=1 episode, 1993 	
+character=Clerk	name=Patton Oswalt	episodes=1 episode, 1994 	
+character=Al	name=W. Earl Brown	episodes=1 episode, 1994 	
+character=Michael	name=Mark L. Taylor	episodes=1 episode, 1994 	
+character=Dr. Korval	name=William Utay	episodes=1 episode, 1994 	
+character=Diane	name=Rosalind Allen	episodes=1 episode, 1994 	
+character=Bob	name=Mark Beltzman	episodes=1 episode, 1994 	
+character=Donna	name=Mitzi McCall	episodes=1 episode, 1994 	
+character=Misha	name=Maurice Godin	episodes=1 episode, 1994 	
+character=Dan	name=Brian Reddy	episodes=1 episode, 1994 	
+character=Buck Showalter	name=Buck Showalter	episodes=1 episode, 1994 	
+character=Reporter	name=Barry Nolan	episodes=1 episode, 1994 	
+character=Mel Tormé	name=Mel Tormé	episodes=1 episode, 1995 	
+character=Paul	name=Alec Mapa	episodes=1 episode, 1995 	
+character=Sandi	name=Jann Karam	episodes=1 episode, 1995 	
+character=Gardner	name=Charles Cyphers	episodes=1 episode, 1995 	
+character=Mrs. Stevenson	name=Georgann Johnson	episodes=1 episode, 1995 	
+character=Stubs	name=Ian Patrick Williams	episodes=1 episode, 1995 	
+character=Dr. Howard Cooperman	name=Lou Cutell	episodes=1 episode, 1995 	
+character=Officer Morgan	name=Ivory Ocean	episodes=1 episode, 1995 	
+character=Ukrainian	name=Wayne Grace	episodes=1 episode, 1995 	
+character=Father Hernandez	name=Pierrino Mascarino	episodes=1 episode, 1995 	
+character=Woman	name=Evie Peck	episodes=1 episode, 1995 	
+character=Ciccio	name=Paul Michael	episodes=1 episode, 1995 	
+character=Tony Abado	name=Brad Garrett	episodes=1 episode, 1996 	
+character=Nick	name=Walter Olkewicz	episodes=1 episode, 1996 	
+character=Mrs. Burns	name=Meagen Fay	episodes=1 episode, 1996 	
+character=Pam	name=Kim Myers	episodes=1 episode, 1996 	
+character=Policeman	name=Greg Collins	episodes=1 episode, 1996 	
+character=Ipswich	name=Michael D. Roberts	episodes=1 episode, 1996 	
+character=Amanda	name=Justina Vail	episodes=1 episode, 1996 	
+character=Policeman	name=Allan Havey	episodes=1 episode, 1996 	
+character=Clarence	name=Ray Stricklyn	episodes=1 episode, 1996 	
+character=Christie	name=Lisa Deanne Young	episodes=1 episode, 1996 	
+character=Pat Cooper	name=Pat Cooper	episodes=1 episode, 1996 	
+character=Teddy Padilac	name=John Bowman	episodes=1 episode, 1996 	
+character=Dr. Resnick	name=David Purdham	episodes=1 episode, 1996 	
+character=Teller	name=John Riggi	episodes=1 episode, 1996 	
+character=Charmaine	name=Kim Chase	episodes=1 episode, 1996 	
+character=Vendor	name=Tim O	episodes=1 episode, 1996 	
+character=Vendor	name=Hare	episodes=1 episode, 1996 	
+character=Ellen	name=Christine Taylor	episodes=1 episode, 1997 	
+character=Alex	name=Melinda Clarke	episodes=1 episode, 1997 	
+character=Vincent	name=Danny Strong	episodes=1 episode, 1997 	
+character=Danielle	name=Chelsea Noble	episodes=1 episode, 1997 	
+character=Adam Lippman	name=Ross Malinger	episodes=1 episode, 1997 	
+character=Celia	name=Andrea Bendewald	episodes=1 episode, 1997 	
+character=Zubin	name=Bart Braverman	episodes=1 episode, 1997 	
+character=Melissa	name=Kathleen McClellan	episodes=1 episode, 1997 	
+character=Gladys	name=Victoria Mahoney	episodes=1 episode, 1997 	
+character=Secretary	name=JoNell Kennedy	episodes=1 episode, 1997 	
+character=Dean Jones	name=Ella Joyce	episodes=1 episode, 1997 	
+character=Rhisa	name=Laurie Taylor-Williams	episodes=1 episode, 1997 	
+character=Gwen	name=Karen Fineman	episodes=1 episode, 1997 	
+character=Celia	name=Julia Pennington	episodes=1 episode, 1997 	
+character=Tara	name=Audrey Kissel	episodes=1 episode, 1997 	
+character=Mrs. Allister	name=Seraiah Carol	episodes=1 episode, 1997 	
+character=Phone Guy 	name=Sam Whipple	episodes=1 episode, 1998 	
+character=Darryl Nelson	name=Samuel Bliss Cooper	episodes=1 episode, 1998 	
+character=Service Assistant	name=Dee Freeman	episodes=1 episode, 1998 	
+character=Keri	name=Jennette Robbins	episodes=1 episode, 1998 	
+character=Sal	name=Sam Shamshak	episodes=1 episode, 1998 	
+character=Artie Levine	name=Ron Steelman	episodes=1 episode, 1990 	
+character=Susie	name=Patricia Ayame Thomson	episodes=1 episode, 1991 	
+character=The 	name=Neal Lerner	episodes=1 episode, 1991 	
+character=Shusher	name=Neal Lerner	episodes=1 episode, 1991 	
+character=Intern	name=Scott N. Stevens	episodes=1 episode, 1991 	
+character=Stewardess	name=Marla Frees	episodes=1 episode, 1991 	
+character=Jenny	name=Marcia Firesten	episodes=1 episode, 1991 	
+character=Greeny	name=John Hillner	episodes=1 episode, 1991 	
+character=Man with Woman	name=Joe Farago	episodes=1 episode, 1991 	
+character=The Nurse	name=Sharon McNight	episodes=1 episode, 1991 	
+character=Man	name=Kendall McCarthy	episodes=1 episode, 1991 	
+character=Man in Waiting Room	name=Paul Antony Rogers	episodes=1 episode, 1991 	
+character=Tobias Lehigh Nagy	name=Clint Howard	episodes=1 episode, 1992 	
+character=Stacy	name=Leah Lail	episodes=1 episode, 1992 	
+character=Receptionist	name=Vanessa Marquez	episodes=1 episode, 1992 	
+character=Cop 	name=Steve Eastin	episodes=1 episode, 1992 	
+character=Usher	name=Shashawnee Hall	episodes=1 episode, 1992 	
+character=Dr. Dembrow	name=David Sage	episodes=1 episode, 1992 	
+character=Dan	name=Harley Venton	episodes=1 episode, 1992 	
+character=Intervenor	name=Steve Kehela	episodes=1 episode, 1992 	
+character=Faithy	name=Aimee Aro	episodes=1 episode, 1992 	
+character=Roger McDowell	name=Roger McDowell	episodes=1 episode, 1992 	
+character=Attendant 	name=Karen Denise Williams	episodes=1 episode, 1992 	
+character=Man 	name=Tom Celli	episodes=1 episode, 1992 	
+character=Horse Player 	name=Barry Vigon	episodes=1 episode, 1992 	
+character=Angry Man	name=Zachary Charles	episodes=1 episode, 1992 	
+character=Clerk	name=Courtney Gains	episodes=1 episode, 1993 	
+character=Tom Pepper 	name=Larry Hankin	episodes=1 episode, 1993 	
+character=Kramer	name=Larry Hankin	episodes=1 episode, 1993 	
+character=Tawni	name=Kimberly Campbell	episodes=1 episode, 1993 	
+character=Agency Rep	name=Victoria Dillard	episodes=1 episode, 1993 	
+character=Elsa	name=Deborah May	episodes=1 episode, 1993 	
+character=Timmy	name=Kieran Mulroney	episodes=1 episode, 1993 	
+character=Cab Driver	name=Allan Kolman	episodes=1 episode, 1993 	
+character=Woman	name=Tia Riebling	episodes=1 episode, 1993 	
+character=Doctor	name=Mike Saad	episodes=1 episode, 1993 	
+character=Mike	name=Ken Myles	episodes=1 episode, 1993 	
+character=Kristin	name=Rebecca Staab	episodes=1 episode, 1994 	
+character=Cushman	name=Paul Gleason	episodes=1 episode, 1994 	
+character=Mr. Bevilaqua	name=Claude Earl Jones	episodes=1 episode, 1994 	
+character=Cop	name=Jesse D. Goins	episodes=1 episode, 1994 	
+character=Olive	name=Sunday Theodore	episodes=1 episode, 1994 	
+character=Fulton	name=Michael Rivkin	episodes=1 episode, 1994 	
+character=Marty	name=Joseph Ragno	episodes=1 episode, 1994 	
+character=Man in Bakery	name=S. Marc Jordan	episodes=1 episode, 1994 	
+character=Guy	name=Richard Marion	episodes=1 episode, 1994 	
+character=Aronson	name=James R. Sweeney	episodes=1 episode, 1994 	
+character=Gendason	name=Dean Hallo	episodes=1 episode, 1994 	
+character=Hostess	name=Lucy Lin	episodes=1 episode, 1994 	
+character=Waiter	name=Michael Kaplan	episodes=1 episode, 1994 	
+character=Momma	name=Ellen Albertini Dow	episodes=1 episode, 1995 	
+character=Lenore	name=Kim Zimmer	episodes=1 episode, 1995 	
+character=Salesman	name=Basil Hoffman	episodes=1 episode, 1995 	
+character=Cheryl	name=Alison Armitage	episodes=1 episode, 1995 	
+character=Denise	name=Joan Scheckel	episodes=1 episode, 1995 	
+character=Keith	name=Terry Sweeney	episodes=1 episode, 1995 	
+character=Gennice	name=Adelaide Miller	episodes=1 episode, 1995 	
+character=Clerk	name=Yvette Cruise	episodes=1 episode, 1995 	
+character=Ned	name=James Noah	episodes=1 episode, 1995 	
+character=Florist	name=Lionel Mark Smith	episodes=1 episode, 1995 	
+character=Dustin	name=Dom Magwili	episodes=1 episode, 1995 	
+character=Paul O	name=Neill	episodes=1 episode, 1995 	
+character=Paul O	name=Paul O	episodes=1 episode, 1995 	
+character=Neill	name=Neill	episodes=1 episode, 1995 	
+character=Neill	name=Paul O	episodes=1 episode, 1995 	
+character=Priest	name=Joe Lala	episodes=1 episode, 1995 	
+character=Woman 	name=Janni Brenn	episodes=1 episode, 1995 	
+character=Hallie	name=Samantha Smith	episodes=1 episode, 1996 	
+character=John Germaine	name=Jeff Yagher	episodes=1 episode, 1996 	
+character=Crew Leader	name=Jack Plotnick	episodes=1 episode, 1996 	
+character=Katy	name=Annabelle Gurwitch	episodes=1 episode, 1996 	
+character=Eddie	name=Ned Bellamy	episodes=1 episode, 1996 	
+character=La Forge - Clerk	name=Patrick Kerr	episodes=1 episode, 1996 	
+character=Sheila	name=Heather Campbell	episodes=1 episode, 1996 	
+character=Mrs. Ricardi	name=Diana Bellamy	episodes=1 episode, 1996 	
+character=Leland	name=J. Patrick McCormack	episodes=1 episode, 1996 	
+character=Ms. Baines	name=Rende Rae Norman	episodes=1 episode, 1996 	
+character=Orderly	name=Charles Emmett	episodes=1 episode, 1996 	
+character=Louise	name=Tamara Bick	episodes=1 episode, 1996 	
+character=Clerk	name=Wesley Leong	episodes=1 episode, 1996 	
+character=Jack	name=Toby Huss	episodes=1 episode, 1997 	
+character=Marcy	name=Suzanne Cryer	episodes=1 episode, 1997 	
+character=Pinter Ranawat	name=Shaun Toub	episodes=1 episode, 1997 	
+character=Betsy	name=Kathryn Joosten	episodes=1 episode, 1997 	
+character=Jimmy	name=Colton James	episodes=1 episode, 1997 	
+character=Miranda	name=Arabella Field	episodes=1 episode, 1997 	
+character=Harry	name=Dave Florek	episodes=1 episode, 1997 	
+character=Steven Koren	name=Jed Rhein	episodes=1 episode, 1997 	
+character=Minkler	name=Michael Laskin	episodes=1 episode, 1997 	
+character=Delivery Guy	name=Radmar Agana Jao	episodes=1 episode, 1997 	
+character=McMaines	name=Everett Greenbaum	episodes=1 episode, 1997 	
+character=Alan	name=Jack Hallett	episodes=1 episode, 1997 	
+character=Woman	name=Jane Edith Wilson	episodes=1 episode, 1997 	
+character=Bill	name=Richard Livingston	episodes=1 episode, 1997 	
+character=Mr. Elinoff	name=Paul Benedict	episodes=1 episode, 1998 	
+character=Zach	name=Jonathan Penner	episodes=1 episode, 1998 	
+character=Salesman	name=Rif Hutton	episodes=1 episode, 1998 	
+character=Dr. Wexler	name=Ursaline Bryant	episodes=1 episode, 1998 	
+character=Phone Guy 	name=Kyle Colerider-Krugh	episodes=1 episode, 1998 	
+character=Cop	name=Fitz Houston	episodes=1 episode, 1998 	
+character=Uncle Mac	name=Joe George	episodes=1 episode, 1990 	
+character=Eulogist	name=Earl Boen	episodes=1 episode, 1991 	
+character=Dental Patient	name=Dale Raoul	episodes=1 episode, 1991 	
+character=Security Guard	name=Michael Milhoan	episodes=1 episode, 1991 	
+character=Bill	name=Don Perry	episodes=1 episode, 1991 	
+character=Stella	name=Magda Harout	episodes=1 episode, 1991 	
+character=The Cook	name=Thomas Wagner	episodes=1 episode, 1991 	
+character=Joanne	name=Mel Ryane	episodes=1 episode, 1991 	
+character=Bodybuilder	name=Ron Evans	episodes=1 episode, 1991 	
+character=Receptionist	name=Marie Barrientos	episodes=1 episode, 1991 	
+character=Ricky Ross	name=Timothy Omundson	episodes=1 episode, 1992 	
+character=Cop 	name=David Graf	episodes=1 episode, 1992 	
+character=Man 	name=Jason Wingreen	episodes=1 episode, 1992 	
+character=Man 	name=George Gerdes	episodes=1 episode, 1992 	
+character=Male Executive	name=François Giroday	episodes=1 episode, 1992 	
+character=Man	name=Steve Greenstein	episodes=1 episode, 1992 	
+character=Nurse	name=Susan Ilene Johnson	episodes=1 episode, 1992 	
+character=Truck Driver	name=Michael Costanza	episodes=1 episode, 1992 	
+character=Security Agent	name=Winston J. Rocha	episodes=1 episode, 1992 	
+character=Michael	name=Stephen Prutting	episodes=1 episode, 1992 	
+character=Horse Player 	name=Joe Restivo	episodes=1 episode, 1992 	
+character=Man at Protest	name=Adam Leslie	episodes=1 episode, 1992 	
+character=Bystander	name=Kathy Kinney	episodes=1 episode, 1993 	
+character=Sasha	name=Jana Marie Hupp	episodes=1 episode, 1993 	
+character=Aunt May	name=Peggy Stewart	episodes=1 episode, 1993 	
+character=Gepetto	name=Ralph Manza	episodes=1 episode, 1993 	
+character=Male Nurse	name=Ben Reed	episodes=1 episode, 1993 	
+character=Young Man	name=Dylan Haggerty	episodes=1 episode, 1993 	
+character=Car Washer	name=Raf Mauro	episodes=1 episode, 1993 	
+character=Patient	name=Frank Noon	episodes=1 episode, 1993 	
+character=Tim	name=Jerry Hauck	episodes=1 episode, 1993 	
+character=Doctor	name=Hugh A. Rose	episodes=1 episode, 1993 	
+character=Cashier	name=Molly Cleator	episodes=1 episode, 1993 	
+character=Clarisse	name=Peggy Etra	episodes=1 episode, 1993 	
+character=Victoria	name=Dedee Pfeiffer	episodes=1 episode, 1994 	
+character=Rudy	name=Mike Hagerty	episodes=1 episode, 1994 	
+character=Johnny	name=Joe Gieb	episodes=1 episode, 1994 	
+character=Old Lady	name=Patience Cleveland	episodes=1 episode, 1994 	
+character=Paula	name=Rebecca Glenn	episodes=1 episode, 1994 	
+character=Car Salesman	name=Ken Thorley	episodes=1 episode, 1994 	
+character=Moviegoer	name=Thomas Mills	episodes=1 episode, 1994 	
+character=Man on Street	name=Langdon Bensing	episodes=1 episode, 1994 	
+character=Man	name=Jack Tracy	episodes=1 episode, 1994 	
+character=Shelly	name=Dana Wheeler-Nicholson	episodes=1 episode, 1995 	
+character=Manager	name=Tim Bagley	episodes=1 episode, 1995 	
+character=Laura	name=Heather Medway	episodes=1 episode, 1995 	
+character=Lotus	name=Alexandra Bokyun Chun	episodes=1 episode, 1995 	
+character=Julio	name=Julio Oscar Mechoso	episodes=1 episode, 1995 	
+character=Judge	name=Lillian Lehman	episodes=1 episode, 1995 	
+character=Doctor	name=David St. James	episodes=1 episode, 1995 	
+character=Organizer	name=Ileen Getz	episodes=1 episode, 1995 	
+character=Gus	name=Donohue	episodes=1 episode, 1995 	
+character=Gus	name=John F. O	episodes=1 episode, 1995 	
+character=Cop	name=Vito D	episodes=1 episode, 1995 	
+character=Cop	name=Ambrosio	episodes=1 episode, 1995 	
+character=Paramedic	name=Jimmy Bridges	episodes=1 episode, 1995 	
+character=Woman 	name=Susan Isaacs	episodes=1 episode, 1995 	
+character=Judy	name=Susan Isaacs	episodes=1 episode, 1995 	
+character=Security Guard	name=Jeff Coopwood	episodes=1 episode, 1995 	
+character=Mrs. Payton	name=Edith Fields	episodes=1 episode, 1995 	
+character=Cop 	name=Mailon Rivera	episodes=1 episode, 1995 	
+character=Abby	name=A.J. Langer	episodes=1 episode, 1996 	
+character=Alex Trebek	name=Alex Trebek	episodes=1 episode, 1996 	
+character=Mailman	name=Ramón Franco	episodes=1 episode, 1996 	
+character=Doctor	name=George Wallace	episodes=1 episode, 1996 	
+character=Connie	name=Lisa Arch	episodes=1 episode, 1996 	
+character=Burmese Boy	name=Christopher Aguilar	episodes=1 episode, 1996 	
+character=Office Manager	name=Harry S. Murphy	episodes=1 episode, 1996 	
+character=Mr. Cross	name=Tommy Redmond Hicks	episodes=1 episode, 1996 	
+character=Maitre D	name=David Richards	episodes=1 episode, 1996 	
+character=Emily	name=Sarah Silverman	episodes=1 episode, 1997 	
+character=Denim Vest	name=Kevin McDonald	episodes=1 episode, 1997 	
+character=Gregg	name=Michael Fishman	episodes=1 episode, 1997 	
+character=Arnie	name=Stephen Caffrey	episodes=1 episode, 1997 	
+character=Frankie Merman	name=Dana Gould	episodes=1 episode, 1997 	
+character=Old Woman	name=Connie Sawyer	episodes=1 episode, 1997 	
+character=Father	name=Terry Rhoads	episodes=1 episode, 1997 	
+character=Lew	name=Peter Dennis	episodes=1 episode, 1997 	
+character=Jim Fowler	name=Jim Fowler	episodes=1 episode, 1997 	
+character=Detective Danner	name=Paul Perri	episodes=1 episode, 1997 	
+character=Leader	name=Tony Colitti	episodes=1 episode, 1997 	
+character=Man	name=Walter Addison	episodes=1 episode, 1997 	
+character=Fred	name=Charles Kahlenberg	episodes=1 episode, 1997 	
+character=Student 	name=Daniel Dae Kim	episodes=1 episode, 1998 	
+character=Brendan	name=Steve Franken	episodes=1 episode, 1998 	
+character=Crichton	name=Ted Rooney	episodes=1 episode, 1998 	
+character=Leslie	name=Jenica Bergere	episodes=1 episode, 1998 	
+character=Judge Arthur Vandelay	name=Stanley Anderson	episodes=1 episode, 1998 	
+character=Wife	name=Rosie Malek-Yonan	episodes=1 episode, 1998 	
+character=Cab Driver	name=Bart McCarthy	episodes=1 episode, 1998 	
+character=Delivery Guy	name=Joe Basile	episodes=1 episode, 1998 	
+character=Willie, Sr.	name=Howard Mann	episodes=1 episode, 1998 	
+character=Tom	name=Vic Helford	episodes=1 episode, 1998 	
+character=Carol	name=Ellen Gerstein	episodes=1 episode, 1990 	
+character=Roy	name=John Putch	episodes=1 episode, 1991 	
+character=The Chiropractor	name=Roger Nolan	episodes=1 episode, 1991 	
+character=Billy	name=Joshua Liebling	episodes=1 episode, 1991 	
+character=Judge	name=Al Fann	episodes=1 episode, 1992 	
+character=Man 	name=Tony Papenfuss	episodes=1 episode, 1992 	
+character=Female Executive	name=Blaire Baron	episodes=1 episode, 1992 	
+character=Harry Fong	name=Glen Chin	episodes=1 episode, 1992 	
+character=Blind Violinist	name=Daryl Keith Roach	episodes=1 episode, 1992 	
+character=Cabbie	name=Richard Assad	episodes=1 episode, 1992 	
+character=Officer	name=Manfred Melcher	episodes=1 episode, 1992 	
+character=Woman in Bar	name=Derya Ruggles	episodes=1 episode, 1992 	
+character=Woman	name=Kerry Leigh Michaels	episodes=1 episode, 1992 	
+character=Sara	name=Patricia Lee Willson	episodes=1 episode, 1992 	
+character=Melissa	name=Mariska Hargitay	episodes=1 episode, 1993 	
+character=Assistant	name=Kim Gillingham	episodes=1 episode, 1993 	
+character=Mona	name=Viveka Davis	episodes=1 episode, 1993 	
+character=Al Roker	name=Al Roker	episodes=1 episode, 1993 	
+character=Cheryl	name=Lisa Houle	episodes=1 episode, 1993 	
+character=Mah-Jongg Lady	name=Fritzi Burr	episodes=1 episode, 1993 	
+character=Teen	name=Bret Anthony	episodes=1 episode, 1993 	
+character=Father Jessup	name=Bruce Ed Morrow	episodes=1 episode, 1993 	
+character=Concessionaire	name=Christie Mellor	episodes=1 episode, 1993 	
+character=Younger Priest	name=Bill Rose	episodes=1 episode, 1993 	
+character=Guy On Phone	name=Dan Frischman	episodes=1 episode, 1994 	
+character=Alec	name=Dorien Wilson	episodes=1 episode, 1994 	
+character=Health Inspector	name=Paul Mantee	episodes=1 episode, 1994 	
+character=Foreign Man	name=Sayed Badreya	episodes=1 episode, 1994 	
+character=Castro	name=Michael Sorich	episodes=1 episode, 1994 	
+character=Woman 	name=Mari Weiss	episodes=1 episode, 1994 	
+character=Grandpa	name=Nick LaTour	episodes=1 episode, 1994 	
+character=Woman	name=Glynis McCants	episodes=1 episode, 1994 	
+character=Father	name=Layne Beamer	episodes=1 episode, 1994 	
+character=Man In Car	name=Phil Ramsey	episodes=1 episode, 1994 	
+character=Gary Fogel	name=Jon Lovitz	episodes=1 episode, 1995 	
+character=Mary	name=Rondi Reed	episodes=1 episode, 1995 	
+character=Melanie	name=Athena Massey	episodes=1 episode, 1995 	
+character=Mr. Star	name=Richard McGonagle	episodes=1 episode, 1995 	
+character=Mandel	name=Guy Siner	episodes=1 episode, 1995 	
+character=Horst	name=Nick Jameson	episodes=1 episode, 1995 	
+character=Receptionist	name=Elan Carter	episodes=1 episode, 1995 	
+character=Sally	name=Judith Shelton	episodes=1 episode, 1995 	
+character=Walker 	name=Steven Hack	episodes=1 episode, 1995 	
+character=Attendant	name=Alan Watt	episodes=1 episode, 1995 	
+character=Lou	name=Jerry Diner	episodes=1 episode, 1995 	
+character=Man	name=Michael Luckerman	episodes=1 episode, 1995 	
+character=Sunny	name=Vonnie C. Rhee	episodes=1 episode, 1995 	
+character=Stan	name=Armin Shimerman	episodes=1 episode, 1996 	
+character=Jay Leno	name=Jay Leno	episodes=1 episode, 1996 	
+character=Derek Jeter	name=Derek Jeter	episodes=1 episode, 1996 	
+character=Model 	name=Dana Patrick	episodes=1 episode, 1996 	
+character=Mr. Tanaka	name=Toshi Toda	episodes=1 episode, 1996 	
+character=Clyde	name=Leonard Lightfoot	episodes=1 episode, 1996 	
+character=Cynthia	name=Katie Layman	episodes=1 episode, 1996 	
+character=Kid	name=Matthew McCurley	episodes=1 episode, 1996 	
+character=Ron	name=Bari K. Willerford	episodes=1 episode, 1996 	
+character=Salesperson	name=Pamela Dillman	episodes=1 episode, 1996 	
+character=Policeman 	name=Carl Banks	episodes=1 episode, 1996 	
+character=Barbara	name=Nicole Tocantins	episodes=1 episode, 1996 	
+character=Maitre	name=Robert Martin Robinson	episodes=1 episode, 1996 	
+character=D	name=Robert Martin Robinson	episodes=1 episode, 1996 	
+character=Stage Manager	name=Larry Braman	episodes=1 episode, 1996 	
+character=Delivery Guy	name=Fred Goehner	episodes=1 episode, 1996 	
+character=Lomez Jr.	name=David Moscow	episodes=1 episode, 1997 	
+character=Counterguy	name=Tracy Letts	episodes=1 episode, 1997 	
+character=Detective Udewitz	name=Al White	episodes=1 episode, 1997 	
+character=Saleswoman	name=Maria Cina	episodes=1 episode, 1997 	
+character=Old Man	name=Sid Newman	episodes=1 episode, 1997 	
+character=Man	name=Richard Kuhlman	episodes=1 episode, 1997 	
+character=Employee	name=Yvonne Farrow	episodes=1 episode, 1997 	
+character=Counterperson	name=Leon W. Grant	episodes=1 episode, 1997 	
+character=Worker	name=Cindy Lu	episodes=1 episode, 1997 	
+character=Bag Guy	name=Barry Kramer	episodes=1 episode, 1997 	
+character=NBC Executive	name=Matthew Fonda	episodes=1 episode, 1997 	
+character=Usha	name=Noor Shic	episodes=1 episode, 1997 	
+character=Customer 	name=Steve Susskind	episodes=1 episode, 1998 	
+character=Waitress 	name=Bahni Turpin	episodes=1 episode, 1998 	
+character=Mike	name=Jack Esformes	episodes=1 episode, 1998 	
+character=Coco Higgins	name=Davenia McFadden	episodes=1 episode, 1998 	
+character=Student 	name=Alex Craig Mann	episodes=1 episode, 1998 	
+character=Woman	name=Janet Rotblatt	episodes=1 episode, 1990 	
+character=Gwen	name=Melissa Weil	episodes=1 episode, 1991 	
+character=Party Guest	name=Audrey Frantz	episodes=1 episode, 1991 	
+character=Murphy Brown	name=Candice Bergen	episodes=1 episode, 1992 	
+character=Tall Woman	name=Melanie Good	episodes=1 episode, 1992 	
+character=Attendant	name=Brian Leckner	episodes=1 episode, 1992 	
+character=Maitre d	name=Christopher Carroll	episodes=1 episode, 1992 	
+character=Ticket Clerk	name=Maggie Egan	episodes=1 episode, 1992 	
+character=Carol	name=Dayna Winston	episodes=1 episode, 1992 	
+character=Kid	name=Chet Nelson	episodes=1 episode, 1992 	
+character=Man in Office	name=Steve Shubert	episodes=1 episode, 1992 	
+character=Protestor 	name=Aaron Kanarek	episodes=1 episode, 1992 	
+character=Casting Director	name=Laura Waterbury	episodes=1 episode, 1993 	
+character=Ticket Clerk 	name=Susan Beaubian	episodes=1 episode, 1993 	
+character=Joel	name=Jed Mills	episodes=1 episode, 1993 	
+character=Ralph	name=Ralph Louis Harris	episodes=1 episode, 1993 	
+character=Salesman	name=Robert Noble	episodes=1 episode, 1993 	
+character=Man in Line	name=Jeff Norman	episodes=1 episode, 1993 	
+character=Stage Manager	name=Terrence Riggins	episodes=1 episode, 1993 	
+character=Waiter	name=Randy Brenner	episodes=1 episode, 1993 	
+character=Mah-Jongg Lady	name=Norma Janis	episodes=1 episode, 1993 	
+character=Man 	name=Charley J. Garrett	episodes=1 episode, 1993 	
+character=Woman 	name=Patricia Belcher	episodes=1 episode, 1994 	
+character=Mr. Goldstein	name=Stephen Pearlman	episodes=1 episode, 1994 	
+character=Dentist	name=Rick Fitts	episodes=1 episode, 1994 	
+character=Attractive Applicant	name=Courtney Taylor	episodes=1 episode, 1994 	
+character=Banker	name=James Reynolds	episodes=1 episode, 1994 	
+character=Party Guest	name=Damian London	episodes=1 episode, 1994 	
+character=Arlene	name=Denise Poirier	episodes=1 episode, 1994 	
+character=Woman 	name=Tamar Cooper	episodes=1 episode, 1994 	
+character=Hussein	name=Amjad J. Qaisen	episodes=1 episode, 1994 	
+character=Mr. Green	name=Jack Betts	episodes=1 episode, 1995 	
+character=Man	name=John Cothran	episodes=1 episode, 1995 	
+character=Walker 	name=Wren T. Brown	episodes=1 episode, 1995 	
+character=Guy with Glasses	name=Danny Breen	episodes=1 episode, 1995 	
+character=Officer 	name=Mirron E. Willis	episodes=1 episode, 1995 	
+character=Player 	name=Craig Thomas	episodes=1 episode, 1995 	
+character=Fan 	name=David Powledge	episodes=1 episode, 1995 	
+character=Buddy	name=Eugene Elman	episodes=1 episode, 1995 	
+character=Furniture Guy	name=Vince Melocchi	episodes=1 episode, 1995 	
+character=Doctor Baker Saul	name=Apollo Dukakis	episodes=1 episode, 1995 	
+character=Mr. Burns	name=Kenneth Ryan	episodes=1 episode, 1995 	
+character=Lorraine	name=Jacqueline M. Houston	episodes=1 episode, 1995 	
+character=Man	name=Ron Byron	episodes=1 episode, 1995 	
+character=Desota	name=Von L. Roddy	episodes=1 episode, 1995 	
+character=Susie	name=Karen Lynn Scott	episodes=1 episode, 1996 	
+character=Model 	name=Shireen Crutchfield	episodes=1 episode, 1996 	
+character=Detective	name=Norman Large	episodes=1 episode, 1996 	
+character=Judge	name=Arthur Rosenberg	episodes=1 episode, 1996 	
+character=Dennis	name=Don Amendolia	episodes=1 episode, 1996 	
+character=Dr. Strugatz	name=Ron West	episodes=1 episode, 1996 	
+character=Receptionist	name=Shuko Akune	episodes=1 episode, 1996 	
+character=Policeman 	name=Barry Cutler	episodes=1 episode, 1996 	
+character=The Other Guy	name=John Lizzi	episodes=1 episode, 1996 	
+character=Doctor	name=Eddie Allen	episodes=1 episode, 1996 	
+character=Bob	name=Zack Phifer	episodes=1 episode, 1996 	
+character=Mr. Yamaguchi	name=Goh Misawa	episodes=1 episode, 1996 	
+character=Bernie Williams	name=Bernie Williams	episodes=1 episode, 1996 	
+character=Man 	name=Joshua Abramson	episodes=1 episode, 1996 	
+character=NBC Executive	name=Chris Parnell	episodes=1 episode, 1997 	
+character=Guillermo	name=Marco Rodríguez	episodes=1 episode, 1997 	
+character=Bobby	name=Ray Proscia	episodes=1 episode, 1997 	
+character=Julie	name=Monica Lacy	episodes=1 episode, 1997 	
+character=Lydia	name=Yunoka Doyle	episodes=1 episode, 1997 	
+character=Model	name=Jocelyne Kelly	episodes=1 episode, 1997 	
+character=Mother	name=Carol Kiernan	episodes=1 episode, 1997 	
+character=Book Fan	name=Elayn J. Taylor	episodes=1 episode, 1997 	
+character=Woman	name=Peggy Mannix	episodes=1 episode, 1997 	
+character=Employee	name=Amit Itelman	episodes=1 episode, 1997 	
+character=Brian	name=Kevin Keckeisen	episodes=1 episode, 1997 	
+character=Waitress 	name=Constance Zimmer	episodes=1 episode, 1998 	
+character=Artie	name=Brian Posehn	episodes=1 episode, 1998 	
+character=Father	name=Marcelo Tubert	episodes=1 episode, 1998 	
+character=Watkins	name=Damon Jones	episodes=1 episode, 1998 	
+character=Customer 	name=Loretta Fox	episodes=1 episode, 1998 	
+character=Kobe	name=Melissa Denton	episodes=1 episode, 1998 	
+character=Ellen	name=Ellen Ratner	episodes=1 episode, 1991 	
+character=Chambermaid	name=Dyana Ortelli	episodes=1 episode, 1992 	
+character=Doorman	name=Lewis Dauber	episodes=1 episode, 1992 	
+character=Protester 	name=Ray Glanzmann	episodes=1 episode, 1992 	
+character=Sandi Robbins 	name=Elena Wohl	episodes=1 episode, 1993 	
+character=Elaine	name=Elena Wohl	episodes=1 episode, 1993 	
+character=Newscaster	name=John Gabriel	episodes=1 episode, 1993 	
+character=Wife	name=Patricia Place	episodes=1 episode, 1993 	
+character=Mrs. Lupchek	name=Darlene Kardon	episodes=1 episode, 1993 	
+character=Woman in Diner	name=Maria Stanton	episodes=1 episode, 1993 	
+character=Man in Theatre	name=Paul Eisenhauer	episodes=1 episode, 1993 	
+character=Mah-Jongg Lady	name=Ina Parker	episodes=1 episode, 1993 	
+character=Kathie Lee Gifford	name=Kathie Lee Gifford	episodes=1 episode, 1994 	
+character=Anna	name=Lili Bernard	episodes=1 episode, 1994 	
+character=Man with Cane	name=Roger Eschbacher	episodes=1 episode, 1994 	
+character=Kid	name=Spencer Klein	episodes=1 episode, 1994 	
+character=Woman 	name=Pamela Mant	episodes=1 episode, 1994 	
+character=Woman 	name=Beverly C. Brown	episodes=1 episode, 1994 	
+character=Director	name=Jerome Betler	episodes=1 episode, 1994 	
+character=Woman	name=Ana Gasteyer	episodes=1 episode, 1995 	
+character=Walker 	name=Patricia Bethune	episodes=1 episode, 1995 	
+character=Alice	name=Renee Faia	episodes=1 episode, 1995 	
+character=Waitress	name=Cheryl Francis Harrington	episodes=1 episode, 1995 	
+character=Ms. Jordan	name=Kymberly Newberry	episodes=1 episode, 1995 	
+character=German Woman	name=Barbara Pilavin	episodes=1 episode, 1995 	
+character=Fan 	name=Jan Eddy	episodes=1 episode, 1995 	
+character=Officer 	name=Ken Kerman	episodes=1 episode, 1995 	
+character=Doctor	name=William Jackson	episodes=1 episode, 1995 	
+character=Relative	name=Karen Lorshbough	episodes=1 episode, 1995 	
+character=Salesman	name=Tim DeZarn	episodes=1 episode, 1996 	
+character=Country Doctor	name=F. William Parker	episodes=1 episode, 1996 	
+character=Janine	name=Gwen McGee	episodes=1 episode, 1996 	
+character=Clicky	name=Tony V.	episodes=1 episode, 1996 	
+character=Woman 	name=Cynthia Madvig	episodes=1 episode, 1996 	
+character=Sensei	name=Stuart Quan	episodes=1 episode, 1996 	
+character=Detective	name=Nicholas Mele	episodes=1 episode, 1996 	
+character=Flower Girl	name=Shashi Bhatia	episodes=1 episode, 1996 	
+character=Waiter	name=Kevin Steinberg	episodes=1 episode, 1996 	
+character=Model 	name=Robin Nance	episodes=1 episode, 1996 	
+character=Man 	name=Steve Artiaga	episodes=1 episode, 1996 	
+character=Andy	name=Brian Levinson	episodes=1 episode, 1997 	
+character=Lyle	name=Blake Gibbons	episodes=1 episode, 1997 	
+character=Son	name=Kyle Sullivan	episodes=1 episode, 1997 	
+character=Karen Abbott	name=Ali Marsh	episodes=1 episode, 1997 	
+character=Girl	name=Paige Moss	episodes=1 episode, 1997 	
+character=Mail Clerk	name=Peggy Blow	episodes=1 episode, 1997 	
+character=Maurice	name=Dublin James	episodes=1 episode, 1997 	
+character=Magnus	name=Frank van Keeken	episodes=1 episode, 1997 	
+character=Sandy	name=Stacey Herring	episodes=1 episode, 1997 	
+character=Secretary	name=Fatima Lowe	episodes=1 episode, 1997 	
+character=Postman	name=Brian Kaiser	episodes=1 episode, 1997 	
+character=Child	name=Brandon Kaplan	episodes=1 episode, 1997 	
+character=Cashier	name=Merrin Dungey	episodes=1 episode, 1998 	
+character=Old Woman	name=Jeanette Miller	episodes=1 episode, 1998 	
+character=Lubeck	name=Oliver Muirhead	episodes=1 episode, 1998 	
+character=Co-Worker 	name=Chip Chinery	episodes=1 episode, 1998 	
+character=Amigo	name=Armando Molina	episodes=1 episode, 1998 	
+character=Saleswoman	name=Catherine Schreiber	episodes=1 episode, 1998 	
+character=Co-Worker 	name=Alec Holland	episodes=1 episode, 1998 	
+character=Cynthia	name=Mimi Craven	episodes=1 episode, 1992 	
+character=Receptionist	name=Michael Gerard	episodes=1 episode, 1992 	
+character=Cop	name=Jack Graiman	episodes=1 episode, 1992 	
+character=Lab Technician	name=Darrell Kunitomi	episodes=1 episode, 1993 	
+character=Man 	name=David Gibbs	episodes=1 episode, 1993 	
+character=Woman Hailing Cab	name=Karen Rizzo	episodes=1 episode, 1993 	
+character=Husband	name=Walt Beaver	episodes=1 episode, 1993 	
+character=Aaron	name=Judge Reinhold	episodes=1 episode, 1994 	
+character=Street Tough	name=F.J. Rio	episodes=1 episode, 1994 	
+character=Man	name=Jeris Poindexter	episodes=1 episode, 1994 	
+character=Lew	name=Martin Chow	episodes=1 episode, 1994 	
+character=Guy in Diner	name=Bernard Hocke	episodes=1 episode, 1994 	
+character=Electrician	name=Pat Asanti	episodes=1 episode, 1994 	
+character=Woman 	name=Cindy Cheung	episodes=1 episode, 1995 	
+character=Stewardess	name=Christine Cattell	episodes=1 episode, 1995 	
+character=Stagehand	name=Lou DiMaggio	episodes=1 episode, 1995 	
+character=Secretary	name=Leesa Zelkin	episodes=1 episode, 1995 	
+character=Tenant 	name=Toni Sawyer	episodes=1 episode, 1995 	
+character=Nurse	name=Louisa Abernathy	episodes=1 episode, 1995 	
+character=Woman	name=Tish Smiley	episodes=1 episode, 1995 	
+character=Teacher	name=Wayne C. Dvorak	episodes=1 episode, 1995 	
+character=Customer	name=Michael Michaud	episodes=1 episode, 1995 	
+character=Reporter	name=Dale Harimoto	episodes=1 episode, 1995 	
+character=Monica	name=Susan Moore	episodes=1 episode, 1995 	
+character=Waiter	name=David Wendelman	episodes=1 episode, 1995 	
+character=Waitress	name=Michelle C. Bonilla	episodes=1 episode, 1996 	
+character=Ralph	name=Jesse White	episodes=1 episode, 1996 	
+character=Music Guy	name=Steve Ireland	episodes=1 episode, 1996 	
+character=Clerk	name=Lyn Alicia Henderson	episodes=1 episode, 1996 	
+character=Ms. Wilkie	name=Fern Fitzgerald	episodes=1 episode, 1996 	
+character=Woman 	name=Marilyn Tokuda	episodes=1 episode, 1996 	
+character=Woman	name=Cheryl Hunter	episodes=1 episode, 1996 	
+character=Businessman 	name=Herb Mitchell	episodes=1 episode, 1996 	
+character=Executive 	name=Akane Nelson	episodes=1 episode, 1996 	
+character=Miss Yoshimura	name=Akane Nelson	episodes=1 episode, 1996 	
+character=Blind Man	name=Lynn Manning	episodes=1 episode, 1996 	
+character=Driver	name=Ossie Mair	episodes=1 episode, 1996 	
+character=Bizarro Newman	name=Mark Larson	episodes=1 episode, 1996 	
+character=Cute Girl	name=Shannon Whirry	episodes=1 episode, 1997 	
+character=Woman Exec.	name=Nancy Linehan Charles	episodes=1 episode, 1997 	
+character=Usher	name=Shelley Malil	episodes=1 episode, 1997 	
+character=Dirt Person 	name=Clement Blake	episodes=1 episode, 1997 	
+character=Man	name=Adrian Sparks	episodes=1 episode, 1997 	
+character=Brian	name=David Chandler	episodes=1 episode, 1997 	
+character=Sleazy Guy	name=Colin Malone	episodes=1 episode, 1997 	
+character=Old Woman	name=Viola Kates Stimpson	episodes=1 episode, 1997 	
+character=Friend	name=Eric Simonson	episodes=1 episode, 1997 	
+character=Melissa	name=Justine Slater	episodes=1 episode, 1997 	
+character=Kenny	name=Drake Bell	episodes=1 episode, 1998 	
+character=Co-Worker 	name=Suli McCullough	episodes=1 episode, 1998 	
+character=Rubin	name=Murray Rubin	episodes=1 episode, 1998 	
+character=Security Guard	name=Kevin Ruf	episodes=1 episode, 1998 	
+character=Gary	name=Tom Agna	episodes=1 episode, 1998 	
+character=Co-Worker 	name=Colin McClean	episodes=1 episode, 1998 	
+character=Corbin Bernsen	name=Corbin Bernsen	episodes=1 episode, 1992 	
+character=Prison Guard	name=Steve Doherty	episodes=1 episode, 1992 	
+character=Bystander 	name=Steven Marcus Gibbs	episodes=1 episode, 1992 	
+character=Manager	name=Al Ruscio	episodes=1 episode, 1993 	
+character=Spike	name=Irvin Mosley Jr.	episodes=1 episode, 1993 	
+character=Manager	name=French Stewart	episodes=1 episode, 1994 	
+character=Waiter	name=Eamonn Roche	episodes=1 episode, 1994 	
+character=Driver	name=Thom Vernon	episodes=1 episode, 1994 	
+character=Woman	name=Eva Svensson	episodes=1 episode, 1994 	
+character=Man At Party	name=Steve Brady	episodes=1 episode, 1994 	
+character=Tenant 	name=Nigel Gibbs	episodes=1 episode, 1995 	
+character=Customer	name=Buddy Quaid	episodes=1 episode, 1995 	
+character=Customer	name=Joe Ochman	episodes=1 episode, 1995 	
+character=Jeff	name=Timothy McNeil	episodes=1 episode, 1995 	
+character=Office Worker	name=James Lesure	episodes=1 episode, 1996 	
+character=Auctioneer	name=Harvey Jason	episodes=1 episode, 1996 	
+character=Manager	name=Dean Fortunato	episodes=1 episode, 1996 	
+character=Waitress	name=Noëlle Balfour	episodes=1 episode, 1996 	
+character=Postal Official	name=Bill Gratton	episodes=1 episode, 1996 	
+character=Man	name=Angelo Di Mascio Jr.	episodes=1 episode, 1996 	
+character=Nurse	name=Cherie Hankal	episodes=1 episode, 1996 	
+character=Businessman 	name=Robert Louis Kempf	episodes=1 episode, 1996 	
+character=Rider	name=Jack Riley	episodes=1 episode, 1997 	
+character=Kim	name=Michele Maika	episodes=1 episode, 1997 	
+character=Partygoer	name=Bill Lee Brown	episodes=1 episode, 1997 	
+character=Customer	name=Jerry Dixon	episodes=1 episode, 1997 	
+character=Nun	name=Virginia Watson	episodes=1 episode, 1997 	
+character=Dirt Person 	name=D.A. Johnson	episodes=1 episode, 1997 	
+character=Manager	name=Jeff Hatz	episodes=1 episode, 1997 	
+character=Captain Maddox	name=Steve Carlson	episodes=1 episode, 1998 	
+character=Priest	name=Tom Dahlgren	episodes=1 episode, 1998 	
+character=George Wendt	name=George Wendt	episodes=1 episode, 1992 	
+character=Fred	name=Richard Gant	episodes=1 episode, 1993 	
+character=Kicker	name=Eric Fleeks	episodes=1 episode, 1993 	
+character=Tough Guy	name=Mo Gallini	episodes=1 episode, 1994 	
+character=Ricky	name=Robert Kino	episodes=1 episode, 1994 	
+character=Boss	name=Robert Kino	episodes=1 episode, 1994 	
+character=Chairman	name=Ken Takemoto	episodes=1 episode, 1994 	
+character=Woman	name=Elizabeth Sjoli	episodes=1 episode, 1995 	
+character=Bridgette	name=Berta Waagfjord	episodes=1 episode, 1995 	
+character=Jack	name=Mark Fite	episodes=1 episode, 1995 	
+character=Smoker	name=Kyle Gass	episodes=1 episode, 1996 	
+character=Ex-Girlfriend	name=René Ashton	episodes=1 episode, 1996 	
+character=Power Guy	name=Daniel Zacapa	episodes=1 episode, 1996 	
+character=Nurse	name=Susan Leslie	episodes=1 episode, 1996 	
+character=Homeless Guy	name=Larry Polson	episodes=1 episode, 1996 	
+character=Postmaster General Henry Atkins	name=Wilford Brimley	episodes=1 episode, 1997 	
+character=Blaine	name=Todd Jeffries	episodes=1 episode, 1997 	
+character=Rider	name=Bunny Summers	episodes=1 episode, 1997 	
+character=Waiter	name=Walter Franks	episodes=1 episode, 1997 	
+character=Man	name=Steve Hofvendahl	episodes=1 episode, 1997 	
+character=Stewardess	name=Erica Y. Becoat	episodes=1 episode, 1997 	
+character=Man	name=Bert Rosario	episodes=1 episode, 1998 	
+character=Tour Leader	name=LaRita Shelby	episodes=1 episode, 1994 	
+character=Businessman	name=Tony Edwards	episodes=1 episode, 1994 	
+character=Interpreter	name=Fritz Mashimo	episodes=1 episode, 1994 	
+character=Vendor 	name=Johnny Silver	episodes=1 episode, 1995 	
+character=Steve	name=Carl LaBove	episodes=1 episode, 1995 	
+character=Buxom Woman	name=Trudi Forristal	episodes=1 episode, 1995 	
+character=Waiter	name=Mark Wheatle	episodes=1 episode, 1995 	
+character=Young Cop	name=Dan O	episodes=1 episode, 1996 	
+character=Young Cop	name=Connor	episodes=1 episode, 1996 	
+character=Bldg 	name=Golde Starger	episodes=1 episode, 1996 	
+character=A	name=Golde Starger	episodes=1 episode, 1996 	
+character=Dog Guy	name=Brian Blondell	episodes=1 episode, 1996 	
+character=Cab Driver	name=Torsten Voges	episodes=1 episode, 1997 	
+character=Dad	name=Jerry Maren	episodes=1 episode, 1997 	
+character=Izzy Mandelbaum Sr.	name=Earl Schuman	episodes=1 episode, 1997 	
+character=Rider	name=Earl Carroll	episodes=1 episode, 1997 	
+character=Parade Goer	name=Raoul N. Rizik	episodes=1 episode, 1998 	
+character=Mark	name=Roger Rose	episodes=1 episode, 1993 	
+character=Joey	name=Jason Manary	episodes=1 episode, 1994 	
+character=Louise	name=Wendy Worthington	episodes=1 episode, 1995 	
+character=Vendor 	name=Billy Bastiani	episodes=1 episode, 1995 	
+character=Woman	name=Theresa Mulligan	episodes=1 episode, 1996 	
+character=Bldg 	name=Janice Davies	episodes=1 episode, 1996 	
+character=B	name=Janice Davies	episodes=1 episode, 1996 	
+character=Cop 	name=Neil Flynn	episodes=1 episode, 1997 	
+character=Cab Driver	name=George Georgiadis	episodes=1 episode, 1997 	
+character=Hobo Joe	name=Joe Goddbiff	episodes=1 episode, 1998 	
+character=Sketch Guy	name=Scott Conte	episodes=1 episode, 1998 	
+character=Butler	name=Brian Bradley	episodes=1 episode, 1993 	
+character=Counterperson	name=Oscar Jordan	episodes=1 episode, 1994 	
+character=Stephanie	name=Belinda Barry	episodes=1 episode, 1995 	
+character=Clara	name=Paige Tamada	episodes=1 episode, 1996 	
+character=Bldg 	name=Art Frankel	episodes=1 episode, 1996 	
+character=C	name=Art Frankel	episodes=1 episode, 1996 	
+character=Stand Owner	name=Florinel Fatulescu	episodes=1 episode, 1996 	
+character=Passenger	name=Brian Callaway	episodes=1 episode, 1997 	
+character=Cop 	name=Tom Bailey	episodes=1 episode, 1997 	
+character=Mrs. Canterman	name=Mimi Cozzens	episodes=1 episode, 1998 	
+character=Waitress	name=Samantha Dorman	episodes=1 episode, 1993 	
+character=Punk 	name=Rolando Molina	episodes=1 episode, 1994 	
+character=Willie	name=Robert Padnick	episodes=1 episode, 1996 	
+character=Jaime	name=Juan Garcia	episodes=1 episode, 1997 	
+character=Passerby	name=Vince Donvito	episodes=1 episode, 1997 	
+character=Therapist	name=Denise Bessette	episodes=1 episode, 1997 	
+character=Lucy	name=Alison Martin	episodes=1 episode, 1998 	
+character=Bailiff	name=Geoffrey Ewing	episodes=1 episode, 1998 	
+character=Cabbie	name=Erick Avari	episodes=1 episode, 1993 	
+character=Punk 	name=Michael Friedman	episodes=1 episode, 1994 	
+character=Passerby	name=Chris Burmester	episodes=1 episode, 1997 	
+character=Policeman	name=Chip Heller	episodes=1 episode, 1998 	
+character=David	name=Stephen Burrows	episodes=1 episode, 1993 	
+character=Poker Player 	name=Wesley Thompson	episodes=1 episode, 1994 	
+character=Bartender	name=Victoria Fischer	episodes=1 episode, 1997 	
+character=AD	name=Deborah Swisher	episodes=1 episode, 1993 	
+character=Guy	name=Keith Sellon-Wright	episodes=1 episode, 1997 	
+character=Wilton	name=Jeff Oetjen	episodes=1 episode, 1993 	
+character=Poker Player 	name=Jeffrey von Meyer	episodes=1 episode, 1994 	
+character=Officer Vogel	name=Scott Jaeck	episodes=1 episode, 1998 	
+character=Susie	name=Wendle Josepher	episodes=1 episode, 1998 	
+character=Guard	name=Scott Klace	episodes=1 episode, 1998 	
+character=Det. Hudson	name=James Pickens Jr.	episodes=1 episode, 1998 	
+character=Howie	name=John Pinette	episodes=1 episode, 1998 	
+character=D.A. Hoyt	name=James Rebhorn	episodes=1 episode, 1998 	
+character=James Kimbrough	name=Peter Riegert	episodes=1 episode, 1998 	
+character=Geraldo Rivera	name=Geraldo Rivera	episodes=1 episode, 1998 	
+character=Carol	name=McNally Sagal	episodes=1 episode, 1998 	
+character=O	name=Gay Thomas Wilson	episodes=1 episode, 1998 	
+character=Neal	name=Gay Thomas Wilson	episodes=1 episode, 1998 	
+character=Foreman	name=Myra Turley	episodes=1 episode, 1998 	
+character=Reporter	name=Jane Wells	episodes=1 episode, 1998 	
+character=Passerby	name=Van Epperson	episodes=1 episode, 1998 	
+character=Criminal	name=Jeffery Thomas Johnson	episodes=1 episode, 1998 	
+character=Man	name=Sean Moran	episodes=1 episode, 1998 	
+character=Receptionist	name=Dianne Travis	episodes=1 episode, 1998 	
+character=Bernie	name=Jim Zulevic	episodes=1 episode, 1998 	
+character=Julie	name=Colette O	episodes=1 episode, 1994 	
+character=Julie	name=Connell	episodes=1 episode, 1994 	
+character=Don Tyler	name=Pete G. Papanickolas	episodes=6 episodes, 1993-1997 	
+character=Juror	name=Darin Henry	episodes=5 episodes, 1993-1998 	
+character=Crowd	name=Karen Wilkie	episodes=4 episodes, 1991-1997 	
+character=Herb	name=James Lansbury	episodes=4 episodes, 1994-1996 	
+character=Cook	name=Doug Senior	episodes=2 episodes, 1996-1998 	
+character=Juror	name=Spike Feresten	episodes=2 episodes, 1997-1998 	
+character=Dental Assistant	name=Andrea Ragsdale	episodes=2 episodes, 1997 	
+character=George Steinbrenner	name=Mitch Mitchell	episodes=2 episodes, 1997 	
+character=Audience Member	name=John Michael Quinn	episodes=1 episode, 1989 	
+character=Shop Lifter	name=Scott Shaw	episodes=1 episode, 1990 	
+character=Man in Elevator	name=Jarion Monroe	episodes=1 episode, 1991 	
+character=Mother with Baby	name=Joan Van Horn	episodes=1 episode, 1991 	
+character=Bark of the Dog	name=Tom Williams	episodes=1 episode, 1991 	
+character=Man in Elevator	name=Troy Martin	episodes=1 episode, 1991 	
+character=Waiter	name=Wei Zhang	episodes=1 episode, 1991 	
+character=Woman by Bruce	name=Eun-Kyung Ryu	episodes=1 episode, 1991 	
+character=Becky Gelke	name=Helen Slater	episodes=1 episode, 1992 	
+character=Fred Savage	name=Fred Savage	episodes=1 episode, 1992 	
+character=Jennie MacLaine	name=Marsha Mason	episodes=1 episode, 1992 	
+character=Clown	name=Gerrit Graham	episodes=1 episode, 1992 	
+character=Polar Bear	name=Michael Fox	episodes=1 episode, 1992 	
+character=Hippie Girl in Van	name=Cathy Cahlin Ryan	episodes=1 episode, 1992 	
+character=Audience Member	name=Renée Humphrey	episodes=1 episode, 1992 	
+character=Airport Security Guy	name=Will Nye	episodes=1 episode, 1992 	
+character=Judy Dame	name=Jodi Knotts	episodes=1 episode, 1992 	
+character=Hippie	name=David Blasucci	episodes=1 episode, 1992 	
+character=TV Announcer	name=Phil Rizzuto	episodes=1 episode, 1992 	
+character=Passenger	name=Cherie Chetyrbok	episodes=1 episode, 1992 	
+character=Passenger	name=Patrick Raymond	episodes=1 episode, 1992 	
+character=Protester 	name=Joseph Kanarek	episodes=1 episode, 1992 	
+character=Baseball Fan	name=Gary Gray	episodes=1 episode, 1992 	
+character=Man	name=D.H. Martin	episodes=1 episode, 1992 	
+character=Woman in Hallway	name=Ruth Greenspan	episodes=1 episode, 1992 	
+character=Usher	name=Craig Adelberg	episodes=1 episode, 1992 	
+character=Mrs. Oliver	name=Edie McClurg	episodes=1 episode, 1993 	
+character=Car Thief	name=Grant Heslov	episodes=1 episode, 1993 	
+character=Rudy Giuliani	name=Rudy Giuliani	episodes=1 episode, 1993 	
+character=Ball Boy	name=Mike Malin	episodes=1 episode, 1993 	
+character=Sergio Kato	name=Sergio Kato	episodes=1 episode, 1993 	
+character=Office Worker	name=Max Pross	episodes=1 episode, 1993 	
+character=Cousin	name=Mark Zecca	episodes=1 episode, 1993 	
+character=Kissing Medical Intern	name=Jill Gray Savarese	episodes=1 episode, 1993 	
+character=Man on 	name=Glenn Padnick	episodes=1 episode, 1993 	
+character=Jerry	name=Glenn Padnick	episodes=1 episode, 1993 	
+character=Set	name=Glenn Padnick	episodes=1 episode, 1993 	
+character=Girl in Bar	name=Chela Holton	episodes=1 episode, 1993 	
+character=Loud Movie Patron	name=J.D. Walters	episodes=1 episode, 1993 	
+character=Tennis Crowd	name=Brian Myers	episodes=1 episode, 1993 	
+character=Man on 	name=Pete San Filipo Sr.	episodes=1 episode, 1993 	
+character=Jerry	name=Pete San Filipo Sr.	episodes=1 episode, 1993 	
+character=Set	name=Pete San Filipo Sr.	episodes=1 episode, 1993 	
+character=Woman on 	name=Elza Camacho	episodes=1 episode, 1993 	
+character=Jerry	name=Elza Camacho	episodes=1 episode, 1993 	
+character=Set	name=Elza Camacho	episodes=1 episode, 1993 	
+character=Man on 	name=Dennis Kirkpatrick	episodes=1 episode, 1993 	
+character=Jerry	name=Dennis Kirkpatrick	episodes=1 episode, 1993 	
+character=Set	name=Dennis Kirkpatrick	episodes=1 episode, 1993 	
+character=Makeup Artist	name=Shirley Beck	episodes=1 episode, 1993 	
+character=Woman on 	name=Janet Kagan	episodes=1 episode, 1993 	
+character=Jerry	name=Janet Kagan	episodes=1 episode, 1993 	
+character=Set	name=Janet Kagan	episodes=1 episode, 1993 	
+character=PBS Telethon Producer	name=Lisa Guerrero	episodes=1 episode, 1994 	
+character=Elaine	name=Shannon K. Dunn	episodes=1 episode, 1994 	
+character=Co-Worker	name=Shannon K. Dunn	episodes=1 episode, 1994 	
+character=Dinner Guest	name=Holly Lewis	episodes=1 episode, 1994 	
+character=Juggler	name=James Ridgley	episodes=1 episode, 1994 	
+character=Angry Guy	name=Will Radford	episodes=1 episode, 1994 	
+character=Comedy Club Goer	name=Jim Rhine	episodes=1 episode, 1994 	
+character=Radio Announcer	name=Andy Cowan	episodes=1 episode, 1994 	
+character=Diner	name=Jeff Alpert	episodes=1 episode, 1994 	
+character=Stadium Announcer	name=Bob Sheppard	episodes=1 episode, 1994 	
+character=Man in Theatre	name=Brady Thomas	episodes=1 episode, 1994 	
+character=Cabbie	name=Iqbal Theba	episodes=1 episode, 1995 	
+character=Guy in Police Lineup	name=Jon Manfrellotti	episodes=1 episode, 1995 	
+character=Night Doorman	name=Connor	episodes=1 episode, 1995 	
+character=Night Doorman	name=Raymond O	episodes=1 episode, 1995 	
+character=Man in Cafe	name=Steve Tisch	episodes=1 episode, 1995 	
+character=Kissing Girl	name=Toni DeRose	episodes=1 episode, 1995 	
+character=Guy in Police Lineup	name=Bruce Kirschbaum	episodes=1 episode, 1995 	
+character=Husband on Pier	name=Tim Kaiser	episodes=1 episode, 1995 	
+character=Mr. Moviefone	name=Russ Leatherman	episodes=1 episode, 1995 	
+character=Customer	name=Vivicca A. Whitsett	episodes=1 episode, 1995 	
+character=Customer	name=Cedric Duplechain	episodes=1 episode, 1995 	
+character=Softball Fan	name=Darin Mangan	episodes=1 episode, 1995 	
+character=Woman on Pier	name=Christine Nyhart Kaplan	episodes=1 episode, 1995 	
+character=Pharmacist	name=Robb Capielo	episodes=1 episode, 1995 	
+character=Tow Truck Driver	name=Randall Broadrick	episodes=1 episode, 1995 	
+character=Man on Phone	name=Phil Hartman	episodes=1 episode, 1996 	
+character=Director	name=J.G. Hertzler	episodes=1 episode, 1996 	
+character=David Letterman	name=David Letterman	episodes=1 episode, 1996 	
+character=Head Waitress	name=Jenny Inge	episodes=1 episode, 1996 	
+character=Patron	name=Stacy Owens	episodes=1 episode, 1996 	
+character=Butcher	name=Eric Brenner	episodes=1 episode, 1996 	
+character=The Man Hands	name=James Rekart	episodes=1 episode, 1996 	
+character=Boyfriend	name=Johnathan Brownlee	episodes=1 episode, 1996 	
+character=Man at Bar	name=Barry Marder	episodes=1 episode, 1996 	
+character=Monk	name=Renee Fishman	episodes=1 episode, 1996 	
+character=Cafe Patron	name=Renee Fishman	episodes=1 episode, 1996 	
+character=Make-up Lady	name=Patricia Messina	episodes=1 episode, 1996 	
+character=Auctioneer	name=Phil Lodwick	episodes=1 episode, 1996 	
+character=Orderly	name=Robert Thomas	episodes=1 episode, 1996 	
+character=Karl Farbman	name=Dave Pierce	episodes=1 episode, 1996 	
+character=Woman at Monk	name=Vicki Sirotta	episodes=1 episode, 1996 	
+character=Be Quiet	name=Brian Michael Tracy	episodes=1 episode, 1996 	
+character=Guy	name=Brian Michael Tracy	episodes=1 episode, 1996 	
+character=Boy Scout	name=Jason Wise	episodes=1 episode, 1996 	
+character=Vincent	name=Robby Benson	episodes=1 episode, 1997 	
+character=Doctor	name=Robert Fuller	episodes=1 episode, 1997 	
+character=Man in Church	name=David Rogers	episodes=1 episode, 1997 	
+character=Peterman Employee	name=Tony Winters	episodes=1 episode, 1997 	
+character=Mom	name=Elizabeth Barrington	episodes=1 episode, 1997 	
+character=Man in Restaurant	name=George Doty IV	episodes=1 episode, 1997 	
+character=Post Office Customer	name=Renee McClellan	episodes=1 episode, 1997 	
+character=Van Buren Boy 	name=Sheypan Draus	episodes=1 episode, 1997 	
+character=Van Buren Boy	name=Chris Oneliner	episodes=1 episode, 1997 	
+character=Guest	name=Carmi Greene	episodes=1 episode, 1997 	
+character=Mourner	name=George Adams	episodes=1 episode, 1997 	
+character=Monk	name=Jodi Carol Harrison	episodes=1 episode, 1997 	
+character=Diner Patron	name=Jodi Carol Harrison	episodes=1 episode, 1997 	
+character=Man on the Street	name=Thomas Azzari	episodes=1 episode, 1997 	
+character=Vomit Girl	name=Beth Aylward	episodes=1 episode, 1997 	
+character=Man at Counter	name=Eric Feder	episodes=1 episode, 1997 	
+character=Theatre Patron	name=Kenneth J. Morgan	episodes=1 episode, 1997 	
+character=Woman in Cafe	name=Hilary Wagner	episodes=1 episode, 1997 	
+character=Reader Behind Elaine	name=Neill Calabro	episodes=1 episode, 1997 	
+character=Man in Cafe	name=Jim Marcos	episodes=1 episode, 1997 	
+character=Customer 	name=Deirdre Lovejoy	episodes=1 episode, 1998 	
+character=Juror	name=Daena E. Title	episodes=1 episode, 1998 	
+character=Lady in Restaurant	name=Eve Brenner	episodes=1 episode, 1998 	
+character=Diner Customer	name=Andrew Patrick Ralston	episodes=1 episode, 1998 	
+character=Becky	name=Jennifer Crittenden	episodes=1 episode, 1998 	
+character=Medical Student	name=Julie Wagner	episodes=1 episode, 1998 	
+character=Brentano	name=Frank Sackett	episodes=1 episode, 1998 	
+character=Employee	name=Frank Sackett	episodes=1 episode, 1998 	
+character=Secretary	name=Shawn Lockie	episodes=1 episode, 1998 	
+character=Monk Patron	name=Bob Pepper	episodes=1 episode, 1998 	
+character=Cabbie	name=Pete Pastore	episodes=1 episode, 1998 	
+character=Juror	name=Dana Alexander	episodes=1 episode, 1998 	
+character=Juror	name=Brian Altounian	episodes=1 episode, 1998 	
+character=Woman in Cafe	name=Jennifer Eolin	episodes=1 episode, 1998 	
+character=Murder One	name=Scott Milne	episodes=1 episode, 1998 	
+character=Zach	name=Lesley Robins	episodes=1 episode, 1998 	
+character=Girlfriend	name=Lesley Robins	episodes=1 episode, 1998 	
+character=Officer Phelps	name=Johann John Jean	episodes=1 episode, 1998 	
+character=Mets Broadcaster	name=Bob Murphy	episodes=1 episode, 1998 	

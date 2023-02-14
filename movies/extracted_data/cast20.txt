@@ -1,0 +1,195 @@
+# http://fitlayout.github.io/resource/art20 -> https://www.imdb.com/title/tt2243973/fullcredits/
+character=Will Graham	name=Hugh Dancy	episodes=39 episodes, 2013-2015 	
+character=Dr. Hannibal Lecter	name=Mads Mikkelsen	episodes=39 episodes, 2013-2015 	
+character=Dr. Alana Bloom	name=Caroline Dhavernas	episodes=39 episodes, 2013-2015 	
+character=Jack Crawford	name=Laurence Fishburne	episodes=39 episodes, 2013-2015 	
+character=Jimmy Price	name=Scott Thompson	episodes=27 episodes, 2013-2015 	
+character=Brian Zeller	name=Aaron Abrams	episodes=27 episodes, 2013-2015 	
+character=Dr. Bedelia Du Maurier	name=Gillian Anderson	episodes=21 episodes, 2013-2015 	
+character=Beverly Katz	name=Hettienne Park	episodes=18 episodes, 2013-2014 	
+character=Abigail Hobbs	name=Kacey Rohl	episodes=13 episodes, 2013-2015 	
+character=Freddie Lounds	name=Lara Jean Chorostecki	episodes=13 episodes, 2013-2015 	
+character=Dr. Frederick Chilton	name=Raúl Esparza	episodes=12 episodes, 2013-2015 	
+character=Garret Jacob Hobbs	name=Vladimir Jon Cubrt	episodes=10 episodes, 2013-2015 	
+character=Margot Verger	name=Katharine Isabelle	episodes=9 episodes, 2014-2015 	
+character=Stag Man	name=Kalen Davidson	episodes=3 episodes, 2013-2014 	
+character=Dr. Abel Gideon	name=Eddie Izzard	episodes=6 episodes, 2013-2015 	
+character=Francis Dolarhyde	name=Richard Armitage	episodes=6 episodes, 2015 	
+character=Bella Crawford	name=Gina Torres	episodes=5 episodes, 2013-2015 	
+character=Reba McClane	name=Rutina Wesley	episodes=5 episodes, 2015 	
+character=Mason Verger	name=Joe Anderson	episodes=4 episodes, 2015 	
+character=Insp. Rinaldo Pazzi	name=Fortunato Cerlino	episodes=4 episodes, 2015 	
+character=Kade Prurnell	name=Cynthia Nixon	episodes=4 episodes, 2014 	
+character=Chiyo	name=Tao Okamoto	episodes=4 episodes, 2015 	
+character=Miriam Lass	name=Anna Chlumsky	episodes=4 episodes, 2013-2014 	
+character=Molly Graham	name=Nina Arianda	episodes=4 episodes, 2015 	
+character=Louise Hobbs	name=Krista Patton	episodes=4 episodes, 2013 	
+character=Orderly	name=Alana Bridgewater	episodes=4 episodes, 2015 	
+character=Mason Verger	name=Michael Pitt	episodes=3 episodes, 2014 	
+character=Franklin	name=Dan Fogler	episodes=3 episodes, 2013 	
+character=Carlo Deogracias	name=Daniel Kash	episodes=3 episodes, 2014 	
+character=Dr. Cordell Doemling	name=Glenn Fleshler	episodes=3 episodes, 2015 	
+character=Nicholas Boyle	name=Mark Rendall	episodes=3 episodes, 2013 	
+character=Elise Nichols	name=Torianna Lee	episodes=3 episodes, 2013 	
+character=Killer	name=Patrick Garrow	episodes=3 episodes, 2014 	
+character=Sogliato	name=Rinaldo Rocco	episodes=2 episodes, 2015 	
+character=Peter Bernardone	name=Jeremy Davies	episodes=2 episodes, 2014 	
+character=Clark Ingram	name=Chris Diamantopoulos	episodes=2 episodes, 2014 	
+character=Neal Frank	name=Zachary Quinto	episodes=2 episodes, 2015 	
+character=Inspector	name=Giorgio Lupano	episodes=2 episodes, 2015 	
+character=Georgia Madchen	name=Ellen Muth	episodes=2 episodes, 2013 	
+character=Randall Tier	name=Mark O	episodes=2 episodes, 2014 	
+character=Randall Tier	name=Brien	episodes=2 episodes, 2014 	
+character=Roland Umber	name=Ryan Field	episodes=2 episodes, 2014 	
+character=Doctor	name=Dwight Ireland	episodes=2 episodes, 2015 	
+character=Tobias Budge	name=Demore Barnes	episodes=2 episodes, 2013 	
+character=Male Nurse	name=Ted Ludzik	episodes=2 episodes, 2014 	
+character=Mr. Albizzi	name=David Calderisi	episodes=2 episodes, 2015 	
+character=Mrs. Albizzi	name=Toni Ellwand	episodes=2 episodes, 2015 	
+character=Matthew Brown	name=Jonathan Tucker	episodes=2 episodes, 2014 	
+character=Grandmother Dolarhyde	name=Trudy Weiss	episodes=2 episodes, 2015 	
+character=Anthony Dimmond	name=Tom Wisdom	episodes=1 episode, 2015 	
+character=Poliziotto Lamanna	name=Anthony Massullo	episodes=1 episode, 2015 	
+character=Kidnapper	name=Molly Shannon	episodes=1 episode, 2013 	
+character=Dr. Sutcliffe	name=John Benjamin Hickey	episodes=1 episode, 2013 	
+character=Elliot Buddish	name=Seann Gallagher	episodes=1 episode, 2013 	
+character=Tommaso	name=Bas Reitman	episodes=1 episode, 2014 	
+character=Allegra Pazzi	name=Mía Maestro	episodes=1 episode, 2015 	
+character=Caged Man	name=Julian Richings	episodes=1 episode, 2015 	
+character=Dr. Roman Fell	name=Jeremy Crutchley	episodes=1 episode, 2015 	
+character=Inspector Donaggio	name=Izzia	episodes=1 episode, 2015 	
+character=Inspector Donaggio	name=Davide D	episodes=1 episode, 2015 	
+character=Lawrence Wells	name=Lance Henriksen	episodes=1 episode, 2013 	
+character=Beth LeBeau	name=Hilary Jardine	episodes=1 episode, 2013 	
+character=Emma Buddish	name=Cynthia Preston	episodes=1 episode, 2013 	
+character=Eldon Stammets	name=Aidan Devine	episodes=1 episode, 2013 	
+character=Crawford	name=Martin Donovan	episodes=1 episode, 2014 	
+character=Therapist	name=Martin Donovan	episodes=1 episode, 2014 	
+character=Matteo	name=Wayne Wells	episodes=1 episode, 2014 	
+character=Stable Hand	name=Martin Julien	episodes=1 episode, 2014 	
+character=Docent	name=Helen Taylor	episodes=1 episode, 2015 	
+character=Jocelyn Madchen	name=Krista Bridges	episodes=1 episode, 2013 	
+character=Marissa Schurr	name=Holly Deveaux	episodes=1 episode, 2013 	
+character=Police Officer 	name=Billy Parrott	episodes=1 episode, 2013 	
+character=Mrs. Nichols	name=Sarah Evans	episodes=1 episode, 2013 	
+character=Wendy Vega	name=Maria del Mar	episodes=1 episode, 2014 	
+character=Guard	name=Jamaal Grant	episodes=1 episode, 2014 	
+character=Veterinarian	name=Douglas E. Hughes	episodes=1 episode, 2014 	
+character=Garage Attendant	name=Ezio Bondi	episodes=1 episode, 2014 	
+character=Trucker	name=Hernaci	episodes=1 episode, 2014 	
+character=Trucker	name=Paquito 	episodes=1 episode, 2014 	
+character=Trucker	name=Paco	episodes=1 episode, 2014 	
+character=Mrs. Fell	name=Catherine Tait	episodes=1 episode, 2015 	
+character=Verger Bodyguard	name=Phillip Samuel	episodes=1 episode, 2015 	
+character=Tour Guide	name=Nicholas Rice	episodes=1 episode, 2015 	
+character=Poliziotto Officer	name=Paul Sturino	episodes=1 episode, 2015 	
+character=Mrs. Komeda	name=Ellen Greene	episodes=1 episode, 2013 	
+character=Detective Pascal	name=Richard Chevolleau	episodes=1 episode, 2013 	
+character=Mother	name=Severn Thompson	episodes=1 episode, 2013 	
+character=Marissa	name=Severn Thompson	episodes=1 episode, 2013 	
+character=Mr. Nichols	name=Wayne Ward	episodes=1 episode, 2013 	
+character=Police Officer 	name=Craig Thomas	episodes=1 episode, 2013 	
+character=Hospital Security	name=Mark Waters	episodes=1 episode, 2013 	
+character=Cop 	name=Marcel Lewis	episodes=1 episode, 2013 	
+character=Officer Stewart	name=Darren Josephs	episodes=1 episode, 2013 	
+character=Katherine Pimms	name=Amanda Plummer	episodes=1 episode, 2014 	
+character=Leonard Brauer	name=Shawn Doyle	episodes=1 episode, 2014 	
+character=Female Beachgoer	name=Brendee Green	episodes=1 episode, 2014 	
+character=Franklin	name=Samuel Faraci	episodes=1 episode, 2014 	
+character=Sarah Craber	name=Christine Ebadi	episodes=1 episode, 2014 	
+character=Mrs. Leeds	name=Nola Martin	episodes=1 episode, 2015 	
+character=Dentist	name=Mio Adilman	episodes=1 episode, 2015 	
+character=Gretchen Speck	name=Chelan Simmons	episodes=1 episode, 2013 	
+character=Inmate 	name=Darrin Brown	episodes=1 episode, 2013 	
+character=Marcy O	name=Lindsey Connell	episodes=1 episode, 2013 	
+character=Halloran	name=Lindsey Connell	episodes=1 episode, 2013 	
+character=Officer Dormau	name=Kevan Kase	episodes=1 episode, 2013 	
+character=Security Guard	name=Al Vrkljan	episodes=1 episode, 2013 	
+character=Dr. Paul Carruthers	name=Todd Dulmage	episodes=1 episode, 2013 	
+character=Flight Attendant	name=Brittney Johnston	episodes=1 episode, 2013 	
+character=Cop 	name=Wayne Hissong	episodes=1 episode, 2013 	
+character=Judge Davies	name=Barry Flatman	episodes=1 episode, 2014 	
+character=Male Beachgoer	name=Michael James Regan	episodes=1 episode, 2014 	
+character=Minister	name=Ray Kahnert	episodes=1 episode, 2014 	
+character=Lloyd Roat	name=Steve Whistance-Smith	episodes=1 episode, 2014 	
+character=Mr. Leeds	name=Blair Johannes	episodes=1 episode, 2015 	
+character=Theresa Marlow	name=Bernadette Couture	episodes=1 episode, 2013 	
+character=Shrike Victim 	name=Dominique Bisson	episodes=1 episode, 2013 	
+character=Halloran	name=Nicholas Bode	episodes=1 episode, 2013 	
+character=Christopher O	name=Nicholas Bode	episodes=1 episode, 2013 	
+character=Lenora	name=Emily Klassen	episodes=1 episode, 2013 	
+character=PT Officer	name=Vincent Rother	episodes=1 episode, 2013 	
+character=Pre-Teen Cello Player	name=Zachary Bloch	episodes=1 episode, 2013 	
+character=Reporter 	name=Brendan Halloran	episodes=1 episode, 2013 	
+character=Roger Brunner	name=Mark Munro	episodes=1 episode, 2013 	
+character=Guard	name=Omar Habib	episodes=1 episode, 2013 	
+character=Inmate 	name=Earl-Antham Chrysostom	episodes=1 episode, 2013 	
+character=Troy	name=Liam MacDonald	episodes=1 episode, 2013 	
+character=Little Girl	name=Peyton Kennedy	episodes=1 episode, 2014 	
+character=Janitor	name=Greg Dunham	episodes=1 episode, 2014 	
+character=Veterinarian	name=Sally Cahill	episodes=1 episode, 2015 	
+character=Mrs. Jacobi	name=Cheryl Poirier	episodes=1 episode, 2015 	
+character=Chinese Dentist	name=Rory Moy	episodes=1 episode, 2015 	
+character=C.J. Lincoln	name=Austin MacDonald	episodes=1 episode, 2013 	
+character=Nurse Shell	name=Ana Shepherd	episodes=1 episode, 2013 	
+character=Steve	name=Graeme Jokic	episodes=1 episode, 2013 	
+character=Mr. Komeda	name=Michael Park Ingram	episodes=1 episode, 2013 	
+character=Male Nurse	name=Max White	episodes=1 episode, 2013 	
+character=Michelle Brunner	name=Elana McMurtry	episodes=1 episode, 2013 	
+character=Douglas Wilson	name=Carter Siddall	episodes=1 episode, 2013 	
+character=Thomas Marlow	name=Wayne Downer	episodes=1 episode, 2013 	
+character=Reporter 	name=Steven Pigozzo	episodes=1 episode, 2013 	
+character=Shrike Victim 	name=Eve Gane	episodes=1 episode, 2013 	
+character=Rec 	name=Eli Ham	episodes=1 episode, 2014 	
+character=Parks 	name=Eli Ham	episodes=1 episode, 2014 	
+character=Car Driver	name=Michael Dunston	episodes=1 episode, 2015 	
+character=Mr. Jacobi	name=Jerry Getty	episodes=1 episode, 2015 	
+character=Chinese Tattoo Artist	name=Chris Ip	episodes=1 episode, 2015 	
+character=Jesse Turner	name=Brendan Heard	episodes=1 episode, 2013 	
+character=Dead Man	name=Daniel von Diergardt	episodes=1 episode, 2013 	
+character=Andrew Caldwell	name=Shant Srabian	episodes=1 episode, 2013 	
+character=Shrike Victim 	name=Emma Gibbs	episodes=1 episode, 2013 	
+character=Reporter 	name=Audra Yulanda Gray	episodes=1 episode, 2013 	
+character=Jason	name=Kaiman Teevins	episodes=1 episode, 2013 	
+character=Shrike Victim 	name=Eve Ganes	episodes=1 episode, 2013 	
+character=Rec 	name=Kevin Whalen	episodes=1 episode, 2014 	
+character=Parks 	name=Kevin Whalen	episodes=1 episode, 2014 	
+character=Jacobi Boy	name=Nicky Cappella	episodes=1 episode, 2015 	
+character=Funeral Director	name=Scott Anderson	episodes=1 episode, 2015 	
+character=Mr. Lombard	name=Peter Spence	episodes=1 episode, 2015 	
+character=Pharmacist	name=Michael Torontow	episodes=1 episode, 2013 	
+character=Police Officer	name=Rob Norman	episodes=1 episode, 2013 	
+character=Shrike Victim 	name=Jessie Saunders-Drutz	episodes=1 episode, 2013 	
+character=Mrs. Turner	name=Sophie Holdstock	episodes=1 episode, 2013 	
+character=Repairman	name=Greg Dunfield	episodes=1 episode, 2013 	
+character=Jacobi Girl	name=Saige Aurora	episodes=1 episode, 2015 	
+character=Leeds Boy 	name=Devon Phillipson	episodes=1 episode, 2015 	
+character=Joel Summers	name=Jason Blicker	episodes=1 episode, 2013 	
+character=Dixie	name=Suzanne Coy	episodes=1 episode, 2013 	
+character=Nurse	name=Diane Johnstone	episodes=1 episode, 2013 	
+character=Garage Manager	name=George Masswohl	episodes=1 episode, 2013 	
+character=Convenience Store Clerk	name=Azeem Nathoo	episodes=1 episode, 2013 	
+character=Leeds Boy 	name=Gabriel Varga-Watt	episodes=1 episode, 2015 	
+character=Devon Silvestri	name=Pierre Simpson	episodes=1 episode, 2013 	
+character=Halloran	name=Duncan McLeod	episodes=1 episode, 2013 	
+character=Mr. O	name=Duncan McLeod	episodes=1 episode, 2013 	
+character=Mr. Murray	name=Adam Winlove-Smith	episodes=1 episode, 2013 	
+character=Elderly Patient 	name=Margaret Kellins	episodes=1 episode, 2015 	
+character=Elderly Patient 	name=Howard Swinson	episodes=1 episode, 2015 	
+character=Young Dolarhyde	name=Devan Cohen	episodes=1 episode, 2015 	
+character=Victim 	name=Christina Schimmel	episodes=2 episodes, 2014 	
+character=Turner Kid 	name=Sydney Cross	episodes=1 episode, 2013 	
+character=French Stewardess	name=Jessica Malka	episodes=1 episode, 2014 	
+character=Agent at Table	name=James Chilli Chillingworth	episodes=1 episode, 2014 	
+character=Victim	name=Sara Sue Vallee	episodes=1 episode, 2014 	
+character=Eye Mural	name=Ryan Singh	episodes=1 episode, 2014 	
+character=Victim 	name=Ryan Singh	episodes=1 episode, 2014 	
+character=Law clerk	name=Nicole Babb	episodes=1 episode, 2014 	
+character=Dinner Guest	name=Kashif Khan	episodes=1 episode, 2014 	
+character=Parking Lot Attendant	name=Devon Hyland	episodes=1 episode, 2014 	
+character=Defence Attorney	name=Howard Pont	episodes=1 episode, 2014 	
+character=Dirty Italian Cop	name=Joel Labelle	episodes=1 episode, 2015 	
+character=Castrato Singer	name=Aiden Glenn	episodes=1 episode, 2015 	
+character=Bike Courier	name=Johnny Larocque	episodes=1 episode, 2015 	
+character=Chloris	name=Brittany Starkman	episodes=1 episode, 2015 	
+character=Stag Man	name=Clayton Gray II	episodes=1 episode, 2015 	

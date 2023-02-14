@@ -1,0 +1,79 @@
+# http://fitlayout.github.io/resource/art76 -> https://www.imdb.com/title/tt9100822/fullcredits/
+character=Dísa	name=Aldís Amah Hamilton	episodes=8 episodes, 2019-2020 	
+character=Kata	name=Nína Dögg Filippusdóttir	episodes=8 episodes, 2019-2020 	
+character=Arnar	name=Björn Thors	episodes=8 episodes, 2019-2020 	
+character=Hugrún	name=Arndís Hrönn Egilsdóttir	episodes=8 episodes, 2019-2020 	
+character=Helga	name=Tinna Hrafnsdóttir	episodes=8 episodes, 2019-2020 	
+character=Magnús	name=Sigurður Skúlason	episodes=8 episodes, 2019-2020 	
+character=Svava	name=Edda Björgvinsdóttir	episodes=8 episodes, 2019-2020 	
+character=Police officer	name=Gunnar Bersi Björnsson	episodes=8 episodes, 2019-2020 	
+character=Erlingur	name=Bergur Ebbi Benediktsson	episodes=8 episodes, 2019-2020 	
+character=Tóti	name=Ottó Gunnarsson	episodes=8 episodes, 2019-2020 	
+character=Selma	name=Anna Gunndís Guðmundsdóttir	episodes=6 episodes, 2019-2020 	
+character=Egill	name=Valur Freyr Einarsson	episodes=5 episodes, 2019-2020 	
+character=Hákon lögreglumaður	name=Víkingur Kristjánsson	episodes=5 episodes, 2020 	
+character=Kata	name=Julia McIlvaine	episodes=4 episodes, 2019-2020 	
+character=Erlingur	name=Will Collyer	episodes=4 episodes, 2019-2020 	
+character=Magnus	name=Frank Todaro	episodes=4 episodes, 2019-2020 	
+character=Additional Voices	name=Abby Trott	episodes=4 episodes, 2019-2020 	
+character=Additional Voices	name=Don McManus	episodes=4 episodes, 2019-2020 	
+character=Additional Voices	name=Shaun Conde	episodes=4 episodes, 2019-2020 	
+character=Additional Voices	name=Gideon Modisett	episodes=4 episodes, 2019-2020 	
+character=Laufey	name=Kristín Þóra Haraldsdóttir	episodes=4 episodes, 2020 	
+character=Petur	name=Sigurður Sigurjónsson	episodes=4 episodes, 2020 	
+character=Arnar	name=JP Karliak	episodes=3 episodes, 2020 	
+character=Selma	name=Tara Sands	episodes=3 episodes, 2019-2020 	
+character=Additional Voices	name=Jayne Taini	episodes=3 episodes, 2019-2020 	
+character=Kari	name=Aaron Fors	episodes=3 episodes, 2019-2020 	
+character=Additional Voices	name=Nancy Linari	episodes=3 episodes, 2019-2020 	
+character=Additional Voices	name=David Randolph	episodes=3 episodes, 2019-2020 	
+character=Additional Voices	name=Katelyn Gault	episodes=3 episodes, 2019-2020 	
+character=Additional Voices	name=Christopher Corey Smith	episodes=3 episodes, 2019-2020 	
+character=Additional Voices	name=Henry Dittman	episodes=3 episodes, 2019-2020 	
+character=Viðar	name=Gunnar Jónsson	episodes=3 episodes, 2020 	
+character=Kristján	name=Þór Tulinius	episodes=3 episodes, 2020 	
+character=Leifur	name=Gunnar Hansson	episodes=3 episodes, 2020 	
+character=Vidar	name=Michael Sorich	episodes=2 episodes, 2020 	
+character=Helgi	name=Mike Rock	episodes=2 episodes, 2019-2020 	
+character=Additional Voices	name=Cam Clarke	episodes=2 episodes, 2020 	
+character=Additional Voices	name=D.C. Douglas	episodes=2 episodes, 2020 	
+character=Additional Voices	name=Erin Coker	episodes=2 episodes, 2020 	
+character=Additional Voices	name=David Cooley	episodes=2 episodes, 2019-2020 	
+character=Additional Voices	name=Haviland Stillwell	episodes=2 episodes, 2020 	
+character=Additional Voices	name=Trevor Devall	episodes=2 episodes, 2019-2020 	
+character=Additional Voices	name=Liza Seneca	episodes=2 episodes, 2019-2020 	
+character=Esther	name=Laufey Elíasdóttir	episodes=2 episodes, 2019-2020 	
+character=Ragnar	name=Damon Younger	episodes=2 episodes, 2020 	
+character=Elsa	name=Hanna María Karlsdóttir	episodes=2 episodes, 2020 	
+character=Steinþór	name=Stefán Hallur Stefánsson	episodes=2 episodes, 2020 	
+character=Gerður	name=Guðlaug Ólafsdóttir	episodes=2 episodes, 2020 	
+character=Jóhanna	name=Þrúður Vilhjálmsdóttir	episodes=2 episodes, 2020 	
+character=Ragnar	name=Joe Hanna	episodes=1 episode, 2020 	
+character=Gerdur	name=Julia Fletcher	episodes=1 episode, 2020 	
+character=Iris	name=Karen Strassman	episodes=1 episode, 2019 	
+character=Additional Voices	name=Cindy Robinson	episodes=1 episode, 2020 	
+character=Additional Voices	name=Rebecca Larsen	episodes=1 episode, 2020 	
+character=Additional Voices	name=John Omohundro	episodes=1 episode, 2020 	
+character=Additional Voices	name=Leticia Grassi	episodes=1 episode, 2020 	
+character=Additional Voices	name=Philip Labes	episodes=1 episode, 2020 	
+character=Additional Voices	name=James Simenc	episodes=1 episode, 2020 	
+character=Ómar	name=Theodór Júlíusson	episodes=1 episode, 2019 	
+character=Íris	name=Arnbjörg Hlíf Valsdóttir	episodes=1 episode, 2019 	
+character=Thor	name=Vilhjálmur Hjálmarsson	episodes=1 episode, 2019 	
+character=Kári	name=Grettir Valsson	episodes=1 episode, 2019 	
+character=Andrés	name=Gudmundur Thorvaldsson	episodes=1 episode, 2020 	
+character=Helgi	name=Þorsteinn Bachmann	episodes=1 episode, 2020 	
+character=Guðný	name=Birgitta Birgisdóttir	episodes=1 episode, 2020 	
+character=Andrea Friðriksdóttir	name=Anna Claessen	episodes=1 episode, 2020 	
+character=Guðmundur	name=Ari Matthíasson	episodes=1 episode, 2020 	
+character=Sálfræðingur	name=Elva Ósk Ólafsdóttir	episodes=1 episode, 2020 	
+character=Priest	name=Thorunn Erna Clausen	episodes=1 episode, 2020 	
+character=Dagný	name=Lilja Þórisdóttir	episodes=1 episode, 2020 	
+character=Fannar	name=Lukas Emil Johansen	episodes=1 episode, 2020 	
+character=Elvar	name=Harald G. Haraldsson	episodes=1 episode, 2020 	
+character=Sigurjón	name=Hákon Jóhannesson	episodes=1 episode, 2020 	
+character=Rúna	name=Þórunn Magnea Magnúsdóttir	episodes=1 episode, 2020 	
+character=AA Member	name=Bjarki Thor	episodes=1 episode, 2020 	
+character=Jehovah	name=Birgitta Sigursteinsdóttir	episodes=1 episode, 2020 	
+character=Witness	name=Birgitta Sigursteinsdóttir	episodes=1 episode, 2020 	
+character=Vigdís	name=Rósa Guðný Þórsdóttir	episodes=1 episode, 2020 	

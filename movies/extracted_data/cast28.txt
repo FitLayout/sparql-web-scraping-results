@@ -1,0 +1,517 @@
+# http://fitlayout.github.io/resource/art28 -> https://www.imdb.com/title/tt2654620/fullcredits/
+character=Ephraim Goodweather	name=Corey Stoll	episodes=46 episodes, 2014-2017 	
+character=Abraham Setrakian	name=David Bradley	episodes=46 episodes, 2014-2017 	
+character=Vasiliy Fet	name=Kevin Durand	episodes=46 episodes, 2014-2017 	
+character=Eldritch Palmer	name=Jonathan Hyde	episodes=46 episodes, 2014-2017 	
+character=Thomas Eichorst	name=Richard Sammel	episodes=46 episodes, 2014-2017 	
+character=Elizalde	name=Miguel Gomez	episodes=46 episodes, 2014-2017 	
+character=Gus	name=Miguel Gomez	episodes=46 episodes, 2014-2017 	
+character=Augustin 	name=Miguel Gomez	episodes=46 episodes, 2014-2017 	
+character=Dutch Velders	name=Ruta Gedmintas	episodes=39 episodes, 2014-2017 	
+character=Kelly Goodweather	name=Natalie Brown	episodes=38 episodes, 2014-2017 	
+character=Zach Goodweather	name=Max Charles	episodes=33 episodes, 2015-2017 	
+character=The Master	name=Robin Atkin Downes	episodes=30 episodes, 2014-2017 	
+character=Gabriel Bolivar	name=Jack Kesy	episodes=29 episodes, 2014-2016 	
+character=Mr. Quinlan	name=Rupert Penry-Jones	episodes=29 episodes, 2015-2017 	
+character=Nora Martinez	name=Mía Maestro	episodes=26 episodes, 2014-2015 	
+character=Justine Feraldo	name=Samantha Mathis	episodes=18 episodes, 2015-2016 	
+character=Angel Guzman Hurtado	name=Joaquín Cosio	episodes=17 episodes, 2015-2016 	
+character=Strigoi	name=Anthony Lake	episodes=2 episodes, 2014-2017 	
+character=Zach Goodweather	name=Ben Hyland	episodes=13 episodes, 2014 	
+character=The Master	name=Robert Maillet	episodes=13 episodes, 2014-2017 	
+character=Reggie Fitzwilliam	name=Roger Cross	episodes=12 episodes, 2014-2015 	
+character=Sanjay Desai	name=Cas Anvar	episodes=10 episodes, 2016-2017 	
+character=Alonso Creem	name=Jamie Hector	episodes=9 episodes, 2014-2017 	
+character=Jim Kent	name=Sean Astin	episodes=9 episodes, 2014-2015 	
+character=Coco Marchand	name=Lizzie Brocheré	episodes=9 episodes, 2015 	
+character=Dr. Everett Barnes	name=Daniel Kash	episodes=9 episodes, 2014-2015 	
+character=Roman	name=K.C. Collins	episodes=8 episodes, 2017 	
+character=Marcus	name=Dewshane Williams	episodes=9 episodes, 2015-2017 	
+character=Frank Kowalski	name=Paulino Nunes	episodes=9 episodes, 2015-2016 	
+character=Guadalupe Elizalde	name=Adriana Barraza	episodes=8 episodes, 2014-2016 	
+character=Abraham 	name=Jim Watson	episodes=7 episodes, 2014-2016 	
+character=Young Setrakian	name=Jim Watson	episodes=7 episodes, 2014-2016 	
+character=Mariela Martinez	name=Anne Betancourt	episodes=6 episodes, 2014 	
+character=Alex Green	name=Angel Parker	episodes=6 episodes, 2017 	
+character=Mayor George Lyle	name=Ron Canada	episodes=6 episodes, 2015 	
+character=Matt Sayles	name=Drew Nelson	episodes=6 episodes, 2014 	
+character=The Ancient	name=Doug Jones	episodes=6 episodes, 2014-2016 	
+character=Street Mongrel	name=Troy James	episodes=1 episode, 2017 	
+character=Abby	name=Jocelyn Hudon	episodes=5 episodes, 2017 	
+character=Vaun	name=Stephen McHattie	episodes=5 episodes, 2014-2015 	
+character=Ansel Barbour	name=Nikolai Witschl	episodes=5 episodes, 2014 	
+character=Ancient 	name=Clayton Scott	episodes=5 episodes, 2014-2016 	
+character=Jason Green	name=Rainbow Sun Francks	episodes=4 episodes, 2017 	
+character=Diane	name=Inga Cadranel	episodes=4 episodes, 2014 	
+character=Charlotte	name=Rhona Mitra	episodes=4 episodes, 2017 	
+character=Crispin Elizalde	name=Francis Capra	episodes=4 episodes, 2014 	
+character=Oscar	name=Dayton Sinkia	episodes=4 episodes, 2017 	
+character=Joan Luss	name=Leslie Hope	episodes=4 episodes, 2014 	
+character=Harrison McGeever	name=Ron Lea	episodes=4 episodes, 2015 	
+character=Ben	name=Glen Gould	episodes=4 episodes, 2017 	
+character=Sherry	name=Jess Salgueiro	episodes=4 episodes, 2014-2017 	
+character=Felix	name=Pedro Miguel Arce	episodes=4 episodes, 2014 	
+character=Aanya Gupta	name=Parveen Kaur	episodes=4 episodes, 2015 	
+character=Naren Gupta	name=Sugith Varughese	episodes=4 episodes, 2015 	
+character=Pinsky	name=Gugun Deep Singh	episodes=4 episodes, 2017 	
+character=Nikki	name=Nicola Correia-Damude	episodes=4 episodes, 2014-2015 	
+character=Sean Duncan	name=Dwain Murphy	episodes=4 episodes, 2016 	
+character=Sway	name=Thomas Darya	episodes=3 episodes, 2017 	
+character=Pauline McGeever	name=Brenda Bazinet	episodes=3 episodes, 2015 	
+character=Raul	name=Michael Reventar	episodes=3 episodes, 2017 	
+character=Ruby Wain	name=Regina King	episodes=3 episodes, 2014 	
+character=Ann-Marie Barbour	name=Alex Paxton-Beesley	episodes=3 episodes, 2014 	
+character=Vhini Gupta	name=Sonya Anand	episodes=3 episodes, 2015 	
+character=Young Palmer	name=Charlie Gallant	episodes=3 episodes, 2015-2016 	
+character=Margaret Pierson	name=Maria Ricossa	episodes=3 episodes, 2014 	
+character=Jeremiah	name=Kjartan Hewitt	episodes=3 episodes, 2017 	
+character=Coffer	name=Brian Hamman	episodes=3 episodes, 2017 	
+character=Captain Doyle Redfern	name=Jonathan Potts	episodes=3 episodes, 2014 	
+character=Marta	name=Nicki Whitely	episodes=3 episodes, 2017 	
+character=Nurse Carla Davis	name=Elizabeth Saunders	episodes=3 episodes, 2016 	
+character=Lauretta	name=Katy Breier	episodes=3 episodes, 2014 	
+character=Gary Arnot	name=Steven McCarthy	episodes=3 episodes, 2014 	
+character=Emma Arnot	name=Isabelle Nélisse	episodes=3 episodes, 2014 	
+character=Eve	name=Miranda Edwards	episodes=3 episodes, 2015 	
+character=Kroft	name=Aaron Lazar	episodes=2 episodes, 2016 	
+character=Tardi	name=Lee Tergesen	episodes=3 episodes, 2016 	
+character=Sophie	name=Lauren Collins	episodes=2 episodes, 2017 	
+character=Lar 	name=Ryan Hollyman	episodes=3 episodes, 2016 	
+character=Sun-Hunter	name=Ryan Hollyman	episodes=3 episodes, 2016 	
+character=Dr. Draverhaven	name=Nigel Bennett	episodes=2 episodes, 2015-2016 	
+character=Abraham	name=Kathleen Chalfant	episodes=2 episodes, 2014-2015 	
+character=Grandmother	name=Kathleen Chalfant	episodes=2 episodes, 2014-2015 	
+character=Louisa	name=Hannah New	episodes=2 episodes, 2017 	
+character=Curtis Fitzwilliam	name=Kevin Hanchard	episodes=2 episodes, 2015 	
+character=Rudyard Fonescu	name=David Schaal	episodes=2 episodes, 2015 	
+character=Cardinal McNamara	name=Tom Kemp	episodes=2 episodes, 2015 	
+character=Mrs. Taylor	name=Mimi Kuzyk	episodes=2 episodes, 2015 	
+character=Officer Bonnie	name=Meghan Allen	episodes=2 episodes, 2016 	
+character=Selah	name=Supinder Wraich	episodes=2 episodes, 2017 	
+character=Marauder 	name=Tim Cody	episodes=2 episodes, 2016 	
+character=Megyn Jones	name=Kylee Evans	episodes=2 episodes, 2017 	
+character=Miriam Setrakian	name=Adina Verson	episodes=2 episodes, 2014-2015 	
+character=Sylvia Kent	name=Melanie Merkosky	episodes=2 episodes, 2014 	
+character=Lucy	name=Dorren Lee	episodes=2 episodes, 2017 	
+character=Marauder 	name=Dustin Faith	episodes=2 episodes, 2016 	
+character=Nadia	name=Chandler Loryn	episodes=2 episodes, 2017 	
+character=Miles Parness	name=Sam Herrington	episodes=2 episodes, 2014 	
+character=Kevin Farrell	name=Donald Burda	episodes=2 episodes, 2014 	
+character=Mike Rivers	name=Conrad Coates	episodes=2 episodes, 2014 	
+character=Neeva	name=Kim Roberts	episodes=2 episodes, 2014 	
+character=Hank	name=Jason Gosbee	episodes=2 episodes, 2016-2017 	
+character=Hollow-Eyed Woman	name=Kathleen Pollard	episodes=2 episodes, 2017 	
+character=Julius Styles	name=Matthew D. Matteo	episodes=2 episodes, 2014 	
+character=Dr. Bennett	name=Jeffrey R. Smith	episodes=2 episodes, 2014 	
+character=Nurse Greenwood	name=Lisa Ryder	episodes=2 episodes, 2017 	
+character=Hu Die	name=Mung-Ling Tsui	episodes=2 episodes, 2017 	
+character=Councilman Chuck Cohen	name=Craig Eldridge	episodes=2 episodes, 2015 	
+character=Alexei Fet	name=Damir Andrei	episodes=2 episodes, 2014-2016 	
+character=Michael 	name=Ricky Tollman	episodes=2 episodes, 2015 	
+character=Mikey	name=Ricky Tollman	episodes=2 episodes, 2015 	
+character=Williams	name=Ricky Tollman	episodes=2 episodes, 2015 	
+character=Bennett	name=Asim Wali	episodes=2 episodes, 2015 	
+character=Audrey Luss	name=Malley	episodes=2 episodes, 2014 	
+character=Audrey Luss	name=Chloe O	episodes=2 episodes, 2014 	
+character=Lydia	name=Teagan Wright	episodes=2 episodes, 2017 	
+character=Arthur Fitzwilliam	name=Glen Michael Grant	episodes=2 episodes, 2015 	
+character=Corrections Officer Hernandez	name=Rothaford Gray	episodes=2 episodes, 2014 	
+character=Keene Luss	name=Jayden Greig	episodes=2 episodes, 2014 	
+character=Paco	name=Jason Oliveira	episodes=2 episodes, 2015 	
+character=Roach	name=Evan Stern	episodes=2 episodes, 2017 	
+character=Dr. Morse	name=Shawn Lawrence	episodes=2 episodes, 2014 	
+character=Diego	name=Chris Pineda	episodes=2 episodes, 2015 	
+character=Newscaster	name=J.C. Kenny	episodes=2 episodes, 2014 	
+character=Doctor Weiss	name=Helen Taylor	episodes=2 episodes, 2017 	
+character=Trip Taylor	name=Darrin Baker	episodes=2 episodes, 2014 	
+character=Dr. William Lester	name=Ali Momen	episodes=2 episodes, 2014 	
+character=Ancient 	name=Tyler Evan Webb	episodes=2 episodes, 2016 	
+character=Caldwell	name=Joe Pingue	episodes=2 episodes, 2014 	
+character=Captain Kate Rogers	name=America Olivo	episodes=2 episodes, 2016 	
+character=Cyrus Minow	name=Jonathan Higgins	episodes=2 episodes, 2016 	
+character=Joshua	name=Brett Ryan	episodes=2 episodes, 2015 	
+character=Flores	name=Katie Messina	episodes=1 episode, 2017 	
+character=Narrator	name=Lance Henriksen	episodes=1 episode, 2014 	
+character=Roger Luss	name=Aaron Douglas	episodes=1 episode, 2014 	
+character=Sergei Fetrovski	name=Mike Dopud	episodes=1 episode, 2016 	
+character=Leigh Thomas	name=Nadia Bowers	episodes=1 episode, 2015 	
+character=Alexei Boiko	name=Costa Ronin	episodes=1 episode, 2016 	
+character=Bella	name=Jeananne Goossen	episodes=1 episode, 2016 	
+character=Ancharia	name=Deanna Dunagan	episodes=1 episode, 2016 	
+character=Randy	name=Joe Delfin	episodes=1 episode, 2016 	
+character=Special Agent Monroe	name=Dan Lett	episodes=1 episode, 2014 	
+character=Hassan	name=Vas Saranga	episodes=1 episode, 2014 	
+character=Xun	name=Jeff Kassel	episodes=1 episode, 2016 	
+character=Jack Noon	name=Larry Fessenden	episodes=1 episode, 2014 	
+character=Buck Norris	name=George Buza	episodes=1 episode, 2014 	
+character=James O	name=Don Stark	episodes=1 episode, 2016 	
+character=Neill	name=Don Stark	episodes=1 episode, 2016 	
+character=Little Girl	name=Makenna Beatty	episodes=1 episode, 2016 	
+character=Ron	name=Taso Alexander	episodes=1 episode, 2016 	
+character=B-Positive Donor	name=Nicole Babb	episodes=1 episode, 2017 	
+character=Brooklyn Guy	name=Rick Baker	episodes=1 episode, 2014 	
+character=Roman	name=James Cade	episodes=1 episode, 2014 	
+character=Rob Bradley	name=Tom Ellis	episodes=1 episode, 2015 	
+character=Checkpoint Police Officer	name=Milton Barnes	episodes=1 episode, 2015 	
+character=Lindsay	name=Hannan Younis	episodes=1 episode, 2016 	
+character=Boat Captain	name=Daniel Matmor	episodes=1 episode, 2016 	
+character=Dr. Wilson Kerry	name=Ben Carlson	episodes=1 episode, 2016 	
+character=Francis	name=Tonya Pinkins	episodes=1 episode, 2017 	
+character=Karen	name=Lindsey Connell	episodes=1 episode, 2017 	
+character=Val	name=Camille Stopps	episodes=1 episode, 2014 	
+character=Brea	name=Quincy Tyler Bernstine	episodes=1 episode, 2014 	
+character=Marianne	name=Christy Bruce	episodes=1 episode, 2015 	
+character=Senator Sertorius	name=Tadhg McMahon	episodes=1 episode, 2015 	
+character=Engineer	name=Gary Biggar	episodes=1 episode, 2015 	
+character=Fay	name=Zarrin Darnell-Martin	episodes=1 episode, 2016 	
+character=Saskia van Orden	name=Erin Noble	episodes=1 episode, 2016 	
+character=Night Patrol Officer 	name=Ted Charette	episodes=1 episode, 2016 	
+character=Jenn	name=Katherine Gauthier	episodes=1 episode, 2017 	
+character=Hollow-Eyed Woman	name=Dave Barclay	episodes=1 episode, 2017 	
+character=Husband	name=Dave Barclay	episodes=1 episode, 2017 	
+character=Syndie	name=Tiffany Martin	episodes=1 episode, 2014 	
+character=Officer Green	name=Neil Girvan	episodes=1 episode, 2015 	
+character=Patrick	name=Tim O	episodes=1 episode, 2015 	
+character=Patrick	name=Halloran	episodes=1 episode, 2015 	
+character=Victor	name=Greg Campbell	episodes=1 episode, 2015 	
+character=Homeland Security Agent	name=Kris Bowman	episodes=1 episode, 2015 	
+character=Kimberly	name=Kaniehtiio Horn	episodes=1 episode, 2016 	
+character=Bob Borgen	name=David Huband	episodes=1 episode, 2016 	
+character=The Roman Master	name=Paul Aspland	episodes=1 episode, 2016 	
+character=Guard	name=Jarrett Downey-Shaw	episodes=1 episode, 2016 	
+character=Officer	name=JD Smith	episodes=1 episode, 2017 	
+character=Jack Murphy	name=David Bronfman	episodes=1 episode, 2017 	
+character=Dave the Commuter	name=James Eddy	episodes=1 episode, 2017 	
+character=Peter Bishop	name=Andrew Divoff	episodes=1 episode, 2014 	
+character=David	name=Ben Beauchemin	episodes=1 episode, 2014 	
+character=Stephanie	name=Molly Kidder	episodes=1 episode, 2014 	
+character=Albanian Farmer	name=Krikor Sagherian	episodes=1 episode, 2014 	
+character=Grace Wu	name=Grace Lynn Kung	episodes=1 episode, 2015 	
+character=Neil Archer	name=Bruce Hunter	episodes=1 episode, 2015 	
+character=Train Worker	name=Lorne Hunter	episodes=1 episode, 2015 	
+character=Braden	name=Christopher Jacot	episodes=1 episode, 2016 	
+character=Female Cop	name=Allison Wilson-Forbes	episodes=1 episode, 2016 	
+character=Night Patrol 1	name=Matthew Binkley	episodes=1 episode, 2016 	
+character=Yoga Mom Strigoi	name=Jessica Embro	episodes=1 episode, 2016 	
+character=Officer	name=Derek Barnes	episodes=1 episode, 2017 	
+character=Cather	name=Jarrod MacLean	episodes=1 episode, 2017 	
+character=Brian	name=Cody Ray Thompson	episodes=1 episode, 2014 	
+character=Flaxton 	name=Barry Flatman	episodes=1 episode, 2014 	
+character=Regis CEO	name=Barry Flatman	episodes=1 episode, 2014 	
+character=Beverly	name=Theresa Tova	episodes=1 episode, 2014 	
+character=Albanian Boy	name=Luca Policelli	episodes=1 episode, 2014 	
+character=Helga Richtler	name=Julie Engelbrecht	episodes=1 episode, 2015 	
+character=Jimmy Wu	name=Ho Chow	episodes=1 episode, 2015 	
+character=Cole	name=Blake Mawson	episodes=1 episode, 2015 	
+character=Romani Father	name=Omar Alex Khan	episodes=1 episode, 2015 	
+character=Captain James Bonner	name=Tim Post	episodes=1 episode, 2016 	
+character=Vex	name=Michael Chwastiak	episodes=1 episode, 2016 	
+character=Holmes 	name=Cam Fergus	episodes=1 episode, 2016 	
+character=Navy Seal	name=Cam Fergus	episodes=1 episode, 2016 	
+character=Technician	name=Karen Jewels	episodes=1 episode, 2016 	
+character=Terkel	name=Adam Butcher	episodes=1 episode, 2017 	
+character=Dukali	name=Ehren Kassam	episodes=1 episode, 2017 	
+character=Cyril	name=Andrew Robinson	episodes=1 episode, 2017 	
+character=Receptionist Laura	name=Michelle Mylett	episodes=1 episode, 2014 	
+character=Jax	name=Genevieve Kang	episodes=1 episode, 2014 	
+character=Sebastiane	name=Shailene Garnett	episodes=1 episode, 2014 	
+character=Ronnie	name=Michel Issa Rubio	episodes=1 episode, 2014 	
+character=Albanian Girl	name=Aja Neinstein	episodes=1 episode, 2014 	
+character=Farouk	name=Yasin Sheikh	episodes=1 episode, 2014 	
+character=Robin Fitzwilliam	name=Catherine Burdon	episodes=1 episode, 2015 	
+character=Newscaster	name=Pat Kiernan	episodes=1 episode, 2015 	
+character=James	name=Daniel Keith Morrison	episodes=1 episode, 2015 	
+character=Stoneheart Security Agent 	name=James Binkley	episodes=1 episode, 2015 	
+character=Young Abraham 	name=Sammy Silver	episodes=1 episode, 2015 	
+character=Years-Old	name=Sammy Silver	episodes=1 episode, 2015 	
+character=Night Patrol 2	name=Eric Hicks	episodes=1 episode, 2016 	
+character=Ray	name=Phillip Jarrett	episodes=1 episode, 2016 	
+character=George	name=George Nickolas K.	episodes=1 episode, 2016 	
+character=Night Patrol Officer 	name=David Patrick Flemming	episodes=1 episode, 2016 	
+character=German Wehrmacht Soldier	name=Lukas Penar	episodes=1 episode, 2016 	
+character=Jeremy	name=Jonathan Malen	episodes=1 episode, 2017 	
+character=Neil	name=Adrian G. Griffiths	episodes=1 episode, 2017 	
+character=Milos	name=Jack Newman	episodes=1 episode, 2017 	
+character=Stumpf	name=Damien Howard	episodes=1 episode, 2017 	
+character=Tanker Driver	name=Matthew R. Wilson	episodes=1 episode, 2017 	
+character=Special Agent Woodbridge	name=Joshua Peace	episodes=1 episode, 2014 	
+character=Gregg Nelson	name=Dwight Ireland	episodes=1 episode, 2014 	
+character=Badass Guard	name=Julian Lewis	episodes=1 episode, 2014 	
+character=Soso Egnatashvili	name=Xhemi Agaj	episodes=1 episode, 2014 	
+character=Stoneheart Security Agent 	name=Alex Cruz	episodes=1 episode, 2015 	
+character=Detective Paul Sampson	name=Alex Karzis	episodes=1 episode, 2015 	
+character=Officer Nick Edmondson	name=Dax Ravina	episodes=1 episode, 2015 	
+character=Husband	name=John Fray	episodes=1 episode, 2015 	
+character=Karl Spurzem	name=M. John Kennedy	episodes=1 episode, 2015 	
+character=Sardu	name=George Kelebay	episodes=1 episode, 2015 	
+character=Brother	name=George Kelebay	episodes=1 episode, 2015 	
+character=Conductor	name=Bryon Mumford	episodes=1 episode, 2015 	
+character=Nick Coley 	name=Carlos Gonzalez-Vio	episodes=1 episode, 2016 	
+character=Navy Seal	name=Carlos Gonzalez-Vio	episodes=1 episode, 2016 	
+character=Safe Streets Guard 	name=Nick Stojanovic	episodes=1 episode, 2016 	
+character=Subject 505	name=Viv Moore	episodes=1 episode, 2016 	
+character=Fulton	name=Charles-Henry Joseph	episodes=1 episode, 2016 	
+character=Nurse	name=Erica Levene	episodes=1 episode, 2016 	
+character=Eddie	name=Michael Rhoades	episodes=1 episode, 2017 	
+character=Beau	name=Thomas Mitchell	episodes=1 episode, 2014 	
+character=Van Cop 	name=Frank Chiesurin	episodes=1 episode, 2014 	
+character=Nigerian	name=Kingsley Ngadi	episodes=1 episode, 2014 	
+character=Opponent	name=Matthew G. Taylor	episodes=1 episode, 2015 	
+character=Sarah	name=Tanya Allen	episodes=1 episode, 2015 	
+character=Risa Crouse	name=Lucy Hill	episodes=1 episode, 2015 	
+character=Oscar Brandt	name=John Nelles	episodes=1 episode, 2015 	
+character=Janitor	name=Mio Adilman	episodes=1 episode, 2015 	
+character=Grocer Strigoi	name=Daniel Park	episodes=1 episode, 2016 	
+character=Carl	name=Jeffrey Knight	episodes=1 episode, 2016 	
+character=Dooley	name=Patrick Stevenson	episodes=1 episode, 2017 	
+character=Anglican Priest	name=Gavin Williams	episodes=1 episode, 2017 	
+character=Hollow-Eyed Woman	name=Keira McNeice	episodes=1 episode, 2017 	
+character=Daughter	name=Keira McNeice	episodes=1 episode, 2017 	
+character=Rafi	name=Ngabo Nabea	episodes=1 episode, 2017 	
+character=Therapist	name=Rachael Crawford	episodes=1 episode, 2014 	
+character=Jacob Setrakian	name=Rhys Ward	episodes=1 episode, 2014 	
+character=Horace	name=Dimitri Vantis	episodes=1 episode, 2014 	
+character=Van Driver	name=Stéphane Lefebvre	episodes=1 episode, 2014 	
+character=Tom Perry	name=Romaine Waite	episodes=1 episode, 2015 	
+character=Hector Perez	name=Ian Paola	episodes=1 episode, 2015 	
+character=Bewildered Man	name=Christopher Kelk	episodes=1 episode, 2015 	
+character=Louis	name=Chris Locke	episodes=1 episode, 2015 	
+character=Worker	name=Charlie Ebbs	episodes=1 episode, 2015 	
+character=Klaus Schnurrbart	name=Stephen Park	episodes=1 episode, 2015 	
+character=Driver	name=Warren Chow	episodes=1 episode, 2015 	
+character=Assistant Teacher	name=Devon Healey	episodes=1 episode, 2015 	
+character=Janitor	name=Alexandra Boyadjieff	episodes=1 episode, 2015 	
+character=Little Girl	name=Alexandra Boyadjieff	episodes=1 episode, 2015 	
+character=Dr. Arva Somani	name=Laara Sadiq	episodes=1 episode, 2016 	
+character=Captain John Cushnell	name=Tre Smith	episodes=1 episode, 2016 	
+character=Safe Streets Guard 	name=Lancy Wilson	episodes=1 episode, 2016 	
+character=Safe Streets Guard 	name=David D	episodes=1 episode, 2016 	
+character=Billy	name=Tim MacLean	episodes=1 episode, 2016 	
+character=Human Guard	name=Boomer Phillips	episodes=1 episode, 2017 	
+character=Emily	name=Ava Preston	episodes=1 episode, 2017 	
+character=Orphan Boy	name=Cole Kapoor	episodes=1 episode, 2017 	
+character=Holland	name=John Iwasin	episodes=1 episode, 2017 	
+character=Chauffeur	name=Andrew Hinkson	episodes=1 episode, 2014 	
+character=Sledge	name=Scott Yaphe	episodes=1 episode, 2014 	
+character=Prisoner 	name=Sebastian MacLean	episodes=1 episode, 2014 	
+character=Untersturmführer	name=Peter Jurt	episodes=1 episode, 2014 	
+character=NY1 Stock Reporter	name=Maura Grierson	episodes=1 episode, 2015 	
+character=Facilitator 	name=Billy Parrott	episodes=1 episode, 2015 	
+character=Janitor	name=Paloma Nuñez	episodes=1 episode, 2015 	
+character=Wife	name=Paloma Nuñez	episodes=1 episode, 2015 	
+character=Dylan	name=Dan Warry-Smith	episodes=1 episode, 2015 	
+character=Bus Driver	name=Sistah Lois	episodes=1 episode, 2015 	
+character=Chris	name=Roland Greber	episodes=1 episode, 2015 	
+character=Blind Girl 	name=Elle MacGregor	episodes=1 episode, 2015 	
+character=James	name=Martin Roach	episodes=1 episode, 2016 	
+character=Dr. Amanda Edmondson	name=Janaya Stephens	episodes=1 episode, 2016 	
+character=New Yorker	name=Carmine Lucarelli	episodes=1 episode, 2016 	
+character=Ross	name=David Ingram	episodes=1 episode, 2017 	
+character=Abby	name=Adam Peddle	episodes=1 episode, 2017 	
+character=Boyfriend	name=Adam Peddle	episodes=1 episode, 2017 	
+character=Emily	name=David Petrie	episodes=1 episode, 2017 	
+character=Father	name=David Petrie	episodes=1 episode, 2017 	
+character=Faran	name=Shamus Fynes	episodes=1 episode, 2017 	
+character=Carlo	name=Alex Mallari Jr.	episodes=1 episode, 2014 	
+character=Air Traffic Controller	name=Dov Tiefenbach	episodes=1 episode, 2014 	
+character=Foster	name=Matthew Bennett	episodes=1 episode, 2014 	
+character=Wilson	name=Steve Whistance-Smith	episodes=1 episode, 2014 	
+character=Prisoner 	name=Matthew Paul Gonzales	episodes=1 episode, 2014 	
+character=Benjy Barbour	name=Evan Robinson	episodes=1 episode, 2014 	
+character=Medical Officer	name=Chris Owens	episodes=1 episode, 2015 	
+character=Rudyard Fonescu	name=Christian Distefano	episodes=1 episode, 2015 	
+character=NYPD Officer 	name=Matthew G. Brown	episodes=1 episode, 2015 	
+character=General Dean Rushing	name=Brian Paul	episodes=1 episode, 2015 	
+character=Facilitator 	name=Aviva Armour-Ostroff	episodes=1 episode, 2015 	
+character=Blind Girl 	name=Ava MacGregor	episodes=1 episode, 2015 	
+character=Chivo	name=Joseph Recinos	episodes=1 episode, 2015 	
+character=Raul	name=Bobby Manning	episodes=1 episode, 2016 	
+character=Harvey	name=Marvin Kaye	episodes=1 episode, 2017 	
+character=Sailor 	name=Jonathan Goldapple	episodes=1 episode, 2017 	
+character=Det. Marc Weber	name=Lindsay Owen Pierre	episodes=1 episode, 2014 	
+character=Hazmat Worker	name=Matthew Lemche	episodes=1 episode, 2014 	
+character=Barclay	name=Sofia Wells	episodes=1 episode, 2014 	
+character=Jeff	name=Alex Soldatov	episodes=1 episode, 2014 	
+character=Car Service Driver	name=Greg Lanzillotta	episodes=1 episode, 2014 	
+character=Doris	name=Joan Massiah	episodes=1 episode, 2014 	
+character=Jewish Prisoner 	name=James Patrick Pettitt	episodes=1 episode, 2014 	
+character=Haily Barbour	name=Claire Robinson	episodes=1 episode, 2014 	
+character=NYPD Officer 	name=Lachlan Murdoch	episodes=1 episode, 2015 	
+character=Curfew Patrol Cop 	name=Trevor Hayes	episodes=1 episode, 2015 	
+character=Stoneheart Security Agent 	name=Nick Alachiotis	episodes=1 episode, 2015 	
+character=Councilman Andrew Bernstein	name=Alan Rosenthal	episodes=1 episode, 2015 	
+character=Mr. Ortega	name=Juan Carlos Velis	episodes=1 episode, 2015 	
+character=Bartender	name=Matt MacDonald	episodes=1 episode, 2015 	
+character=Blind Kid 	name=Nicholas Hamzea	episodes=1 episode, 2015 	
+character=Homeland Security Officer	name=Junior Williams	episodes=1 episode, 2015 	
+character=Kenny Ford 	name=Ronnie Rowe	episodes=1 episode, 2016 	
+character=Navy Seal	name=Ronnie Rowe	episodes=1 episode, 2016 	
+character=Ricci	name=Brian J. Graham	episodes=1 episode, 2017 	
+character=Sailor 	name=Brook Jones	episodes=1 episode, 2017 	
+character=Frontier Woman Raider	name=Jessica Reynolds	episodes=1 episode, 2017 	
+character=Dr. Box	name=Neil Crone	episodes=1 episode, 2014 	
+character=Germaine	name=Jean Pearson	episodes=1 episode, 2014 	
+character=NTSB Investigator	name=Simon D. Scott	episodes=1 episode, 2014 	
+character=Weatherman	name=Jeff Elliot	episodes=1 episode, 2014 	
+character=NY1 Anchor	name=Tara Lynn Wagner	episodes=1 episode, 2014 	
+character=Parking Attendant	name=Tino Demitro	episodes=1 episode, 2014 	
+character=Ancient	name=Josh Horvath	episodes=1 episode, 2015 	
+character=Victim	name=Josh Horvath	episodes=1 episode, 2015 	
+character=Transportation Officer	name=Danny Waugh	episodes=1 episode, 2015 	
+character=Stoneheart Guard 	name=David Christo	episodes=1 episode, 2015 	
+character=Stoneheart Security Agent 	name=Christopher Di Meo	episodes=1 episode, 2015 	
+character=Cop	name=Don W. Shepherd	episodes=1 episode, 2015 	
+character=Deedee	name=Rhea Akler	episodes=1 episode, 2015 	
+character=Alannah	name=Sabryn Rock	episodes=1 episode, 2017 	
+character=Doctor Himoff	name=Jordan Pettle	episodes=1 episode, 2017 	
+character=Vince	name=Bo Manning	episodes=1 episode, 2017 	
+character=Misdemeanor Judge	name=Craig Gardner	episodes=1 episode, 2014 	
+character=Assailant	name=Jerry Rector	episodes=1 episode, 2015 	
+character=Dr. Arley	name=Michael Gordin Shore	episodes=1 episode, 2015 	
+character=Stoneheart Guard 	name=Justin Landry	episodes=1 episode, 2015 	
+character=Sick Wife	name=Tara Koehler	episodes=1 episode, 2015 	
+character=Stoneheart Security Agent 	name=Brian Jagersky	episodes=1 episode, 2015 	
+character=Man 	name=John Marcucci	episodes=1 episode, 2015 	
+character=Sardu	name=John Marcucci	episodes=1 episode, 2015 	
+character=Grandmother	name=Amanda Smith	episodes=1 episode, 2016 	
+character=Shifty Guy	name=Aidan Moreno	episodes=1 episode, 2017 	
+character=Prepper	name=Darryl Scheelar	episodes=1 episode, 2017 	
+character=Cleo	name=Jacqueline Byers	episodes=1 episode, 2014 	
+character=Dr. Evanston	name=Tara Spencer-Nairn	episodes=1 episode, 2014 	
+character=Family Court Judge	name=Deborah Grover	episodes=1 episode, 2014 	
+character=Rose - Flight Attendant	name=Karen Glave	episodes=1 episode, 2014 	
+character=Biggs	name=John Kalbhenn	episodes=1 episode, 2014 	
+character=Homeless Man	name=Mark Irvingsen	episodes=1 episode, 2015 	
+character=Reporter	name=Pay Chen	episodes=1 episode, 2015 	
+character=Brooke	name=Samantha Michelle	episodes=1 episode, 2015 	
+character=Man 	name=Todd Thomas Dark	episodes=1 episode, 2015 	
+character=Sardu	name=Todd Thomas Dark	episodes=1 episode, 2015 	
+character=Vannelli 	name=Al Vrkljan	episodes=1 episode, 2016 	
+character=Navy Seal	name=Al Vrkljan	episodes=1 episode, 2016 	
+character=Big Man	name=Miguel Anthony	episodes=1 episode, 2017 	
+character=Administrator	name=Jody Stevens	episodes=1 episode, 2017 	
+character=Ms. Byrne	name=Carolyn Scott	episodes=1 episode, 2014 	
+character=Peter - Flight Attendant	name=Adriano Sobretodo Jr.	episodes=1 episode, 2014 	
+character=Richard	name=Peter Spence	episodes=1 episode, 2014 	
+character=Surgical Nurse	name=Joanna Swan	episodes=1 episode, 2014 	
+character=Reporter	name=Gurdeep Ahluwalia	episodes=1 episode, 2015 	
+character=Dale	name=Bruce Dow	episodes=1 episode, 2015 	
+character=Philanthropist 	name=Norwich Duff	episodes=1 episode, 2015 	
+character=Videographer	name=John Chou	episodes=1 episode, 2015 	
+character=Convoy SUV Driver	name=Nug	episodes=1 episode, 2017 	
+character=Convoy SUV Driver	name=Mike 	episodes=1 episode, 2017 	
+character=Convoy SUV Driver	name=Nahrgang	episodes=1 episode, 2017 	
+character=Waiter	name=Hugh Tran	episodes=1 episode, 2017 	
+character=Site Foreman	name=Kevin Dennis	episodes=1 episode, 2014 	
+character=NYPD Cop	name=Egidio Tari	episodes=1 episode, 2014 	
+character=German Guard 	name=Mathieu Burdan	episodes=1 episode, 2014 	
+character=Photographer	name=David Spowart	episodes=1 episode, 2014 	
+character=Philanthropist 	name=Paula Barrett	episodes=1 episode, 2015 	
+character=Ron	name=J.D. Nicholsen	episodes=1 episode, 2015 	
+character=Waiter	name=Alejandro Ampudia	episodes=1 episode, 2015 	
+character=Convoy Semi Truck Driver	name=Regan Moore	episodes=1 episode, 2017 	
+character=Woman in Cage	name=Sylverine Saul-Nurse	episodes=1 episode, 2017 	
+character=German Guard 	name=Dennis Andres	episodes=1 episode, 2014 	
+character=Homeland Security Official	name=Andrew Moodie	episodes=1 episode, 2014 	
+character=Mindy	name=Amanda Schik	episodes=1 episode, 2014 	
+character=Band Member 	name=Trevor MacLeod	episodes=1 episode, 2014 	
+character=Correction Officer Harris	name=Bruno Verdoni	episodes=1 episode, 2015 	
+character=Antonio	name=Andrew Fleming	episodes=1 episode, 2015 	
+character=Prep Room Guard	name=Matt Birman	episodes=1 episode, 2017 	
+character=Port Authority Officer	name=Robert B. Kennedy	episodes=1 episode, 2014 	
+character=Band Member 	name=Reid Henry	episodes=1 episode, 2014 	
+character=Lang	name=Peter Williams	episodes=1 episode, 2014 	
+character=Gianni	name=Michael A. Miranda	episodes=1 episode, 2015 	
+character=Rookie Cop	name=Troy Blundell	episodes=1 episode, 2014 	
+character=Band Member 	name=Brendan McMillan	episodes=1 episode, 2014 	
+character=Dempsey	name=Jason Martorino	episodes=1 episode, 2015 	
+character=NY1 Anchor	name=Adhemar Montagne	episodes=1 episode, 2014 	
+character=Band Member 	name=Doug Oliver	episodes=1 episode, 2014 	
+character=Old Russian Lady	name=Mila Kanev	episodes=1 episode, 2015 	
+character=NY1 Anchor	name=Cheryl Wills	episodes=1 episode, 2014 	
+character=Officer Wilson	name=Wayne Ward	episodes=1 episode, 2015 	
+character=Teenage Boy	name=David Knoll	episodes=1 episode, 2015 	
+character=Maitre D	name=Joel Redmond	episodes=1 episode, 2015 	
+character=Bodyguard	name=Curtis Borel	episodes=1 episode, 2015 	
+character=Stevens	name=Morgan Kelly	episodes=1 episode, 2015 	
+character=Captain Messina	name=Philip Williams	episodes=1 episode, 2015 	
+character=Lawyer	name=Adrian Griffin	episodes=1 episode, 2015 	
+character=Reporter 	name=Sangita Patel	episodes=1 episode, 2015 	
+character=Carl	name=Adam Langton	episodes=1 episode, 2015 	
+character=Glenn	name=Austin Strugnell	episodes=1 episode, 2015 	
+character=Steve	name=Pete Alexander	episodes=1 episode, 2015 	
+character=Surgeon	name=Michael McMurtry	episodes=1 episode, 2015 	
+character=Reynolds	name=Kaleb Alexander	episodes=1 episode, 2015 	
+character=NYPD 	name=Michael York	episodes=1 episode, 2015 	
+character=Reporter 	name=Anthony Furey	episodes=1 episode, 2015 	
+character=Staten Island Resident	name=Emilie Paquet	episodes=1 episode, 2015 	
+character=Bob	name=Eric Charbonneau	episodes=1 episode, 2015 	
+character=Maria	name=Tracy Perez	episodes=1 episode, 2016 	
+character=Young Guadalupe	name=Michelle Arvizu	episodes=1 episode, 2016 	
+character=Cheevo	name=Elias Edraki	episodes=1 episode, 2016 	
+character=The Ancients	name=Tom Colford	episodes=1 episode, 2016 	
+character=Stanley	name=Richard Young	episodes=1 episode, 2016 	
+character=Nando	name=Chris Young	episodes=1 episode, 2016 	
+character=Prisoner 	name=Paul Ebejer	episodes=1 episode, 2016 	
+character=Alex	name=George Ridout	episodes=1 episode, 2016 	
+character=Young Gus	name=Joey Nijem	episodes=1 episode, 2016 	
+character=Lee Tate	name=David Guthrie	episodes=1 episode, 2016 	
+character=Nurse	name=Natasha Bromfield	episodes=1 episode, 2016 	
+character=Prisoner 	name=Jsin Sasha	episodes=1 episode, 2016 	
+character=Charles Lee	name=Dalton Derek	episodes=1 episode, 2016 	
+character=Nurse Cohen	name=Katherine Cullen	episodes=1 episode, 2017 	
+character=Anaesthesiologist	name=Indy Saluja	episodes=1 episode, 2017 	
+character=Strigoi	name=Dani Jazzar	episodes=1 episode, 2017 	
+character=Karl	name=David Jack	episodes=1 episode, 2017 	
+character=Frightened Passerby	name=Jason Boyd	episodes=1 episode, 2017 	
+character=Tanker Driver	name=Matthew Willson	episodes=1 episode, 2017 	
+character=Plunkett	name=Matthew Gin	episodes=1 episode, 2017 	
+character=Vampire	name=Andrew Kyrzyk	episodes=6 episodes, 2014-2015 	
+character=Feeler	name=Jacqueline Olivia Lee	episodes=6 episodes, 2015-2016 	
+character=Prisoner	name=Derek Herd	episodes=2 episodes, 2014 	
+character=Hostess	name=Alyssa Veniece	episodes=2 episodes, 2015 	
+character=Strigoi	name=Ken Linton	episodes=2 episodes, 2017 	
+character=Female Goth	name=Annie Chen	episodes=1 episode, 2014 	
+character=German Guard	name=Simon Northwood	episodes=1 episode, 2014 	
+character=Swat Team Cop	name=Brendan J. Rowland	episodes=1 episode, 2014 	
+character=Short Homie	name=Sebastian Cordoba	episodes=1 episode, 2014 	
+character=Reporter	name=John Migliore	episodes=1 episode, 2014 	
+character=Male Goth	name=Jayme Desjardins	episodes=1 episode, 2014 	
+character=Airport Cop	name=Aris Athanasopoulos	episodes=1 episode, 2014 	
+character=Gus	name=Wolf Ryman	episodes=1 episode, 2014 	
+character=Boom Guy	name=Brent Robichaud	episodes=1 episode, 2014 	
+character=Family Member 	name=Laura Thorne	episodes=1 episode, 2014 	
+character=Nursing Home Strigoi	name=Jack Sansone	episodes=1 episode, 2014 	
+character=Palmer	name=Laura Nordin	episodes=1 episode, 2014 	
+character=Mother	name=Laura Nordin	episodes=1 episode, 2014 	
+character=Terminal Reporter	name=Matt Bois	episodes=1 episode, 2014 	
+character=Prisoner 	name=Craig Porritt	episodes=1 episode, 2014 	
+character=Kapo	name=Joe Vercillo	episodes=1 episode, 2014 	
+character=Grieving Family Member	name=Shawn Storer	episodes=1 episode, 2014 	
+character=ATC 	name=Chris Currie	episodes=1 episode, 2014 	
+character=Family member	name=Camillo Eugene Natale	episodes=1 episode, 2014 	
+character=Family Member 	name=Vanessa Volcy	episodes=1 episode, 2014 	
+character=Airplane Passenger	name=Ivana Ruegg	episodes=1 episode, 2014 	
+character=Extra	name=Will Wood	episodes=1 episode, 2014 	
+character=Male Goth	name=Mike Bassily	episodes=1 episode, 2014 	
+character=Father	name=Robert C.C. McCulloch	episodes=1 episode, 2014 	
+character=Evil Boxing Coach	name=Santiago Segura	episodes=1 episode, 2015 	
+character=Bob Welch	name=Jeff Pangman	episodes=1 episode, 2015 	
+character=Radio Reporter	name=Bettina Kenney	episodes=1 episode, 2015 	
+character=Background	name=Drew Carrymore	episodes=1 episode, 2015 	
+character=Blind Girl	name=Sydney Cross	episodes=1 episode, 2015 	
+character=The Investigator	name=Srinivasan Manivannan	episodes=1 episode, 2015 	
+character=Pedestrian	name=Raffi Atamian	episodes=1 episode, 2015 	
+character=Gay Hayden	name=Michelle Alexander	episodes=1 episode, 2016 	
+character=Survivor	name=Elena Khan	episodes=1 episode, 2016 	
+character=Sgt. Crouse	name=Ryan Turner	episodes=1 episode, 2016 	
+character=Feeler	name=Avery Trask	episodes=1 episode, 2016 	
+character=Mother	name=Joanna Haughton	episodes=1 episode, 2016 	
+character=Staffer 	name=Premika Leo	episodes=1 episode, 2016 	
+character=Wounded Soldier	name=John Jacob	episodes=1 episode, 2016 	
+character=Strigoi Detective	name=Leslie Takeda	episodes=1 episode, 2016 	
+character=Strigoi Housewife	name=April Anderson	episodes=1 episode, 2016 	
+character=Mourner 	name=Cyndy Day	episodes=1 episode, 2017 	
+character=Resistance Fighter	name=Jhonattan Ardila	episodes=1 episode, 2017 	
+character=Squatter	name=Blaine McKenzie	episodes=1 episode, 2017 	
+character=Resistance Fighter	name=Qaseem Gul	episodes=1 episode, 2017 	

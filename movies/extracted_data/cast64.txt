@@ -1,0 +1,132 @@
+# http://fitlayout.github.io/resource/art64 -> https://www.imdb.com/title/tt10361016/fullcredits/
+character=Alex	name=Natalie Dormer	episodes=10 episodes, 2020 	
+character=Tiago Vega	name=Daniel Zovatto	episodes=10 episodes, 2020 	
+character=Sister Molly Finnister	name=Kerry Bishé	episodes=10 episodes, 2020 	
+character=Maria Vega	name=Adriana Barraza	episodes=10 episodes, 2020 	
+character=Josefina Vega	name=Jessica Garza	episodes=10 episodes, 2020 	
+character=Councilman Charlton Townsend	name=Michael Gladis	episodes=10 episodes, 2020 	
+character=Mateo Vega	name=Johnathan Nieves	episodes=10 episodes, 2020 	
+character=Peter Craft	name=Rory Kinnear	episodes=10 episodes, 2020 	
+character=Lewis Michener	name=Nathan Lane	episodes=10 episodes, 2020 	
+character=Kurt	name=Dominic Sherwood	episodes=10 episodes, 2020 	
+character=Tom Craft	name=Julian Hilliard	episodes=9 episodes, 2020 	
+character=Frank Branson	name=Santino Barnard	episodes=8 episodes, 2020 	
+character=Fly Rico	name=Sebastian Chacon	episodes=8 episodes, 2020 	
+character=Raul Vega	name=Adam Rodriguez	episodes=8 episodes, 2020 	
+character=Trevor Craft	name=Hudson West	episodes=8 episodes, 2020 	
+character=Miss Adelaide	name=Amy Madigan	episodes=8 episodes, 2020 	
+character=Richard Goss	name=Thomas Kretschmann	episodes=8 episodes, 2020 	
+character=Brian Koenig	name=Kyle McArthur	episodes=6 episodes, 2020 	
+character=Linda Craft	name=Piper Perabo	episodes=6 episodes, 2020 	
+character=Diego Lopez	name=Adan Rocha	episodes=6 episodes, 2020 	
+character=Dottie Minter	name=Lin Shaye	episodes=6 episodes, 2020 	
+character=Ned Vanderhoff	name=Brent Spiner	episodes=6 episodes, 2020 	
+character=Bernadette Romero	name=Stephanie Arcila	episodes=6 episodes, 2020 	
+character=Frank Murphy	name=Scott Beehner	episodes=6 episodes, 2020 	
+character=Beverly Beck	name=Christine Estabrook	episodes=5 episodes, 2020 	
+character=Santa Muerte	name=Lorenza Izzo	episodes=5 episodes, 2020 	
+character=Jimmy Reilly	name=Rod McLachlan	episodes=4 episodes, 2020 	
+character=Randolph	name=David Figlioli	episodes=4 episodes, 2020 	
+character=Benny Berman	name=Brad Garrett	episodes=3 episodes, 2020 	
+character=Herman Ackermann	name=Ethan Peck	episodes=3 episodes, 2020 	
+character=Ana	name=Gabriella Martinez	episodes=3 episodes, 2020 	
+character=Mercedes	name=Thalia Soto	episodes=3 episodes, 2020 	
+character=Sammy	name=Jeremy Cohenour	episodes=2 episodes, 2020 	
+character=Skip	name=Erik Altemus	episodes=2 episodes, 2020 	
+character=Jose Vega	name=Holger Moncada Jr.	episodes=2 episodes, 2020 	
+character=Nurse Laura	name=Lindsay Musil	episodes=2 episodes, 2020 	
+character=Nervous Young Cop	name=Alec Tokar	episodes=2 episodes, 2020 	
+character=Sofia	name=Veronica Ocasio	episodes=2 episodes, 2020 	
+character=Another Man	name=Tyler Seiple	episodes=2 episodes, 2020 	
+character=Bund Singer 2	name=John Atkins	episodes=1 episode, 2020 	
+character=Vocalist	name=Patti LuPone	episodes=1 episode, 2020 	
+character=Sam Bloom	name=Richard Kind	episodes=1 episode, 2020 	
+character=Cop 1	name=Robert Kestler	episodes=1 episode, 2020 	
+character=Designer	name=Guilford Adams	episodes=1 episode, 2020 	
+character=Cop 2	name=Tony Nunes	episodes=1 episode, 2020 	
+character=Workman 1	name=Daniel Armella	episodes=1 episode, 2020 	
+character=Jerome Townsend	name=Brian Dennehy	episodes=1 episode, 2020 	
+character=Anton Chevic	name=Bill Smitrovich	episodes=1 episode, 2020 	
+character=Fat Detective	name=Doug Sinclair	episodes=1 episode, 2020 	
+character=Boy on Bicycle	name=Julian Bray	episodes=1 episode, 2020 	
+character=National Guard Soldier	name=Paul Chirico	episodes=1 episode, 2020 	
+character=Beck	name=Shea Elmore	episodes=1 episode, 2020 	
+character=Assistant	name=Shea Elmore	episodes=1 episode, 2020 	
+character=Coroner	name=Christopher Darga	episodes=1 episode, 2020 	
+character=Esperanza Romero	name=Victoria Hernandez	episodes=1 episode, 2020 	
+character=Workman 2	name=Nick Lee	episodes=1 episode, 2020 	
+character=Chicano Kid	name=Santiago Veizaga	episodes=1 episode, 2020 	
+character=Maitre d	name=Trevor Black	episodes=1 episode, 2020 	
+character=Heavy-Set Man	name=Lawrence E Thomas	episodes=1 episode, 2020 	
+character=Tough	name=Steve Moulton	episodes=1 episode, 2020 	
+character=Guard 2	name=Andrew David Bridges	episodes=1 episode, 2020 	
+character=Shooting Gallery Operator	name=Benjamin Seay	episodes=1 episode, 2020 	
+character=Beverly Hills Policeman	name=John Ruby	episodes=1 episode, 2020 	
+character=Guard	name=Liam Cronin	episodes=1 episode, 2020 	
+character=Band Leader	name=Jordan Seigel	episodes=1 episode, 2020 	
+character=Assistant	name=Britain Simons	episodes=1 episode, 2020 	
+character=Policeman	name=Kenney Selvey	episodes=1 episode, 2020 	
+character=Nurse	name=Joy Jacobson	episodes=1 episode, 2020 	
+character=Little Girl	name=Aubrey Rose Garcia	episodes=1 episode, 2020 	
+character=Young Tiago	name=Evan Whitten	episodes=1 episode, 2020 	
+character=Doctor	name=Brian Michael Jones	episodes=1 episode, 2020 	
+character=Bartender	name=Joshua Michael Glenn	episodes=1 episode, 2020 	
+character=Young Wife	name=Meredith Parks	episodes=1 episode, 2020 	
+character=Leonard Schiff	name=Terence J. Rotolo	episodes=1 episode, 2020 	
+character=Florence Moore	name=Adora Sheikh	episodes=1 episode, 2020 	
+character=Bartender	name=Joshua Michaels	episodes=1 episode, 2020 	
+character=Pedestrian	name=Sashah Askari	episodes=5 episodes, 2020 	
+character=Pachuco	name=Artur Lago-V	episodes=4 episodes, 2020 	
+character=Homeless Man	name=Adam Bhukk	episodes=4 episodes, 2020 	
+character=Crimson Cat Dancer	name=Mariela Arteaga	episodes=3 episodes, 2020 	
+character=Crimson Cat Dancer	name=Jett Wilder	episodes=3 episodes, 2020 	
+character=Pachuca	name=Michelle J. Costello	episodes=3 episodes, 2020 	
+character=Clubgoer	name=Luke Matheis	episodes=3 episodes, 2020 	
+character=Dancer	name=Hansel Ramírez	episodes=3 episodes, 2020 	
+character=Pachuco	name=Desi Jevon	episodes=3 episodes, 2020 	
+character=Crimson Cat Dancer	name=Hector Guerrero	episodes=3 episodes, 2020 	
+character=Crimson Cat Dancer	name=Doug Penikas	episodes=2 episodes, 2020 	
+character=Crimson Cat Dancer	name=Dawn Noel	episodes=2 episodes, 2020 	
+character=Crimson Cat Dancer	name=Ayesha Orange	episodes=2 episodes, 2020 	
+character=Dancer	name=Shannon Beach	episodes=2 episodes, 2020 	
+character=Pachuco	name=Ruben Perez	episodes=2 episodes, 2020 	
+character=Bund Member 	name=Martin Thompson	episodes=1 episode, 2020 	
+character=Policeman	name=Davy Williams	episodes=1 episode, 2020 	
+character=James	name=Dane E. Connor	episodes=1 episode, 2020 	
+character=Salsa Dancer	name=Francisco Javier Gomez	episodes=1 episode, 2020 	
+character=Crimson Cat Pachuco	name=Jaeme Velez	episodes=1 episode, 2020 	
+character=Crimson Cat Bartender	name=Sassan Saffari	episodes=1 episode, 2020 	
+character=Crimson Cat Dancer	name=Mason Trueblood	episodes=1 episode, 2020 	
+character=Crimson Cat Dancer	name=Yvette Tucker	episodes=1 episode, 2020 	
+character=Bund Singer 	name=Jeffrey Alan Solomon	episodes=1 episode, 2020 	
+character=Cop	name=David Eby	episodes=1 episode, 2020 	
+character=Crimson Cat Guest	name=Ansa Woo	episodes=1 episode, 2020 	
+character=Pedestrian	name=Christine Heneise	episodes=1 episode, 2020 	
+character=Sailor	name=Aleksandr Staprans	episodes=1 episode, 2020 	
+character=Latino Kid 	name=Emmanuel Manzanares	episodes=1 episode, 2020 	
+character=Man in Park	name=Wade Baker	episodes=1 episode, 2020 	
+character=Pachuco	name=Luis Cherubini	episodes=1 episode, 2020 	
+character=Pachuco	name=Minn Vo	episodes=1 episode, 2020 	
+character=Taxi Bar Patron	name=Charles Fournier	episodes=1 episode, 2020 	
+character=Pedestrian	name=Trent Longo	episodes=1 episode, 2020 	
+character=Doctor	name=Bruce M. Stockert	episodes=1 episode, 2020 	
+character=Drunk Sailor	name=Jay Ellis	episodes=1 episode, 2020 	
+character=Protester	name=Mike A Nidiffer	episodes=1 episode, 2020 	
+character=Asylum Patient	name=Evan Richards	episodes=1 episode, 2020 	
+character=Tom	name=Noah Steven Orcutt	episodes=1 episode, 2020 	
+character=Sleepover Friend	name=Noah Steven Orcutt	episodes=1 episode, 2020 	
+character=Bund Member 	name=Frank Arend	episodes=1 episode, 2020 	
+character=Civilian	name=Tiffany Carr	episodes=1 episode, 2020 	
+character=Blessed Congregate	name=Catherine Cahill	episodes=1 episode, 2020 	
+character=Day of The Dead	name=Elizabeth Langley	episodes=1 episode, 2020 	
+character=Nurse at Asylum	name=Patty Ann Nix	episodes=1 episode, 2020 	
+character=Pachucho	name=Rico Suarez	episodes=1 episode, 2020 	
+character=Protestor	name=Quincy Oshiro	episodes=1 episode, 2020 	
+character=Pachuco	name=Eduardo Conrique	episodes=1 episode, 2020 	
+character=Orderly	name=Clem Darling	episodes=1 episode, 2020 	
+character=Street Pedestrian	name=Sam Solomon	episodes=1 episode, 2020 	
+character=Sailor	name=Aaron Wittrock	episodes=1 episode, 2020 	
+character=Beachgoer	name=Ricky Jones	episodes=1 episode, 2020 	
+character=Pachuca	name=Chloe Ortega	episodes=1 episode, 2020 	
+character=Taxi Dancer	name=Alex Isenberg	episodes=1 episode, 2020 	
+character=Dancer	name=Ashley L Douglas	episodes=1 episode, 2020 	

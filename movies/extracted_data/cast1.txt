@@ -1,0 +1,134 @@
+# http://fitlayout.github.io/resource/art1 -> https://www.imdb.com/title/tt6468322/fullcredits/
+character=Tokio	name=Úrsula Corberó	episodes=41 episodes, 2017-2021 	
+character=El Profesor	name=Álvaro Morte	episodes=41 episodes, 2017-2021 	
+character=Raquel Murillo	name=Itziar Ituño	episodes=41 episodes, 2017-2021 	
+character=Berlín	name=Pedro Alonso	episodes=41 episodes, 2017-2021 	
+character=Río	name=Miguel Herrán	episodes=41 episodes, 2017-2021 	
+character=Denver	name=Jaime Lorente	episodes=41 episodes, 2017-2021 	
+character=Mónica Gaztambide	name=Esther Acebo	episodes=41 episodes, 2017-2021 	
+character=Helsinki	name=Darko Peric	episodes=41 episodes, 2017-2021 	
+character=Arturo Román	name=Enrique Arce	episodes=36 episodes, 2017-2021 	
+character=Nairobi	name=Alba Flores	episodes=34 episodes, 2017-2021 	
+character=Ángel	name=Fernando Soto	episodes=34 episodes, 2017-2021 	
+character=Suárez	name=Mario de la Rosa	episodes=34 episodes, 2017-2021 	
+character=Bogotá	name=Hovik Keuchkerian	episodes=26 episodes, 2019-2021 	
+character=Palermo	name=Rodrigo de la Serna	episodes=26 episodes, 2019-2021 	
+character=Alicia Sierra	name=Najwa Nimri	episodes=26 episodes, 2019-2021 	
+character=Marsella	name=Luka Peros	episodes=26 episodes, 2019-2021 	
+character=Coronel Tamayo	name=Fernando Cayo	episodes=25 episodes, 2019-2021 	
+character=Suarez	name=Rocco Narva	episodes=24 episodes, 2017-2020 	
+character=Moscú	name=Paco Tous	episodes=21 episodes, 2017-2021 	
+character=Matías Caño	name=Ahikar Azcona	episodes=21 episodes, 2019-2021 	
+character=Antoñanzas	name=Antonio Romero	episodes=21 episodes, 2019-2021 	
+character=Manila	name=Belén Cuesta	episodes=20 episodes, 2019-2021 	
+character=Coronel Prieto	name=Juan Fernández	episodes=20 episodes, 2017-2020 	
+character=Amanda	name=Olalla Hernández	episodes=20 episodes, 2019-2021 	
+character=Miguel Fernández	name=Carlos Suárez	episodes=20 episodes, 2019-2021 	
+character=Mariví Fuentes	name=Kiti Mánver	episodes=18 episodes, 2017-2020 	
+character=Paquita	name=Mari Carmen Sánchez	episodes=17 episodes, 2019-2021 	
+character=Oslo	name=Roberto Garcia	episodes=16 episodes, 2017-2020 	
+character=Alison Parker	name=María Pedraza	episodes=15 episodes, 2017 	
+character=Martínez	name=Mikel Bustamante	episodes=15 episodes, 2019-2021 	
+character=Gandía	name=José Manuel Poga	episodes=15 episodes, 2019-2021 	
+character=Mercedes Colmenar	name=Anna Gras	episodes=14 episodes, 2017 	
+character=Ariadna	name=Clara Alvarado	episodes=12 episodes, 2017 	
+character=Benjamín	name=Ramón Agirre	episodes=12 episodes, 2020-2021 	
+character=Presentadora de Informativos	name=Cristina Saavedra	episodes=12 episodes, 2017-2021 	
+character=Tatiana	name=Diana Gómez	episodes=11 episodes, 2019-2021 	
+character=Alberto Vicuña	name=Miquel García Borda	episodes=10 episodes, 2017-2021 	
+character=Darko Dragic	name=Alberto Lobo	episodes=10 episodes, 2017-2021 	
+character=Pablo	name=Fran Morcillo	episodes=9 episodes, 2017 	
+character=Sagasta	name=José Manuel Seda	episodes=9 episodes, 2021 	
+character=Arteche	name=Jennifer Miranda	episodes=9 episodes, 2021 	
+character=Dragan	name=Francisco Javier Pastor	episodes=3 episodes, 2017-2021 	
+character=Policía UIT	name=René León	episodes=9 episodes, 2019-2020 	
+character=Ramiro	name=Alberto Amarilla	episodes=8 episodes, 2021 	
+character=Shakir	name=Ajay Jethi	episodes=8 episodes, 2020-2021 	
+character=Paula Vicuña Murillo	name=Naia Guz	episodes=8 episodes, 2017-2020 	
+character=Shakir	name=Mustafa Haidari	episodes=8 episodes, 2020-2021 	
+character=Boris	name=Roman Rymar	episodes=7 episodes, 2020-2021 	
+character=Gómez	name=Xabi Ortuzar	episodes=6 episodes, 2017 	
+character=Rafael	name=Patrick Criado	episodes=6 episodes, 2021 	
+character=Canalejas	name=Juan Carlos Heredia	episodes=6 episodes, 2021 	
+character=Pilar	name=Agnès Llobet	episodes=4 episodes, 2017 	
+character=Periodista	name=Sara Solomando	episodes=4 episodes, 2019-2020 	
+character=Comisario	name=Pep Tosar	episodes=3 episodes, 2017 	
+character=Jacinto	name=Pedro Pablo Isla	episodes=3 episodes, 2017 	
+character=Periodista	name=Marina Esteve	episodes=3 episodes, 2020-2021 	
+character=Periodista	name=Irene Molina	episodes=3 episodes, 2019-2020 	
+character=Monje Giovanni	name=Paolo Sanminiatelli	episodes=3 episodes, 2019-2020 	
+character=Monje João	name=Neymar	episodes=3 episodes, 2019 	
+character=Jefe de Estado Mayor	name=Rafael Rojas	episodes=3 episodes, 2019 	
+character=Cincinnati	name=Luca Anton	episodes=3 episodes, 2019 	
+character=Periodista	name=Erika Bleda	episodes=2 episodes, 2017 	
+character=Nikolai	name=Peter Nikolas	episodes=2 episodes, 2017 	
+character=Agente Romero	name=Javier Perdiguero	episodes=2 episodes, 2017 	
+character=Paco	name=Óscar Zafra	episodes=2 episodes, 2017 	
+character=Madre de Río	name=Oti Manzano	episodes=2 episodes, 2017 	
+character=Policía	name=Práxedes Nieto	episodes=2 episodes, 2017 	
+character=Periodista	name=Mery Cabezuelo	episodes=2 episodes, 2017 	
+character=Periodista	name=Bárbara de Lema	episodes=2 episodes, 2017 	
+character=Mari Carmen	name=Elisabet Gelabert	episodes=2 episodes, 2017 	
+character=René	name=Miguel Ángel Silvestre	episodes=2 episodes, 2021 	
+character=Rosario Barremechea	name=Florencia Nocetti	episodes=2 episodes, 2020-2021 	
+character=Police Officer	name=Rubén Valero	episodes=2 episodes, 2020-2021 	
+character=San Francisco	name=El Nitro 56	episodes=2 episodes, 2017-2021 	
+character=Friend	name=Cawer Mx	episodes=2 episodes, 2017-2020 	
+character=Transport Man	name=Jesús Lloveras	episodes=2 episodes, 2019-2020 	
+character=Tokio	name=Jesús Lloveras	episodes=2 episodes, 2019-2020 	
+character=Periodista	name=Deborah Guerrero	episodes=2 episodes, 2019-2020 	
+character=Periodista	name=Javier Bolea	episodes=2 episodes, 2019-2020 	
+character=Bailarina	name=Dariam Coco	episodes=2 episodes, 2019 	
+character=Tokyo friend	name=Chacha Huang	episodes=2 episodes, 2019 	
+character=Ministro de Interior	name=Chema Ruiz	episodes=2 episodes, 2019 	
+character=SWAT Captain	name=Daniel Toscano	episodes=2 episodes, 2019 	
+character=Policía	name=Xavi Sáez	episodes=2 episodes, 2020 	
+character=Periodista	name=Maya Murofushi	episodes=2 episodes, 2020 	
+character=Cliente bar	name=Manuel Gancedo	episodes=2 episodes, 2020 	
+character=Periodista	name=Marjorie E. Glantz	episodes=2 episodes, 2020 	
+character=Madre de Tokio	name=Adelfa Calvo	episodes=1 episode, 2017 	
+character=Policía	name=Leticia Etala	episodes=1 episode, 2017 	
+character=Policía	name=Fran Morales	episodes=1 episode, 2017 	
+character=Médico	name=Néstor Arnas	episodes=1 episode, 2017 	
+character=Laura	name=Ainhoa Santamaría	episodes=1 episode, 2017 	
+character=Doctor ucraniano	name=Alejandro Bazzano	episodes=1 episode, 2017 	
+character=Teniente	name=Pere Brasó	episodes=1 episode, 2017 	
+character=Carcelario	name=Luis Bermejo	episodes=1 episode, 2017 	
+character=Policía	name=Mario Mayo	episodes=1 episode, 2017 	
+character=Julia Otero	name=Julia Otero	episodes=1 episode, 2017 	
+character=Farmacéutica	name=Montse Peidro	episodes=1 episode, 2017 	
+character=Presentadora de Espejo Público	name=Susanna Griso	episodes=1 episode, 2017 	
+character=Presentadora de Informativos	name=Cristina Pardo	episodes=1 episode, 2017 	
+character=Presentadora	name=Mercedes Pascua	episodes=1 episode, 2017 	
+character=Alfonso Egea	name=Alfonso Egea	episodes=1 episode, 2017 	
+character=Nacho Abad	name=Nacho Abad	episodes=1 episode, 2017 	
+character=Police Officer	name=Gonzalo Bouza	episodes=1 episode, 2021 	
+character=Police Officer	name=Pedro Freijeiro	episodes=1 episode, 2021 	
+character=Fernando Garea	name=Fernando Garea	episodes=1 episode, 2021 	
+character=Hans	name=Maarten Dannenberg	episodes=1 episode, 2021 	
+character=Tedax	name=David R. Moreno	episodes=1 episode, 2017 	
+character=Police	name=Aitor Sánchez	episodes=1 episode, 2017 	
+character=Esposa de Justino	name=Susi Sánchez	episodes=1 episode, 2019 	
+character=Paco	name=Juanma Lara	episodes=1 episode, 2019 	
+character=Pedro	name=Joaquín Gómez	episodes=1 episode, 2019 	
+character=Teniente Alcázar	name=Jesús Gallo	episodes=1 episode, 2019 	
+character=Justino	name=Carlos Cabra	episodes=1 episode, 2019 	
+character=Interpol Chief Officer	name=David Comrie	episodes=1 episode, 2019 	
+character=Special Force	name=Georges Celestin	episodes=1 episode, 2019 	
+character=Secretaria de Estado	name=Nathalie Portela	episodes=1 episode, 2019 	
+character=Dr. Ahmed	name=Jaskaran Brady	episodes=1 episode, 2020 	
+character=Sheila	name=Cecilia Rivera	episodes=1 episode, 2020 	
+character=Policía	name=Toni Salgado	episodes=1 episode, 2020 	
+character=Secuestrador argelí	name=Ogulcan Güzeller	episodes=1 episode, 2020 	
+character=Reportera Francesa	name=Alexandra Ansidei	episodes=1 episode, 2021 	
+character=Jefe de Policía Redada	name=Sergio Álvarez	episodes=1 episode, 2021 	
+character=Limpiadora banco	name=Ester Gotor	episodes=6 episodes, 2019 	
+character=Secretaria banco	name=Victoria Santos	episodes=6 episodes, 2019 	
+character=Chica	name=Ana Iglesias	episodes=2 episodes, 2019 	
+character=Chica del Metro	name=Alejandra Lifante	episodes=2 episodes, 2019 	
+character=Alfonso	name=Romel	episodes=1 episode, 2019 	
+character=Alfonso	name=Javi 	episodes=1 episode, 2019 	
+character=Alfonso	name=Isaac	episodes=1 episode, 2019 	
+character=Soldado Panameño	name=Henryk Abrego	episodes=1 episode, 2019 	
+character=Police Officer	name=Edgar García	episodes=1 episode, 2020 	
+character=Bar singer	name=Cecilia Krull	episodes=1 episode, 2021 	

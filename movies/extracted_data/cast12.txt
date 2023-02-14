@@ -1,0 +1,1263 @@
+# http://fitlayout.github.io/resource/art12 -> https://www.imdb.com/title/tt1119644/fullcredits/
+character=Olivia Dunham	name=Anna Torv	episodes=100 episodes, 2008-2013 	
+character=Peter Bishop	name=Joshua Jackson	episodes=100 episodes, 2008-2013 	
+character=Astrid Farnsworth	name=Jasika Nicole	episodes=100 episodes, 2008-2013 	
+character=Dr. Walter Bishop	name=John Noble	episodes=100 episodes, 2008-2013 	
+character=Phillip Broyles	name=Lance Reddick	episodes=90 episodes, 2008-2013 	
+character=Nina Sharp	name=Blair Brown	episodes=90 episodes, 2008-2012 	
+character=The Observer	name=Michael Cerveris	episodes=20 episodes, 2008-2013 	
+character=Charlie Francis	name=Kirk Acevedo	episodes=34 episodes, 2008-2011 	
+character=Lincoln Lee	name=Seth Gabel	episodes=34 episodes, 2010-2013 	
+character=Brandon Fayette	name=Ryan McDonald	episodes=20 episodes, 2009-2012 	
+character=John Scott	name=Mark Valley	episodes=13 episodes, 2008-2009 	
+character=Captain Windmark	name=Michael Kopsa	episodes=11 episodes, 2012-2013 	
+character=Ella	name=Lily Pilblad	episodes=11 episodes, 2009-2010 	
+character=Dr. William Bell	name=Leonard Nimoy	episodes=8 episodes, 2009-2012 	
+character=Rachel	name=Ari Graynor	episodes=10 episodes, 2009-2010 	
+character=December	name=Eugene Lipinski	episodes=9 episodes, 2009-2013 	
+character=David Robert Jones	name=Jared Harris	episodes=9 episodes, 2008-2012 	
+character=Thomas Jerome Newton	name=Sebastian Roché	episodes=6 episodes, 2009-2010 	
+character=Anil	name=Shaun Smyth	episodes=7 episodes, 2012-2013 	
+character=Sam Weiss	name=Kevin Corrigan	episodes=7 episodes, 2009-2011 	
+character=Henrietta Bishop	name=Georgina Haig	episodes=6 episodes, 2012 	
+character=FBI Agent Tim	name=Jarod Joseph	episodes=6 episodes, 2010-2012 	
+character=Michael	name=Rowan Longworth	episodes=6 episodes, 2012-2013 	
+character=Young Etta	name=Abagayle Hardwick	episodes=5 episodes, 2012-2013 	
+character=Alternate Elizabeth Bishop	name=Orla Brady	episodes=5 episodes, 2010-2012 	
+character=Edward Markham	name=Clark Middleton	episodes=5 episodes, 2009-2012 	
+character=Mitchell Loeb	name=Chance Kelly	episodes=5 episodes, 2008-2009 	
+character=Mueller	name=Michael J Rogers	episodes=5 episodes, 2012 	
+character=ND Agent 	name=Darby Lynn Totten	episodes=5 episodes, 2008-2009 	
+character=Sanford Harris	name=Michael Gaston	episodes=4 episodes, 2009 	
+character=Senator James Van Horn	name=Gerard Plunkett	episodes=4 episodes, 2009-2012 	
+character=Frank Stanton	name=Philip Winchester	episodes=4 episodes, 2010-2011 	
+character=Store Owner	name=Stefan Arngrim	episodes=4 episodes, 2009-2010 	
+character=Alternate Diane Broyles	name=Karen Holness	episodes=4 episodes, 2009-2012 	
+character=Major Warner	name=Heather Doerksen	episodes=4 episodes, 2010-2011 	
+character=Assistant	name=Anna Van Hooft	episodes=4 episodes, 2009-2012 	
+character=Nina	name=Anna Van Hooft	episodes=4 episodes, 2009-2012 	
+character=ND Agent	name=Chris Shields	episodes=4 episodes, 2009-2011 	
+character=Observer 	name=Jordan Schartner	episodes=4 episodes, 2012-2013 	
+character=Nick Lane	name=David Call	episodes=3 episodes, 2009-2012 	
+character=Marilyn Dunham	name=Amy Madigan	episodes=3 episodes, 2010-2011 	
+character=Henry Arliss Higgins	name=Andre Royo	episodes=3 episodes, 2010-2011 	
+character=Observer 	name=Ian Butcher	episodes=3 episodes, 2012-2013 	
+character=Nadine Park	name=Michelle Krusiec	episodes=3 episodes, 2011-2012 	
+character=Jill Ruiz	name=Paula Giroday	episodes=3 episodes, 2011 	
+character=Nurse	name=Diana Pavlovská	episodes=3 episodes, 2010-2012 	
+character=Agent Rodriguez	name=Ash Roeca	episodes=3 episodes, 2008-2009 	
+character=Agent 	name=Chad Gittens	episodes=3 episodes, 2009 	
+character=Agent Harrison	name=Duncan Spencer	episodes=3 episodes, 2010-2011 	
+character=Dr. Carla Warren	name=Jenni Blong	episodes=2 episodes, 2010-2012 	
+character=Junior Agent	name=Nelson Peña	episodes=2 episodes, 2009 	
+character=Agent 	name=Mig Macario	episodes=2 episodes, 2010 	
+character=ND Agent	name=Matthew Quinn Martin	episodes=2 episodes, 2008-2009 	
+character=The Commander	name=James Kidnie	episodes=2 episodes, 2013 	
+character=Hybrid	name=Roger Cross	episodes=2 episodes, 2009 	
+character=CIA Agent Edwards	name=JR Bourne	episodes=2 episodes, 2009-2011 	
+character=Observer in Town Car	name=Ted Cole	episodes=2 episodes, 2012 	
+character=Dr. Sumner	name=William Sadler	episodes=2 episodes, 2008-2011 	
+character=Jessica Holt	name=Rebecca Mader	episodes=2 episodes, 2012 	
+character=Marshall Bowman	name=Neal Huff	episodes=2 episodes, 2009-2012 	
+character=Christopher Broyles	name=Curtis Harris	episodes=2 episodes, 2010-2012 	
+character=Dr. Blake West	name=Monte Markham	episodes=2 episodes, 2011-2012 	
+character=Coach	name=Robert Hayley	episodes=2 episodes, 2011-2012 	
+character=Nurse	name=Jennifer Cheon Garcia	episodes=2 episodes, 2012 	
+character=August	name=Peter Woodward	episodes=2 episodes, 2009-2010 	
+character=Sally Clark	name=Pascale Hutton	episodes=2 episodes, 2010-2012 	
+character=James Heath	name=Omar Metwally	episodes=2 episodes, 2010 	
+character=Young Olivia	name=Ada Breker	episodes=2 episodes, 2010-2011 	
+character=FBI Tactical Agent	name=D. Harlan Cutshall	episodes=2 episodes, 2011 	
+character=Dad	name=Steve Elliott	episodes=2 episodes, 2010-2013 	
+character=Delbrook	name=Morris Chapdelaine	episodes=2 episodes, 2010-2011 	
+character=Olivia	name=Chris Bradford	episodes=2 episodes, 2011 	
+character=Stepfather	name=Chris Bradford	episodes=2 episodes, 2011 	
+character=Warden Johan Lennox	name=Kenneth Tigar	episodes=2 episodes, 2008-2009 	
+character=Samantha Loeb	name=Trini Alvarado	episodes=2 episodes, 2008-2009 	
+character=Military Guard	name=Sean Carey	episodes=2 episodes, 2009-2011 	
+character=Dr. Anderson	name=Gabrielle Rose	episodes=2 episodes, 2010-2012 	
+character=Agent Warrick	name=Jeremy Guilbaut	episodes=2 episodes, 2011 	
+character=Darryl Hastings	name=Gabe Khouth	episodes=2 episodes, 2012 	
+character=Holden	name=Edward Foy	episodes=2 episodes, 2012 	
+character=ND Agent	name=Chaz Chamberlain	episodes=2 episodes, 2010-2012 	
+character=FBI Tech	name=Khaira Ledeyo	episodes=2 episodes, 2010-2011 	
+character=Medic	name=Robin Jung	episodes=2 episodes, 2012 	
+character=General Hayes	name=Serge Houde	episodes=2 episodes, 2010-2012 	
+character=Bonner	name=Darren Moore	episodes=2 episodes, 2010-2012 	
+character=ND Agent 	name=Tristan Jensen	episodes=2 episodes, 2011 	
+character=Flamethrower Agent	name=Monte Thompson	episodes=2 episodes, 2011-2012 	
+character=Female Flight Attendant	name=Olivia Jones	episodes=2 episodes, 2009-2012 	
+character=Bartender	name=Charles Singh	episodes=2 episodes, 2009-2012 	
+character=Lloyd	name=Chinasa Ogbuagu	episodes=2 episodes, 2009 	
+character=Movie Star	name=Lea Kovach	episodes=2 episodes, 2011 	
+character=Guard	name=Stephen Huszar	episodes=2 episodes, 2012 	
+character=Agent 	name=Guiesseppe Jones	episodes=2 episodes, 2008-2009 	
+character=Motorist 	name=Shawn Stewart	episodes=2 episodes, 2009-2012 	
+character=July	name=Amos Stern	episodes=2 episodes, 2009-2012 	
+character=Agent	name=Douglas Chapman	episodes=2 episodes, 2009-2010 	
+character=CSI Investigator	name=Chris Eastman	episodes=2 episodes, 2009 	
+character=Fringe Agent 	name=Achara Kirk	episodes=2 episodes, 2011-2012 	
+character=Man 	name=Brian Slaten	episodes=2 episodes, 2008-2009 	
+character=March	name=Steve Weller	episodes=2 episodes, 2012 	
+character=Checkpoint Loyalist	name=Phillip Mitchell	episodes=2 episodes, 2009-2012 	
+character=Male Flight Attendant	name=Mike Realba	episodes=2 episodes, 2009-2012 	
+character=Observer	name=Andy Thompson	episodes=2 episodes, 2010-2012 	
+character=ND Agent	name=James Tyce	episodes=2 episodes, 2011 	
+character=Cop	name=Viv Leacock	episodes=2 episodes, 2010-2012 	
+character=Lead MP	name=Brady Schlecker	episodes=2 episodes, 2012 	
+character=Woman	name=Judy Sinclair	episodes=2 episodes, 2009-2012 	
+character=Agent 	name=Chad Riley	episodes=2 episodes, 2010-2011 	
+character=Male Nurse	name=Lucas Wolf	episodes=2 episodes, 2010-2013 	
+character=Checkpoint Observer	name=Charles Zuckermann	episodes=2 episodes, 2012 	
+character=Agent	name=Robyn Payne	episodes=2 episodes, 2009 	
+character=Fringe Agent	name=Matthew Mandzij	episodes=2 episodes, 2010 	
+character=Man	name=Timothy Webber	episodes=2 episodes, 2012 	
+character=ND Swat 	name=Anthony C. Mazza	episodes=2 episodes, 2009 	
+character=Agent Romick	name=James Yi	episodes=2 episodes, 2011-2012 	
+character=Loyalist in Parkade	name=Russell Thomas	episodes=2 episodes, 2012-2013 	
+character=Gael Manfretti	name=Eric Lange	episodes=1 episode, 2012 	
+character=Simon Foster	name=Henry Ian Cusick	episodes=1 episode, 2012 	
+character=Leah	name=Marie Avgeropoulos	episodes=1 episode, 2010 	
+character=Nora	name=Diana Bang	episodes=1 episode, 2010 	
+character=CSI Detective Kassel	name=David Richmond-Peck	episodes=1 episode, 2010 	
+character=Deputy	name=Isaiah Adam	episodes=1 episode, 2010 	
+character=Mr. Kohl	name=James Frain	episodes=1 episode, 2008-2009 	
+character=Rebecca	name=Tegan Moss	episodes=1 episode, 2009 	
+character=Medical Examiner	name=John Shaw	episodes=1 episode, 2010 	
+character=Stock Boy	name=Scott Patey	episodes=1 episode, 2010 	
+character=Actor	name=Silver Kim	episodes=1 episode, 2010 	
+character=Observer	name=Terry Mullett	episodes=1 episode, 2013 	
+character=Cashier	name=Eve Harlow	episodes=1 episode, 2010 	
+character=Lloyd Becker	name=Jamie Switch	episodes=1 episode, 2010 	
+character=Royce the Observer	name=Marco Soriano	episodes=1 episode, 2012 	
+character=Dave	name=James Pizzinato	episodes=1 episode, 2010 	
+character=Elaine	name=Megan Leitch	episodes=1 episode, 2010 	
+character=Actor	name=Alison Raine	episodes=1 episode, 2010 	
+character=FBI Tech	name=Cam Cronin	episodes=1 episode, 2009-2010 	
+character=Tobin	name=Peter Kelamis	episodes=1 episode, 2013 	
+character=Young Mother	name=Alberta Mayne	episodes=1 episode, 2010 	
+character=Neal	name=Al Miro	episodes=1 episode, 2010 	
+character=Jordan	name=Sierra Pitkin	episodes=1 episode, 2010 	
+character=Captive Observer	name=John Prosky	episodes=1 episode, 2012 	
+character=River Massey	name=Connor Beardmore	episodes=1 episode, 2012 	
+character=Simone	name=Jill Scott	episodes=1 episode, 2012 	
+character=Richard	name=Tom Butler	episodes=1 episode, 2012 	
+character=Cecil	name=Zak Santiago	episodes=1 episode, 2012 	
+character=Tyler Carson	name=Cameron Monaghan	episodes=1 episode, 2009 	
+character=Dr. West	name=Jeannetta Arnette	episodes=1 episode, 2009 	
+character=Ming Che	name=Tzi Ma	episodes=1 episode, 2009 	
+character=Tomas	name=Ravil Isyanov	episodes=1 episode, 2009 	
+character=Matthew Rose	name=Aaron Ashmore	episodes=1 episode, 2010 	
+character=Sheriff Velchik	name=Michael O	episodes=1 episode, 2010 	
+character=Sheriff Velchik	name=Neill	episodes=1 episode, 2010 	
+character=Sheriff Ann Mathis	name=Martha Plimpton	episodes=1 episode, 2010 	
+character=Alistair Peck	name=Peter Weller	episodes=1 episode, 2010 	
+character=Milo	name=Michael Eklund	episodes=1 episode, 2010 	
+character=Gemini	name=Kevin Weisman	episodes=1 episode, 2010 	
+character=Arnold McFadden	name=Geoff Pierson	episodes=1 episode, 2010 	
+character=Ted Pratchett	name=Jim True-Frost	episodes=1 episode, 2010 	
+character=Joe	name=Russell Harvard	episodes=1 episode, 2010 	
+character=Patricia Van Horn	name=Shannon Cochran	episodes=1 episode, 2010 	
+character=The Librarian	name=John Cassini	episodes=1 episode, 2010 	
+character=Alfred Hoffman	name=Craig Robert Young	episodes=1 episode, 2010 	
+character=Vince	name=Greyston Holt	episodes=1 episode, 2011 	
+character=Simon Phillips	name=Omid Abtahi	episodes=1 episode, 2011 	
+character=Dr. Armand Silva	name=Alon Aboutboul	episodes=1 episode, 2011 	
+character=Zach Alpert	name=Sean Campbell	episodes=1 episode, 2011 	
+character=Loyalist Guard 	name=Andrew Coghlan	episodes=1 episode, 2012 	
+character=Carolyn	name=Maria Marlow	episodes=1 episode, 2012 	
+character=Eliot Michaels	name=Erik Palladino	episodes=1 episode, 2009 	
+character=Lloyd Parr	name=Luke Goss	episodes=1 episode, 2009 	
+character=Dr. Carson	name=Andrew Airlie	episodes=1 episode, 2009 	
+character=Christine Hollis	name=Jennifer Missoni	episodes=1 episode, 2009 	
+character=Matt Jarvis	name=Colby Paul	episodes=1 episode, 2009 	
+character=Joshua Rose	name=Shawn Ashmore	episodes=1 episode, 2010 	
+character=Maureen Donovan	name=Amy Carlson	episodes=1 episode, 2010 	
+character=Pauline Hess	name=Sarah Edmondson	episodes=1 episode, 2010 	
+character=Roland David Barrett	name=Mark Ivanir	episodes=1 episode, 2010 	
+character=Joe Falls	name=Martin Cummins	episodes=1 episode, 2010 	
+character=Wyatt Toomy	name=Will Rothhaar	episodes=1 episode, 2010 	
+character=Ray Duffy	name=Marcus Giamatti	episodes=1 episode, 2010 	
+character=Agent Hubert	name=Demore Barnes	episodes=1 episode, 2010 	
+character=Carol Bryce	name=Laara Sadiq	episodes=1 episode, 2010 	
+character=Cameron James	name=Chadwick Boseman	episodes=1 episode, 2011 	
+character=Roscoe Joyce	name=Christopher Lloyd	episodes=1 episode, 2011 	
+character=Raymond	name=Stephen Root	episodes=1 episode, 2011 	
+character=Moreau	name=Brad Dourif	episodes=1 episode, 2011 	
+character=Dr. Krick	name=Alan Ruck	episodes=1 episode, 2011 	
+character=Dana Gray	name=Paula Malcomson	episodes=1 episode, 2011 	
+character=John McClennan	name=John Pyper-Ferguson	episodes=1 episode, 2011 	
+character=Malcolm Truss	name=Arye Gross	episodes=1 episode, 2011 	
+character=Man in Zeppelin, aka Mr X	name=Ulrich Thomsen	episodes=1 episode, 2011 	
+character=Young Peter Bishop	name=Chandler Canterbury	episodes=1 episode, 2011 	
+character=Eugene Bryant	name=Tobias Segal	episodes=1 episode, 2011 	
+character=Alice Merchant	name=Phyllis Somerville	episodes=1 episode, 2011 	
+character=Aaron Sneddon	name=Evan Bird	episodes=1 episode, 2011 	
+character=Jim Mallum	name=Currie Graham	episodes=1 episode, 2012 	
+character=Neil Chung	name=Chin Han	episodes=1 episode, 2012 	
+character=Canaan	name=Max Arciniega	episodes=1 episode, 2012 	
+character=Antonio Dawes 	name=Max Arciniega	episodes=1 episode, 2012 	
+character=Edwin Massey	name=Paul McGillion	episodes=1 episode, 2012 	
+character=Dr. Owen Frank	name=John Aylward	episodes=1 episode, 2012 	
+character=Cliff Hayes	name=Tim Kelleher	episodes=1 episode, 2012 	
+character=Briggs	name=Birkett Turton	episodes=1 episode, 2012 	
+character=Tester	name=Peter Abrams	episodes=1 episode, 2012 	
+character=Assistant	name=Samantha Claude	episodes=1 episode, 2012 	
+character=Nina	name=Samantha Claude	episodes=1 episode, 2012 	
+character=Nina	name=Alexa Asjes	episodes=1 episode, 2012 	
+character=Assistant	name=Alexa Asjes	episodes=1 episode, 2012 	
+character=Loyalist Guard	name=Sage Brocklebank	episodes=1 episode, 2013 	
+character=Lucas Vogel	name=Billy Burke	episodes=1 episode, 2008 	
+character=Joseph Meegar	name=Ebon Moss-Bachrach	episodes=1 episode, 2008 	
+character=Richard Steig	name=Jason Butler Harner	episodes=1 episode, 2008 	
+character=George	name=Yul Vazquez	episodes=1 episode, 2008 	
+character=David Esterbrook	name=Chris Eigeman	episodes=1 episode, 2008 	
+character=Roy McComb	name=Zak Orth	episodes=1 episode, 2008 	
+character=Christopher	name=Derek Cecil	episodes=1 episode, 2008 	
+character=Brian Dempsey	name=Chris Bauer	episodes=1 episode, 2009 	
+character=Joseph Slater	name=Jeff Perry	episodes=1 episode, 2009 	
+character=Nancy Lewis	name=Jennifer Ferrin	episodes=1 episode, 2009 	
+character=Donald Long	name=Paul Rae	episodes=1 episode, 2009 	
+character=Nicholas Boone	name=Jefferson Mays	episodes=1 episode, 2009 	
+character=Dr. Nayak	name=Ravi Kapoor	episodes=1 episode, 2009 	
+character=Dobbins	name=Vincent Gale	episodes=1 episode, 2009 	
+character=Robert Swift	name=David Pittu	episodes=1 episode, 2009 	
+character=Elizabeth Jarvis	name=Ingrid Torrance	episodes=1 episode, 2009 	
+character=Lisa Donovan	name=Alice Kremelberg	episodes=1 episode, 2010 	
+character=Teddy Falls	name=Liam James	episodes=1 episode, 2010 	
+character=Krista Manning	name=Christine Chatelain	episodes=1 episode, 2010 	
+character=Ben McCalister	name=Peter Bryant	episodes=1 episode, 2010 	
+character=Mrs. Walsh	name=Barbara Tyson	episodes=1 episode, 2010 	
+character=Vincent Ames	name=Conrad Coates	episodes=1 episode, 2010 	
+character=Mrs. Lane	name=Catherine Barroll	episodes=1 episode, 2010 	
+character=George	name=Craig Anderson	episodes=1 episode, 2010 	
+character=Mitch	name=Artine Tony Browne	episodes=1 episode, 2010 	
+character=Dr. James Falcon	name=Charles Parnell	episodes=1 episode, 2011 	
+character=Robert Danzig	name=Joe Flanigan	episodes=1 episode, 2011 	
+character=Kate	name=Romy Rosemont	episodes=1 episode, 2011 	
+character=Landlady	name=Glynis Davies	episodes=1 episode, 2011 	
+character=Young Olivia Dunham	name=Karley Scott Collins	episodes=1 episode, 2011 	
+character=Noreen Miller	name=Enid-Raye Adams	episodes=1 episode, 2011 	
+character=Landlady	name=Patti Allan	episodes=1 episode, 2011 	
+character=Derek Merchant	name=Ken Pogue	episodes=1 episode, 2011 	
+character=Tech	name=Sienna Bohn	episodes=1 episode, 2011 	
+character=Adorable Old Woman	name=Nancy Amelia Bell	episodes=1 episode, 2011 	
+character=Anson Carr	name=Michael Massee	episodes=1 episode, 2012 	
+character=Kate Hicks	name=Gina Holden	episodes=1 episode, 2012 	
+character=Canaan	name=Tim Guinee	episodes=1 episode, 2012 	
+character=Rick Pearce 	name=Tim Guinee	episodes=1 episode, 2012 	
+character=Guard	name=Giacomo Baessato	episodes=1 episode, 2012 	
+character=Emily Mallum	name=Alexis Raich	episodes=1 episode, 2012 	
+character=Sean Keenan	name=Harrison Thomas	episodes=1 episode, 2012 	
+character=Jared Colin	name=G. Michael Gray	episodes=1 episode, 2012 	
+character=Angela Hayes	name=Michelle Addison	episodes=1 episode, 2012 	
+character=Niemann	name=Paul Moniz de Sa	episodes=1 episode, 2012 	
+character=Stratton	name=Nathan Dashwood	episodes=1 episode, 2012 	
+character=Lead Guard	name=Sean Baden	episodes=1 episode, 2012 	
+character=Observer	name=Mark Ferns	episodes=1 episode, 2012 	
+character=John Mosley	name=Michael Kelly	episodes=1 episode, 2008 	
+character=Tess Amaral	name=Susan Misner	episodes=1 episode, 2008 	
+character=Grant	name=Peter Hermann	episodes=1 episode, 2008 	
+character=Emily Kramer	name=Maria Dizzia	episodes=1 episode, 2008 	
+character=Dr. Reyes	name=Peter Outerbridge	episodes=1 episode, 2008 	
+character=Dr. Claus Penrose	name=Mark Blum	episodes=1 episode, 2008 	
+character=Dashiell Kim	name=Randall Duk Kim	episodes=1 episode, 2008 	
+character=Ryan Eastwick	name=Paul Fitzgerald	episodes=1 episode, 2008 	
+character=Jacob Fischer	name=Max Baker	episodes=1 episode, 2008 	
+character=Valerie Boone	name=Trieste Kelly Dunn	episodes=1 episode, 2009 	
+character=Colonel Raymond Gordon	name=Stephen McHattie	episodes=1 episode, 2009 	
+character=Rebecca Kibner	name=Theresa Russell	episodes=1 episode, 2009 	
+character=Andre Hughes	name=John Savage	episodes=1 episode, 2009 	
+character=Daniel Hicks	name=Felix Solis	episodes=1 episode, 2009 	
+character=Nurse	name=Simone Kessell	episodes=1 episode, 2009 	
+character=Agent Kashner	name=Travis Schuldt	episodes=1 episode, 2009 	
+character=The Child	name=Spencer List	episodes=1 episode, 2009 	
+character=FBI Agent	name=Noah Bean	episodes=1 episode, 2009 	
+character=Police Detective	name=April Grace	episodes=1 episode, 2009 	
+character=Tao Chen	name=Jack Yang	episodes=1 episode, 2009 	
+character=Carl Bussler	name=Keith Nobbs	episodes=1 episode, 2009 	
+character=Officer Gibson	name=Doron Bell	episodes=1 episode, 2009 	
+character=CSI Officer	name=Blaine Anderson	episodes=1 episode, 2009 	
+character=Jill	name=Katie Findlay	episodes=1 episode, 2010 	
+character=Teresa Rusk	name=Annie Parisse	episodes=1 episode, 2010 	
+character=Rose Falls	name=Laura Mennell	episodes=1 episode, 2010 	
+character=Linda	name=Natassia Malthe	episodes=1 episode, 2010 	
+character=Deputy Bill Ferguson	name=Patrick Gilmore	episodes=1 episode, 2010 	
+character=Murray Harkins	name=Mark Acheson	episodes=1 episode, 2010 	
+character=Darryl	name=Kyle Cassie	episodes=1 episode, 2010 	
+character=Amanda	name=Lauren Akemi Bradley	episodes=1 episode, 2010 	
+character=Attendant	name=Kaaren de Zilva	episodes=1 episode, 2010 	
+character=Ken Messing	name=Curtis Caravaggio	episodes=1 episode, 2010 	
+character=Alt. Bartender	name=Primo Allon	episodes=1 episode, 2010 	
+character=Paramedic 	name=Ellen Ewusie	episodes=1 episode, 2010 	
+character=Grant Russo	name=Michael Bean	episodes=1 episode, 2010 	
+character=Agent 	name=Jackson Berlin	episodes=1 episode, 2010 	
+character=Ella Dunham	name=Emily Meade	episodes=1 episode, 2011 	
+character=Mona Foster	name=Julie McNiven	episodes=1 episode, 2011 	
+character=Victoria DiMiri	name=Olivia Cheng	episodes=1 episode, 2011 	
+character=Ashley	name=Sarah-Jane Redmond	episodes=1 episode, 2011 	
+character=Sara Downey	name=Jody Thompson	episodes=1 episode, 2011 	
+character=Jim	name=Nicholas Carella	episodes=1 episode, 2011 	
+character=Anne	name=Victoria Bidewell	episodes=1 episode, 2011 	
+character=Museum Security Guard	name=Jason Griffith	episodes=1 episode, 2011 	
+character=ER Doctor	name=Don Ackerman	episodes=1 episode, 2011 	
+character=Nurse Jaffe	name=Nancy Sivak	episodes=1 episode, 2011 	
+character=Agent Perez	name=Daniel Arnold	episodes=1 episode, 2011 	
+character=Gas Station Attendant	name=Umberto Celisano	episodes=1 episode, 2011 	
+character=Older Waitress	name=Kathryn Dobbs	episodes=1 episode, 2011 	
+character=Tech	name=Lars Anderson	episodes=1 episode, 2011 	
+character=Guard	name=Michael Challenger	episodes=1 episode, 2011 	
+character=Nurse 	name=Marina Allen	episodes=1 episode, 2011 	
+character=Diana Sutter	name=Ona Grauer	episodes=1 episode, 2012 	
+character=Impound Clerk	name=Ben Cotton	episodes=1 episode, 2012 	
+character=Pixie	name=Allie Bertram	episodes=1 episode, 2012 	
+character=Doctor Benlo	name=Samantha Noble	episodes=1 episode, 2012 	
+character=MIT Professor	name=Adrian Hough	episodes=1 episode, 2012 	
+character=Carlos	name=Claude Duhamel	episodes=1 episode, 2012 	
+character=Neo Observer	name=David Bloom	episodes=1 episode, 2012 	
+character=Superintendent	name=Joe Costa	episodes=1 episode, 2012 	
+character=Red-Headed Woman	name=Carolyn Anderson	episodes=1 episode, 2012 	
+character=Mrs. Keenan	name=Sandra Ferens	episodes=1 episode, 2012 	
+character=Ted	name=Biski Gugushe	episodes=1 episode, 2012 	
+character=Loyalist Guard 	name=Mike Carpenter	episodes=1 episode, 2012 	
+character=Loyalist Scout	name=Gaelan Beatty	episodes=1 episode, 2012 	
+character=American Tourist	name=Cameron Dent	episodes=1 episode, 2012 	
+character=Crazy Man	name=Kevin J. Andruschak	episodes=1 episode, 2012 	
+character=Passenger	name=Bob Phipps	episodes=1 episode, 2012 	
+character=Alt Universe Fringe Agent 	name=Sarwan Badesha	episodes=1 episode, 2013 	
+character=Joanne Ostler	name=Gillian Jacobs	episodes=1 episode, 2008 	
+character=Loraine Daisy	name=Betty Gilpin	episodes=1 episode, 2008 	
+character=Matthew Ziegler	name=David Lansbury	episodes=1 episode, 2008 	
+character=Henry Jacobson	name=Nestor Serrano	episodes=1 episode, 2008 	
+character=Flora Meegar	name=Marylouise Burke	episodes=1 episode, 2008 	
+character=Claire Williams	name=Marjan Neshat	episodes=1 episode, 2008 	
+character=Mark Young	name=Ptolemy Slocum	episodes=1 episode, 2008 	
+character=Flight Attendant	name=Bernadeta Wrobel	episodes=1 episode, 2008 	
+character=Emmanuel Grayson	name=Clint Howard	episodes=1 episode, 2009 	
+character=Sheriff Golightly	name=Charles Martin Smith	episodes=1 episode, 2009 	
+character=Sonia	name=Kiersten Warren	episodes=1 episode, 2009 	
+character=Dr. Malik Yusef	name=Navid Negahban	episodes=1 episode, 2009 	
+character=Phil	name=Victor Williams	episodes=1 episode, 2009 	
+character=Bob Dunn	name=Richard Short	episodes=1 episode, 2009 	
+character=MD Woman	name=Victoria Barabas	episodes=1 episode, 2009 	
+character=Waiter	name=Michael Antonakos	episodes=1 episode, 2009 	
+character=Mouse Willis	name=Johanna Day	episodes=1 episode, 2009 	
+character=Officer Jenks	name=Ryan Jefferson Booth	episodes=1 episode, 2009 	
+character=Captain	name=Emy Aneke	episodes=1 episode, 2009 	
+character=Hospital Security	name=Jeanettea Antonio	episodes=1 episode, 2009 	
+character=Madeline	name=Kacey Rohl	episodes=1 episode, 2010 	
+character=Jake Selleg	name=Scott William Winters	episodes=1 episode, 2010 	
+character=Tabatha	name=Genevieve Buechner	episodes=1 episode, 2010 	
+character=Cashier	name=Lossen Chambers	episodes=1 episode, 2010 	
+character=Danielle Rose	name=Holly Elissa	episodes=1 episode, 2010 	
+character=Tech 	name=Veronika Hadrava	episodes=1 episode, 2010 	
+character=Cop 	name=Fraser Aitcheson	episodes=1 episode, 2010 	
+character=Agent Frug	name=Kwesi Ameyaw	episodes=1 episode, 2010 	
+character=Corpse 	name=Candus Churchill	episodes=1 episode, 2010 	
+character=Bank Manager	name=Robert Egger	episodes=1 episode, 2010 	
+character=Max Clayton	name=Michael Strusievici	episodes=1 episode, 2010 	
+character=Bomb Tech	name=Raul Herrera	episodes=1 episode, 2010 	
+character=Worker	name=Zoltan Buday	episodes=1 episode, 2010 	
+character=Scientist	name=Dean Atwal	episodes=1 episode, 2010 	
+character=Nurse Joyce	name=Kendall Cross	episodes=1 episode, 2011 	
+character=Patrol Officer	name=Clayton James	episodes=1 episode, 2011 	
+character=ND Agent 	name=Michael Adamthwaite	episodes=1 episode, 2011 	
+character=Waiter	name=Adam Beauchesne	episodes=1 episode, 2011 	
+character=Mrs. Marcello	name=Michelle Brezinski	episodes=1 episode, 2011 	
+character=Cabbie	name=Dean Paul Gibson	episodes=1 episode, 2011 	
+character=Science Director	name=Forbes Angus	episodes=1 episode, 2011 	
+character=Alt. Female Agent	name=Marlene Ginader	episodes=1 episode, 2011 	
+character=Morgue Worker 	name=Pamela Diaz	episodes=1 episode, 2011 	
+character=ND Agent 	name=Jackie Blackmore	episodes=1 episode, 2011 	
+character=Tactical Officer 	name=Justin Breault	episodes=1 episode, 2011 	
+character=Tough Man	name=Boyce	episodes=1 episode, 2011 	
+character=Tough Man	name=Sluggo	episodes=1 episode, 2011 	
+character=Tough Man	name=Rob 	episodes=1 episode, 2011 	
+character=Brian	name=Jason Poulsen	episodes=1 episode, 2011 	
+character=Waitress	name=Syd Lazzara	episodes=1 episode, 2011 	
+character=Baby Samantha	name=Sophie Crowell	episodes=1 episode, 2011 	
+character=Loyalist Guard 	name=Nathan Dales	episodes=1 episode, 2012 	
+character=Coat Check Girl	name=Jordana Largy	episodes=1 episode, 2012 	
+character=Stephen Farnsworth	name=Blu Mankuma	episodes=1 episode, 2012 	
+character=Bernadette	name=Allison Hossack	episodes=1 episode, 2012 	
+character=MP	name=Josh Blacker	episodes=1 episode, 2012 	
+character=Sgt. Kane	name=Daren A. Herbert	episodes=1 episode, 2012 	
+character=Bill	name=Zahf Paroo	episodes=1 episode, 2012 	
+character=Cab Driver	name=Faustino Di Bauda	episodes=1 episode, 2012 	
+character=Observer Supervisor	name=David Stuart	episodes=1 episode, 2012 	
+character=Little Girl Darby	name=Eliza Faria	episodes=1 episode, 2012 	
+character=Loyalist Guard 	name=Gabriel Carter	episodes=1 episode, 2012 	
+character=Boston Police Officer	name=Marc Gaudet	episodes=1 episode, 2012 	
+character=Man in Park	name=Paul Andrich	episodes=1 episode, 2012 	
+character=Brunette Woman	name=Rhea Fedorchuk	episodes=1 episode, 2012 	
+character=Bark Man 	name=Bojan Dulabic	episodes=1 episode, 2012 	
+character=Tim	name=Simon Bradbury	episodes=1 episode, 2012 	
+character=Young Resistance Fighter	name=Thomas Cadrot	episodes=1 episode, 2013 	
+character=Observer in Conference Room	name=Adam Henderson	episodes=1 episode, 2013 	
+character=Young Fringe Agent	name=Natalie Edwards	episodes=1 episode, 2013 	
+character=Ben Stockton	name=Charlie Tahan	episodes=1 episode, 2008 	
+character=Younger Waitress	name=Lisa Joyce	episodes=1 episode, 2008 	
+character=Stacey	name=Elizabeth Stanley	episodes=1 episode, 2008 	
+character=Gerard	name=Donnie Keshawarz	episodes=1 episode, 2008 	
+character=Michael Kelly	name=David Vadim	episodes=1 episode, 2008 	
+character=Officer Marty Pitts	name=William Hill	episodes=1 episode, 2008 	
+character=Bethany	name=Diane Davis	episodes=1 episode, 2008 	
+character=German Woman	name=Jill Harland	episodes=1 episode, 2008 	
+character=Raymond	name=Ethan Goldsmith	episodes=1 episode, 2008 	
+character=Gavin	name=Armando Riesco	episodes=1 episode, 2009 	
+character=Jessica Warren	name=Mary Beth Peil	episodes=1 episode, 2009 	
+character=Dennis	name=Matt Mulhern	episodes=1 episode, 2009 	
+character=Mustang Man	name=Ward Horton	episodes=1 episode, 2009 	
+character=Captain Diane Burgess	name=Claudette Mink	episodes=1 episode, 2009 	
+character=Cameron Deglmann	name=Tim Gallin	episodes=1 episode, 2009 	
+character=EMT	name=Victor Cruz	episodes=1 episode, 2009 	
+character=Billy Willis	name=Victor Verhaeghe	episodes=1 episode, 2009 	
+character=Mr. Lamia	name=Stephen Dimopoulos	episodes=1 episode, 2009 	
+character=Dock Worker Yang	name=Brett Chan	episodes=1 episode, 2009 	
+character=Bus Driver	name=Frank Bonsangue	episodes=1 episode, 2009 	
+character=Pin Seller	name=Richard Cohee	episodes=1 episode, 2009 	
+character=Mother	name=Charisse Baker	episodes=1 episode, 2009 	
+character=Girl	name=Charisse Baker	episodes=1 episode, 2009 	
+character=Clerk	name=Philip Cabrita	episodes=1 episode, 2009 	
+character=Team Leader	name=Derek Anderson	episodes=1 episode, 2009 	
+character=Young Peter	name=Quinn Lord	episodes=1 episode, 2010 	
+character=Nurse 2	name=BJ Harrison	episodes=1 episode, 2010 	
+character=Trooper Jerry	name=Jacob Blair	episodes=1 episode, 2010 	
+character=Dr. Levin	name=Malcolm Stewart	episodes=1 episode, 2010 	
+character=Priest	name=Sean Dugan	episodes=1 episode, 2010 	
+character=Ben Killenburg	name=Michael Coleman	episodes=1 episode, 2010 	
+character=Homeless Man with Dog	name=Sam Bob	episodes=1 episode, 2010 	
+character=Nurse	name=Sarah Hayward	episodes=1 episode, 2010 	
+character=State Trooper	name=Rena Kawabata	episodes=1 episode, 2010 	
+character=Paramedic 	name=Garnet Harding	episodes=1 episode, 2010 	
+character=Driver	name=Peter Ciuffa	episodes=1 episode, 2010 	
+character=Hostess	name=Mittita Barber	episodes=1 episode, 2010 	
+character=Tom	name=Paul Herbert	episodes=1 episode, 2010 	
+character=Uniform Cop	name=Robert Gauvin	episodes=1 episode, 2010 	
+character=FBI EMT	name=Julie Brar	episodes=1 episode, 2010 	
+character=CDC Suit	name=Jason Bax	episodes=1 episode, 2010 	
+character=Passenger Girl	name=Leanne Lapp	episodes=1 episode, 2011 	
+character=Dr. Alexandra Castro	name=Alexandra Castillo	episodes=1 episode, 2011 	
+character=Donnie	name=Richard Ian Cox	episodes=1 episode, 2011 	
+character=Megan Miller	name=Jordyn Ashley Olson	episodes=1 episode, 2011 	
+character=Doctor	name=Darcy Laurie	episodes=1 episode, 2011 	
+character=Ned	name=James Clayton	episodes=1 episode, 2011 	
+character=Man 	name=Kory Grim	episodes=1 episode, 2011 	
+character=Friend Two	name=David Leach	episodes=1 episode, 2011 	
+character=BPD Sergeant	name=Anthony Harrison	episodes=1 episode, 2011 	
+character=Suspect	name=Trevor Addie	episodes=1 episode, 2011 	
+character=John	name=Michael Charrois	episodes=1 episode, 2011 	
+character=Friend Two	name=Dave Leach	episodes=1 episode, 2011 	
+character=Dr. Janns	name=Elliot Mandelcorn	episodes=1 episode, 2011 	
+character=Boy 1	name=Jay Jay Jackson	episodes=1 episode, 2011 	
+character=Rick	name=Bradley Stryker	episodes=1 episode, 2012 	
+character=Stepmother	name=Chilton Crane	episodes=1 episode, 2012 	
+character=Alt Lincoln	name=Chilton Crane	episodes=1 episode, 2012 	
+character=Chief Scientist	name=Alistair Abell	episodes=1 episode, 2012 	
+character=Security Guard	name=Nickolas Baric	episodes=1 episode, 2012 	
+character=TSA Agent 	name=Martin Christopher	episodes=1 episode, 2012 	
+character=Bearded Man	name=Gaalen Engen	episodes=1 episode, 2012 	
+character=Jane Reymar	name=Tammy Hui	episodes=1 episode, 2012 	
+character=Chinese Vendor	name=Larry Hoe	episodes=1 episode, 2012 	
+character=Boston Cop	name=Marcus Andrews	episodes=1 episode, 2012 	
+character=Loyalist	name=Alex Dafoe	episodes=1 episode, 2012 	
+character=Andrew Sutter	name=Devin Johnston	episodes=1 episode, 2012 	
+character=Woman With Shaved Head	name=Bronwyne Sloley	episodes=1 episode, 2012 	
+character=Man with Bag	name=Brian McBride	episodes=1 episode, 2012 	
+character=Loyalist Guard 	name=Jonathan Collins	episodes=1 episode, 2012 	
+character=Nursing Home Attendant	name=Yasmin Abidi	episodes=1 episode, 2012 	
+character=Man with Doll	name=Paul Duchart	episodes=1 episode, 2012 	
+character=Escalator Rider 	name=Ruby Ahn	episodes=1 episode, 2012 	
+character=Loyalist Driver in Hummer	name=Bruce Crawford	episodes=1 episode, 2013 	
+character=Observer 	name=Jonathan Fitzgerald	episodes=1 episode, 2013 	
+character=Ticket Agent	name=Cory LeClerc	episodes=1 episode, 2013 	
+character=Paula Kramer	name=Lisa Emery	episodes=1 episode, 2008 	
+character=Ron	name=Glenn Fleshler	episodes=1 episode, 2008 	
+character=Nice Guy	name=Brian Tarantina	episodes=1 episode, 2008 	
+character=Charlotte	name=Cindy Katz	episodes=1 episode, 2008 	
+character=Raul Lugo	name=Angel David	episodes=1 episode, 2008 	
+character=Older Waitress	name=Nancy Ticotin	episodes=1 episode, 2008 	
+character=Andrew Stockton	name=Adam Grupper	episodes=1 episode, 2008 	
+character=Amy	name=Carmen Goodine	episodes=1 episode, 2008 	
+character=Denver Man	name=Peter Sawyer	episodes=1 episode, 2008 	
+character=Danielle	name=Ali Liebert	episodes=1 episode, 2009 	
+character=Conrad	name=Al Sapienza	episodes=1 episode, 2009 	
+character=Forensics Chief	name=Adrian Holmes	episodes=1 episode, 2009 	
+character=Luke Dempsey	name=Noah Fleiss	episodes=1 episode, 2009 	
+character=Little Girl	name=Megan Charpentier	episodes=1 episode, 2009 	
+character=Ahmed	name=Patrick Sabongui	episodes=1 episode, 2009 	
+character=Ginger	name=Kelly Briter	episodes=1 episode, 2009 	
+character=Tara Coleman	name=Sarah Wilson	episodes=1 episode, 2009 	
+character=Lawyer	name=Lane Edwards	episodes=1 episode, 2009 	
+character=Kurt Larsen	name=Aaron Craven	episodes=1 episode, 2009 	
+character=Woman	name=Xanthe Elbrick	episodes=1 episode, 2009 	
+character=Isaac Winters	name=Richard Bekins	episodes=1 episode, 2009 	
+character=Seth Davies	name=Pete Graham	episodes=1 episode, 2009 	
+character=Chinese Vendor	name=Simon Chin	episodes=1 episode, 2009 	
+character=Diane	name=Lauren Fox	episodes=1 episode, 2009 	
+character=MIT Girl 	name=Robyn Rikoon	episodes=1 episode, 2009 	
+character=Dr. Winick	name=Sandra Daley	episodes=1 episode, 2009 	
+character=FBI in Parking Garage	name=Matthew Robert Kelly	episodes=1 episode, 2009 	
+character=Thin Man	name=Daniel Boileau	episodes=1 episode, 2009 	
+character=Tommie	name=Philip LeStrange	episodes=1 episode, 2009 	
+character=Teenager	name=Richard Harmon	episodes=1 episode, 2010 	
+character=Executor	name=Hiro Kanagawa	episodes=1 episode, 2010 	
+character=Luke	name=Luke Camilleri	episodes=1 episode, 2010 	
+character=Trooper Bobby	name=Teach Grant	episodes=1 episode, 2010 	
+character=Corpse 	name=Tom Pickett	episodes=1 episode, 2010 	
+character=Steve	name=Brendan Beiser	episodes=1 episode, 2010 	
+character=General Tonks	name=Julian Christopher	episodes=1 episode, 2010 	
+character=Nurse 3	name=Marilyn Norry	episodes=1 episode, 2010 	
+character=Becky Woomer	name=Paula Lindberg	episodes=1 episode, 2010 	
+character=Hotel Manager	name=Christopher Logan	episodes=1 episode, 2010 	
+character=Josh Staller	name=Aaron Brooks	episodes=1 episode, 2010 	
+character=Bank Teller	name=Viviana Cruise	episodes=1 episode, 2010 	
+character=Detective	name=Jason Diablo	episodes=1 episode, 2010 	
+character=Waiter	name=Michael Scholar Jr.	episodes=1 episode, 2010 	
+character=EMT	name=Demetrius Cornell	episodes=1 episode, 2010 	
+character=Young Woman	name=Chelsea Bourdages	episodes=1 episode, 2010 	
+character=Reiko	name=Joan Chen	episodes=1 episode, 2011 	
+character=Paramedic	name=Lee Majdoub	episodes=1 episode, 2011 	
+character=Pam	name=Marci T. House	episodes=1 episode, 2011 	
+character=Randall	name=Carlos Diaz	episodes=1 episode, 2011 	
+character=Dr. Harris	name=Roger Haskett	episodes=1 episode, 2011 	
+character=Night Security Guard	name=Ash Lee	episodes=1 episode, 2011 	
+character=Tactical Officer	name=Kevin Kruchkywich	episodes=1 episode, 2011 	
+character=Rick Kimball	name=Conan Graham	episodes=1 episode, 2011 	
+character=Lab Employee	name=Peter Kawasaki	episodes=1 episode, 2011 	
+character=Cop 	name=Jason Edward Coleman	episodes=1 episode, 2011 	
+character=Margery	name=Julia Schnekenburger	episodes=1 episode, 2011 	
+character=Agent Goldin	name=Brett Delaney	episodes=1 episode, 2011 	
+character=Paramedic	name=Lucas McCann	episodes=1 episode, 2011 	
+character=Samantha	name=Chloe Mattei	episodes=1 episode, 2011 	
+character=Scientist	name=Tobias Der	episodes=1 episode, 2011 	
+character=Daniel Hicks	name=Daniel Cudmore	episodes=1 episode, 2012 	
+character=Loyalist Guard	name=Jason McKinnon	episodes=1 episode, 2012 	
+character=Agent Murphy	name=James Bamford	episodes=1 episode, 2012 	
+character=Neal	name=Reese Alexander	episodes=1 episode, 2012 	
+character=Woman Aged 20 Years	name=Colleen Winton	episodes=1 episode, 2012 	
+character=Woman 	name=Colleen Winton	episodes=1 episode, 2012 	
+character=Malley	name=John Innes	episodes=1 episode, 2012 	
+character=Judge O	name=John Innes	episodes=1 episode, 2012 	
+character=Woman in Car	name=Rebecca Husain	episodes=1 episode, 2012 	
+character=Motorist 	name=Robbie Segulam	episodes=1 episode, 2012 	
+character=Medical Examiner	name=Eileen Barrett	episodes=1 episode, 2012 	
+character=Loyalist Guard 	name=Justin Doran	episodes=1 episode, 2012 	
+character=Loyalist Guard 	name=Troy Anthony Young	episodes=1 episode, 2012 	
+character=Waiter	name=Brian Knox McGugan	episodes=1 episode, 2012 	
+character=FBI Agent 	name=Liam Carter	episodes=1 episode, 2012 	
+character=Observer Under Bridge	name=Andrew Hedge	episodes=1 episode, 2012 	
+character=Agent Reynolds	name=Sebastian Bertoli	episodes=1 episode, 2012 	
+character=Club Doorman	name=Marlo Franson	episodes=1 episode, 2012 	
+character=Crying Woman	name=Lindsay Drummond	episodes=1 episode, 2012 	
+character=Loyalist Lieutenant	name=Peter Flemming	episodes=1 episode, 2013 	
+character=Loyalist Guard at Desk	name=Charlie Gallant	episodes=1 episode, 2013 	
+character=Angry 16 Year Old	name=Max Topplin	episodes=1 episode, 2008 	
+character=Mrs. Scott	name=Peggy J. Scott	episodes=1 episode, 2008 	
+character=Gregory Worth	name=Tom Riis Farrell	episodes=1 episode, 2008 	
+character=Ken Williams	name=Robert Eli	episodes=1 episode, 2008 	
+character=PK Simmons	name=Harold Surratt	episodes=1 episode, 2008 	
+character=Evan McNeil	name=Vince Cupone	episodes=1 episode, 2008 	
+character=Prison Guard	name=Lars Gerhard	episodes=1 episode, 2008 	
+character=Old Man Christopher	name=Bernie McInerney	episodes=1 episode, 2008 	
+character=Technician	name=David Sajadi	episodes=1 episode, 2008 	
+character=Akim	name=Gbenga Akinnagbe	episodes=1 episode, 2009 	
+character=MIT Guy 	name=Arjun Gupta	episodes=1 episode, 2009 	
+character=Andrew Burgess	name=Barclay Hope	episodes=1 episode, 2009 	
+character=Risa Pears	name=Rebecca Naomi Jones	episodes=1 episode, 2009 	
+character=Neil	name=Justin Hagan	episodes=1 episode, 2009 	
+character=Mike	name=Jimmy Palumbo	episodes=1 episode, 2009 	
+character=Co-Pilot	name=Kurt Evans	episodes=1 episode, 2009 	
+character=Dr. Simon	name=Peter Jay Fernandez	episodes=1 episode, 2009 	
+character=Old Senator	name=Ken Camroux-Taylor	episodes=1 episode, 2009 	
+character=Nurse 	name=Lindsay Collins	episodes=1 episode, 2009 	
+character=Daughter	name=Melody B. Choi	episodes=1 episode, 2009 	
+character=Mei Lin	name=Melody B. Choi	episodes=1 episode, 2009 	
+character=Tech 	name=Jim Ford	episodes=1 episode, 2009 	
+character=Officer Williams	name=Irene Karas Loeper	episodes=1 episode, 2009 	
+character=Tech Agent	name=Cheryl Sarkaria	episodes=1 episode, 2009 	
+character=Raymond, Worker 	name=Chad Cole	episodes=1 episode, 2009 	
+character=FBI Newbie	name=Erica Carroll	episodes=1 episode, 2010 	
+character=Tech 	name=Casey Manderson	episodes=1 episode, 2010 	
+character=Will Turlough	name=Mark Dobies	episodes=1 episode, 2010 	
+character=Female CSI	name=Jennifer Kitchen	episodes=1 episode, 2010 	
+character=Police Officer	name=Rocky Anderson	episodes=1 episode, 2010 	
+character=Corpse 	name=John Prowse	episodes=1 episode, 2010 	
+character=Deputy Bill	name=J.J. Makaro	episodes=1 episode, 2010 	
+character=Dan Liang	name=Minh Ly	episodes=1 episode, 2010 	
+character=Uniformed Cop 	name=Demord Dann	episodes=1 episode, 2010 	
+character=Lynn Arrendt	name=Robin Douglas	episodes=1 episode, 2010 	
+character=Harold	name=Lawrence Haegert	episodes=1 episode, 2010 	
+character=Science Center Worker	name=Chris Casillan	episodes=1 episode, 2010 	
+character=Nurse	name=Aileen Laurel	episodes=1 episode, 2010 	
+character=Dr. Rosa Oporto	name=Françoise Yip	episodes=1 episode, 2011 	
+character=ER Doctor	name=John Emmet Tracy	episodes=1 episode, 2011 	
+character=Lieutenant Daniels	name=Brent Stait	episodes=1 episode, 2011 	
+character=FBI Agent 	name=Paul Lazenby	episodes=1 episode, 2011 	
+character=Friend One	name=Branden Nadon	episodes=1 episode, 2011 	
+character=Chris	name=Colby Johannson	episodes=1 episode, 2011 	
+character=Grace	name=Natalie Gibson	episodes=1 episode, 2011 	
+character=Newscaster	name=Sophie Lui	episodes=1 episode, 2011 	
+character=Koenig	name=Jeff Sanca	episodes=1 episode, 2011 	
+character=EMT	name=Donovan Cerminara	episodes=1 episode, 2011 	
+character=MD Tech	name=Gary Sekhon	episodes=1 episode, 2011 	
+character=Pharmacist	name=Arthur Corber	episodes=1 episode, 2011 	
+character=Nurse	name=Gigi Jackman	episodes=1 episode, 2011 	
+character=Teen Boy	name=Myles McCarthy	episodes=1 episode, 2011 	
+character=Guard	name=Dariusz Slowik	episodes=1 episode, 2011 	
+character=ND Fringe Agent 	name=Dariusz Slowik	episodes=1 episode, 2011 	
+character=Soldier	name=Mark Curtin	episodes=1 episode, 2011 	
+character=ER Nurse	name=Paulette Hinz	episodes=1 episode, 2011 	
+character=Aide	name=Melissa Demmers	episodes=1 episode, 2011 	
+character=Little Boy	name=Jakob Davies	episodes=1 episode, 2012 	
+character=Melinda Bowman	name=Emily Jackson	episodes=1 episode, 2012 	
+character=Teenage Boy	name=Harrison MacDonald	episodes=1 episode, 2012 	
+character=Court Clerk	name=Kelly Konno	episodes=1 episode, 2012 	
+character=Volunteer Helen	name=Patricia Cullen	episodes=1 episode, 2012 	
+character=Chet Williams	name=Jeb Beach	episodes=1 episode, 2012 	
+character=Observer on Street	name=Andrew Moxham	episodes=1 episode, 2012 	
+character=Uniformed Loyalist	name=Colby Wilson	episodes=1 episode, 2012 	
+character=Loyalist Guard 	name=Shane Warren Jones	episodes=1 episode, 2012 	
+character=Doctor	name=Babak Haleky	episodes=1 episode, 2012 	
+character=Hazmat Agent 	name=Jay Clift	episodes=1 episode, 2012 	
+character=Medical Examiner Jones	name=Babak A. Motamed	episodes=1 episode, 2012 	
+character=Kitty	name=Juliet Jarikre	episodes=1 episode, 2012 	
+character=Truck Driver	name=Ron James	episodes=1 episode, 2012 	
+character=Cashier	name=David Benedict Brown	episodes=1 episode, 2012 	
+character=Rastafarian Clerk	name=H.A. Hunter	episodes=1 episode, 2012 	
+character=Eames	name=Evan Frayne	episodes=1 episode, 2012 	
+character=Chinese Customer	name=B.C. Lee	episodes=1 episode, 2012 	
+character=Loyalist Guard 	name=Craig Fraser	episodes=1 episode, 2013 	
+character=Abby Stockton	name=Kate Hodge	episodes=1 episode, 2008 	
+character=FBI Tech Agent	name=Carlo Alban	episodes=1 episode, 2008 	
+character=Dr. Nadim Patel	name=Alok Tewari	episodes=1 episode, 2008 	
+character=Agent Chaperone	name=Jennifer Ikeda	episodes=1 episode, 2008 	
+character=Father Kent	name=David Fonteno	episodes=1 episode, 2008 	
+character=Doctor	name=Ty Jones	episodes=1 episode, 2008 	
+character=Doctor 	name=Paul Urcioli	episodes=1 episode, 2008 	
+character=Crewcut	name=David Bishins	episodes=1 episode, 2008 	
+character=Indian Man	name=Shaun Shetty	episodes=1 episode, 2008 	
+character=Robert Norton	name=Brian Cromwell	episodes=1 episode, 2008 	
+character=Natalie Dancik	name=Michelle Harrison	episodes=1 episode, 2009 	
+character=Susan Gillespe	name=Lauren K. Robek	episodes=1 episode, 2009 	
+character=The Artist	name=Jeremy Shamos	episodes=1 episode, 2009 	
+character=Co-Worker	name=Craig March	episodes=1 episode, 2009 	
+character=Teenager	name=Jared Grimes	episodes=1 episode, 2009 	
+character=Renee Davies	name=Jacqueline Ann Steuart	episodes=1 episode, 2009 	
+character=Paramedic 	name=John Wu	episodes=1 episode, 2009 	
+character=Manager	name=Ed Vassallo	episodes=1 episode, 2009 	
+character=Security Guard	name=James Michalopolous	episodes=1 episode, 2009 	
+character=MIT Guy 	name=Kevin Rogers	episodes=1 episode, 2009 	
+character=Gavin	name=Chris LaPanta	episodes=1 episode, 2009 	
+character=Man 	name=Chris LaPanta	episodes=1 episode, 2009 	
+character=Cynthia Wiles	name=Susan Knight	episodes=1 episode, 2009 	
+character=Helen	name=Kate Guyton	episodes=1 episode, 2009 	
+character=Chinese Woman	name=Linda Feng	episodes=1 episode, 2009 	
+character=ND Agent	name=Ignacio Rada	episodes=1 episode, 2009 	
+character=Nurse 	name=Vee Dubois	episodes=1 episode, 2009 	
+character=Rob Rosiello	name=Steven Garr	episodes=1 episode, 2009 	
+character=Craig Shoen	name=Juan Riedinger	episodes=1 episode, 2010 	
+character=Nurse Melissa	name=Juliana Wimbles	episodes=1 episode, 2010 	
+character=Uniform	name=Dean Marshall	episodes=1 episode, 2010 	
+character=Trooper Pekarski	name=David Orth	episodes=1 episode, 2010 	
+character=Daniel Verona	name=Shawn Macdonald	episodes=1 episode, 2010 	
+character=Homeless Man	name=Eric Lynch	episodes=1 episode, 2010 	
+character=Dr. Halperin	name=Tibor Feldman	episodes=1 episode, 2010 	
+character=Assistant	name=Erica Van Briel	episodes=1 episode, 2010 	
+character=Young Woman	name=Michele Goyns	episodes=1 episode, 2010 	
+character=Older Gentleman	name=Charles Andre	episodes=1 episode, 2010 	
+character=Nate Duffy	name=Nikolas Filipovic	episodes=1 episode, 2010 	
+character=Assistant Medical Examiner	name=Tariq Leslie	episodes=1 episode, 2010 	
+character=Old Wyatt	name=John Hainsworth	episodes=1 episode, 2010 	
+character=Foreman	name=Daniel Martin	episodes=1 episode, 2010 	
+character=Hazmat in Truck	name=Peter Grasso	episodes=1 episode, 2010 	
+character=Rose Son, Age 5	name=Nate Bell	episodes=1 episode, 2010 	
+character=Nurse 	name=Hilary Jardine	episodes=1 episode, 2011 	
+character=Michael Krick	name=Tom Stevens	episodes=1 episode, 2011 	
+character=Matthew Mitnovitz	name=Connor Stanhope	episodes=1 episode, 2011 	
+character=Richie	name=Matt Ellis	episodes=1 episode, 2011 	
+character=Warren Blake	name=Paul Jarrett	episodes=1 episode, 2011 	
+character=Uniform	name=Jean Paul Najm	episodes=1 episode, 2011 	
+character=Teenage Girl	name=Natalie Grace	episodes=1 episode, 2011 	
+character=Young John	name=Toby Verchere	episodes=1 episode, 2011 	
+character=Sylvia	name=Monica Mustelier	episodes=1 episode, 2011 	
+character=Man	name=Kurt Max Runte	episodes=1 episode, 2011 	
+character=Boy	name=Eric Gibson	episodes=1 episode, 2011 	
+character=Courier	name=Arvind Johal	episodes=1 episode, 2011 	
+character=Soldier	name=Christopher Pearce	episodes=1 episode, 2011 	
+character=Brian Bauer	name=David James Lewis	episodes=1 episode, 2012 	
+character=Margaret	name=Jill Morrison	episodes=1 episode, 2012 	
+character=Bomb Tech	name=Toby Levins	episodes=1 episode, 2012 	
+character=Blond Man	name=Patrick Roccas	episodes=1 episode, 2012 	
+character=TSA Agent	name=Brent Chapman	episodes=1 episode, 2012 	
+character=Linda Greeley	name=Moya O	episodes=1 episode, 2012 	
+character=Linda Greeley	name=Connell	episodes=1 episode, 2012 	
+character=Nurse	name=Henry Mah	episodes=1 episode, 2012 	
+character=Business Man	name=Aurelio DiNunzio	episodes=1 episode, 2012 	
+character=Escalator Rider 	name=Yvette Dudley-Neuman	episodes=1 episode, 2012 	
+character=Lead Tattie	name=Serge Jaswal	episodes=1 episode, 2012 	
+character=Loyalist Guard 	name=Michael Nyuis	episodes=1 episode, 2012 	
+character=Daniel	name=Aiden Finn	episodes=1 episode, 2012 	
+character=Loyalist Guard With Tracker	name=Kasey Kieler	episodes=1 episode, 2012 	
+character=Beard	name=Colby Chartrand	episodes=1 episode, 2012 	
+character=FBI Agent 	name=Heming Hopkins	episodes=1 episode, 2012 	
+character=Consoling Man	name=Don House	episodes=1 episode, 2012 	
+character=Observer Physician 	name=Mackenzie Gray	episodes=1 episode, 2013 	
+character=Butterfly Observer	name=Ryan Hesp	episodes=1 episode, 2013 	
+character=Richard	name=Hoon Lee	episodes=1 episode, 2008 	
+character=Ben	name=Scott Evans	episodes=1 episode, 2008 	
+character=Male Resident	name=Jack O	episodes=1 episode, 2008 	
+character=Male Resident	name=Connell	episodes=1 episode, 2008 	
+character=Paula	name=Megan Neuringer	episodes=1 episode, 2008 	
+character=Forensics Agent	name=Juliet Adair Pritner	episodes=1 episode, 2008 	
+character=Maureen Stockton	name=Nance Williamson	episodes=1 episode, 2008 	
+character=Pilot	name=Andreas Frank	episodes=1 episode, 2008 	
+character=Nurse 	name=Leslie Eva Glaser	episodes=1 episode, 2008 	
+character=Tattoo Girl	name=Alicia Goranson	episodes=1 episode, 2009 	
+character=Agent Tevez	name=Aaron Pearl	episodes=1 episode, 2009 	
+character=Jonathan Swift	name=Rafi Silver	episodes=1 episode, 2009 	
+character=Agent Feiken	name=Daniel London	episodes=1 episode, 2009 	
+character=Professor Miles Kinberg	name=Stephen Schnetzer	episodes=1 episode, 2009 	
+character=Witness 	name=Albert Jones	episodes=1 episode, 2009 	
+character=Dr. Miller	name=Laurie Williams	episodes=1 episode, 2009 	
+character=Security Guard	name=Dee Jay Jackson	episodes=1 episode, 2009 	
+character=Nurse	name=Marsha Regis	episodes=1 episode, 2009 	
+character=Truck Driver	name=Andy Nez	episodes=1 episode, 2009 	
+character=Young Peter	name=Nico Ghisi	episodes=1 episode, 2009 	
+character=Security Guard	name=Norman Misura	episodes=1 episode, 2009 	
+character=Fae	name=Diana Ha	episodes=1 episode, 2009 	
+character=Dr. Newell	name=Deepti Gupta	episodes=1 episode, 2010 	
+character=Professor Lime	name=Andrew McIlroy	episodes=1 episode, 2010 	
+character=Shapeshifter	name=Christian Tessier	episodes=1 episode, 2010 	
+character=Nana Staller	name=Magda Harout	episodes=1 episode, 2010 	
+character=Mark Wilner	name=Darren Dolynski	episodes=1 episode, 2010 	
+character=Police Captain	name=David Neale	episodes=1 episode, 2010 	
+character=Laird Woomer	name=Tyler McClendon	episodes=1 episode, 2010 	
+character=Dr. Alexandra Ross	name=Elizabeth McLaughlin	episodes=1 episode, 2010 	
+character=Delivery Man	name=Paul Bae	episodes=1 episode, 2010 	
+character=Mike, Bike Courier	name=Kristian Haas	episodes=1 episode, 2010 	
+character=Featureless Figures	name=Holland Miller	episodes=1 episode, 2010 	
+character=Celebrity Look-alike	name=Herod Gilani	episodes=1 episode, 2010 	
+character=Jerry Bissell	name=Eric Keenleyside	episodes=1 episode, 2011 	
+character=Jeremy Roman	name=Benjamin Wilkinson	episodes=1 episode, 2011 	
+character=Bill	name=Michael Teigen	episodes=1 episode, 2011 	
+character=Nun	name=Kerry Sandomirsky	episodes=1 episode, 2011 	
+character=Don	name=Richard Keats	episodes=1 episode, 2011 	
+character=Backseat Girl	name=Arielle Tuliao	episodes=1 episode, 2011 	
+character=Karen	name=Lori Triolo	episodes=1 episode, 2011 	
+character=Doorman	name=Peter New	episodes=1 episode, 2011 	
+character=Manager	name=Patrick Keating	episodes=1 episode, 2011 	
+character=EMT	name=Owen Kwong	episodes=1 episode, 2011 	
+character=Brian O	name=Matteo Stefan	episodes=1 episode, 2011 	
+character=Toole	name=Matteo Stefan	episodes=1 episode, 2011 	
+character=Tactical Agent Spencer	name=Shaine Jones	episodes=1 episode, 2011 	
+character=Fringe Doctor 	name=Gwenda Lorenzetti	episodes=1 episode, 2011 	
+character=Jean	name=Gigi Friedman	episodes=1 episode, 2011 	
+character=Civil Servant	name=Ian Hawkins	episodes=1 episode, 2011 	
+character=Store Proprietor	name=Peter Hall	episodes=1 episode, 2011 	
+character=Second Policeman	name=Mike Russell	episodes=1 episode, 2011 	
+character=Marco	name=Alessandro Juliani	episodes=1 episode, 2012 	
+character=ND Agent	name=Rochelle Okoye	episodes=1 episode, 2012 	
+character=Diane Mallum	name=Meredith McGeachie	episodes=1 episode, 2012 	
+character=Pilot	name=David Ingram	episodes=1 episode, 2012 	
+character=Neo-Observer	name=Yurij Kis	episodes=1 episode, 2012 	
+character=Doctor 	name=Brad Dryborough	episodes=1 episode, 2012 	
+character=Techie	name=Edwin Perez	episodes=1 episode, 2012 	
+character=Guard at Bridge	name=Broadus Mattison	episodes=1 episode, 2012 	
+character=Escalator Rider 	name=Jane Hancock	episodes=1 episode, 2012 	
+character=Half Egg Face Loyalist	name=Terrance Leigh	episodes=1 episode, 2012 	
+character=ND Agent	name=Chantele Francis	episodes=1 episode, 2012 	
+character=Agent Solerno	name=Gary Gill	episodes=1 episode, 2012 	
+character=Jacket	name=Jason Duiven	episodes=1 episode, 2012 	
+character=Loyalist Guard in Hummer 	name=Howie Lai	episodes=1 episode, 2013 	
+character=Trevor	name=Rustin Gresiuk	episodes=1 episode, 2013 	
+character=Lead Observer Scientist	name=Kristian Thorson	episodes=1 episode, 2013 	
+character=Nurse 	name=Cindy Cheung	episodes=1 episode, 2008 	
+character=Frank the Orderly	name=Kevin Carolan	episodes=1 episode, 2008 	
+character=Melanie 	name=Catia Ojeda	episodes=1 episode, 2008 	
+character=Secretary	name=Catia Ojeda	episodes=1 episode, 2008 	
+character=Bartender	name=Sean Mahon	episodes=1 episode, 2008 	
+character=Gary	name=José Ramón Rosario	episodes=1 episode, 2008 	
+character=Nina	name=Jacqueline Hendy	episodes=1 episode, 2008 	
+character=Assistant	name=Jacqueline Hendy	episodes=1 episode, 2008 	
+character=Young Pastor	name=Clark Jackson	episodes=1 episode, 2008 	
+character=Co-Pilot	name=Dennis Mockler	episodes=1 episode, 2008 	
+character=Jill Leiter	name=Emily Holmes	episodes=1 episode, 2009 	
+character=Patrick Hickey	name=John Tench	episodes=1 episode, 2009 	
+character=Store Clerk	name=Amitai Marmorstein	episodes=1 episode, 2009 	
+character=Mr. Rubel	name=Ken Kramer	episodes=1 episode, 2009 	
+character=Doctor	name=Christine Toy Johnson	episodes=1 episode, 2009 	
+character=Slim Joe	name=Keith Dallas	episodes=1 episode, 2009 	
+character=Second Senator	name=Neil Schell	episodes=1 episode, 2009 	
+character=Paul Wiles	name=Mark Lotito	episodes=1 episode, 2009 	
+character=ER Doctor	name=Sue Jean Kim	episodes=1 episode, 2009 	
+character=Newscaster	name=Ana Berry	episodes=1 episode, 2009 	
+character=Nurse 	name=Linnea Johnson	episodes=1 episode, 2009 	
+character=Chinese Man	name=Gordon Lai	episodes=1 episode, 2009 	
+character=Davis	name=Eric L. Abrams	episodes=1 episode, 2009 	
+character=Older Woman	name=Carolyn Feldschuh	episodes=1 episode, 2009 	
+character=Shen Chan	name=Vincent Tong	episodes=1 episode, 2010 	
+character=MP	name=Darryl Scheelar	episodes=1 episode, 2010 	
+character=Girl 	name=Havana Guppy	episodes=1 episode, 2010 	
+character=Grown Daughter	name=Stephanie Cudmore	episodes=1 episode, 2010 	
+character=Heather	name=Marie West	episodes=1 episode, 2010 	
+character=Detective Manning	name=Dan Joffre	episodes=1 episode, 2010 	
+character=Andrew Rusk	name=Chazz Menendez	episodes=1 episode, 2010 	
+character=Teacher	name=Denise Jones	episodes=1 episode, 2010 	
+character=Emily Clayton	name=Tristin Leffler	episodes=1 episode, 2010 	
+character=EMT 	name=Robin Nielsen	episodes=1 episode, 2010 	
+character=Medical Examiner Tech	name=C. Douglas Quan	episodes=1 episode, 2010 	
+character=Lead Cop	name=Terry Howson	episodes=1 episode, 2010 	
+character=Vannoy	name=Matthew MacCaull	episodes=1 episode, 2011 	
+character=Neighbor	name=Colleen Wheeler	episodes=1 episode, 2011 	
+character=Scott Watts	name=Nelson Wong	episodes=1 episode, 2011 	
+character=Kim Kimball	name=Erin Simms	episodes=1 episode, 2011 	
+character=Fringe Agent 	name=Randal Edwards	episodes=1 episode, 2011 	
+character=Nurse Gail	name=Jennifer Koenig	episodes=1 episode, 2011 	
+character=January	name=David Haysom	episodes=1 episode, 2011 	
+character=Conductor	name=Howard Siegel	episodes=1 episode, 2011 	
+character=Agent Bergmann	name=Winson Won	episodes=1 episode, 2011 	
+character=Nurse	name=Suzanne Kelly	episodes=1 episode, 2011 	
+character=Trenchcoat	name=John Paul McGlynn	episodes=1 episode, 2011 	
+character=PFC Tomforde	name=Hector Johnson	episodes=1 episode, 2011 	
+character=Danny Mallum	name=Dylan Schmid	episodes=1 episode, 2012 	
+character=Air Marshal	name=Ken Kirzinger	episodes=1 episode, 2012 	
+character=Klopinski	name=Dejan Loyola	episodes=1 episode, 2012 	
+character=Observer 	name=Hrothgar Mathews	episodes=1 episode, 2012 	
+character=Kerry Watson	name=Jessie Fraser	episodes=1 episode, 2012 	
+character=Shapeshifter in Tank	name=Maja Aro	episodes=1 episode, 2012 	
+character=Winston	name=John R. Taylor	episodes=1 episode, 2012 	
+character=Willy	name=Roman Podhora	episodes=1 episode, 2012 	
+character=Cab Driver	name=Adrian Neblett	episodes=1 episode, 2012 	
+character=Warehouse Employee	name=Raphael Kepinski	episodes=1 episode, 2012 	
+character=Mr. Roe	name=James Sullivan	episodes=1 episode, 2012 	
+character=FBI Agent 	name=Jennifer Lines	episodes=1 episode, 2012 	
+character=Daniel	name=Mark Gash	episodes=1 episode, 2012 	
+character=Bree Collins	name=Erynn Desiree	episodes=1 episode, 2012 	
+character=Lady in Red	name=Victoria Waterhouse	episodes=1 episode, 2012 	
+character=Elizabeth	name=Jane Kim	episodes=1 episode, 2008 	
+character=Bar Patron	name=Belinda Sinclair	episodes=1 episode, 2008 	
+character=Nurse	name=Danielle Skraastad	episodes=1 episode, 2008 	
+character=Technician	name=Kevin Isola	episodes=1 episode, 2008 	
+character=Man	name=Benim Foster	episodes=1 episode, 2008 	
+character=Brian Cole	name=Robert Arcaro	episodes=1 episode, 2008 	
+character=Tow Truck Driver	name=Christopher Sapienza	episodes=1 episode, 2008 	
+character=CDC Officer	name=Lee Gladman	episodes=1 episode, 2008 	
+character=Waitress	name=Sunita Prasad	episodes=1 episode, 2009 	
+character=Diana Lamia	name=Jovanna Burke	episodes=1 episode, 2009 	
+character=Heavy Set Woman	name=Carrie Keranen	episodes=1 episode, 2009 	
+character=Club Girl	name=Angelina Assereto	episodes=1 episode, 2009 	
+character=Nurse Darla	name=Linda Ko	episodes=1 episode, 2009 	
+character=Terrified Woman	name=Susie Lee	episodes=1 episode, 2009 	
+character=Mark	name=Randy Kovitz	episodes=1 episode, 2009 	
+character=Orderly	name=Darryl Quon	episodes=1 episode, 2009 	
+character=Matt	name=Craig Alan Edwards	episodes=1 episode, 2009 	
+character=Detective	name=Jim Coope	episodes=1 episode, 2009 	
+character=ND FBI Agent 	name=Brian Christopher O	episodes=1 episode, 2009 	
+character=ND FBI Agent 	name=Neill	episodes=1 episode, 2009 	
+character=German Prison Guard 	name=Adam Ludwig	episodes=1 episode, 2009 	
+character=EMT 	name=Sam Vincent	episodes=1 episode, 2010 	
+character=Shelley	name=Barbara Kottmeier	episodes=1 episode, 2010 	
+character=Snack Shop Clerk	name=Sachin Sahel	episodes=1 episode, 2010 	
+character=Marco	name=Dave Collette	episodes=1 episode, 2010 	
+character=Arlette Turling	name=Kristen Ross	episodes=1 episode, 2010 	
+character=Mom	name=Tracy Trueman	episodes=1 episode, 2010 	
+character=Second Man	name=Fraser Corbett	episodes=1 episode, 2010 	
+character=Girl 	name=Madison Guppy	episodes=1 episode, 2010 	
+character=Young Boy	name=Peter MacRae	episodes=1 episode, 2010 	
+character=Bus Driver	name=Colin Banner	episodes=1 episode, 2010 	
+character=Julie Danzig	name=Shauna Johannesen	episodes=1 episode, 2011 	
+character=Dr. Grant	name=Nimet Kanji	episodes=1 episode, 2011 	
+character=Nurse Sheila	name=Kathryn Kirkpatrick	episodes=1 episode, 2011 	
+character=FBI Tech Carl	name=Michael Smith	episodes=1 episode, 2011 	
+character=Bobby Joyce	name=Nicolas Ouellette	episodes=1 episode, 2011 	
+character=Nurse 	name=Shannon Powell	episodes=1 episode, 2011 	
+character=Kidnapper 	name=Ben Geldreich	episodes=1 episode, 2011 	
+character=EMT 	name=David Lloyd	episodes=1 episode, 2011 	
+character=First Man	name=Justin Kim	episodes=1 episode, 2011 	
+character=SWAT 	name=Emmanuel Matovu	episodes=1 episode, 2011 	
+character=Waitress	name=Siobhan McCarthy	episodes=1 episode, 2011 	
+character=Doctor Brody	name=Janet Kidder	episodes=1 episode, 2012 	
+character=Mikey	name=Nelson Leis	episodes=1 episode, 2012 	
+character=Brian	name=Sean Owen Roberts	episodes=1 episode, 2012 	
+character=Golden Earring	name=Jason Simpson	episodes=1 episode, 2012 	
+character=Man in Suit	name=Wesley Salter	episodes=1 episode, 2012 	
+character=Orderly	name=Ken Lawson	episodes=1 episode, 2012 	
+character=Doctor	name=Desiree Zurowski	episodes=1 episode, 2012 	
+character=Woman in Park	name=Debbie Timuss	episodes=1 episode, 2012 	
+character=Agent Cole	name=Marc-Anthony Massiah	episodes=1 episode, 2012 	
+character=Agent Hanning	name=Mike Li	episodes=1 episode, 2012 	
+character=Nurse	name=Marcia Moulton	episodes=1 episode, 2012 	
+character=Small Boy	name=Austin Middleton	episodes=1 episode, 2012 	
+character=Transit Tattie	name=Christie Watson	episodes=1 episode, 2012 	
+character=Bob Englehart	name=Patrick Spencer	episodes=1 episode, 2012 	
+character=Observer Surgeon	name=Simon Hill	episodes=1 episode, 2013 	
+character=Chief Technician	name=Jennifer Van Dyck	episodes=1 episode, 2008 	
+character=Guard	name=Andrew Hinkson	episodes=1 episode, 2008 	
+character=Student	name=Brandon Gill	episodes=1 episode, 2008 	
+character=Bethany	name=Marcel Simoneau	episodes=1 episode, 2008 	
+character=Co-Worker	name=Marcel Simoneau	episodes=1 episode, 2008 	
+character=Paul	name=Harry Sutton Jr.	episodes=1 episode, 2008 	
+character=Woman at Door	name=Constance Boardman	episodes=1 episode, 2008 	
+character=EMT 	name=Chris Jackson	episodes=1 episode, 2009 	
+character=Miriam	name=Kelly Kirklyn	episodes=1 episode, 2009 	
+character=Paramedic	name=Jeremy Jones	episodes=1 episode, 2009 	
+character=Deborah Crampton	name=Donna Yamamoto	episodes=1 episode, 2009 	
+character=ND Agent 	name=D. Neil Mark	episodes=1 episode, 2009 	
+character=Guard 	name=Victor Chan	episodes=1 episode, 2009 	
+character=Secretary	name=Mia Ingimundson	episodes=1 episode, 2009 	
+character=Pan Che	name=Zen Lim	episodes=1 episode, 2009 	
+character=ND Agent 	name=Shabazz Ray	episodes=1 episode, 2009 	
+character=Mom	name=Dina Ann Comolli	episodes=1 episode, 2009 	
+character=German Prison Guard 	name=Henning Fischer	episodes=1 episode, 2009 	
+character=Nurse	name=Mary Lou Schriber	episodes=1 episode, 2009 	
+character=Amanda Walsh	name=Anja Savcic	episodes=1 episode, 2010 	
+character=Eliza Staller	name=Nancy Linari	episodes=1 episode, 2010 	
+character=Operating Assistant	name=Anthony Shim	episodes=1 episode, 2010 	
+character=Male Victim	name=Graeme Duffy	episodes=1 episode, 2010 	
+character=Head MP	name=Barry Nerling	episodes=1 episode, 2010 	
+character=Jogger	name=Michael Patrick Denis	episodes=1 episode, 2010 	
+character=BPD Officer	name=Jordan Weller	episodes=1 episode, 2010 	
+character=Emergency Nurse 	name=Tanya Hubbard	episodes=1 episode, 2010 	
+character=Female Uniform	name=Tracy Beemer	episodes=1 episode, 2010 	
+character=Woomer Baby	name=Xavier Wilson	episodes=1 episode, 2010 	
+character=David Wu	name=James Tsai	episodes=1 episode, 2010 	
+character=Dr. Christine Albright	name=Karin Konoval	episodes=1 episode, 2011 	
+character=EMT 	name=Elfina Luk	episodes=1 episode, 2011 	
+character=Julia	name=Jane McGregor	episodes=1 episode, 2011 	
+character=Male Passenger	name=John Stewart	episodes=1 episode, 2011 	
+character=Joe	name=David Quinlan	episodes=1 episode, 2011 	
+character=Harry Millman	name=David Milchard	episodes=1 episode, 2011 	
+character=Doctor 	name=Peter Hanlon	episodes=1 episode, 2011 	
+character=Hospital Administrator	name=Judith Maxie	episodes=1 episode, 2011 	
+character=Tech 	name=Neelam Khabra	episodes=1 episode, 2011 	
+character=Fringe Nurse 	name=Lisa Sanson	episodes=1 episode, 2011 	
+character=Lacey Hayes	name=Ali Skovbye	episodes=1 episode, 2012 	
+character=Maddox 	name=Kirby Morrow	episodes=1 episode, 2012 	
+character=Maddox 	name=Kirby Morrow	episodes=1 episode, 2012 	
+character=Canaan	name=Kirby Morrow	episodes=1 episode, 2012 	
+character=TSA Agent	name=Kevin O	episodes=1 episode, 2012 	
+character=TSA Agent	name=Grady	episodes=1 episode, 2012 	
+character=Father	name=Daryl Shuttleworth	episodes=1 episode, 2012 	
+character=Alt Lincoln	name=Daryl Shuttleworth	episodes=1 episode, 2012 	
+character=Security Guard 	name=Adam Lolacher	episodes=1 episode, 2012 	
+character=Shapeshifter	name=Matthew Mylrea	episodes=1 episode, 2012 	
+character=Bus Driver	name=Ian Thompson	episodes=1 episode, 2012 	
+character=Loyalist Tunnel Operator	name=Timothy Lyle	episodes=1 episode, 2013 	
+character=Susan Lugo	name=Rosa Arredondo	episodes=1 episode, 2008 	
+character=Nd Agent 	name=Jabari Gray	episodes=1 episode, 2008 	
+character=Reporter	name=Doug Yasuda	episodes=1 episode, 2008 	
+character=Control Room Tech	name=Jasper McGruder	episodes=1 episode, 2008 	
+character=Nurse	name=Dianne Zaremba	episodes=1 episode, 2008 	
+character=Old Man on Plane	name=Jim McGrath	episodes=1 episode, 2008 	
+character=Nurse Maxine	name=Johanna Marlowe	episodes=1 episode, 2009 	
+character=Surgeon	name=Christian Vincent	episodes=1 episode, 2009 	
+character=Cop	name=Shawn Andrew	episodes=1 episode, 2009 	
+character=Joanne	name=Elizabeth A. Davis	episodes=1 episode, 2009 	
+character=Medical Examiner	name=Leanne Adachi	episodes=1 episode, 2009 	
+character=Zach Miller	name=Jarrett Knowles	episodes=1 episode, 2009 	
+character=Salesman	name=Mark Elliot Wilson	episodes=1 episode, 2009 	
+character=Husband	name=Fane Tse	episodes=1 episode, 2009 	
+character=Mei Lin	name=Fane Tse	episodes=1 episode, 2009 	
+character=ND FBI Agent 	name=Vivienne Sendaydiego	episodes=1 episode, 2009 	
+character=Waiter	name=Kam Ming Chang	episodes=1 episode, 2009 	
+character=ND Agent	name=Crystal Balint	episodes=1 episode, 2010 	
+character=Reverend Marcus	name=David Nykl	episodes=1 episode, 2010 	
+character=Bus Driver	name=C. Ernst Harth	episodes=1 episode, 2010 	
+character=Nurse Maude	name=Raf Rogers	episodes=1 episode, 2010 	
+character=Small Child	name=Kennedy Montano	episodes=1 episode, 2010 	
+character=Commuter	name=Michael Vairo	episodes=1 episode, 2010 	
+character=Grandma	name=Nancy Whyte	episodes=1 episode, 2010 	
+character=Young Usher	name=John Russell	episodes=1 episode, 2010 	
+character=Old Woman	name=Alex Stevens	episodes=1 episode, 2010 	
+character=Older Man	name=Ron M. Knight	episodes=1 episode, 2010 	
+character=Doorman	name=Alvin Sanders	episodes=1 episode, 2011 	
+character=Jonathan Danzig	name=Sean Michael Kyer	episodes=1 episode, 2011 	
+character=Young Woman	name=Nicole Hombrebueno	episodes=1 episode, 2011 	
+character=Alt. MP 	name=Todd Mann	episodes=1 episode, 2011 	
+character=Neuro Psychologist	name=Roz Murray	episodes=1 episode, 2011 	
+character=Jackie Bermudez	name=Byron Noble	episodes=1 episode, 2011 	
+character=Man on Street	name=Gary Peterman	episodes=1 episode, 2011 	
+character=SWAT 	name=Tyler McMaster	episodes=1 episode, 2011 	
+character=Fringe Agent 	name=Jesse Scarf	episodes=1 episode, 2011 	
+character=Adorable Old Man	name=Ivan Vance	episodes=1 episode, 2011 	
+character=Paige Randall	name=Elysia Rotaru	episodes=1 episode, 2012 	
+character=Albert Duncan	name=Jonathan Walker	episodes=1 episode, 2012 	
+character=Anne Chung	name=June Kyoto Lu	episodes=1 episode, 2012 	
+character=Clerk	name=Ryan Swanson	episodes=1 episode, 2012 	
+character=Orderly Sam	name=Donny Lucas	episodes=1 episode, 2012 	
+character=Transit Cop	name=Michael Rinaldi	episodes=1 episode, 2012 	
+character=Teresa	name=Tracy Waterhouse	episodes=1 episode, 2012 	
+character=Loyalist Guard 	name=Jaren Moore	episodes=1 episode, 2012 	
+character=Security Guard 	name=Will E. McDonald	episodes=1 episode, 2012 	
+character=Lead Observer	name=Kurtis Maguire	episodes=1 episode, 2013 	
+character=Dr. Bruce Miller	name=Amir Arison	episodes=1 episode, 2008 	
+character=Unit Cop	name=Chris Fischer	episodes=1 episode, 2008 	
+character=Old Woman on Plane	name=Joan Barrett	episodes=1 episode, 2008 	
+character=Blonde	name=Ashley Hinshaw	episodes=1 episode, 2009 	
+character=Jenny Burgess	name=Dalila Bela	episodes=1 episode, 2009 	
+character=ER Doctor	name=Elizabeth Thai	episodes=1 episode, 2009 	
+character=Gregory Wiles	name=Connor	episodes=1 episode, 2009 	
+character=Gregory Wiles	name=Jake O	episodes=1 episode, 2009 	
+character=Mover	name=Derek Morrison	episodes=1 episode, 2009 	
+character=Mei Lin	name=Rene Wang	episodes=1 episode, 2009 	
+character=Receptionist	name=Laura Mann	episodes=1 episode, 2009 	
+character=Receptionist	name=Ava Galgani	episodes=1 episode, 2009 	
+character=Archie Donnelly	name=Phil Nee	episodes=1 episode, 2009 	
+character=Man	name=Manuel Cabral	episodes=1 episode, 2009 	
+character=ND Agent	name=Kevin Sibley	episodes=1 episode, 2009 	
+character=Boy in Restaurant	name=Matteo Mazziotti	episodes=1 episode, 2009 	
+character=Alt. DOD MP 	name=Nigel Vonas	episodes=1 episode, 2010 	
+character=Bus Passenger	name=Winnie Hung	episodes=1 episode, 2010 	
+character=Police Officer	name=Robert Parent	episodes=1 episode, 2010 	
+character=Dying Woman	name=Erin Lacourciere	episodes=1 episode, 2010 	
+character=EMT 	name=Jennifer Mawhinney	episodes=1 episode, 2010 	
+character=Gas Station Attendant	name=Gino Cocomello	episodes=1 episode, 2010 	
+character=Agent Roach	name=Colin Lawrence	episodes=1 episode, 2011 	
+character=Jack	name=Travis Nelson	episodes=1 episode, 2011 	
+character=Nurse on Phone	name=Denise Pillott	episodes=1 episode, 2011 	
+character=Oscar	name=Mark Sweatman	episodes=1 episode, 2011 	
+character=Tattoo Man	name=Rhys Williams	episodes=1 episode, 2011 	
+character=George	name=Ian Robison	episodes=1 episode, 2011 	
+character=Transient	name=Raymond Sammel	episodes=1 episode, 2011 	
+character=FBI Tech	name=Lee Vincent	episodes=1 episode, 2011 	
+character=Mother	name=Juno Rinaldi	episodes=1 episode, 2012 	
+character=Jeremy	name=Scott Vickaryous	episodes=1 episode, 2012 	
+character=Guard	name=Kris McRonney	episodes=1 episode, 2012 	
+character=Hive 	name=Joel McGowan	episodes=1 episode, 2012 	
+character=Vagrant	name=Michael Rys	episodes=1 episode, 2012 	
+character=Coffee Barista	name=Janet Pinnick	episodes=1 episode, 2012 	
+character=Loyalist Guard 	name=Graham Myers	episodes=1 episode, 2012 	
+character=Traffic Control Loyalist	name=Chad Matchette	episodes=1 episode, 2013 	
+character=Smitty	name=Andre B. Blake	episodes=1 episode, 2008 	
+character=Ed 	name=Andre B. Blake	episodes=1 episode, 2008 	
+character=Smith	name=Andre B. Blake	episodes=1 episode, 2008 	
+character=Anna Jiminez	name=Mira Tzur	episodes=1 episode, 2008 	
+character=Agent 	name=Jeff Topping	episodes=1 episode, 2008 	
+character=ND Agent 	name=Avis Boone	episodes=1 episode, 2008 	
+character=ER Nurse	name=Deborah Twiss	episodes=1 episode, 2009 	
+character=Carl Langdon	name=Drew Nelson	episodes=1 episode, 2009 	
+character=Boyfriend	name=Dean McKenzie	episodes=1 episode, 2009 	
+character=Wife	name=Dean McKenzie	episodes=1 episode, 2009 	
+character=Morgue Attendant	name=Trevor Carroll	episodes=1 episode, 2009 	
+character=Ponytail Man	name=Miles Meadows	episodes=1 episode, 2009 	
+character=Second Chinese Man	name=Raymond Yu	episodes=1 episode, 2009 	
+character=Bouncer	name=Darren Copeland	episodes=1 episode, 2009 	
+character=Lisa Duffy	name=Eliza Norbury	episodes=1 episode, 2010 	
+character=Nurse Alice	name=Ricki Prosper	episodes=1 episode, 2010 	
+character=Female Patient	name=Ntsiki Kheswa	episodes=1 episode, 2010 	
+character=Karl	name=Alan Wong	episodes=1 episode, 2010 	
+character=Ned Dolan	name=Haig Sutherland	episodes=1 episode, 2011 	
+character=Gary	name=Michael Ryan	episodes=1 episode, 2011 	
+character=Woman	name=Melissa R. Stubbs	episodes=1 episode, 2011 	
+character=Jack	name=Todd Thomson	episodes=1 episode, 2011 	
+character=Pediatric Nurse	name=Courtney Lancaster	episodes=1 episode, 2011 	
+character=Aaron Downey	name=Todd Scott	episodes=1 episode, 2011 	
+character=Landlord	name=Ken Roberts	episodes=1 episode, 2011 	
+character=CSI Tech	name=Nancy J. Lilley	episodes=1 episode, 2011 	
+character=Canaan	name=Michelle C. Smith	episodes=1 episode, 2012 	
+character=Hoodie	name=Shawn Robidoux	episodes=1 episode, 2012 	
+character=Observer 	name=Gardiner Millar	episodes=1 episode, 2013 	
+character=Alt Universe Fringe Agent 	name=Tara Pratt	episodes=1 episode, 2013 	
+character=Special Agent Martin	name=Karl Kenzler	episodes=1 episode, 2008 	
+character=Agent 	name=Sean Clement	episodes=1 episode, 2008 	
+character=Reporter	name=Stacey Nelkin	episodes=1 episode, 2009 	
+character=Medical Examiner	name=Kevan Ohtsji	episodes=1 episode, 2009 	
+character=Another Nurse	name=Angela Moore	episodes=1 episode, 2009 	
+character=Mom	name=Marnie Schulenburg	episodes=1 episode, 2009 	
+character=Todd Pears	name=Duane McLaughlin	episodes=1 episode, 2009 	
+character=Receptionist	name=Allison Riley	episodes=1 episode, 2009 	
+character=Transit Cop	name=Walcott E. Morgan	episodes=1 episode, 2009 	
+character=Security Guard	name=Omari Newton	episodes=1 episode, 2010 	
+character=Emergency Nurse 	name=Iris Paluly	episodes=1 episode, 2010 	
+character=Vandenkemp	name=Nicholas W. von Zill	episodes=1 episode, 2010 	
+character=Teenage Boy	name=Christopher Kim Sing	episodes=1 episode, 2010 	
+character=Rose Son, Age 7	name=Nicolas Russo	episodes=1 episode, 2010 	
+character=Joe	name=Jim Shield	episodes=1 episode, 2011 	
+character=Jack	name=Karly Warkentin	episodes=1 episode, 2011 	
+character=Wife	name=Karly Warkentin	episodes=1 episode, 2011 	
+character=Security 	name=Aaron Isaacs	episodes=1 episode, 2011 	
+character=Danny	name=Jarrod Terrell	episodes=1 episode, 2011 	
+character=Father Louis	name=Moishe Teichman	episodes=1 episode, 2012 	
+character=Orderly Charles	name=Munish Sharma	episodes=1 episode, 2012 	
+character=Amon	name=Ivan Wanis-Ruiz	episodes=1 episode, 2013 	
+character=Observer 	name=James Ralph	episodes=1 episode, 2013 	
+character=Agent 	name=Katerina Taxia	episodes=1 episode, 2008 	
+character=Bradley	name=Village	episodes=1 episode, 2008 	
+character=Greg Leiter	name=Jim Thorburn	episodes=1 episode, 2009 	
+character=Mako	name=Dante Nero	episodes=1 episode, 2009 	
+character=Tech Two	name=Christian Pedersen	episodes=1 episode, 2009 	
+character=George	name=Mike Mitchell	episodes=1 episode, 2009 	
+character=Nociforo	name=Ian Rozylo	episodes=1 episode, 2009 	
+character=Alex Koslov	name=Yaroslav Poverlo	episodes=1 episode, 2009 	
+character=Tucker	name=Jeremy Zorek	episodes=1 episode, 2009 	
+character=ND Swat 	name=Robert Matzelle	episodes=1 episode, 2009 	
+character=Doctor 	name=Shaughnessy Redden	episodes=1 episode, 2010 	
+character=Agent 	name=Quelemia Sparrow	episodes=1 episode, 2010 	
+character=Pedestrian	name=Pablo Silveira	episodes=1 episode, 2010 	
+character=Female EMT	name=Georgia Hacche	episodes=1 episode, 2010 	
+character=FBI Agent Frazier	name=Stephen Lobo	episodes=1 episode, 2011 	
+character=Mary	name=Sheila Tyson	episodes=1 episode, 2011 	
+character=Kara	name=Carri Toivanen	episodes=1 episode, 2011 	
+character=Lone Traveler	name=John Treleaven	episodes=1 episode, 2011 	
+character=Doctor 	name=Matthew Thiessen	episodes=1 episode, 2011 	
+character=Cop 	name=Mike Waterman	episodes=1 episode, 2011 	
+character=Observer With Windmark	name=Alan Silverman	episodes=1 episode, 2012 	
+character=Bank Manager Grimes	name=Frank Deal	episodes=1 episode, 2008 	
+character=Agent 	name=Anousha Alamian	episodes=1 episode, 2008 	
+character=Courier	name=Christian Sloan	episodes=1 episode, 2009 	
+character=Detective Green	name=Alex Zahara	episodes=1 episode, 2009 	
+character=Bookstore Customer	name=Ben Van Bergen	episodes=1 episode, 2009 	
+character=Speaker	name=Natalie von Rotsburg	episodes=1 episode, 2010 	
+character=Mother	name=Yolanda Jessel	episodes=1 episode, 2010 	
+character=Nate	name=Keenan Tracey	episodes=1 episode, 2011 	
+character=ND Agent 	name=Lisa Norton	episodes=1 episode, 2011 	
+character=Tommy	name=Andrew Zachar	episodes=1 episode, 2011 	
+character=Dillon	name=Sylvesta Stuart	episodes=1 episode, 2011 	
+character=Citizen Observer	name=Dave Thompson	episodes=1 episode, 2012 	
+character=H.I. Worker	name=Emily Brownell	episodes=1 episode, 2008 	
+character=Nurse	name=Kelly King	episodes=1 episode, 2008 	
+character=HR Head	name=Veena Sood	episodes=1 episode, 2009 	
+character=Jenna	name=Ecstasia Sanders	episodes=1 episode, 2010 	
+character=Senator	name=Veenu Sandhu	episodes=1 episode, 2010 	
+character=Aide	name=Veenu Sandhu	episodes=1 episode, 2010 	
+character=Bike Messenger	name=Kimani Ray Smith	episodes=1 episode, 2010 	
+character=Translucent Man	name=Michael Karl Richards	episodes=1 episode, 2011 	
+character=Screaming Woman	name=Kelly Ann Woods	episodes=1 episode, 2011 	
+character=Security 	name=Richard Stroh	episodes=1 episode, 2011 	
+character=Resistance Member in Truck	name=Michael Soltis	episodes=1 episode, 2013 	
+character=Alt Universe Fringe Agent 	name=Andrea Yu	episodes=1 episode, 2013 	
+character=Surveyor 	name=R.J. Foster	episodes=1 episode, 2008 	
+character=Iraqi Businessman 	name=Tauqir Shah	episodes=1 episode, 2008 	
+character=Randy Dancik	name=Joe Towne	episodes=1 episode, 2009 	
+character=Resident Doctor	name=Melanie Walden	episodes=1 episode, 2010 	
+character=Grocer	name=Sal Sortino	episodes=1 episode, 2010 	
+character=Harry Staller	name=Leonard Tenisci	episodes=1 episode, 2010 	
+character=Amy Danzig	name=Charlotte Williams	episodes=1 episode, 2011 	
+character=Loyalist in Apartment 	name=Hugo Steele	episodes=1 episode, 2013 	
+character=Loyalist Nurse	name=Vanessa Zachos	episodes=1 episode, 2013 	
+character=Surveyor 	name=Greg Schmalbach	episodes=1 episode, 2008 	
+character=Iraqi Businessman 	name=Omar Habib	episodes=1 episode, 2008 	
+character=Jillian Foster	name=Larissa Stadnichuk	episodes=1 episode, 2010 	
+character=Dick	name=Greg Webb	episodes=1 episode, 2011 	
+character=Secretary Carol	name=Sharon Taylor	episodes=1 episode, 2013 	
+character=Boyles	name=Sharon Taylor	episodes=1 episode, 2013 	
+character=Orderly	name=Quinn Martin	episodes=1 episode, 2008 	
+character=Male EMT	name=Adam Thomas	episodes=1 episode, 2010 	
+character=Eric Franko	name=Max Train	episodes=1 episode, 2010 	
+character=Gurney	name=Tre Smith	episodes=1 episode, 2008 	
+character=Man with John	name=Tre Smith	episodes=1 episode, 2008 	
+character=Surveyor 	name=Eric Chan	episodes=1 episode, 2008 	
+character=Agent Doble	name=Francisco Trujillo	episodes=1 episode, 2010 	
+character=Receptionist	name=Daesha Danielle Usman	episodes=1 episode, 2010 	
+character=Loyalist in Apartment 	name=Felipe Vecino	episodes=1 episode, 2013 	
+character=David Staller	name=Brendon Zub	episodes=1 episode, 2010 	
+character=Homeless Man	name=Jason Vaisvila	episodes=1 episode, 2010 	
+character=Dying Observer Egg Face	name=Greg Zach	episodes=1 episode, 2013 	
+character=Lawyer	name=Kristopher West	episodes=1 episode, 2010 	
+character=ND Agent 	name=James Hook	episodes=1 episode, 2008 	
+character=Nurse	name=Kyra Zagorsky	episodes=1 episode, 2010 	
+character=Female Victim	name=Gabriela Zimmerman	episodes=1 episode, 2010 	
+character=FBI Agent	name=Frank Anello	episodes=3 episodes, 2008-2010 	
+character=Nina	name=Jacqueline Beaulieu	episodes=3 episodes, 2008 	
+character=Assistant	name=Jacqueline Beaulieu	episodes=3 episodes, 2008 	
+character=Observer	name=Eric Floyd	episodes=3 episodes, 2012-2013 	
+character=Man 	name=David Shumbris	episodes=2 episodes, 2008-2009 	
+character=FBI Agent	name=Takako Haywood	episodes=2 episodes, 2008 	
+character=Boston Fireman	name=Danny Doherty	episodes=2 episodes, 2009-2010 	
+character=Dying Patient	name=Jeny Cassady	episodes=2 episodes, 2009 	
+character=Civilian	name=Tom MacNeill	episodes=2 episodes, 2010-2012 	
+character=Civilian	name=Sherry Nelson	episodes=2 episodes, 2010-2011 	
+character=Cab Driver	name=Cameron K. Smith	episodes=2 episodes, 2010 	
+character=Ian Spencer	name=John Boyd	episodes=1 episode, 2008 	
+character=Reporter 	name=Kathy Searle	episodes=1 episode, 2008 	
+character=Sergeant Stuart Malick	name=Justin Doescher	episodes=1 episode, 2008 	
+character=Sister	name=Karin Agstam	episodes=1 episode, 2008 	
+character=Agent Scott	name=Karin Agstam	episodes=1 episode, 2008 	
+character=Construction Foreman	name=Timothy J. Cox	episodes=1 episode, 2008 	
+character=Mental Patient	name=Harry L. Seddon	episodes=1 episode, 2008 	
+character=FBI Ops Agent	name=Vladimir Troitsky	episodes=1 episode, 2008 	
+character=Orderly	name=Dennis Jay Funny	episodes=1 episode, 2008 	
+character=Man on Plane	name=Dl MacDonald	episodes=1 episode, 2008 	
+character=Joseph Smith	name=Ian Mclaughlin	episodes=1 episode, 2008 	
+character=Traveler	name=Anjuli Sanneman	episodes=1 episode, 2008 	
+character=Taxi Driver	name=Mustafa Cimen	episodes=1 episode, 2008 	
+character=O.R. Nurse	name=Mark Vincent	episodes=1 episode, 2008 	
+character=Stuart	name=Brandon Alan Smith	episodes=1 episode, 2008 	
+character=College Student	name=Andrew Bradley	episodes=1 episode, 2008 	
+character=Additional	name=Patrick Bradford	episodes=1 episode, 2008 	
+character=Biohazard Tech	name=Loukas Papas	episodes=1 episode, 2008 	
+character=Mental Patient	name=David Pachucki	episodes=1 episode, 2008 	
+character=Cow Delivery Man	name=Rick Parker	episodes=1 episode, 2008 	
+character=German Airline Pilot	name=Paul Jude Letersky	episodes=1 episode, 2008 	
+character=Forensic Photographer	name=Ed Bergtold	episodes=1 episode, 2008 	
+character=Assistant	name=Katherine Dickson	episodes=1 episode, 2008 	
+character=FBI Agent	name=Elisangela DiAlencar	episodes=1 episode, 2008 	
+character=Stewardess	name=Samantha Maldonado	episodes=1 episode, 2008 	
+character=Hazmat Worker	name=David Collihan	episodes=1 episode, 2008 	
+character=FBI Agent	name=Ralph A. Wilburn Jr.	episodes=1 episode, 2008 	
+character=Young Father	name=Jay Painter	episodes=1 episode, 2008 	
+character=Traveler	name=Casey Cipriani	episodes=1 episode, 2008 	
+character=Newlywed	name=Joseph George Pcolinsky	episodes=1 episode, 2008 	
+character=Pedestrian	name=Gregg Blake	episodes=1 episode, 2008 	
+character=Hospital	name=Jarone Lee	episodes=1 episode, 2008 	
+character=Man 	name=Anthony Vincent	episodes=1 episode, 2009 	
+character=NY Cop	name=Ivan Cermak	episodes=1 episode, 2009 	
+character=Rogue Agent	name=Christopher Place	episodes=1 episode, 2009 	
+character=Gavin	name=Steve Lord	episodes=1 episode, 2009 	
+character=Man 	name=Steve Lord	episodes=1 episode, 2009 	
+character=FBI Agent	name=Charles Jarman	episodes=1 episode, 2009 	
+character=Grocery Clerk	name=Chris Cochrane	episodes=1 episode, 2009 	
+character=Flight Attendant	name=Daryl Schwartzberg	episodes=1 episode, 2009 	
+character=Boston Police Officer	name=Peter Conboy	episodes=1 episode, 2009 	
+character=Nurse	name=Gina Hernandez	episodes=1 episode, 2009 	
+character=Hot Dog Vendor	name=Uziman	episodes=1 episode, 2009 	
+character=Dead Car Salesman	name=Christopher Maggi	episodes=1 episode, 2009 	
+character=Waitress	name=Kate Chamuris	episodes=1 episode, 2009 	
+character=Sous Chef	name=Hakan Coskuner	episodes=1 episode, 2009 	
+character=Commuter	name=Kevin Hartford	episodes=1 episode, 2009 	
+character=Boyfriend 	name=Mike DiGiacinto	episodes=1 episode, 2009 	
+character=Doctor	name=Lee Cunningham	episodes=1 episode, 2009 	
+character=Sliced Teen	name=Harley Harrison	episodes=1 episode, 2009 	
+character=FBI Agent	name=Jim Lavin	episodes=1 episode, 2009 	
+character=Paramedic	name=James Schram	episodes=1 episode, 2009 	
+character=E.M.T. 	name=Walter Hartung	episodes=1 episode, 2009 	
+character=German Prison Guard	name=Ed Kalegi	episodes=1 episode, 2009 	
+character=Henchman	name=Michael A. Klein	episodes=1 episode, 2009 	
+character=College Student	name=Melissa Gangi	episodes=1 episode, 2009 	
+character=Animal Control	name=Jesse Kazemek	episodes=1 episode, 2009 	
+character=Clubber	name=Kenny Don	episodes=1 episode, 2009 	
+character=Miranda Greene	name=Diane Kruger	episodes=1 episode, 2010 	
+character=Nurse	name=Kate Gorney	episodes=1 episode, 2010 	
+character=Glen Brown	name=Sean Rogerson	episodes=1 episode, 2010 	
+character=Test Subject	name=Steve Antonucci	episodes=1 episode, 2010 	
+character=Tech	name=Trevor Coppola	episodes=1 episode, 2010 	
+character=Glenn Poleson	name=Simon Charles Tilbe	episodes=1 episode, 2010 	
+character=Nurse	name=Alice Niedermair	episodes=1 episode, 2010 	
+character=Mental Patient	name=Lisa Aitken	episodes=1 episode, 2010 	
+character=Kevin	name=Jorge Garcia	episodes=1 episode, 2011 	
+character=Woman	name=Alison Wandzura	episodes=1 episode, 2011 	
+character=Girlfriend Passenger	name=Toni Marie Nielsen	episodes=1 episode, 2011 	
+character=Boyfriend	name=Garrett Black	episodes=1 episode, 2011 	
+character=Store Customer	name=Ian Gregson	episodes=1 episode, 2011 	
+character=CSI Tech	name=Jojo Ahenkorah	episodes=1 episode, 2011 	
+character=Young Olivia	name=Ania Markiewicz	episodes=1 episode, 2011 	
+character=Mother	name=Ania Markiewicz	episodes=1 episode, 2011 	
+character=Division Guard 	name=Damon Winters	episodes=1 episode, 2011 	
+character=Guard	name=Michael Brian	episodes=1 episode, 2011 	
+character=Homeless Man	name=William J. Phillips	episodes=1 episode, 2011 	
+character=Young Man	name=Barry Ostash	episodes=1 episode, 2011 	
+character=Boyfriend Passenger	name=Nathan Rogers	episodes=1 episode, 2011 	
+character=Little Girl	name=Emma Benoit	episodes=1 episode, 2011 	
+character=Anne	name=Jocelyn Panton	episodes=1 episode, 2012 	
+character=Escalator Survivor 	name=Yoshié Bancroft	episodes=1 episode, 2012 	
+character=FBI Agent	name=Devielle Johnson	episodes=1 episode, 2012 	
+character=Nurse	name=Ashley Hand	episodes=1 episode, 2012 	
+character=MP	name=Colin Corrigan	episodes=1 episode, 2012 	
+character=Human outcast	name=Eoin Bates	episodes=1 episode, 2012 	
+character=Soldier	name=Amanda Dyar	episodes=1 episode, 2012 	
+character=Loyalist Scientist	name=Charles Edward Bae	episodes=1 episode, 2012 	
+character=Husband	name=Carlo Fanella	episodes=1 episode, 2012 	
+character=Interrogated Employee	name=Ashley Whetung	episodes=1 episode, 2012 	
+character=Vampire Observer	name=Dan Vaida	episodes=1 episode, 2013 	
+character=Slug Face Observer	name=Rory Brett	episodes=1 episode, 2013 	

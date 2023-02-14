@@ -1,0 +1,590 @@
+# http://fitlayout.github.io/resource/art2 -> https://www.imdb.com/title/tt4574334/fullcredits/
+character=Joyce Byers	name=Winona Ryder	episodes=42 episodes, 2016-2024 	
+character=Jim Hopper	name=David Harbour	episodes=42 episodes, 2016-2024 	
+character=Mike Wheeler	name=Finn Wolfhard	episodes=42 episodes, 2016-2024 	
+character=Dustin Henderson	name=Gaten Matarazzo	episodes=42 episodes, 2016-2024 	
+character=Lucas Sinclair	name=Caleb McLaughlin	episodes=42 episodes, 2016-2024 	
+character=Nancy Wheeler	name=Natalia Dyer	episodes=42 episodes, 2016-2024 	
+character=Jonathan Byers	name=Charlie Heaton	episodes=42 episodes, 2016-2024 	
+character=Steve Harrington	name=Joe Keery	episodes=42 episodes, 2016-2024 	
+character=Eleven	name=Millie Bobby Brown	episodes=42 episodes, 2016-2024 	
+character=Will Byers	name=Noah Schnapp	episodes=40 episodes, 2016-2024 	
+character=Karen Wheeler	name=Cara Buono	episodes=30 episodes, 2016-2022 	
+character=Erica Sinclair	name=Priah Ferguson	episodes=29 episodes, 2017-2024 	
+character=Max Mayfield	name=Sadie Sink	episodes=27 episodes, 2017-2023 	
+character=Robin Buckley	name=Maya Hawke	episodes=25 episodes, 2019-2024 	
+character=Murray Bauman	name=Brett Gelman	episodes=25 episodes, 2017-2024 	
+character=Ted Wheeler	name=Joe Chrest	episodes=20 episodes, 2016-2022 	
+character=Dr. Sam Owens	name=Paul Reiser	episodes=19 episodes, 2017-2022 	
+character=Billy Hargrove	name=Dacre Montgomery	episodes=18 episodes, 2017-2022 	
+character=Martin Brenner	name=Matthew Modine	episodes=20 episodes, 2016-2022 	
+character=Vecna	name=Jamie Campbell Bower	episodes=17 episodes, 2022-2024 	
+character=Officer Powell	name=Rob Morgan	episodes=16 episodes, 2016-2022 	
+character=Officer Callahan	name=John Reynolds	episodes=16 episodes, 2016-2022 	
+character=Holly Wheeler	name=Tinsley Price	episodes=15 episodes, 2016-2022 	
+character=Claudia Henderson	name=Catherine Curtin	episodes=11 episodes, 2017-2022 	
+character=Scott Clarke	name=Randy Havens	episodes=11 episodes, 2016-2019 	
+character=Terry Ives	name=Aimee Mullins	episodes=7 episodes, 2016-2022 	
+character=Bob Newby	name=Sean Astin	episodes=10 episodes, 2017-2019 	
+character=Florence	name=Susan Shalhoub Larkin	episodes=10 episodes, 2016-2019 	
+character=Argyle	name=Eduardo Franco	episodes=10 episodes, 2022-2023 	
+character=Eddie Munson	name=Joseph Quinn	episodes=8 episodes, 2022 	
+character=Jason Carver	name=Mason Dye	episodes=8 episodes, 2022 	
+character=Holly Wheeler	name=Anniston Price	episodes=8 episodes, 2016-2022 	
+character=Dmitri Antonov	name=Tom Wlaschiha	episodes=8 episodes, 2022 	
+character=Andy	name=Clayton Royal Johnson	episodes=8 episodes, 2022 	
+character=Grigori	name=Andrey Ivchenko	episodes=7 episodes, 2019 	
+character=Tommy Hagan	name=Chester Rushing	episodes=7 episodes, 2016-2017 	
+character=The Monster	name=Mark Steger	episodes=6 episodes, 2016-2017 	
+character=Lt. Col. Jack Sullivan	name=Sherman Augustus	episodes=6 episodes, 2022 	
+character=Heather Holloway	name=Francesca Reale	episodes=6 episodes, 2019 	
+character=Yuri	name=Nikola Djuricko	episodes=6 episodes, 2022 	
+character=Lead Agent	name=Tobias Jelinek	episodes=6 episodes, 2016 	
+character=Carol Perkins	name=Chelsea Talmadge	episodes=6 episodes, 2016-2017 	
+character=Patrick McKinney	name=Myles Truitt	episodes=6 episodes, 2022 	
+character=Susan Hargrove	name=Jennifer Marshall	episodes=6 episodes, 2017-2022 	
+character=Barbara Holland	name=Shannon Purser	episodes=4 episodes, 2016-2017 	
+character=Bruce	name=Jake Busey	episodes=5 episodes, 2019 	
+character=Mayor Larry Kline	name=Cary Elwes	episodes=5 episodes, 2019 	
+character=Tom Holloway	name=Michael Park	episodes=5 episodes, 2019 	
+character=Agent Connie Frazier	name=Catherine Dyer	episodes=5 episodes, 2016 	
+character=Young Eleven	name=Martie Marie Blair	episodes=5 episodes, 2022 	
+character=Warden Melnikov	name=Vaidotas Martinaitis	episodes=5 episodes, 2022 	
+character=Two	name=Tristan Spohn	episodes=5 episodes, 2022 	
+character=Agent Stinson	name=Paris Benjamin	episodes=5 episodes, 2022 	
+character=Troy	name=Peyton Wich	episodes=5 episodes, 2016 	
+character=Nine	name=Chloe Adona	episodes=5 episodes, 2022 	
+character=Agent Wallace	name=Kendrick Cross	episodes=5 episodes, 2022 	
+character=Fourteen	name=Jeremiah Friedlander	episodes=5 episodes, 2022 	
+character=Three	name=Morgan Gao	episodes=5 episodes, 2022 	
+character=Sixteen	name=Ethan J Green	episodes=5 episodes, 2022 	
+character=Seventeen	name=Oliver J Green	episodes=5 episodes, 2022 	
+character=Twelve	name=David Alexander Kaplan	episodes=5 episodes, 2022 	
+character=Fred Benson	name=Logan Riley Bruner	episodes=3 episodes, 2022 	
+character=Five	name=Jessica Arden Napier	episodes=5 episodes, 2022 	
+character=Four	name=Sparrow Nicole	episodes=5 episodes, 2022 	
+character=Eighteen	name=Olivia Sembra	episodes=5 episodes, 2022 	
+character=Seven	name=Lana Jean Turner	episodes=5 episodes, 2022 	
+character=Fifteen	name=Bentley Williams	episodes=5 episodes, 2022 	
+character=Thirteen	name=Hendrix Yancey	episodes=5 episodes, 2022 	
+character=Freak	name=Grant Goodman	episodes=2 episodes, 2022 	
+character=Lonnie Byers	name=Ross Partridge	episodes=4 episodes, 2016 	
+character=Doris Driscoll	name=Peggy Miley	episodes=4 episodes, 2019 	
+character=Dr. Alexei	name=Alec Utgoff	episodes=4 episodes, 2019 	
+character=Scientist	name=Hugh B. Holub	episodes=4 episodes, 2016 	
+character=Mrs. Holland	name=Cynthia Barrett	episodes=4 episodes, 2016-2017 	
+character=Mom 	name=Caroline Arapoglou	episodes=4 episodes, 2019 	
+character=James	name=Cade Jones	episodes=4 episodes, 2016 	
+character=Nerdy Tech	name=Joe Davison	episodes=4 episodes, 2017 	
+character=Ten	name=Christian Ganiere	episodes=4 episodes, 2022 	
+character=Mr. Melvald	name=Charles Lawlor	episodes=4 episodes, 2016-2017 	
+character=Ivan	name=Nikolai Nikolaeff	episodes=4 episodes, 2022 	
+character=Janet	name=Holly A. Morris	episodes=4 episodes, 2019 	
+character=Newsman	name=Olan Montgomery	episodes=4 episodes, 2019 	
+character=Mrs. Sinclair	name=Karen Ceesay	episodes=4 episodes, 2017-2022 	
+character=Principal Coleman	name=Tony Vaughn	episodes=4 episodes, 2016-2017 	
+character=Vickie	name=Amybeth McNulty	episodes=4 episodes, 2022-2023 	
+character=Young Henry Creel	name=Raphael Luce	episodes=4 episodes, 2022 	
+character=Freshman Teammate	name=Jayden Griffin	episodes=4 episodes, 2022 	
+character=Officer Glenn Daniels	name=Jeff Sprauve	episodes=4 episodes, 2022 	
+character=Chance	name=Hunter Romanillos	episodes=4 episodes, 2022 	
+character=Six	name=De	episodes=4 episodes, 2022 	
+character=Six	name=Jon Watts	episodes=4 episodes, 2022 	
+character=Young Kali	name=Vanathi Parthiban	episodes=1 episode, 2017-2022 	
+character=Kali	name=Linnea Berthelsen	episodes=3 episodes, 2017 	
+character=Hawkins Head of Security	name=Pete Burris	episodes=3 episodes, 2016 	
+character=Elevator Scientist	name=Andrew Benator	episodes=3 episodes, 2016 	
+character=Nicole	name=Glennellen Anderson	episodes=3 episodes, 2016-2017 	
+character=Becky Ives	name=Amy Seimetz	episodes=3 episodes, 2016-2017 	
+character=Lynx Security Guard 	name=Anthony Belevtsov	episodes=3 episodes, 2019 	
+character=Hospital Receptionist	name=Chantell D. Christopher	episodes=3 episodes, 2019 	
+character=Angela	name=Elodie Grace Orkin	episodes=3 episodes, 2022 	
+character=Suzie Bingham	name=Gabriella Pizzolo	episodes=3 episodes, 2019-2022 	
+character=Keith	name=Matty Cardarople	episodes=3 episodes, 2017-2019 	
+character=Oleg	name=Pasha D. Lychnikoff	episodes=3 episodes, 2022 	
+character=Wayne Munson	name=Joel Stoffer	episodes=3 episodes, 2022 	
+character=Sweaty Teen Boy	name=Drew Scheid	episodes=3 episodes, 2017 	
+character=Agent Harmon	name=Ira Amyx	episodes=3 episodes, 2022 	
+character=Jake	name=Logan Allen	episodes=3 episodes, 2022 	
+character=Prisoner 	name=Alexei Afonin	episodes=3 episodes, 2022 	
+character=Marissa	name=Christi Waldon	episodes=3 episodes, 2016-2022 	
+character=Neil Hargrove	name=Will Chase	episodes=2 episodes, 2017-2019 	
+character=Scientist 	name=Charity Hitchcock	episodes=3 episodes, 2022 	
+character=Prisoner 	name=Martin Harris	episodes=3 episodes, 2022 	
+character=Charles Sinclair	name=Arnell Powell	episodes=3 episodes, 2017-2022 	
+character=Prisoner 	name=Konstantin Podprugin	episodes=3 episodes, 2022 	
+character=Mean Girl	name=Gabriella Surodjawan	episodes=3 episodes, 2022 	
+character=Mean Boy	name=Alex Wagenman	episodes=3 episodes, 2022 	
+character=Stern Orderly	name=Sam Salary	episodes=3 episodes, 2022 	
+character=Chrissy Cunningham	name=Grace Van Dien	episodes=1 episode, 2022 	
+character=Radar Tech	name=Helen LeRoy	episodes=2 episodes, 2017 	
+character=M.P. Guard 	name=Brian Brightman	episodes=2 episodes, 2017 	
+character=Benny Hammond	name=Chris Sullivan	episodes=2 episodes, 2016 	
+character=Funshine	name=Kai Greene	episodes=2 episodes, 2017 	
+character=M.P. Guard 	name=Kristopher Charles	episodes=2 episodes, 2017 	
+character=Cynthia	name=Stefanie Butler	episodes=2 episodes, 2016 	
+character=Axel	name=James Landry Hébert	episodes=2 episodes, 2017 	
+character=Earl	name=David Dwyer	episodes=2 episodes, 2016 	
+character=Dottie	name=Anna Jacoby-Heron	episodes=2 episodes, 2017 	
+character=Ray	name=Pruitt Taylor Vince	episodes=2 episodes, 2017 	
+character=Werewolf	name=Sam Ashby	episodes=2 episodes, 2017 	
+character=Mick	name=Gabrielle Maiden	episodes=2 episodes, 2017 	
+character=Happy Homeowner	name=Lynne Ashe	episodes=2 episodes, 2017 	
+character=High School Principal	name=Salem Hadeed	episodes=2 episodes, 2016 	
+character=Grandkid	name=Danny Boyd Jr.	episodes=2 episodes, 2017-2019 	
+character=Candice - Mayor	name=Allyssa Brooke	episodes=2 episodes, 2019 	
+character=Secretary	name=Allyssa Brooke	episodes=2 episodes, 2019 	
+character=Diane Hopper	name=Jerri Tubbs	episodes=2 episodes, 2016 	
+character=Anna Jacobi	name=Erika Coleman	episodes=2 episodes, 2019 	
+character=Stacey	name=Sydney Bullock	episodes=2 episodes, 2017-2019 	
+character=Bannon	name=Ron Roggé	episodes=2 episodes, 2016 	
+character=State Trooper O	name=Ron Roggé	episodes=2 episodes, 2016 	
+character=Adams	name=Alan Boell	episodes=2 episodes, 2017 	
+character=Security Guard	name=Paul Vincent Freeman	episodes=2 episodes, 2017 	
+character=Russian Comm Officer	name=Georgui Kasaev	episodes=2 episodes, 2019 	
+character=Russian Goon 	name=Aleh Neliubin	episodes=2 episodes, 2019 	
+character=Vicki Charmichael	name=Abigail Cowen	episodes=2 episodes, 2017 	
+character=Secretary 	name=Greta Glenn	episodes=2 episodes, 2019 	
+character=Tina	name=Madelyn Cline	episodes=2 episodes, 2017 	
+character=Secretary 	name=Nita Hardy	episodes=2 episodes, 2019 	
+character=Jason Voorhees	name=Cameron Newton	episodes=2 episodes, 2017 	
+character=Elderly Math Teacher	name=Donna Wright	episodes=2 episodes, 2017 	
+character=Flamethrower Soldier	name=David A MacDonald	episodes=2 episodes, 2017 	
+character=Friend	name=Leiloni Arrie Pharms	episodes=2 episodes, 2019 	
+character=Erica	name=Leiloni Arrie Pharms	episodes=2 episodes, 2019 	
+character=Alice Creel	name=Livi Birch	episodes=2 episodes, 2022 	
+character=Control Room Technician	name=Sasha Andreev	episodes=2 episodes, 2022 	
+character=Mom 	name=Cara Mantella	episodes=2 episodes, 2019 	
+character=Teen Skater 	name=Sarah Bowman	episodes=2 episodes, 2022 	
+character=Teen Skater 	name=Michelle Bowman	episodes=2 episodes, 2022 	
+character=Tall Guard	name=Nick Bardin	episodes=2 episodes, 2022 	
+character=Jeff	name=Trey Best	episodes=2 episodes, 2022 	
+character=Mr. Holland	name=Aaron Munoz	episodes=2 episodes, 2017 	
+character=Scary Clown	name=Andrew Wilson Williams	episodes=2 episodes, 2017 	
+character=Counselor Kelley	name=Regina Ting Chen	episodes=2 episodes, 2022 	
+character=Teen Skater 	name=Ethan Dennis	episodes=2 episodes, 2022 	
+character=Mom 	name=Lauren Revard	episodes=2 episodes, 2019 	
+character=Lenora Neighbor	name=Elise Falanga	episodes=2 episodes, 2022 	
+character=Strong Prisoner	name=Edmundas Kartanas	episodes=2 episodes, 2022 	
+character=Young Victor Creel	name=Kevin L. Johnson	episodes=2 episodes, 2022 	
+character=Annoyed Neighbor	name=Cindy Hogan	episodes=2 episodes, 2022 	
+character=Candace	name=Scout Hamrick	episodes=2 episodes, 2022 	
+character=Control Room Guard	name=Euguen Leon	episodes=2 episodes, 2022 	
+character=Mean Guard	name=Sergey Safronov	episodes=2 episodes, 2022 	
+character=Control Room Scientist	name=Aleksandr Krasnopolskiy	episodes=2 episodes, 2022 	
+character=Angry Townsperson 	name=Adam Murray	episodes=2 episodes, 2022 	
+character=Gareth	name=Gwydion Lashlee-Walton	episodes=2 episodes, 2022 	
+character=Virginia Creel	name=Tyner Rushing	episodes=2 episodes, 2022 	
+character=Teen Skater 	name=Glory Quintana	episodes=2 episodes, 2022 	
+character=Helicopter Pilot	name=Steve Stafford	episodes=2 episodes, 2022 	
+character=Scientist 	name=Jenne Kang	episodes=2 episodes, 2022 	
+character=Lead Lab Guard	name=Jason Vail	episodes=2 episodes, 2022 	
+character=Prison Booth Guard 	name=Artur Svorobovich	episodes=2 episodes, 2022 	
+character=Chrissy	name=Candice Rose	episodes=2 episodes, 2022 	
+character=Mom	name=Candice Rose	episodes=2 episodes, 2022 	
+character=Elderly Woman	name=Avis-Marie Barnes	episodes=1 episode, 2017 	
+character=Billy	name=Beth Riesgraf	episodes=1 episode, 2019 	
+character=Mother	name=Beth Riesgraf	episodes=1 episode, 2019 	
+character=Dad	name=Christopher Strand	episodes=2 episodes, 2022 	
+character=Chrissy	name=Christopher Strand	episodes=2 episodes, 2022 	
+character=Scientist 	name=Samuel Elliott Whisnant	episodes=2 episodes, 2022 	
+character=Mary Mack Girl 	name=Shae Britt	episodes=1 episode, 2016 	
+character=Jen	name=Jackie Dallas	episodes=1 episode, 2016 	
+character=English Teacher	name=Danny Boushebel	episodes=1 episode, 2016 	
+character=Technician	name=Lucius Baston	episodes=1 episode, 2016 	
+character=Young Billy	name=Christopher Convery	episodes=1 episode, 2019 	
+character=Victor Creel	name=Robert Englund	episodes=1 episode, 2022 	
+character=Test Subject	name=Jason Davis	episodes=1 episode, 2016 	
+character=Doctor Zharkov	name=Arthur Darbinyan	episodes=1 episode, 2019 	
+character=Movie Theatre Manager	name=Charles Green	episodes=1 episode, 2016 	
+character=Greg McCorkle	name=Arthur Lee Dozier	episodes=1 episode, 2016 	
+character=Sara Hopper	name=Elle Graham	episodes=1 episode, 2016 	
+character=Hunting Store Owner	name=Adam Boyer	episodes=1 episode, 2016 	
+character=State Trooper	name=Ron Fallica	episodes=1 episode, 2016 	
+character=Pastor Charles	name=Bill Eudaly	episodes=1 episode, 2016 	
+character=Director Anthony Hatch	name=Ed Amatrudo	episodes=1 episode, 2022 	
+character=Patty	name=Marianne Fraulo	episodes=1 episode, 2016 	
+character=Jennifer Hayes	name=Kaylee Glover	episodes=1 episode, 2016 	
+character=Middle-Aged Man	name=James DuMont	episodes=1 episode, 2017 	
+character=Russian Scientist	name=Yasen Peyankov	episodes=1 episode, 2019 	
+character=Russian Prisoner	name=Mo Anouti	episodes=1 episode, 2019 	
+character=Mom	name=Amy Parrish	episodes=1 episode, 2016 	
+character=Troy	name=Amy Parrish	episodes=1 episode, 2016 	
+character=Ground Controller	name=Adam Gagan	episodes=1 episode, 2016 	
+character=Exam Room Nurse	name=Sheena Kharazmi	episodes=1 episode, 2017 	
+character=Ozerov 	name=Misha Kuznetsov	episodes=1 episode, 2019 	
+character=Russian Interrogator	name=Misha Kuznetsov	episodes=1 episode, 2019 	
+character=Russian Worker 	name=Alexander Babara	episodes=1 episode, 2019 	
+character=M.P. Officer Patrick	name=Miles Mussenden	episodes=1 episode, 2016 	
+character=Staff Nurse Caitlin	name=Kerry Cahill	episodes=1 episode, 2017 	
+character=ER Doctor	name=Mary Kraft	episodes=1 episode, 2017 	
+character=Teenager	name=Nicholas Cirillo	episodes=1 episode, 2019 	
+character=Russian Guard	name=Nikita Bogolyubov	episodes=1 episode, 2019 	
+character=Russian Worker 	name=Nodir Buriev	episodes=1 episode, 2019 	
+character=Middle School Boy	name=Evan Brinkman	episodes=1 episode, 2017 	
+character=Doctor 	name=Brian Lafontaine	episodes=1 episode, 2017 	
+character=Young Girl 	name=Harper Cavanaugh	episodes=1 episode, 2017 	
+character=Swingset	name=Harper Cavanaugh	episodes=1 episode, 2017 	
+character=Angry Moviegoer 	name=Angie Dillard	episodes=1 episode, 2019 	
+character=Government Agent 	name=Tonya Bludsworth	episodes=1 episode, 2017 	
+character=Lead Rift Soldier	name=Wendel A. Matthews	episodes=1 episode, 2017 	
+character=Jazzercise Lady	name=Megan Hayes	episodes=1 episode, 2019 	
+character=Paramedic	name=Suehyla El-Attar Young	episodes=1 episode, 2019 	
+character=Video Store Patron 	name=Kyle Dixon	episodes=1 episode, 2019 	
+character=Gas Station Cashier	name=Michael Silvio Fortino	episodes=1 episode, 2019 	
+character=Angry Moviegoer 	name=John Mangan	episodes=1 episode, 2019 	
+character=Sandra	name=Bethany Anne Lind	episodes=1 episode, 2016 	
+character=Funeral Director	name=Jon Kohler	episodes=1 episode, 2016 	
+character=Female Clerk	name=Linda Kang	episodes=1 episode, 2016 	
+character=Russian Man	name=Andre Pushkin	episodes=1 episode, 2016 	
+character=Neurologist	name=Dell	episodes=1 episode, 2017 	
+character=Neurologist	name=Brandon O	episodes=1 episode, 2017 	
+character=Lab Technician	name=Cory Chapman	episodes=1 episode, 2017 	
+character=Swingset	name=Bethany DeZelle	episodes=1 episode, 2017 	
+character=Mother 	name=Bethany DeZelle	episodes=1 episode, 2017 	
+character=Evil Russian	name=Kaiser Johnson	episodes=1 episode, 2019 	
+character=Russian Prison Guard 	name=Dean Grimes	episodes=1 episode, 2019 	
+character=Russian Scientist	name=Alexander Chernyshev	episodes=1 episode, 2019 	
+character=Gravitron Operator	name=Jennifer A. Martin	episodes=1 episode, 2019 	
+character=Hawkins Doctor	name=Michael Hickey	episodes=1 episode, 2019 	
+character=String Quartet 	name=Michael Brooks	episodes=1 episode, 2019 	
+character=Morgue Worker	name=Shawn Levy	episodes=1 episode, 2016 	
+character=Grocery Store Manager	name=Kevin Patrick Murphy	episodes=1 episode, 2016 	
+character=Cute Girl	name=Marcelle LeBlanc	episodes=1 episode, 2017 	
+character=Doctor 	name=Vince Pisani	episodes=1 episode, 2017 	
+character=Gas Station Clerk	name=Keith Brooks	episodes=1 episode, 2017 	
+character=Russian Goon 	name=Aaron Matthews	episodes=1 episode, 2019 	
+character=Russian Officer	name=Yevgeniy Kartashov	episodes=1 episode, 2019 	
+character=Russian Mechanic	name=Serge Levin	episodes=1 episode, 2019 	
+character=Delivery Man	name=Daryn Kahn	episodes=1 episode, 2019 	
+character=Eagle-Eyed Guard	name=Povilas Barzdzius	episodes=1 episode, 2022 	
+character=Test Pilot Shepard	name=Cody Robinson	episodes=1 episode, 2016-2022 	
+character=Rift Soldier 	name=Michael Shenefelt	episodes=1 episode, 2017 	
+character=Doris 	name=Suzanne Jordan Roush	episodes=1 episode, 2017 	
+character=MS Receptionist	name=Suzanne Jordan Roush	episodes=1 episode, 2017 	
+character=Fair Worker	name=Dinarte de Freitas	episodes=1 episode, 2019 	
+character=Balloon Carnie	name=Sean McCracken	episodes=1 episode, 2019 	
+character=Blast Doors Armed Guard	name=Leon Mandel	episodes=1 episode, 2019 	
+character=String Quarter 	name=Chris Burndrett	episodes=1 episode, 2019 	
+character=TV Reporter	name=John Atwood	episodes=1 episode, 2022 	
+character=Ally	name=Sierra Rae	episodes=1 episode, 2016 	
+character=Mary Mack Girl 	name=Abigail Whitlock	episodes=1 episode, 2016 	
+character=Government Agent 	name=Jim E. Chandler	episodes=1 episode, 2017 	
+character=Motel Owner	name=Virginia Kirby	episodes=1 episode, 2017 	
+character=Swat Member 	name=Jarrett Michael Collins	episodes=1 episode, 2017 	
+character=New Cute Girl	name=Abby Glover	episodes=1 episode, 2019 	
+character=Photographer Toby	name=Scott Deckert	episodes=1 episode, 2019 	
+character=Rich Douchebag Todd	name=Dan Triandiflou	episodes=1 episode, 2019 	
+character=Gross Hairy Man	name=John Mullins	episodes=1 episode, 2019 	
+character=Government Man	name=Pat Gallaher	episodes=1 episode, 2019 	
+character=Volunteer 	name=Zele Avradopoulos	episodes=1 episode, 2022 	
+character=Soldier	name=J.R. Adduci	episodes=1 episode, 2022 	
+character=Field Reporter	name=Paul Ryden	episodes=1 episode, 2016 	
+character=TV Reporter	name=Orelon Sidney	episodes=1 episode, 2017 	
+character=Russian Prison Guard 	name=Kristof Reinharz	episodes=1 episode, 2019 	
+character=Fireworks Kid	name=Samuel Goergen	episodes=1 episode, 2019 	
+character=Snobby Waiter	name=Lee Ellis	episodes=1 episode, 2019 	
+character=Muttering Prisoner	name=Ben Bladon	episodes=1 episode, 2022 	
+character=Paramedic	name=Mikael Ayele	episodes=1 episode, 2022 	
+character=Agent	name=Anthony Reynolds	episodes=1 episode, 2016 	
+character=Cop 	name=Gilbert Glenn Brown	episodes=1 episode, 2017 	
+character=Friendly Trucker	name=Ben Taylor	episodes=1 episode, 2017 	
+character=Man on Street	name=Thomas Tull	episodes=1 episode, 2017 	
+character=Nervous Guard	name=Zack Sayenko	episodes=1 episode, 2019 	
+character=Guard 	name=Evgeny Krutov	episodes=1 episode, 2019 	
+character=Hip Teenager	name=Cason Richter	episodes=1 episode, 2019 	
+character=Argyle 2.0	name=Andres Figueroa	episodes=1 episode, 2022 	
+character=Scared Guard	name=Marius Cizauskas	episodes=1 episode, 2022 	
+character=Reed	name=Chase Stokes	episodes=1 episode, 2016 	
+character=Goth Girl Samantha	name=Shea Jones	episodes=1 episode, 2017 	
+character=Swat Member 	name=Wes Kidd	episodes=1 episode, 2017 	
+character=Annoyed Girl	name=Sophie Levy	episodes=1 episode, 2019 	
+character=Suburban Wife	name=Healy Lange	episodes=1 episode, 2019 	
+character=Video Store Patron 	name=Michael Stein	episodes=1 episode, 2019 	
+character=Whistling Man	name=Brandon Sauve	episodes=1 episode, 2019 	
+character=Young Max Mayfield	name=Belle Henry	episodes=1 episode, 2022 	
+character=Russian Doctor	name=Saulius Bareikis	episodes=1 episode, 2022 	
+character=Gary	name=Mark Withers	episodes=1 episode, 2016 	
+character=Mentally Ill Man	name=Pj McDonnell	episodes=1 episode, 2017 	
+character=Government Agent 	name=John Paul Marston	episodes=1 episode, 2017 	
+character=Snooty Salesman	name=A. Smith Harrison	episodes=1 episode, 2019 	
+character=Upstairs Russian in Hub	name=Roman Varshavsky	episodes=1 episode, 2019 	
+character=Pool Manager	name=Sean Michael Weber	episodes=1 episode, 2019 	
+character=Russian Soldier	name=Andrei Lapionak	episodes=1 episode, 2019 	
+character=Rink-o-Mania Employee	name=Larkin Bell	episodes=1 episode, 2022 	
+character=Mental Patient	name=David Dahlgren	episodes=1 episode, 2022 	
+character=Government Agent 	name=Shannon Mayers	episodes=1 episode, 2017 	
+character=Guard 	name=Zac Zedalis	episodes=1 episode, 2019 	
+character=String Quartet 	name=Kenny Lambert	episodes=1 episode, 2019 	
+character=Older Skater	name=Jack Justice	episodes=1 episode, 2022 	
+character=Pennhurst Guard 	name=Reece Fleetwood	episodes=1 episode, 2022 	
+character=Local Newswoman	name=Brenda Wood	episodes=1 episode, 2016 	
+character=Cop 	name=Brian F. Durkin	episodes=1 episode, 2017 	
+character=Eugene	name=Al Mitchell	episodes=1 episode, 2017 	
+character=Young Max	name=Jacey Sink	episodes=1 episode, 2019 	
+character=Johnny	name=Dylan Gage	episodes=1 episode, 2019 	
+character=Kid in Goggles	name=Nicholas Azarian	episodes=1 episode, 2022 	
+character=Helicopter Sniper Pilot	name=Jason Coviello	episodes=1 episode, 2022 	
+character=Pennhurst Guard 	name=Bart Hansard	episodes=1 episode, 2022 	
+character=Annoyed Neighbor 	name=Eddie Craddock	episodes=1 episode, 2022 	
+character=Smaller Kid	name=Drew Youngblood	episodes=1 episode, 2019 	
+character=String Quartet 	name=Amanda McClellan	episodes=1 episode, 2019 	
+character=Soldier	name=Cuyle Carvin	episodes=1 episode, 2022 	
+character=Explosives Specialist	name=Rob Franco	episodes=1 episode, 2022 	
+character=Corporal Meyers	name=Derek Hedlund	episodes=1 episode, 2022 	
+character=Friendly Girl 	name=Hayley Baron	episodes=1 episode, 2022 	
+character=Dr. Owens	name=Lauren Halperin	episodes=1 episode, 2017 	
+character=Assistant	name=Lauren Halperin	episodes=1 episode, 2017 	
+character=Government Agent 	name=Desmond Phillips	episodes=1 episode, 2017 	
+character=Dr. Ellis	name=Elizabeth Becka	episodes=1 episode, 2022 	
+character=Guard	name=Vladislav Jacukevic	episodes=1 episode, 2022 	
+character=Happy Mom	name=Tammy Chavez	episodes=1 episode, 2022 	
+character=Drunk Teen 	name=Cody Pressley	episodes=1 episode, 2017 	
+character=Cop 	name=Christopher Johnson	episodes=1 episode, 2017 	
+character=Cornelius Bingham	name=Gavin Borders	episodes=1 episode, 2022 	
+character=Annoyed Girl	name=Leedy Corbin	episodes=1 episode, 2022 	
+character=Russian Guard	name=Dainius Jankauskas	episodes=1 episode, 2022 	
+character=Merril	name=Fenton Lawless	episodes=1 episode, 2017 	
+character=Stewardess	name=Alexandra Ficken	episodes=1 episode, 2022 	
+character=Fisherman 	name=Pat Dortch	episodes=1 episode, 2022 	
+character=Reporter 	name=Jeff Campanella	episodes=1 episode, 2022 	
+character=Major General Stepanov	name=John Vodka	episodes=1 episode, 2019 	
+character=Angry Protester	name=David Silverman	episodes=1 episode, 2019 	
+character=Friendly Volunteer	name=Elizabeth Youman	episodes=1 episode, 2022 	
+character=Lenora Police Receptionist	name=Esodie Geiger	episodes=1 episode, 2022 	
+character=Beverly Moss	name=Karyn Greer	episodes=1 episode, 2022 	
+character=Coach	name=Amour	episodes=1 episode, 2022 	
+character=Coach	name=Todd d	episodes=1 episode, 2022 	
+character=Hunter	name=Alex Van	episodes=1 episode, 2017 	
+character=Customer	name=Susan Savoie	episodes=1 episode, 2019 	
+character=Drama Kid	name=Anna Grace Davidson	episodes=1 episode, 2022 	
+character=Army Medical Examiner	name=Joe Grisaffi	episodes=1 episode, 2022 	
+character=Tatum	name=Lyric Deaderick	episodes=1 episode, 2022 	
+character=Young Guard	name=Denisas Kolomyckis	episodes=1 episode, 2022 	
+character=Helicopter Sniper	name=Roger Ivens	episodes=1 episode, 2022 	
+character=Reporter 	name=Shakirah DeMesier	episodes=1 episode, 2022 	
+character=Sterling Bingham	name=Roger Dale Floyd	episodes=1 episode, 2022 	
+character=Cathy Owens	name=Christine Kellogg-Darrin	episodes=1 episode, 2022 	
+character=Friendly Mailman	name=David Gibson	episodes=1 episode, 2022 	
+character=Young Girl	name=Elizabeth Howlett	episodes=1 episode, 2022 	
+character=Asylum Patient	name=Brittney Niter	episodes=1 episode, 2022 	
+character=TV Reporter	name=Ricardo Miguel Young	episodes=1 episode, 2017 	
+character=Denise the Diner Waitress	name=Jocelyn Montoya	episodes=1 episode, 2022 	
+character=Gun Counter Clerk	name=James Logan	episodes=1 episode, 2022 	
+character=Smirking Russian Guard	name=Karolis Kasperavicius	episodes=1 episode, 2022 	
+character=Lenora Cop 	name=Manny Rubio	episodes=1 episode, 2022 	
+character=Rink-o-Mania DJ	name=Gabe Kessler	episodes=1 episode, 2022 	
+character=Prison Guard	name=Adomas Stancikas	episodes=1 episode, 2022 	
+character=Chef Kid	name=Raina Grey	episodes=1 episode, 2022 	
+character=Hawkins Lead Guard	name=Pierce Lackey	episodes=1 episode, 2022 	
+character=Shrugging Neighbor	name=Mark Lawley	episodes=1 episode, 2022 	
+character=Tool Shed Guard	name=Joris Zaliauskas	episodes=1 episode, 2022 	
+character=Dan Shelter	name=Mason Mecartea	episodes=1 episode, 2022 	
+character=Paranoid Neighbor	name=Stacy Melich	episodes=1 episode, 2022 	
+character=Reporter 	name=Jules Hartley	episodes=1 episode, 2022 	
+character=Monstrous Mourner 	name=Margaret Murphy	episodes=1 episode, 2022 	
+character=Lenora Cop 	name=John Trejo	episodes=1 episode, 2022 	
+character=Cute College Girl	name=Natalie Otano	episodes=1 episode, 2022 	
+character=Hawkins Infirmary Nurse	name=Mariana Novak	episodes=1 episode, 2022 	
+character=Eden Bingham	name=Audrey Holcomb	episodes=1 episode, 2022 	
+character=Chess Kid	name=Haroon Khan	episodes=1 episode, 2022 	
+character=Monstrous Mourner 	name=Alex Parkinson	episodes=1 episode, 2022 	
+character=Lead Interrogator	name=Andrius Paulavicius	episodes=1 episode, 2022 	
+character=Announcer	name=Gregory Konow	episodes=1 episode, 2022 	
+character=Construction Foreman	name=Randy Irwin	episodes=1 episode, 2022 	
+character=Dying Teen	name=Ryan Paynter	episodes=1 episode, 2022 	
+character=Construction Worker	name=Joel Ray Ishman	episodes=1 episode, 2022 	
+character=Math Kid	name=Shane Donovan Lewis	episodes=1 episode, 2022 	
+character=Tabitha	name=Sophia Joss	episodes=1 episode, 2022 	
+character=Math Teacher	name=Lucinda Marker	episodes=1 episode, 2022 	
+character=Fisherman 	name=James Edward Thomas	episodes=1 episode, 2022 	
+character=Annoyed Woman	name=Agnieska Ravdo	episodes=1 episode, 2022 	
+character=Monstrous Mourner 	name=Fedor Steer	episodes=1 episode, 2022 	
+character=Mrs. Gracey	name=Laura Niemi	episodes=1 episode, 2022 	
+character=Chess Kid 	name=Tristan Peters	episodes=1 episode, 2022 	
+character=Cute Girl	name=Shawnee Pourier	episodes=1 episode, 2022 	
+character=Taxi Driver	name=Jim Wilkey	episodes=1 episode, 2022 	
+character=Reporter 	name=Jennifer Christa Palmer	episodes=1 episode, 2022 	
+character=Russian Guard	name=Tomas Zaibus	episodes=1 episode, 2022 	
+character=Tammy Thompson	name=Julia Reilly	episodes=1 episode, 2022 	
+character=Angry Townsperson 	name=Erika Robel	episodes=1 episode, 2022 	
+character=Dad	name=Mark Rowe	episodes=1 episode, 2022 	
+character=Suzie	name=Mark Rowe	episodes=1 episode, 2022 	
+character=Wrestler Teen	name=Maximo Salas	episodes=1 episode, 2022 	
+character=Brenda	name=Brook Sill	episodes=1 episode, 2022 	
+character=Concerned Woman	name=Holli Saperstein	episodes=1 episode, 2022 	
+character=Police Officer	name=Mike Senior	episodes=1 episode, 2022 	
+character=Russian Guard 	name=Dan Sheynin	episodes=1 episode, 2022 	
+character=Friendly Girl	name=Abby Townsend	episodes=1 episode, 2022 	
+character=Tanner	name=Caz Sumner	episodes=1 episode, 2022 	
+character=Peter	name=Jackson Watts	episodes=1 episode, 2022 	
+character=Neighbor	name=Rolando Davila-Beltran	episodes=1 episode 	
+character=Townsperson	name=Jim Heard	episodes=8 episodes, 2016 	
+character=Hawkins PD	name=Trey McGriff	episodes=7 episodes, 2017-2022 	
+character=Search Party	name=John Archer Lundgren	episodes=4 episodes, 2016-2017 	
+character=Mall Optometrist	name=Jay D. Kacho	episodes=4 episodes, 2019 	
+character=Pool Goer	name=Skyler Knight	episodes=4 episodes, 2019 	
+character=Russian Guard	name=Carson Hicks	episodes=4 episodes, 2022 	
+character=Middle School Kid	name=Isabel Chanel Freeman	episodes=3 episodes, 2016-2017 	
+character=Science Class Kid	name=Aiden Hattier	episodes=3 episodes, 2016-2017 	
+character=Agent	name=Stephen M. LaBar Jr.	episodes=3 episodes, 2016 	
+character=Middle School Student	name=Ryder Morlong	episodes=3 episodes, 2016 	
+character=Arcade Gamer	name=Melissa Collazo	episodes=3 episodes, 2017 	
+character=Middle School Student	name=Jalen Major	episodes=3 episodes, 2017 	
+character=Middle School Student	name=Carissa Mejias	episodes=3 episodes, 2017 	
+character=Movie Patron	name=Chad Paetznick	episodes=3 episodes, 2019-2022 	
+character=Government Agent 	name=Joseph Velez	episodes=3 episodes, 2019 	
+character=Friend	name=Alayna Burgess	episodes=3 episodes, 2019 	
+character=Erica	name=Alayna Burgess	episodes=3 episodes, 2019 	
+character=Young Eleven	name=Chloe Cate	episodes=3 episodes, 2022 	
+character=Russian Officer Guard	name=Marc Hockl	episodes=3 episodes, 2022 	
+character=Hawkins Police Officer	name=Kevin Kedgley	episodes=3 episodes, 2022 	
+character=Doctor	name=Brady Rogers	episodes=2 episodes, 2016-2017 	
+character=Fighting Kid	name=Jaxon McHan	episodes=2 episodes, 2016 	
+character=Lab Tech 	name=Walter Hendrix III	episodes=2 episodes, 2016 	
+character=Security Guard	name=Philip Dido	episodes=2 episodes, 2016 	
+character=Security Guard	name=Fernando Campos	episodes=2 episodes, 2016 	
+character=Lab Tech 	name=Max Perethian	episodes=2 episodes, 2016 	
+character=Middle School Student	name=Owen Beam	episodes=2 episodes, 2016 	
+character=High School Student	name=Julaine Tackett	episodes=2 episodes, 2016 	
+character=Special Agent	name=Daniel Jarvie	episodes=2 episodes, 2016 	
+character=Festival Goer	name=James Michael Smith	episodes=2 episodes, 2017-2019 	
+character=Student	name=Alicia Shenreice	episodes=2 episodes, 2017 	
+character=Middle School Student	name=Gennaro Napolitano	episodes=2 episodes, 2017 	
+character=Doctor	name=David Turner	episodes=2 episodes, 2019-2022 	
+character=Pool Guest	name=Victoria Budkey	episodes=2 episodes, 2019 	
+character=Carnival Kid	name=Cailyn Peddle	episodes=2 episodes, 2019 	
+character=Friend	name=Kendall Denise Clark	episodes=2 episodes, 2019 	
+character=Erica	name=Kendall Denise Clark	episodes=2 episodes, 2019 	
+character=Soldier	name=Alex Zelenka	episodes=2 episodes, 2019 	
+character=Hawkins Post Editor	name=William Walker	episodes=2 episodes, 2019 	
+character=Newsman	name=Charles Casey	episodes=2 episodes, 2019 	
+character=Carnival Goer	name=Chris Jablon	episodes=2 episodes, 2019 	
+character=Core Hawkins Resident	name=Shawn South	episodes=2 episodes, 2019 	
+character=Starcourt Mall Shopper	name=Tyler Boronski	episodes=2 episodes, 2019 	
+character=Jock	name=Alex D. Jennings	episodes=2 episodes, 2022 	
+character=Hungover Hawkins Kid	name=Mark Murtha	episodes=2 episodes, 2022 	
+character=Roller Skating Couple	name=Jess Elgene	episodes=2 episodes, 2022 	
+character=Russian Soldier	name=Mark Rhynard	episodes=2 episodes, 2022 	
+character=Basketball Fan Mourner	name=Angel Nair	episodes=2 episodes, 2022 	
+character=Roller Skating Couple	name=Lexee Leach	episodes=2 episodes, 2022 	
+character=Townspeople	name=Marisol Correa	episodes=1 episode, 2016 	
+character=Agent 	name=Stephen Conroy	episodes=1 episode, 2016 	
+character=Military Police 	name=Jaye Tyroff	episodes=1 episode, 2016 	
+character=Hawkins MS Student	name=Christopher Ryan Lewis	episodes=1 episode, 2016 	
+character=Lab Security	name=Josh Diogo	episodes=1 episode, 2016 	
+character=High School Student	name=Ryan Newton	episodes=1 episode, 2016 	
+character=Agent	name=Duke Jackson	episodes=1 episode, 2016 	
+character=Mr. Sinclair	name=Bradford Haynes	episodes=1 episode, 2016 	
+character=Person in Town	name=Daniel McGraw	episodes=1 episode, 2016 	
+character=Agent 	name=Gordon Dillard Jr.	episodes=1 episode, 2016 	
+character=Agent	name=Rory Healy	episodes=1 episode, 2016 	
+character=Middle School Student	name=Anastasia Bastien	episodes=1 episode, 2016 	
+character=Student	name=Jb Blaine	episodes=1 episode, 2016 	
+character=Teen in Lunchroom	name=Mikey Evgen	episodes=1 episode, 2016 	
+character=Mr. Henderson	name=Daniel Guttenberg	episodes=1 episode, 2016 	
+character=Mrs. Henderson	name=Tabitha Kilgore	episodes=1 episode, 2016 	
+character=Military Truck Driver	name=Andrew Ward	episodes=1 episode, 2016 	
+character=High School Student	name=Bobby Pizer	episodes=1 episode, 2016 	
+character=Special Agent	name=Cade Shepard	episodes=1 episode, 2016 	
+character=Scientist	name=Marshall Choka	episodes=1 episode, 2016 	
+character=Cafeteria Worker	name=Judy McGee Burley	episodes=1 episode, 2016 	
+character=Mrs. Sinclair	name=Tara Wescott	episodes=1 episode, 2016 	
+character=Phone Tapper	name=Jesse Kindred	episodes=1 episode, 2016 	
+character=Person in Town	name=Terry Thomas	episodes=1 episode, 2016 	
+character=Grocery Store Patron	name=Rachel Marie Wilson	episodes=1 episode, 2016 	
+character=High School Student	name=Anthony Porrey	episodes=1 episode, 2016 	
+character=Officer	name=Lourenz Oviedo	episodes=1 episode, 2016 	
+character=Man at the Bar	name=Gary Lee Vincent	episodes=1 episode, 2017 	
+character=Homeless Person	name=Juan Gaspard	episodes=1 episode, 2017 	
+character=Hip Hop Member	name=Matthew Excel Simmons	episodes=1 episode, 2017 	
+character=Middle School Student	name=Audrey Hope	episodes=1 episode, 2017 	
+character=Another Man	name=John Jacob Anderson	episodes=1 episode, 2017 	
+character=Middle School Student	name=Emma Faith	episodes=1 episode, 2017 	
+character=Pedestrian	name=Keith Nussbaum	episodes=1 episode, 2017 	
+character=Doctor	name=Robert Hatch	episodes=1 episode, 2017 	
+character=Guard 	name=Max Calder	episodes=1 episode, 2017 	
+character=Town Lady	name=Jacqueline Marie Zwick	episodes=1 episode, 2017 	
+character=Middle School Student	name=Sage Mayer	episodes=1 episode, 2017 	
+character=Cop 	name=Angelo Bash	episodes=1 episode, 2017 	
+character=Middle School Friend	name=Kaylie Turner	episodes=1 episode, 2017 	
+character=Hawkins Scientist	name=Kent Wagner	episodes=1 episode, 2017 	
+character=Pedestrian	name=Edward Parker	episodes=1 episode, 2017 	
+character=Middle School Student	name=Gage Lawson	episodes=1 episode, 2017 	
+character=Middle School Kid	name=Jasmine Bolton	episodes=1 episode, 2017 	
+character=Park Goer	name=Olivia De Paux	episodes=1 episode, 2017 	
+character=Pedestrian	name=Apollo GT	episodes=1 episode, 2017 	
+character=Basketball Player	name=Blake Sewell	episodes=1 episode, 2017 	
+character=Arcade Attendant	name=William Mahnken	episodes=1 episode, 2017 	
+character=Middle School Student	name=Kara Mullins	episodes=1 episode, 2017 	
+character=Middle School Student	name=Lindsey Heilman	episodes=1 episode, 2017 	
+character=Trick or Treater	name=Jace Marsh	episodes=1 episode, 2017 	
+character=School Teacher	name=Kayla Thompson	episodes=1 episode, 2017 	
+character=Rift Soldier	name=Allen Parker	episodes=1 episode, 2017 	
+character=Playboy Bunny	name=Stephanie Mikel	episodes=1 episode, 2017 	
+character=High School Student	name=Shawron Gaffney	episodes=1 episode, 2017 	
+character=Middle School Student	name=Emma Dempster	episodes=1 episode, 2017 	
+character=Park Child	name=Shelby Sanders	episodes=1 episode, 2017 	
+character=Fair Goer	name=Kadrolsha Ona Carole	episodes=1 episode, 2019 	
+character=EMT	name=James Stokes	episodes=1 episode, 2019 	
+character=Hazmat Soldier	name=Brandon Marski	episodes=1 episode, 2019 	
+character=Paratrooper	name=Timothy Carr	episodes=1 episode, 2019 	
+character=Starcourt Mall Shopper	name=Perla Middleton	episodes=1 episode, 2019 	
+character=Carnival Foreman	name=Tommy Campbell	episodes=1 episode, 2019 	
+character=Russian Soldier	name=Marc Demeter	episodes=1 episode, 2019 	
+character=Pool Assistant	name=Tess Levy	episodes=1 episode, 2019 	
+character=Baton Twirler	name=Daniele Quinn	episodes=1 episode, 2019 	
+character=Russian Officer	name=Kevin Kobinsky	episodes=1 episode, 2019 	
+character=Russian Mechanic	name=Chris Codding	episodes=1 episode, 2019 	
+character=Scoops Ahoy Customer	name=Bobby Akers	episodes=1 episode, 2019 	
+character=Soldier	name=Edward L. Oliver	episodes=1 episode, 2019 	
+character=Student	name=Brittany Kelly	episodes=1 episode, 2019 	
+character=Russian Soldier	name=Blaine Rincon	episodes=1 episode, 2019 	
+character=Janitor	name=Todd Layne Thompson	episodes=1 episode, 2019 	
+character=Carnival Father	name=David Michael-Smith	episodes=1 episode, 2019 	
+character=HAZMAT Scientist	name=Conrad Carpenter	episodes=1 episode, 2019 	
+character=Erica	name=Jamieson Deacy	episodes=1 episode, 2019 	
+character=Fair Goer	name=Edward Morris	episodes=1 episode, 2019 	
+character=Mall Goer	name=Aaron Reynolds	episodes=1 episode, 2019 	
+character=Hazmat Scientist	name=Patrick Seda	episodes=1 episode, 2019 	
+character=Theater-goer	name=Cody Marshall	episodes=1 episode, 2019 	
+character=Paratrooper	name=Christopher Mullis	episodes=1 episode, 2019 	
+character=Hazmat Scientist	name=Joe Golovach	episodes=1 episode, 2019 	
+character=Angry Protester	name=Matthew Ezell	episodes=1 episode, 2019 	
+character=Fun Fair Attendee	name=Ella Farmer	episodes=1 episode, 2019 	
+character=Reporter	name=Steve Klemetti	episodes=1 episode, 2019 	
+character=News Cameraman	name=Campbell Cox	episodes=1 episode, 2019 	
+character=Fun Fair Attendee	name=John Grimm	episodes=1 episode, 2019 	
+character=Lenora Hills Student	name=Joseph Ortega	episodes=1 episode, 2022 	
+character=Jock	name=Peyton Adkins	episodes=1 episode, 2022 	
+character=Hawkins High Schooler	name=Elizabeth Harlow	episodes=1 episode, 2022 	
+character=Student Spectator	name=Alexander Eadie	episodes=1 episode, 2022 	
+character=Sullivan Solider	name=Wyatt Werneth	episodes=1 episode, 2022 	
+character=Townspeople	name=Babatunde Oyewo	episodes=1 episode, 2022 	
+character=Soldier	name=Nick Benas	episodes=1 episode, 2022 	
+character=Asylum Patient	name=Andrew S. McMillan	episodes=1 episode, 2022 	
+character=Forensic Photographer	name=Kyle Shute	episodes=1 episode, 2022 	
+character=Russian Prisoner	name=Kage Havok	episodes=1 episode, 2022 	
+character=Madonna Girl	name=Valeria Cervello	episodes=1 episode, 2022 	
+character=High School Student	name=Sage Shirley	episodes=1 episode, 2022 	
+character=Lab Guard	name=John Gettier	episodes=1 episode, 2022 	
+character=Nurse	name=Paige Huston	episodes=1 episode, 2022 	
+character=Soldier	name=Jett Jansen	episodes=1 episode, 2022 	
+character=Box Guy	name=Eli Samek	episodes=1 episode, 2022 	
+character=Additional Parent	name=Nick Swezey	episodes=1 episode, 2022 	
+character=Councilman 	name=Dean Chandler Bowden	episodes=1 episode, 2022 	
+character=Hawkins Cheerleader	name=Kailie Sanders	episodes=1 episode, 2022 	
+character=Plane Passenger	name=Zachary Keane	episodes=1 episode, 2022 	
+character=Asylum Patient	name=Chris Ward	episodes=1 episode, 2022 	
+character=Scientist	name=John Patrick King	episodes=1 episode, 2022 	
+character=Tourist	name=Shawn Lecrone	episodes=1 episode, 2022 	
+character=High School Teacher	name=Julian Wondolowski	episodes=1 episode, 2022 	
+character=Friendly Nurse	name=Dawn Young-McDaniel	episodes=1 episode, 2022 	
+character=Soldier	name=Chase Ledgerwood	episodes=1 episode, 2022 	
+character=Control Room Tech PD	name=Eric Bravo	episodes=1 episode, 2022 	
+character=Hawkins High Student	name=Taylor McManus	episodes=1 episode, 2022 	
+character=Hawkins High Student	name=Brooklyn Paige Flamm	episodes=1 episode, 2022 	
+character=Scientist	name=James LaPrelle	episodes=1 episode, 2022 	
+character=Dead Scientist 	name=Norm Lee	episodes=1 episode, 2022 	
+character=Funeral Patron	name=Rachael Cortright	episodes=1 episode, 2022 	
+character=High School Student	name=James Tyler Robinson	episodes=1 episode, 2022 	

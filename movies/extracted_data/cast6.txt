@@ -1,0 +1,661 @@
+# http://fitlayout.github.io/resource/art6 -> https://www.imdb.com/title/tt0411008/fullcredits/
+character=Hurley	name=Jorge Garcia	episodes=121 episodes, 2004-2010 	
+character=Reyes	name=Jorge Garcia	episodes=121 episodes, 2004-2010 	
+character=Hugo 	name=Jorge Garcia	episodes=121 episodes, 2004-2010 	
+character=James 	name=Josh Holloway	episodes=120 episodes, 2004-2010 	
+character=Sawyer	name=Josh Holloway	episodes=120 episodes, 2004-2010 	
+character=Ford	name=Josh Holloway	episodes=120 episodes, 2004-2010 	
+character=Sayid Jarrah	name=Naveen Andrews	episodes=121 episodes, 2004-2010 	
+character=Dr. Jack Shephard	name=Matthew Fox	episodes=121 episodes, 2004-2010 	
+character=Sun-Hwa Kwon	name=Yunjin Kim	episodes=120 episodes, 2004-2010 	
+character=Kate Austen	name=Evangeline Lilly	episodes=120 episodes, 2004-2010 	
+character=John Locke	name=Quinn	episodes=120 episodes, 2004-2010 	
+character=John Locke	name=Terry O	episodes=120 episodes, 2004-2010 	
+character=Jin-Soo Kwon	name=Daniel Dae Kim	episodes=120 episodes, 2004-2010 	
+character=Claire Littleton	name=Emilie de Ravin	episodes=97 episodes, 2004-2010 	
+character=Ben Linus	name=Michael Emerson	episodes=80 episodes, 2006-2010 	
+character=Desmond Hume	name=Henry Ian Cusick	episodes=76 episodes, 2005-2010 	
+character=Charlie Pace	name=Dominic Monaghan	episodes=76 episodes, 2004-2010 	
+character=Michael Dawson	name=Harold Perrineau	episodes=63 episodes, 2004-2010 	
+character=Dr. Juliet Burke	name=Elizabeth Mitchell	episodes=57 episodes, 2006-2010 	
+character=Miles Straume	name=Ken Leung	episodes=49 episodes, 2008-2010 	
+character=Richard Alpert	name=Nestor Carbonell	episodes=39 episodes, 2007-2010 	
+character=Shannon Rutherford	name=Maggie Grace	episodes=36 episodes, 2004-2010 	
+character=Walt Lloyd	name=Malcolm David Kelley	episodes=33 episodes, 2004-2010 	
+character=Dr. Daniel Faraday	name=Jeremy Davies	episodes=34 episodes, 2008-2010 	
+character=Frank Lapidus	name=Jeff Fahey	episodes=34 episodes, 2008-2010 	
+character=Boone Carlyle	name=Ian Somerhalder	episodes=31 episodes, 2004-2010 	
+character=Ana Lucia Cortez	name=Michelle Rodriguez	episodes=26 episodes, 2005-2010 	
+character=Ilana Verdansky	name=Zuleikha Robinson	episodes=25 episodes, 2009-2010 	
+character=Libby Smith	name=Cynthia Watros	episodes=24 episodes, 2005-2010 	
+character=Rose Nadler	name=L. Scott Caldwell	episodes=24 episodes, 2004-2010 	
+character=Bernard Nadler	name=Sam Anderson	episodes=23 episodes, 2005-2010 	
+character=Dr. Charlotte Lewis	name=Rebecca Mader	episodes=22 episodes, 2008-2010 	
+character=Danielle Rousseau	name=Mira Furlan	episodes=20 episodes, 2004-2010 	
+character=Tom Friendly	name=M.C. Gainey	episodes=19 episodes, 2005-2008 	
+character=Alex Rousseau	name=Tania Raymonde	episodes=19 episodes, 2006-2010 	
+character=Dr. Christian Shephard	name=John Terry	episodes=18 episodes, 2004-2010 	
+character=Charles Widmore	name=Alan Dale	episodes=17 episodes, 2006-2010 	
+character=Dr. Pierre Chang	name=François Chau	episodes=2 episodes, 2005-2010 	
+character=Scott Jackson	name=Dustin Watchman	episodes=1 episode, 2004-2006 	
+character=Nikki Fernandez	name=Kiele Sanchez	episodes=14 episodes, 2006-2008 	
+character=Paulo	name=Rodrigo Santoro	episodes=14 episodes, 2006-2007 	
+character=Cindy Chandler	name=Kimberley Joseph	episodes=13 episodes, 2004-2010 	
+character=Naomi Dorrit	name=Marsha Thomason	episodes=12 episodes, 2007-2009 	
+character=Dr. Ethan Rom	name=William Mapother	episodes=11 episodes, 2004-2010 	
+character=Martin Keamy	name=Kevin Durand	episodes=11 episodes, 2008-2010 	
+character=Marshal Edward Mars	name=Fredric Lehne	episodes=10 episodes, 2004-2010 	
+character=Aaron	name=William Blanchette	episodes=9 episodes, 2006-2009 	
+character=Karl Martin	name=Blake Bashoff	episodes=9 episodes, 2006-2008 	
+character=Steve Jenkins	name=Christian Bowman	episodes=2 episodes, 2004-2005 	
+character=Redfurn	name=E.J. Snyder	episodes=8 episodes, 2008-2010 	
+character=Phil	name=Patrick Fischler	episodes=9 episodes, 2009 	
+character=Dr. Leslie Arzt	name=Daniel Roebuck	episodes=9 episodes, 2005-2010 	
+character=Mikhail Bakunin	name=Andrew Divoff	episodes=9 episodes, 2006-2010 	
+character=Eloise 	name=Fionnula Flanagan	episodes=7 episodes, 2007-2010 	
+character=Ellie	name=Fionnula Flanagan	episodes=7 episodes, 2007-2010 	
+character=Hawking	name=Fionnula Flanagan	episodes=7 episodes, 2007-2010 	
+character=Zach	name=Mickey Graue	episodes=5 episodes, 2005-2010 	
+character=Emma	name=Kiersten Havelock	episodes=5 episodes, 2005-2010 	
+character=Omar Idris	name=Anthony Azizi	episodes=7 episodes, 2008-2010 	
+character=Danny Pickett	name=Michael Bowen	episodes=7 episodes, 2006-2007 	
+character=Horace Goodspeed	name=Doug Hutchison	episodes=7 episodes, 2007-2009 	
+character=Stuart Radzinsky	name=Eric Lange	episodes=7 episodes, 2009 	
+character=Jacob	name=Mark Pellegrino	episodes=7 episodes, 2009-2010 	
+character=Jason	name=Ariston Green	episodes=7 episodes, 2006-2009 	
+character=Anthony Cooper	name=Kevin Tighe	episodes=6 episodes, 2005-2010 	
+character=Roger Linus	name=Jon Gries	episodes=6 episodes, 2007-2010 	
+character=Bram	name=Brad William Henke	episodes=6 episodes, 2009-2010 	
+character=Carmen Reyes	name=Lillian Hurst	episodes=6 episodes, 2005-2010 	
+character=Liam Pace	name=Neil Hopkins	episodes=6 episodes, 2004-2010 	
+character=Sarah Shephard	name=Julie Bowen	episodes=6 episodes, 2005-2007 	
+character=George Minkowski	name=Fisher Stevens	episodes=5 episodes, 2007-2010 	
+character=Young Benjamin Linus	name=Sterling Beaumon	episodes=5 episodes, 2007-2009 	
+character=Diane Janssen	name=Beth Broderick	episodes=5 episodes, 2005-2008 	
+character=Zoe	name=Sheila Kelley	episodes=5 episodes, 2010 	
+character=Randy	name=Billy Ray Gallion	episodes=5 episodes, 2004-2010 	
+character=David Shephard	name=Dylan Minnette	episodes=5 episodes, 2010 	
+character=Dogen	name=Hiroyuki Sanada	episodes=4 episodes, 2010 	
+character=Cassidy Phillips	name=Kim Dickens	episodes=4 episodes, 2006-2009 	
+character=Regina	name=Zoë Bell	episodes=4 episodes, 2008 	
+character=Goodwin Stanhope	name=Brett Cullen	episodes=4 episodes, 2005-2008 	
+character=Woo-Jung Paik	name=Byron Chung	episodes=4 episodes, 2005-2008 	
+character=Helen Norwood	name=Katey Sagal	episodes=4 episodes, 2005-2010 	
+character=Teenage Boy	name=Kenton Duty	episodes=4 episodes, 2010 	
+character=Caesar	name=Saïd Taghmaoui	episodes=4 episodes, 2009 	
+character=Matthew Abaddon	name=Lance Reddick	episodes=4 episodes, 2008-2009 	
+character=Frogurt	name=Sean Whalen	episodes=4 episodes, 2009-2010 	
+character=Neil 	name=Sean Whalen	episodes=4 episodes, 2009-2010 	
+character=Seamus	name=Frederick Koehler	episodes=4 episodes, 2010 	
+character=Nurse	name=Grisel Reyes	episodes=4 episodes, 2006-2010 	
+character=Lennon	name=John Hawkes	episodes=3 episodes, 2010 	
+character=Flight Attendant 	name=Jonathan Dixon	episodes=3 episodes, 2004-2005 	
+character=Flight Attendant 	name=Michelle Arthur	episodes=3 episodes, 2004-2005 	
+character=Ryan Pryce	name=Brian Goodman	episodes=4 episodes, 2007 	
+character=Ray	name=Marc Vann	episodes=3 episodes, 2008 	
+character=Luke	name=Joah Buley	episodes=4 episodes, 2006-2007 	
+character=Amy Goodspeed	name=Reiko Aylesworth	episodes=3 episodes, 2009 	
+character=Yemi	name=Cormack	episodes=3 episodes, 2006 	
+character=Yemi	name=Adetokumboh M	episodes=3 episodes, 2006 	
+character=Middle-Aged Eloise Hawking	name=Alice Evans	episodes=3 episodes, 2009 	
+character=Danielle Rousseau	name=Melissa Farman	episodes=3 episodes, 2009 	
+character=Jae-Hyeok Lee	name=Tony Lee	episodes=3 episodes, 2005-2006 	
+character=Margo Shephard	name=Veronica Hamel	episodes=3 episodes, 2004-2010 	
+character=Captain Gault	name=Grant Bowler	episodes=3 episodes, 2008 	
+character=Klugh	name=April Grace	episodes=3 episodes, 2006-2007 	
+character=Bea	name=April Grace	episodes=3 episodes, 2006-2007 	
+character=Beatrice 	name=April Grace	episodes=3 episodes, 2006-2007 	
+character=Mrs. Paik	name=June Kyoto Lu	episodes=3 episodes, 2005-2009 	
+character=Carole Littleton	name=Susan Duerden	episodes=3 episodes, 2008-2009 	
+character=David Reyes	name=Cheech Marin	episodes=3 episodes, 2007-2009 	
+character=Man in Black	name=Titus Welliver	episodes=3 episodes, 2009-2010 	
+character=Goon	name=Steve Boatright	episodes=3 episodes, 2010 	
+character=Lara	name=Leslie Ishii	episodes=3 episodes, 2009 	
+character=Ivan	name=Teddy Wells	episodes=3 episodes, 2006-2007 	
+character=Sub Captain	name=Alan Seabock	episodes=3 episodes, 2010 	
+character=Lottery Official	name=Michael Adamshick	episodes=2 episodes, 2004-2005 	
+character=Old Scooter Man	name=Glenn Cannon	episodes=2 episodes, 2004-2005 	
+character=Guy in Car	name=Achilles Gacis	episodes=2 episodes, 2005-2008 	
+character=Lotto Girl	name=Brittany Perrineau	episodes=2 episodes, 2005 	
+character=Bonnie	name=Tracy Middendorf	episodes=3 episodes, 2007 	
+character=Gate Attendant	name=Mary Ann Taheny	episodes=2 episodes, 2005-2009 	
+character=Greta	name=Lana Parrilla	episodes=3 episodes, 2007 	
+character=Cab Driver	name=David H. Lawrence XVII	episodes=2 episodes, 2010 	
+character=Matthew	name=Dustin Geiger	episodes=3 episodes, 2006-2007 	
+character=Seth Norris	name=Greg Grunberg	episodes=1 episode, 2004-2010 	
+character=Robert	name=Guillaume Dabinpons	episodes=2 episodes, 2009 	
+character=Richard Malkin	name=Nick Jameson	episodes=2 episodes, 2004-2006 	
+character=Susan Lloyd	name=Tamara Taylor	episodes=2 episodes, 2005 	
+character=Kelvin Inman	name=Clancy Brown	episodes=2 episodes, 2006 	
+character=Dr. Douglas Brooks	name=Bruce Davison	episodes=2 episodes, 2006-2010 	
+character=Mitch	name=Kevin Chapman	episodes=2 episodes, 2009 	
+character=Captain Teresa Cortez	name=Rachel Ticotin	episodes=2 episodes, 2005-2006 	
+character=Mr. Kwon	name=John Shin	episodes=2 episodes, 2005-2007 	
+character=Theresa Spencer	name=Sarah Farooqui	episodes=2 episodes, 2009 	
+character=Sgt. Sam Austen	name=Lindsey Ginter	episodes=2 episodes, 2005-2006 	
+character=Lynn Karnoff	name=Suzanne Krull	episodes=2 episodes, 2007-2010 	
+character=Leonard	name=Ron Bottitta	episodes=2 episodes, 2005-2006 	
+character=Lindsey Littleton	name=Gabrielle Fitzpatrick	episodes=2 episodes, 2006-2007 	
+character=Dan Norton	name=Tom Irwin	episodes=2 episodes, 2009 	
+character=Jill	name=Mary Mara	episodes=2 episodes, 2009 	
+character=Montand	name=Marc Menard	episodes=2 episodes, 2009 	
+character=Gina	name=Wendy Braun	episodes=2 episodes, 2005 	
+character=Middle-Aged Charles Widmore	name=David S. Lee	episodes=2 episodes, 2009 	
+character=Doctor	name=Geoff Heise	episodes=2 episodes, 2004 	
+character=EMT	name=Katie Doyle	episodes=2 episodes, 2005-2007 	
+character=Rachel Carlson	name=Robin Weigert	episodes=2 episodes, 2007 	
+character=Justin	name=Dayo Ade	episodes=2 episodes, 2010 	
+character=Husband	name=Matt Moore	episodes=2 episodes, 2004-2005 	
+character=Grandpa Tito	name=Archie Ahuna	episodes=2 episodes, 2005-2010 	
+character=Airport Cop	name=Ruz Rusden	episodes=2 episodes, 2005 	
+character=Aldo	name=Rob McElhenney	episodes=2 episodes, 2007-2010 	
+character=Head Doctor	name=Mark Dillen Stitham	episodes=2 episodes, 2004-2006 	
+character=Jeff	name=Robert Frederick	episodes=2 episodes, 2005 	
+character=Colleen Pickett	name=Paula Malcomson	episodes=2 episodes, 2006 	
+character=Young Eko	name=Kolawole Obileye Jr.	episodes=2 episodes, 2006 	
+character=Mrs. Dawson	name=Starletta DuPois	episodes=2 episodes, 2008 	
+character=Big Guy	name=Michael M. Vendrell	episodes=2 episodes, 2005-2006 	
+character=Cunningham	name=Matthew Alan	episodes=2 episodes, 2009 	
+character=Nurse	name=Julie Ow	episodes=2 episodes, 2005-2006 	
+character=Intern	name=David Ely	episodes=2 episodes, 2005 	
+character=Young Charlie	name=Jeremy Shada	episodes=2 episodes, 2006-2007 	
+character=Lead Soldier	name=Lawrence Terrill	episodes=2 episodes, 2006 	
+character=Young Yemi	name=Olekan Obileye	episodes=2 episodes, 2006 	
+character=Federal Agent	name=Shawn Lathrop	episodes=2 episodes, 2007-2010 	
+character=Brennan	name=Bruno Bruni Jr.	episodes=2 episodes, 2009 	
+character=EMT 	name=Todd Coolidge	episodes=2 episodes, 2009-2010 	
+character=Anxious Guy	name=Brad Berryhill	episodes=2 episodes, 2009 	
+character=Young Liam	name=Zack Shada	episodes=2 episodes, 2006-2007 	
+character=British Guy	name=Tom Connolly	episodes=2 episodes, 2009 	
+character=Associate	name=Esmond Chung	episodes=2 episodes, 2007-2008 	
+character=Paik	name=Esmond Chung	episodes=2 episodes, 2007-2008 	
+character=Mrs. Lee	name=Tomiko Lee	episodes=2 episodes, 2005-2006 	
+character=Admitting nurse	name=Tania Kahale	episodes=2 episodes, 2008-2010 	
+character=Gus	name=Bill Ogilvie	episodes=2 episodes, 2007-2008 	
+character=Young Charlie	name=Marvin DeFreitas	episodes=2 episodes, 2009 	
+character=Young Charlotte	name=Maya Henssens	episodes=2 episodes, 2009 	
+character=Best Friend	name=Tess Yong	episodes=2 episodes, 2005-2008 	
+character=Foreman	name=Michael Dempsey	episodes=2 episodes, 2009 	
+character=Erik	name=Sebastian Siegel	episodes=2 episodes, 2009 	
+character=Crew Member	name=Sven Erik Lindstrom	episodes=2 episodes, 2009 	
+character=Henrik	name=Alex Petrovitch	episodes=2 episodes, 2006-2008 	
+character=Paul	name=Christopher McGahan	episodes=2 episodes, 2010 	
+character=ER Doctor	name=Wendy Pearson	episodes=2 episodes, 2009-2010 	
+character=Female Anchor	name=Jill Kuramoto	episodes=2 episodes, 2008 	
+character=Captain Bird	name=William Makozak	episodes=2 episodes, 2009 	
+character=Arnie Bocklin	name=John Pyper-Ferguson	episodes=2 episodes, 2010 	
+character=Roadie	name=Paul T. Mitri	episodes=2 episodes, 2010 	
+character=Oceanic Rep	name=Eric Nemoto	episodes=2 episodes, 2010 	
+character=Jean	name=Christina Souza	episodes=2 episodes, 2010 	
+character=Ticket Agent	name=Suzanne Turner	episodes=1 episode, 2005 	
+character=Diane	name=Roxanne Day	episodes=2 episodes, 2007 	
+character=Customs Officer	name=Mark Ahsing	episodes=1 episode, 2010 	
+character=Security Agent	name=Mark Kalaugher	episodes=1 episode, 2005 	
+character=Teacher	name=Sally Davis	episodes=1 episode, 2006-2009 	
+character=Agent Smalley	name=Dave Coennen	episodes=1 episode, 2010 	
+character=Agent Anne	name=Kesha Diodato	episodes=1 episode, 2010 	
+character=Dr. Rob Hamill	name=James Lesure	episodes=2 episodes, 2007 	
+character=Woman in Bathroom	name=Kelly Kraynek	episodes=1 episode, 2010 	
+character=Security Officer	name=Percival Scott III	episodes=1 episode, 2010 	
+character=E.R. Doctor	name=Kate Connor	episodes=2 episodes, 2007 	
+character=Oceanic Rep	name=Troy Vincent	episodes=1 episode, 2010 	
+character=Flight Attendant	name=Kathleen M. Darcy	episodes=2 episodes, 2007 	
+character=Decorator	name=Sora Jung	episodes=1 episode, 2004 	
+character=Bryan	name=Charles Mesure	episodes=1 episode, 2005 	
+character=Ray Shephard	name=Raymond J. Barry	episodes=1 episode, 2009 	
+character=Trevor	name=Tim DeZarn	episodes=1 episode, 2009 	
+character=David	name=Michael DeLuise	episodes=1 episode, 2004 	
+character=Emily Locke	name=Swoosie Kurtz	episodes=1 episode, 2005 	
+character=Dr. Tom Brennan	name=Mackenzie Astin	episodes=1 episode, 2005 	
+character=Essam Tasir	name=Donnie Keshawarz	episodes=1 episode, 2005 	
+character=Shooter	name=Victor Browne	episodes=1 episode, 2005 	
+character=Malcolm	name=Adam Leadbeater	episodes=1 episode, 2005 	
+character=Dave	name=Evan Handler	episodes=1 episode, 2006 	
+character=Brother Campbell	name=Andrew Connolly	episodes=1 episode, 2007 	
+character=Mr. Jarrah	name=Sayed Badreya	episodes=1 episode, 2009 	
+character=Jessica	name=Kristin Richardson	episodes=1 episode, 2004 	
+character=Ray Mullen	name=Nick Tate	episodes=1 episode, 2004 	
+character=Travel Agent	name=John Simon Jones	episodes=1 episode, 2004 	
+character=Hibbs	name=Robert Patrick	episodes=1 episode, 2005 	
+character=Marc Silverman	name=Zack Ward	episodes=1 episode, 2005 	
+character=Francis Heatherton	name=Jim Piddock	episodes=1 episode, 2005 	
+character=Brian Porter	name=David Starzyk	episodes=1 episode, 2005 	
+character=Agent Alyssa Cole	name=Jenny Gago	episodes=1 episode, 2005 	
+character=Hutton	name=Tim Halligan	episodes=1 episode, 2005 	
+character=Nicole	name=Kelly Rice	episodes=1 episode, 2005 	
+character=Karen	name=Vanessa Branch	episodes=1 episode, 2006 	
+character=Achara	name=Bai Ling	episodes=1 episode, 2007 	
+character=Edmund Burke	name=Zeljko Ivanek	episodes=1 episode, 2007 	
+character=Amira	name=Anne Bedian	episodes=1 episode, 2007 	
+character=Abigail Spencer	name=Imelda Corcoran	episodes=1 episode, 2009 	
+character=Principal Donald Reynolds	name=William Atherton	episodes=1 episode, 2010 	
+character=Omer Jarrah	name=Cas Anvar	episodes=1 episode, 2010 	
+character=Jonas Whitfield	name=Steven Elder	episodes=1 episode, 2010 	
+character=Thomas	name=Keir O	episodes=1 episode, 2004 	
+character=Thomas	name=Donnell	episodes=1 episode, 2004 	
+character=Kilo	name=Billy Mayo	episodes=1 episode, 2004 	
+character=Sullivan	name=Scott Paulin	episodes=1 episode, 2004 	
+character=Young Jack	name=Hara	episodes=1 episode, 2004 	
+character=Young Jack	name=John O	episodes=1 episode, 2004 	
+character=Andrea	name=Jackie Maraya	episodes=1 episode, 2004 	
+character=Clark Finney	name=Saul Rubinek	episodes=1 episode, 2005 	
+character=Martha Toomey	name=Jayne Taini	episodes=1 episode, 2005 	
+character=Laurence	name=Stewart Finlay-McLennan	episodes=1 episode, 2005 	
+character=Frainey	name=Lawrence A. Mandley	episodes=1 episode, 2005 	
+character=Hawaiian Shirt	name=John Walcutt	episodes=1 episode, 2005 	
+character=Nurse	name=Monica Garcia	episodes=1 episode, 2005 	
+character=Haddad	name=Dariush Kashani	episodes=1 episode, 2005 	
+character=Lucy Heatherton	name=Sally Strecker	episodes=1 episode, 2005 	
+character=Baseball Hat	name=Dezmond Gilla	episodes=1 episode, 2005 	
+character=Byung Han	name=Joey Yu	episodes=1 episode, 2005 	
+character=Kevin Callis	name=Nathan Fillion	episodes=1 episode, 2006 	
+character=Gordy	name=Kevin Dunn	episodes=1 episode, 2006 	
+character=Amelia	name=Julie Adams	episodes=1 episode, 2006-2007 	
+character=Gabriela Busoni	name=Monica Barladeanu	episodes=1 episode, 2006 	
+character=Isaac of Uluru	name=Wayne Pygram	episodes=1 episode, 2006 	
+character=Mrs. Pace	name=Sammi Davis	episodes=1 episode, 2006 	
+character=Monsignor	name=Oliver Muirhead	episodes=1 episode, 2006 	
+character=Older Woman	name=Alexis Rhee	episodes=1 episode, 2007 	
+character=Simon Pace	name=John Henry Canavan	episodes=1 episode, 2007 	
+character=Ruth	name=Joanna Bool	episodes=1 episode, 2007 	
+character=Mother	name=Allison Janney	episodes=1 episode, 2010 	
+character=Omar	name=Navid Negahban	episodes=1 episode, 2004 	
+character=Rachel	name=Jenny Chang	episodes=1 episode, 2004 	
+character=Boy	name=Jim Woitas	episodes=1 episode, 2004 	
+character=Warren	name=Stephen J. Rafferty	episodes=1 episode, 2004 	
+character=Meathead	name=Sev Palmer	episodes=1 episode, 2004 	
+character=Kevin	name=Anson Mount	episodes=1 episode, 2005 	
+character=Duckett	name=Jeff Perry	episodes=1 episode, 2005 	
+character=Sawyer	name=Jeff Perry	episodes=1 episode, 2005 	
+character=Frank 	name=Jeff Perry	episodes=1 episode, 2005 	
+character=Eddie	name=Hanlon Jr.	episodes=1 episode, 2005 	
+character=Eddie	name=George O	episodes=1 episode, 2005 	
+character=Ken Halperin	name=Ron Marasco	episodes=1 episode, 2005 	
+character=Tommy	name=Darren Richardson	episodes=1 episode, 2005 	
+character=Lily	name=Terasa Livingstone	episodes=1 episode, 2005 	
+character=Security Guard	name=Curtis Jackson	episodes=1 episode, 2005 	
+character=Dagne	name=Natasha Goss	episodes=1 episode, 2005 	
+character=Agent Hewitt	name=David Ross Paterson	episodes=1 episode, 2005 	
+character=White Suit	name=Chil Kong	episodes=1 episode, 2005 	
+character=Minister	name=Clarence Logan	episodes=1 episode, 2005 	
+character=Sanjay	name=Anosh Yagoob	episodes=1 episode, 2005 	
+character=Mike	name=Chris Mulkey	episodes=1 episode, 2006 	
+character=Angelo Busoni	name=Ronald Guttman	episodes=1 episode, 2006 	
+character=Joyce Malkin	name=Melissa Bickerton	episodes=1 episode, 2006 	
+character=Tariq	name=Marc Casabani	episodes=1 episode, 2006 	
+character=Arthur	name=Finn Armstrong	episodes=1 episode, 2006 	
+character=Ulu	name=Pierre Olivier	episodes=1 episode, 2006 	
+character=Billy Dee Williams	name=Billy Dee Williams	episodes=1 episode, 2007 	
+character=Derek	name=Jack Maxwell	episodes=1 episode, 2007 	
+character=Donovan	name=Shishir Kurup	episodes=1 episode, 2007 	
+character=Johnny	name=Andrew Meader	episodes=1 episode, 2007 	
+character=Jerry	name=Kevin Rankin	episodes=1 episode, 2009 	
+character=Peter Ross	name=Dan Gauthier	episodes=1 episode, 2009 	
+character=Claudia	name=Lela Loren	episodes=1 episode, 2010 	
+character=Isabella	name=Mirelly Taylor	episodes=1 episode, 2010 	
+character=Hotel Manager	name=Andy Trask	episodes=1 episode, 2004 	
+character=Arlene	name=Lisa Fraser	episodes=1 episode, 2004 	
+character=Prisoner	name=Xavier Alaniz	episodes=1 episode, 2004 	
+character=Starla	name=Marguerite Moreau	episodes=1 episode, 2005 	
+character=Nathan	name=Josh Randall	episodes=1 episode, 2005 	
+character=Sabrina Carlyle	name=Lindsay Frost	episodes=1 episode, 2005 	
+character=Mom	name=Susse Budde	episodes=1 episode, 2005 	
+character=Detective Calderwood	name=Kevin E. West	episodes=1 episode, 2005 	
+character=Butler	name=John Choi	episodes=1 episode, 2005 	
+character=Nurse	name=Tamara Lynch	episodes=1 episode, 2005 	
+character=Buyer	name=Eric Griffith	episodes=1 episode, 2005 	
+character=Waiter	name=Michael Lanzo	episodes=1 episode, 2005 	
+character=Yusef	name=Ali Shaheed Amini	episodes=1 episode, 2005 	
+character=Tux Shop Owner	name=John Tilton	episodes=1 episode, 2005 	
+character=Father Chuck	name=Geoffrey Rivas	episodes=1 episode, 2006 	
+character=Charlotte	name=Brooke Anderson	episodes=1 episode, 2006 	
+character=Jan	name=Virginia Morris	episodes=1 episode, 2006 	
+character=Dr. Je-Gyu Kim	name=Greg Joung Paik	episodes=1 episode, 2006 	
+character=Peter	name=Richard Cavanna	episodes=1 episode, 2006 	
+character=Master Sergeant	name=Stephen C. Page	episodes=1 episode, 2006 	
+character=Goldie	name=Ronald Revels	episodes=1 episode, 2006 	
+character=Aussie Woman	name=Donna Smallwood	episodes=1 episode, 2006 	
+character=Olivia	name=Samantha Mathis	episodes=1 episode, 2007 	
+character=Brother Martin	name=Andrew Trask	episodes=1 episode, 2007 	
+character=Duncan Forrester	name=Shawn Doyle	episodes=1 episode, 2008 	
+character=Heather	name=Carla Buscaglia	episodes=1 episode, 2009 	
+character=Courier	name=Eddie L. Cavett	episodes=1 episode, 2010 	
+character=Slavitt	name=Barry Whitfield	episodes=1 episode, 2004 	
+character=Tourniquet Man	name=Dale Radomski	episodes=1 episode, 2004 	
+character=Johnny	name=DJ Qualls	episodes=1 episode, 2005 	
+character=Matthew Reed	name=Rick Overton	episodes=1 episode, 2005 	
+character=Wayne	name=James Horan	episodes=1 episode, 2005 	
+character=Moderator	name=Jeanne Rogers	episodes=1 episode, 2005 	
+character=Dr. Curtis	name=Dann Seki	episodes=1 episode, 2005 	
+character=Philippe	name=François Guétary	episodes=1 episode, 2005 	
+character=Kid	name=Tyler Burns Laudowicz	episodes=1 episode, 2005 	
+character=Donald	name=Glenn Lehmann	episodes=1 episode, 2005 	
+character=Mr. Kim	name=Rain Chung	episodes=1 episode, 2005 	
+character=Wife	name=Kiya Lee	episodes=1 episode, 2005 	
+character=Byung	name=Kiya Lee	episodes=1 episode, 2005 	
+character=Imam	name=Warren Kundis	episodes=1 episode, 2005 	
+character=Boy	name=Gordon Hardie	episodes=1 episode, 2005 	
+character=Sgt. Tony Buccelli	name=Theo Rossi	episodes=1 episode, 2006 	
+character=Colburn	name=Justin Chatwin	episodes=1 episode, 2006 	
+character=Eddie	name=Justin Chatwin	episodes=1 episode, 2006 	
+character=Edward 	name=Justin Chatwin	episodes=1 episode, 2006 	
+character=Munson	name=Ian Gomez	episodes=1 episode, 2006 	
+character=Emeka	name=Hakeem Kae-Kazim	episodes=1 episode, 2006 	
+character=Commercial Director	name=Craig Robert Young	episodes=1 episode, 2006 	
+character=Caldwell	name=Peter Lavin	episodes=1 episode, 2006 	
+character=Jimmy Bane	name=Theo Coumbis	episodes=1 episode, 2006 	
+character=Thug Captain	name=John Bryan	episodes=1 episode, 2006 	
+character=Emily Linus	name=Carrie Preston	episodes=1 episode, 2007 	
+character=Isabel	name=Diana Scarwid	episodes=1 episode, 2007 	
+character=Sami	name=Shaun Toub	episodes=1 episode, 2007 	
+character=Tricia Tanaka	name=Lee Sung Hi	episodes=1 episode, 2007 	
+character=Paik	name=Jean Chung	episodes=1 episode, 2007 	
+character=Secretary	name=Jean Chung	episodes=1 episode, 2007 	
+character=Airport Guard	name=Tyrone Howard	episodes=1 episode, 2007 	
+character=Delivery Man	name=Jeremy Colvin	episodes=1 episode, 2007 	
+character=Harper Stanhope	name=Andrea Roth	episodes=1 episode, 2008 	
+character=Melissa Dunbrook	name=Susan Gibney	episodes=1 episode, 2008 	
+character=Peter Avellino	name=Armando Pucci	episodes=1 episode, 2008 	
+character=Howard Gray	name=Dean Norris	episodes=1 episode, 2009 	
+character=Dr. Evelyn Ariza	name=Stephanie Niznik	episodes=1 episode, 2009 	
+character=Doctor	name=Chris Jaymes	episodes=1 episode, 2009 	
+character=Magician	name=Glen Bailey	episodes=1 episode, 2009 	
+character=Kid	name=John Jamal Bradley	episodes=1 episode, 2009 	
+character=Father Suarez	name=Juan Carlos Cantu	episodes=1 episode, 2010 	
+character=Burditt	name=Christopher Amitrano	episodes=1 episode, 2010 	
+character=Ticket Agent	name=Meilinda Cecilia Soerjoko	episodes=1 episode, 2004 	
+character=Mrs. Shin	name=Kim Kim	episodes=1 episode, 2005 	
+character=Australian Official	name=Chard Hayward	episodes=1 episode, 2005 	
+character=Francine	name=Roxie Sarhangi	episodes=1 episode, 2005 	
+character=Shawna	name=Jeanna Garcia	episodes=1 episode, 2005 	
+character=Ticket Agent	name=James Edward Sclafani	episodes=1 episode, 2005 	
+character=Daughter	name=Angelica Perreira	episodes=1 episode, 2005 	
+character=Byung	name=Angelica Perreira	episodes=1 episode, 2005 	
+character=Nurse	name=Masayo Ford	episodes=1 episode, 2005 	
+character=Amina	name=Muna Otaru	episodes=1 episode, 2006 	
+character=Dr. Ian McVay	name=Felix Williamson	episodes=1 episode, 2006 	
+character=U.S. Soldier 	name=Thomas Meharey	episodes=1 episode, 2006 	
+character=Sheriff	name=Joel Himelhoch	episodes=1 episode, 2006 	
+character=Tamara Fry	name=Cleo King	episodes=1 episode, 2007 	
+character=Howard Zukerman	name=Jacob Witkin	episodes=1 episode, 2007 	
+character=Dr. Woodruff	name=Julian Barnes	episodes=1 episode, 2007 	
+character=Arabic Man 	name=Eyad Elbitar	episodes=1 episode, 2007 	
+character=Jimmy Lennon	name=David Cordell	episodes=1 episode, 2007 	
+character=Elsa	name=Thekla Reuten	episodes=1 episode, 2008 	
+character=Ishmael Bakir	name=Faran Tahir	episodes=1 episode, 2008 	
+character=Barfly	name=Patricia Hastie	episodes=1 episode, 2009 	
+character=Hajer	name=Ammar Daraiseh	episodes=1 episode, 2009 	
+character=Rosie	name=Molly McGivern	episodes=1 episode, 2009 	
+character=Vanessa	name=Elisabeth Blake	episodes=1 episode, 2009 	
+character=Ava	name=Jodi Lyn O	episodes=1 episode, 2010 	
+character=Ava	name=Keefe	episodes=1 episode, 2010 	
+character=Wheeler	name=Casey Adams	episodes=1 episode, 2010 	
+character=Boy in Black	name=Ryan Hanson Bradford	episodes=1 episode, 2010 	
+character=Ms. Kendall	name=Natalie Garcia Fryman	episodes=1 episode, 2010 	
+character=Servant	name=Davo Coria	episodes=1 episode, 2010 	
+character=Dogen	name=Sean Kinerney	episodes=1 episode, 2010 	
+character=Son	name=Sean Kinerney	episodes=1 episode, 2010 	
+character=Woman	name=Barbara Vidinha-Tyler	episodes=1 episode, 2004 	
+character=Poor Man	name=Robert Dahey	episodes=1 episode, 2005 	
+character=Bartender	name=Alex Mason	episodes=1 episode, 2005 	
+character=Detective Raggs	name=Mark Gilbert	episodes=1 episode, 2005 	
+character=EMT 	name=Julius Ledda	episodes=1 episode, 2005 	
+character=Nigerian Nun	name=Aisha Hinds	episodes=1 episode, 2006 	
+character=Warden Harris	name=Bill Duke	episodes=1 episode, 2006 	
+character=Kim	name=Dion Donahue	episodes=1 episode, 2006 	
+character=Tough Moroccan	name=Moumen ElHajji	episodes=1 episode, 2006 	
+character=U.S. Soldier 	name=Kamari Borden	episodes=1 episode, 2006 	
+character=Chet	name=James Huang	episodes=1 episode, 2007 	
+character=Officer Barnes	name=Rhett Giles	episodes=1 episode, 2007 	
+character=Young Hurley	name=Caden Waidyatilleka	episodes=1 episode, 2007 	
+character=Waiter	name=Taiarii Marshall	episodes=1 episode, 2007 	
+character=Judge	name=Traber Burns	episodes=1 episode, 2008 	
+character=Oldham	name=William Sanderson	episodes=1 episode, 2009 	
+character=Tony	name=Emerson Brooks	episodes=1 episode, 2009 	
+character=Custodian	name=Dan Hildebrand	episodes=1 episode, 2009 	
+character=Charlotte	name=Victoria Goring	episodes=1 episode, 2009 	
+character=Mom	name=Victoria Goring	episodes=1 episode, 2009 	
+character=Nabil	name=P.D. Mani	episodes=1 episode, 2009 	
+character=Young Faraday	name=Spencer Allyn	episodes=1 episode, 2009 	
+character=Field Supervisor	name=Simon El Bling	episodes=1 episode, 2009 	
+character=Taxi Driver	name=Adam Bazzi	episodes=1 episode, 2009 	
+character=Grocery Worker	name=Miko Franconi	episodes=1 episode, 2009 	
+character=Other 	name=John Skinner	episodes=1 episode, 2009 	
+character=Oldest Hunter	name=Ivo Nandi	episodes=1 episode, 2010 	
+character=Ignacio	name=Izzy Diaz	episodes=1 episode, 2010 	
+character=LAX Customs Official	name=Larry Joshua	episodes=1 episode, 2010 	
+character=Lindsey	name=Jenni Blong	episodes=1 episode, 2010 	
+character=Orderly	name=Ken Elliott	episodes=1 episode, 2010 	
+character=Waiter	name=Jesse Smith	episodes=1 episode, 2010 	
+character=Sergeant	name=Allan Cole	episodes=1 episode, 2010 	
+character=School Kid	name=Joshua Smith	episodes=1 episode, 2010 	
+character=Nora	name=Ashleigh Ann Wood	episodes=1 episode, 2005 	
+character=Tai Soo	name=Josiah D. Lee	episodes=1 episode, 2005 	
+character=Man on Beach	name=Jon Sakata	episodes=1 episode, 2005 	
+character=Jason McCormack	name=Aaron Gold	episodes=1 episode, 2005 	
+character=Pakistani Store Clerk	name=Raj K. Bose	episodes=1 episode, 2005 	
+character=Survivor	name=Ivana Michele Smith	episodes=1 episode, 2005 	
+character=Diego	name=Derrick Bulatao	episodes=1 episode, 2005 	
+character=Daniel	name=Jermaine Scooter Smith	episodes=1 episode, 2006 	
+character=Suzanne	name=Eden-Lee Murray	episodes=1 episode, 2006 	
+character=Corrections Officer	name=Dorian Burns	episodes=1 episode, 2006 	
+character=Moroccan 	name=Achraf Marzouki	episodes=1 episode, 2006 	
+character=Peter	name=Patrick J. Adams	episodes=1 episode, 2007 	
+character=Head Nurse	name=Elizabeth Logan	episodes=1 episode, 2007 	
+character=Bartender	name=Michael Titterton	episodes=1 episode, 2007 	
+character=Thai Man	name=Siwathep Sunapo	episodes=1 episode, 2007 	
+character=Karen Decker	name=Michelle Forbes	episodes=1 episode, 2008 	
+character=Tunisian Desk Clerk	name=Yetide Badaki	episodes=1 episode, 2008 	
+character=Ambassador	name=George Cheung	episodes=1 episode, 2008 	
+character=Dr. Stillman	name=William H. Fiddler IV	episodes=1 episode, 2008 	
+character=Suited Guard	name=Chris Barnes	episodes=1 episode, 2008 	
+character=Bailiff	name=Fred Q. Collins	episodes=1 episode, 2008 	
+character=Ellie	name=Alexandra Krosney	episodes=1 episode, 2009 	
+character=Rupa	name=Kavita Patil	episodes=1 episode, 2009 	
+character=Sweet Young Woman	name=Susan King	episodes=1 episode, 2009 	
+character=Ivan	name=Dmitri S. Boudrine	episodes=1 episode, 2009 	
+character=Worker	name=Cody Gomes	episodes=1 episode, 2009 	
+character=Construction Foreman	name=Stephen Scibetta	episodes=1 episode, 2009 	
+character=Ji Yeon	name=Jaymie Kim	episodes=1 episode, 2009 	
+character=Officer Rasmussen	name=Traci Burgard	episodes=1 episode, 2010 	
+character=Simmons	name=Jonathan Arthur	episodes=1 episode, 2010 	
+character=Nurse	name=Maile Holck	episodes=1 episode, 2010 	
+character=Prisoner	name=Santiago Montone	episodes=1 episode, 2010 	
+character=Cabbie	name=Salvatore Abbadessa	episodes=1 episode, 2010 	
+character=Reporter	name=Joy Minaai	episodes=1 episode, 2005 	
+character=Doctor	name=Michael Cowell	episodes=1 episode, 2005 	
+character=Anesthesiologist	name=Larry Wiss	episodes=1 episode, 2005 	
+character=Adam	name=Stephen Semel	episodes=1 episode, 2006-2007 	
+character=Young Sun	name=Sophie Kim	episodes=1 episode, 2006 	
+character=Priest	name=Ellis St. Rose	episodes=1 episode, 2006 	
+character=Annie	name=Madeline Carroll	episodes=1 episode, 2007 	
+character=Mrs. Talbot	name=Barbara Baehler	episodes=1 episode, 2007 	
+character=ER Doctor	name=Danan Pere	episodes=1 episode, 2007 	
+character=Thai Boy	name=Shannon Chanhthanam	episodes=1 episode, 2007 	
+character=Photographer	name=Stephen Quinn	episodes=1 episode, 2007 	
+character=Dr. Erica Stevenson	name=April Parker Jones	episodes=1 episode, 2008 	
+character=Bedouin 	name=Nick Hermz	episodes=1 episode, 2008 	
+character=Auctioneer	name=Edward Conery	episodes=1 episode, 2008 	
+character=Another Nurse	name=Lynnette Garces	episodes=1 episode, 2008 	
+character=Salonga	name=Raymond Ma	episodes=1 episode, 2009 	
+character=Mr. Dorsey	name=Ned Van Zandt	episodes=1 episode, 2009 	
+character=Young Juliet	name=Rylee Fansler	episodes=1 episode, 2009 	
+character=Manager	name=Scott Moura	episodes=1 episode, 2009 	
+character=Floyd	name=Michael Hardy	episodes=1 episode, 2009 	
+character=Bellman	name=Ane Tranetzki	episodes=1 episode, 2009 	
+character=Evelyn	name=Linda Rose Herman	episodes=1 episode, 2009 	
+character=Doctor	name=J.R. Yenque	episodes=1 episode, 2010 	
+character=OB nurse	name=Yasmin Dar	episodes=1 episode, 2010 	
+character=Nurse	name=Hannah Bell	episodes=1 episode, 2010 	
+character=Lou	name=Addison Arquette	episodes=1 episode, 2010 	
+character=School Kid	name=Ashlee Kyker	episodes=1 episode, 2010 	
+character=Assistant D.A.	name=Rand Wilson	episodes=1 episode, 2005 	
+character=Trader	name=Michael Robinson	episodes=1 episode, 2006 	
+character=Nigerian Woman	name=Cynthia Charles	episodes=1 episode, 2006 	
+character=Moderator	name=Alexandra Morgan	episodes=1 episode, 2006 	
+character=Detective Mason	name=Marlene Forte	episodes=1 episode, 2007 	
+character=Sherry	name=Kimberly Estrada	episodes=1 episode, 2007 	
+character=Dharma Welcomer	name=Jenn Boneza	episodes=1 episode, 2007 	
+character=Dr. Bae	name=Lanny Joon	episodes=1 episode, 2008 	
+character=Receptionist	name=Traci Toguchi	episodes=1 episode, 2008 	
+character=African Man	name=Kanayo Chiemelu	episodes=1 episode, 2008 	
+character=Doug	name=Sean Douglas Hoban	episodes=1 episode, 2008 	
+character=Soldier	name=Chris Gibbon	episodes=1 episode, 2008 	
+character=Indonesian Boy	name=Damon Juan	episodes=1 episode, 2008 	
+character=Young Sayid	name=Anthony Keyvan	episodes=1 episode, 2009 	
+character=Nurse Debra	name=Candace Hammer	episodes=1 episode, 2009 	
+character=Young Miles	name=Lance Ho	episodes=1 episode, 2009 	
+character=Secretary	name=Tuli Roy-Kirwan	episodes=1 episode, 2009 	
+character=Counter Girl	name=Chantal Boom	episodes=1 episode, 2009 	
+character=Anesthesiologist	name=Daniel James Kunkel	episodes=1 episode, 2009 	
+character=Surgeon	name=Teresa Huang	episodes=1 episode, 2010 	
+character=Officer	name=Ernesto Lopez	episodes=1 episode, 2010 	
+character=Police Officer	name=Christopher Johnson	episodes=1 episode, 2010 	
+character=Nurse	name=Maya Pruett	episodes=1 episode, 2005 	
+character=Sophie	name=Maree Miller	episodes=1 episode, 2005 	
+character=Prison Tough 	name=Hunter Quinn	episodes=1 episode, 2006 	
+character=Detective Reed	name=Don Nahaku	episodes=1 episode, 2007 	
+character=Dharma Rep. 	name=Gregory Suenaga	episodes=1 episode, 2007 	
+character=Mr. Gellert	name=Phil Abrams	episodes=1 episode, 2008 	
+character=Billy	name=Darren Keefe Reiher	episodes=1 episode, 2008 	
+character=Admitting Nurse	name=Christina M. Kim	episodes=1 episode, 2008 	
+character=Iraqi Merchant	name=Kaveh Kardan	episodes=1 episode, 2008 	
+character=Ms. Berenberg	name=Carla Von	episodes=1 episode, 2008 	
+character=Young Ethan	name=Devon Gearhart	episodes=1 episode, 2009 	
+character=Young Rachel	name=Savannah Lathem	episodes=1 episode, 2009 	
+character=Iraqi Boy	name=Xavier Raabe-Manupule	episodes=1 episode, 2009 	
+character=Doctor	name=Kayren Butler	episodes=1 episode, 2010 	
+character=Receptionist	name=Yvonne Midkiff	episodes=1 episode, 2010 	
+character=Screaming Other	name=David P. Griffith	episodes=1 episode, 2010 	
+character=Agent Freedman	name=Peter Ruocco	episodes=1 episode, 2006 	
+character=Receptionist	name=Sonya Seng	episodes=1 episode, 2006 	
+character=Kincaid	name=Stephen Bishop	episodes=1 episode, 2007 	
+character=Dharma Rep. 	name=Diamante Kielo	episodes=1 episode, 2007 	
+character=Morgue Employee	name=Steve Labrash	episodes=1 episode, 2007 	
+character=Sergeant	name=Graham McTavish	episodes=1 episode, 2008 	
+character=E.R. Nurse	name=Amanda Carlin	episodes=1 episode, 2008 	
+character=Ms. Gardner	name=Azure McCall	episodes=1 episode, 2008 	
+character=London Doorman	name=Michael Sadler	episodes=1 episode, 2008 	
+character=Delivery Room Nurse	name=Sun Hee Koo	episodes=1 episode, 2008 	
+character=Bartender	name=Joe Toro	episodes=1 episode, 2009 	
+character=Jed	name=Matt Hoffman	episodes=1 episode, 2009 	
+character=Clementine	name=Olivia Vickery	episodes=1 episode, 2009 	
+character=Detective	name=James Jeremiah	episodes=1 episode, 2009 	
+character=Prison Clerk	name=John Pete	episodes=1 episode, 2009 	
+character=MRI Tech	name=Ben Cain	episodes=1 episode, 2010 	
+character=Guard	name=Kasim Saul	episodes=1 episode, 2010 	
+character=Munson	name=Christina Simpkins	episodes=1 episode, 2006 	
+character=Wife	name=Christina Simpkins	episodes=1 episode, 2006 	
+character=Translator	name=Necar Zadegan	episodes=1 episode, 2008 	
+character=Bedouin 	name=Sammy Sheik	episodes=1 episode, 2008 	
+character=Shopkeeper	name=Simon Rhee	episodes=1 episode, 2008 	
+character=Melissa	name=Sarah Duval	episodes=1 episode, 2008 	
+character=Young Kate	name=Emily Evan Rae	episodes=1 episode, 2009 	
+character=Juliet	name=Michael Trisler	episodes=1 episode, 2009 	
+character=Dad	name=Michael Trisler	episodes=1 episode, 2009 	
+character=Darlene	name=Dana Sorman	episodes=1 episode, 2009 	
+character=Young Alex	name=Lehualani Silva	episodes=1 episode, 2009 	
+character=Sam	name=Aramis Knight	episodes=1 episode, 2010 	
+character=EMT	name=Skyler Stone	episodes=1 episode, 2010 	
+character=Clipboard Guy	name=Gerard Elmore	episodes=1 episode, 2010 	
+character=Roderick	name=Joshua Hancock	episodes=1 episode, 2007 	
+character=Nurse	name=Galyn Görg	episodes=1 episode, 2008 	
+character=Physical Therapist	name=Matthew Pedersen	episodes=1 episode, 2008 	
+character=Lewis	name=Steven Neumeier	episodes=1 episode, 2008 	
+character=Security Agent	name=David Yew	episodes=1 episode, 2008 	
+character=Young Sawyer	name=Keegan Boos	episodes=1 episode, 2009-2010 	
+character=Reporter	name=Cindy Paliracio	episodes=1 episode, 2009 	
+character=Doctor	name=Peter Stray	episodes=1 episode, 2010 	
+character=Emily 	name=Holland Roden	episodes=1 episode, 2008 	
+character=Age 16	name=Holland Roden	episodes=1 episode, 2008 	
+character=Jeff	name=James Locke	episodes=1 episode, 2008 	
+character=Hendricks	name=Noah Craft	episodes=1 episode, 2008 	
+character=Uncle Doug	name=Colby French	episodes=1 episode, 2009 	
+character=Caretaker	name=Peggy Anne Siegmund	episodes=1 episode, 2009 	
+character=Ticket Agent	name=Stefanie Smart	episodes=1 episode, 2009 	
+character=Eva	name=Kailee Velasco	episodes=1 episode, 2010 	
+character=John Locke 	name=Caleb Steinmeyer	episodes=1 episode, 2008 	
+character=Age 16	name=Caleb Steinmeyer	episodes=1 episode, 2008 	
+character=Mr. Springer	name=George Gerdes	episodes=1 episode, 2009 	
+character=ER Nurse	name=Jennifer Sojot	episodes=1 episode, 2009 	
+character=Lawyer	name=Sundra Oakley	episodes=1 episode, 2010 	
+character=Emily	name=Rebecca Tilney	episodes=1 episode, 2008 	
+character=Mother	name=Rebecca Tilney	episodes=1 episode, 2008 	
+character=Arturo	name=Will Allen	episodes=1 episode, 2008 	
+character=Reporter 	name=Garrett Hughes	episodes=1 episode, 2008 	
+character=Aunt Soo	name=Agnes Kwak	episodes=1 episode, 2009 	
+character=Pilot	name=David Michael	episodes=1 episode, 2008 	
+character=E.R. Doctor	name=Patrick Torres	episodes=1 episode, 2008 	
+character=Young Tom	name=Tanner Maguire	episodes=1 episode, 2009 	
+character=Widmore Assistant	name=Haley Cook	episodes=1 episode, 2010 	
+character=Florence	name=Mandy June Turpin	episodes=1 episode, 2008 	
+character=Arabic Reporter	name=Souhil Nimeh	episodes=1 episode, 2008 	
+character=John Locke 	name=Charles Henry Wyson	episodes=1 episode, 2008 	
+character=Age 5	name=Charles Henry Wyson	episodes=1 episode, 2008 	
+character=Korean Reporter	name=Eul Noh	episodes=1 episode, 2008 	
+character=Russian Nurse	name=Sonya Masinovsky	episodes=1 episode, 2009 	
+character=Blonde Reporter	name=Alicia Rae	episodes=1 episode, 2008 	
+character=Co-Pilot	name=Joseph Sikora	episodes=1 episode, 2008 	
+character=Survivor	name=Faith Fay	episodes=18 episodes, 2004-2005 	
+character=Widmore Scientist	name=James Koons	episodes=5 episodes, 2010 	
+character=Other	name=Joseph Wilson	episodes=3 episodes, 2009 	
+character=Bully	name=Matthew Thompson	episodes=2 episodes, 2004-2008 	
+character=Survivor	name=Dane Justman	episodes=2 episodes, 2004 	
+character=Hospital Patient	name=Larry Wegger	episodes=2 episodes, 2007-2009 	
+character=Nadine	name=Alexandra Tabas	episodes=2 episodes, 2009 	
+character=Lacombe	name=Chris Marvin	episodes=2 episodes, 2009 	
+character=Temple Other	name=John A Weaver	episodes=2 episodes, 2010 	
+character=Rachel	name=India Dupré	episodes=1 episode, 2004 	
+character=Wife	name=Kimberly Stahl	episodes=1 episode, 2004 	
+character=Waiter	name=Paul S.W. Lee	episodes=1 episode, 2004 	
+character=Gary Troup	name=Frank Torres	episodes=1 episode, 2004 	
+character=Plane Passenger	name=Benjamin P. Binswanger	episodes=1 episode, 2004 	
+character=Flight Attendant	name=Shawna Washabaugh	episodes=1 episode, 2004 	
+character=Muslim	name=Sean DeCambra	episodes=1 episode, 2004 	
+character=Young Kate	name=Skye McCole Bartusiak	episodes=1 episode, 2005 	
+character=Young Tom	name=Carter Jenkins	episodes=1 episode, 2005 	
+character=Calloway	name=Jeannetta Arnette	episodes=1 episode, 2005 	
+character=Wheeler	name=Scott Rogers	episodes=1 episode, 2005 	
+character=Passenger	name=Paul Leo Klink	episodes=1 episode, 2005 	
+character=Aaron Littlejohn	name=Jade Heimowitz	episodes=1 episode, 2005 	
+character=Gerald DeGroot	name=Michael Gilday	episodes=1 episode, 2005 	
+character=John Locke	name=Damon Lindelof	episodes=1 episode, 2006 	
+character=Hand	name=Damon Lindelof	episodes=1 episode, 2006 	
+character=Prisoner 	name=Lobo Sebastian	episodes=1 episode, 2006 	
+character=Young Man	name=Eyal Podell	episodes=1 episode, 2006 	
+character=Countdown Computer	name=Lynnanne Zager	episodes=1 episode, 2006 	
+character=Man 	name=Len Cordova	episodes=1 episode, 2006 	
+character=U.S. Soldier 	name=Barry Brandt	episodes=1 episode, 2006 	
+character=Book Club Guy	name=Viet Vo	episodes=1 episode, 2006 	
+character=Receptionist	name=Cathy Foy	episodes=1 episode, 2006 	
+character=Others	name=Sharon M. Bell	episodes=1 episode, 2006 	
+character=Additional	name=Patrick Bradford	episodes=1 episode, 2006 	
+character=Lizzie	name=Zara Bott-Goins	episodes=1 episode, 2006 	
+character=Mental Ward Patient	name=Sophie Owens-Bender	episodes=1 episode, 2006 	
+character=Charlie	name=R. Andrew Doan	episodes=1 episode, 2006 	
+character=Father	name=R. Andrew Doan	episodes=1 episode, 2006 	
+character=Barista	name=Dustin Gomes	episodes=1 episode, 2006 	
+character=Passenger survivor 	name=Bryan Sato	episodes=1 episode, 2006 	
+character=Dharma Worker	name=Nick Roth	episodes=1 episode, 2007 	
+character=Jane	name=Michelle Ruff	episodes=1 episode, 2008 	
+character=Locure	name=Tony Wade	episodes=1 episode, 2008 	
+character=ER Nurse	name=Jordan Lawson	episodes=1 episode, 2008 	
+character=Cort Gallery	name=Jordan Brooks	episodes=1 episode, 2008 	
+character=Nalini	name=Rebecca Hazlewood	episodes=1 episode, 2009 	
+character=Mattingly	name=Todd Bryant	episodes=1 episode, 2009 	
+character=Mom	name=Amy Stewart	episodes=1 episode, 2009 	
+character=Juliet	name=Amy Stewart	episodes=1 episode, 2009 	
+character=Survivor	name=Johnny Larocque	episodes=1 episode, 2009 	
+character=Girl in Airport	name=Summer Eguchi	episodes=1 episode, 2009 	
+character=Baxter	name=Jim Templar	episodes=1 episode, 2009 	
+character=Nurse	name=Evan Jennings	episodes=1 episode, 2009 	
+character=Asim	name=Sanjay Madhav	episodes=1 episode, 2009 	
+character=Dharma Guard	name=Matt Esecson	episodes=1 episode, 2009 	
+character=Nurse	name=Stephanie Conching	episodes=1 episode, 2009 	
+character=Mechanic	name=Jeff Kober	episodes=1 episode, 2010 	
+character=Clerk	name=Samm Levine	episodes=1 episode, 2010 	
+character=Desk Clerk	name=Chad Donella	episodes=1 episode, 2010 	
+character=Other	name=Melissa Barker	episodes=1 episode, 2010 	
+character=Cab Driver	name=Walter Fowler	episodes=1 episode, 2010 	
+character=Talent Contest Judge	name=John Herkenrath	episodes=1 episode, 2010 	
+character=Airplane Passenger	name=Troy Manandic	episodes=1 episode, 2010 	

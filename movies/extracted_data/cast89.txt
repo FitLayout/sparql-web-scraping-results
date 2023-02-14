@@ -1,0 +1,64 @@
+# http://fitlayout.github.io/resource/art89 -> https://www.imdb.com/title/tt8783930/fullcredits/
+character=Clare Abshire	name=Rose Leslie	episodes=6 episodes, 2022 	
+character=Henry DeTamble	name=Theo James	episodes=6 episodes, 2022 	
+character=Young Clare Abshire	name=Everleigh McDonell	episodes=6 episodes, 2022 	
+character=Henry	name=Gui Agustini	episodes=6 episodes, 2022 	
+character=Acting Double	name=Gui Agustini	episodes=6 episodes, 2022 	
+character=Charisse	name=Natasha Lopez	episodes=4 episodes, 2022 	
+character=Lucille Abshire	name=Jaime Ray Newman	episodes=4 episodes, 2022 	
+character=Philip Abshire	name=Michael Park	episodes=4 episodes, 2022 	
+character=Young Clare Abshire	name=Caitlin Shorey	episodes=4 episodes, 2022 	
+character=Gomez	name=Desmin Borges	episodes=3 episodes, 2022 	
+character=Nell	name=Marcia DeBonis	episodes=3 episodes, 2022 	
+character=Mark Abshire	name=Peter Graham	episodes=3 episodes, 2022 	
+character=Annette DeTamble	name=Kate Siegel	episodes=3 episodes, 2022 	
+character=Richard DeTamble	name=Josh Stamberg	episodes=3 episodes, 2022 	
+character=Young Henry DeTamble	name=Jason David	episodes=2 episodes, 2022 	
+character=Young Henry DeTamble	name=Brian Altemus	episodes=2 episodes, 2022 	
+character=Isabelle	name=Shawna Hamic	episodes=2 episodes, 2022 	
+character=Jason	name=Spencer House	episodes=2 episodes, 2022 	
+character=Alicia Abshire	name=Taylor Richardson	episodes=2 episodes, 2022 	
+character=Young Mark Abshire	name=Finn Brown	episodes=2 episodes, 2022 	
+character=Matt	name=Carol Mazhuvancheril	episodes=2 episodes, 2022 	
+character=Ingrid	name=Chelsea Frei	episodes=1 episode, 2022 	
+character=Waiter	name=Major Attaway	episodes=1 episode, 2022 	
+character=Ben	name=Will Brill	episodes=1 episode, 2022 	
+character=Passerby	name=Robert Ray Manning Jr.	episodes=1 episode, 2022 	
+character=Dr. Felman	name=Peter Francis James	episodes=1 episode, 2022 	
+character=Clare	name=Karma Jenkins	episodes=1 episode, 2022 	
+character=Friend	name=Karma Jenkins	episodes=1 episode, 2022 	
+character=Ruth	name=Lianah Sta. Ana	episodes=1 episode, 2022 	
+character=Lady on the Street	name=Jeannette Blackwell	episodes=1 episode, 2022 	
+character=Off Camera Opera Singer	name=Gabriella Reyes	episodes=1 episode, 2022 	
+character=Yelling Man	name=Stephen Dale	episodes=1 episode, 2022 	
+character=Lady on the Train	name=Karon Stewart	episodes=1 episode, 2022 	
+character=Cop	name=Lewon Johns	episodes=1 episode, 2022 	
+character=Helen	name=Kaya Rosenthal	episodes=1 episode, 2022 	
+character=Biker	name=Tim Lajcik	episodes=1 episode, 2022 	
+character=Young Guy	name=Luciano Acuna Jr.	episodes=1 episode, 2022 	
+character=Gas Station Patron	name=John Marinacci	episodes=1 episode, 2022 	
+character=Donna	name=Alison Barton	episodes=1 episode, 2022 	
+character=Store Employee	name=J.Y. Chun	episodes=1 episode, 2022 	
+character=Man at Bar	name=Nic Inglese	episodes=1 episode, 2022 	
+character=Priest 1979	name=John E. Denaro	episodes=1 episode, 2022 	
+character=Blonde Woman	name=Claire Lilley	episodes=1 episode, 2022 	
+character=Cameraman	name=Raymond Hamlin	episodes=1 episode, 2022 	
+character=Librarian	name=Gerrard Lobo	episodes=1 episode, 2022 	
+character=Priest 2008	name=James Hindman	episodes=1 episode, 2022 	
+character=Church Official	name=Joanna Parson	episodes=1 episode, 2022 	
+character=Realtor	name=Finnerty Steeves	episodes=1 episode, 2022 	
+character=Harvey	name=Adam Shippey	episodes=1 episode, 2022 	
+character=Young Alicia Abshire	name=Adeline Turco	episodes=1 episode, 2022 	
+character=Biker	name=Robert Mercado	episodes=1 episode, 2022 	
+character=Party Girl	name=Catherine Gambeski	episodes=1 episode, 2022 	
+character=Biker Bar Patron	name=Sharon Jorrin	episodes=1 episode, 2022 	
+character=Art Student	name=Evie Cecile Johnson	episodes=2 episodes, 2022 	
+character=Library Patron	name=Robert Loftus	episodes=1 episode, 2022 	
+character=Downscale Young Person	name=Ken Holmes	episodes=1 episode, 2022 	
+character=Party Goer	name=Mark Rome	episodes=1 episode, 2022 	
+character=Art Museum Patron	name=Saffron Cooper	episodes=1 episode, 2022 	
+character=Nosey Neighbor	name=Walter Wiz Nichols	episodes=1 episode, 2022 	
+character=Best Man	name=Josh LaCount	episodes=1 episode, 2022 	
+character=Businessman	name=Greg Collins	episodes=1 episode, 2022 	
+character=Churchgoer	name=Brad Neilley	episodes=1 episode, 2022 	
+character=Sax Player	name=Joshua Graverholt	episodes=1 episode, 2022 	

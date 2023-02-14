@@ -1,0 +1,1709 @@
+# http://fitlayout.github.io/resource/art19 -> https://www.imdb.com/title/tt0141842/fullcredits/
+character=Tony Soprano	name=James Gandolfini	episodes=86 episodes, 1999-2007 	
+character=Carmela Soprano	name=Edie Falco	episodes=85 episodes, 1999-2007 	
+character=Christopher Moltisanti	name=Michael Imperioli	episodes=83 episodes, 1999-2007 	
+character=Silvio Dante	name=Steven Van Zandt	episodes=79 episodes, 1999-2007 	
+character=A.J. Soprano	name=Robert Iler	episodes=75 episodes, 1999-2007 	
+character=Gualtieri	name=Tony Sirico	episodes=74 episodes, 1999-2007 	
+character=Paulie 	name=Tony Sirico	episodes=74 episodes, 1999-2007 	
+character=Walnuts	name=Tony Sirico	episodes=74 episodes, 1999-2007 	
+character=Meadow Soprano	name=Jamie-Lynn Sigler	episodes=73 episodes, 1999-2007 	
+character=Dr. Jennifer Melfi	name=Lorraine Bracco	episodes=71 episodes, 1999-2007 	
+character=Junior Soprano	name=Dominic Chianese	episodes=54 episodes, 1999-2007 	
+character=Janice Soprano	name=Aida Turturro	episodes=53 episodes, 2000-2007 	
+character=Bacala	name=Steve Schirripa	episodes=53 episodes, 2000-2007 	
+character=Baccalieri	name=Steve Schirripa	episodes=53 episodes, 2000-2007 	
+character=Bobby 	name=Steve Schirripa	episodes=53 episodes, 2000-2007 	
+character=Adriana La Cerva	name=Drea de Matteo	episodes=48 episodes, 1999-2006 	
+character=Patsy Parisi	name=Dan Grimaldi	episodes=47 episodes, 2000-2007 	
+character=Vito Spatafore	name=Joseph R. Gannascoli	episodes=39 episodes, 1999-2006 	
+character=Rosalie Aprile	name=Sharon Angela	episodes=37 episodes, 1999-2007 	
+character=Artie Bucco	name=John Ventimiglia	episodes=36 episodes, 1999-2007 	
+character=Phil Leotardo	name=Frank Vincent	episodes=30 episodes, 2004-2007 	
+character=Furio Giunta	name=Federico Castelluccio	episodes=28 episodes, 2000-2002 	
+character=Hesh Rabkin	name=Jerry Adler	episodes=28 episodes, 1999-2007 	
+character=Carlo Gervasi	name=Arthur J. Nascarella	episodes=28 episodes, 2002-2007 	
+character=Benny Fazio	name=Max Casella	episodes=28 episodes, 2001-2007 	
+character=Gabriella Dante	name=Maureen Van Zandt	episodes=28 episodes, 2000-2007 	
+character=Eugene Pontecorvo	name=Robert Funaro	episodes=24 episodes, 2001-2006 	
+character=Little Paulie Germani	name=Carl Capotorto	episodes=24 episodes, 2001-2007 	
+character=Agent Dwight Harris	name=Matt Servitto	episodes=24 episodes, 1999-2007 	
+character=Hugh DeAngelis	name=Tom Aldredge	episodes=23 episodes, 2000-2007 	
+character=Livia Soprano	name=Nancy Marchand	episodes=22 episodes, 1999-2001 	
+character=Ralph Cifaretto	name=Joe Pantoliano	episodes=20 episodes, 2001-2004 	
+character=Mary DeAngelis	name=Suzanne Shepherd	episodes=20 episodes, 2000-2007 	
+character=Charmaine Bucco	name=Kathrine Narducci	episodes=19 episodes, 1999-2007 	
+character=Bobby Baccalieri Jr.	name=Angelo Massagli	episodes=18 episodes, 2002-2007 	
+character=Ginny Sacrimoni	name=Denise Borino-Quinn	episodes=17 episodes, 2001-2007 	
+character=Carmine Lupertazzi Jr.	name=Ray Abruzzo	episodes=16 episodes, 2002-2007 	
+character=Raymond Curto	name=George Loros	episodes=16 episodes, 1999-2006 	
+character=Larry Boy Barese	name=Tony Darrow	episodes=15 episodes, 1999-2007 	
+character=Tony Blundetto	name=Steve Buscemi	episodes=14 episodes, 2004-2006 	
+character=Dr. Elliot Kupferberg	name=Peter Bogdanovich	episodes=14 episodes, 2000-2007 	
+character=Finn Detrolio	name=Will Janowitz	episodes=14 episodes, 2002-2006 	
+character=Attorney Melvoin	name=Richard Portnow	episodes=13 episodes, 1999-2004 	
+character=Irina Peltsin	name=Oksana Lada	episodes=13 episodes, 1999-2002 	
+character=Father Phil Intintola	name=Paul Schulze	episodes=13 episodes, 1999-2006 	
+character=Gigi Cestone	name=John Fiore	episodes=13 episodes, 2000-2004 	
+character=Georgie	name=Frank Santorelli	episodes=13 episodes, 1999-2007 	
+character=Albie Cianflone	name=Ciarcia	episodes=13 episodes, 2006-2007 	
+character=Albie Cianflone	name=John 	episodes=13 episodes, 2006-2007 	
+character=Albie Cianflone	name=Cha Cha	episodes=13 episodes, 2006-2007 	
+character=Sophia Baccalieri	name=Miryam Coppersmith	episodes=13 episodes, 2004-2007 	
+character=LaRosa	name=Jeffrey M. Marchetti	episodes=13 episodes, 2002-2007 	
+character=Peter 	name=Jeffrey M. Marchetti	episodes=13 episodes, 2002-2007 	
+character=Bissell	name=Jeffrey M. Marchetti	episodes=13 episodes, 2002-2007 	
+character=Jackie Aprile Jr.	name=Jason Cerbone	episodes=12 episodes, 2000-2001 	
+character=Agent Frank Grasso	name=Frank Pando	episodes=12 episodes, 1999-2007 	
+character=Angie Bonpensiero	name=Toni Kalem	episodes=11 episodes, 2000-2006 	
+character=Carmine Lupertazzi	name=Tony Lip	episodes=10 episodes, 2001-2007 	
+character=Dante Greco	name=Anthony J. Ribustello	episodes=11 episodes, 2004-2007 	
+character=Beppy Scerbo	name=Joe Pucillo	episodes=10 episodes, 1999-2007 	
+character=Richie Aprile	name=David Proval	episodes=10 episodes, 2000-2004 	
+character=Mikey Palmice	name=Al Sapienza	episodes=10 episodes, 1999-2004 	
+character=Agent Robyn Sanseverino	name=Karen Young	episodes=10 episodes, 2002-2006 	
+character=Albert Barese	name=Richard Maldone	episodes=10 episodes, 2000-2004 	
+character=Gerry Torciano	name=John Bianco	episodes=9 episodes, 2006-2007 	
+character=Barbara Giglione	name=Danielle Di Vecchio	episodes=10 episodes, 2004-2007 	
+character=Tom Giglione	name=Ed Vassallo	episodes=10 episodes, 2000-2007 	
+character=Skip Lipari	name=Louis Lombardi	episodes=9 episodes, 2000-2001 	
+character=Butch DeConcini	name=Greg Antonacci	episodes=9 episodes, 2006-2007 	
+character=Murmur	name=Lenny Venito	episodes=9 episodes, 2006-2007 	
+character=Zancone	name=Lenny Venito	episodes=9 episodes, 2006-2007 	
+character=James 	name=Lenny Venito	episodes=9 episodes, 2006-2007 	
+character=News Anchor	name=Annika Pergament	episodes=9 episodes, 1999-2002 	
+character=Joanne Moltisanti	name=Marianne Leone	episodes=9 episodes, 2002-2007 	
+character=Billy Leotardo	name=Chris Caldovino	episodes=9 episodes, 2004-2007 	
+character=Prosecutor	name=Dan Castleman	episodes=9 episodes, 2002-2007 	
+character=Jimmy Altieri	name=Joseph Badalucco Jr.	episodes=8 episodes, 1999-2001 	
+character=Brian Cammarata	name=Matthew Del Negro	episodes=8 episodes, 2002-2007 	
+character=Neil Mink	name=David Margulies	episodes=8 episodes, 2000-2007 	
+character=Marie Spatafore	name=Elizabeth Bracco	episodes=8 episodes, 2006-2007 	
+character=Nucci Gualtieri	name=Frances Ensemplare	episodes=8 episodes, 2001-2007 	
+character=Jason Molinaro	name=William DeMeo	episodes=8 episodes, 2004-2007 	
+character=Lilliana	name=Katalin Pota	episodes=7 episodes, 1999-2001 	
+character=Rusty Millio	name=Frankie Valli	episodes=7 episodes, 2004-2006 	
+character=Angelo Garepe	name=Joe Santos	episodes=7 episodes, 2004 	
+character=Kelli Moltisanti	name=Cara Buono	episodes=7 episodes, 2006-2007 	
+character=Valentina La Paz	name=Leslie Bega	episodes=7 episodes, 2002-2004 	
+character=Agent Deborah Ciccerone	name=Lola Glaudini	episodes=7 episodes, 2001-2004 	
+character=Svetlana Kirilenka	name=Alla Kliouka	episodes=7 episodes, 2000-2002 	
+character=Joe Peeps	name=Joe Maruzzo	episodes=7 episodes, 2002-2004 	
+character=Patty Leotardo	name=Geraldine LiBrandi	episodes=7 episodes, 2006-2007 	
+character=Burt Gervasi	name=Artie Pasquale	episodes=7 episodes, 2004-2007 	
+character=Gloria Trillo	name=Annabella Sciorra	episodes=7 episodes, 2001-2004 	
+character=Anthony Maffei	name=John Cenatiempo	episodes=6 episodes, 2000-2007 	
+character=Assemblyman Zellman	name=Peter Riegert	episodes=6 episodes, 2001-2002 	
+character=Hunter Scangarelo	name=Michele DeCesare	episodes=6 episodes, 1999-2007 	
+character=Agent Ron Goddard	name=Michael Kelly	episodes=6 episodes, 2006-2007 	
+character=Ahmed	name=Taleb Adlah	episodes=6 episodes, 2006-2007 	
+character=Muhammed	name=Donnie Keshawarz	episodes=6 episodes, 2006-2007 	
+character=Eddie Pietro	name=Nick Annunziata	episodes=5 episodes, 2004-2006 	
+character=Dr. Bruce Cusamano	name=Robert LuPone	episodes=4 episodes, 1999-2007 	
+character=Det. Vin Makazian	name=John Heard	episodes=5 episodes, 1999-2004 	
+character=Matt Bevilaqua	name=Lillo Brancato	episodes=6 episodes, 2000 	
+character=Beansie Gaeta	name=Paul Herman	episodes=5 episodes, 2000-2007 	
+character=Blanca Selgado	name=Dania Ramirez	episodes=5 episodes, 2006-2007 	
+character=Aunt Quintina Blundetto	name=Rae Allen	episodes=5 episodes, 2004 	
+character=Johnny Boy Soprano	name=Joseph Siravo	episodes=5 episodes, 1999-2007 	
+character=Walden Belfiore	name=Frank John Hughes	episodes=5 episodes, 2007 	
+character=Jason Gervasi	name=Joe Perrino	episodes=5 episodes, 2007 	
+character=Liz La Cerva	name=Patty McCormack	episodes=5 episodes, 2000-2006 	
+character=Perry Annunziata	name=Louis Gross	episodes=5 episodes, 2006 	
+character=Vito Spatafore, Jr.	name=Frank Borrelli	episodes=5 episodes, 2006 	
+character=Francesca Spatafore	name=Paulina Gerzon	episodes=5 episodes, 2006-2007 	
+character=Danny Scalercio	name=Bruce MacVittie	episodes=5 episodes, 2002 	
+character=Barbara Giglione	name=Nicole Burdette	episodes=4 episodes, 2000-2001 	
+character=Dr. Freid	name=Lewis J. Stadlen	episodes=5 episodes, 2000-2007 	
+character=Jean Cusamano	name=Saundra Santiago	episodes=4 episodes, 1999-2007 	
+character=Nicole Lupertazzi	name=Allison Dunbar	episodes=5 episodes, 2004-2007 	
+character=Donny K.	name=Raymond Franza	episodes=4 episodes, 2000-2002 	
+character=Court Clerk	name=Julie Ross	episodes=5 episodes, 2002 	
+character=Domenica Baccalieri	name=Avery Elaine Pulcher	episodes=5 episodes, 2007 	
+character=Domenica Baccalieri	name=Emily Ruth Pulcher	episodes=5 episodes, 2007 	
+character=Domenica Baccalieri	name=Kimberly Laughlin	episodes=5 episodes, 2006 	
+character=Domenica Baccalieri	name=Brianna Laughlin	episodes=5 episodes, 2006 	
+character=Wiseguy	name=Greg D	episodes=2 episodes, 2001-2006 	
+character=Wiseguy	name=Agostino	episodes=2 episodes, 2001-2006 	
+character=Julianna Skiff	name=Julianna Margulies	episodes=4 episodes, 2006-2007 	
+character=Feech La Manna	name=Robert Loggia	episodes=4 episodes, 2004 	
+character=Sean Gismonte	name=Chris Tardio	episodes=4 episodes, 2000 	
+character=Dino Zerilli	name=Andy Davoli	episodes=4 episodes, 2001 	
+character=Caitlin Rucker	name=Ari Graynor	episodes=4 episodes, 2001 	
+character=Jackie Aprile	name=Michael Rispoli	episodes=4 episodes, 1999-2001 	
+character=Jim Witowski	name=John Costelloe	episodes=4 episodes, 2006 	
+character=Corky Caporale	name=Edoardo Ballerini	episodes=4 episodes, 2006-2007 	
+character=Jason La Penna	name=Will McCormack	episodes=4 episodes, 1999-2001 	
+character=Uncle Pat	name=Frank Albanese	episodes=4 episodes, 2004-2007 	
+character=Aaron Arkaway	name=Turk Pipkin	episodes=4 episodes, 2001-2006 	
+character=Matt Testa	name=Cameron Boyd	episodes=4 episodes, 2002-2006 	
+character=Devin Pillsbury	name=Jessica Dunphy	episodes=4 episodes, 2002-2004 	
+character=Jason Parisi	name=Michael Drayer	episodes=4 episodes, 2007 	
+character=Rhiannon	name=Emily Wickersham	episodes=4 episodes, 2006-2007 	
+character=Terry Doria	name=Ron Castellano	episodes=4 episodes, 2004-2007 	
+character=Anthony Infante	name=Lou Martini Jr.	episodes=4 episodes, 2006-2007 	
+character=J.T. Dolan	name=Tim Daly	episodes=4 episodes, 2004-2007 	
+character=FBI Tech 	name=Gary Evans	episodes=4 episodes, 2001 	
+character=Brian Spatafore	name=Vincent J. Orofino	episodes=4 episodes, 2000-2007 	
+character=Brendan Filone	name=Anthony DeSando	episodes=3 episodes, 1999 	
+character=Sophia Baccalieri	name=Lexie Sperduto	episodes=4 episodes, 2002 	
+character=Hillel	name=Sig Libowitz	episodes=4 episodes, 1999-2006 	
+character=Frankie Cortese	name=Tony Siragusa	episodes=4 episodes, 2004 	
+character=Justin Blundetto	name=Dennis Aloia	episodes=4 episodes, 2004 	
+character=Jason Blundetto	name=Kevin Aloia	episodes=4 episodes, 2004 	
+character=Donna Parisi	name=Anna Mancini	episodes=4 episodes, 2002-2007 	
+character=JoJo Palmice	name=Michele Santopietro	episodes=4 episodes, 1999-2002 	
+character=Vitro	name=Louis Mustillo	episodes=3 episodes, 2004-2006 	
+character=Sal	name=Louis Mustillo	episodes=3 episodes, 2004-2006 	
+character=Salvatore 	name=Louis Mustillo	episodes=3 episodes, 2004-2006 	
+character=Hector Selgado	name=Kobi George	episodes=4 episodes, 2006-2007 	
+character=Hector Selgado	name=Kadin George	episodes=4 episodes, 2006-2007 	
+character=Jimmy Petrille	name=Vinny Vella	episodes=3 episodes, 1999-2004 	
+character=Robert Wegler	name=David Strathairn	episodes=3 episodes, 2004 	
+character=Richard La Penna	name=Richard Romanus	episodes=3 episodes, 1999-2002 	
+character=Dr. Lior Plepler	name=Ron Leibman	episodes=3 episodes, 2006 	
+character=Dick Barone	name=Joe Lisi	episodes=3 episodes, 1999-2000 	
+character=Dr. Schreck	name=Matthew Sussman	episodes=3 episodes, 2000-2002 	
+character=Chucky Signore	name=Sal Ruffino	episodes=3 episodes, 1999 	
+character=Jack Massarone	name=Robert Desiderio	episodes=3 episodes, 2000-2004 	
+character=Lorraine Calluzzo	name=Arbanville	episodes=3 episodes, 2004 	
+character=Lorraine Calluzzo	name=Patti D	episodes=3 episodes, 2004 	
+character=Reverend James Jr.	name=Gregory Alan Williams	episodes=3 episodes, 2000-2001 	
+character=Lois Pettit	name=Manon Halliburton	episodes=3 episodes, 2002 	
+character=Young Junior Soprano	name=Rocco Sisto	episodes=3 episodes, 1999-2007 	
+character=Matush	name=Nick E. Tarabay	episodes=3 episodes, 2001-2004 	
+character=Elodi Colbert	name=Murielle Arden	episodes=3 episodes, 2002 	
+character=Brien	name=Vincent Piazza	episodes=3 episodes, 2006-2007 	
+character=Hernan O	name=Vincent Piazza	episodes=3 episodes, 2006-2007 	
+character=Branca Libinsk	name=Elena Solovey	episodes=3 episodes, 2002 	
+character=Dr. Richard Vogel	name=Michael Countryman	episodes=3 episodes, 2007 	
+character=Noah Tannenbaum	name=Patrick Tully	episodes=3 episodes, 2001 	
+character=Janelle Cammarata	name=Heidi Dippold	episodes=3 episodes, 2002-2007 	
+character=Allegra Sacrimoni	name=Caitlin Van Zandt	episodes=3 episodes, 2006-2007 	
+character=Catherine Sacrimoni	name=Cristin Milioti	episodes=3 episodes, 2006-2007 	
+character=Dominic	name=Dominic Chianese Jr.	episodes=3 episodes, 2007 	
+character=Santoro	name=Daniel P. Conte	episodes=3 episodes, 2007 	
+character=Doc	name=Daniel P. Conte	episodes=3 episodes, 2007 	
+character=Faustino 	name=Daniel P. Conte	episodes=3 episodes, 2007 	
+character=Murf	name=Val Bisoglio	episodes=3 episodes, 2002 	
+character=Mrs. Conte	name=Sylvia Kauders	episodes=3 episodes, 1999-2006 	
+character=Miss Reykjavik	name=Tone Christensen	episodes=3 episodes, 2002 	
+character=Miss Giaculo	name=Candy Trabuco	episodes=3 episodes, 1999-2002 	
+character=FBI Tech 	name=Glenn Kessler	episodes=3 episodes, 2001 	
+character=Gia Gaeta	name=Donna Smythe	episodes=3 episodes, 2000-2007 	
+character=David Scatino	name=Robert Patrick	episodes=3 episodes, 2000 	
+character=Warren	name=Stink Fisher	episodes=3 episodes, 2006-2007 	
+character=Egon Kosma	name=Mark Karafin	episodes=3 episodes, 2001 	
+character=Beth Kaplan	name=Tracey Silver	episodes=3 episodes, 2006-2007 	
+character=Tom Amberson	name=Terence Winter	episodes=3 episodes, 2000-2004 	
+character=Cozzarelli	name=Ralph Lucarelli	episodes=3 episodes, 2001-2004 	
+character=Jason Evanina	name=Frank Fortunato	episodes=3 episodes, 2004 	
+character=Agent Ron Gosling	name=Matt Pepper	episodes=3 episodes, 2006-2007 	
+character=Teenage Tony Soprano	name=Danny Petrillo	episodes=2 episodes, 2004 	
+character=Incident Biker	name=Jalil Jay Lynch	episodes=1 episode, 2000-2007 	
+character=Annalisa	name=Sofia Milos	episodes=2 episodes, 2000 	
+character=Victor Musto	name=Joe Penny	episodes=2 episodes, 2000 	
+character=Monk 	name=Henry O	episodes=2 episodes, 2006 	
+character=Bonnie DiCaprio	name=Johann Carlo	episodes=2 episodes, 1999 	
+character=Valery	name=Vitali Baganov	episodes=2 episodes, 2001 	
+character=Slava Malevsky	name=Frank Ciornei	episodes=2 episodes, 2001 	
+character=Daniel Baldwin	name=Daniel Baldwin	episodes=2 episodes, 2007 	
+character=Ronnie Capozza	name=Marissa Matrone	episodes=2 episodes, 2002 	
+character=Eric	name=Phil Coccioletti	episodes=2 episodes, 1999 	
+character=Christine Scatino	name=Marisa Redanty	episodes=2 episodes, 2000 	
+character=Jonathan LaPaglia	name=Jonathan LaPaglia	episodes=2 episodes, 2007 	
+character=Comedian	name=Ed Crasnick	episodes=2 episodes, 1999-2000 	
+character=Monk 	name=Ho Chow	episodes=2 episodes, 2006 	
+character=Young Livia Soprano	name=Laila Robins	episodes=2 episodes, 1999-2001 	
+character=Sunshine	name=Paul Mazursky	episodes=2 episodes, 2000-2001 	
+character=Carlo Renzi	name=Louis Crugnali	episodes=2 episodes, 2001 	
+character=Alessandra	name=Aleksa Palladino	episodes=2 episodes, 2002-2004 	
+character=Sandrine	name=Elaine del Valle	episodes=2 episodes, 1999 	
+character=Gwen MacIntyre	name=Alison Bartlett	episodes=2 episodes, 2004 	
+character=Cogliano	name=Armen Garo	episodes=2 episodes, 2007 	
+character=Coco	name=Armen Garo	episodes=2 episodes, 2007 	
+character=Salvatore 	name=Armen Garo	episodes=2 episodes, 2007 	
+character=Edgar Ramirez	name=Felix Solis	episodes=2 episodes, 2000-2007 	
+character=Betty Wolf	name=Susan Blommaert	episodes=2 episodes, 2006 	
+character=Patrick Whalen	name=Paul Dano	episodes=2 episodes, 2002-2004 	
+character=Russian Man	name=Sasha Nesterov	episodes=2 episodes, 1999-2000 	
+character=Karen Baccalieri	name=Christine Pedi	episodes=2 episodes, 2002 	
+character=Minn Matrone	name=Fran Anthony	episodes=2 episodes, 2002 	
+character=Patrick Parisi	name=Daniel Sauli	episodes=2 episodes, 2007 	
+character=Al Lombardo	name=Dennis Paladino	episodes=2 episodes, 2007 	
+character=Cookie Cirillo	name=Anna Berger	episodes=2 episodes, 2002 	
+character=Ramone	name=Adrian Martinez	episodes=2 episodes, 2000 	
+character=Rita Lombardo	name=Phyllis Kay	episodes=2 episodes, 2007 	
+character=Doctor	name=Seth Barrish	episodes=2 episodes, 2000-2007 	
+character=Alan Ginsberg	name=Stewart J. Zully	episodes=2 episodes, 2002-2004 	
+character=Eric DeBenedetto	name=Adam Mucci	episodes=2 episodes, 2006 	
+character=Deanne Pontecorvo	name=Suzanne DiDonna	episodes=2 episodes, 2006 	
+character=Ron Pearse	name=Brad Zimmerman	episodes=2 episodes, 2006 	
+character=Male Anchor	name=Bobby Rivers	episodes=2 episodes, 1999-2001 	
+character=Tina	name=Vanessa Ferlito	episodes=2 episodes, 2001-2004 	
+character=Agent Smyj	name=Brian Smyj	episodes=2 episodes, 2001-2002 	
+character=Anthony	name=Steve Santosusso	episodes=2 episodes, 1999-2002 	
+character=Emil Kolar	name=Bruce Smolanoff	episodes=2 episodes, 1999 	
+character=Eddie	name=Daniel London	episodes=2 episodes, 2002 	
+character=Father Felix	name=Peter McRobbie	episodes=2 episodes, 2000-2001 	
+character=Igor Parnasky	name=Igor Zhivotovsky	episodes=2 episodes, 2001 	
+character=Agent Marquez	name=Gary Perez	episodes=2 episodes, 2000-2001 	
+character=Caterina Cella	name=Anne Assante	episodes=2 episodes, 2001-2006 	
+character=Mike Waldrup	name=Will Arnett	episodes=2 episodes, 2002 	
+character=Janet Petit	name=Michelle Christian Corp	episodes=2 episodes, 2004 	
+character=Italo	name=Carlo Giuliano	episodes=2 episodes, 2006-2007 	
+character=John Stefano	name=Joey Perillo	episodes=2 episodes, 2007 	
+character=Fanny	name=Marcia Haufrecht	episodes=2 episodes, 1999-2001 	
+character=Justin Cifaretto	name=Dane Curley	episodes=2 episodes, 2002 	
+character=Coach Goodwin	name=David Mogentale	episodes=2 episodes, 2001 	
+character=Principal Cincotta	name=Daniel Oreskes	episodes=2 episodes, 2001 	
+character=Debbie	name=Kelly Madison Kole	episodes=2 episodes, 2001 	
+character=Dr. Harry Winer	name=Allen Enlow	episodes=2 episodes, 2004 	
+character=Bobby Coniglio	name=Vito Antuofermo	episodes=2 episodes, 2000-2001 	
+character=Dogsy	name=Kevin Interdonato	episodes=2 episodes, 2002 	
+character=Fat Dom Gamiello	name=Tony Cucci	episodes=2 episodes, 2006 	
+character=Elliot	name=Daniel Ahearn	episodes=2 episodes, 2006 	
+character=Abaldo	name=Rick Aiello	episodes=2 episodes, 2007 	
+character=Ray-Ray D	name=Rick Aiello	episodes=2 episodes, 2007 	
+character=Professor Kline	name=Lindsay Campbell	episodes=2 episodes, 2007 	
+character=Cesar	name=Charles Santy	episodes=2 episodes, 1999-2004 	
+character=Roy Del Guercio	name=Kevin Janicelli	episodes=2 episodes, 2001 	
+character=Val	name=Suzanne Hevner	episodes=2 episodes, 2006-2007 	
+character=Emmerich	name=Antony Hagopian	episodes=2 episodes, 2006 	
+character=Pat	name=Chris McGarry	episodes=2 episodes, 2006 	
+character=Manny Safier	name=Matthew Weiner	episodes=2 episodes, 2004-2007 	
+character=Lori	name=Nathalie Walker	episodes=2 episodes, 2006-2007 	
+character=Cary Di Bartolo	name=James Vincent Romano	episodes=2 episodes, 2006 	
+character=Inez Munoz	name=Rosa Nino	episodes=2 episodes, 2002 	
+character=Ron	name=Eldon Thiele	episodes=2 episodes, 2006 	
+character=Marty Schwartz	name=Jerry Grayson	episodes=2 episodes, 2002 	
+character=Yaryna	name=Matilda Szydagis	episodes=2 episodes, 2006-2007 	
+character=George Piocosta	name=Sal Petraccione	episodes=2 episodes, 1999-2001 	
+character=Rob	name=Matthew Breiner	episodes=2 episodes, 2001 	
+character=Rocco	name=Richard Petrocelli	episodes=2 episodes, 2001-2004 	
+character=Nurse	name=Gay Thomas Wilson	episodes=2 episodes, 2002 	
+character=Dealer 	name=Anthony Spina	episodes=2 episodes, 2004 	
+character=Dr. Budraja	name=Anjali Bhimani	episodes=2 episodes, 2006 	
+character=Nurse Leontine Overall	name=Traci Kindell	episodes=2 episodes, 2006 	
+character=Colin	name=Ian Group	episodes=2 episodes, 2001 	
+character=Ms. Mary Bisacci	name=Fran Gennuso	episodes=2 episodes, 2004 	
+character=Victor Mineo	name=Matt Sauerhoff	episodes=2 episodes, 2007 	
+character=Robbie Pontecorvo	name=Thomas Russo	episodes=2 episodes, 2006 	
+character=Xavier	name=Tommy Savas	episodes=2 episodes, 2001 	
+character=Nurse Aquino	name=Luz Lor	episodes=2 episodes, 2006 	
+character=Dr. Ba	name=C.S. Lee	episodes=2 episodes, 2006 	
+character=Bartender	name=Edward Watts	episodes=2 episodes, 2006 	
+character=Elzbieta	name=Zuzanna Szadkowski	episodes=2 episodes, 2007 	
+character=Green Grove Singer	name=Deirdre Sullivan	episodes=2 episodes, 2000-2001 	
+character=Nurse Bruce	name=Gary Cowling	episodes=2 episodes, 2006 	
+character=Gianna Millio	name=Merel Julia	episodes=2 episodes, 2006 	
+character=Ally Pontecorvo	name=Grace Van Patten	episodes=2 episodes, 2006 	
+character=Neighbor	name=Maria Elena Ramirez	episodes=2 episodes, 2002-2006 	
+character=Orderly	name=Samuel Smith	episodes=2 episodes, 2006 	
+character=Jimmy La Manna	name=Anthony Desio	episodes=2 episodes, 2004 	
+character=Dealer	name=John Marinacci	episodes=2 episodes, 2004 	
+character=Carmine III	name=Sammy Semenza	episodes=2 episodes, 2004-2007 	
+character=Pepin	name=Carmine Mitore	episodes=2 episodes, 2002 	
+character=Zi	name=Carmine Mitore	episodes=2 episodes, 2002 	
+character=Reporter 	name=Amy Kean	episodes=2 episodes, 2006-2007 	
+character=Alyssa Giglione	name=Madison Connolly	episodes=2 episodes, 2004-2007 	
+character=Stephane Giglione	name=Anthony Piccolo	episodes=2 episodes, 2004-2007 	
+character=Morgan Yam	name=John Wu	episodes=2 episodes, 2007 	
+character=Joey Cogo	name=David Copeland	episodes=2 episodes, 2002-2004 	
+character=Driver	name=Edward Furs	episodes=2 episodes, 2007 	
+character=Liz DiLiberto	name=Lauren Toub	episodes=1 episode, 2002 	
+character=Big Frank	name=Michael Squicciarini	episodes=1 episode, 2000 	
+character=Bouncer	name=Joe Rosario	episodes=1 episode, 2001-2007 	
+character=Laborer	name=David S. Lomax	episodes=1 episode, 2000-2002 	
+character=Bouncer	name=Jay Boryea	episodes=1 episode, 2000-2001 	
+character=Mimi	name=Jamie Sorrentini	episodes=2 episodes, 2004 	
+character=Paula Salerno	name=Antoinette LaVecchia	episodes=1 episode, 2006-2007 	
+character=Saladin	name=Ephraim Benton	episodes=1 episode, 2002 	
+character=Goon	name=Chazz Menendez	episodes=1 episode, 2000-2006 	
+character=Stripper	name=Gina Lynn	episodes=1 episode, 2004-2007 	
+character=Guy 	name=Jeffery Keilholtz	episodes=1 episode, 2006 	
+character=Friend	name=Todd Wall	episodes=1 episode, 2001-2006 	
+character=Jackie Jr.	name=Todd Wall	episodes=1 episode, 2001-2006 	
+character=Isabella	name=Maria Grazia Cucinotta	episodes=1 episode, 1999 	
+character=Alex Mahaffey	name=Michael Gaston	episodes=1 episode, 1999 	
+character=Debbie	name=Karen Sillas	episodes=1 episode, 1999 	
+character=Fred Peters	name=Tony Ray Rossi	episodes=1 episode, 1999 	
+character=Massive Genius	name=Bokeem Woodbine	episodes=1 episode, 1999 	
+character=Reverend James Sr.	name=Bill Cobbs	episodes=1 episode, 2000 	
+character=Dr. John Kennedy	name=Sam McMurray	episodes=1 episode, 2001 	
+character=Randall Curtin	name=Mark Blum	episodes=1 episode, 1999 	
+character=Wife	name=Lisa Arning Mayer	episodes=1 episode, 1999 	
+character=Peters	name=Lisa Arning Mayer	episodes=1 episode, 1999 	
+character=Dr. Peter Galani	name=David Beach	episodes=1 episode, 1999 	
+character=Jon Favreau	name=Jon Favreau	episodes=1 episode, 2000 	
+character=Dean Ross	name=Frank Wood	episodes=1 episode, 2001 	
+character=Tracee	name=Ariel Kiley	episodes=2 episodes, 2001 	
+character=Dominic Palladino	name=Elias Koteas	episodes=1 episode, 2002 	
+character=Alan Sapinsly	name=Bruce Altman	episodes=1 episode, 2002 	
+character=Sungyon Kim	name=Henry Yuk	episodes=1 episode, 2004 	
+character=Carter Chong	name=Ken Leung	episodes=1 episode, 2007 	
+character=Bobbi Sanfillipo	name=Robyn Peterson	episodes=1 episode, 1999 	
+character=Bartender	name=Ross Gibby	episodes=1 episode, 1999 	
+character=Orange J	name=Bryan Hicks	episodes=1 episode, 1999 	
+character=Kevin Bompensiero	name=Giunta	episodes=1 episode, 1999 	
+character=Kevin Bompensiero	name=John	episodes=1 episode, 1999 	
+character=Kevin Bompensiero	name=Giancarlo 	episodes=1 episode, 1999 	
+character=MRI Technician	name=Alton Clinton	episodes=1 episode, 1999 	
+character=Contractor	name=Paul Albe	episodes=1 episode, 1999 	
+character=Sandra Bernhard	name=Sandra Bernhard	episodes=1 episode, 2000 	
+character=Arouk Abboubi	name=Shaun Toub	episodes=1 episode, 2001 	
+character=Dr. Krakower	name=Sully Boyar	episodes=1 episode, 2001 	
+character=Dr. Wendi Kobler	name=Linda Lavin	episodes=1 episode, 2002 	
+character=Jean-Philippe Colbert	name=Jean-Hugues Anglade	episodes=1 episode, 2002 	
+character=Annette Bening	name=Annette Bening	episodes=1 episode, 2004 	
+character=Stokley Davenport, M.D.	name=Hill Harper	episodes=1 episode, 2004 	
+character=Self	name=Nancy Sinatra	episodes=1 episode, 2007 	
+character=Coach Don Hauser	name=Rourke	episodes=1 episode, 1999 	
+character=Coach Don Hauser	name=Kevin O	episodes=1 episode, 1999 	
+character=Admissions Dean	name=Mark Kamine	episodes=1 episode, 1999 	
+character=John Clayborn	name=John Eddins	episodes=1 episode, 1999 	
+character=Richie Santini	name=Nick Fowler	episodes=1 episode, 1999 	
+character=Pearl	name=Shirl Bernheim	episodes=1 episode, 1999 	
+character=Janeane Garofalo	name=Janeane Garofalo	episodes=1 episode, 2000 	
+character=Sr.	name=Burt Young	episodes=1 episode, 2001 	
+character=Bacala	name=Burt Young	episodes=1 episode, 2001 	
+character=Bobby 	name=Burt Young	episodes=1 episode, 2001 	
+character=Father Obosi	name=Isaach De Bankolé	episodes=1 episode, 2001 	
+character=Maurice Tiffen	name=Vondie Curtis-Hall	episodes=1 episode, 2002 	
+character=Lt. Barry Haydu	name=Tom Mason	episodes=1 episode, 2002 	
+character=Ben Kingsley	name=Ben Kingsley	episodes=1 episode, 2006 	
+character=Lee	name=Sheila Kelley	episodes=1 episode, 2006 	
+character=Janice	name=Madeline Blue	episodes=1 episode, 1999 	
+character=Shlomo Teittleman	name=Chuck Low	episodes=1 episode, 1999 	
+character=Vito	name=Gregg Wattenberg	episodes=1 episode, 1999 	
+character=Perrilyn	name=Debrah Ellen Waller	episodes=1 episode, 1999 	
+character=Rasheen Ray	name=Touche	episodes=1 episode, 1999 	
+character=Gas Station Attendant	name=Michael Manetta	episodes=1 episode, 1999 	
+character=Amy Safir	name=Alicia Witt	episodes=1 episode, 2000 	
+character=Zi Vittorio	name=Vittorio Duse	episodes=1 episode, 2000 	
+character=Trish Reingold-Sapinsly	name=Liz Larsen	episodes=1 episode, 2002 	
+character=Cousin Louise	name=Judy Del Giudice	episodes=1 episode, 2004 	
+character=Lauren Bacall	name=Lauren Bacall	episodes=1 episode, 2006 	
+character=Jason Barone	name=Chris Diamantopoulos	episodes=1 episode, 2006 	
+character=Paul Calviac	name=William Russ	episodes=1 episode, 2006 	
+character=Warren Feldman	name=Sydney Pollack	episodes=1 episode, 2007 	
+character=Jameel	name=Nashawn Kearse	episodes=1 episode, 2007 	
+character=Jerome	name=Mike Epps	episodes=1 episode, 1999 	
+character=Ariel	name=Ned Eisenberg	episodes=1 episode, 1999 	
+character=Young Tony	name=Bobby Boriello	episodes=1 episode, 1999 	
+character=Dr. Reis	name=Sam Coppola	episodes=1 episode, 1999 	
+character=Bowdoin Student	name=Keith Nobbs	episodes=1 episode, 1999 	
+character=Dr. Mop-N-Glo	name=Doug Barron	episodes=1 episode, 1999 	
+character=Nurse	name=Kareen Germain	episodes=1 episode, 1999 	
+character=Bass Player	name=Chris Gibson	episodes=1 episode, 1999 	
+character=Dahlia	name=Linda Emond	episodes=1 episode, 2000 	
+character=Miriam	name=Diana Agostini	episodes=1 episode, 2000 	
+character=Jimmy	name=Benny Aguiar	episodes=1 episode, 2000 	
+character=Virginia Lupo	name=Cynthia Darlow	episodes=1 episode, 2002 	
+character=Fran Felstein	name=Polly Bergen	episodes=1 episode, 2004 	
+character=Wilmer Valderrama	name=Wilmer Valderrama	episodes=1 episode, 2006 	
+character=Marvin	name=Criss	episodes=1 episode, 2006 	
+character=Marvin	name=Treach	episodes=1 episode, 2006 	
+character=Marvin	name=Anthony 	episodes=1 episode, 2006 	
+character=Sonya Aragon	name=Sarah Shahi	episodes=1 episode, 2007 	
+character=Donna Parisi	name=Donna Pescow	episodes=1 episode, 2007 	
+character=Mrs. Chong	name=Elizabeth Sung	episodes=1 episode, 2007 	
+character=Counter Boy	name=Brian Geraghty	episodes=1 episode, 1999 	
+character=Arnaz	name=Yancey Arias	episodes=1 episode, 1999 	
+character=Rideland Kid 	name=Scott Cumberbatch	episodes=1 episode, 1999 	
+character=Lon Le Doyenne	name=Luke Reilly	episodes=1 episode, 1999 	
+character=Girl	name=Veronica Bero	episodes=1 episode, 1999 	
+character=Boy	name=Johnathan Mondel	episodes=1 episode, 1999 	
+character=Drummer	name=Ned Stroh	episodes=1 episode, 1999 	
+character=Eric Scatino	name=John Hensley	episodes=1 episode, 2000 	
+character=Jimmy Bones	name=Mike Memphis	episodes=1 episode, 2000 	
+character=Yoga Instructor	name=Getchie Argetsinger	episodes=1 episode, 2000 	
+character=Nurse	name=Crystal Fox	episodes=1 episode, 2001 	
+character=Da Lux	name=Lord Jamar	episodes=1 episode, 2006 	
+character=Dr. Doherty	name=Jenna Stern	episodes=1 episode, 2007 	
+character=Eric Mangini	name=Eric Mangini	episodes=1 episode, 2007 	
+character=Lucinda	name=Sarah Thompson	episodes=1 episode, 1999 	
+character=Ally Vandermeed	name=Cara Jedell	episodes=1 episode, 1999 	
+character=Vendor	name=Connell	episodes=1 episode, 1999 	
+character=Vendor	name=Jack O	episodes=1 episode, 1999 	
+character=U.S. Attorney Braun	name=Tibor Feldman	episodes=1 episode, 1999 	
+character=Squid	name=Bray Poor	episodes=1 episode, 1999 	
+character=Batman	name=Freddy Bastone	episodes=1 episode, 1999 	
+character=Father Hagy	name=Anthony Fusco	episodes=1 episode, 1999 	
+character=Restaurant Owner	name=Giuseppe Delipiano	episodes=1 episode, 1999 	
+character=Traffic Cop	name=Britt Burr	episodes=1 episode, 1999 	
+character=Nancy	name=Leslie Beatty	episodes=1 episode, 2000 	
+character=Manager	name=John Billeci	episodes=1 episode, 2000 	
+character=Detective 	name=Michael Cannis	episodes=1 episode, 2000 	
+character=Security Guard	name=Arthur Barnes	episodes=1 episode, 2000 	
+character=Birgit Olafsdottir	name=Erica Leerhsen	episodes=1 episode, 2001 	
+character=Rita	name=Dayna Gizzo	episodes=1 episode, 2001 	
+character=Dennis Capozza	name=Alessandro	episodes=1 episode, 2002 	
+character=Dennis Capozza	name=Richard D	episodes=1 episode, 2002 	
+character=Jason Malatesta	name=Ryan Hoffman	episodes=1 episode, 2002 	
+character=Officer Zmuida	name=Robert John Burke	episodes=1 episode, 2004 	
+character=Dr. Ira Fried	name=John Pleshette	episodes=1 episode, 2004 	
+character=Bob Brewster	name=Rob Devaney	episodes=1 episode, 2006 	
+character=Eddie Dunne	name=Christopher McDonald	episodes=1 episode, 2007 	
+character=Professor Brian Lynch	name=Charley Morgan	episodes=1 episode, 2007 	
+character=Julie Mangini	name=Julie Mangini	episodes=1 episode, 2007 	
+character=Mercedes	name=Patrena Murray	episodes=1 episode, 2007 	
+character=Deena Hauser	name=Candace Bailey	episodes=1 episode, 1999 	
+character=Talk Show Host	name=Harvey Levin	episodes=1 episode, 1999 	
+character=Irina Peltsin	name=Siberia M. Federico	episodes=1 episode, 1999 	
+character=Old Man	name=William Conn	episodes=1 episode, 1999 	
+character=Daughter	name=Olivia Zaro	episodes=1 episode, 1999 	
+character=Peters	name=Olivia Zaro	episodes=1 episode, 1999 	
+character=Byron Barber	name=Rob Grippa	episodes=1 episode, 1999 	
+character=Protester	name=Michael Broughton	episodes=1 episode, 2000 	
+character=Daniel King	name=Tom Cappadona	episodes=1 episode, 2000 	
+character=Hotel Clerk	name=Stephen Bienskie	episodes=1 episode, 2000 	
+character=Proctor	name=Darrell Carey	episodes=1 episode, 2000 	
+character=Mustang Sally	name=Brian Tarantina	episodes=1 episode, 2001 	
+character=Ambujam	name=Deepa Purohit	episodes=1 episode, 2001 	
+character=Dr. Laurens	name=Ilene S. Landress	episodes=1 episode, 2001 	
+character=Stasiu Wosilius	name=Albert Makhtsier	episodes=1 episode, 2001 	
+character=Charles Cirillo	name=Anthony Patellis	episodes=1 episode, 2002 	
+character=Mop	name=Craig muMs Grant	episodes=1 episode, 2006 	
+character=Drew	name=Christopher Carley	episodes=1 episode, 2006 	
+character=Perry Benedek	name=Allan Wasserman	episodes=1 episode, 2006 	
+character=Dr. Mandl	name=Stephen Singer	episodes=1 episode, 2007 	
+character=Self	name=Southside Johnny Lyon	episodes=1 episode, 2007 	
+character=Denis	name=Philippe Bergeron	episodes=1 episode, 2007 	
+character=Heather Dante	name=Jackie Tohn	episodes=1 episode, 1999 	
+character=Nursing Home Director	name=Justine Miceli	episodes=1 episode, 1999 	
+character=U.S. Attorney	name=John Aprea	episodes=1 episode, 1999 	
+character=Fed 	name=Ramsey Faragallah	episodes=1 episode, 1999 	
+character=Vincent Rizzo	name=Steven Randazzo	episodes=1 episode, 1999 	
+character=Newscaster	name=Denise Richardson	episodes=1 episode, 1999 	
+character=Jack Krim	name=Jim DeMarse	episodes=1 episode, 1999 	
+character=Rideland Cop	name=Jason Hauser	episodes=1 episode, 1999 	
+character=Waiter	name=Maurizio Corbino	episodes=1 episode, 1999 	
+character=Kid 	name=John Arocho	episodes=1 episode, 1999 	
+character=Joanne Moltisanti	name=Nancy Cassaro	episodes=1 episode, 2000 	
+character=Assistant Director	name=John Devlin	episodes=1 episode, 2000 	
+character=Ernest Wu	name=Dan Chen	episodes=1 episode, 2000 	
+character=Mother at Mall	name=Susan Campanaro	episodes=1 episode, 2000 	
+character=Truck Driver	name=James Collins	episodes=1 episode, 2000 	
+character=Dr. Mehta	name=Ismail Bashey	episodes=1 episode, 2001 	
+character=Ilana	name=Anya Shetler	episodes=1 episode, 2001 	
+character=Lorraine Cirillo	name=Charlotte Colavin	episodes=1 episode, 2002 	
+character=Young Livia Soprano	name=Laurie Williams	episodes=1 episode, 2004 	
+character=Tom Fiske	name=Karl Bury	episodes=1 episode, 2004 	
+character=Brandon	name=Evan Ferrante	episodes=1 episode, 2006 	
+character=Geraldo Rivera	name=Geraldo Rivera	episodes=1 episode, 2007 	
+character=Normand	name=Christian Laurin	episodes=1 episode, 2007 	
+character=Rideland Kid	name=Michael B. Jordan	episodes=1 episode, 1999 	
+character=Bebe	name=DonnaMarie Recco	episodes=1 episode, 1999 	
+character=Counter Person	name=Kate Anthony	episodes=1 episode, 1999 	
+character=Aida Melfi	name=Barbara Haas	episodes=1 episode, 1999 	
+character=Janitor	name=George Bass	episodes=1 episode, 1999 	
+character=Randy Wagner	name=James Weston	episodes=1 episode, 1999 	
+character=Arlene Riley	name=Catherine Dent	episodes=1 episode, 2000 	
+character=Gregory Moltisanti	name=Dominic Fumusa	episodes=1 episode, 2000 	
+character=Therapist	name=Susan Blackwell	episodes=1 episode, 2000 	
+character=Karen	name=Janis Dardaris	episodes=1 episode, 2000 	
+character=Dr. D	name=Robert Cicchini	episodes=1 episode, 2000 	
+character=Alessio	name=Robert Cicchini	episodes=1 episode, 2000 	
+character=Quickie G	name=Scottie Epstein	episodes=1 episode, 2000 	
+character=Nurse	name=Catrina Ganey	episodes=1 episode, 2000 	
+character=Nurse	name=Emme Shaw	episodes=1 episode, 2000 	
+character=Ed Restuccia	name=Robert T. Bogue	episodes=1 episode, 2001 	
+character=Paxton	name=Peter Davies	episodes=1 episode, 2001 	
+character=Amanda Kim	name=Liza Lapira	episodes=1 episode, 2004 	
+character=Dr. Russ Fegoli	name=Bruce Kirby	episodes=1 episode, 2004 	
+character=Father Jose	name=Jonathan Del Arco	episodes=1 episode, 2006 	
+character=Charles Cinelli	name=Michael DeNigris	episodes=1 episode, 2006 	
+character=Baz	name=Toole	episodes=1 episode, 2006 	
+character=Baz	name=James O	episodes=1 episode, 2006 	
+character=Lewis Pantowski	name=Michael Buscemi	episodes=1 episode, 1999 	
+character=Police Officer	name=Gene Canfield	episodes=1 episode, 1999 	
+character=Martin Scorsese	name=Anthony Caso	episodes=1 episode, 1999 	
+character=Mr. Capri	name=Salem Ludwig	episodes=1 episode, 1999 	
+character=Jared	name=Gregory Perrelli	episodes=1 episode, 1999 	
+character=Receptionist	name=Nell Balaban	episodes=1 episode, 1999 	
+character=Jeffrey Wernick	name=Timothy Nolen	episodes=1 episode, 1999 	
+character=Doctor	name=Bittu Wallia	episodes=1 episode, 1999 	
+character=Boy at Mall	name=Mitch Holleman	episodes=1 episode, 2000 	
+character=Frank Sinatra Jr.	name=Frank Sinatra Jr.	episodes=1 episode, 2000 	
+character=Kevin Cullen	name=John Christopher Jones	episodes=1 episode, 2000 	
+character=UTA Receptionist	name=Andersen Gabrych	episodes=1 episode, 2000 	
+character=Party Goer	name=Marc Freeman Hamm	episodes=1 episode, 2000 	
+character=Secretary	name=Joseph Carino	episodes=1 episode, 2000 	
+character=Little Joe	name=Joe Bacino	episodes=1 episode, 2001 	
+character=Son	name=Anthony DiMaria	episodes=1 episode, 2001 	
+character=Ruggerio	name=Anthony DiMaria	episodes=1 episode, 2001 	
+character=FBI Man	name=John Fiske	episodes=1 episode, 2001 	
+character=Dancer	name=Jana Januskova	episodes=1 episode, 2001 	
+character=Dr. Sandy Shaw	name=Joyce Van Patten	episodes=1 episode, 2002 	
+character=David Lee Roth	name=David Lee Roth	episodes=1 episode, 2004 	
+character=Kamal	name=Homie Doroodian	episodes=1 episode, 2004 	
+character=Helen Barone	name=Angela Pietropinto	episodes=1 episode, 2006 	
+character=Earl Bretanoux	name=Patrick Holder	episodes=1 episode, 2006 	
+character=Peter Acinapura	name=Jim Bracchitta	episodes=1 episode, 2007 	
+character=Donnie Paduana	name=David Wike	episodes=1 episode, 1999 	
+character=Joe	name=Victor Colicchio	episodes=1 episode, 1999 	
+character=Nurse	name=Bernadette Penotti	episodes=1 episode, 1999 	
+character=Father Phil Intintola	name=Michael Santoro	episodes=1 episode, 1999 	
+character=Rita	name=Terumi Matthews	episodes=1 episode, 1999 	
+character=EMT	name=Frankie Dellarosa	episodes=1 episode, 1999 	
+character=Jeremy Piocosta	name=T.J. Coluca	episodes=1 episode, 1999 	
+character=Wiseguy	name=Nick Raio	episodes=1 episode, 1999 	
+character=Mechanic	name=Prianga Pieris	episodes=1 episode, 1999 	
+character=FBI Man	name=Moises Belizario	episodes=1 episode, 1999 	
+character=Band Leader	name=Barbara Lavalle	episodes=1 episode, 1999 	
+character=Helen Barone	name=Patricia Marand	episodes=1 episode, 2000 	
+character=Dominic	name=Stephen Payne	episodes=1 episode, 2000 	
+character=Caller 	name=Mark Fish	episodes=1 episode, 2000 	
+character=Therapist	name=Elizabeth Flax	episodes=1 episode, 2000 	
+character=Joint Copper	name=Linda Mann	episodes=1 episode, 2000 	
+character=Raffaelle	name=Ciro Maggio	episodes=1 episode, 2000 	
+character=Hotel Manager	name=Bryan Matzkow	episodes=1 episode, 2000 	
+character=Agron	name=Alik Sakharov	episodes=1 episode, 2001 	
+character=Guiseppe	name=Frank Bongiorno	episodes=1 episode, 2001 	
+character=Chooch	name=John Freudiger	episodes=1 episode, 2001 	
+character=Professor Longo-Murphy	name=Roma Maffia	episodes=1 episode, 2002 	
+character=Saskia Kupferberg	name=Julie Goldman	episodes=1 episode, 2002 	
+character=Jessica	name=Vanessa Quijas	episodes=1 episode, 2002 	
+character=Felicia Galan	name=Paula Garcés	episodes=1 episode, 2004 	
+character=Lawrence Taylor	name=Lawrence Taylor	episodes=1 episode, 2004 	
+character=Iowa	name=Mitchell Burgess	episodes=1 episode, 2004 	
+character=Burgess	name=Mitchell Burgess	episodes=1 episode, 2004 	
+character=Jason Masucci	name=Paul Diomede	episodes=1 episode, 2004 	
+character=Gilbert Nieves	name=Santos	episodes=1 episode, 2004 	
+character=Aunt Dottie	name=Judith Malina	episodes=1 episode, 2006 	
+character=Fed 	name=Matthew Lawler	episodes=1 episode, 1999 	
+character=Jeremy Herrera	name=Douglas Santiago	episodes=1 episode, 1999 	
+character=Sammy Grigio	name=Salvatore Paul Piro	episodes=1 episode, 1999 	
+character=Russian Man	name=Slava Schoot	episodes=1 episode, 1999 	
+character=Taylor	name=Mary Ellen Cravens	episodes=1 episode, 1999 	
+character=Mullethead	name=Dan Morse	episodes=1 episode, 1999 	
+character=Band Leader 	name=Robert Anthony Lavalle	episodes=1 episode, 1999 	
+character=Michelle	name=Judy Reyes	episodes=1 episode, 2000 	
+character=Fran	name=Olga Merediz	episodes=1 episode, 2000 	
+character=Connie	name=Jennifer Albano	episodes=1 episode, 2000 	
+character=Mr. Sontag	name=Danton Stone	episodes=1 episode, 2000 	
+character=Rosie	name=Lydia Gaston	episodes=1 episode, 2000 	
+character=Policeman	name=Joe Pacheco	episodes=1 episode, 2000 	
+character=College Representative	name=Adam Alexi-Malle	episodes=1 episode, 2000 	
+character=Samantha Martin	name=Karen Giordano	episodes=1 episode, 2000 	
+character=Richie Aprile Jr.	name=Andy Blankenbuehler	episodes=1 episode, 2000 	
+character=Judge Greenspan	name=Sam Gray	episodes=1 episode, 2000 	
+character=Michele Foreman	name=Andrea Maulella	episodes=1 episode, 2000 	
+character=Judge Lapper	name=James Murtaugh	episodes=1 episode, 2001 	
+character=Edwina Fowley	name=Traci Godfrey	episodes=1 episode, 2001 	
+character=FBI Agent	name=Norman Max Maxwell	episodes=1 episode, 2001 	
+character=Len Tannenbaum	name=Michael Garfield	episodes=1 episode, 2001 	
+character=Dr. Rotelli	name=Victor Truro	episodes=1 episode, 2001 	
+character=Cop 	name=Charles Trucillo	episodes=1 episode, 2001 	
+character=Miles	name=Lorenzo Gregorio	episodes=1 episode, 2001 	
+character=Terri	name=Vanessa Liguori	episodes=1 episode, 2002 	
+character=Don Rictora Jr.	name=Ben Lipitz	episodes=1 episode, 2002 	
+character=David Pasquale	name=Adam Scarimbolo	episodes=1 episode, 2004 	
+character=Bernie Brillstein	name=Bernie Brillstein	episodes=1 episode, 2004 	
+character=Cheryl Kolpeki	name=Dawn Evans	episodes=1 episode, 2004 	
+character=Aunt Mary	name=Anna-Maria Gottfried	episodes=1 episode, 2004 	
+character=Monk 	name=Simon Sinn	episodes=1 episode, 2006 	
+character=Bibi	name=Nikki Dinki	episodes=1 episode, 2006 	
+character=Mother Superior	name=Lois Markle	episodes=1 episode, 2006 	
+character=Vito Spatafore, Jr.	name=Brandon Hannan	episodes=1 episode, 2007 	
+character=Larry	name=Joseph Adams	episodes=1 episode, 2007 	
+character=Salesperson	name=Guillermo Diaz	episodes=1 episode, 1999 	
+character=Fed 	name=Chance Kelly	episodes=1 episode, 1999 	
+character=Wendy Krim	name=Alexandra Neil	episodes=1 episode, 1999 	
+character=Woman at Party	name=Angelica Page	episodes=1 episode, 1999 	
+character=Mr. Meskimmin	name=Tim Williams	episodes=1 episode, 1999 	
+character=Nude Dancer	name=Desiree Kehoe	episodes=1 episode, 1999 	
+character=Russian Woman	name=Militza Ivanova	episodes=1 episode, 1999 	
+character=Rusty Irish	name=Christopher J. Quinn	episodes=1 episode, 1999 	
+character=Peter McClure	name=Bryan Greenberg	episodes=1 episode, 2000 	
+character=Cop	name=P.J. Brown	episodes=1 episode, 2000 	
+character=Larry Arthur	name=Chuck Montgomery	episodes=1 episode, 2000 	
+character=Mrs. Sontag	name=Melissa Weil	episodes=1 episode, 2000 	
+character=Bellman	name=Jason Minter	episodes=1 episode, 2000 	
+character=Joey	name=Charles Sammarco	episodes=1 episode, 2000 	
+character=Detective 	name=James Sioutis	episodes=1 episode, 2000 	
+character=Doctor	name=Timothy Huang	episodes=1 episode, 2000 	
+character=RN Collins	name=Tony Hale	episodes=1 episode, 2001 	
+character=Clerk	name=Zabryna Guevara	episodes=1 episode, 2001 	
+character=Cop 	name=David Warshofsky	episodes=1 episode, 2001 	
+character=FBI Agent	name=David Raymond Wagner	episodes=1 episode, 2001 	
+character=Waiter	name=Daniel T. Booth	episodes=1 episode, 2001 	
+character=P.A.	name=Joanie Ellen	episodes=1 episode, 2001 	
+character=Salesman	name=Tony Hoty	episodes=1 episode, 2002 	
+character=Dr. Phillip Seepman	name=Remy Auberjonois	episodes=1 episode, 2004 	
+character=Coach Molinaro	name=Charley Scalies	episodes=1 episode, 2004 	
+character=Tommy	name=Ed Setrakian	episodes=1 episode, 2004 	
+character=Nadia	name=Lindsey Kraft	episodes=1 episode, 2006 	
+character=Michael Kardish	name=Adam Trese	episodes=1 episode, 2006 	
+character=Bill Kurtis	name=Bill Kurtis	episodes=1 episode, 2006 	
+character=Detective DeLeon	name=Danny Johnson	episodes=1 episode, 2006 	
+character=Salvatore	name=Peter Allas	episodes=1 episode, 2006 	
+character=Nurse Fiona Macken	name=Sandra Daley	episodes=1 episode, 2006 	
+character=Mr. Caravalho	name=Rob Falcone	episodes=1 episode, 2006 	
+character=Itzhak	name=Brian D. Coats	episodes=1 episode, 2007 	
+character=Card Player	name=Dave Salerno	episodes=1 episode, 1999 	
+character=Manager	name=Ken Prymus	episodes=1 episode, 1999 	
+character=Kid 	name=Daniel Hilt	episodes=1 episode, 1999 	
+character=Phil Lito	name=Daniel Hilt	episodes=1 episode, 1999 	
+character=Trucker	name=Joseph Tudisco	episodes=1 episode, 1999 	
+character=Detective 	name=Tim Kirkpatrick	episodes=1 episode, 1999 	
+character=Moldonado	name=Steve Ferguson	episodes=1 episode, 1999 	
+character=Bouncer	name=Michael Parr	episodes=1 episode, 1999 	
+character=Tracy	name=Sabine Singh	episodes=1 episode, 2000 	
+character=Jr. Sontag	name=Jason Fuchs	episodes=1 episode, 2000 	
+character=Detective Ramos	name=Antone Pagán	episodes=1 episode, 2000 	
+character=Quintina	name=Barbara Andres	episodes=1 episode, 2000 	
+character=Beansie	name=Antonette Schwartzberg	episodes=1 episode, 2000 	
+character=Mother	name=Antonette Schwartzberg	episodes=1 episode, 2000 	
+character=Duty Nurse	name=Tertia Lynch	episodes=1 episode, 2000 	
+character=Felicia Ann	name=Lisa Valens	episodes=1 episode, 2000 	
+character=Gudren	name=Angela Covington	episodes=1 episode, 2000 	
+character=Russian Woman	name=Elena Antonenko	episodes=1 episode, 2000 	
+character=Stasiu	name=Marek Przystup	episodes=1 episode, 2000 	
+character=Homeless Woman	name=Yvette Mercedes	episodes=1 episode, 2001 	
+character=Dr. Enloe	name=Zachary Knower	episodes=1 episode, 2001 	
+character=Woman in Car	name=Anna Mastroianni	episodes=1 episode, 2001 	
+character=Lisa	name=Crystal Allen	episodes=1 episode, 2002 	
+character=Credenso Curtis	name=Curtiss Cook	episodes=1 episode, 2002 	
+character=Teddy Genaretti	name=Santo Fazio	episodes=1 episode, 2002 	
+character=Evelyn Greenwood	name=Chandra Wilson	episodes=1 episode, 2004 	
+character=Raoul	name=Omar Chagall	episodes=1 episode, 2004 	
+character=Kenny Giacolone	name=Ivan Martin	episodes=1 episode, 2006 	
+character=Detective Klinger	name=Ted Koch	episodes=1 episode, 2006 	
+character=Rae 	name=Donna Villella	episodes=1 episode, 2006 	
+character=Rafaella	name=Donna Villella	episodes=1 episode, 2006 	
+character=Martino	name=Donna Villella	episodes=1 episode, 2006 	
+character=Martha	name=Casey O	episodes=1 episode, 2006 	
+character=Martha	name=Brien	episodes=1 episode, 2006 	
+character=Stacey	name=Adira Amram	episodes=1 episode, 2006 	
+character=Detective Gaudioso	name=Eric Morace	episodes=1 episode, 2007 	
+character=George	name=Stanley Harrison	episodes=1 episode, 2007 	
+character=Bride	name=Brooke Marie Procida	episodes=1 episode, 1999 	
+character=Antjuan	name=Sharif Rashed	episodes=1 episode, 1999 	
+character=Miss Marris	name=Jennifer Wiltsie	episodes=1 episode, 1999 	
+character=Teacher	name=Raymond Michael Karl	episodes=1 episode, 1999 	
+character=Detective 	name=Peter Bretz	episodes=1 episode, 1999 	
+character=Delivery Boy	name=Brian Guzman	episodes=1 episode, 1999 	
+character=Gaetano Giarizzo	name=Stelio Savante	episodes=1 episode, 2000 	
+character=Woman Smoker	name=Ilene Kristen	episodes=1 episode, 2000 	
+character=Caller 	name=Philipp Karner	episodes=1 episode, 2000 	
+character=Ralph Giorgio	name=John Mariano	episodes=1 episode, 2000 	
+character=Maitre	name=James Biberi	episodes=1 episode, 2000 	
+character=Cynthia	name=Oni Faida Lampley	episodes=1 episode, 2000 	
+character=Flight Attendant	name=David Anzuelo	episodes=1 episode, 2000 	
+character=Sis Sontag	name=Jessica Peters	episodes=1 episode, 2000 	
+character=Matt Bonpensiero	name=Steve Porcelli	episodes=1 episode, 2000 	
+character=ER Doctor	name=Stephen Kunken	episodes=1 episode, 2001 	
+character=Anesthesiologist	name=James Shanklin	episodes=1 episode, 2001 	
+character=Mackenzie Trucillo	name=Danielle Cautela	episodes=1 episode, 2001 	
+character=Martin	name=Michael Patterson	episodes=1 episode, 2001 	
+character=Young Jackie Jr.	name=Matt Cerbone	episodes=1 episode, 2001 	
+character=Police Officer	name=Richard Verdinio	episodes=1 episode, 2001 	
+character=Frank Crisci	name=Richard Bright	episodes=1 episode, 2002 	
+character=Nina	name=Sabrina Gennarino	episodes=1 episode, 2002 	
+character=Cheokay	name=Omar Scroggins	episodes=1 episode, 2002 	
+character=Stanley Johnson	name=Universal	episodes=1 episode, 2002 	
+character=Robert Harris	name=Dennis Carrig	episodes=1 episode, 2002 	
+character=Dr. Rene Katz	name=David Deblinger	episodes=1 episode, 2004 	
+character=Officer Yorn	name=John Elsen	episodes=1 episode, 2004 	
+character=Edward 	name=Philip Larocca	episodes=1 episode, 2004 	
+character=Duke	name=Philip Larocca	episodes=1 episode, 2004 	
+character=Bonpensiero	name=Philip Larocca	episodes=1 episode, 2004 	
+character=Vic Caputo	name=Joseph Leone	episodes=1 episode, 2006 	
+character=Eli Kaplan	name=Geoffrey Cantor	episodes=1 episode, 2007 	
+character=Walter	name=George Riddle	episodes=1 episode, 2007 	
+character=Rene LeCours	name=Marc Bonan	episodes=1 episode, 2007 	
+character=Stripper	name=Theresa Lynn	episodes=1 episode, 1999 	
+character=Gallegos	name=Jessy Terrero	episodes=1 episode, 1999 	
+character=Capman	name=Mark Belasco	episodes=1 episode, 1999 	
+character=Guy on Bridge	name=Donn Swaby	episodes=1 episode, 1999 	
+character=Joseph Melfi	name=Bill Richardone	episodes=1 episode, 1999 	
+character=Choir Member	name=Joshua Benevento	episodes=1 episode, 1999 	
+character=Stace	name=Elizabeth Reaser	episodes=1 episode, 2000 	
+character=Nurse	name=Gameela Wright	episodes=1 episode, 2000 	
+character=Antonio	name=Gano Grills	episodes=1 episode, 2000 	
+character=Carole Arthur	name=Molly Regan	episodes=1 episode, 2000 	
+character=Mrs. Gaetano	name=Barbara Gulan	episodes=1 episode, 2000 	
+character=Sylvia	name=Katrina Lantz	episodes=1 episode, 2000 	
+character=Man	name=George Xhilone	episodes=1 episode, 2000 	
+character=Old Guy	name=Tony Rigo	episodes=1 episode, 2000 	
+character=Acting Student	name=Scott Lucy	episodes=1 episode, 2000 	
+character=Meadow	name=Kathleen Fasolino	episodes=1 episode, 2000 	
+character=Friend	name=Kathleen Fasolino	episodes=1 episode, 2000 	
+character=Kelli Aprile	name=Melissa Marsala	episodes=1 episode, 2001 	
+character=Detective Piersol	name=Jill Marie Lawrence	episodes=1 episode, 2001 	
+character=Mandee	name=Michette Ardente	episodes=1 episode, 2001 	
+character=Service Manager	name=Stephen Peabody	episodes=1 episode, 2001 	
+character=Driver	name=Ronobir Lahiri	episodes=1 episode, 2002 	
+character=Alfred	name=Stan Carp	episodes=1 episode, 2002 	
+character=Misty Giaculo	name=Danyelle Freeman	episodes=1 episode, 2002 	
+character=Stan Gurman	name=Richard Ziman	episodes=1 episode, 2002 	
+character=Uncle Maurizio	name=Nino DelDuca	episodes=1 episode, 2002 	
+character=V.I. Trifunovitch	name=George Spaventa	episodes=1 episode, 2002 	
+character=Supervisor Jimmy Curran	name=Michael Pemberton	episodes=1 episode, 2004 	
+character=Reporter	name=Sukanya Krishnan	episodes=1 episode, 2004 	
+character=Chick Philips	name=Kevin Hagan	episodes=1 episode, 2004 	
+character=Fred Mosconi, M.D.	name=Joseph Costa	episodes=1 episode, 2004 	
+character=Coffeehouse Manager	name=Jayson Ward Williams	episodes=1 episode, 2006 	
+character=Anchorwoman	name=Alisha Davis	episodes=1 episode, 2007 	
+character=Yo Yo Mendez	name=Shawn McLean	episodes=1 episode, 1999 	
+character=Waiter	name=Patrick Husted	episodes=1 episode, 1999 	
+character=Barb Wagner	name=Elizabeth Ann Townsend	episodes=1 episode, 1999 	
+character=Eggie	name=Sonny Zito	episodes=1 episode, 1999 	
+character=Mr. Miller	name=David Moritt	episodes=1 episode, 1999 	
+character=Choir Member	name=Joanne Caselli	episodes=1 episode, 1999 	
+character=Omar	name=Ajay Naidu	episodes=1 episode, 2000 	
+character=Waiter	name=Anthony Alessandro	episodes=1 episode, 2000 	
+character=Blaine Richardson	name=Asa Somers	episodes=1 episode, 2000 	
+character=Surgical Nurse	name=Laurine Towler	episodes=1 episode, 2000 	
+character=Hooker	name=La Tanya Hall	episodes=1 episode, 2000 	
+character=Airport Guard	name=Ray Garvey	episodes=1 episode, 2000 	
+character=Marie	name=Patricia Mauceri	episodes=1 episode, 2001 	
+character=Jesus Rossi	name=Mario Polit	episodes=1 episode, 2001 	
+character=Father Nicolai	name=Bill Kocis	episodes=1 episode, 2001 	
+character=Student Advisor	name=Chris Hogan	episodes=1 episode, 2002 	
+character=Security Guard	name=Jason Furlani	episodes=1 episode, 2002 	
+character=Etan	name=Modi	episodes=1 episode, 2002 	
+character=Colin McDermott	name=Evan Neumann	episodes=1 episode, 2002 	
+character=Chris	name=Jeff Robins	episodes=1 episode, 2002 	
+character=Shane Petrzelka	name=Samuel Allen	episodes=1 episode, 2002 	
+character=Todd Herman	name=Bruce Kronenberg	episodes=1 episode, 2004 	
+character=Catherine Lipman	name=Gina Tognoni	episodes=1 episode, 2006 	
+character=Charles Russamano	name=Gene Ruffini	episodes=1 episode, 2006 	
+character=Renata	name=Lanette Ware	episodes=1 episode, 2007 	
+character=Keith	name=Ptolemy Slocum	episodes=1 episode, 2007 	
+character=Judge Woronow	name=Matt Fischel	episodes=1 episode, 2007 	
+character=Truck Driver	name=Manny Siverio	episodes=1 episode, 1999 	
+character=Becky	name=Marissa Jedell	episodes=1 episode, 1999 	
+character=Police Officer	name=Cedric Turner	episodes=1 episode, 1999 	
+character=Choir Member	name=Richard Davis	episodes=1 episode, 1999 	
+character=Mitch	name=Robert Prescott	episodes=1 episode, 2000 	
+character=Vice Principal	name=David Healy	episodes=1 episode, 2000 	
+character=Detective Giardina	name=Vince Viverito	episodes=1 episode, 2000 	
+character=Caller 	name=Wayne Pretlow	episodes=1 episode, 2000 	
+character=Aide	name=Kellie Turner	episodes=1 episode, 2000 	
+character=Nurse	name=Kellie Turner	episodes=1 episode, 2000 	
+character=Pizza Kid	name=Craig Wojcik	episodes=1 episode, 2000 	
+character=Host	name=Frankie Caero	episodes=1 episode, 2000 	
+character=Agent Malatesta	name=Colleen Werthmann	episodes=1 episode, 2001 	
+character=Stripper 	name=Luiza Liccini	episodes=1 episode, 2001 	
+character=Mother	name=Domenica Galati	episodes=1 episode, 2001 	
+character=Receptionist	name=Sheila Gibbs	episodes=1 episode, 2001 	
+character=Cholo 	name=Anthony Zayas	episodes=1 episode, 2001 	
+character=Ellen McDermott	name=Elaine Bromka	episodes=1 episode, 2002 	
+character=Self	name=Montel Williams	episodes=1 episode, 2002 	
+character=Rose	name=Lisa Altomare	episodes=1 episode, 2002 	
+character=Dr. Sarah Klum	name=Felicity LaFortune	episodes=1 episode, 2004 	
+character=Bradley Stafford	name=Jim Wisniewski	episodes=1 episode, 2004 	
+character=Freddy Di Novi	name=Frank Ammirati	episodes=1 episode, 2004 	
+character=Lee Nieman	name=Sid Davidoff	episodes=1 episode, 2004 	
+character=Julian	name=Alberto Vazquez	episodes=1 episode, 2006 	
+character=Martina	name=Manuela Feris	episodes=1 episode, 2006 	
+character=Dale Hutchins	name=T.R. Shields III	episodes=1 episode, 2006 	
+character=Ascot Man	name=Kevin Kean Murphy	episodes=1 episode, 2007 	
+character=Teenager	name=Joey Scala	episodes=1 episode, 2007 	
+character=Special K	name=J.D. Williams	episodes=1 episode, 1999 	
+character=Shelly Hauser	name=Connor	episodes=1 episode, 1999 	
+character=Shelly Hauser	name=Joyce Lynn O	episodes=1 episode, 1999 	
+character=Choir Member	name=Steve Ferrara	episodes=1 episode, 1999 	
+character=Brenda	name=Phyllis Somerville	episodes=1 episode, 2000 	
+character=Funeral Guest	name=Beatrice Winde	episodes=1 episode, 2000 	
+character=Michael McLuhan	name=Ron Lee Jones	episodes=1 episode, 2000 	
+character=Priest	name=David McCann	episodes=1 episode, 2000 	
+character=Mother	name=Pina Cutolo	episodes=1 episode, 2000 	
+character=Agent Jongsma	name=Jay Alan Christianson	episodes=1 episode, 2001 	
+character=Epsilon Zet	name=Kieran Campion	episodes=1 episode, 2001 	
+character=Little Boy	name=Tyler Gulizio	episodes=1 episode, 2001 	
+character=Stripper 	name=Marie Athanasiou	episodes=1 episode, 2001 	
+character=Cholo 	name=Freddy Martinez	episodes=1 episode, 2001 	
+character=Phillip Di Notti	name=Joseph R. Sicari	episodes=1 episode, 2002 	
+character=Prabhat	name=Gurdeep Singh	episodes=1 episode, 2002 	
+character=Dimaggio	name=Joseph Castellana	episodes=1 episode, 2002 	
+character=Lou 	name=Joseph Castellana	episodes=1 episode, 2002 	
+character=Galina	name=Joseph Castellana	episodes=1 episode, 2002 	
+character=Allison Pak	name=Susan Jhun	episodes=1 episode, 2002 	
+character=Neckbreakers	name=Jeff E. Surawski	episodes=1 episode, 2002 	
+character=The Swingin	name=Jeff E. Surawski	episodes=1 episode, 2002 	
+character=Corky DiGioia	name=Duke Valenti	episodes=1 episode, 2004 	
+character=Walter	name=Adam Sietz	episodes=1 episode, 2004 	
+character=Asa Silverman	name=David Little	episodes=1 episode, 2004 	
+character=Tom McMillan	name=James Flaherty	episodes=1 episode, 2004 	
+character=Lester DeAngelis	name=Vince Stefani	episodes=1 episode, 2004 	
+character=Attractive Woman	name=Michelle Huber	episodes=1 episode, 2004 	
+character=Dr. Abu Bilal	name=Aasif Mandvi	episodes=1 episode, 2006 	
+character=Sarah	name=Abigail Marlowe	episodes=1 episode, 2006 	
+character=Photographer	name=Clyde Baldo	episodes=1 episode, 2006 	
+character=Eddie Lind	name=Dennis Predovic	episodes=1 episode, 2006 	
+character=Surveyor	name=Ed Kershen	episodes=1 episode, 2007 	
+character=Ramon	name=Gaston Renaud	episodes=1 episode, 2007 	
+character=Kid 	name=James Spector	episodes=1 episode, 1999 	
+character=Choir Member	name=Margie Freeswick	episodes=1 episode, 1999 	
+character=Kevin	name=Kevin Sussman	episodes=1 episode, 2000 	
+character=Sundeep	name=Ajay Mehta	episodes=1 episode, 2000 	
+character=Dealer	name=Carmine Sirico	episodes=1 episode, 2000 	
+character=Camillo	name=Lello Giulivo	episodes=1 episode, 2000 	
+character=Sanitation Worker	name=Louis Petraglia	episodes=1 episode, 2000 	
+character=Cadet Delaunay	name=Ryan Homchick	episodes=1 episode, 2001 	
+character=Carlos	name=Michael Matera	episodes=1 episode, 2001 	
+character=Cholo 	name=Cesar De León	episodes=1 episode, 2001 	
+character=Agent Theophilos	name=Dennis Gagomiros	episodes=1 episode, 2001 	
+character=Security Guard	name=Peter Byrne	episodes=1 episode, 2001 	
+character=Girl	name=Cyndi Ramirez	episodes=1 episode, 2001 	
+character=Little Girl	name=Loulou Katz	episodes=1 episode, 2001 	
+character=Joe	name=William DaRuffa	episodes=1 episode, 2001 	
+character=Professor Del Redclay	name=Larry Sellers	episodes=1 episode, 2002 	
+character=Norman	name=David Pittu	episodes=1 episode, 2002 	
+character=Dave Fusco	name=Mark Lotito	episodes=1 episode, 2002 	
+character=Print Newsman	name=Rob Leo Roy	episodes=1 episode, 2002 	
+character=Rahimah	name=Soundis Bardu	episodes=1 episode, 2002 	
+character=The Swingin	name=John Clark Jorgensen	episodes=1 episode, 2002 	
+character=Neckbreakers	name=John Clark Jorgensen	episodes=1 episode, 2002 	
+character=Clerk	name=Angela Bullock	episodes=1 episode, 2004 	
+character=Security Guard	name=Angelo Di Mascio Jr.	episodes=1 episode, 2004 	
+character=Stewart Silverman	name=Leon Wieseltier	episodes=1 episode, 2004 	
+character=ER Doctor	name=Christopher Evan Welch	episodes=1 episode, 2006 	
+character=Rudy Diaz	name=Ash Roeca	episodes=1 episode, 2006 	
+character=Photographer	name=Melissa Schneider	episodes=1 episode, 2006 	
+character=Assistant	name=Melissa Schneider	episodes=1 episode, 2006 	
+character=Cyclist	name=Bambadjan Bamba	episodes=1 episode, 2007 	
+character=Petey B.	name=Peter Bucossi	episodes=1 episode, 2007 	
+character=Esteban	name=Serafin Falcon	episodes=1 episode, 2007 	
+character=Stan	name=Greg Connolly	episodes=1 episode, 2007 	
+character=Woman	name=Corrine Stella	episodes=1 episode, 1999 	
+character=Contractor	name=John Nacco	episodes=1 episode, 1999 	
+character=Choir Member	name=Scott Greco	episodes=1 episode, 1999 	
+character=Nino	name=Antonio Lubrano	episodes=1 episode, 2000 	
+character=Siraj	name=Remy K. Selma	episodes=1 episode, 2000 	
+character=Lee	name=Roberto Thomas	episodes=1 episode, 2000 	
+character=Indian Man	name=Jay Palit	episodes=1 episode, 2000 	
+character=Agent Tancredi	name=Neal Jones	episodes=1 episode, 2001 	
+character=Dov Ginsberg	name=Michael Hogan	episodes=1 episode, 2001 	
+character=Punked-Out Coed	name=Megan Curry	episodes=1 episode, 2001 	
+character=Angelo Davis	name=Malcolm Barrett	episodes=1 episode, 2002 	
+character=Maggie Donner	name=Alex Rice	episodes=1 episode, 2002 	
+character=Stella	name=Roberta Wallach	episodes=1 episode, 2002 	
+character=Foreman	name=Chuck Lewkowicz	episodes=1 episode, 2002 	
+character=Newspaper Reporter	name=Frankie Pace	episodes=1 episode, 2002 	
+character=Marshal	name=Humberto Gettys	episodes=1 episode, 2002 	
+character=Doctor	name=Cristina Ablaza	episodes=1 episode, 2002 	
+character=The Swingin	name=Thomas Jorgensen	episodes=1 episode, 2002 	
+character=Neckbreakers	name=Thomas Jorgensen	episodes=1 episode, 2002 	
+character=Dealer 	name=Kimberly Guerrero	episodes=1 episode, 2004 	
+character=Soccer Mom	name=Finnerty Steeves	episodes=1 episode, 2004 	
+character=Jade Escort	name=Didi Wong	episodes=1 episode, 2004 	
+character=Estela	name=Bethany Therese	episodes=1 episode, 2004 	
+character=Wanda	name=Hilda Evans	episodes=1 episode, 2004 	
+character=Sicilian	name=Paolo Pagliacolo	episodes=1 episode, 2004 	
+character=Zev Charney	name=Josh Pais	episodes=1 episode, 2006 	
+character=Mr. Fahim Ulleh Kahn	name=Laith Nakli	episodes=1 episode, 2006 	
+character=Michel	name=Alexandre Varga	episodes=1 episode, 2006 	
+character=Ramon	name=Marcos Muniz	episodes=1 episode, 2006 	
+character=John Campisi	name=Biagio Tripodi	episodes=1 episode, 2006 	
+character=Lynn	name=Christina Cabot	episodes=1 episode, 2007 	
+character=Steve	name=Clarke Thorell	episodes=1 episode, 2007 	
+character=Old Mutt	name=Peter Caporale	episodes=1 episode, 2007 	
+character=Soccer Ref	name=Bill Winkler	episodes=1 episode, 1999 	
+character=Lance	name=Anthony Tavaglione	episodes=1 episode, 1999 	
+character=Choir Member	name=Jennifer Jenkins	episodes=1 episode, 1999 	
+character=Nurse	name=Janet Bushor	episodes=1 episode, 2000 	
+character=Pino	name=Guido Palliggiano	episodes=1 episode, 2000 	
+character=Pizza Customer	name=Steve Grillo	episodes=1 episode, 2001 	
+character=Woman	name=Sheelagh Tellerday	episodes=1 episode, 2001 	
+character=Bob Berg	name=Jordan Gelber	episodes=1 episode, 2002 	
+character=Administrator	name=Heather MacRae	episodes=1 episode, 2002 	
+character=Desk Girl	name=Sharon Avendano	episodes=1 episode, 2002 	
+character=Nelson	name=George T. Odom	episodes=1 episode, 2004 	
+character=Lena Fegoli	name=Barbara Caruso	episodes=1 episode, 2004 	
+character=Fran	name=Maria Baan	episodes=1 episode, 2004 	
+character=Sea Scout 	name=Jelani Jeffries	episodes=1 episode, 2004 	
+character=Soccer Dad	name=Chris Juell	episodes=1 episode, 2004 	
+character=Mrs. Fahim Ulleh Kahn	name=Jacqueline Antaramian	episodes=1 episode, 2006 	
+character=Joan Gillespie	name=Susan Varon	episodes=1 episode, 2006 	
+character=Salesman	name=Lee R. Sellars	episodes=1 episode, 2006 	
+character=Head Waiter	name=Michel Winogradoff	episodes=1 episode, 2006 	
+character=Dr. Ajit Gupte	name=Maulik Pancholy	episodes=1 episode, 2007 	
+character=Alan Kaplan	name=Mark La Mura	episodes=1 episode, 2007 	
+character=Back-Up Singer	name=A.J. Lambert	episodes=1 episode, 2007 	
+character=Roberto	name=Davide Borella	episodes=1 episode, 2007 	
+character=George Pagilieri	name=Peter Mele	episodes=1 episode, 2007 	
+character=Orderly	name=Chester West	episodes=1 episode, 2007 	
+character=Choir Member	name=Caroline Killian	episodes=1 episode, 1999 	
+character=Orderly	name=Robert G. McKay	episodes=1 episode, 2000 	
+character=Prostitute	name=Alida Tarallo	episodes=1 episode, 2000 	
+character=Joe Zachary	name=Tim Gallin	episodes=1 episode, 2001 	
+character=Lisa Cestone	name=Margo Singaliese	episodes=1 episode, 2001 	
+character=Club Kid	name=Gregory Russell Cook	episodes=1 episode, 2001 	
+character=Petey	name=Michael Variano	episodes=1 episode, 2001 	
+character=Second Dancer	name=Rosie Chavolino	episodes=1 episode, 2001 	
+character=Alfie	name=Michael Godere	episodes=1 episode, 2002 	
+character=Matt De Blasi	name=Matt Unger	episodes=1 episode, 2002 	
+character=Florida Hit Man	name=Stephen Sable	episodes=1 episode, 2002 	
+character=Richard	name=Joe Narciso	episodes=1 episode, 2002 	
+character=Brad Miller	name=Sidney Williams	episodes=1 episode, 2002 	
+character=Jerry Basile	name=Garry Pastore	episodes=1 episode, 2004 	
+character=Waitress	name=Julian Wells	episodes=1 episode, 2004 	
+character=Charles	name=Dean Edwards	episodes=1 episode, 2004 	
+character=Andrew	name=Cal Robertson	episodes=1 episode, 2004 	
+character=Kim	name=Lisa Regina	episodes=1 episode, 2004 	
+character=Dale	name=Jackson Loo	episodes=1 episode, 2004 	
+character=Sea Scout 	name=Esley Tate	episodes=1 episode, 2004 	
+character=Referee	name=Richard Byrne	episodes=1 episode, 2004 	
+character=Charlie Garepe	name=Jimmy Collins	episodes=1 episode, 2004 	
+character=Deputy Featham	name=Mike Pniewski	episodes=1 episode, 2006 	
+character=Amy	name=Arabella Field	episodes=1 episode, 2006 	
+character=Biker 	name=Jeremy Schwartz	episodes=1 episode, 2006 	
+character=Otto	name=Noah Keen	episodes=1 episode, 2006 	
+character=Omar	name=Rick Gifford	episodes=1 episode, 2006 	
+character=Gendarme	name=Doug Rand	episodes=1 episode, 2006 	
+character=Afaf Kahn	name=Afeefa Ayube	episodes=1 episode, 2006 	
+character=Tara Zincone	name=Melanie Minichino	episodes=1 episode, 2007 	
+character=Nurse	name=Donnetta Lavinia Grays	episodes=1 episode, 2007 	
+character=Donna Amato	name=Sistina Giordano	episodes=1 episode, 2007 	
+character=Jesus Selgado	name=Carlos Morales	episodes=1 episode, 2007 	
+character=Choir Member	name=Simone Peart	episodes=1 episode, 1999 	
+character=ER Doctor	name=Amy Redford	episodes=1 episode, 2000 	
+character=Dr. Baumgartner	name=Roy Thinnes	episodes=1 episode, 2000 	
+character=Kid	name=Alex Toma	episodes=1 episode, 2000 	
+character=Cop	name=Larry Clarke	episodes=1 episode, 2001 	
+character=Male Student	name=Perez Hilton	episodes=1 episode, 2001 	
+character=Manager	name=Erik Weiner	episodes=1 episode, 2001 	
+character=S.E.T. Lineman	name=John DeBlasio	episodes=1 episode, 2001 	
+character=House Boy	name=Ramon Fernandez	episodes=1 episode, 2002 	
+character=Policeman 	name=Bruce Kirkpatrick	episodes=1 episode, 2002 	
+character=Student	name=Rufus Read	episodes=1 episode, 2002 	
+character=Clerk	name=Bill Garvey	episodes=1 episode, 2002 	
+character=Drug Dealer	name=Carlos Pizarro	episodes=1 episode, 2002 	
+character=Todd	name=Adam Rose	episodes=1 episode, 2004 	
+character=Bela Kakuk	name=Adam Grupper	episodes=1 episode, 2004 	
+character=Mirsa	name=Teresa Yenque	episodes=1 episode, 2004 	
+character=Patti	name=Barbara Christabella	episodes=1 episode, 2004 	
+character=Curtis	name=Bill Rowe	episodes=1 episode, 2004 	
+character=Secretary 	name=Adrienne D. Williams	episodes=1 episode, 2004 	
+character=Bing Girl	name=Mia Troche	episodes=1 episode, 2004 	
+character=Judy	name=Karen Lynn Gorney	episodes=1 episode, 2006 	
+character=Kevin Mucci	name=Danny Mastrogiorgio	episodes=1 episode, 2006 	
+character=Deputy Mayweather	name=Jeff Joseph	episodes=1 episode, 2006 	
+character=Hollings	name=Brian O	episodes=1 episode, 2006 	
+character=Hollings	name=Neill	episodes=1 episode, 2006 	
+character=Viper	name=Vic Noto	episodes=1 episode, 2006 	
+character=Psychologist	name=Jason Edwards	episodes=1 episode, 2006 	
+character=Aaron Schaffer	name=Neal Benari	episodes=1 episode, 2006 	
+character=Dispatcher	name=Paul DePasquale	episodes=1 episode, 2006 	
+character=Waiter	name=Luc Sonzogni	episodes=1 episode, 2006 	
+character=Farhad	name=Richard Dezmond	episodes=1 episode, 2006 	
+character=Anika	name=Jen Araki	episodes=1 episode, 2007 	
+character=Yaryna	name=Aleks Shaklin	episodes=1 episode, 2007 	
+character=Father	name=Aleks Shaklin	episodes=1 episode, 2007 	
+character=Belinda	name=Belinda Bissonnette	episodes=1 episode, 2007 	
+character=Priest	name=Don Striano	episodes=1 episode, 2007 	
+character=Choir Member	name=Kristen Schmalz	episodes=1 episode, 1999 	
+character=Tanno	name=Giuseppe Zeno	episodes=1 episode, 2000 	
+character=Officer Wilmore	name=Charles S. Dutton	episodes=1 episode, 2001 	
+character=Father L	name=Dick Latessa	episodes=1 episode, 2001 	
+character=Oiseau	name=Dick Latessa	episodes=1 episode, 2001 	
+character=Store Employee	name=Capathia Jenkins	episodes=1 episode, 2001 	
+character=Bill Owens	name=Steve Mellor	episodes=1 episode, 2001 	
+character=Janitor	name=David Ross	episodes=1 episode, 2001 	
+character=S.E.T. 	name=Anthony Indelicato	episodes=1 episode, 2001 	
+character=Policeman 	name=Gene Gabriel	episodes=1 episode, 2002 	
+character=Darlene	name=Marilyn Matarrese	episodes=1 episode, 2002 	
+character=Street Punk	name=Herman Chavez	episodes=1 episode, 2002 	
+character=Bada Bing Bartender	name=Elena Aaron	episodes=1 episode, 2002 	
+character=Mecomia Williams	name=Messeret Stroman	episodes=1 episode, 2002 	
+character=News Anchor	name=Paul Messina	episodes=1 episode, 2002 	
+character=Cousin Grace	name=Mary Aguilar	episodes=1 episode, 2002 	
+character=Dealer	name=Sam Guncler	episodes=1 episode, 2002 	
+character=Secretary 	name=Yvonne Jung	episodes=1 episode, 2004 	
+character=Lem	name=Gabriel Millman	episodes=1 episode, 2004 	
+character=Ignatz Pravalkis	name=Bob Shaw	episodes=1 episode, 2004 	
+character=Store Clerk	name=Chandler Parker	episodes=1 episode, 2004 	
+character=Bernice	name=Anna Maniscalco	episodes=1 episode, 2004 	
+character=Lissie Kolpeki	name=Gabby Pineo	episodes=1 episode, 2004 	
+character=Louie Ramos	name=Angel Caban	episodes=1 episode, 2004 	
+character=Shabazz	name=Michael Isaiah Johnson	episodes=1 episode, 2004 	
+character=Rene Cabot Moskowitz	name=Rebecca Wisocky	episodes=1 episode, 2006 	
+character=Daryl	name=Piter Marek	episodes=1 episode, 2006 	
+character=Kloski	name=John Rue	episodes=1 episode, 2006 	
+character=Carty	name=James Hindman	episodes=1 episode, 2006 	
+character=Nurse	name=Fiana Toibin	episodes=1 episode, 2006 	
+character=Teddy	name=Ciaran Crawford	episodes=1 episode, 2006 	
+character=Judge	name=Lou Di Gennaro	episodes=1 episode, 2006 	
+character=Shopper	name=Marni Penning	episodes=1 episode, 2006 	
+character=Clista	name=Ginger Kroll	episodes=1 episode, 2007 	
+character=Gas Station Manager	name=Rajesh Bose	episodes=1 episode, 2007 	
+character=Evelyn	name=Susan Aston	episodes=1 episode, 2007 	
+character=Kevin	name=Chris Bashinelli	episodes=1 episode, 2007 	
+character=Choir Member	name=Danielle Spezzacatena	episodes=1 episode, 1999 	
+character=Hotel Manager	name=Riccardo Zinna	episodes=1 episode, 2000 	
+character=S.E.T. 	name=Murphy Guyer	episodes=1 episode, 2001 	
+character=EMT	name=Diego López	episodes=1 episode, 2001 	
+character=The Miami Relatives	name=Scout	episodes=1 episode, 2001 	
+character=Greg Erwitt	name=Brian McCormack	episodes=1 episode, 2002 	
+character=Betty Berman	name=Judith Anderson	episodes=1 episode, 2002 	
+character=Regina Hicks	name=Melissa Maxwell	episodes=1 episode, 2002 	
+character=Restaurant Bartender	name=Chris Mazzilli	episodes=1 episode, 2002 	
+character=Dr. Sharon Zalutsky	name=Ellen Orchid	episodes=1 episode, 2002 	
+character=Cabby	name=Burhan K. Uddin	episodes=1 episode, 2002 	
+character=Bernice	name=Marianna Paolo	episodes=1 episode, 2002 	
+character=Plaza Receptionist	name=Roslyn Ruff	episodes=1 episode, 2004 	
+character=UPS Guy	name=Carl Palmer	episodes=1 episode, 2004 	
+character=Jonah Dangler	name=Michael Goldstrom	episodes=1 episode, 2004 	
+character=Agent Reyes	name=Triney Sandoval	episodes=1 episode, 2004 	
+character=Josette	name=Hilary Flynn	episodes=1 episode, 2004 	
+character=Waiter	name=Bill Quigley	episodes=1 episode, 2004 	
+character=The Chesterfield Kings	name=Andy Babiuk	episodes=1 episode, 2004 	
+character=Local Woman	name=Georgianne Walken	episodes=1 episode, 2006 	
+character=Little Person	name=Nic Novicki	episodes=1 episode, 2006 	
+character=Scott	name=Eric Zuckerman	episodes=1 episode, 2006 	
+character=Devonna	name=Felicia Graham	episodes=1 episode, 2006 	
+character=Superintendent	name=Luis Ruiz	episodes=1 episode, 2006 	
+character=Priest	name=Gérald Hubert	episodes=1 episode, 2006 	
+character=Misha	name=Kate Rogal	episodes=1 episode, 2007 	
+character=Ted Yacanelli	name=Mason Pettit	episodes=1 episode, 2007 	
+character=Isabel	name=Merissa Morin	episodes=1 episode, 2007 	
+character=Andrea	name=Elizabeth Dennis	episodes=1 episode, 2007 	
+character=Jerry Capeci	name=Jerry Capeci	episodes=1 episode, 2007 	
+character=Mike	name=Nolan Carley	episodes=1 episode, 2007 	
+character=Choir Member	name=Michelle Spezzacatena	episodes=1 episode, 1999 	
+character=Guest 	name=Frank Adonis	episodes=1 episode, 2000 	
+character=D 	name=Frank Deal	episodes=1 episode, 2001 	
+character=R	name=Frank Deal	episodes=1 episode, 2001 	
+character=Football Dad	name=Peter Napoliello	episodes=1 episode, 2001 	
+character=Lead Singer - The Miami Relatives	name=Ashen Keilyn	episodes=1 episode, 2001 	
+character=Saleswoman	name=Monique Lola Berkley	episodes=1 episode, 2001 	
+character=Drew	name=Dimitri DeFresco	episodes=1 episode, 2001 	
+character=Reuben 	name=Yul Vazquez	episodes=1 episode, 2002 	
+character=Cuban	name=Yul Vazquez	episodes=1 episode, 2002 	
+character=Dr. Harrison Wong	name=Tim Kang	episodes=1 episode, 2002 	
+character=Lenore	name=Sally Stewart	episodes=1 episode, 2002 	
+character=Woman Friend	name=Diana Brownstone	episodes=1 episode, 2002 	
+character=Uncle Zio	name=Mario Pane	episodes=1 episode, 2002 	
+character=Flight Attendant	name=Solje Bergman	episodes=1 episode, 2002 	
+character=E. Gary La Manna	name=Michael Cavalieri	episodes=1 episode, 2004 	
+character=News Anchor	name=Andrew Siff	episodes=1 episode, 2004 	
+character=Agent Jeffries	name=John Viscardi	episodes=1 episode, 2004 	
+character=Technician	name=Charles Anthony Burks	episodes=1 episode, 2004 	
+character=Security Guard	name=Joe Moretti	episodes=1 episode, 2004 	
+character=Carl 	name=Vincenzo Ameruoso	episodes=1 episode, 2004 	
+character=Fat Carl	name=Vincenzo Ameruoso	episodes=1 episode, 2004 	
+character=Carlo	name=Vincenzo Ameruoso	episodes=1 episode, 2004 	
+character=Woman	name=Laurie Rosenwald	episodes=1 episode, 2004 	
+character=Teenage Tony Blundetto	name=Kyle Head	episodes=1 episode, 2004 	
+character=Man in the Crowd	name=Germel Younger	episodes=1 episode, 2004 	
+character=The Chesterfield Kings	name=Mike Boise	episodes=1 episode, 2004 	
+character=Evelyn McCone	name=Julie Boyd	episodes=1 episode, 2006 	
+character=Arab Taxi Driver	name=Chaouki El Ofir	episodes=1 episode, 2006 	
+character=Marvin	name=Lila Blake Palmer	episodes=1 episode, 2006 	
+character=Girlfriend	name=Lila Blake Palmer	episodes=1 episode, 2006 	
+character=Bald Guy	name=Scott Davidson	episodes=1 episode, 2006 	
+character=Spagnelli	name=David Francis Calderazzo	episodes=1 episode, 2006 	
+character=Nick 	name=David Francis Calderazzo	episodes=1 episode, 2006 	
+character=Spags	name=David Francis Calderazzo	episodes=1 episode, 2006 	
+character=Woman	name=Stephanie Szostak	episodes=1 episode, 2007 	
+character=Greg	name=Michael Gibson	episodes=1 episode, 2007 	
+character=Derek	name=Henry Glovinsky	episodes=1 episode, 2007 	
+character=Willie Overall	name=Herbert Rogers	episodes=1 episode, 2007 	
+character=Priest	name=Martin Gobbee	episodes=1 episode, 2007 	
+character=Choir Member	name=Jennifer Vohs	episodes=1 episode, 1999 	
+character=Guest 	name=Alan Levine	episodes=1 episode, 2000 	
+character=Leena	name=Lekel Russell	episodes=1 episode, 2001 	
+character=D 	name=Katie C. Sparer	episodes=1 episode, 2001 	
+character=R	name=Katie C. Sparer	episodes=1 episode, 2001 	
+character=Drummer - The Miami Relatives	name=Nigel Rawles	episodes=1 episode, 2001 	
+character=Delivery Guy	name=Emanuel Loarca	episodes=1 episode, 2002 	
+character=Waitress	name=Andrea Ciannavei	episodes=1 episode, 2002 	
+character=Dr. Donna Dechristafaro	name=Ava-Marie Carnevale	episodes=1 episode, 2002 	
+character=Loretta	name=Geany Masai	episodes=1 episode, 2002 	
+character=Agent Jim Ashe	name=Kelly AuCoin	episodes=1 episode, 2004 	
+character=Dr. Onkar Singh	name=Samrat Chakrabarti	episodes=1 episode, 2004 	
+character=Pierced Girl	name=Ginger Kearns	episodes=1 episode, 2004 	
+character=Gillian Glessner	name=Jennifer Rainville	episodes=1 episode, 2004 	
+character=FBI Agent 	name=Flint Beverage	episodes=1 episode, 2004 	
+character=Face in the Crowd	name=Mark McGann	episodes=1 episode, 2004 	
+character=Dan MacDonald	name=Rich Hebert	episodes=1 episode, 2004 	
+character=Bodyguard	name=Lou Savarese	episodes=1 episode, 2004 	
+character=Old Woman	name=Carolyn C. Buccino	episodes=1 episode, 2004 	
+character=The Chesterfield Kings	name=Paul Morabito	episodes=1 episode, 2004 	
+character=Priest	name=Andrew Eisenman	episodes=1 episode, 2004 	
+character=Thad McCone	name=Malachy Cleary	episodes=1 episode, 2006 	
+character=Babysitter	name=Amanda Magnavita	episodes=1 episode, 2006 	
+character=Senegalese Man 	name=Stéphane Soo Mongo	episodes=1 episode, 2006 	
+character=Nurses Aide	name=Barbara Pindle	episodes=1 episode, 2006 	
+character=Guest 	name=Paul Borghese	episodes=1 episode, 2000 	
+character=Little Bruce	name=Geoffrey Wigdor	episodes=1 episode, 2001 	
+character=Operator 	name=Frank Savino	episodes=1 episode, 2001 	
+character=Bassist - The Miami Relatives	name=Rimas Remeza	episodes=1 episode, 2001 	
+character=Felicia	name=Nichelle Hines	episodes=1 episode, 2002 	
+character=Call Girl	name=Natalie Light	episodes=1 episode, 2002 	
+character=Orderly	name=Debargo Sanyal	episodes=1 episode, 2002 	
+character=Jockey	name=Aaron Gryder	episodes=1 episode, 2002 	
+character=Prosecuting Attorney	name=Rosemarie Hue	episodes=1 episode, 2002 	
+character=Prison Inmate	name=James Lawrence	episodes=1 episode, 2002 	
+character=Vinny Pitts	name=Gino Cafarelli	episodes=1 episode, 2004 	
+character=Heather	name=Erin Stutland	episodes=1 episode, 2004 	
+character=FBI Agent 	name=Joe Rowley	episodes=1 episode, 2004 	
+character=Uncle Zio	name=Fred Caiaccia	episodes=1 episode, 2004 	
+character=Crowd Leader	name=Eric Seltzer	episodes=1 episode, 2004 	
+character=Delivery Guy	name=Jason Ongoco	episodes=1 episode, 2004 	
+character=Golfer	name=Joel Blum	episodes=1 episode, 2004 	
+character=Ken Wu	name=Nick Bosco	episodes=1 episode, 2004 	
+character=The Chesterfield Kings	name=Greg Prevost	episodes=1 episode, 2004 	
+character=Jill Dibiaso	name=Selenis Leyva	episodes=1 episode, 2006 	
+character=Nurse Gilbert Campos	name=Jojo Gonzalez	episodes=1 episode, 2006 	
+character=Mrs. Kimball	name=Susan Barnes Walker	episodes=1 episode, 2006 	
+character=Man in Crowd	name=Sonny Passero	episodes=1 episode, 2006 	
+character=Senegalese Man 	name=Christian Julien	episodes=1 episode, 2006 	
+character=Arnold Bellows	name=Adam Heller	episodes=1 episode, 2007 	
+character=Jesse	name=Josh Kay	episodes=1 episode, 2007 	
+character=Mary	name=Anita Salvate	episodes=1 episode, 2007 	
+character=Hotel Clerk	name=Patrick McNulty	episodes=1 episode, 2007 	
+character=Jamie Salerno	name=Allyssa Magliaro	episodes=1 episode, 2007 	
+character=Guest 	name=Russ Brunelli	episodes=1 episode, 2000 	
+character=Guitarist - The Miami Relatives	name=David Weintraub	episodes=1 episode, 2001 	
+character=Operator 	name=Paul Reggio	episodes=1 episode, 2001 	
+character=Joey the Cop	name=Nick Di Paolo	episodes=1 episode, 2002 	
+character=Cocktail Waitress	name=Jolan Boockvor	episodes=1 episode, 2002 	
+character=Veterinarian	name=Bruce Barney	episodes=1 episode, 2002 	
+character=Partygoer	name=Michael Zegen	episodes=1 episode, 2004 	
+character=Muzzy Nardo	name=Vic Martino	episodes=1 episode, 2004 	
+character=Cop	name=Scott Johnsen	episodes=1 episode, 2004 	
+character=Waiter	name=Demo DiMartile	episodes=1 episode, 2004 	
+character=Doorman	name=Connor	episodes=1 episode, 2004 	
+character=Doorman	name=Patrick J. O	episodes=1 episode, 2004 	
+character=Ron Senkowski	name=Daniel Stewart Sherman	episodes=1 episode, 2006 	
+character=Nurse Alfeo	name=Carmen López	episodes=1 episode, 2006 	
+character=Jen Fazio	name=Kristen Cerelli	episodes=1 episode, 2006 	
+character=Omni Clerk	name=Austin Jones	episodes=1 episode, 2006 	
+character=Old Man	name=Sal Darigo	episodes=1 episode, 2006 	
+character=Armando	name=Gustavo Cunha	episodes=1 episode, 2006 	
+character=Don	name=Leo Daignault	episodes=1 episode, 2006 	
+character=Senegalese Man 	name=Mamadou Sall	episodes=1 episode, 2006 	
+character=Mr. Bauer	name=Andrew Schneider	episodes=1 episode, 2006 	
+character=Bellman	name=Lin-Manuel Miranda	episodes=1 episode, 2007 	
+character=Stacey Bellows	name=Mimi Lieber	episodes=1 episode, 2007 	
+character=Max	name=Dillon Woolley	episodes=1 episode, 2007 	
+character=Lucy Salerno	name=Julia Thompson	episodes=1 episode, 2007 	
+character=Chuckie	name=Gary Lamadore	episodes=1 episode, 2000 	
+character=Pizza Customer 	name=Jessica Ripton	episodes=1 episode, 2001 	
+character=Wiseguy	name=Phil La Rocco	episodes=1 episode, 2001 	
+character=ER Doctor	name=Buddy Fitzpatrick	episodes=1 episode, 2002 	
+character=Plain Tribesman	name=Robert Salas	episodes=1 episode, 2002 	
+character=Photographer	name=John E. Kelly	episodes=1 episode, 2002 	
+character=Keryl	name=Shawn Leggett	episodes=1 episode, 2002 	
+character=Cop 	name=Myk Watford	episodes=1 episode, 2004 	
+character=Woman	name=Sarah Ireland	episodes=1 episode, 2004 	
+character=Guy	name=Colby Trane	episodes=1 episode, 2004 	
+character=Football Player	name=Barret Wall	episodes=1 episode, 2004 	
+character=Waspy Housewive	name=Julia Montgomery Brown	episodes=1 episode, 2006 	
+character=Teddy Spirodakis	name=Joe Caniano	episodes=1 episode, 2006 	
+character=Blinged-Out Girlfriend	name=Sallie Toussaint	episodes=1 episode, 2006 	
+character=Another Member	name=Jeff Williams	episodes=1 episode, 2006 	
+character=The Virgin Mary	name=Tanya P.	episodes=1 episode, 2006 	
+character=Benny Fazio, Sr.	name=Elia	episodes=1 episode, 2006 	
+character=Benny Fazio, Sr.	name=Mario D	episodes=1 episode, 2006 	
+character=Dylan	name=Nicolas Salgado	episodes=1 episode, 2007 	
+character=Yaolin	name=Connie Teng	episodes=1 episode, 2007 	
+character=Brad	name=Hunter Gallagher	episodes=1 episode, 2007 	
+character=Catherine	name=Mary Louise Wilson	episodes=1 episode, 2000 	
+character=Junkie	name=Jonny Spanish	episodes=1 episode, 2001 	
+character=Jason	name=Etan Maiti	episodes=1 episode, 2001 	
+character=Native American Woman 	name=Irma-Estel Laguerre	episodes=1 episode, 2002 	
+character=Jemilo	name=Philliph Oden	episodes=1 episode, 2002 	
+character=Sukhjit Khan	name=Manu Narayan	episodes=1 episode, 2004 	
+character=Hysterical Woman	name=Joanna Bonaro	episodes=1 episode, 2004 	
+character=Bellman	name=Angel Feliciano	episodes=1 episode, 2004 	
+character=Cop 	name=DeVone Lawson Jr.	episodes=1 episode, 2004 	
+character=Sommelier	name=Erik Schark	episodes=1 episode, 2004 	
+character=Dr. Vahabsideh	name=Mueen Jahan	episodes=1 episode, 2006 	
+character=Connie Fazio	name=Judy Prianti	episodes=1 episode, 2006 	
+character=Teenager	name=Frank Carlo	episodes=1 episode, 2006 	
+character=Antique Store Owner	name=Michael Malone	episodes=1 episode, 2006 	
+character=Nora Minter	name=Kate Buddeke	episodes=1 episode, 2006 	
+character=Ken	name=Peter Benedek	episodes=1 episode, 2007 	
+character=French Canadian Man 	name=Jean Brassard	episodes=1 episode, 2007 	
+character=Boy	name=Colton Parsons	episodes=1 episode, 2007 	
+character=Kennedy	name=Leah Bezozo	episodes=1 episode, 2007 	
+character=Warren Dupree	name=Brian Anthony Wilson	episodes=1 episode, 2001 	
+character=FBI Technician	name=Carlos Lopez	episodes=1 episode, 2001 	
+character=Friend	name=Dino Palermo	episodes=1 episode, 2001 	
+character=Junior	name=Dino Palermo	episodes=1 episode, 2001 	
+character=Darryl	name=Chad Tucker	episodes=1 episode, 2002 	
+character=Native American Woman 	name=Sami Sargent	episodes=1 episode, 2002 	
+character=Bartender	name=Joe Napoleone	episodes=1 episode, 2002 	
+character=Dot	name=Elaine Hyman	episodes=1 episode, 2004 	
+character=Delivery Boy	name=Pablo Hernandez	episodes=1 episode, 2004 	
+character=Uncle Jack	name=Lenny Singer	episodes=1 episode, 2004 	
+character=Sandy	name=Dierdre Friel	episodes=1 episode, 2006 	
+character=Desk Sergeant	name=Steve Stanulis	episodes=1 episode, 2006 	
+character=Jeep Owner	name=Guy Paul	episodes=1 episode, 2006 	
+character=U.S. Marshal 	name=Joey Vega	episodes=1 episode, 2006 	
+character=Intern	name=Joe Delafield	episodes=1 episode, 2006 	
+character=Driver	name=Michael Serratore	episodes=1 episode, 2006 	
+character=Sushi Waitress	name=Ai Kiyono	episodes=1 episode, 2006 	
+character=African-American Guy	name=Quentin Heggs	episodes=1 episode, 2006 	
+character=Teenager 	name=Kelvin Santos	episodes=1 episode, 2006 	
+character=Latino Woman	name=Maria Hernandez	episodes=1 episode, 2006 	
+character=Local Man	name=Cal Crenshaw	episodes=1 episode, 2006 	
+character=Roger	name=James Lorenzo	episodes=1 episode, 2007 	
+character=Heidi	name=Christiana Anbri	episodes=1 episode, 2007 	
+character=Moderator	name=Richard Litt	episodes=1 episode, 2007 	
+character=F.B.I. Agent	name=Michael H. Ingram	episodes=1 episode, 2007 	
+character=U.S. Marshal Lunt	name=Kevin McKelvey	episodes=1 episode, 2007 	
+character=Salesman 	name=James Coyle	episodes=1 episode, 2007 	
+character=French Canadian Man 	name=Maxime De Toledo	episodes=1 episode, 2007 	
+character=Joyce	name=Shannon Koob	episodes=1 episode, 2007 	
+character=Francis Satriale	name=Lou Bonacki	episodes=1 episode, 2001 	
+character=FBI Agent	name=Michael Strano	episodes=1 episode, 2001 	
+character=Anklave	name=Matthew Weathers	episodes=1 episode, 2002 	
+character=Band Member 	name=Christopher O	episodes=1 episode, 2002 	
+character=Band Member 	name=Hara	episodes=1 episode, 2002 	
+character=Gillian	name=Susan Pourfar	episodes=1 episode, 2004 	
+character=Ecuadorian Man	name=Rolando J. Vargas	episodes=1 episode, 2004 	
+character=Harpist	name=Sylvia Kowalczuk	episodes=1 episode, 2004 	
+character=Waitress	name=Chris McGinn	episodes=1 episode, 2006 	
+character=Eden	name=Alicia Lorén	episodes=1 episode, 2006 	
+character=Bada Bing Waitress	name=Lisa Miller	episodes=1 episode, 2006 	
+character=Tall Man	name=Jon Shaver	episodes=1 episode, 2006 	
+character=U.S. Marshal 	name=Teresa Meza	episodes=1 episode, 2006 	
+character=Old Woman at Parade	name=Diane Martella	episodes=1 episode, 2006 	
+character=Kid 	name=Qadir Forbes	episodes=1 episode, 2006 	
+character=Teenager 	name=Jonathan Marino Cuellar	episodes=1 episode, 2006 	
+character=Grandma	name=Joyce Roach	episodes=1 episode, 2006 	
+character=Female F.B.I. Agent	name=Amy Russ	episodes=1 episode, 2007 	
+character=Ira Shortz	name=John Mainieri	episodes=1 episode, 2007 	
+character=Felix	name=Mando Alvarado	episodes=1 episode, 2007 	
+character=Salesman 	name=Tod Engle	episodes=1 episode, 2007 	
+character=Reporter 	name=Paige Allen	episodes=1 episode, 2007 	
+character=U.S. Marshal Rawley	name=Bruce Faulk	episodes=1 episode, 2007 	
+character=Fan	name=Drew Wininger	episodes=1 episode, 2007 	
+character=Young Tony Soprano	name=Mark Damiano II	episodes=1 episode, 2001 	
+character=Green Grove Singer	name=Elise Bretton	episodes=1 episode, 2001 	
+character=Band Member 	name=Danny Roselle	episodes=1 episode, 2002 	
+character=Loan Officer	name=Jay Alvarez	episodes=1 episode, 2002 	
+character=Shelly	name=Ariana Delawari	episodes=1 episode, 2006 	
+character=Judge Holzer	name=Robert Hirschfeld	episodes=1 episode, 2006 	
+character=Jock Guy	name=Peter O	episodes=1 episode, 2006 	
+character=Jock Guy	name=Hara	episodes=1 episode, 2006 	
+character=Local Guy	name=Gorman	episodes=1 episode, 2006 	
+character=Local Guy	name=Robert O	episodes=1 episode, 2006 	
+character=EMT	name=Matthew Stocke	episodes=1 episode, 2006 	
+character=Hostess	name=Amber Gross	episodes=1 episode, 2006 	
+character=Old Woman in Church	name=Francis W. Erigo	episodes=1 episode, 2006 	
+character=Keshawn	name=Keith Thomas Brown	episodes=1 episode, 2006 	
+character=Kid 	name=Daveed Ramsay	episodes=1 episode, 2006 	
+character=Salesman 	name=Ian Blackman	episodes=1 episode, 2007 	
+character=Nanny	name=Colleen Morris Glennon	episodes=1 episode, 2007 	
+character=Father	name=Jeff Talbott	episodes=1 episode, 2007 	
+character=Larry Barese	name=Maria Iadonisi	episodes=1 episode, 2007 	
+character=Wife	name=Maria Iadonisi	episodes=1 episode, 2007 	
+character=Karyl	name=Igor Litwinowicz	episodes=1 episode, 2007 	
+character=Construction Worker	name=Lawrence Bingham	episodes=1 episode, 2007 	
+character=Croupier	name=Paul Mollo	episodes=1 episode, 2007 	
+character=Young Janice Soprano	name=Juliet Fox	episodes=1 episode, 2001 	
+character=Green Grove Singer	name=Helen Miles	episodes=1 episode, 2001 	
+character=Attorney	name=Victor Matamoros	episodes=1 episode, 2002 	
+character=Band Member 	name=James Farrell	episodes=1 episode, 2002 	
+character=Linda Vaughn	name=Alysia Reiner	episodes=1 episode, 2006 	
+character=John Schwinn	name=Hal Holbrook	episodes=1 episode, 2006 	
+character=Yael	name=Meital Dohan	episodes=1 episode, 2006 	
+character=Bellhop	name=Jason Loftus	episodes=1 episode, 2006 	
+character=Woman	name=Brigid Brady	episodes=1 episode, 2006 	
+character=Hispanic Guy	name=Pietro González	episodes=1 episode, 2006 	
+character=Colombian 	name=Angel Fajardo	episodes=1 episode, 2006 	
+character=Kid 	name=Alex Mitchell	episodes=1 episode, 2006 	
+character=Kid	name=Ian Colletti	episodes=1 episode, 2007 	
+character=Alexandra Lupertazzi	name=Ariana DiLorenzo	episodes=1 episode, 2007 	
+character=Dealer	name=Jeanine Flynn	episodes=1 episode, 2007 	
+character=Reporter 	name=Paul Lombardi	episodes=1 episode, 2007 	
+character=Player	name=Ray Norberto	episodes=1 episode, 2007 	
+character=Young Barbara Soprano	name=Elxis McLaren	episodes=1 episode, 2001 	
+character=Green Grove Singer	name=Jean Marie Evans	episodes=1 episode, 2001 	
+character=Salesperson	name=Bonnie Rose	episodes=1 episode, 2002 	
+character=Band Member 	name=Walter J. Lockhart	episodes=1 episode, 2002 	
+character=Rich Alberga	name=Joseph La Rocca	episodes=1 episode, 2004 	
+character=Roxanne	name=Laura Niemi	episodes=1 episode, 2006 	
+character=Hispanic Kid	name=Rene Rosado	episodes=1 episode, 2006 	
+character=Clerk	name=Jay Russell	episodes=1 episode, 2006 	
+character=Colombian 	name=Chris Colombo	episodes=1 episode, 2006 	
+character=Kid 	name=Matlok	episodes=1 episode, 2006 	
+character=Latino Kid 	name=Gabriel Cano	episodes=1 episode, 2006 	
+character=Dancer	name=Lauren Potter	episodes=1 episode, 2007 	
+character=Lover 	name=John O	episodes=1 episode, 2007 	
+character=Lover 	name=Hara	episodes=1 episode, 2007 	
+character=Basketball Announcer	name=Kevin Garrity	episodes=1 episode, 2007 	
+character=Green Grove Singer	name=Larry Sherman	episodes=1 episode, 2001 	
+character=Wino	name=Roy Milton Davis	episodes=1 episode, 2002 	
+character=Guy 	name=Nick Choksi	episodes=1 episode, 2006 	
+character=Priest	name=Carmine Parisi	episodes=1 episode, 2006 	
+character=Kid 	name=Brian Gilbert	episodes=1 episode, 2006 	
+character=Latino Kid 	name=Francisco Burgos	episodes=1 episode, 2006 	
+character=Carla	name=Channing Pourchot	episodes=1 episode, 2006 	
+character=Lover 	name=Brianne Moncrief	episodes=1 episode, 2007 	
+character=Basketball Announcer	name=Charlie Minn	episodes=1 episode, 2007 	
+character=Green Grove Singer	name=Madeline Kearns	episodes=1 episode, 2001 	
+character=Kid	name=Ali Wright	episodes=1 episode, 2002 	
+character=Violet Lupertazzi	name=Caroline Rossi	episodes=1 episode, 2004 	
+character=Gillian	name=Katie Lowes	episodes=1 episode, 2006 	
+character=Cop	name=Michael De Luca	episodes=1 episode, 2006 	
+character=Erica	name=Dee Nelson	episodes=1 episode, 2006 	
+character=Conference Center Host	name=Emily Vaughan	episodes=1 episode, 2006 	
+character=Bookie	name=Sal Di Piazza	episodes=1 episode, 2006 	
+character=Film Type	name=Derek Milman	episodes=1 episode, 2007 	
+character=Waiter	name=Joseph Anania	episodes=1 episode, 2007 	
+character=Gunman	name=Jimmy DellaValle	episodes=1 episode, 2004 	
+character=Waitress	name=Renee Franca	episodes=1 episode, 2004 	
+character=Janine	name=Enya Flack	episodes=1 episode, 2006 	
+character=Federal Marshal	name=Joe Forbrich	episodes=1 episode, 2006 	
+character=Rick	name=Anthony Stropoli	episodes=1 episode, 2006 	
+character=Store Owner	name=Douglas Ryan	episodes=1 episode, 2006 	
+character=Tour Guide	name=Saidah Arrika Ekulona	episodes=1 episode, 2007 	
+character=Waitress	name=Salma Valentina	episodes=1 episode, 2007 	
+character=Major Zwingli	name=Tobin Bell	episodes=1 episode, 2001 	
+character=Newscaster	name=Looney	episodes=1 episode, 2002 	
+character=Newscaster	name=Michael O	episodes=1 episode, 2002 	
+character=Uncle Zio	name=Drummond Erskine	episodes=1 episode, 2004 	
+character=Mook	name=John Lanzillotto	episodes=1 episode, 2004 	
+character=Liaison Woman	name=Angelle Brooks	episodes=1 episode, 2006 	
+character=Wise Guy 	name=Jimmy Smagula	episodes=1 episode, 2006 	
+character=Another Local	name=Stephan Morrow	episodes=1 episode, 2006 	
+character=Orderly	name=Tony White	episodes=1 episode, 2007 	
+character=Woman	name=Jill Lord	episodes=1 episode, 2007 	
+character=Radio Reporter	name=John Montone	episodes=1 episode, 2002 	
+character=First Valet	name=Victor Cruz	episodes=1 episode, 2004 	
+character=Old Lady	name=Rosemarie Dana	episodes=1 episode, 2004 	
+character=Another Woman	name=Alexandra Daddario	episodes=1 episode, 2006 	
+character=Doorman	name=Dylan Bruce	episodes=1 episode, 2006 	
+character=Wise Guy 	name=Jared Blake DiCroce	episodes=1 episode, 2006 	
+character=Butcher	name=Christopher Maggi	episodes=1 episode, 2006 	
+character=Teen 	name=Shortee Red	episodes=1 episode, 2007 	
+character=Second Valet	name=Jorge Pupo	episodes=1 episode, 2004 	
+character=Kimmie	name=Faina Reinhardt	episodes=1 episode, 2006 	
+character=Female Orderly	name=Aurelia Williams	episodes=1 episode, 2006 	
+character=Gerry Gaultieri	name=Ray DeMattis	episodes=1 episode, 2007 	
+character=Teen 	name=Rydell Rollins	episodes=1 episode, 2007 	
+character=Paulie	name=Joseph Scarpinito	episodes=1 episode, 2004 	
+character=Friend	name=Joseph Scarpinito	episodes=1 episode, 2004 	
+character=Guest	name=Gillien Goll	episodes=1 episode, 2004 	
+character=Alonso	name=Alberto Bonilla	episodes=1 episode, 2006 	
+character=Patient	name=Stephen Brian Jones	episodes=1 episode, 2006 	
+character=Emcee	name=Philip Anastasia	episodes=1 episode, 2006 	
+character=Howie Reinstein	name=John Di Domenico	episodes=1 episode, 2007 	
+character=Teen 	name=Daniel Bacote	episodes=1 episode, 2007 	
+character=Mourner 	name=Frank Vallelonga	episodes=1 episode, 2004 	
+character=Another Guest	name=Neil Levine	episodes=1 episode, 2004 	
+character=Bridesmaid	name=Brae	episodes=1 episode, 2006 	
+character=Bridesmaid	name=Taryn O	episodes=1 episode, 2006 	
+character=Hector	name=Jose Sanchez	episodes=1 episode, 2006 	
+character=Ellen Reinstein	name=Dina Pearlman	episodes=1 episode, 2007 	
+character=Teen 	name=T.J. Allen	episodes=1 episode, 2007 	
+character=Band Leader	name=Valerie Romanoff	episodes=1 episode, 2004 	
+character=Man 	name=Joe Abbate	episodes=1 episode, 2006 	
+character=Dad	name=Joe Iacona	episodes=1 episode, 2006 	
+character=Johnny	name=Joe Iacona	episodes=1 episode, 2006 	
+character=Dominique	name=Jane Kim	episodes=1 episode, 2007 	
+character=Sal Pisano	name=Michelle Candela	episodes=1 episode, 2007 	
+character=Lavoo	name=Alan Levine	episodes=1 episode, 2007 	
+character=Starlight Orchestra	name=Chioma Chidebeln-Eze	episodes=1 episode, 2004 	
+character=Nurse Hasley	name=Erik Martin	episodes=1 episode, 2006 	
+character=Chandrakanta Pisano	name=Sejal Shah	episodes=1 episode, 2007 	
+character=Man in Members Only Jacket	name=Paolo Colandrea	episodes=1 episode, 2007 	
+character=Nicky	name=Joe Giordanella	episodes=1 episode, 2007 	
+character=Starlight Orchestra	name=Caren Cole	episodes=1 episode, 2004 	
+character=Aunt Grace	name=Irma St. Paule	episodes=1 episode, 2006 	
+character=Giovanni Coppito	name=Filippo Bozotti	episodes=1 episode, 2006 	
+character=Frankie	name=George Pogatsia	episodes=1 episode, 2007 	
+character=Man in Diner	name=Jimmy Spadola	episodes=1 episode, 2007 	
+character=Mark Lewis	name=Marc Wolf	episodes=1 episode, 2007 	
+character=Starlight Orchestra	name=Andrea Eigner	episodes=1 episode, 2004 	
+character=Elderly Man	name=Peter Salzer	episodes=1 episode, 2006 	
+character=Aunt Louise	name=Jean Marie Evans	episodes=1 episode, 2006 	
+character=Girlfriend	name=Susan Porro	episodes=1 episode, 2007 	
+character=J.T. Dolan	name=Susan Porro	episodes=1 episode, 2007 	
+character=Jo Lewis	name=Michelle Maryk	episodes=1 episode, 2007 	
+character=Diner Waitress	name=Carol Scudder	episodes=1 episode, 2007 	
+character=Starlight Orchestra	name=Erin Henry	episodes=1 episode, 2004 	
+character=Bartender	name=David Coburn	episodes=1 episode, 2006 	
+character=Photographer	name=Bjorn Johnson	episodes=1 episode, 2006 	
+character=Diner	name=Du Kelly	episodes=1 episode, 2007 	
+character=African American Man 	name=Du Kelly	episodes=1 episode, 2007 	
+character=Starlight Orchestra	name=Allison Miller	episodes=1 episode, 2004 	
+character=Wedding Guest	name=Jerry Russo	episodes=1 episode, 2006 	
+character=Boy 	name=John Robert Tramutola	episodes=1 episode, 2006 	
+character=African American Man 	name=Sharrieff Pugh	episodes=1 episode, 2007 	
+character=Diner	name=Sharrieff Pugh	episodes=1 episode, 2007 	
+character=Operations Manager	name=Al Roffe	episodes=1 episode, 2007 	
+character=Starlight Orchestra	name=Deborah Pilley	episodes=1 episode, 2004 	
+character=Jamaican Nurse	name=Nikki E. Walker	episodes=1 episode, 2006 	
+character=Boy 	name=Joseph Emmi	episodes=1 episode, 2006 	
+character=Guard	name=Guy A. Fortt	episodes=1 episode, 2007 	
+character=Truck Driver in Diner	name=Patrick Joseph Connolly	episodes=1 episode, 2007 	
+character=Starlight Orchestra	name=Sue Terry	episodes=1 episode, 2004 	
+character=Wedding Singer 	name=John Kozan	episodes=1 episode, 2006 	
+character=Nurse Rosario	name=Joselin Reyes	episodes=1 episode, 2007 	
+character=Old Woman in Diner	name=Patti Karr	episodes=1 episode, 2007 	
+character=Another Patient	name=Ralph McCain	episodes=1 episode, 2007 	
+character=Starlight Orchestra	name=Susan Terwilliger	episodes=1 episode, 2004 	
+character=Wedding Singer 	name=Shana Steele	episodes=1 episode, 2006 	
+character=Old Man in Diner	name=William Severs	episodes=1 episode, 2007 	
+character=Nurse	name=Laura E. Johnston	episodes=1 episode, 2007 	
+character=Jabberer 	name=Nico Hartos	episodes=1 episode, 2006 	
+character=Young Woman in Diner	name=Adrianne Rae Rodgers	episodes=1 episode, 2007 	
+character=Croupier 	name=Laura Mills McClatchy	episodes=1 episode, 2007 	
+character=Croupier 	name=Gregory Zaragoza	episodes=1 episode, 2007 	
+character=Young Man in Diner	name=Neill	episodes=1 episode, 2007 	
+character=Young Man in Diner	name=Henry O	episodes=1 episode, 2007 	
+character=Jabberer 	name=Clayton Dean Smith	episodes=1 episode, 2006 	
+character=Goomar	name=Jo Newman	episodes=1 episode, 2007 	
+character=Gerry	name=Jo Newman	episodes=1 episode, 2007 	
+character=Senior Worker	name=Luis Lassen	episodes=1 episode, 2007 	
+character=Jabberer 	name=Stuart Rudin	episodes=1 episode, 2006 	
+character=Silvio	name=Julie Rogelstad	episodes=1 episode, 2007 	
+character=Goomar	name=Julie Rogelstad	episodes=1 episode, 2007 	
+character=Wedding Band	name=Tommy Riccardo	episodes=1 episode, 2006 	
+character=Kid	name=Alexander Flores	episodes=1 episode, 2007 	
+character=Photographer	name=Bruce Bennetts	episodes=1 episode, 2007 	
+character=Boy 	name=Nicholas Mazzeo	episodes=1 episode, 2007 	
+character=Boy 	name=Jacob Lobosco	episodes=1 episode, 2007 	
+character=Boy 	name=Francesco Fusaro	episodes=1 episode, 2007 	
+character=Girl 	name=Justine Caputo	episodes=1 episode, 2007 	
+character=Girl 	name=Gia Bella Adamo	episodes=1 episode, 2007 	
+character=Friend	name=Peter Austin Noto	episodes=9 episodes, 1999-2002 	
+character=Tony	name=Peter Austin Noto	episodes=9 episodes, 1999-2002 	
+character=AA member	name=Paula Rittie	episodes=4 episodes, 2006-2007 	
+character=FBI Agent	name=Josh Mowery	episodes=3 episodes, 2000 	
+character=Crackhead	name=Angela Frye	episodes=3 episodes, 2002-2006 	
+character=Attorney	name=Stewart Summers	episodes=3 episodes, 2004 	
+character=Bar Patron	name=John Landolfi	episodes=2 episodes, 2000-2001 	
+character=Bodyguard	name=Antonio Saillant	episodes=2 episodes, 2001-2007 	
+character=Bada Bing Wise Guy	name=Frank Delano	episodes=2 episodes, 2001 	
+character=FBI Agent	name=Ty Copeman	episodes=2 episodes, 2002-2004 	
+character=Gangster	name=James Denapoli	episodes=2 episodes, 2004-2006 	
+character=Woman	name=Stefanie Barbato	episodes=2 episodes, 2004 	
+character=Bar Patron	name=Keith Leonard	episodes=2 episodes, 2004 	
+character=Family Friend	name=Larry Russo	episodes=2 episodes, 2004 	
+character=Party Girl	name=Jaclynn Tiffany Brown	episodes=2 episodes, 2004 	
+character=Cashier	name=Jim Ford	episodes=2 episodes, 2006-2007 	
+character=Young Meadow	name=Morgan Saylor	episodes=2 episodes, 2006 	
+character=Fake Carmella	name=Wendy Hammers	episodes=2 episodes, 2006 	
+character=Cocktail Waitress	name=Andrea Bertola Shaw	episodes=2 episodes, 2006 	
+character=Cashier	name=Rick Collum	episodes=2 episodes, 2006 	
+character=Satriale	name=Rick Collum	episodes=2 episodes, 2006 	
+character=Friend	name=Keith Middlebrook	episodes=2 episodes, 2007 	
+character=Tony	name=Keith Middlebrook	episodes=2 episodes, 2007 	
+character=Mental Patient	name=Joe Remy Dolinsky	episodes=2 episodes, 2007 	
+character=Prisoner	name=Enrique Novello	episodes=2 episodes, 2007 	
+character=Bar patron	name=Michael Masucci	episodes=2 episodes, 2007 	
+character=Jimmy	name=Tim Realbuto	episodes=1 episode, 1999 	
+character=Young Tony Soprano	name=Anthony Robles	episodes=1 episode, 1999 	
+character=Field Reporter	name=Kerry Donelli	episodes=1 episode, 1999 	
+character=N.J. Trooper	name=Rick Collins	episodes=1 episode, 1999 	
+character=Waiter John	name=Richard DeDomenico	episodes=1 episode, 1999 	
+character=Vito	name=Vito Picone	episodes=1 episode, 1999 	
+character=Date	name=Robin Fusco	episodes=1 episode, 1999 	
+character=AJ	name=Robin Fusco	episodes=1 episode, 1999 	
+character=Bridesmaid	name=Anna Damergis	episodes=1 episode, 1999 	
+character=Lifeguard	name=Dar Billingham	episodes=1 episode, 1999 	
+character=Kid	name=Sean Fredricks	episodes=1 episode, 1999 	
+character=College Athlete	name=Carlos Valencia	episodes=1 episode, 1999 	
+character=Bowdoin Student	name=Jenni Graham	episodes=1 episode, 1999 	
+character=Mother	name=Lynda Lenet	episodes=1 episode, 1999 	
+character=Christopher	name=Lynda Lenet	episodes=1 episode, 1999 	
+character=Student	name=Brett Glazer	episodes=1 episode, 1999 	
+character=Self	name=Shashi Balooja	episodes=1 episode, 1999 	
+character=Restaurant Patron	name=James M. Palombo	episodes=1 episode, 1999 	
+character=Biker chick	name=Heather Whittington	episodes=1 episode, 1999 	
+character=District Attorney	name=John Doman	episodes=1 episode, 2000 	
+character=Dr. Jesse Travis	name=Charlie Schlatter	episodes=1 episode, 2000 	
+character=Nurse 	name=Denise Burse	episodes=1 episode, 2000 	
+character=Drug Addict	name=Andrew Elvis Miller	episodes=1 episode, 2000 	
+character=Protester 	name=Derrick Simmons	episodes=1 episode, 2000 	
+character=Protester 	name=Ron Van Clief	episodes=1 episode, 2000 	
+character=Nurse 	name=Leslie Denniston	episodes=1 episode, 2000 	
+character=Prisoner	name=Martin Pfefferkorn	episodes=1 episode, 2000 	
+character=Construction Worker	name=Todo Segalla	episodes=1 episode, 2000 	
+character=Girl in Country Club	name=Julia Carothers Hughes	episodes=1 episode, 2000 	
+character=Waiter	name=Americo Presciutti	episodes=1 episode, 2000 	
+character=Acting Student	name=Todd Carroll	episodes=1 episode, 2000 	
+character=Angelina	name=Daria Rumi	episodes=1 episode, 2000 	
+character=Wiseguy 	name=Don Picard	episodes=1 episode, 2000 	
+character=Italian Man at Bar	name=Giorgio Iovine	episodes=1 episode, 2000 	
+character=Wiseguy 	name=Paul Bucossi	episodes=1 episode, 2000 	
+character=Frat Boy	name=Michael Criscuolo	episodes=1 episode, 2000 	
+character=Construction Worker	name=Craig Mitchell	episodes=1 episode, 2000 	
+character=Wiseguy 	name=Vic Bucossi	episodes=1 episode, 2000 	
+character=Protester 	name=Herb Kerr	episodes=1 episode, 2000 	
+character=Badda Bing Patron	name=Vinny De Vingo	episodes=1 episode, 2000 	
+character=Mercedes ad voiceover	name=Joe Mantegna	episodes=1 episode, 2001 	
+character=Young Waitress	name=Sian Heder	episodes=1 episode, 2001 	
+character=Cocktail Waitress	name=Lori Pizzo	episodes=1 episode, 2001 	
+character=Vesuvio Patron	name=David Ojalvo	episodes=1 episode, 2001 	
+character=Russian Thug	name=Charlie Kevin	episodes=1 episode, 2001 	
+character=Pallbearer	name=David Madison	episodes=1 episode, 2001 	
+character=Mr. Pacifico	name=Carson Grant	episodes=1 episode, 2001 	
+character=Bar Patron	name=Charlie Sara	episodes=1 episode, 2001 	
+character=NJ Police Officer	name=Patrick Riviere	episodes=1 episode, 2001 	
+character=Card Player 	name=Paul Cicero	episodes=1 episode, 2001 	
+character=Restaurant Patron	name=Pete Macnamara	episodes=1 episode, 2001 	
+character=Vince	name=James Feuer	episodes=1 episode, 2001 	
+character=Card Player 	name=Jack Lotz	episodes=1 episode, 2001 	
+character=Donna	name=Randi Newton	episodes=1 episode, 2001 	
+character=Man	name=Barry Shurchin	episodes=1 episode, 2001 	
+character=Cook	name=Tony Rhune	episodes=1 episode, 2001 	
+character=Chief Doug Smith	name=Nick Chinlund	episodes=1 episode, 2002 	
+character=Date	name=Deirdre Lorenz	episodes=1 episode, 2002 	
+character=Tony	name=Deirdre Lorenz	episodes=1 episode, 2002 	
+character=Sick Woman	name=Kaye Kittrell	episodes=1 episode, 2002 	
+character=Fountain Blue Bus Boy	name=Ethan S. Smith	episodes=1 episode, 2002 	
+character=Spa Guest	name=Ayelet Argaman	episodes=1 episode, 2002 	
+character=Lunch Woman	name=Elizabeth Wood	episodes=1 episode, 2002 	
+character=Mom with Stroller	name=Kathleen Wilce	episodes=1 episode, 2002 	
+character=Miami Mobster	name=Patrick Ezerzer	episodes=1 episode, 2002 	
+character=Courtroom artist	name=James Hoff	episodes=1 episode, 2002 	
+character=Union Enforcer	name=Jon Lonoff	episodes=1 episode, 2002 	
+character=Band Member	name=Frank Cristantiello	episodes=1 episode, 2002 	
+character=Cousin Mary	name=Donna Castellano	episodes=1 episode, 2002 	
+character=Son	name=Richard Zhuravenko	episodes=1 episode, 2002 	
+character=Principal	name=Richard Zhuravenko	episodes=1 episode, 2002 	
+character=Crazy Horse Patron	name=Benjamin Clapp	episodes=1 episode, 2002 	
+character=Self	name=Anthony Robbins	episodes=1 episode, 2004 	
+character=Family Friend	name=Michalina Scorzelli	episodes=1 episode, 2004 	
+character=Boy in restaurant	name=Lucian Buscemi	episodes=1 episode, 2004 	
+character=Church Kid	name=Justiin Davis	episodes=1 episode, 2004 	
+character=Italian Ice Man	name=Mike Caravella	episodes=1 episode, 2004 	
+character=Best Man	name=Richard Lounello	episodes=1 episode, 2004 	
+character=Blackjack Dealer	name=Bruce Roberts	episodes=1 episode, 2004 	
+character=Bridesmaid	name=Lauren Adler	episodes=1 episode, 2004 	
+character=Partygoer	name=Michael Buonomo	episodes=1 episode, 2004 	
+character=Partygoer	name=Jeffrey Todd	episodes=1 episode, 2004 	
+character=Cousin	name=Alicia Regan	episodes=1 episode, 2004 	
+character=Bartender	name=Maureena Galindo	episodes=1 episode, 2004 	
+character=Benetton Shopper	name=Stéphanye Dussud	episodes=1 episode, 2004 	
+character=Man with mullet	name=Chris Santangelo	episodes=1 episode, 2004 	
+character=Marcus	name=Kevin Rivera	episodes=1 episode, 2004 	
+character=Gangster in Bar	name=Michael Christaldi	episodes=1 episode, 2004 	
+character=FBI Agent 	name=Alex Revan	episodes=1 episode, 2004 	
+character=Mrs. Millio	name=Beth Laufer	episodes=1 episode, 2004 	
+character=Plaza Guest	name=Stephen Humby	episodes=1 episode, 2004 	
+character=Woman in Car Window	name=Pat Chambers	episodes=1 episode, 2004 	
+character=Partygoer	name=Kai Wong	episodes=1 episode, 2004 	
+character=Bing Customer	name=Peter Cavnoudias	episodes=1 episode, 2004 	
+character=Girl in Gray Sweatsuit	name=Linda Rivera Bradt	episodes=1 episode, 2004 	
+character=Crazy Horse Patron	name=Scott Addison Clay	episodes=1 episode, 2004 	
+character=Friend	name=Jennifer Rapp	episodes=1 episode, 2004 	
+character=Meadow	name=Jennifer Rapp	episodes=1 episode, 2004 	
+character=Extra	name=Joe Huu	episodes=1 episode, 2004 	
+character=Washroom Attendant	name=Rick Poli	episodes=1 episode, 2004 	
+character=Paul Vitro	name=Silverio Avellino	episodes=1 episode, 2004 	
+character=Chris	name=Greg Manning	episodes=1 episode, 2004 	
+character=Wedding Guest	name=Stacey Raymond	episodes=1 episode, 2006 	
+character=Construction Worker	name=Brendan Burke	episodes=1 episode, 2006 	
+character=Jabberer	name=Matthew R. Staley	episodes=1 episode, 2006 	
+character=Party Goer	name=Kent Moran	episodes=1 episode, 2006 	
+character=Dave	name=Jonah Falcon	episodes=1 episode, 2006 	
+character=FBI Agent	name=Jack Dimich	episodes=1 episode, 2006 	
+character=Golf Caddy	name=Andrew Kaempfer	episodes=1 episode, 2006 	
+character=Angry Roofer	name=Brian Donahue	episodes=1 episode, 2006 	
+character=Russian Girlfriend	name=Olja Hrustic	episodes=1 episode, 2006 	
+character=Hotel Guest	name=Danny Nero	episodes=1 episode, 2006 	
+character=Ring Bearer	name=Onofrio	episodes=1 episode, 2006 	
+character=Ring Bearer	name=Francesco D	episodes=1 episode, 2006 	
+character=Nurse	name=Dionne Audain	episodes=1 episode, 2006 	
+character=Fair Patron	name=Rosemary Howard	episodes=1 episode, 2006 	
+character=Waiter	name=Shevy Gutierrez	episodes=1 episode, 2006 	
+character=Waitress	name=Cristina Duarte	episodes=1 episode, 2006 	
+character=Camera man	name=Eli Harris	episodes=1 episode, 2006 	
+character=Thug 	name=Christopher Place	episodes=1 episode, 2006 	
+character=Dr. Cipolla	name=Barry Sigismondi	episodes=1 episode, 2006 	
+character=Waiter	name=Kevin Paul	episodes=1 episode, 2006 	
+character=Wedding Guest	name=Mark Langston	episodes=1 episode, 2006 	
+character=Wedding Planner	name=Simone Butler	episodes=1 episode, 2006 	
+character=Best Man	name=Kevin Anton	episodes=1 episode, 2006 	
+character=Thief	name=Ernest Heinz	episodes=1 episode, 2006 	
+character=Eli Kaplan	name=David Shumbris	episodes=1 episode, 2006 	
+character=Customer	name=Turi Haim	episodes=1 episode, 2006 	
+character=Jeff	name=Luke Rosen	episodes=1 episode, 2006 	
+character=Doctor	name=Dono Cunningham	episodes=1 episode, 2006 	
+character=Wedding Guest	name=Andrew Ginsburg	episodes=1 episode, 2006 	
+character=Hospital Patient	name=Keith Moyer	episodes=1 episode, 2006 	
+character=Russian Girlfriend	name=Dana Power	episodes=1 episode, 2006 	
+character=Orderly	name=Luis Dalmasy Jr.	episodes=1 episode, 2006 	
+character=Waitress	name=Jennifer Layne Park	episodes=1 episode, 2006 	
+character=Wedding Guest	name=Lauren Lomma	episodes=1 episode, 2006 	
+character=Self	name=Vincent Riviezzo	episodes=1 episode, 2006 	
+character=Wedding Guest	name=Christopher Del Gaudio	episodes=1 episode, 2006 	
+character=Club Dancer	name=Gerrold Vincent	episodes=1 episode, 2006 	
+character=Sidewalk Goomba	name=Paul D	episodes=1 episode, 2006 	
+character=Sidewalk Goomba	name=Elia	episodes=1 episode, 2006 	
+character=Carlos The Maitre D	name=Loukas Papas	episodes=1 episode, 2006 	
+character=Resturant Patron	name=Lloyd Booker	episodes=1 episode, 2006 	
+character=Shopper	name=Michael E. Bell	episodes=1 episode, 2006 	
+character=Hospital Visitor	name=Samantha Zweben	episodes=1 episode, 2006 	
+character=Wedding Guest	name=Isaac Schinazi	episodes=1 episode, 2006 	
+character=Fedora Jazz Musician	name=Brother Eden Douglas	episodes=1 episode, 2006 	
+character=Limo Driver	name=Arick Salmea	episodes=1 episode, 2006 	
+character=Wedding guest	name=Erika Maconi	episodes=1 episode, 2006 	
+character=Barfly	name=Danny Hayden	episodes=1 episode, 2006 	
+character=Priest	name=Dennis Albanese	episodes=1 episode, 2006 	
+character=Hospital Patient	name=David C. Roehm Sr.	episodes=1 episode, 2006 	
+character=Wedding Guest	name=Norman Schleiffer	episodes=1 episode, 2006 	
+character=Hospital Visitor	name=Emiko Koizumi	episodes=1 episode, 2006 	
+character=Construction Worker	name=Tony Galtieri	episodes=1 episode, 2006 	
+character=Diner	name=Leary	episodes=1 episode, 2006 	
+character=Diner	name=Megan O	episodes=1 episode, 2006 	
+character=Store Clerk	name=Joey Cocozza	episodes=1 episode, 2006 	
+character=Satriale	name=Joey Cocozza	episodes=1 episode, 2006 	
+character=Nurse	name=Liz Ross	episodes=1 episode, 2006 	
+character=Funeral Director	name=Russell Gibson	episodes=1 episode, 2006 	
+character=A.J.	name=Chris T. Margaritis	episodes=1 episode, 2006 	
+character=Bodyguard	name=Chris T. Margaritis	episodes=1 episode, 2006 	
+character=Mental Patient	name=Aristedes Philip DuVal	episodes=1 episode, 2006 	
+character=Club Goer	name=R.J. Romano	episodes=1 episode, 2006 	
+character=Carnival Patron	name=Edgar Ribon	episodes=1 episode, 2006 	
+character=Mental Patient	name=Chrismandu	episodes=1 episode, 2006 	
+character=Fat Jew	name=David Benaroya	episodes=1 episode, 2006 	
+character=Rehab Patient	name=Robert Feeley	episodes=1 episode, 2006 	
+character=Fair Attendee	name=Sue Sadik	episodes=1 episode, 2006 	
+character=Limo Driver	name=Casey James	episodes=1 episode, 2006 	
+character=Flag Holder	name=Jeff Nathan	episodes=1 episode, 2006 	
+character=Waiter	name=Keith P. Scott	episodes=1 episode, 2006 	
+character=Aide	name=Randy Blair	episodes=1 episode, 2006 	
+character=Nurse	name=Randy Blair	episodes=1 episode, 2006 	
+character=Restaurant Patron	name=Nancy Otero	episodes=1 episode, 2006 	
+character=Bada Bing Customer	name=Ted Lewinski	episodes=1 episode, 2006 	
+character=Alter Boy	name=Brian Murray	episodes=1 episode, 2006 	
+character=Home Buyer	name=Patrick Blumer	episodes=1 episode, 2006 	
+character=Girl in Hospital with AJ	name=Jennifer Hall	episodes=1 episode, 2007 	
+character=Bada Bing Waitress	name=Dani Marco	episodes=1 episode, 2007 	
+character=Cafe Manager	name=David An	episodes=1 episode, 2007 	
+character=Miami Wiseguy	name=Jeff Grossman	episodes=1 episode, 2007 	
+character=Mental Patient	name=Chiko Mendez	episodes=1 episode, 2007 	
+character=Dr. Baudoin	name=Kevin Scott Allen	episodes=1 episode, 2007 	
+character=French chef	name=Alexander Blaise	episodes=1 episode, 2007 	
+character=Muslim Cleric	name=Elli	episodes=1 episode, 2007 	
+character=Student	name=Jay Eftimoski	episodes=1 episode, 2007 	
+character=Movie Patron	name=Ashley Monique Menard	episodes=1 episode, 2007 	
+character=Bikini Model	name=Elissa Kapneck	episodes=1 episode, 2007 	
+character=Lounging Beachgoer	name=Nicholas Simmons	episodes=1 episode, 2007 	
+character=Party Guest	name=Steven Weisz	episodes=1 episode, 2007 	
+character=Gas Station Attendant	name=Uziman	episodes=1 episode, 2007 	
+character=Shooter	name=Joey Giambattista	episodes=1 episode, 2007 	
+character=Craps Player	name=Bob Pepper	episodes=1 episode, 2007 	
+character=Body Guard	name=Michael DeArmey	episodes=1 episode, 2007 	
+character=High Roller	name=Rob Marrocco	episodes=1 episode, 2007 	
+character=Wiseguy	name=Jack Hammel	episodes=1 episode, 2007 	
+character=Desk Clerk	name=Erik Ramos	episodes=1 episode, 2007 	
+character=High Roller	name=Ed McKeever	episodes=1 episode, 2007 	
+character=Victor Mineo	name=Jennifer Kirabo	episodes=1 episode, 2007 	
+character=Girl	name=Jennifer Kirabo	episodes=1 episode, 2007 	
+character=Italian Tourist	name=Jonah Triebwasser	episodes=1 episode, 2007 	
+character=Casino Guest	name=Chris Palermo	episodes=1 episode, 2007 	
+character=Partygoer	name=Mark Sposato	episodes=1 episode, 2007 	
+character=High Roller	name=Linda Weaver	episodes=1 episode, 2007 	
+character=Crew	name=Robert Ventura	episodes=1 episode, 2007 	
+character=Esteban	name=Robert Ventura	episodes=1 episode, 2007 	
+character=Tourist	name=Vincenzo Caiola	episodes=1 episode, 2007 	
+character=Attending Nurse for AJ	name=Alyxx Morgen	episodes=1 episode, 2007 	
+character=Diner Patron	name=Peter Riga	episodes=1 episode, 2007 	
+character=Vesuvio Patron	name=Casey Bozeman	episodes=1 episode, 2007 	
+character=Muslim	name=Ramy Shedid	episodes=1 episode, 2007 	

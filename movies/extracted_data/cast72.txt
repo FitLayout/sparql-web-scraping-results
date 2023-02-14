@@ -1,0 +1,27 @@
+# http://fitlayout.github.io/resource/art72 -> https://www.imdb.com/title/tt9698442/fullcredits/
+character=Louise	name=Simona Brown	episodes=6 episodes, 2021 	
+character=Adele	name=Eve Hewson	episodes=6 episodes, 2021 	
+character=David	name=Tom Bateman	episodes=6 episodes, 2021 	
+character=Rob	name=Robert Aramayo	episodes=6 episodes, 2021 	
+character=Adam	name=Tyler Howitt	episodes=5 episodes, 2021 	
+character=Sue	name=Georgie Glen	episodes=4 episodes, 2021 	
+character=Ian	name=Aaron Anthony	episodes=4 episodes, 2021 	
+character=Sophie	name=Nichola Burley	episodes=3 episodes, 2021 	
+character=Anthony Hawkins	name=Aston McAuley	episodes=3 episodes, 2021 	
+character=Laura	name=Charlotte Mills	episodes=2 episodes, 2021 	
+character=Dr. Sharma	name=Roshan Seth	episodes=2 episodes, 2021 	
+character=Mr. Hawkins	name=Roger Ringrose	episodes=2 episodes, 2021 	
+character=Mrs. Hawkins	name=Lizzy McInnerny	episodes=2 episodes, 2021 	
+character=Marianne	name=Eva Birthistle	episodes=1 episode, 2021 	
+character=Mandy	name=Hannah Traylen	episodes=1 episode, 2021 	
+character=Uber Driver	name=Stephen Love	episodes=1 episode, 2021 	
+character=Alisa Doyle	name=Laura Aramayo	episodes=1 episode, 2021 	
+character=DCI Angus Wignall	name=Rodney Matthew	episodes=1 episode, 2021 	
+character=Emma	name=Nell Barlow	episodes=1 episode, 2021 	
+character=Marjorie	name=Caroline Guthrie	episodes=1 episode, 2021 	
+character=Geeta Sharma	name=Nila Aalia	episodes=1 episode, 2021 	
+character=Dream Zombie	name=Richie Lawrie	episodes=2 episodes, 2021 	
+character=Parent	name=Ruth Clarson	episodes=1 episode, 2021 	
+character=Office Worker in Bar	name=Rob Horrocks	episodes=1 episode, 2021 	
+character=Local Resident	name=A.k. Steppa	episodes=1 episode, 2021 	
+character=Businessman	name=Paul Riddell	episodes=1 episode, 2021 	

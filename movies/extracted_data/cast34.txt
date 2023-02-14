@@ -1,0 +1,128 @@
+# http://fitlayout.github.io/resource/art34 -> https://www.imdb.com/title/tt2649356/fullcredits/
+character=Camille Preaker	name=Amy Adams	episodes=8 episodes, 2018 	
+character=Adora Crellin	name=Patricia Clarkson	episodes=8 episodes, 2018 	
+character=Detective Richard Willis	name=Chris Messina	episodes=8 episodes, 2018 	
+character=Amma Crellin	name=Eliza Scanlen	episodes=8 episodes, 2018 	
+character=Chief Bill Vickery	name=Matt Craven	episodes=8 episodes, 2018 	
+character=Alan Crellin	name=Henry Czerny	episodes=8 episodes, 2018 	
+character=John Keene	name=Taylor John Smith	episodes=8 episodes, 2018 	
+character=Ashley Wheeler	name=Madison Davenport	episodes=8 episodes, 2018 	
+character=Frank Curry	name=Miguel Sandoval	episodes=8 episodes, 2018 	
+character=Young Camille	name=Sophia Lillis	episodes=8 episodes, 2018 	
+character=Marian Crellin	name=Lulu Wilson	episodes=8 episodes, 2018 	
+character=Jackie O	name=Elizabeth Perkins	episodes=8 episodes, 2018 	
+character=Neill	name=Elizabeth Perkins	episodes=8 episodes, 2018 	
+character=Chris	name=David Sullivan	episodes=8 episodes, 2018 	
+character=Kelsey	name=Violet Brinson	episodes=8 episodes, 2018 	
+character=Jodes	name=April Brinson	episodes=8 episodes, 2018 	
+character=Eileen Curry	name=Barbara Eve Harris	episodes=7 episodes, 2018 	
+character=Gayla	name=Emily Yancy	episodes=7 episodes, 2018 	
+character=Alice	name=Sydney Sweeney	episodes=7 episodes, 2018 	
+character=Bob Nash	name=Will Chase	episodes=6 episodes, 2018 	
+character=Natalie Keene	name=Jessica Treska	episodes=6 episodes, 2018 	
+character=Annie B	name=Beth Broderick	episodes=5 episodes, 2018 	
+character=Deeanna	name=Catherine Carlen	episodes=5 episodes, 2018 	
+character=Melissa	name=Loretta Fox	episodes=5 episodes, 2018 	
+character=Damon	name=Aaron Holliday	episodes=5 episodes, 2018 	
+character=Nolan	name=Ryan James Nelson	episodes=5 episodes, 2018 	
+character=Amanda Nash	name=London Vanovan	episodes=5 episodes, 2018 	
+character=Kirk Lacey	name=Jackson Hurst	episodes=4 episodes, 2018 	
+character=Jeannie Keene	name=Jennifer Aspen	episodes=4 episodes, 2018 	
+character=Pastor	name=Randy Oglesby	episodes=4 episodes, 2018 	
+character=Jocelyn Vickery	name=Betsy Baker	episodes=4 episodes, 2018 	
+character=Nathan	name=Cody Sullivan	episodes=4 episodes, 2018 	
+character=Teen Kirk Lacey	name=Evan Castelloe	episodes=4 episodes, 2018 	
+character=Bobby Nash	name=Gunnar Koehler	episodes=4 episodes, 2018 	
+character=Tiffanie Nash	name=Gracie Prewitt	episodes=4 episodes, 2018 	
+character=Bar Waitress	name=Daisy Garcia	episodes=3 episodes, 2018 	
+character=Katie Lacey	name=Reagan Pasternak	episodes=3 episodes, 2018 	
+character=Angie	name=Lauran September	episodes=3 episodes, 2018 	
+character=Gretchen	name=Jean Villepique	episodes=3 episodes, 2018 	
+character=Lisa	name=Ericka Kreutz	episodes=3 episodes, 2018 	
+character=Clyde	name=Guy Boyd	episodes=3 episodes, 2018 	
+character=Cashier	name=Sonny Shah	episodes=3 episodes, 2018 	
+character=Ann Nash	name=Kaegan Baron	episodes=3 episodes, 2018 	
+character=Becca	name=Hilary Ward	episodes=2 episodes, 2018 	
+character=Dad Keene	name=D.B. Sweeney	episodes=2 episodes, 2018 	
+character=Intake Nurse	name=Stacie Greenwell	episodes=2 episodes, 2018 	
+character=Kendall	name=Justin Welborn	episodes=2 episodes, 2018 	
+character=Jock	name=Matt Bauman	episodes=2 episodes, 2018 	
+character=James Capisi	name=Dylan Schombing	episodes=2 episodes, 2018 	
+character=Foreman	name=Gregory H. Alpert	episodes=2 episodes, 2018 	
+character=White Haired Man	name=Lindsay Ayliffe	episodes=2 episodes, 2018 	
+character=Jack	name=Wes Robertson	episodes=2 episodes, 2018 	
+character=Alpha Friend	name=Kennedy Tucker	episodes=2 episodes, 2018 	
+character=Teen Angie	name=Olive Ryan	episodes=2 episodes, 2018 	
+character=Cheerleader 	name=Te	episodes=2 episodes, 2018 	
+character=Cheerleader 	name=Jones	episodes=2 episodes, 2018 	
+character=Cheerleader 	name=Kayla Gonzalez	episodes=2 episodes, 2018 	
+character=Cheerleader 	name=Sarah Weese	episodes=2 episodes, 2018 	
+character=Adora Crellin	name=Annie Fitzgerald	episodes=1 episode, 2018 	
+character=Nurse Beverly	name=Cristine Rose	episodes=1 episode, 2018 	
+character=Overholt Receptionist	name=Joy Jacobson	episodes=1 episode, 2018 	
+character=Wind Gap Officer	name=Michael Andrew Baker	episodes=1 episode, 2018 	
+character=Dr. Hafia	name=Ravi Kapoor	episodes=1 episode, 2018 	
+character=Barkeep	name=Angel Santana	episodes=1 episode, 2018 	
+character=Oxy Mom	name=Therese McLaughlin	episodes=1 episode, 2018 	
+character=Mae	name=Iyana Halley	episodes=1 episode, 2018 	
+character=Crystal Capisi	name=Stacy Haiduk	episodes=1 episode, 2018 	
+character=Paramedic	name=Keno K. Deary	episodes=1 episode, 2018 	
+character=Judge	name=Tom Simmons	episodes=1 episode, 2018 	
+character=Court Clerk	name=Melinda Ratner	episodes=1 episode, 2018 	
+character=Boy	name=Reid Meadows	episodes=1 episode, 2018 	
+character=Receptionist	name=Celeste Pechous	episodes=1 episode, 2018 	
+character=J.C.	name=Will Milvid	episodes=1 episode, 2018 	
+character=Cheerleader	name=Cristina Spruell	episodes=1 episode, 2018 	
+character=Sarabeth	name=Zachary Barton	episodes=1 episode, 2018 	
+character=Medical Examiner	name=Leonard Kelly-Young	episodes=1 episode, 2018 	
+character=Dixie Teen	name=Phoebe Tweddle	episodes=1 episode, 2018 	
+character=Dee	name=Matty Evers	episodes=1 episode, 2018 	
+character=Girl Teen	name=Micaela Wittman	episodes=1 episode, 2018 	
+character=Teen Katie Lacey	name=Jade Duncan	episodes=1 episode, 2018 	
+character=Jiminy	name=Sam Littlefield	episodes=1 episode, 2018 	
+character=Stunned Woman	name=Rebecca Koon	episodes=1 episode, 2018 	
+character=Teen Becca	name=Yindra Zayas	episodes=1 episode, 2018 	
+character=Rickie	name=Richard B. Henderson	episodes=1 episode, 2018 	
+character=Little Drummer Girl	name=Desirae Moya	episodes=1 episode, 2018 	
+character=Cheerleader 	name=Savannah Schafer	episodes=1 episode, 2018 	
+character=Cheerleader 	name=Kaci Barnes	episodes=1 episode, 2018 	
+character=Calhoun Days Guest	name=Kevin Cline	episodes=1 episode, 2018 	
+character=Gas Station Clerk	name=Rakesh Gosain	episodes=1 episode, 2018 	
+character=Enzo	name=Andrew Buzolic	episodes=1 episode, 2018 	
+character=Party Guest	name=Kevin Thomas	episodes=1 episode, 2018 	
+character=Restaurant Guest	name=Kevyn Bashore	episodes=2 episodes, 2018 	
+character=Guy Teen	name=Cole Doman	episodes=1 episode, 2018 	
+character=Alice	name=Jennifer Lamar	episodes=1 episode, 2018 	
+character=Mother	name=Jennifer Lamar	episodes=1 episode, 2018 	
+character=St. Louis Cop	name=Rolando Boyce	episodes=1 episode, 2018 	
+character=Mexican Worker	name=Jose Miguel Vasquez	episodes=1 episode, 2018 	
+character=Hunting Boy Group	name=Shane Donovan Lewis	episodes=1 episode, 2018 	
+character=Party Goer	name=Julianne Collins	episodes=1 episode, 2018 	
+character=Highschool jock	name=Jake Holley	episodes=1 episode, 2018 	
+character=Wind Gap Griever	name=Corinne van den Heuvel	episodes=1 episode, 2018 	
+character=Rich Calhoun Day Guest	name=Stacy Beckly	episodes=1 episode, 2018 	
+character=Hotel Woman	name=Vitta Quinn	episodes=1 episode, 2018 	
+character=Young Amma	name=Kenley Smyth	episodes=1 episode, 2018 	
+character=Bully Jock	name=Mason Pike	episodes=1 episode, 2018 	
+character=Teen Partygoer	name=Zach Louis	episodes=1 episode, 2018 	
+character=STL Bystander	name=Bobby T	episodes=1 episode, 2018 	
+character=Translator	name=Adam Cronan	episodes=1 episode, 2018 	
+character=Wind Gap Griever	name=Robert Artz	episodes=1 episode, 2018 	
+character=Uniform Cop	name=Senta Burke	episodes=1 episode, 2018 	
+character=Seamstress	name=Loretta Shenosky	episodes=1 episode, 2018 	
+character=Wind Gap Griever	name=Forest Baker	episodes=1 episode, 2018 	
+character=Search Party Member	name=Anthony B. Harris	episodes=1 episode, 2018 	
+character=Customer	name=Demarcus Laney Duke	episodes=1 episode, 2018 	
+character=Pedestrian	name=Thomas Mark Higgins	episodes=1 episode, 2018 	
+character=Bystander	name=Damian Forest Light	episodes=1 episode, 2018 	
+character=Funeral Mourner	name=William Myers	episodes=1 episode, 2018 	
+character=Nurse	name=Catherine Uram	episodes=1 episode, 2018 	
+character=Resident	name=Bobby Akers	episodes=1 episode, 2018 	
+character=Waitress	name=Cynthia Graf	episodes=1 episode, 2018 	
+character=Bar patron	name=Kyle J.M. Thompson	episodes=1 episode, 2018 	
+character=Calhoun Day Guest	name=Sophia Marcs	episodes=1 episode, 2018 	
+character=Funeral Mourner	name=Elsa Morales Myers	episodes=1 episode, 2018 	
+character=Funeral Attendee	name=Jon Zepp	episodes=1 episode, 2018 	
+character=Calhoun Day Rich Man	name=Micheal Wellington	episodes=1 episode, 2018 	
+character=Wind Gap Griever	name=Tyler Walker	episodes=1 episode, 2018 	
+character=Calhoun Worker	name=Joey Kroh	episodes=1 episode, 2018 	

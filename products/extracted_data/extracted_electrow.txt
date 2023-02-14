@@ -1,0 +1,647 @@
+# http://fitlayout.github.io/resource/art1 -> https://www.electroworld.cz/apple-iphone-14-pro-1-tb-gold-zlaty
+title='APPLE IPHONE 14 PRO 1 TB GOLD ZLATÝ'	price='49 990 Kč' 
+# http://fitlayout.github.io/resource/art2 -> https://www.electroworld.cz/apple-iphone-14-pro-1-tb-deep-purple-fialovy
+title='APPLE IPHONE 14 PRO 1 TB DEEP PURPLE FIALOVÝ'	price='49 990 Kč' 
+# http://fitlayout.github.io/resource/art3 -> https://www.electroworld.cz/apple-iphone-14-pro-1-tb-space-black-cerny
+title='APPLE IPHONE 14 PRO 1 TB SPACE BLACK ČERNÝ'	price='49 990 Kč' 
+# http://fitlayout.github.io/resource/art4 -> https://www.electroworld.cz/apple-iphone-14-pro-1-tb-silver-stribrny
+title='APPLE IPHONE 14 PRO 1 TB SILVER STŘÍBRNÝ'	price='49 990 Kč' 
+# http://fitlayout.github.io/resource/art5 -> https://www.electroworld.cz/samsung-galaxy-z-fold4-5g-512-gb-bezovy
+title='SAMSUNG GALAXY Z FOLD4 512 GB BÉŽOVÝ'	price='47 999 Kč' 
+# http://fitlayout.github.io/resource/art6 -> https://www.electroworld.cz/samsung-galaxy-z-fold4-5g-512-gb-zeleny
+title='SAMSUNG GALAXY Z FOLD4 512 GB ZELENÝ'	price='47 999 Kč' 
+# http://fitlayout.github.io/resource/art7 -> https://www.electroworld.cz/samsung-galaxy-z-fold4-5g-512-gb-cerny
+title='SAMSUNG GALAXY Z FOLD4 512 GB ČERNÝ'	price='47 999 Kč' 
+# http://fitlayout.github.io/resource/art8 -> https://www.electroworld.cz/apple-iphone-13-pro-max-1-tb-zeleny
+title='APPLE IPHONE 13 PRO MAX 1 TB ALPINE GREEN ZELENÝ'	price='44 072,7 Kč' 
+# http://fitlayout.github.io/resource/art9 -> https://www.electroworld.cz/apple-iphone-13-pro-max-1-tb-graphite-grafitove-sedy
+title='APPLE IPHONE 13 PRO MAX 1 TB GRAPHITE GRAFITOVĚ ŠEDÝ'	price='44 072,7 Kč' 
+# http://fitlayout.github.io/resource/art10 -> https://www.electroworld.cz/samsung-galaxy-z-fold4-5g-256-gb-bezovy
+title='SAMSUNG GALAXY Z FOLD4 256 GB BÉŽOVÝ'	price='44 999 Kč' 
+# http://fitlayout.github.io/resource/art11 -> https://www.electroworld.cz/samsung-galaxy-z-fold4-5g-256-gb-zeleny
+title='SAMSUNG GALAXY Z FOLD4 256 GB ZELENÝ'	price='44 999 Kč' 
+# http://fitlayout.github.io/resource/art12 -> https://www.electroworld.cz/apple-iphone-13-pro-1-tb-gold-zlaty
+title='APPLE IPHONE 13 PRO 1 TB GOLD ZLATÝ'	price='40 445,7 Kč' 
+# http://fitlayout.github.io/resource/art13 -> https://www.electroworld.cz/apple-iphone-13-pro-1-tb-silver-stribrny
+title='APPLE IPHONE 13 PRO 1 TB SILVER STŘÍBRNÝ'	price='40 445,7 Kč' 
+# http://fitlayout.github.io/resource/art14 -> https://www.electroworld.cz/apple-iphone-13-pro-1-tb-zeleny
+title='APPLE IPHONE 13 PRO 1 TB ALPINE GREEN ZELENÝ'	price='40 445,7 Kč' 
+# http://fitlayout.github.io/resource/art15 -> https://www.electroworld.cz/apple-iphone-13-pro-1-tb-sierra-blue-horsky-modry
+title='APPLE IPHONE 13 PRO 1 TB SIERRA BLUE HORSKY MODRÝ'	price='40 445,7 Kč' 
+# http://fitlayout.github.io/resource/art16 -> https://www.electroworld.cz/apple-iphone-13-pro-1-tb-graphite-grafitove-sedy
+title='APPLE IPHONE 13 PRO 1 TB GRAPHITE GRAFITOVĚ ŠEDÝ'	price='40 445,7 Kč' 
+# http://fitlayout.github.io/resource/art17 -> https://www.electroworld.cz/apple-iphone-13-pro-512-gb-silver-stribrny
+title='APPLE IPHONE 13 PRO 512 GB SILVER STŘÍBRNÝ'	price='35 516,7 Kč' 
+# http://fitlayout.github.io/resource/art18 -> https://www.electroworld.cz/apple-iphone-13-pro-512-gb-sierra-blue-horsky-modry
+title='APPLE IPHONE 13 PRO 512 GB SIERRA BLUE HORSKY MODRÝ'	price='35 516,7 Kč' 
+# http://fitlayout.github.io/resource/art19 -> https://www.electroworld.cz/apple-iphone-13-pro-512-gb-gold-zlaty
+title='APPLE IPHONE 13 PRO 512 GB GOLD ZLATÝ'	price='35 516,7 Kč' 
+# http://fitlayout.github.io/resource/art20 -> https://www.electroworld.cz/samsung-galaxy-s22-ultra-512-gb-bily
+title='SAMSUNG GALAXY S22 ULTRA 512 GB BÍLÝ'	price='36 990 Kč' 
+# http://fitlayout.github.io/resource/art21 -> https://www.electroworld.cz/samsung-galaxy-s22-ultra-512-gb-cerny
+title='SAMSUNG GALAXY S22 ULTRA 512 GB ČERNÝ'	price='36 990 Kč' 
+# http://fitlayout.github.io/resource/art22 -> https://www.electroworld.cz/samsung-galaxy-s22-ultra-512-gb-vinovy
+title='SAMSUNG GALAXY S22 ULTRA 512 GB VÍNOVÝ'	price='36 990 Kč' 
+# http://fitlayout.github.io/resource/art23 -> https://www.electroworld.cz/samsung-galaxy-z-fold3-5g-512-gb-cerny
+title='SAMSUNG GALAXY Z FOLD3 5G 512 GB ČERNÝ'	price='36 990 Kč' 
+# http://fitlayout.github.io/resource/art24 -> https://www.electroworld.cz/apple-iphone-14-512-gb-product-red
+title='APPLE IPHONE 14 512 GB (PRODUCT)RED ČERVENÝ'	price='36 490 Kč' 
+# http://fitlayout.github.io/resource/art25 -> https://www.electroworld.cz/apple-iphone-14-512-gb-starlight-bily
+title='APPLE IPHONE 14 512 GB STARLIGHT BÍLÝ'	price='36 490 Kč' 
+# http://fitlayout.github.io/resource/art26 -> https://www.electroworld.cz/apple-iphone-14-512-gb-midnight-cerny
+title='APPLE IPHONE 14 512 GB MIDNIGHT ČERNÝ'	price='36 490 Kč' 
+# http://fitlayout.github.io/resource/art27 -> https://www.electroworld.cz/apple-iphone-14-512-gb-blue-modry
+title='APPLE IPHONE 14 512 GB BLUE MODRÝ'	price='36 490 Kč' 
+# http://fitlayout.github.io/resource/art28 -> https://www.electroworld.cz/apple-iphone-14-512-gb-purple-fialovy
+title='APPLE IPHONE 14 512 GB PURPLE FIALOVÝ'	price='36 490 Kč' 
+# http://fitlayout.github.io/resource/art29 -> https://www.electroworld.cz/sony-xperia-1-iv-5g-bily
+title='SONY XPERIA 1 IV 5G BÍLÝ'	price='34 990 Kč' 
+# http://fitlayout.github.io/resource/art30 -> https://www.electroworld.cz/apple-iphone-13-pro-max-256-gb-gold-zlaty
+title='APPLE IPHONE 13 PRO MAX 256 GB GOLD ZLATÝ'	price='32 540,7 Kč' 
+# http://fitlayout.github.io/resource/art31 -> https://www.electroworld.cz/sony-xperia-1-iv-5g-cerny
+title='SONY XPERIA 1 IV 5G ČERNÝ'	price='34 990 Kč' 
+# http://fitlayout.github.io/resource/art32 -> https://www.electroworld.cz/sony-xperia-1-iv-5g-fialovy
+title='SONY XPERIA 1 IV 5G FIALOVÝ'	price='34 990 Kč' 
+# http://fitlayout.github.io/resource/art33 -> https://www.electroworld.cz/samsung-galaxy-s22-ultra-256-gb-zeleny
+title='SAMSUNG GALAXY S22 ULTRA 256 GB ZELENÝ'	price='29 490 Kč' 
+# http://fitlayout.github.io/resource/art34 -> https://www.electroworld.cz/samsung-galaxy-s22-ultra-256-gb-bily
+title='SAMSUNG GALAXY S22 ULTRA 256 GB BÍLÝ'	price='29 490 Kč' 
+# http://fitlayout.github.io/resource/art35 -> https://www.electroworld.cz/samsung-galaxy-s22-ultra-256-gb-vinovy
+title='SAMSUNG GALAXY S22 ULTRA 256 GB VÍNOVÝ'	price='29 490 Kč' 
+# http://fitlayout.github.io/resource/art36 -> https://www.electroworld.cz/samsung-galaxy-s22-ultra-256-gb-cerny
+title='SAMSUNG GALAXY S22 ULTRA 256 GB ČERNÝ'	price='29 490 Kč' 
+# http://fitlayout.github.io/resource/art37 -> https://www.electroworld.cz/samsung-galaxy-z-flip4-512-gb-sedy
+title='SAMSUNG GALAXY Z FLIP4 512 GB ŠEDÝ'	price='31 999 Kč' 
+# http://fitlayout.github.io/resource/art38 -> https://www.electroworld.cz/samsung-galaxy-s22-ultra-128-gb-bily
+title='SAMSUNG GALAXY S22 ULTRA 128 GB BÍLÝ'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art39 -> https://www.electroworld.cz/samsung-galaxy-s22-ultra-128-gb-cerny
+title='SAMSUNG GALAXY S22 ULTRA 128 GB ČERNÝ'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art40 -> https://www.electroworld.cz/samsung-galaxy-s22-ultra-128-gb-vinovy
+title='SAMSUNG GALAXY S22 ULTRA 128 GB VÍNOVÝ'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art41 -> https://www.electroworld.cz/apple-iphone-13-pro-256-gb-gold-zlaty
+title='APPLE IPHONE 13 PRO 256 GB GOLD ZLATÝ'	price='29 750,7 Kč' 
+# http://fitlayout.github.io/resource/art42 -> https://www.electroworld.cz/apple-iphone-13-pro-256-gb-sierra-blue-horsky-modry
+title='APPLE IPHONE 13 PRO 256 GB SIERRA BLUE HORSKY MODRÝ'	price='29 750,7 Kč' 
+# http://fitlayout.github.io/resource/art43 -> https://www.electroworld.cz/apple-iphone-14-256-gb-blue-modry
+title='APPLE IPHONE 14 256 GB BLUE MODRÝ'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art44 -> https://www.electroworld.cz/apple-iphone-14-256-gb-product-red
+title='APPLE IPHONE 14 256 GB (PRODUCT)RED ČERVENÝ'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art45 -> https://www.electroworld.cz/apple-iphone-14-256-gb-starlight-bily
+title='APPLE IPHONE 14 256 GB STARLIGHT BÍLÝ'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art46 -> https://www.electroworld.cz/apple-iphone-14-256-gb-midnight-cerny
+title='APPLE IPHONE 14 256 GB MIDNIGHT ČERNÝ'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art47 -> https://www.electroworld.cz/apple-iphone-14-256-gb-purple-fialovy
+title='APPLE IPHONE 14 256 GB PURPLE FIALOVÝ'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art48 -> https://www.electroworld.cz/samsung-galaxy-z-flip4-256-gb-zlaty
+title='SAMSUNG GALAXY Z FLIP4 256 GB ZLATÝ'	price='28 999 Kč' 
+# http://fitlayout.github.io/resource/art49 -> https://www.electroworld.cz/samsung-galaxy-z-flip4-256-gb-sedy
+title='SAMSUNG GALAXY Z FLIP4 256 GB ŠEDÝ'	price='28 999 Kč' 
+# http://fitlayout.github.io/resource/art50 -> https://www.electroworld.cz/samsung-galaxy-z-flip4-256-gb-modry
+title='SAMSUNG GALAXY Z FLIP4 256 GB MODRÝ'	price='28 999 Kč' 
+# http://fitlayout.github.io/resource/art51 -> https://www.electroworld.cz/samsung-galaxy-z-flip4-256-gb-fialovy
+title='SAMSUNG GALAXY Z FLIP4 256 GB FIALOVÝ'	price='28 999 Kč' 
+# http://fitlayout.github.io/resource/art52 -> https://www.electroworld.cz/apple-iphone-13-pro-128-gb-zeleny
+title='APPLE IPHONE 13 PRO 128 GB ALPINE GREEN ZELENÝ'	price='128 GB256 GB512 GB1000 GB' 
+# http://fitlayout.github.io/resource/art53 -> https://www.electroworld.cz/apple-iphone-13-pro-128-gb-graphite-grafitove-sedy
+title='APPLE IPHONE 13 PRO 128 GB GRAPHITE GRAFITOVĚ ŠEDÝ'	price='26 960,7 Kč' 
+# http://fitlayout.github.io/resource/art54 -> https://www.electroworld.cz/samsung-galaxy-z-flip3-256-gb-kremovy
+title='SAMSUNG GALAXY Z FLIP3 5G 256 GB KRÉMOVÝ'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art55 -> https://www.electroworld.cz/apple-iphone-13-pro-128-gb-sierra-blue-horsky-modry
+title='APPLE IPHONE 13 PRO 128 GB SIERRA BLUE HORSKY MODRÝ'	price='26 960,7 Kč' 
+# http://fitlayout.github.io/resource/art56 -> https://www.electroworld.cz/apple-iphone-13-pro-128-gb-gold-zlaty
+title='APPLE IPHONE 13 PRO 128 GB GOLD ZLATÝ'	price='26 960,7 Kč' 
+# http://fitlayout.github.io/resource/art57 -> https://www.electroworld.cz/samsung-galaxy-s22-plus-256-gb-ruzovy
+title='SAMSUNG GALAXY S22+ 256 GB RŮŽOVÝ'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art58 -> https://www.electroworld.cz/samsung-galaxy-s22-plus-256-gb-zeleny
+title='SAMSUNG GALAXY S22+ 256 GB ZELENÝ'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art59 -> https://www.electroworld.cz/xiaomi-12-pro-8-256-gb-modry
+title='XIAOMI 12 PRO 256 GB MODRÝ'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art60 -> https://www.electroworld.cz/samsung-galaxy-s22-plus-256-gb-bily
+title='SAMSUNG GALAXY S22+ 256 GB BÍLÝ'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art61 -> https://www.electroworld.cz/samsung-galaxy-s22-plus-256-gb-cerny
+title='SAMSUNG GALAXY S22+ 256 GB ČERNÝ'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art62 -> https://www.electroworld.cz/samsung-galaxy-z-flip4-128-gb-zlaty
+title='SAMSUNG GALAXY Z FLIP4 128 GB ZLATÝ'	price='27 499 Kč' 
+# http://fitlayout.github.io/resource/art63 -> https://www.electroworld.cz/samsung-galaxy-z-flip4-128-gb-modry
+title='SAMSUNG GALAXY Z FLIP4 128 GB MODRÝ'	price='27 499 Kč' 
+# http://fitlayout.github.io/resource/art64 -> https://www.electroworld.cz/samsung-galaxy-z-flip4-128-gb-fialovy
+title='SAMSUNG GALAXY Z FLIP4 128 GB FIALOVÝ'	price='27 499 Kč' 
+# http://fitlayout.github.io/resource/art65 -> https://www.electroworld.cz/samsung-galaxy-z-flip4-128-gb-sedy
+title='SAMSUNG GALAXY Z FLIP4 128 GB ŠEDÝ'	price='27 499 Kč' 
+# http://fitlayout.github.io/resource/art66 -> https://www.electroworld.cz/samsung-galaxy-s22-plus-128-gb-cerny
+title='SAMSUNG GALAXY S22+ 128 GB ČERNÝ'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art67 -> https://www.electroworld.cz/samsung-galaxy-s22-plus-128-gb-bily
+title='SAMSUNG GALAXY S22+ 128 GB BÍLÝ'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art68 -> https://www.electroworld.cz/samsung-galaxy-s22-plus-128-gb-ruzovy
+title='SAMSUNG GALAXY S22+ 128 GB RŮŽOVÝ'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art69 -> https://www.electroworld.cz/samsung-galaxy-s22-plus-128-gb-zeleny
+title='SAMSUNG GALAXY S22+ 128 GB ZELENÝ'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art70 -> https://www.electroworld.cz/vivo-x80-pro-256-gb-cerny
+title='VIVO X80 PRO 256 GB ČERNÝ'	price='24 021,1 Kč' 
+# http://fitlayout.github.io/resource/art71 -> https://www.electroworld.cz/apple-iphone-13-mini-512-gb-product-red
+title='APPLE IPHONE 13 MINI 512 GB PRODUCT(RED)'	price='24 635,7 Kč' 
+# http://fitlayout.github.io/resource/art72 -> https://www.electroworld.cz/apple-iphone-13-mini-512-gb-starlight-bily
+title='APPLE IPHONE 13 MINI 512 GB STARLIGHT BÍLÝ'	price='24 635,7 Kč' 
+# http://fitlayout.github.io/resource/art73 -> https://www.electroworld.cz/apple-iphone-13-512-gb-product-red
+title='APPLE IPHONE 13 512 GB PRODUCT(RED)'	price='24 635,7 Kč' 
+# http://fitlayout.github.io/resource/art74 -> https://www.electroworld.cz/apple-iphone-13-mini-512-gb-midnight-cerny
+title='APPLE IPHONE 13 MINI 512 GB MIDNIGHT ČERNÝ'	price='24 635,7 Kč' 
+# http://fitlayout.github.io/resource/art75 -> https://www.electroworld.cz/apple-iphone-14-128-gb-product-red
+title='APPLE IPHONE 14 128 GB (PRODUCT)RED ČERVENÝ'	price='26 490 Kč' 
+# http://fitlayout.github.io/resource/art76 -> https://www.electroworld.cz/apple-iphone-13-512-gb-starlight-bily
+title='APPLE IPHONE 13 512 GB STARLIGHT BÍLÝ'	price='24 635,7 Kč' 
+# http://fitlayout.github.io/resource/art77 -> https://www.electroworld.cz/apple-iphone-13-512-gb-pink-ruzovy
+title='APPLE IPHONE 13 512 GB PINK RŮŽOVÝ'	price='24 635,7 Kč' 
+# http://fitlayout.github.io/resource/art78 -> https://www.electroworld.cz/apple-iphone-13-512-gb-midnight-cerny
+title='APPLE IPHONE 13 512 GB MIDNIGHT ČERNÝ'	price='24 635,7 Kč' 
+# http://fitlayout.github.io/resource/art79 -> https://www.electroworld.cz/apple-iphone-13-mini-512-gb-blue-modry
+title='APPLE IPHONE 13 MINI 512 GB BLUE MODRÝ'	price='24 635,7 Kč' 
+# http://fitlayout.github.io/resource/art80 -> https://www.electroworld.cz/apple-iphone-13-mini-512-gb-pink-ruzovy
+title='APPLE IPHONE 13 MINI 512 GB PINK RŮŽOVÝ'	price='24 635,7 Kč' 
+# http://fitlayout.github.io/resource/art81 -> https://www.electroworld.cz/apple-iphone-13-512-gb-blue-modry
+title='APPLE IPHONE 13 512 GB BLUE MODRÝ'	price='24 635,7 Kč' 
+# http://fitlayout.github.io/resource/art82 -> https://www.electroworld.cz/apple-iphone-14-128-gb-purple-fialovy
+title='APPLE IPHONE 14 128 GB PURPLE FIALOVÝ'	price='26 490 Kč' 
+# http://fitlayout.github.io/resource/art83 -> https://www.electroworld.cz/apple-iphone-14-128-gb-starlight-bily
+title='APPLE IPHONE 14 128 GB STARLIGHT BÍLÝ'	price='26 490 Kč' 
+# http://fitlayout.github.io/resource/art84 -> https://www.electroworld.cz/apple-iphone-14-128-gb-blue-modry
+title='APPLE IPHONE 14 128 GB BLUE MODRÝ'	price='26 490 Kč' 
+# http://fitlayout.github.io/resource/art85 -> https://www.electroworld.cz/apple-iphone-14-128-gb-midnight-cerny
+title='APPLE IPHONE 14 128 GB MIDNIGHT BLACK ČERNÝ'	price='26 490 Kč' 
+# http://fitlayout.github.io/resource/art86 -> https://www.electroworld.cz/oneplus-10-pro-256-gb-cerny
+title='ONEPLUS 10 PRO 256 GB ČERNÝ'	price='25 990 Kč' 
+# http://fitlayout.github.io/resource/art88 -> https://www.electroworld.cz/samsung-galaxy-z-flip3-128-gb-kremovy
+title='SAMSUNG GALAXY Z FLIP3 5G 128 GB KRÉMOVÝ'	price='24 990 Kč' 
+# http://fitlayout.github.io/resource/art89 -> https://www.electroworld.cz/huawei-p50-pocket-256-gb-bily
+title='HUAWEI P50 POCKET (HMS) 256 GB BÍLÝ'	price='24 990 Kč' 
+# http://fitlayout.github.io/resource/art90 -> https://www.electroworld.cz/apple-iphone-13-256-gb-product-red
+title='APPLE IPHONE 13 256 GB PRODUCT(RED)'	price='23 240,7 Kč' 
+# http://fitlayout.github.io/resource/art91 -> https://www.electroworld.cz/apple-iphone-13-256-gb-pink-ruzovy
+title='APPLE IPHONE 13 256 GB PINK RŮŽOVÝ'	price='23 240,7 Kč' 
+# http://fitlayout.github.io/resource/art92 -> https://www.electroworld.cz/samsung-galaxy-z-flip3-128-gb-zeleny
+title='SAMSUNG GALAXY Z FLIP3 5G 128 GB ZELENÝ'	price='24 990 Kč' 
+# http://fitlayout.github.io/resource/art93 -> https://www.electroworld.cz/apple-iphone-13-256-gb-starlight-bily
+title='APPLE IPHONE 13 256 GB STARLIGHT BÍLÝ'	price='23 240,7 Kč' 
+# http://fitlayout.github.io/resource/art94 -> https://www.electroworld.cz/apple-iphone-13-256-gb-midnight-cerny
+title='APPLE IPHONE 13 256 GB MIDNIGHT ČERNÝ'	price='23 240,7 Kč' 
+# http://fitlayout.github.io/resource/art95 -> https://www.electroworld.cz/apple-iphone-13-256-gb-blue-modry
+title='APPLE IPHONE 13 256 GB BLUE MODRÝ'	price='23 240,7 Kč' 
+# http://fitlayout.github.io/resource/art96 -> https://www.electroworld.cz/apple-iphone-13-256-gb-zeleny
+title='APPLE IPHONE 13 256 GB GREEN ZELENÝ'	price='23 240,7 Kč' 
+# http://fitlayout.github.io/resource/art97 -> https://www.electroworld.cz/samsung-galaxy-z-flip3-128-gb-cerny
+title='SAMSUNG GALAXY Z FLIP3 5G 128 GB ČERNÝ'	price='24 990 Kč' 
+# http://fitlayout.github.io/resource/art98 -> https://www.electroworld.cz/samsung-galaxy-s21-5g-256-gb-bily
+title='SAMSUNG GALAXY S21 5G 256 GB BÍLÝ'	price='23 990 Kč' 
+# http://fitlayout.github.io/resource/art99 -> https://www.electroworld.cz/oneplus-10-pro-128-gb-cerny
+title='ONEPLUS 10 PRO 128 GB ČERNÝ'	price='23 490 Kč' 
+# http://fitlayout.github.io/resource/art100 -> https://www.electroworld.cz/apple-iphone-12-256-gb-product-red
+title='APPLE IPHONE 12 256 GB (PRODUCT)RED'	price='21 845,7 Kč' 
+# http://fitlayout.github.io/resource/art101 -> https://www.electroworld.cz/apple-iphone-12-256-gb-white-bily
+title='APPLE IPHONE 12 256 GB WHITE BÍLÝ'	price='21 845,7 Kč' 
+# http://fitlayout.github.io/resource/art102 -> https://www.electroworld.cz/apple-iphone-12-256-gb-black-cerny
+title='APPLE IPHONE 12 256 GB BLACK ČERNÝ'	price='21 845,7 Kč' 
+# http://fitlayout.github.io/resource/art103 -> https://www.electroworld.cz/apple-iphone-12-256-gb-blue-modry
+title='APPLE IPHONE 12 256 GB BLUE MODRÝ'	price='21 845,7 Kč' 
+# http://fitlayout.github.io/resource/art104 -> https://www.electroworld.cz/samsung-galaxy-s22-256-gb-bily
+title='SAMSUNG GALAXY S22 256 GB BÍLÝ'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art105 -> https://www.electroworld.cz/samsung-galaxy-s22-256-gb-fialovy
+title='SAMSUNG GALAXY S22 256GB FIALOVÝ'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art106 -> https://www.electroworld.cz/samsung-galaxy-s22-256-gb-cerny
+title='SAMSUNG GALAXY S22 256 GB ČERNÝ'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art107 -> https://www.electroworld.cz/samsung-galaxy-s22-256-gb-ruzovy
+title='SAMSUNG GALAXY S22 256 GB RŮŽOVÝ'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art108 -> https://www.electroworld.cz/samsung-galaxy-s22-256-gb-zeleny
+title='SAMSUNG GALAXY S22 256 GB ZELENÝ'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art109 -> https://www.electroworld.cz/huawei-p50-pro-cerny
+title='HUAWEI P50 PRO (HMS) 256 GB ČERNÝ'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art110 -> https://www.electroworld.cz/apple-iphone-13-128-gb-product-red
+title='APPLE IPHONE 13 128 GB PRODUCT(RED)'	price='20 450,7 Kč' 
+# http://fitlayout.github.io/resource/art111 -> https://www.electroworld.cz/samsung-galaxy-s22-128-gb-zeleny
+title='SAMSUNG GALAXY S22 128 GB ZELENÝ'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art112 -> https://www.electroworld.cz/samsung-galaxy-s22-128-gb-bily
+title='SAMSUNG GALAXY S22 128 GB BÍLÝ'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art113 -> https://www.electroworld.cz/samsung-galaxy-s22-128-gb-cerny
+title='SAMSUNG GALAXY S22 128 GB ČERNÝ'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art114 -> https://www.electroworld.cz/apple-iphone-13-128-gb-starlight-bily
+title='APPLE IPHONE 13 128 GB STARLIGHT BÍLÝ'	price='20 450,7 Kč' 
+# http://fitlayout.github.io/resource/art115 -> https://www.electroworld.cz/asus-zenfone-8-16-gb-256-gb-stribrny
+title='ASUS ZENFONE 8 16 GB/256 GB STŘÍBRNÝ'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art116 -> https://www.electroworld.cz/huawei-p50-pro-zlaty
+title='HUAWEI P50 PRO (HMS) 256 GB ZLATÝ'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art117 -> https://www.electroworld.cz/apple-iphone-13-128-gb-zeleny
+title='APPLE IPHONE 13 128 GB GREEN ZELENÝ'	price='20 450,7 Kč' 
+# http://fitlayout.github.io/resource/art118 -> https://www.electroworld.cz/samsung-galaxy-s22-128-gb-ruzovy
+title='SAMSUNG GALAXY S22 128 GB RŮŽOVÝ'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art119 -> https://www.electroworld.cz/samsung-galaxy-s22-128-gb-fialovy
+title='SAMSUNG GALAXY S22 128GB FIALOVÝ'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art120 -> https://www.electroworld.cz/apple-iphone-13-128-gb-midnight-cerny
+title='APPLE IPHONE 13 128 GB MIDNIGHT ČERNÝ'	price='20 450,7 Kč' 
+# http://fitlayout.github.io/resource/art121 -> https://www.electroworld.cz/apple-iphone-13-mini-256-gb-midnight-cerny
+title='APPLE IPHONE 13 MINI 256 GB MIDNIGHT ČERNÝ'	price='20 264,7 Kč' 
+# http://fitlayout.github.io/resource/art122 -> https://www.electroworld.cz/apple-iphone-13-mini-256-gb-starlight-bily
+title='APPLE IPHONE 13 MINI 256 GB STARLIGHT BÍLÝ'	price='20 264,7 Kč' 
+# http://fitlayout.github.io/resource/art123 -> https://www.electroworld.cz/apple-iphone-13-mini-256-gb-pink-ruzovy
+title='APPLE IPHONE 13 MINI 256 GB PINK RŮŽOVÝ'	price='20 264,7 Kč' 
+# http://fitlayout.github.io/resource/art124 -> https://www.electroworld.cz/apple-iphone-13-mini-256-gb-blue-modry
+title='APPLE IPHONE 13 MINI 256 GB BLUE MODRÝ'	price='20 264,7 Kč' 
+# http://fitlayout.github.io/resource/art125 -> https://www.electroworld.cz/apple-iphone-13-mini-256-gb-product-red
+title='APPLE IPHONE 13 MINI 256 GB PRODUCT(RED)'	price='20 264,7 Kč' 
+# http://fitlayout.github.io/resource/art126 -> https://www.electroworld.cz/apple-iphone-13-mini-256-gb-zeleny
+title='APPLE IPHONE 13 MINI 256 GB GREEN ZELENÝ'	price='20 264,7 Kč' 
+# http://fitlayout.github.io/resource/art127 -> https://www.electroworld.cz/apple-iphone-13-128-gb-blue-modry
+title='APPLE IPHONE 13 128 GB BLUE MODRÝ'	price='19 985,7 Kč' 
+# http://fitlayout.github.io/resource/art128 -> https://www.electroworld.cz/samsung-galaxy-s21-fe-5g-256-gb-sedy
+title='SAMSUNG GALAXY S21 FE 5G 256 GB ŠEDÝ'	price='20 999 Kč' 
+# http://fitlayout.github.io/resource/art129 -> https://www.electroworld.cz/samsung-galaxy-s21-fe-256-gb-zeleny
+title='SAMSUNG GALAXY S21 FE 5G 256 GB ZELENÝ'	price='20 990 Kč' 
+# http://fitlayout.github.io/resource/art130 -> https://www.electroworld.cz/samsung-galaxy-s21-fe-256-gb-bily
+title='SAMSUNG GALAXY S21 FE 5G 256 GB BÍLÝ'	price='20 990 Kč' 
+# http://fitlayout.github.io/resource/art131 -> https://www.electroworld.cz/samsung-galaxy-s21-fe-256-gb-fialovy
+title='SAMSUNG GALAXY S21 FE 5G 256 GB FIALOVÝ'	price='20 990 Kč' 
+# http://fitlayout.github.io/resource/art132 -> https://www.electroworld.cz/apple-iphone-12-128-gb-green-zeleny
+title='APPLE IPHONE 12 128 GB GREEN ZELENÝ'	price='18 869,7 Kč' 
+# http://fitlayout.github.io/resource/art133 -> https://www.electroworld.cz/apple-iphone-12-128-gb-fialovy
+title='APPLE IPHONE 12 128 GB PURPLE FIALOVÝ'	price='18 869,7 Kč' 
+# http://fitlayout.github.io/resource/art134 -> https://www.electroworld.cz/apple-iphone-12-128-gb-black-cerny
+title='APPLE IPHONE 12 128 GB BLACK ČERNÝ'	price='18 869,7 Kč' 
+# http://fitlayout.github.io/resource/art135 -> https://www.electroworld.cz/apple-iphone-12-128-gb-white-bily
+title='APPLE IPHONE 12 128 GB WHITE BÍLÝ'	price='18 869,7 Kč' 
+# http://fitlayout.github.io/resource/art136 -> https://www.electroworld.cz/apple-iphone-12-128-gb-product-red
+title='APPLE IPHONE 12 128 GB (PRODUCT)RED'	price='18 869,7 Kč' 
+# http://fitlayout.github.io/resource/art137 -> https://www.electroworld.cz/apple-iphone-12-128-gb-blue-modry
+title='APPLE IPHONE 12 128 GB BLUE MODRÝ'	price='18 869,7 Kč' 
+# http://fitlayout.github.io/resource/art138 -> https://www.electroworld.cz/apple-iphone-12-mini-256-gb-green-zeleny
+title='APPLE IPHONE 12 MINI 256 GB GREEN ZELENÝ'	price='18 311,7 Kč' 
+# http://fitlayout.github.io/resource/art139 -> https://www.electroworld.cz/apple-iphone-12-mini-256-gb-white-bily
+title='APPLE IPHONE 12 MINI 256 GB WHITE BÍLÝ'	price='18 311,7 Kč' 
+# http://fitlayout.github.io/resource/art140 -> https://www.electroworld.cz/apple-iphone-12-mini-256-gb-black-cerny
+title='APPLE IPHONE 12 MINI 256 GB BLACK ČERNÝ'	price='18 311,7 Kč' 
+# http://fitlayout.github.io/resource/art141 -> https://www.electroworld.cz/apple-iphone-12-mini-256-gb-product-red
+title='APPLE IPHONE 12 MINI 256 GB (PRODUCT)RED'	price='18 311,7 Kč' 
+# http://fitlayout.github.io/resource/art142 -> https://www.electroworld.cz/apple-iphone-12-mini-256-gb-blue-modry
+title='APPLE IPHONE 12 MINI 256 GB BLUE MODRÝ'	price='18 311,7 Kč' 
+# http://fitlayout.github.io/resource/art143 -> https://www.electroworld.cz/apple-iphone-12-mini-256-gb-fialovy
+title='APPLE IPHONE 12 MINI 256 GB PURPLE FIALOVÝ'	price='18 311,7 Kč' 
+# http://fitlayout.github.io/resource/art144 -> https://www.electroworld.cz/asus-zenfone-8-256-gb-stribrny
+title='ASUS ZENFONE 8 256 GB STŘÍBRNÝ'	price='19 490 Kč' 
+# http://fitlayout.github.io/resource/art145 -> https://www.electroworld.cz/asus-zenfone-8-256-gb-cerny
+title='ASUS ZENFONE 8 256 ČERNÝ'	price='19 490 Kč' 
+# http://fitlayout.github.io/resource/art146 -> https://www.electroworld.cz/apple-iphone-se-2022-256-gb-product-red
+title='APPLE IPHONE SE 2022 256 GB (PRODUCT)RED'	price='17 846,7 Kč' 
+# http://fitlayout.github.io/resource/art147 -> https://www.electroworld.cz/apple-iphone-se-2022-256-gb-starlight-bily
+title='APPLE IPHONE SE 2022 256 GB STARLIGHT BÍLÝ'	price='17 846,7 Kč' 
+# http://fitlayout.github.io/resource/art148 -> https://www.electroworld.cz/apple-iphone-se-2022-256-gb-midnight-cerny
+title='APPLE IPHONE SE 2022 256 GB MIDNIGHT ČERNÝ'	price='17 846,7 Kč' 
+# http://fitlayout.github.io/resource/art149 -> https://www.electroworld.cz/oneplus-9-pro-128-gb-zeleny
+title='ONEPLUS 9 PRO 128 GB ZELENÝ'	price='18 999 Kč' 
+# http://fitlayout.github.io/resource/art150 -> https://www.electroworld.cz/samsung-galaxy-s21-fe-5g-128-gb-bily
+title='SAMSUNG GALAXY S21 FE 5G 128 GB BÍLÝ'	price='14 999 Kč' 
+# http://fitlayout.github.io/resource/art151 -> https://www.electroworld.cz/samsung-galaxy-s21-fe-5g-128-gb-sedy
+title='SAMSUNG GALAXY S21 FE 5G 128 GB ŠEDÝ'	price='14 999 Kč' 
+# http://fitlayout.github.io/resource/art152 -> https://www.electroworld.cz/samsung-galaxy-s21-fe-5g-128-gb-fialovy
+title='SAMSUNG GALAXY S21 FE 5G 128 GB FIALOVÝ'	price='14 999 Kč' 
+# http://fitlayout.github.io/resource/art153 -> https://www.electroworld.cz/oneplus-9-pro-128-gb-stribrny
+title='ONEPLUS 9 PRO 128 GB STŘÍBRNÝ'	price='18 999 Kč' 
+# http://fitlayout.github.io/resource/art154 -> https://www.electroworld.cz/samsung-galaxy-s21-fe-5g-128-gb-zeleny
+title='SAMSUNG GALAXY S21 FE 5G 128 GB ZELENÝ'	price='14 999 Kč' 
+# http://fitlayout.github.io/resource/art155 -> https://www.electroworld.cz/oneplus-9-pro-128-gb-cerny
+title='ONEPLUS 9 PRO 128 GB ČERNÝ'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art156 -> https://www.electroworld.cz/xiaomi-12-8-256-gb-fialovy
+title='XIAOMI 12 256 GB FIALOVÝ'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art157 -> https://www.electroworld.cz/xiaomi-12-8-256-gb-modry
+title='XIAOMI 12 256 GB MODRÝ'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art158 -> https://www.electroworld.cz/samsung-galaxy-s21-fe-128-gb-zeleny
+title='SAMSUNG GALAXY S21 FE 5G 128 GB ZELENÝ'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art159 -> https://www.electroworld.cz/apple-iphone-13-mini-128-gb-zeleny
+title='APPLE IPHONE 13 MINI 128 GB GREEN ZELENÝ'	price='17 660,7 Kč' 
+# http://fitlayout.github.io/resource/art160 -> https://www.electroworld.cz/apple-iphone-13-mini-128-gb-starlight-bily
+title='APPLE IPHONE 13 MINI 128 GB STARLIGHT BÍLÝ'	price='17 660,7 Kč' 
+# http://fitlayout.github.io/resource/art161 -> https://www.electroworld.cz/apple-iphone-13-mini-128-gb-product-red
+title='APPLE IPHONE 13 MINI 128 GB PRODUCT(RED)'	price='17 660,7 Kč' 
+# http://fitlayout.github.io/resource/art162 -> https://www.electroworld.cz/samsung-galaxy-s21-fe-128-gb-fialovy
+title='SAMSUNG GALAXY S21 FE 5G 128 GB FIALOVÝ'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art163 -> https://www.electroworld.cz/apple-iphone-13-mini-128-gb-pink-ruzovy
+title='APPLE IPHONE 13 MINI 128 GB PINK RŮŽOVÝ'	price='17 660,7 Kč' 
+# http://fitlayout.github.io/resource/art164 -> https://www.electroworld.cz/apple-iphone-13-mini-128-gb-blue-modry
+title='APPLE IPHONE 13 MINI 128 GB BLUE MODRÝ'	price='17 660,7 Kč' 
+# http://fitlayout.github.io/resource/art165 -> https://www.electroworld.cz/samsung-galaxy-s21-fe-128-gb-sedy
+title='SAMSUNG GALAXY S21 FE 5G 128 GB ŠEDÝ'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art166 -> https://www.electroworld.cz/samsung-galaxy-s21-fe-128-gb-bily
+title='SAMSUNG GALAXY S21 FE 5G 128 GB BÍLÝ'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art167 -> https://www.electroworld.cz/xiaomi-12-8-256-gb-sedy
+title='XIAOMI 12 256 GB ŠEDÝ'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art168 -> https://www.electroworld.cz/apple-iphone-13-mini-128-gb-midnight-cerny
+title='APPLE IPHONE 13 MINI 128 GB MIDNIGHT ČERNÝ'	price='17 660,7 Kč' 
+# http://fitlayout.github.io/resource/art169 -> https://www.electroworld.cz/asus-zenfone-8-128-gb-stribrny
+title='ASUS ZENFONE 8 128 GB STŘÍBRNÝ'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art170 -> https://www.electroworld.cz/asus-zenfone-8-128-gb-cerny
+title='ASUS ZENFONE 8 128 GB ČERNÝ'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art171 -> https://www.electroworld.cz/xiaomi-12-8-128-gb-sedy
+title='XIAOMI 12 128 GB ŠEDÝ'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art172 -> https://www.electroworld.cz/realme-gt-2-pro-5g-256-gb-zeleny
+title='REALME GT 2 PRO 5G 256 GB ZELENÝ'	price='16 011,1 Kč' 
+# http://fitlayout.github.io/resource/art173 -> https://www.electroworld.cz/apple-iphone-12-mini-128-gb-fialovy
+title='APPLE IPHONE 12 MINI 128 GB PURPLE FIALOVÝ'	price='16 730,7 Kč' 
+# http://fitlayout.github.io/resource/art174 -> https://www.electroworld.cz/realme-gt-2-pro-5g-256-gb-bily
+title='REALME GT 2 PRO 5G 256 GB BÍLÝ'	price='16 011,1 Kč' 
+# http://fitlayout.github.io/resource/art175 -> https://www.electroworld.cz/apple-iphone-12-mini-128-gb-product-red
+title='APPLE IPHONE 12 MINI 128 GB (PRODUCT)RED'	price='16 730,7 Kč' 
+# http://fitlayout.github.io/resource/art176 -> https://www.electroworld.cz/apple-iphone-12-mini-128-gb-black-cerny
+title='APPLE IPHONE 12 MINI 128 GB BLACK ČERNÝ'	price='16 730,7 Kč' 
+# http://fitlayout.github.io/resource/art177 -> https://www.electroworld.cz/apple-iphone-12-64-gb-black-cerny
+title='APPLE IPHONE 12 64 GB BLACK ČERNÝ'	price='16 730,7 Kč' 
+# http://fitlayout.github.io/resource/art178 -> https://www.electroworld.cz/apple-iphone-12-64-gb-blue-modry
+title='APPLE IPHONE 12 64 GB BLUE MODRÝ'	price='16 730,7 Kč' 
+# http://fitlayout.github.io/resource/art179 -> https://www.electroworld.cz/apple-iphone-12-64-gb-green-zeleny
+title='APPLE IPHONE 12 64 GB GREEN ZELENÝ'	price='16 730,7 Kč' 
+# http://fitlayout.github.io/resource/art180 -> https://www.electroworld.cz/xiaomi-12-8-128-gb-modry
+title='XIAOMI 12 128 GB MODRÝ'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art181 -> https://www.electroworld.cz/apple-iphone-12-mini-128-gb-green-zeleny
+title='APPLE IPHONE 12 MINI 128 GB GREEN ZELENÝ'	price='16 730,7 Kč' 
+# http://fitlayout.github.io/resource/art182 -> https://www.electroworld.cz/apple-iphone-12-mini-128-gb-white-bily
+title='APPLE IPHONE 12 MINI 128 GB WHITE BÍLÝ'	price='16 730,7 Kč' 
+# http://fitlayout.github.io/resource/art183 -> https://www.electroworld.cz/apple-iphone-12-64-gb-white-bily
+title='APPLE IPHONE 12 64 GB WHITE BÍLÝ'	price='16 730,7 Kč' 
+# http://fitlayout.github.io/resource/art184 -> https://www.electroworld.cz/apple-iphone-12-64-gb-product-red
+title='APPLE IPHONE 12 64 GB (PRODUCT)RED'	price='16 730,7 Kč' 
+# http://fitlayout.github.io/resource/art185 -> https://www.electroworld.cz/apple-iphone-12-64-gb-fialovy
+title='APPLE IPHONE 12 64 GB PURPLE FIALOVÝ'	price='16 730,7 Kč' 
+# http://fitlayout.github.io/resource/art186 -> https://www.electroworld.cz/realme-gt2-pro-5g-256-gb-cerny
+title='REALME GT 2 PRO 5G 256 GB ČERNÝ'	price='16 011,1 Kč' 
+# http://fitlayout.github.io/resource/art187 -> https://www.electroworld.cz/xiaomi-11t-pro-256-gb-modry
+title='XIAOMI 11T PRO 256 GB MODRÝ'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art188 -> https://www.electroworld.cz/oneplus-9-256-gb-winter-mist-fialovy
+title='ONEPLUS 9 256 GB WINTER MIST FIALOVÝ'	price='16 490 Kč' 
+# http://fitlayout.github.io/resource/art189 -> https://www.electroworld.cz/xiaomi-11t-pro-128-gb-cerny
+title='XIAOMI 11T PRO 128 GB ČERNÝ'	price='15 990 Kč' 
+# http://fitlayout.github.io/resource/art190 -> https://www.electroworld.cz/apple-iphone-12-mini-64-gb-fialovy
+title='APPLE IPHONE 12 MINI 64 GB PURPLE FIALOVÝ'	price='14 777,7 Kč' 
+# http://fitlayout.github.io/resource/art191 -> https://www.electroworld.cz/apple-iphone-12-mini-64-gb-green-zeleny
+title='APPLE IPHONE 12 MINI 64 GB GREEN ZELENÝ'	price='14 777,7 Kč' 
+# http://fitlayout.github.io/resource/art192 -> https://www.electroworld.cz/apple-iphone-12-mini-64-gb-black-cerny
+title='APPLE IPHONE 12 MINI 64 GB BLACK ČERNÝ'	price='14 777,7 Kč' 
+# http://fitlayout.github.io/resource/art193 -> https://www.electroworld.cz/apple-iphone-12-mini-64-gb-white-bily
+title='APPLE IPHONE 12 MINI 64 GB WHITE BÍLÝ'	price='14 777,7 Kč' 
+# http://fitlayout.github.io/resource/art194 -> https://www.electroworld.cz/apple-iphone-12-mini-64-gb-product-red
+title='APPLE IPHONE 12 MINI 64 GB (PRODUCT)RED'	price='14 777,7 Kč' 
+# http://fitlayout.github.io/resource/art195 -> https://www.electroworld.cz/realme-gt-neo-3-256-gb-bily
+title='REALME GT NEO 3 256 GB BÍLÝ'	price='14 053,1 Kč' 
+# http://fitlayout.github.io/resource/art196 -> https://www.electroworld.cz/apple-iphone-se-2022-128-gb-product-red
+title='APPLE IPHONE SE 2022 128 GB (PRODUCT)RED'	price='14 591,7 Kč' 
+# http://fitlayout.github.io/resource/art197 -> https://www.electroworld.cz/apple-iphone-se-2022-128-gb-midnight-cerny
+title='APPLE IPHONE SE 2022 128 GB MIDNIGHT ČERNÝ'	price='14 591,7 Kč' 
+# http://fitlayout.github.io/resource/art198 -> https://www.electroworld.cz/apple-iphone-se-2022-128-gb-starlight-bily
+title='APPLE IPHONE SE 2022 128 GB STARLIGHT BÍLÝ'	price='14 591,7 Kč' 
+# http://fitlayout.github.io/resource/art199 -> https://www.electroworld.cz/cat-s62-pro-128-gb-cerny
+title='CAT S62 PRO 128 GB ČERNÝ'	price='15 490 Kč' 
+# http://fitlayout.github.io/resource/art200 -> https://www.electroworld.cz/repasovany-iphone-xs-256-gb-space-grey-vesmirne-sedy
+title='REPASOVANÝ IPHONE XS 256 GB SPACE GREY VESMÍRNĚ ŠEDÝ'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art201 -> https://www.electroworld.cz/samsung-galaxy-s20-fe-5g-256-gb-modra
+title='SAMSUNG GALAXY S20 FE 5G 256 GB MODRÝ'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art202 -> https://www.electroworld.cz/oneplus-9-128-gb-artic-sky-modry
+title='ONEPLUS 9 128 GB ARTIC SKY MODRÝ'	price='14 490 Kč' 
+# http://fitlayout.github.io/resource/art203 -> https://www.electroworld.cz/xiaomi-11t-256-gb-cerny
+title='XIAOMI 11T 256 GB ČERNÝ'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art204 -> https://www.electroworld.cz/xiaomi-12x-8-128-gb-modry
+title='XIAOMI 12X 128 GB MODRÝ'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art205 -> https://www.electroworld.cz/repasovany-iphone-x-256-gb-silver-stribrny
+title='REPASOVANÝ IPHONE X 256 GB SILVER STŘÍBRNÝ'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art206 -> https://www.electroworld.cz/xiaomi-11t-256-gb-bily
+title='XIAOMI 11T 256 GB BÍLÝ'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art207 -> https://www.electroworld.cz/xiaomi-12x-8-128-gb-fialovy
+title='XIAOMI 12X 128 GB FIALOVÝ'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art208 -> https://www.electroworld.cz/repasovany-iphone-x-256-gb-space-grey-vesmirne-sedy
+title='REPASOVANÝ IPHONE X 256 GB SPACE GREY VESMÍRNĚ ŠEDÝ'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art209 -> https://www.electroworld.cz/apple-iphone-se-2022-64-gb-starlight-bily
+title='APPLE IPHONE SE 2022 64 GB STARLIGHT BÍLÝ'	price='13 010,7 Kč' 
+# http://fitlayout.github.io/resource/art210 -> https://www.electroworld.cz/apple-iphone-se-2022-64-gb-product-red
+title='APPLE IPHONE SE 2022 64 GB (PRODUCT)RED'	price='13 010,7 Kč' 
+# http://fitlayout.github.io/resource/art211 -> https://www.electroworld.cz/xiaomi-12x-8-128-gb-sedy
+title='XIAOMI 12X 128 GB ŠEDÝ'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art212 -> https://www.electroworld.cz/apple-iphone-se-2022-64-gb-midnight-cerny
+title='APPLE IPHONE SE 2022 64 GB MIDNIGHT ČERNÝ'	price='13 010,7 Kč' 
+# http://fitlayout.github.io/resource/art213 -> https://www.electroworld.cz/apple-iphone-se-2020-256-gb-black-cerny
+title='APPLE IPHONE SE 2020 256 GB BLACK ČERNÝ'	price='12 730,77 Kč' 
+# http://fitlayout.github.io/resource/art214 -> https://www.electroworld.cz/apple-iphone-11-64-gb-white-bily
+title='APPLE IPHONE 11 64 GB WHITE BÍLÝ'	price='12 359,7 Kč' 
+# http://fitlayout.github.io/resource/art215 -> https://www.electroworld.cz/apple-iphone-11-64-gb-purple-fialovy
+title='APPLE IPHONE 11 64 GB PURPLE FIALOVÝ'	price='12 359,7 Kč' 
+# http://fitlayout.github.io/resource/art216 -> https://www.electroworld.cz/apple-iphone-11-64-gb-black-cerny
+title='APPLE IPHONE 11 64 GB BLACK ČERNÝ'	price='12 359,7 Kč' 
+# http://fitlayout.github.io/resource/art217 -> https://www.electroworld.cz/apple-iphone-11-64-gb-green-zeleny
+title='APPLE IPHONE 11 64 GB GREEN ZELENÝ'	price='12 359,7 Kč' 
+# http://fitlayout.github.io/resource/art218 -> https://www.electroworld.cz/apple-iphone-11-64-gb-cerveny
+title='APPLE IPHONE 11 64 GB ČERVENÝ'	price='12 359,7 Kč' 
+# http://fitlayout.github.io/resource/art219 -> https://www.electroworld.cz/oneplus-9-128-gb-cerny
+title='ONEPLUS 9 128 GB ČERNÝ'	price='12 998 Kč' 
+# http://fitlayout.github.io/resource/art220 -> https://www.electroworld.cz/oneplus-nord-2t-5g-256-gb-sedy
+title='ONEPLUS NORD 2T 5G 256 GB ŠEDÝ'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art221 -> https://www.electroworld.cz/samsung-galaxy-s20-fe-5g-128-gb-cerveny
+title='SAMSUNG GALAXY S20 FE 5G 128 GB ČERVENÝ'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art222 -> https://www.electroworld.cz/samsung-galaxy-s20-fe-5g-128-gb-bily
+title='SAMSUNG GALAXY S20 FE 5G 128 GB BÍLÝ'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art223 -> https://www.electroworld.cz/samsung-galaxy-s20-fe-5g-128-gb-modra
+title='SAMSUNG GALAXY S20 FE 5G 128 GB MODRÁ'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art224 -> https://www.electroworld.cz/samsung-galaxy-s20-fe-5g-128-gb-zeleny
+title='SAMSUNG GALAXY S20 FE 5G 128 GB ZELENÝ'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art225 -> https://www.electroworld.cz/samsung-galaxy-s20-fe-5g-128-gb-fialovy
+title='SAMSUNG GALAXY S20 FE 5G 128 GB FIALOVÝ'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art226 -> https://www.electroworld.cz/sony-xperia-10-iv-5g-bk-chytry-telefon
+title='SONY XPERIA 10 IV 5G ČERNÁ'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art227 -> https://www.electroworld.cz/sony-xperia-10-iv-5g-mt-chytry-telefon
+title='SONY XPERIA 10 IV 5G ZELENÝ'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art228 -> https://www.electroworld.cz/sony-xperia-10-iv-5g-fialovy
+title='SONY XPERIA 10 IV 5G FIALOVÝ'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art229 -> https://www.electroworld.cz/sony-xperia-10-iv-5g-bily
+title='SONY XPERIA 10 IV 5G BÍLÝ'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art230 -> https://www.electroworld.cz/vivo-v23-5g-256-gb-cerny
+title='VIVO V23 5G 256 GB ČERNÝ'	price='10 679,11 Kč' 
+# http://fitlayout.github.io/resource/art231 -> https://www.electroworld.cz/vivo-v23-5g-256-gb-zlaty
+title='VIVO V23 5G 256 GB ZLATÝ'	price='10 679,11 Kč' 
+# http://fitlayout.github.io/resource/art232 -> https://www.electroworld.cz/apple-iphone-se-128-gb-product-red
+title='APPLE IPHONE SE 2020 128 GB (PRODUCT)RED'	price='128 GB256 GB' 
+# http://fitlayout.github.io/resource/art233 -> https://www.electroworld.cz/repasovany-iphone-xs-64-gb-space-grey-vesmirne-sedy
+title='REPASOVANÝ IPHONE XS 64 GB SPACE GREY VESMÍRNĚ ŠEDÝ'	price='11 990 Kč' 
+# http://fitlayout.github.io/resource/art234 -> https://www.electroworld.cz/honor-50-256-gb-cerny
+title='HONOR 50 256 GB ČERNÝ'	price='11 990 Kč' 
+# http://fitlayout.github.io/resource/art235 -> https://www.electroworld.cz/apple-iphone-se-2020-128-gb-white-bily
+title='APPLE IPHONE SE 2020 128 GB WHITE BÍLÝ'	price='11 150,7 Kč' 
+# http://fitlayout.github.io/resource/art236 -> https://www.electroworld.cz/honor-50-256-gb-stribrny
+title='HONOR 50 256 GB STŘÍBRNÝ'	price='11 990 Kč' 
+# http://fitlayout.github.io/resource/art237 -> https://www.electroworld.cz/realme-gt-2-5g-128-gb-bily
+title='REALME GT 2 5G 128 GB BÍLÝ'	price='10 404,1 Kč' 
+# http://fitlayout.github.io/resource/art238 -> https://www.electroworld.cz/realme-gt-2-5g-128-gb-cerny
+title='REALME GT 2 5G 128 GB ČERNÝ'	price='10 404,1 Kč' 
+# http://fitlayout.github.io/resource/art239 -> https://www.electroworld.cz/realme-gt-5g-8-gb-128-gb-modry
+title='REALME GT 5G 8 GB/128 GB MODRÝ'	price='10 404,1 Kč' 
+# http://fitlayout.github.io/resource/art240 -> https://www.electroworld.cz/realme-gt-2-5g-128-gb-zeleny
+title='REALME GT 2 5G 128 GB ZELENÝ'	price='10 404,1 Kč' 
+# http://fitlayout.github.io/resource/art241 -> https://www.electroworld.cz/samsung-galaxy-a53-256-gb-modry
+title='SAMSUNG GALAXY A53 5G 256 GB MODRÝ'	price='11 490 Kč' 
+# http://fitlayout.github.io/resource/art242 -> https://www.electroworld.cz/samsung-galaxy-a53-256-gb-bily
+title='SAMSUNG GALAXY A53 5G 256 GB BÍLÝ'	price='11 490 Kč' 
+# http://fitlayout.github.io/resource/art243 -> https://www.electroworld.cz/samsung-galaxy-a53-256-gb-cerny
+title='SAMSUNG GALAXY A53 5G 256 GB ČERNÝ'	price='11 490 Kč' 
+# http://fitlayout.github.io/resource/art244 -> https://www.electroworld.cz/oppo-reno5-5g-128-gb-modry-chytry-telefon
+title='OPPO RENO5 5G 128 GB MODRÝ'	price='11 399 Kč' 
+# http://fitlayout.github.io/resource/art245 -> https://www.electroworld.cz/oppo-reno5-5g-128-gb-cerny-chytry-telefon
+title='OPPO RENO5 5G 128 GB ČERNÝ'	price='11 399 Kč' 
+# http://fitlayout.github.io/resource/art246 -> https://www.electroworld.cz/oneplus-8t-128-gb-stribrny
+title='ONEPLUS 8T 128 GB STŘÍBRNÝ'	price='10 998 Kč' 
+# http://fitlayout.github.io/resource/art247 -> https://www.electroworld.cz/oneplus-8t-128-gb-zeleny
+title='ONEPLUS 8T 128 GB ZELENÝ'	price='10 998 Kč' 
+# http://fitlayout.github.io/resource/art248 -> https://www.electroworld.cz/samsung-galaxy-m53-5g-128-gb-modry
+title='SAMSUNG GALAXY M53 5G 128 GB MODRÝ'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art249 -> https://www.electroworld.cz/samsung-galaxy-m53-5g-128-gb-zeleny
+title='SAMSUNG GALAXY M53 5G 128 GB ZELENÝ'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art250 -> https://www.electroworld.cz/poco-f4-256-gb-sedy
+title='POCO F4 256 GB ŠEDÝ'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art251 -> https://www.electroworld.cz/poco-f4-256-gb-zeleny
+title='POCO F4 256 GB ZELENÝ'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art252 -> https://www.electroworld.cz/samsung-galaxy-m53-5g-128-gb-hnedy
+title='SAMSUNG GALAXY M53 5G 128 GB HNĚDÝ'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art253 -> https://www.electroworld.cz/oneplus-nord2-5g-256gb-modry
+title='ONEPLUS NORD2 5G 256 GB MODRÝ'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art254 -> https://www.electroworld.cz/repasovany-iphone-x-64-gb-space-grey-vesmirne-sedy
+title='REPASOVANÝ IPHONE X 64 GB SPACE GREY VESMÍRNĚ ŠEDÝ'	price='10 790 Kč' 
+# http://fitlayout.github.io/resource/art255 -> https://www.electroworld.cz/motorola-edge-30-128-gb-zeleny
+title='MOTOROLA EDGE 30 128 GB ZELENÝ'	price='9 336,1 Kč' 
+# http://fitlayout.github.io/resource/art256 -> https://www.electroworld.cz/realme-gt-neo-2-128-gb-cerny-chytry-telefon
+title='REALME GT NEO 2 128 GB ČERNÝ'	price='9 336,1 Kč' 
+# http://fitlayout.github.io/resource/art257 -> https://www.electroworld.cz/xiaomi-redmi-note-11-pro-plus-5g-6-128-gb-modry
+title='XIAOMI REDMI NOTE 11 PRO+ 5G 128 GB MODRÝ'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art258 -> https://www.electroworld.cz/xiaomi-redmi-note-11-pro-plus-5g-6-128-gb-sedy
+title='XIAOMI REDMI NOTE 11 PRO+ 5G 128 GB ŠEDÝ'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art259 -> https://www.electroworld.cz/xiaomi-mi-11-lite-5g-8-gb-128-gb-zluty
+title='XIAOMI MI 11 LITE 5G 8 GB/128 GB ŽLUTÝ'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art260 -> https://www.electroworld.cz/xiaomi-mi-11-lite-5g-8-gb-128-gb-cerny
+title='XIAOMI MI 11 LITE 5G 8 GB/128 GB ČERNÝ'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art261 -> https://www.electroworld.cz/realme-gt-neo-2-128-gb-modry-chytry-telefon
+title='REALME GT NEO 2 128 GB MODRÝ'	price='9 336,1 Kč' 
+# http://fitlayout.github.io/resource/art262 -> https://www.electroworld.cz/myphone-hammer-explorer-pro-oranzovy
+title='MYPHONE HAMMER EXPLORER PRO ORANŽOVÝ'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art263 -> https://www.electroworld.cz/samsung-galaxy-a53-128-gb-cerny
+title='SAMSUNG GALAXY A53 5G 128 GB ČERNÝ'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art264 -> https://www.electroworld.cz/honor-50-128-gb-zeleny
+title='HONOR 50 128 GB ZELENÝ'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art265 -> https://www.electroworld.cz/honor-50-128-gb-cerny
+title='HONOR 50 128 GB ČERNÝ'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art266 -> https://www.electroworld.cz/samsung-galaxy-a53-128-gb-modry
+title='SAMSUNG GALAXY A53 5G 128 GB MODRÝ'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art267 -> https://www.electroworld.cz/myphone-hammer-explorer-pro-stribrny
+title='MYPHONE HAMMER EXPLORER PRO STŘÍBRNÝ'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art268 -> https://www.electroworld.cz/poco-x4-gt-256-gb-stribrna
+title='POCO X4 GT 256 GB STŘÍBRNÁ'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art269 -> https://www.electroworld.cz/samsung-galaxy-a53-128-gb-oranzovy
+title='SAMSUNG GALAXY A53 5G 128 GB ORANŽOVÝ'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art270 -> https://www.electroworld.cz/samsung-galaxy-a53-128-gb-bily
+title='SAMSUNG GALAXY A53 5G 128 GB BÍLÝ'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art271 -> https://www.electroworld.cz/realme-9-pro-5g-256-gb-zeleny
+title='REALME 9 PRO+ 5G 256 GB ZELENÝ'	price='8 713,1 Kč' 
+# http://fitlayout.github.io/resource/art272 -> https://www.electroworld.cz/realme-9-pro-5g-256-gb-modry
+title='REALME 9 PRO+ 5G 256 GB MODRÝ'	price='8 713,1 Kč' 
+# http://fitlayout.github.io/resource/art273 -> https://www.electroworld.cz/realme-9-pro-5g-256-gb-cerny
+title='REALME 9 PRO+ 5G 256 GB ČERNÝ'	price='8 713,1 Kč' 
+# http://fitlayout.github.io/resource/art274 -> https://www.electroworld.cz/oppo-reno7-lite-5g-rainbow-spectrum
+title='OPPO RENO7 LITE 5G DUHOVÉ SPEKTRUM'	price='9 690 Kč' 
+# http://fitlayout.github.io/resource/art275 -> https://www.electroworld.cz/repasovany-iphone-8-256-gb-silver-stribrny
+title='REPASOVANÝ IPHONE 8 256 GB SILVER STŘÍBRNÝ'	price='9 490 Kč' 
+# http://fitlayout.github.io/resource/art276 -> https://www.electroworld.cz/samsung-galaxy-a52s-5g-128gb-fialovy
+title='SAMSUNG GALAXY A52S 5G 128 GB FIALOVÝ'	price='9 490 Kč' 
+# http://fitlayout.github.io/resource/art277 -> https://www.electroworld.cz/xiaomi-11t-128-gb-cerny
+title='XIAOMI 11T 128 GB ČERNÝ'	price='9 490 Kč' 
+# http://fitlayout.github.io/resource/art278 -> https://www.electroworld.cz/samsung-galaxy-a52s-5g-128gb-cerny
+title='SAMSUNG GALAXY A52S 5G 128 GB ČERNÝ'	price='9 490 Kč' 
+# http://fitlayout.github.io/resource/art279 -> https://www.electroworld.cz/samsung-galaxy-a52s-5g-128gb-bily
+title='SAMSUNG GALAXY A52S 5G 128 GB BÍLÝ'	price='9 490 Kč' 
+# http://fitlayout.github.io/resource/art280 -> https://www.electroworld.cz/samsung-galaxy-a52s-5g-128gb-zeleny
+title='SAMSUNG GALAXY A52S 5G 128 GB ZELENÝ'	price='9 490 Kč' 
+# http://fitlayout.github.io/resource/art281 -> https://www.electroworld.cz/oneplus-nord-ce-2-5g-128-gb-8-gb-ram-modry
+title='ONEPLUS NORD CE 2 5G 128 GB MODRÝ'	price='9 290 Kč' 
+# http://fitlayout.github.io/resource/art282 -> https://www.electroworld.cz/oneplus-nord-ce-2-5g-128-gb-8-gb-ram-sedy
+title='ONEPLUS NORD CE 2 5G 128 GB ŠEDÝ'	price='9 290 Kč' 
+# http://fitlayout.github.io/resource/art283 -> https://www.electroworld.cz/realme-gt-master-256-gb-bily-smartfon
+title='REALME GT MASTER EDITION 256 GB BÍLÝ'	price='8 179,1 Kč' 
+# http://fitlayout.github.io/resource/art284 -> https://www.electroworld.cz/realme-gt-master-256-gb-cerny-smartfon
+title='REALME GT MASTER EDITION 256 GB ČERNÝ'	price='8 179,1 Kč' 
+# http://fitlayout.github.io/resource/art285 -> https://www.electroworld.cz/realme-gt-master-256-gb-sedy-smartfon
+title='REALME GT MASTER EDITION 256 GB ŠEDÝ'	price='8 179,1 Kč' 
+# http://fitlayout.github.io/resource/art286 -> https://www.electroworld.cz/oppo-reno5-z-5g-128-gb-modry
+title='OPPO RENO5 Z 5G 128 GB MODRÝ'	price='8 999 Kč' 
+# http://fitlayout.github.io/resource/art287 -> https://www.electroworld.cz/oppo-reno5-z-5g-128-gb-cerny
+title='OPPO RENO5 Z 5G 128 GB ČERNÝ'	price='8 999 Kč' 
+# http://fitlayout.github.io/resource/art288 -> https://www.electroworld.cz/xiaomi-redmi-note-11-pro-5g-6-128-gb-bily
+title='XIAOMI REDMI NOTE 11 PRO 5G 6/128 GB BÍLÝ'	price='8 999 Kč' 
+# http://fitlayout.github.io/resource/art289 -> https://www.electroworld.cz/xiaomi-redmi-note-11-pro-5g-6-128-gb-sedy
+title='XIAOMI REDMI NOTE 11 PRO 5G 6/128 GB ŠEDÝ'	price='8 999 Kč' 
+# http://fitlayout.github.io/resource/art290 -> https://www.electroworld.cz/xiaomi-redmi-note-11-pro-5g-6-128-gb-modry
+title='XIAOMI REDMI NOTE 11 PRO 5G 6/128 GB MODRÝ'	price='8 999 Kč' 
+# http://fitlayout.github.io/resource/art291 -> https://www.electroworld.cz/xiaomi-mi-11-lite-5g-6-gb-128-gb-zeleny
+title='XIAOMI MI 11 LITE 5G 6 GB/128 GB ZELENÝ'	price='8 998 Kč' 
+# http://fitlayout.github.io/resource/art292 -> https://www.electroworld.cz/tecno-camon-18-premier-8gb-256gb-tmave-modry
+title='TECNO CAMON 18 PREMIER 8GB/256GB TMAVĚ MODRÝ'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art293 -> https://www.electroworld.cz/poco-x4-pro-5g-8-gb-256-gb-cerny
+title='POCO X4 PRO 5G 256 GB ČERNÝ'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art294 -> https://www.electroworld.cz/xiaomi-11-lite-5g-8-gb-128-gb-cerny
+title='XIAOMI 11 LITE 5G NE 8 GB/128 GB ČERNÝ'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art295 -> https://www.electroworld.cz/tecno-camon-18-premier-8gb-256gb-modry
+title='TECNO CAMON 18 PREMIER 8GB/256GB SVĚTLE MODRÝ'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art296 -> https://www.electroworld.cz/poco-x4-pro-5g-8-gb-256-gb-zluty
+title='POCO X4 PRO 5G 256 GB ŽLUTÝ'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art297 -> https://www.electroworld.cz/poco-x4-pro-5g-8-gb-256-gb-modry
+title='POCO X4 PRO 5G 256 GB MODRÝ'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art298 -> https://www.electroworld.cz/oneplus-nord2-5g-128gb-modry
+title='ONEPLUS NORD2 5G 128 GB MODRÝ'	price='8 989 Kč' 
+# http://fitlayout.github.io/resource/art299 -> https://www.electroworld.cz/oneplus-nord2-5g-128gb-sedy
+title='ONEPLUS NORD2 5G 128 GB ŠEDÝ'	price='8 989 Kč' 
+# http://fitlayout.github.io/resource/art300 -> https://www.electroworld.cz/oneplus-nord-ce-5g-256-gb-modry-chytry-telefon
+title='ONEPLUS NORD CE 5G 256 GB MODRÝ'	price='8 489 Kč' 
+# http://fitlayout.github.io/resource/art301 -> https://www.electroworld.cz/samsung-galaxy-a23-5g-128-gb-cerny
+title='SAMSUNG GALAXY A23 5G 128 GB ČERNÝ'	price='8 199 Kč' 
+# http://fitlayout.github.io/resource/art302 -> https://www.electroworld.cz/samsung-galaxy-a23-5g-128-gb-bily
+title='SAMSUNG GALAXY A23 5G 128 GB BÍLÝ'	price='8 199 Kč' 
+# http://fitlayout.github.io/resource/art303 -> https://www.electroworld.cz/oneplus-nord-ce-5g-256-gb-cerny-chytry-telefon
+title='ONEPLUS NORD CE 5G 256 GB ČERNÝ'	price='8 109 Kč' 
+# http://fitlayout.github.io/resource/art304 -> https://www.electroworld.cz/vivo-v21-blue-dusk-modry
+title='VIVO V21 128 GB BLUE DUSK MODRÝ'	price='7 119,11 Kč' 
+# http://fitlayout.github.io/resource/art305 -> https://www.electroworld.cz/vivo-v21-sunset-dazzle-modry
+title='VIVO V21 128 GB SUNSET DAZZLE MODRÝ'	price='7 119,11 Kč' 
+# http://fitlayout.github.io/resource/art87 -> https://www.electroworld.cz/oneplus-10-pro-256-gb-zeleny
+title='ONEPLUS 10 PRO 256 GB ZELENÝ'	price='25 990 Kč' 
+# http://fitlayout.github.io/resource/art306 -> https://www.electroworld.cz/huawei-nova-9-cerny
+title='HUAWEI NOVA 9 (HMS) 128 GB ČERNÝ'	price='6 398,4 Kč' 
+# http://fitlayout.github.io/resource/art307 -> https://www.electroworld.cz/xiaomi-redmi-note-11-pro-6-128-gb-sedy
+title='XIAOMI REDMI NOTE 11 PRO 6/128 GB ŠEDÝ'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art308 -> https://www.electroworld.cz/xiaomi-redmi-note-10-pro-6-128-gb-sedy
+title='XIAOMI REDMI NOTE 10 PRO 6/128 GB ŠEDÝ'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art309 -> https://www.electroworld.cz/samsung-galaxy-a33-128-gb-cerny
+title='SAMSUNG GALAXY A33 5G 128 GB ČERNÝ'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art310 -> https://www.electroworld.cz/xiaomi-redmi-note-10-pro-6-128-gb-modry
+title='XIAOMI REDMI NOTE 10 PRO 6/128 GB MODRÝ'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art311 -> https://www.electroworld.cz/xiaomi-11-lite-5g-6-gb-128-gb-cerny
+title='XIAOMI 11 LITE 5G NE 6 GB/128 GB ČERNÝ'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art312 -> https://www.electroworld.cz/samsung-galaxy-a33-5g-128-gb-modry
+title='SAMSUNG GALAXY A33 5G 128 GB MODRÝ'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art313 -> https://www.electroworld.cz/samsung-galaxy-a33-128-gb-oranzovy
+title='SAMSUNG GALAXY A33 5G 128 GB ORANŽOVÝ'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art314 -> https://www.electroworld.cz/xiaomi-redmi-note-11-pro-6-128-gb-bily
+title='XIAOMI REDMI NOTE 11 PRO 6/128 GB BÍLÝ'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art315 -> https://www.electroworld.cz/xiaomi-redmi-note-11-pro-6-128-gb-modry
+title='XIAOMI REDMI NOTE 11 PRO 6/128 GB MODRÝ'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art316 -> https://www.electroworld.cz/samsung-galaxy-a33-128-gb-bily
+title='SAMSUNG GALAXY A33 5G 128 GB BÍLÝ'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art317 -> https://www.electroworld.cz/myphone-hammer-blade-3-64-gb-cerny-chytry-telefon
+title='MYPHONE HAMMER BLADE 3 64 GB ČERNÝ'	price='7 590 Kč' 
+# http://fitlayout.github.io/resource/art318 -> https://www.electroworld.cz/xiaomi-mi-11-lite-64-gb-cerny
+title='XIAOMI MI 11 LITE 64 GB ČERNÝ'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art319 -> https://www.electroworld.cz/honor-magic-4-lite-5g-128-gb-stribrny
+title='HONOR MAGIC4 LITE 5G 128 GB STŘÍBRNÝ'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art320 -> https://www.electroworld.cz/poco-x4-pro-5g-6-gb-128-gb-cerny
+title='POCO X4 PRO 5G 128 GB ČERNÝ'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art321 -> https://www.electroworld.cz/xiaomi-redmi-note-11-pro-6-64-gb-modry
+# http://fitlayout.github.io/resource/art322 -> https://www.electroworld.cz/doogee-s97-pro-128-gb-cerveny-chytry-telefon
+title='DOOGEE S97 PRO 128 GB ČERVENÝ'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art323 -> https://www.electroworld.cz/poco-x4-pro-5g-6-gb-128-gb-zluty
+title='POCO X4 PRO 5G 128 GB ŽLUTÝ'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art324 -> https://www.electroworld.cz/xiaomi-redmi-note-11s-5g-6-gb-128-gb-cerny
+title='XIAOMI REDMI NOTE 11S 5G 6 GB/128 GB ČERNÝ'	price='7 490 Kč' 

@@ -1,0 +1,666 @@
+# http://fitlayout.github.io/resource/art1 -> https://czc.cz/samsung-galaxy-z-fold4-12gb-512gb-moon-beige/351767/produkt
+title='Samsung Galaxy Z Fold4, 12GB/512GB, Moon Beige'	price='47 990 Kč' 
+# http://fitlayout.github.io/resource/art2 -> https://czc.cz/samsung-galaxy-z-fold4-12gb-512gb-phantom-black/351768/produkt
+title='Samsung Galaxy Z Fold4, 12GB/512GB, Phantom Black'	price='47 990 Kč' 
+# http://fitlayout.github.io/resource/art3 -> https://czc.cz/samsung-galaxy-z-fold4-12gb-512gb-greygreen/351766/produkt
+title='Samsung Galaxy Z Fold4, 12GB/512GB, Greygreen'	price='47 990 Kč' 
+# http://fitlayout.github.io/resource/art4 -> https://czc.cz/apple-iphone-13-pro-max-1tb-gold/327368/produkt
+title='Apple iPhone 13 Pro Max, 1TB, Gold'	price='47 390 Kč' 
+# http://fitlayout.github.io/resource/art5 -> https://czc.cz/apple-iphone-13-pro-max-1tb-sierra-blue/327366/produkt
+title='Apple iPhone 13 Pro Max, 1TB, Sierra Blue'	price='47 390 Kč' 
+# http://fitlayout.github.io/resource/art6 -> https://czc.cz/samsung-galaxy-z-fold4-12gb-256gb-moon-beige/351764/produkt
+title='Samsung Galaxy Z Fold4, 12GB/256GB, Moon Beige'	price='44 990 Kč' 
+# http://fitlayout.github.io/resource/art7 -> https://czc.cz/apple-iphone-13-pro-1tb-silver/327352/produkt
+title='Apple iPhone 13 Pro, 1TB, Silver'	price='44 390 Kč' 
+# http://fitlayout.github.io/resource/art8 -> https://czc.cz/apple-iphone-13-pro-1tb-sierra-blue/327351/produkt
+title='Apple iPhone 13 Pro, 1TB, Sierra Blue'	price='44 390 Kč' 
+# http://fitlayout.github.io/resource/art9 -> https://czc.cz/apple-iphone-13-pro-1tb-graphite/327354/produkt
+title='Apple iPhone 13 Pro, 1TB, Graphite'	price='44 390 Kč' 
+# http://fitlayout.github.io/resource/art10 -> https://czc.cz/apple-iphone-13-pro-512gb-sierra-blue/327347/produkt
+title='Apple iPhone 13 Pro, 512GB, Sierra Blue'	price='38 190 Kč' 
+# http://fitlayout.github.io/resource/art11 -> https://czc.cz/apple-iphone-13-pro-512gb-graphite/327350/produkt
+title='Apple iPhone 13 Pro, 512GB, Graphite'	price='38 190 Kč' 
+# http://fitlayout.github.io/resource/art12 -> https://czc.cz/samsung-galaxy-z-fold3-5g-12gb-256gb-green/324008/produkt
+title='Samsung Galaxy Z Fold3 5G, 12GB/256GB, Green'	price='37 990 Kč' 
+# http://fitlayout.github.io/resource/art13 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-12gb-512gb-phantom-black/337300/produkt
+title='Samsung Galaxy S22 Ultra 5G, 12GB/512GB, Phantom Black'	price='36 999 Kč' 
+# http://fitlayout.github.io/resource/art14 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-12gb-512gb-phantom-white/337301/produkt
+title='Samsung Galaxy S22 Ultra 5G, 12GB/512GB, Phantom White'	price='36 999 Kč' 
+# http://fitlayout.github.io/resource/art15 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-12gb-512gb-burgundy/337299/produkt
+title='Samsung Galaxy S22 Ultra 5G, 12GB/512GB, Burgundy'	price='36 999 Kč' 
+# http://fitlayout.github.io/resource/art16 -> https://czc.cz/sony-xperia-pro-i-12gb-512gb-black/334721/produkt
+title='Sony Xperia PRO-I , 12GB/512GB, Black'	price='36 990 Kč' 
+# http://fitlayout.github.io/resource/art17 -> https://czc.cz/sony-xperia-1-iv-5g-12gb-256gb-purple/345803/produkt
+title='Sony Xperia 1 IV 5G, 12GB/256GB, Purple'	price='34 990 Kč' 
+# http://fitlayout.github.io/resource/art18 -> https://czc.cz/sony-xperia-1-iv-5g-12gb-256gb-black/345801/produkt
+title='Sony Xperia 1 IV 5G, 12GB/256GB, Black'	price='34 990 Kč' 
+# http://fitlayout.github.io/resource/art19 -> https://czc.cz/sony-xperia-1-iv-5g-12gb-256gb-white/345802/produkt
+title='Sony Xperia 1 IV 5G, 12GB/256GB, White'	price='34 990 Kč' 
+# http://fitlayout.github.io/resource/art20 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-12gb-256gb-phantom-white/337296/produkt
+title='Samsung Galaxy S22 Ultra 5G, 12GB/256GB, Phantom White'	price='34 499 Kč' 
+# http://fitlayout.github.io/resource/art21 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-12gb-256gb-phantom-black/337295/produkt
+title='Samsung Galaxy S22 Ultra 5G, 12GB/256GB, Phantom Black'	price='34 499 Kč' 
+# http://fitlayout.github.io/resource/art22 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-12gb-256gb-burgundy/337294/produkt
+title='Samsung Galaxy S22 Ultra 5G, 12GB/256GB, Burgundy'	price='34 499 Kč' 
+# http://fitlayout.github.io/resource/art23 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-12gb-256gb-phantom-green/337298/produkt
+title='Samsung Galaxy S22 Ultra 5G, 12GB/256GB, Phantom Green'	price='34 490 Kč' 
+# http://fitlayout.github.io/resource/art24 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-8gb-128gb-burgundy/337291/produkt
+title='Samsung Galaxy S22 Ultra 5G, 8GB/128GB, Burgundy'	price='31 999 Kč' 
+# http://fitlayout.github.io/resource/art25 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-8gb-128gb-phantom-white/337293/produkt
+title='Samsung Galaxy S22 Ultra 5G, 8GB/128GB, Phantom White'	price='31 999 Kč' 
+# http://fitlayout.github.io/resource/art26 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-8gb-128gb-phantom-black/337292/produkt
+title='Samsung Galaxy S22 Ultra 5G, 8GB/128GB, Phantom Black'	price='31 999 Kč' 
+# http://fitlayout.github.io/resource/art27 -> https://czc.cz/apple-iphone-13-512gb-midnight/327321/produkt
+title='Apple iPhone 13, 512GB, Midnight'	price='30 490 Kč' 
+# http://fitlayout.github.io/resource/art28 -> https://czc.cz/apple-iphone-13-512gb-product-red/327323/produkt
+title='Apple iPhone 13, 512GB, (PRODUCT)RED'	price='30 490 Kč' 
+# http://fitlayout.github.io/resource/art29 -> https://czc.cz/apple-iphone-13-512gb-pink/327320/produkt
+title='Apple iPhone 13, 512GB, Pink'	price='30 490 Kč' 
+# http://fitlayout.github.io/resource/art30 -> https://czc.cz/apple-iphone-13-512gb-starlight/327322/produkt
+title='Apple iPhone 13, 512GB, Starlight'	price='30 490 Kč' 
+# http://fitlayout.github.io/resource/art31 -> https://czc.cz/sony-xperia-1-iii-5g-12gb-256gb-purple/323181/produkt
+title='Sony Xperia 1 III 5G, 12GB/256GB, Purple'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art32 -> https://czc.cz/samsung-galaxy-z-flip3-5g-8gb-256gb-cream/324016/produkt
+title='Samsung Galaxy Z Flip3 5G, 8GB/256GB, Cream'	price='28 999 Kč' 
+# http://fitlayout.github.io/resource/art33 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-256gb-composite-gray/351775/produkt
+title='Samsung Galaxy Z Flip4, 8GB/256GB, Composite Gray'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art34 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-256gb-new-blue/351773/produkt
+title='Samsung Galaxy Z Flip4, 8GB/256GB, New Blue'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art35 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-256gb-gold/351776/produkt
+title='Samsung Galaxy Z Flip4, 8GB/256GB, Gold'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art36 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-256gb-bora-purple/351774/produkt
+title='Samsung Galaxy Z Flip4, 8GB/256GB, Bora Purple'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art37 -> https://czc.cz/apple-iphone-13-pro-128gb-sierra-blue/327306/produkt
+title='Apple iPhone 13 Pro, 128GB, Sierra Blue'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art38 -> https://czc.cz/apple-iphone-13-pro-128gb-graphite/327342/produkt
+title='Apple iPhone 13 Pro, 128GB, Graphite'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art39 -> https://czc.cz/apple-iphone-13-pro-128gb-gold/327341/produkt
+title='Apple iPhone 13 Pro, 128GB, Gold'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art40 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-phantom-black_2/337288/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/256GB, Phantom Black'	price='27 999 Kč' 
+# http://fitlayout.github.io/resource/art41 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-phantom-white_2/337290/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/256GB, Phantom White'	price='27 999 Kč' 
+# http://fitlayout.github.io/resource/art42 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-phantom-green_2/337287/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/256GB, Phantom Green'	price='27 999 Kč' 
+# http://fitlayout.github.io/resource/art43 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-blush_2/337286/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/256GB, Blush'	price='27 999 Kč' 
+# http://fitlayout.github.io/resource/art44 -> https://czc.cz/xiaomi-12-pro-5g-12gb-256gb-purple/341586/produkt
+title='Xiaomi 12 Pro 5G, 12GB/256GB, Purple'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art45 -> https://czc.cz/xiaomi-12-pro-5g-12gb-256gb-blue/341584/produkt
+title='Xiaomi 12 Pro 5G, 12GB/256GB, Blue'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art46 -> https://czc.cz/xiaomi-12-pro-5g-12gb-256gb-gray/341585/produkt
+title='Xiaomi 12 Pro 5G, 12GB/256GB, Gray'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art47 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-128gb-composite-gray/351771/produkt
+title='Samsung Galaxy Z Flip4, 8GB/128GB, Composite Gray'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art48 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-128gb-bora-purple/351770/produkt
+title='Samsung Galaxy Z Flip4, 8GB/128GB, Bora Purple'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art49 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-128gb-new-blue/351769/produkt
+title='Samsung Galaxy Z Flip4, 8GB/128GB, New Blue'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art50 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-128gb-gold/351772/produkt
+title='Samsung Galaxy Z Flip4, 8GB/128GB, Gold'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art51 -> https://czc.cz/apple-iphone-13-mini-512gb-product-red/327337/produkt
+title='Apple iPhone 13 mini, 512GB, (PRODUCT)RED'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art52 -> https://czc.cz/apple-iphone-13-mini-512gb-pink/327334/produkt
+title='Apple iPhone 13 mini, 512GB, Pink'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art53 -> https://czc.cz/apple-iphone-13-mini-512gb-midnight/327335/produkt
+title='Apple iPhone 13 mini, 512GB, Midnight'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art54 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-phantom-white_2/337285/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/128GB, Phantom White'	price='26 999 Kč' 
+# http://fitlayout.github.io/resource/art55 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-phantom-green_2/337284/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/128GB, Phantom Green'	price='26 999 Kč' 
+# http://fitlayout.github.io/resource/art56 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-blush_2/337283/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/128GB, Blush'	price='26 999 Kč' 
+# http://fitlayout.github.io/resource/art57 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-phantom-black_2/337305/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/128GB, Phantom Black'	price='26 999 Kč' 
+# http://fitlayout.github.io/resource/art58 -> https://czc.cz/vivo-x80-pro-12gb-256gb-cosmic-black/347957/produkt
+title='vivo X80 Pro, 12GB/256GB, Cosmic Black'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art59 -> https://czc.cz/samsung-galaxy-z-flip3-5g-8gb-128gb-black/324019/produkt
+title='Samsung Galaxy Z Flip3 5G, 8GB/128GB, Black'	price='24 999 Kč' 
+# http://fitlayout.github.io/resource/art60 -> https://czc.cz/samsung-galaxy-z-flip3-5g-8gb-128gb-cream/324015/produkt
+title='Samsung Galaxy Z Flip3 5G, 8GB/128GB, Cream'	price='24 999 Kč' 
+# http://fitlayout.github.io/resource/art61 -> https://czc.cz/apple-iphone-13-256gb-product-red/327318/produkt
+title='Apple iPhone 13, 256GB, (PRODUCT)RED'	price='24 490 Kč' 
+# http://fitlayout.github.io/resource/art62 -> https://czc.cz/apple-iphone-13-256gb-pink/327315/produkt
+title='Apple iPhone 13, 256GB, Pink'	price='24 490 Kč' 
+# http://fitlayout.github.io/resource/art63 -> https://czc.cz/apple-iphone-13-mini-512gb-starlight/327336/produkt
+title='Apple iPhone 13 mini, 512GB, Starlight'	price='23 990 Kč' 
+# http://fitlayout.github.io/resource/art64 -> https://czc.cz/oneplus-10-pro-12gb-256gb-black/336151/produkt
+title='OnePlus 10 Pro, 12GB/256GB, Black'	price='23 990 Kč' 
+# http://fitlayout.github.io/resource/art65 -> https://czc.cz/oneplus-10-pro-12gb-256gb-green/336154/produkt
+title='OnePlus 10 Pro, 12GB/256GB, Green'	price='23 990 Kč' 
+# http://fitlayout.github.io/resource/art66 -> https://czc.cz/google-pixel-6-pro-5g-12gb-128gb-stormy-black/330782/produkt
+title='GOOGLE Pixel 6 Pro 5G, 12GB/128GB, Stormy Black'	price='23 990 Kč' 
+# http://fitlayout.github.io/resource/art67 -> https://czc.cz/apple-iphone-13-mini-512gb-blue/327333/produkt
+title='Apple iPhone 13 mini, 512GB, Blue'	price='23 990 Kč' 
+# http://fitlayout.github.io/resource/art68 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-phantom-black/337281/produkt
+title='Samsung Galaxy S22 5G, 8GB/256GB, Phantom Black'	price='22 999 Kč' 
+# http://fitlayout.github.io/resource/art69 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-blush/337279/produkt
+title='Samsung Galaxy S22 5G, 8GB/256GB, Blush'	price='22 999 Kč' 
+# http://fitlayout.github.io/resource/art70 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-phantom-white/337282/produkt
+title='Samsung Galaxy S22 5G, 8GB/256GB, Phantom White'	price='22 999 Kč' 
+# http://fitlayout.github.io/resource/art71 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-phantom-green/337280/produkt
+title='Samsung Galaxy S22 5G, 8GB/256GB, Phantom Green'	price='22 999 Kč' 
+# http://fitlayout.github.io/resource/art72 -> https://czc.cz/apple-iphone-12-256gb-blue/301133/produkt
+title='Apple iPhone 12, 256GB, Blue'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art73 -> https://czc.cz/apple-iphone-12-256gb-black/301130/produkt
+title='Apple iPhone 12, 256GB, Black'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art74 -> https://czc.cz/apple-iphone-12-256gb-product-red/301132/produkt
+title='Apple iPhone 12, 256GB, (PRODUCT)RED'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art75 -> https://czc.cz/apple-iphone-12-256gb-green/301134/produkt
+title='Apple iPhone 12, 256GB, Green'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art76 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-bora-purple/349218/produkt
+title='Samsung Galaxy S22 5G, 8GB/256GB, Bora Purple'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art77 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-phantom-black/337277/produkt
+title='Samsung Galaxy S22 5G, 8GB/128GB, Phantom Black'	price='21 999 Kč' 
+# http://fitlayout.github.io/resource/art78 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-blush/337275/produkt
+title='Samsung Galaxy S22 5G, 8GB/128GB, Blush'	price='21 999 Kč' 
+# http://fitlayout.github.io/resource/art79 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-phantom-white/337278/produkt
+title='Samsung Galaxy S22 5G, 8GB/128GB, Phantom White'	price='21 999 Kč' 
+# http://fitlayout.github.io/resource/art80 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-phantom-green/337276/produkt
+title='Samsung Galaxy S22 5G, 8GB/128GB, Phantom Green'	price='21 999 Kč' 
+# http://fitlayout.github.io/resource/art81 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-bora-purple/349217/produkt
+title='Samsung Galaxy S22 5G, 8GB/128GB, Bora Purple'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art82 -> https://czc.cz/apple-iphone-12-mini-256gb-blue/301118/produkt
+title='Apple iPhone 12 mini, 256GB, Blue'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art83 -> https://czc.cz/apple-iphone-13-mini-256gb-pink/327329/produkt
+title='Apple iPhone 13 mini, 256GB, Pink'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art84 -> https://czc.cz/apple-iphone-13-mini-256gb-starlight/327331/produkt
+title='Apple iPhone 13 mini, 256GB, Starlight'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art85 -> https://czc.cz/oneplus-10-pro-8gb-128gb-black/336149/produkt
+title='OnePlus 10 Pro, 8GB/128GB, Black'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art86 -> https://czc.cz/apple-iphone-12-mini-256gb-product-red/301117/produkt
+title='Apple iPhone 12 mini, 256GB, (PRODUCT)RED'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art87 -> https://czc.cz/apple-iphone-12-mini-256gb-black/301115/produkt
+title='Apple iPhone 12 mini, 256GB, Black'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art88 -> https://czc.cz/apple-iphone-12-mini-256gb-white/301116/produkt
+title='Apple iPhone 12 mini, 256GB, White'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art89 -> https://czc.cz/apple-iphone-13-mini-256gb-product-red/327332/produkt
+title='Apple iPhone 13 mini, 256GB, (PRODUCT)RED'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art90 -> https://czc.cz/apple-iphone-12-mini-256gb-green/301119/produkt
+title='Apple iPhone 12 mini, 256GB, Green'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art91 -> https://czc.cz/samsung-galaxy-z-fold4-12gb-512gb-moon-beige/351767/produkt
+title='Samsung Galaxy Z Fold4, 12GB/512GB, Moon Beige'	price='47 990 Kč' 
+# http://fitlayout.github.io/resource/art92 -> https://czc.cz/samsung-galaxy-z-fold4-12gb-512gb-phantom-black/351768/produkt
+title='Samsung Galaxy Z Fold4, 12GB/512GB, Phantom Black'	price='47 990 Kč' 
+# http://fitlayout.github.io/resource/art93 -> https://czc.cz/samsung-galaxy-z-fold4-12gb-512gb-greygreen/351766/produkt
+title='Samsung Galaxy Z Fold4, 12GB/512GB, Greygreen'	price='47 990 Kč' 
+# http://fitlayout.github.io/resource/art94 -> https://czc.cz/apple-iphone-13-pro-max-1tb-gold/327368/produkt
+title='Apple iPhone 13 Pro Max, 1TB, Gold'	price='47 390 Kč' 
+# http://fitlayout.github.io/resource/art95 -> https://czc.cz/apple-iphone-13-pro-max-1tb-sierra-blue/327366/produkt
+title='Apple iPhone 13 Pro Max, 1TB, Sierra Blue'	price='47 390 Kč' 
+# http://fitlayout.github.io/resource/art96 -> https://czc.cz/samsung-galaxy-z-fold4-12gb-256gb-moon-beige/351764/produkt
+title='Samsung Galaxy Z Fold4, 12GB/256GB, Moon Beige'	price='44 990 Kč' 
+# http://fitlayout.github.io/resource/art97 -> https://czc.cz/apple-iphone-13-pro-1tb-silver/327352/produkt
+title='Apple iPhone 13 Pro, 1TB, Silver'	price='44 390 Kč' 
+# http://fitlayout.github.io/resource/art98 -> https://czc.cz/apple-iphone-13-pro-1tb-sierra-blue/327351/produkt
+title='Apple iPhone 13 Pro, 1TB, Sierra Blue'	price='44 390 Kč' 
+# http://fitlayout.github.io/resource/art99 -> https://czc.cz/apple-iphone-13-pro-1tb-graphite/327354/produkt
+title='Apple iPhone 13 Pro, 1TB, Graphite'	price='44 390 Kč' 
+# http://fitlayout.github.io/resource/art100 -> https://czc.cz/apple-iphone-13-pro-512gb-sierra-blue/327347/produkt
+title='Apple iPhone 13 Pro, 512GB, Sierra Blue'	price='38 190 Kč' 
+# http://fitlayout.github.io/resource/art101 -> https://czc.cz/apple-iphone-13-pro-512gb-graphite/327350/produkt
+title='Apple iPhone 13 Pro, 512GB, Graphite'	price='38 190 Kč' 
+# http://fitlayout.github.io/resource/art102 -> https://czc.cz/samsung-galaxy-z-fold3-5g-12gb-256gb-green/324008/produkt
+title='Samsung Galaxy Z Fold3 5G, 12GB/256GB, Green'	price='37 990 Kč' 
+# http://fitlayout.github.io/resource/art103 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-12gb-512gb-phantom-black/337300/produkt
+title='Samsung Galaxy S22 Ultra 5G, 12GB/512GB, Phantom Black'	price='36 999 Kč' 
+# http://fitlayout.github.io/resource/art104 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-12gb-512gb-phantom-white/337301/produkt
+title='Samsung Galaxy S22 Ultra 5G, 12GB/512GB, Phantom White'	price='36 999 Kč' 
+# http://fitlayout.github.io/resource/art105 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-12gb-512gb-burgundy/337299/produkt
+title='Samsung Galaxy S22 Ultra 5G, 12GB/512GB, Burgundy'	price='36 999 Kč' 
+# http://fitlayout.github.io/resource/art106 -> https://czc.cz/sony-xperia-pro-i-12gb-512gb-black/334721/produkt
+title='Sony Xperia PRO-I , 12GB/512GB, Black'	price='36 990 Kč' 
+# http://fitlayout.github.io/resource/art107 -> https://czc.cz/sony-xperia-1-iv-5g-12gb-256gb-purple/345803/produkt
+title='Sony Xperia 1 IV 5G, 12GB/256GB, Purple'	price='34 990 Kč' 
+# http://fitlayout.github.io/resource/art108 -> https://czc.cz/sony-xperia-1-iv-5g-12gb-256gb-black/345801/produkt
+title='Sony Xperia 1 IV 5G, 12GB/256GB, Black'	price='34 990 Kč' 
+# http://fitlayout.github.io/resource/art109 -> https://czc.cz/sony-xperia-1-iv-5g-12gb-256gb-white/345802/produkt
+title='Sony Xperia 1 IV 5G, 12GB/256GB, White'	price='34 990 Kč' 
+# http://fitlayout.github.io/resource/art110 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-12gb-256gb-phantom-white/337296/produkt
+title='Samsung Galaxy S22 Ultra 5G, 12GB/256GB, Phantom White'	price='34 499 Kč' 
+# http://fitlayout.github.io/resource/art111 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-12gb-256gb-phantom-black/337295/produkt
+title='Samsung Galaxy S22 Ultra 5G, 12GB/256GB, Phantom Black'	price='34 499 Kč' 
+# http://fitlayout.github.io/resource/art112 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-12gb-256gb-burgundy/337294/produkt
+title='Samsung Galaxy S22 Ultra 5G, 12GB/256GB, Burgundy'	price='34 499 Kč' 
+# http://fitlayout.github.io/resource/art113 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-12gb-256gb-phantom-green/337298/produkt
+title='Samsung Galaxy S22 Ultra 5G, 12GB/256GB, Phantom Green'	price='34 490 Kč' 
+# http://fitlayout.github.io/resource/art114 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-8gb-128gb-burgundy/337291/produkt
+title='Samsung Galaxy S22 Ultra 5G, 8GB/128GB, Burgundy'	price='31 999 Kč' 
+# http://fitlayout.github.io/resource/art115 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-8gb-128gb-phantom-white/337293/produkt
+title='Samsung Galaxy S22 Ultra 5G, 8GB/128GB, Phantom White'	price='31 999 Kč' 
+# http://fitlayout.github.io/resource/art116 -> https://czc.cz/samsung-galaxy-s22-ultra-5g-8gb-128gb-phantom-black/337292/produkt
+title='Samsung Galaxy S22 Ultra 5G, 8GB/128GB, Phantom Black'	price='31 999 Kč' 
+# http://fitlayout.github.io/resource/art117 -> https://czc.cz/apple-iphone-13-512gb-midnight/327321/produkt
+title='Apple iPhone 13, 512GB, Midnight'	price='30 490 Kč' 
+# http://fitlayout.github.io/resource/art118 -> https://czc.cz/apple-iphone-13-512gb-product-red/327323/produkt
+title='Apple iPhone 13, 512GB, (PRODUCT)RED'	price='30 490 Kč' 
+# http://fitlayout.github.io/resource/art119 -> https://czc.cz/apple-iphone-13-512gb-pink/327320/produkt
+title='Apple iPhone 13, 512GB, Pink'	price='30 490 Kč' 
+# http://fitlayout.github.io/resource/art120 -> https://czc.cz/apple-iphone-13-512gb-starlight/327322/produkt
+title='Apple iPhone 13, 512GB, Starlight'	price='30 490 Kč' 
+# http://fitlayout.github.io/resource/art121 -> https://czc.cz/sony-xperia-1-iii-5g-12gb-256gb-purple/323181/produkt
+title='Sony Xperia 1 III 5G, 12GB/256GB, Purple'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art122 -> https://czc.cz/samsung-galaxy-z-flip3-5g-8gb-256gb-cream/324016/produkt
+title='Samsung Galaxy Z Flip3 5G, 8GB/256GB, Cream'	price='28 999 Kč' 
+# http://fitlayout.github.io/resource/art123 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-256gb-composite-gray/351775/produkt
+title='Samsung Galaxy Z Flip4, 8GB/256GB, Composite Gray'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art124 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-256gb-new-blue/351773/produkt
+title='Samsung Galaxy Z Flip4, 8GB/256GB, New Blue'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art125 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-256gb-gold/351776/produkt
+title='Samsung Galaxy Z Flip4, 8GB/256GB, Gold'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art126 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-256gb-bora-purple/351774/produkt
+title='Samsung Galaxy Z Flip4, 8GB/256GB, Bora Purple'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art127 -> https://czc.cz/apple-iphone-13-pro-128gb-sierra-blue/327306/produkt
+title='Apple iPhone 13 Pro, 128GB, Sierra Blue'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art128 -> https://czc.cz/apple-iphone-13-pro-128gb-graphite/327342/produkt
+title='Apple iPhone 13 Pro, 128GB, Graphite'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art129 -> https://czc.cz/apple-iphone-13-pro-128gb-gold/327341/produkt
+title='Apple iPhone 13 Pro, 128GB, Gold'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art130 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-phantom-black_2/337288/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/256GB, Phantom Black'	price='27 999 Kč' 
+# http://fitlayout.github.io/resource/art131 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-phantom-white_2/337290/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/256GB, Phantom White'	price='27 999 Kč' 
+# http://fitlayout.github.io/resource/art132 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-phantom-green_2/337287/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/256GB, Phantom Green'	price='27 999 Kč' 
+# http://fitlayout.github.io/resource/art133 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-blush_2/337286/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/256GB, Blush'	price='27 999 Kč' 
+# http://fitlayout.github.io/resource/art134 -> https://czc.cz/xiaomi-12-pro-5g-12gb-256gb-purple/341586/produkt
+title='Xiaomi 12 Pro 5G, 12GB/256GB, Purple'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art135 -> https://czc.cz/xiaomi-12-pro-5g-12gb-256gb-blue/341584/produkt
+title='Xiaomi 12 Pro 5G, 12GB/256GB, Blue'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art136 -> https://czc.cz/xiaomi-12-pro-5g-12gb-256gb-gray/341585/produkt
+title='Xiaomi 12 Pro 5G, 12GB/256GB, Gray'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art137 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-128gb-composite-gray/351771/produkt
+title='Samsung Galaxy Z Flip4, 8GB/128GB, Composite Gray'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art138 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-128gb-bora-purple/351770/produkt
+title='Samsung Galaxy Z Flip4, 8GB/128GB, Bora Purple'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art139 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-128gb-new-blue/351769/produkt
+title='Samsung Galaxy Z Flip4, 8GB/128GB, New Blue'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art140 -> https://czc.cz/samsung-galaxy-z-flip4-8gb-128gb-gold/351772/produkt
+title='Samsung Galaxy Z Flip4, 8GB/128GB, Gold'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art141 -> https://czc.cz/apple-iphone-13-mini-512gb-product-red/327337/produkt
+title='Apple iPhone 13 mini, 512GB, (PRODUCT)RED'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art142 -> https://czc.cz/apple-iphone-13-mini-512gb-pink/327334/produkt
+title='Apple iPhone 13 mini, 512GB, Pink'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art143 -> https://czc.cz/apple-iphone-13-mini-512gb-midnight/327335/produkt
+title='Apple iPhone 13 mini, 512GB, Midnight'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art144 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-phantom-white_2/337285/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/128GB, Phantom White'	price='26 999 Kč' 
+# http://fitlayout.github.io/resource/art145 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-phantom-green_2/337284/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/128GB, Phantom Green'	price='26 999 Kč' 
+# http://fitlayout.github.io/resource/art146 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-blush_2/337283/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/128GB, Blush'	price='26 999 Kč' 
+# http://fitlayout.github.io/resource/art147 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-phantom-black_2/337305/produkt
+title='Samsung Galaxy S22+ 5G, 8GB/128GB, Phantom Black'	price='26 999 Kč' 
+# http://fitlayout.github.io/resource/art148 -> https://czc.cz/vivo-x80-pro-12gb-256gb-cosmic-black/347957/produkt
+title='vivo X80 Pro, 12GB/256GB, Cosmic Black'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art149 -> https://czc.cz/samsung-galaxy-z-flip3-5g-8gb-128gb-black/324019/produkt
+title='Samsung Galaxy Z Flip3 5G, 8GB/128GB, Black'	price='24 999 Kč' 
+# http://fitlayout.github.io/resource/art150 -> https://czc.cz/samsung-galaxy-z-flip3-5g-8gb-128gb-cream/324015/produkt
+title='Samsung Galaxy Z Flip3 5G, 8GB/128GB, Cream'	price='24 999 Kč' 
+# http://fitlayout.github.io/resource/art151 -> https://czc.cz/apple-iphone-13-256gb-product-red/327318/produkt
+title='Apple iPhone 13, 256GB, (PRODUCT)RED'	price='24 490 Kč' 
+# http://fitlayout.github.io/resource/art152 -> https://czc.cz/apple-iphone-13-256gb-pink/327315/produkt
+title='Apple iPhone 13, 256GB, Pink'	price='24 490 Kč' 
+# http://fitlayout.github.io/resource/art153 -> https://czc.cz/apple-iphone-13-mini-512gb-starlight/327336/produkt
+title='Apple iPhone 13 mini, 512GB, Starlight'	price='23 990 Kč' 
+# http://fitlayout.github.io/resource/art154 -> https://czc.cz/oneplus-10-pro-12gb-256gb-black/336151/produkt
+title='OnePlus 10 Pro, 12GB/256GB, Black'	price='23 990 Kč' 
+# http://fitlayout.github.io/resource/art155 -> https://czc.cz/oneplus-10-pro-12gb-256gb-green/336154/produkt
+title='OnePlus 10 Pro, 12GB/256GB, Green'	price='23 990 Kč' 
+# http://fitlayout.github.io/resource/art156 -> https://czc.cz/google-pixel-6-pro-5g-12gb-128gb-stormy-black/330782/produkt
+title='GOOGLE Pixel 6 Pro 5G, 12GB/128GB, Stormy Black'	price='23 990 Kč' 
+# http://fitlayout.github.io/resource/art157 -> https://czc.cz/apple-iphone-13-mini-512gb-blue/327333/produkt
+title='Apple iPhone 13 mini, 512GB, Blue'	price='23 990 Kč' 
+# http://fitlayout.github.io/resource/art158 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-phantom-black/337281/produkt
+title='Samsung Galaxy S22 5G, 8GB/256GB, Phantom Black'	price='22 999 Kč' 
+# http://fitlayout.github.io/resource/art159 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-blush/337279/produkt
+title='Samsung Galaxy S22 5G, 8GB/256GB, Blush'	price='22 999 Kč' 
+# http://fitlayout.github.io/resource/art160 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-phantom-white/337282/produkt
+title='Samsung Galaxy S22 5G, 8GB/256GB, Phantom White'	price='22 999 Kč' 
+# http://fitlayout.github.io/resource/art161 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-phantom-green/337280/produkt
+title='Samsung Galaxy S22 5G, 8GB/256GB, Phantom Green'	price='22 999 Kč' 
+# http://fitlayout.github.io/resource/art162 -> https://czc.cz/apple-iphone-12-256gb-blue/301133/produkt
+title='Apple iPhone 12, 256GB, Blue'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art163 -> https://czc.cz/apple-iphone-12-256gb-black/301130/produkt
+title='Apple iPhone 12, 256GB, Black'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art164 -> https://czc.cz/apple-iphone-12-256gb-product-red/301132/produkt
+title='Apple iPhone 12, 256GB, (PRODUCT)RED'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art165 -> https://czc.cz/apple-iphone-12-256gb-green/301134/produkt
+title='Apple iPhone 12, 256GB, Green'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art166 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-256gb-bora-purple/349218/produkt
+title='Samsung Galaxy S22 5G, 8GB/256GB, Bora Purple'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art167 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-phantom-black/337277/produkt
+title='Samsung Galaxy S22 5G, 8GB/128GB, Phantom Black'	price='21 999 Kč' 
+# http://fitlayout.github.io/resource/art168 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-blush/337275/produkt
+title='Samsung Galaxy S22 5G, 8GB/128GB, Blush'	price='21 999 Kč' 
+# http://fitlayout.github.io/resource/art169 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-phantom-white/337278/produkt
+title='Samsung Galaxy S22 5G, 8GB/128GB, Phantom White'	price='21 999 Kč' 
+# http://fitlayout.github.io/resource/art170 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-phantom-green/337276/produkt
+title='Samsung Galaxy S22 5G, 8GB/128GB, Phantom Green'	price='21 999 Kč' 
+# http://fitlayout.github.io/resource/art171 -> https://czc.cz/samsung-galaxy-s22-5g-8gb-128gb-bora-purple/349217/produkt
+title='Samsung Galaxy S22 5G, 8GB/128GB, Bora Purple'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art172 -> https://czc.cz/apple-iphone-12-mini-256gb-blue/301118/produkt
+title='Apple iPhone 12 mini, 256GB, Blue'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art173 -> https://czc.cz/apple-iphone-13-mini-256gb-pink/327329/produkt
+title='Apple iPhone 13 mini, 256GB, Pink'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art174 -> https://czc.cz/apple-iphone-13-mini-256gb-starlight/327331/produkt
+title='Apple iPhone 13 mini, 256GB, Starlight'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art175 -> https://czc.cz/oneplus-10-pro-8gb-128gb-black/336149/produkt
+title='OnePlus 10 Pro, 8GB/128GB, Black'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art176 -> https://czc.cz/apple-iphone-12-mini-256gb-product-red/301117/produkt
+title='Apple iPhone 12 mini, 256GB, (PRODUCT)RED'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art177 -> https://czc.cz/apple-iphone-12-mini-256gb-black/301115/produkt
+title='Apple iPhone 12 mini, 256GB, Black'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art178 -> https://czc.cz/apple-iphone-12-mini-256gb-white/301116/produkt
+title='Apple iPhone 12 mini, 256GB, White'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art179 -> https://czc.cz/apple-iphone-13-mini-256gb-product-red/327332/produkt
+title='Apple iPhone 13 mini, 256GB, (PRODUCT)RED'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art180 -> https://czc.cz/apple-iphone-12-mini-256gb-green/301119/produkt
+title='Apple iPhone 12 mini, 256GB, Green'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art181 -> https://czc.cz/apple-iphone-13-mini-256gb-green/340114/produkt
+title='Apple iPhone 13 mini, 256GB, Green'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art182 -> https://czc.cz/apple-iphone-13-mini-256gb-blue/327328/produkt
+title='Apple iPhone 13 mini, 256GB, Blue'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art183 -> https://czc.cz/samsung-galaxy-s21-fe-5g-8gb-256gb-olive/332908/produkt
+title='Samsung Galaxy S21 FE 5G, 8GB/256GB, Olive'	price='20 999 Kč' 
+# http://fitlayout.github.io/resource/art184 -> https://czc.cz/samsung-galaxy-s21-fe-5g-8gb-256gb-white/332917/produkt
+title='Samsung Galaxy S21 FE 5G, 8GB/256GB, White'	price='20 999 Kč' 
+# http://fitlayout.github.io/resource/art185 -> https://czc.cz/samsung-galaxy-s21-fe-5g-8gb-256gb-lavender/332911/produkt
+title='Samsung Galaxy S21 FE 5G, 8GB/256GB, Lavender'	price='20 999 Kč' 
+# http://fitlayout.github.io/resource/art186 -> https://czc.cz/samsung-galaxy-s21-fe-5g-8gb-256gb-graphite/332914/produkt
+title='Samsung Galaxy S21 FE 5G, 8GB/256GB, Graphite'	price='20 999 Kč' 
+# http://fitlayout.github.io/resource/art187 -> https://czc.cz/oneplus-9-pro-12gb-256gb-stellar-black/313511/produkt
+title='OnePlus 9 Pro, 12GB/256GB, Stellar Black'	price='20 990 Kč' 
+# http://fitlayout.github.io/resource/art188 -> https://czc.cz/oneplus-10t-5g-16gb-256gb-moonstone-black/352959/produkt
+title='OnePlus 10T 5G, 16GB/256GB, Moonstone Black'	price='20 491 Kč' 
+# http://fitlayout.github.io/resource/art189 -> https://czc.cz/oneplus-10t-5g-16gb-256gb-jade-green/352960/produkt
+title='OnePlus 10T 5G, 16GB/256GB, Jade Green'	price='20 491 Kč' 
+# http://fitlayout.github.io/resource/art190 -> https://czc.cz/sony-xperia-5-iii-5g-8gb-128gb-black/323182/produkt
+title='Sony Xperia 5 III 5G, 8GB/128GB, Black'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art191 -> https://czc.cz/apple-iphone-12-128gb-white/301126/produkt
+title='Apple iPhone 12, 128GB, White'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art192 -> https://czc.cz/asus-zenfone-8-8gb-256gb-silver/318205/produkt
+title='Asus Zenfone 8, 8GB/256GB, Silver'	price='19 490 Kč' 
+# http://fitlayout.github.io/resource/art193 -> https://czc.cz/apple-iphone-se-2022-256gb-product-red/340110/produkt
+title='Apple iPhone SE 2022, 256GB, (PRODUCT)RED'	price='19 190 Kč' 
+# http://fitlayout.github.io/resource/art194 -> https://czc.cz/samsung-galaxy-s21-fe-5g-6gb-128gb-graphite/332913/produkt
+title='Samsung Galaxy S21 FE 5G, 6GB/128GB, Graphite'	price='18 999 Kč' 
+# http://fitlayout.github.io/resource/art195 -> https://czc.cz/samsung-galaxy-s21-fe-5g-6gb-128gb-lavender/332910/produkt
+title='Samsung Galaxy S21 FE 5G, 6GB/128GB, Lavender'	price='18 999 Kč' 
+# http://fitlayout.github.io/resource/art196 -> https://czc.cz/samsung-galaxy-s21-fe-5g-6gb-128gb-white/332915/produkt
+title='Samsung Galaxy S21 FE 5G, 6GB/128GB, White'	price='18 999 Kč' 
+# http://fitlayout.github.io/resource/art197 -> https://czc.cz/xiaomi-12-5g-8gb-256gb-purple/341583/produkt
+title='Xiaomi 12 5G, 8GB/256GB, Purple'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art198 -> https://czc.cz/xiaomi-12-5g-8gb-256gb-gray/341582/produkt
+title='Xiaomi 12 5G, 8GB/256GB, Gray'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art199 -> https://czc.cz/xiaomi-12-5g-8gb-256gb-blue/341581/produkt
+title='Xiaomi 12 5G, 8GB/256GB, Blue'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art200 -> https://czc.cz/apple-iphone-12-mini-128gb-black/301110/produkt
+title='Apple iPhone 12 mini, 128GB, Black'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art201 -> https://czc.cz/apple-iphone-12-64gb-black/301120/produkt
+title='Apple iPhone 12, 64GB, Black'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art202 -> https://czc.cz/apple-iphone-12-64gb-purple/315948/produkt
+title='Apple iPhone 12, 64GB, Purple'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art203 -> https://czc.cz/apple-iphone-12-mini-128gb-blue/301113/produkt
+title='Apple iPhone 12 mini, 128GB, Blue'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art204 -> https://czc.cz/apple-iphone-12-64gb-product-red/301122/produkt
+title='Apple iPhone 12, 64GB, (PRODUCT)RED'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art205 -> https://czc.cz/asus-zenfone-8-8gb-128gb-silver/318198/produkt
+title='Asus Zenfone 8, 8GB/128GB, Silver'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art206 -> https://czc.cz/apple-iphone-12-64gb-white/301121/produkt
+title='Apple iPhone 12, 64GB, White'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art207 -> https://czc.cz/apple-iphone-12-mini-128gb-purple/315952/produkt
+title='Apple iPhone 12 mini, 128GB, Purple'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art208 -> https://czc.cz/apple-iphone-12-mini-128gb-white/301111/produkt
+title='Apple iPhone 12 mini, 128GB, White'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art209 -> https://czc.cz/oneplus-10t-5g-8gb-128gb-jade-green/352958/produkt
+title='OnePlus 10T 5G, 8GB/128GB, Jade Green'	price='17 991 Kč' 
+# http://fitlayout.github.io/resource/art210 -> https://czc.cz/oneplus-10t-5g-8gb-128gb-moonstone-black/352957/produkt
+title='OnePlus 10T 5G, 8GB/128GB, Moonstone Black'	price='17 991 Kč' 
+# http://fitlayout.github.io/resource/art211 -> https://czc.cz/xiaomi-12-5g-8gb-128gb-purple/341580/produkt
+title='Xiaomi 12 5G, 8GB/128GB, Purple'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art212 -> https://czc.cz/xiaomi-12-5g-8gb-128gb-blue/341574/produkt
+title='Xiaomi 12 5G, 8GB/128GB, Blue'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art213 -> https://czc.cz/apple-iphone-12-mini-64gb-white/301106/produkt
+title='Apple iPhone 12 mini, 64GB, White'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art214 -> https://czc.cz/poco-f4-gt-12gb-256gb-stealth-black/344743/produkt
+title='POCO F4 GT, 12GB/256GB, Stealth Black'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art215 -> https://czc.cz/apple-iphone-12-mini-64gb-black/301105/produkt
+title='Apple iPhone 12 mini, 64GB, Black'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art216 -> https://czc.cz/apple-iphone-12-mini-64gb-purple/315951/produkt
+title='Apple iPhone 12 mini, 64GB, Purple'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art217 -> https://czc.cz/samsung-galaxy-s20-fe-8gb-256gb-5g-navy-blue/298656/produkt
+title='Samsung Galaxy S20 FE, 8GB/256GB, 5G, Navy Blue'	price='14 999 Kč' 
+# http://fitlayout.github.io/resource/art218 -> https://czc.cz/motorola-edge-30-fusion-8gb-128gb-cosmic-black/354711/produkt
+title='Motorola EDGE 30 Fusion, 8GB/128GB, Cosmic black'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art219 -> https://czc.cz/repasovany-iphone-11-pro-64gb-gold-by-renewd/319358/produkt
+title='Repasovaný iPhone 11 Pro, 64GB, Gold (by Renewd)'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art220 -> https://czc.cz/google-pixel-6-5g-8gb-128gb-stormy-black/329335/produkt
+title='GOOGLE Pixel 6 5G, 8GB/128GB, Stormy Black'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art221 -> https://czc.cz/google-pixel-6-5g-8gb-128gb-kinda-coral/330776/produkt
+title='GOOGLE Pixel 6 5G, 8GB/128GB, Kinda Coral'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art222 -> https://czc.cz/honor-70-8gb-256gb-crystal-silver/352004/produkt
+title='Honor 70, 8GB/256GB, Crystal Silver'	price='14 490 Kč' 
+# http://fitlayout.github.io/resource/art223 -> https://czc.cz/honor-70-8gb-256gb-midnight-black/352003/produkt
+title='Honor 70, 8GB/256GB, Midnight Black'	price='14 490 Kč' 
+# http://fitlayout.github.io/resource/art224 -> https://czc.cz/myphone-hammer-blade-5g-6gb-128gb-black/333911/produkt
+title='myPhone Hammer Blade 5G, 6GB/128GB, Black'	price='14 490 Kč' 
+# http://fitlayout.github.io/resource/art225 -> https://czc.cz/xiaomi-11t-pro-8gb-256gb-moonlight-white/327808/produkt
+title='Xiaomi 11T Pro, 8GB/256GB, Moonlight White'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art226 -> https://czc.cz/xiaomi-12x-5g-8gb-128gb-blue/341587/produkt
+title='Xiaomi 12X 5G, 8GB/128GB, Blue'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art227 -> https://czc.cz/xiaomi-12x-5g-8gb-128gb-gray/341588/produkt
+title='Xiaomi 12X 5G, 8GB/128GB, Gray'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art228 -> https://czc.cz/xiaomi-11t-pro-8gb-256gb-celestial-blue/327810/produkt
+title='Xiaomi 11T Pro, 8GB/256GB, Celestial Blue'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art229 -> https://czc.cz/asus-zenfone-8-8gb-256gb-black/318202/produkt
+title='Asus Zenfone 8, 8GB/256GB, Black'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art230 -> https://czc.cz/honor-70-8gb-128gb-emerald-green/352002/produkt
+title='Honor 70, 8GB/128GB, Emerald Green'	price='13 490 Kč' 
+# http://fitlayout.github.io/resource/art231 -> https://czc.cz/iget-blackview-gbl6000-pro-8gb-256gb-5g-gray/318272/produkt
+title='iGET Blackview GBL6000 Pro, 8GB/256GB, 5G, Gray'	price='12 999 Kč' 
+# http://fitlayout.github.io/resource/art232 -> https://czc.cz/apple-iphone-11-64gb-black/269718/produkt
+title='Apple iPhone 11, 64GB, Black'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art233 -> https://czc.cz/samsung-galaxy-s20-fe-6gb-128gb-5g-lavender/311138/produkt
+title='Samsung Galaxy S20 FE, 6GB/128GB, 5G, Lavender'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art234 -> https://czc.cz/samsung-galaxy-s20-fe-6gb-128gb-5g-red/311140/produkt
+title='Samsung Galaxy S20 FE, 6GB/128GB, 5G, Red'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art235 -> https://czc.cz/apple-iphone-11-64gb-purple/269722/produkt
+title='Apple iPhone 11, 64GB, Purple'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art236 -> https://czc.cz/samsung-galaxy-s20-fe-6gb-128gb-5g-white/311141/produkt
+title='Samsung Galaxy S20 FE, 6GB/128GB, 5G, White'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art237 -> https://czc.cz/samsung-galaxy-s20-fe-6gb-128gb-5g-navy-blue/298655/produkt
+title='Samsung Galaxy S20 FE, 6GB/128GB, 5G, Navy Blue'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art238 -> https://czc.cz/samsung-galaxy-s20-fe-6gb-128gb-5g-green/311139/produkt
+title='Samsung Galaxy S20 FE, 6GB/128GB, 5G, Green'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art239 -> https://czc.cz/apple-iphone-11-64gb-yellow/269721/produkt
+title='Apple iPhone 11, 64GB, Yellow'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art240 -> https://czc.cz/xiaomi-11t-pro-8gb-128gb-celestial-blue/327807/produkt
+title='Xiaomi 11T Pro, 8GB/128GB, Celestial Blue'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art241 -> https://czc.cz/nokia-xr20-5g-6gb-128gb-ultra-blue/353762/produkt
+title='Nokia XR20 5G, 6GB/128GB, Ultra Blue'	price='12 890 Kč' 
+# http://fitlayout.github.io/resource/art242 -> https://czc.cz/cat-s53-5g-6gb-128gb/351998/produkt
+title='CAT S53 5G, 6GB/128GB'	price='12 491 Kč' 
+# http://fitlayout.github.io/resource/art243 -> https://czc.cz/sony-xperia-10-iv-5g-6gb-128gb-lavander/345799/produkt
+title='Sony Xperia 10 IV 5G, 6GB/128GB, Lavander'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art244 -> https://czc.cz/sony-xperia-10-iv-5g-6gb-128gb-white/345797/produkt
+title='Sony Xperia 10 IV 5G, 6GB/128GB, White'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art245 -> https://czc.cz/sony-xperia-10-iv-5g-6gb-128gb-mint/345800/produkt
+title='Sony Xperia 10 IV 5G, 6GB/128GB, Mint'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art246 -> https://czc.cz/google-pixel-6a-5g-6gb-128gb-chalk/351349/produkt
+title='GOOGLE Pixel 6a 5G, 6GB/128GB, Chalk'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art247 -> https://czc.cz/google-pixel-6a-5g-6gb-128gb-charcoal/351350/produkt
+title='GOOGLE Pixel 6a 5G, 6GB/128GB, Charcoal'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art248 -> https://czc.cz/google-pixel-6a-5g-6gb-128gb-sage/351351/produkt
+title='GOOGLE Pixel 6a 5G, 6GB/128GB, Sage'	price='12 490 Kč' 
+# http://fitlayout.github.io/resource/art249 -> https://czc.cz/umidigi-bison-gt2-pro-5g-8gb-256gb-black/350683/produkt
+title='UMIDIGI Bison GT2 Pro 5G, 8GB/256GB, Black'	price='11 992 Kč' 
+# http://fitlayout.github.io/resource/art250 -> https://czc.cz/nothing-phone-1-8gb-128gb-black/353287/produkt
+title='Nothing Phone (1), 8GB/128GB, Black'	price='11 990 Kč' 
+# http://fitlayout.github.io/resource/art251 -> https://czc.cz/oneplus-nord-2t-5g-12gb-256gb-gray-shadow/348836/produkt
+title='OnePlus Nord 2T 5G, 12GB/256GB, Gray Shadow'	price='11 590 Kč' 
+# http://fitlayout.github.io/resource/art252 -> https://czc.cz/samsung-galaxy-a53-5g-8gb-256gb-blue/338360/produkt
+title='Samsung Galaxy A53 5G, 8GB/256GB, Blue'	price='11 499 Kč' 
+# http://fitlayout.github.io/resource/art253 -> https://czc.cz/samsung-galaxy-a53-5g-8gb-256gb-black/338361/produkt
+title='Samsung Galaxy A53 5G, 8GB/256GB, Black'	price='11 499 Kč' 
+# http://fitlayout.github.io/resource/art254 -> https://czc.cz/samsung-galaxy-m53-5g-8gb-128gb-blue/343925/produkt
+title='Samsung Galaxy M53 5G, 8GB/128GB, Blue'	price='10 999 Kč' 
+# http://fitlayout.github.io/resource/art255 -> https://czc.cz/umidigi-bison-gt2-5g-8gb-128gb-black/350682/produkt
+title='UMIDIGI Bison GT2 5G, 8GB/128GB, Black'	price='10 992 Kč' 
+# http://fitlayout.github.io/resource/art256 -> https://czc.cz/poco-f4-8gb-256gb-night-black/348916/produkt
+title='POCO F4, 8GB/256GB, Night Black'	price='10 991 Kč' 
+# http://fitlayout.github.io/resource/art257 -> https://czc.cz/poco-f4-8gb-256gb-nebula-green/348917/produkt
+title='POCO F4, 8GB/256GB, Nebula Green'	price='10 991 Kč' 
+# http://fitlayout.github.io/resource/art258 -> https://czc.cz/poco-f4-8gb-256gb-moonlight-silver/348918/produkt
+title='POCO F4, 8GB/256GB, Moonlight Silver'	price='10 991 Kč' 
+# http://fitlayout.github.io/resource/art259 -> https://czc.cz/motorola-edge-30-8gb-128gb-meteor-gray/346368/produkt
+title='Motorola Edge 30, 8GB/128GB, Meteor Gray'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art260 -> https://czc.cz/vivo-v23-5g-12gb-256gb-sunshine-gold/341508/produkt
+title='vivo V23 5G, 12GB/256GB, Sunshine Gold'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art261 -> https://czc.cz/vivo-v23-5g-12gb-256gb-stardust-black/341507/produkt
+title='vivo V23 5G, 12GB/256GB, Stardust Black'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art262 -> https://czc.cz/xiaomi-redmi-note-11-pro-5g-6gb-128gb-star-blue/342244/produkt
+title='Xiaomi Redmi Note 11 Pro+ 5G, 6GB/128GB, Star Blue'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art263 -> https://czc.cz/xiaomi-redmi-note-11-pro-5g-6gb-128gb-graphite-gray_2/342243/produkt
+title='Xiaomi Redmi Note 11 Pro+ 5G, 6GB/128GB, Graphite Gray'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art264 -> https://czc.cz/xiaomi-redmi-note-11-pro-5g-6gb-128gb-forest-green/342242/produkt
+title='Xiaomi Redmi Note 11 Pro+ 5G, 6GB/128GB, Forest Green'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art265 -> https://czc.cz/motorola-edge-30-8gb-128gb-aurora-green/346369/produkt
+title='Motorola Edge 30, 8GB/128GB, Aurora Green'	price='10 489 Kč' 
+# http://fitlayout.github.io/resource/art266 -> https://czc.cz/samsung-galaxy-a53-5g-6gb-128gb-blue/338356/produkt
+title='Samsung Galaxy A53 5G, 6GB/128GB, Blue'	price='9 999 Kč' 
+# http://fitlayout.github.io/resource/art267 -> https://czc.cz/samsung-galaxy-a53-5g-6gb-128gb-white/338359/produkt
+title='Samsung Galaxy A53 5G, 6GB/128GB, White'	price='9 999 Kč' 
+# http://fitlayout.github.io/resource/art268 -> https://czc.cz/samsung-galaxy-a53-5g-6gb-128gb-orange/338358/produkt
+title='Samsung Galaxy A53 5G, 6GB/128GB, Orange'	price='9 999 Kč' 
+# http://fitlayout.github.io/resource/art269 -> https://czc.cz/samsung-galaxy-a53-5g-6gb-128gb-black/338357/produkt
+title='Samsung Galaxy A53 5G, 6GB/128GB, Black'	price='9 999 Kč' 
+# http://fitlayout.github.io/resource/art270 -> https://czc.cz/iget-blackview-gbv8800-8gb-128gb-black/352955/produkt
+title='iGET Blackview GBV8800, 8GB/128GB, Black'	price='9 992 Kč' 
+# http://fitlayout.github.io/resource/art271 -> https://czc.cz/poco-x4-gt-8gb-256gb-blue/349398/produkt
+title='POCO X4 GT, 8GB/256GB, Blue'	price='9 991 Kč' 
+# http://fitlayout.github.io/resource/art272 -> https://czc.cz/poco-x4-gt-8gb-256gb-silver/349397/produkt
+title='POCO X4 GT, 8GB/256GB, Silver'	price='9 991 Kč' 
+# http://fitlayout.github.io/resource/art273 -> https://czc.cz/poco-x4-gt-8gb-256gb-black/348915/produkt
+title='POCO X4 GT, 8GB/256GB, Black'	price='9 991 Kč' 
+# http://fitlayout.github.io/resource/art274 -> https://czc.cz/motorola-moto-edge-30-neo-6gb-128gb-very-peri/354709/produkt
+title='Motorola Moto EDGE 30 NEO, 6GB/128GB, Very Peri'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art275 -> https://czc.cz/motorola-moto-edge-30-neo-6gb-128gb-black-onyx/354708/produkt
+title='Motorola Moto EDGE 30 NEO, 6GB/128GB, Black Onyx'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art276 -> https://czc.cz/poco-f3-8gb-256gb-moonlight-silver/335822/produkt
+title='POCO F3, 8GB/256GB, Moonlight Silver'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art277 -> https://czc.cz/myphone-hammer-explorer-pro-6gb-128gb-silver/317569/produkt
+title='myPhone Hammer Explorer Pro, 6GB/128GB, Silver'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art278 -> https://czc.cz/myphone-hammer-explorer-pro-6gb-128gb-orange/317552/produkt
+title='myPhone Hammer Explorer Pro, 6GB/128GB, Orange'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art279 -> https://czc.cz/samsung-galaxy-a52s-6gb-128gb-mint/324833/produkt
+title='Samsung Galaxy A52s, 6GB/128GB, Mint'	price='9 499 Kč' 
+# http://fitlayout.github.io/resource/art280 -> https://czc.cz/samsung-galaxy-a52s-6gb-128gb-black/324835/produkt
+title='Samsung Galaxy A52s, 6GB/128GB, Black'	price='9 499 Kč' 
+# http://fitlayout.github.io/resource/art281 -> https://czc.cz/samsung-galaxy-a52s-6gb-128gb-violet/324834/produkt
+title='Samsung Galaxy A52s, 6GB/128GB, Violet'	price='9 499 Kč' 
+# http://fitlayout.github.io/resource/art282 -> https://czc.cz/poco-x4-pro-5g-8gb-256gb-laser-blue/339869/produkt
+title='POCO X4 Pro 5G, 8GB/256GB, Laser Blue'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art283 -> https://czc.cz/vivo-v21-5g-8gb-128gb-sunset-dazzle/319642/produkt
+title='vivo V21 5G, 8GB/128GB, Sunset Dazzle'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art284 -> https://czc.cz/oneplus-nord-2t-5g-8gb-128gb-jade-fog/348835/produkt
+title='OnePlus Nord 2T 5G, 8GB/128GB, Jade Fog'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art285 -> https://czc.cz/xiaomi-redmi-note-11-pro-5g-6gb-128gb-graphite-gray/340530/produkt
+title='Xiaomi Redmi Note 11 Pro 5G, 6GB/128GB, Graphite Gray'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art286 -> https://czc.cz/poco-x4-pro-5g-8gb-256gb-poco-yellow/339870/produkt
+title='POCO X4 Pro 5G, 8GB/256GB, POCO Yellow'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art287 -> https://czc.cz/vivo-v21-5g-8gb-128gb-dusk-blue/319641/produkt
+title='vivo V21 5G, 8GB/128GB, Dusk Blue'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art288 -> https://czc.cz/xiaomi-redmi-note-11-pro-5g-6gb-128gb-polar-white/340531/produkt
+title='Xiaomi Redmi Note 11 Pro 5G, 6GB/128GB, Polar White'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art289 -> https://czc.cz/tecno-camon-18-premier-8gb-256gb-vast-sky/342283/produkt
+title='Tecno Camon 18 Premier, 8GB/256GB, Vast Sky'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art290 -> https://czc.cz/tecno-camon-18-premier-8gb-256gb-polar-night/342282/produkt
+title='Tecno Camon 18 Premier, 8GB/256GB, Polar Night'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art291 -> https://czc.cz/oneplus-nord-2t-5g-8gb-128gb-gray-shadow/348833/produkt
+title='OnePlus Nord 2T 5G, 8GB/128GB, Gray Shadow'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art292 -> https://czc.cz/oukitel-wp13-8gb-128gb-black/352406/produkt
+title='OUKITEL WP13, 8GB/128GB, Black'	price='8 989 Kč' 
+# http://fitlayout.github.io/resource/art293 -> https://czc.cz/huawei-nova-9-8gb-128gb-black/330629/produkt
+title='Huawei Nova 9, 8GB/128GB, Black'	price='8 490 Kč' 
+# http://fitlayout.github.io/resource/art294 -> https://czc.cz/huawei-nova-9-8gb-128gb-starry-blue/330637/produkt
+title='Huawei Nova 9, 8GB/128GB, Starry Blue'	price='8 490 Kč' 
+# http://fitlayout.github.io/resource/art295 -> https://czc.cz/huawei-nova-9-se-8gb-128gb-crystal-blue/340805/produkt
+title='Huawei Nova 9 SE, 8GB/128GB, Crystal Blue'	price='8 486 Kč' 
+# http://fitlayout.github.io/resource/art296 -> https://czc.cz/samsung-galaxy-a33-6gb-128gb-white/338355/produkt
+title='Samsung Galaxy A33, 6GB/128GB, White'	price='7 999 Kč' 
+# http://fitlayout.github.io/resource/art297 -> https://czc.cz/samsung-galaxy-a33-6gb-128gb-orange/338354/produkt
+title='Samsung Galaxy A33, 6GB/128GB, Orange'	price='7 999 Kč' 
+# http://fitlayout.github.io/resource/art298 -> https://czc.cz/samsung-galaxy-a33-6gb-128gb-blue/338352/produkt
+title='Samsung Galaxy A33, 6GB/128GB, Blue'	price='7 999 Kč' 
+# http://fitlayout.github.io/resource/art299 -> https://czc.cz/samsung-galaxy-a33-6gb-128gb-black/338353/produkt
+title='Samsung Galaxy A33, 6GB/128GB, Black'	price='7 999 Kč' 
+# http://fitlayout.github.io/resource/art300 -> https://czc.cz/xiaomi-redmi-note-11-pro-6gb-128gb-graphite-gray/340526/produkt
+title='Xiaomi Redmi Note 11 Pro, 6GB/128GB, Graphite Gray'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art301 -> https://czc.cz/oneplus-nord-ce-2-5g-8gb-128gb-gray/337975/produkt
+title='OnePlus Nord CE 2 5G, 8GB/128GB, Gray'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art302 -> https://czc.cz/poco-x4-pro-5g-6gb-128gb-laser-blue/339872/produkt
+title='POCO X4 Pro 5G, 6GB/128GB, Laser Blue'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art303 -> https://czc.cz/poco-x4-pro-5g-6gb-128gb-laser-black/339871/produkt
+title='POCO X4 Pro 5G, 6GB/128GB, Laser Black'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art304 -> https://czc.cz/xiaomi-redmi-note-11-pro-6gb-128gb-star-blue/340528/produkt
+title='Xiaomi Redmi Note 11 Pro, 6GB/128GB, Star Blue'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art305 -> https://czc.cz/xiaomi-redmi-note-11-pro-6gb-128gb-polar-white/340527/produkt
+title='Xiaomi Redmi Note 11 Pro, 6GB/128GB, Polar White'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art306 -> https://czc.cz/poco-x4-pro-5g-6gb-128gb-poco-yellow/339873/produkt
+title='POCO X4 Pro 5G, 6GB/128GB, POCO Yellow'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art307 -> https://czc.cz/oneplus-nord-ce-2-5g-8gb-128gb-bahama-blue/341981/produkt
+title='OnePlus Nord CE 2 5G, 8GB/128GB, Bahama Blue'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art308 -> https://czc.cz/motorola-moto-g71-6gb-128gb-neptune-green/336616/produkt
+title='Motorola Moto G71, 6GB/128GB, Neptune Green'	price='7 591 Kč' 
+# http://fitlayout.github.io/resource/art309 -> https://czc.cz/myphone-hammer-blade-3-4gb-64gb-black/317494/produkt
+title='myPhone HAMMER Blade 3, 4GB/64GB, Black'	price='7 590 Kč' 
+# http://fitlayout.github.io/resource/art310 -> https://czc.cz/iget-gbv6600-pro-thermo-4gb-64gb-black/328078/produkt
+title='iGET GBV6600 Pro Thermo, 4GB/64GB, Black'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art311 -> https://czc.cz/honor-magic-4-lite-5g-6gb-128gb-silver/341570/produkt
+title='Honor Magic 4 lite 5G, 6GB/128GB, Silver'	price='7 489 Kč' 
+# http://fitlayout.github.io/resource/art312 -> https://czc.cz/honor-magic-4-lite-5g-6gb-128gb-black/341569/produkt
+title='Honor Magic 4 lite 5G, 6GB/128GB, Black'	price='7 489 Kč' 
+# http://fitlayout.github.io/resource/art313 -> https://czc.cz/honor-magic-4-lite-5g-6gb-128gb-blue/341571/produkt
+title='Honor Magic 4 lite 5G, 6GB/128GB, Blue'	price='7 489 Kč' 
+# http://fitlayout.github.io/resource/art314 -> https://czc.cz/xiaomi-redmi-note-10-pro-6gb-128gb-onyx-gray/314834/produkt
+title='Xiaomi Redmi Note 10 Pro 6GB/128GB, Onyx Gray'	price='7 290 Kč' 
+# http://fitlayout.github.io/resource/art315 -> https://czc.cz/xiaomi-redmi-note-11s-5g-4gb-128gb-star-blue/343718/produkt
+title='Xiaomi Redmi Note 11S 5G, 4GB/128GB, Star Blue'	price='7 190 Kč' 
+# http://fitlayout.github.io/resource/art316 -> https://czc.cz/xiaomi-redmi-note-11s-5g-4gb-128gb-twilight-blue/343717/produkt
+title='Xiaomi Redmi Note 11S 5G, 4GB/128GB, Twilight Blue'	price='7 190 Kč' 
+# http://fitlayout.github.io/resource/art317 -> https://czc.cz/htc-desire-21-pro-5g-8gb-128gb-blue/325071/produkt
+title='HTC Desire 21 Pro 5G, 8GB/128GB, Blue'	price='6 990 Kč' 
+# http://fitlayout.github.io/resource/art318 -> https://czc.cz/oneplus-nord-ce-2-lite-5g-6gb-128gb-black-dusk/348837/produkt
+title='OnePlus Nord CE 2 Lite 5G, 6GB/128GB, Black Dusk'	price='6 990 Kč' 
+# http://fitlayout.github.io/resource/art319 -> https://czc.cz/oneplus-nord-ce-2-lite-5g-6gb-128gb-blue-tide/348838/produkt
+title='OnePlus Nord CE 2 Lite 5G, 6GB/128GB, Blue Tide'	price='6 990 Kč' 
+# http://fitlayout.github.io/resource/art320 -> https://czc.cz/xiaomi-redmi-note-10s-6gb-128gb-onyx-gray/318698/produkt
+title='Xiaomi Redmi Note 10S, 6GB/128GB, Onyx Gray'	price='6 690 Kč' 
+# http://fitlayout.github.io/resource/art321 -> https://czc.cz/xiaomi-redmi-note-10s-6gb-128gb-ocean-blue/318696/produkt
+title='Xiaomi Redmi Note 10S, 6GB/128GB, Ocean Blue'	price='6 690 Kč' 
+# http://fitlayout.github.io/resource/art322 -> https://czc.cz/samsung-galaxy-m23-5g-4gb-128gb-orange/339451/produkt
+title='Samsung Galaxy M23 5G, 4GB/128GB, Orange'	price='6 499 Kč' 
+# http://fitlayout.github.io/resource/art323 -> https://czc.cz/xiaomi-redmi-note-11s-6gb-64gb-graphite-gray/339218/produkt
+title='Xiaomi Redmi Note 11S, 6GB/64GB, Graphite Gray'	price='6 490 Kč' 
+# http://fitlayout.github.io/resource/art324 -> https://czc.cz/vivo-y76-5g-8gb-128gb-cosmic-aurora/338068/produkt
+title='vivo Y76 5G, 8GB/128GB, Cosmic Aurora'	price='6 490 Kč' 
+# http://fitlayout.github.io/resource/art325 -> https://czc.cz/vivo-y76-5g-8gb-128gb-midnight-space/338067/produkt
+title='vivo Y76 5G, 8GB/128GB, Midnight Space'	price='6 490 Kč' 
+# http://fitlayout.github.io/resource/art326 -> https://czc.cz/honor-x8-5g-6gb-128gb-blue/352000/produkt
+title='Honor X8 5G, 6GB/128GB, Blue'	price='6 490 Kč' 
+# http://fitlayout.github.io/resource/art327 -> https://czc.cz/honor-x8-5g-6gb-128gb-midnight-black/352008/produkt
+title='Honor X8 5G, 6GB/128GB, Midnight Black'	price='6 490 Kč' 
+# http://fitlayout.github.io/resource/art328 -> https://czc.cz/xiaomi-redmi-note-11s-6gb-64gb-twilight-blue/339220/produkt
+title='Xiaomi Redmi Note 11S, 6GB/64GB, Twilight Blue'	price='6 490 Kč' 
+# http://fitlayout.github.io/resource/art329 -> https://czc.cz/poco-m4-pro-8gb-256gb-black/353927/produkt
+title='POCO M4 PRO, 8GB/256GB, Black'	price='6 290 Kč' 
+# http://fitlayout.github.io/resource/art330 -> https://czc.cz/poco-m4-pro-8gb-256gb-yellow/353928/produkt
+title='POCO M4 PRO, 8GB/256GB, Yellow'	price='6 290 Kč' 
+# http://fitlayout.github.io/resource/art331 -> https://czc.cz/samsung-galaxy-a13-5g-4gb-128gb-black/345104/produkt
+title='Samsung Galaxy A13 5G, 4GB/128GB, Black'	price='6 191 Kč' 
+# http://fitlayout.github.io/resource/art332 -> https://czc.cz/samsung-galaxy-a13-5g-4gb-128gb-blue/345103/produkt
+title='Samsung Galaxy A13 5G, 4GB/128GB, Blue'	price='6 191 Kč' 
+# http://fitlayout.github.io/resource/art333 -> https://czc.cz/samsung-galaxy-a13-5g-4gb-128gb-white/345105/produkt
+title='Samsung Galaxy A13 5G, 4GB/128GB, White'	price='6 191 Kč' 

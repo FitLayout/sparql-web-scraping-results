@@ -1,0 +1,131 @@
+# http://fitlayout.github.io/resource/art58 -> https://www.imdb.com/title/tt8134470/fullcredits/
+character=Grace Fraser	name=Nicole Kidman	episodes=6 episodes, 2020 	
+character=Jonathan Fraser	name=Hugh Grant	episodes=6 episodes, 2020 	
+character=Detective Joe Mendoza	name=Edgar Ramírez	episodes=6 episodes, 2020 	
+character=Henry Fraser	name=Noah Jupe	episodes=6 episodes, 2020 	
+character=Sylvia Steineitz	name=Lily Rabe	episodes=6 episodes, 2020 	
+character=Elena Alves	name=Matilda De Angelis	episodes=6 episodes, 2020 	
+character=Miguel Alves	name=Edan Alexander	episodes=6 episodes, 2020 	
+character=Detective Paul O	name=Michael Devine	episodes=6 episodes, 2020 	
+character=Rourke	name=Michael Devine	episodes=6 episodes, 2020 	
+character=Franklin Reinhardt	name=Donald Sutherland	episodes=6 episodes, 2020 	
+character=Fernando Alves	name=Ismael Cruz Cordova	episodes=5 episodes, 2020 	
+character=Daughter	name=Madeline Faye Santoriello	episodes=5 episodes, 2020 	
+character=Sylvia	name=Madeline Faye Santoriello	episodes=5 episodes, 2020 	
+character=Haley Fitzgerald	name=Noma Dumezweni	episodes=4 episodes, 2020 	
+character=Robert Connaver	name=Jeremy Shamos	episodes=4 episodes, 2020 	
+character=Maid	name=Irma-Estel Laguerre	episodes=4 episodes, 2020 	
+character=Franklin	name=Irma-Estel Laguerre	episodes=4 episodes, 2020 	
+character=Catherine Stamper	name=Sofie Gråbøl	episodes=3 episodes, 2020 	
+character=Doorman	name=Billy Lake	episodes=3 episodes, 2020 	
+character=Franklin	name=Billy Lake	episodes=3 episodes, 2020 	
+character=Robert Adelman	name=Douglas Hodge	episodes=2 episodes, 2020 	
+character=Jolene McCall	name=Fala Chen	episodes=2 episodes, 2020 	
+character=Michael Hoffman	name=Tarik Davis	episodes=2 episodes, 2020 	
+character=Diane Porter	name=Maria Dizzia	episodes=2 episodes, 2020 	
+character=Amanda Emory	name=Vedette Lim	episodes=2 episodes, 2020 	
+character=Judge Martin Shepley	name=Clint Jung	episodes=2 episodes, 2020 	
+character=Sally Maybury	name=Janel Moloney	episodes=2 episodes, 2020 	
+character=Dr. Stuart Rosenfeld	name=Jason Kravits	episodes=2 episodes, 2020 	
+character=Joseph Hoffman	name=Matt McGrath	episodes=2 episodes, 2020 	
+character=Connie Chung	name=Connie Chung	episodes=2 episodes, 2020 	
+character=TV Newscaster	name=Raul A. Reyes	episodes=2 episodes, 2020 	
+character=Court Bailiff	name=Jamar Greene	episodes=2 episodes, 2020 	
+character=Jason Reynolds	name=Andrew Keenan-Bolger	episodes=2 episodes, 2020 	
+character=TV Newscaster	name=Mahalet Dejene	episodes=2 episodes, 2020 	
+character=News Reporter	name=Lauren Collier	episodes=2 episodes, 2020 	
+character=News Reporter	name=Charlë Webb	episodes=2 episodes, 2020 	
+character=Shelby McGibbons	name=Naledi Murray	episodes=2 episodes, 2020 	
+character=Dance Teacher	name=Patricia Scarangello	episodes=2 episodes, 2020 	
+character=TV Newscaster	name=Kendra Farn	episodes=2 episodes, 2020 	
+character=Corrections Officer	name=David Marrero	episodes=2 episodes, 2020 	
+character=Prisoner	name=Charlton Lamar	episodes=2 episodes, 2020 	
+character=Extra	name=Mylee Rose	episodes=1 episode, 2020 	
+character=Alexis Young	name=Annaleigh Ashford	episodes=1 episode, 2020 	
+character=Janet Fraser	name=Rosemary Harris	episodes=1 episode, 2020 	
+character=Judge Layla Scott	name=Adriane Lenox	episodes=1 episode, 2020 	
+character=TV Newscaster	name=Angel Reda	episodes=1 episode, 2020 	
+character=Rebecca Harkness	name=Tracee Chimo Pallero	episodes=1 episode, 2020 	
+character=Woman in Young Couple	name=Liana Hunt	episodes=1 episode, 2020 	
+character=Man in Young Couple	name=Conor William Wright	episodes=1 episode, 2020 	
+character=Court Officer	name=Chris Lamberth	episodes=1 episode, 2020 	
+character=Photographer	name=Jason Furlani	episodes=1 episode, 2020 	
+character=TV Newscaster	name=Jo Young	episodes=1 episode, 2020 	
+character=Court Clerk	name=Michael Daly	episodes=1 episode, 2020 	
+character=Lionel Wilcox	name=Tucker Lewis	episodes=1 episode, 2020 	
+character=TV Newscaster	name=Polly Kreisman	episodes=1 episode, 2020 	
+character=Helga	name=Kate Greer	episodes=1 episode, 2020 	
+character=Police Captain James Chappell	name=Jeb Kreager	episodes=1 episode, 2020 	
+character=Corrections Officer	name=Ann Marie Maloney	episodes=1 episode, 2020 	
+character=Police Officer	name=Jennifer Lee Crowl	episodes=1 episode, 2020 	
+character=Waitress	name=Lori Arkin	episodes=1 episode, 2020 	
+character=Natalie	name=Brien	episodes=1 episode, 2020 	
+character=Natalie	name=Alana O	episodes=1 episode, 2020 	
+character=Fundraiser Staff Member	name=Nicole Asava	episodes=1 episode, 2020 	
+character=News Reporter	name=Nathaniel Beal	episodes=1 episode, 2020 	
+character=Jennifer	name=Laura Sudduth	episodes=1 episode, 2020 	
+character=Fundraiser Guest	name=Suzanne Jaehne	episodes=1 episode, 2020 	
+character=Kayla	name=Sara Koviak	episodes=1 episode, 2020 	
+character=News Reporter	name=Carmela Guarriello	episodes=1 episode, 2020 	
+character=Fundraiser Guest	name=Tim Wilson	episodes=1 episode, 2020 	
+character=News Reporter	name=Jill Lord	episodes=1 episode, 2020 	
+character=Diner Waitress	name=Isabella Knight	episodes=1 episode, 2020 	
+character=Female Officer	name=Onika Day	episodes=1 episode, 2020 	
+character=Kid in Hospital	name=Tyler Hanson	episodes=1 episode, 2020 	
+character=Fundraiser Guest	name=Roger Eichel	episodes=1 episode, 2020 	
+character=Corrections Officer	name=Curt Carlson	episodes=1 episode, 2020 	
+character=TV Newscaster	name=Christian Steiner	episodes=1 episode, 2020 	
+character=Fundraiser Guest	name=Sabrina Dandridge	episodes=1 episode, 2020 	
+character=TV Newscaster	name=Lee Garrett	episodes=1 episode, 2020 	
+character=Corrections Officer	name=George Cruz	episodes=1 episode, 2020 	
+character=Fundraiser Guest	name=Robert Boulanger	episodes=1 episode, 2020 	
+character=TV Newscaster	name=Todd Zeile	episodes=1 episode, 2020 	
+character=Fundraiser Guest	name=Virl Andrick	episodes=1 episode, 2020 	
+character=Corrections Officer	name=Gerard Smith	episodes=1 episode, 2020 	
+character=Reardon Student	name=Greta Frischling	episodes=1 episode, 2020 	
+character=Reardon Student	name=Sunday Rose Kidman-Urban	episodes=1 episode, 2020 	
+character=Prisoner	name=Daniel Lopez	episodes=1 episode, 2020 	
+character=News Reporter	name=Laurie Ann Crompton	episodes=1 episode, 2020 	
+character=Franklin	name=Mark Perrone	episodes=1 episode, 2020 	
+character=Doorman	name=Mark Perrone	episodes=1 episode, 2020 	
+character=Prisoner	name=Hugh M Jones III	episodes=1 episode, 2020 	
+character=Reardon Parent	name=Jarrod LaBine	episodes=4 episodes, 2020 	
+character=Juror 	name=Rosemary Howard	episodes=2 episodes, 2020 	
+character=Hospital Patient	name=Victoria Rooney	episodes=2 episodes, 2020 	
+character=NYPD Officer	name=Lynn Marocola	episodes=1 episode, 2020 	
+character=Upscale Guest	name=Doris McCarthy	episodes=1 episode, 2020 	
+character=Fundraiser Guest	name=Lauren Yaffe	episodes=1 episode, 2020 	
+character=Reardon Parent	name=Vincent Tumeo	episodes=1 episode, 2020 	
+character=Ballet Class Dancer	name=Sophia Zalipsky	episodes=1 episode, 2020 	
+character=Gala Pedestrian	name=Olivia Simone Roman	episodes=1 episode, 2020 	
+character=Reardon School Kid	name=Kathryn Grace	episodes=1 episode, 2020 	
+character=Court Attendee	name=Suki Úna Rae	episodes=1 episode, 2020 	
+character=Student	name=Reed Harlow-Grayce LaRocca	episodes=1 episode, 2020 	
+character=Student	name=Lara Barbieri	episodes=1 episode, 2020 	
+character=Prison Inmate	name=Jason John Cicalese	episodes=1 episode, 2020 	
+character=Auction Bidder 	name=Julia Bechler	episodes=1 episode, 2020 	
+character=Press	name=John DiGiorgio	episodes=1 episode, 2020 	
+character=TV Reporter	name=Casey Braxton	episodes=1 episode, 2020 	
+character=New Yorker	name=Robert Myers	episodes=1 episode, 2020 	
+character=Reardon School Kid	name=Courtney Chu	episodes=1 episode, 2020 	
+character=Reardon School Kid	name=Victoria Zalipsky	episodes=1 episode, 2020 	
+character=Reardon School Kid	name=Melania Zalipsky	episodes=1 episode, 2020 	
+character=Fundraiser Guest	name=Josh Mowery	episodes=1 episode, 2020 	
+character=Reardon School Kid	name=Logan Taylor	episodes=1 episode, 2020 	
+character=Prisoner	name=Gregory Barker	episodes=1 episode, 2020 	
+character=Private School Kid	name=Michael Iacono	episodes=1 episode, 2020 	
+character=Helicopter Pilot	name=Michael Peavey	episodes=1 episode, 2020 	
+character=Coat Woman	name=Maria Marinaro	episodes=1 episode, 2020 	
+character=Reardon Kid	name=Luke Mielnick	episodes=1 episode, 2020 	
+character=Private School Kid	name=Jessica VanOss	episodes=1 episode, 2020 	
+character=Reardon Student	name=Nicholas LaRocco	episodes=1 episode, 2020 	
+character=School Kid	name=Jayden Abrams	episodes=1 episode, 2020 	
+character=Reardon School Kid	name=Jivan Xander Ramesh	episodes=1 episode, 2020 	
+character=Press Photographer	name=Simonas Zmuidzinas	episodes=1 episode, 2020 	
+character=Reardon School Kid	name=Nicholas Robertson	episodes=1 episode, 2020 	
+character=Dog	name=Kiki	episodes=1 episode, 2020 	
+character=Reardon School Kid	name=Yuri Stevens	episodes=1 episode, 2020 	
+character=Reardon School Kid	name=Dante DiGiorgio	episodes=1 episode, 2020 	
+character=Correctional Officer	name=Ivan Cardona	episodes=1 episode, 2020 	
+character=Happy Kid	name=Lily Anna Schechter	episodes=1 episode, 2020 	
+character=Reardon School Kid	name=Jack Ronan Grindley	episodes=1 episode, 2020 	

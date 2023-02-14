@@ -1,0 +1,93 @@
+# http://fitlayout.github.io/resource/art32 -> https://www.imdb.com/title/tt1034007/fullcredits/
+character=Grace Marks	name=Sarah Gadon	episodes=6 episodes, 2017 	
+character=Dr. Simon Jordan	name=Edward Holcroft	episodes=6 episodes, 2017 	
+character=Mary Whitney	name=Rebecca Liddiard	episodes=6 episodes, 2017 	
+character=Jeremiah Pontelli	name=Zachary Levi	episodes=6 episodes, 2017 	
+character=James McDermott	name=Kerr Logan	episodes=6 episodes, 2017 	
+character=Reverend Verringer	name=David Cronenberg	episodes=6 episodes, 2017 	
+character=Thomas Kinnear	name=Paul Gross	episodes=6 episodes, 2017 	
+character=Nancy Montgomery	name=Anna Paquin	episodes=6 episodes, 2017 	
+character=Mrs. Humphrey	name=Sarah Manninen	episodes=5 episodes, 2017 	
+character=Jamie Walsh	name=Stephen Joffe	episodes=4 episodes, 2017 	
+character=Keeper 	name=John Tench	episodes=4 episodes, 2017 	
+character=Keeper 	name=Jonathan Koensgen	episodes=4 episodes, 2017 	
+character=Lydia	name=Alice Snaden	episodes=3 episodes, 2017 	
+character=Mrs. Honey	name=Elizabeth Saunders	episodes=4 episodes, 2017 	
+character=Mrs. Parkinson	name=Martha Burns	episodes=3 episodes, 2017 	
+character=George Parkinson	name=Will Bowes	episodes=3 episodes, 2017 	
+character=Father	name=Jonathan Goad	episodes=3 episodes, 2017 	
+character=Grace	name=Jonathan Goad	episodes=3 episodes, 2017 	
+character=Diane	name=Mag Ruffman	episodes=3 episodes, 2017 	
+character=Cook	name=Claire Armstrong	episodes=3 episodes, 2017 	
+character=Effie	name=Samantha Weinstein	episodes=3 episodes, 2017 	
+character=Mrs. Quenell	name=Aquila	episodes=3 episodes, 2017 	
+character=Mrs. Quenell	name=Diane D	episodes=3 episodes, 2017 	
+character=Agnes	name=Kate Ross	episodes=3 episodes, 2017 	
+character=Mr. McDonald	name=Michael Therriault	episodes=3 episodes, 2017 	
+character=Orderly	name=Christian Smith	episodes=3 episodes, 2017 	
+character=Immigrant	name=Sylvia Zuk	episodes=2 episodes, 2017 	
+character=Tory 	name=Scott Edgecombe	episodes=2 episodes, 2017 	
+character=Tory 	name=Evan Sabba	episodes=2 episodes, 2017 	
+character=Asylum Doctor	name=John Mallett	episodes=2 episodes, 2017 	
+character=Reformer 	name=Kyle Cameron	episodes=2 episodes, 2017 	
+character=Reformer 	name=Alden Adair	episodes=2 episodes, 2017 	
+character=Ship	name=Dylan Trowbridge	episodes=2 episodes, 2017 	
+character=Doctor	name=Dylan Trowbridge	episodes=2 episodes, 2017 	
+character=Carriage Driver	name=Tom Bishop Sr.	episodes=2 episodes, 2017 	
+character=Inmate	name=Laila Kharouba	episodes=1 episode, 2017 	
+character=Carriage Driver	name=Tom Bishop Jr.	episodes=2 episodes, 2017 	
+character=Lawyer	name=Albert Schultz	episodes=1 episode, 2017 	
+character=Grace	name=Albert Schultz	episodes=1 episode, 2017 	
+character=Mother	name=Kirstin Rae Hinton	episodes=1 episode, 2017 	
+character=Grace	name=Kirstin Rae Hinton	episodes=1 episode, 2017 	
+character=Governor	name=Ross Manson	episodes=1 episode, 2017 	
+character=Old Woman at Church	name=Margaret Atwood	episodes=1 episode, 2017 	
+character=Clarrie	name=Lisa Codrington	episodes=1 episode, 2017 	
+character=Captain Boyd	name=Jeffrey Wetsch	episodes=1 episode, 2017 	
+character=Captain Bridgeford	name=Bruce Dinsmore	episodes=1 episode, 2017 	
+character=Dora	name=Diane Flacks	episodes=1 episode, 2017 	
+character=Farm Dealer	name=Thomas Craig	episodes=1 episode, 2017 	
+character=Mother	name=Susannah Hoffmann	episodes=1 episode, 2017 	
+character=Simon	name=Susannah Hoffmann	episodes=1 episode, 2017 	
+character=Local Minister	name=Carrigan	episodes=1 episode, 2017 	
+character=Local Minister	name=Mairtin O	episodes=1 episode, 2017 	
+character=Young Man on Ferry	name=Alex Anderson	episodes=1 episode, 2017 	
+character=Whipped Female Inmate	name=Ana Shepherd	episodes=1 episode, 2017 	
+character=Annie	name=Kyla Avril Young	episodes=1 episode, 2017 	
+character=Court Judge	name=Murray Oliver	episodes=1 episode, 2017 	
+character=Crown Prosecutor	name=Hardee T. Lineham	episodes=1 episode, 2017 	
+character=Abortion Doctor	name=Greg Gale	episodes=1 episode, 2017 	
+character=Whipping Guard	name=Kelly Jones	episodes=1 episode, 2017 	
+character=Burial Minister	name=Laurie Murdoch	episodes=1 episode, 2017 	
+character=Street Urchin 	name=Wilson Reynolds	episodes=1 episode, 2017 	
+character=Prison Matron	name=Deborah Lobban	episodes=1 episode, 2017 	
+character=Street Urchin 	name=David Gregory Black	episodes=1 episode, 2017 	
+character=House Doctor	name=Murray Furrow	episodes=1 episode, 2017 	
+character=Street Urchin 	name=Arielle Cohen	episodes=1 episode, 2017 	
+character=Street Urchin 	name=Noah Carson	episodes=1 episode, 2017 	
+character=Mrs. Phelan	name=Patricia Phillips	episodes=1 episode, 2017 	
+character=High Bailiff	name=Tal Zimerman	episodes=1 episode, 2017 	
+character=Alderman Parkinson	name=Robin Cleland	episodes=1 episode, 2017 	
+character=Guard 	name=Kevin Fox	episodes=1 episode, 2017 	
+character=Hotel Manager	name=Scott Anderson	episodes=1 episode, 2017 	
+character=Female Prisoner	name=Jacquelyn French	episodes=1 episode, 2017 	
+character=Catholic Priest	name=Ian D. Clark	episodes=1 episode, 2017 	
+character=Protestant Minister	name=Robert Persichini	episodes=1 episode, 2017 	
+character=Katey Marks	name=Christine Banquier	episodes=1 episode, 2017 	
+character=Claire Marks	name=Zoe Ambrose	episodes=1 episode, 2017 	
+character=George Marks	name=Isaak Bailey	episodes=1 episode, 2017 	
+character=Dr. Smith	name=Lawrence Cotton	episodes=1 episode, 2017 	
+character=Michael	name=Jacob Soley	episodes=1 episode, 2017 	
+character=Man on Ship	name=Michael Gordin Shore	episodes=1 episode, 2017 	
+character=Street Drunk 	name=Terry Parker	episodes=1 episode, 2017 	
+character=Street Drunk 	name=Justin Sanchez	episodes=1 episode, 2017 	
+character=Church Goer	name=Jennifer Hardy CK	episodes=1 episode, 2017 	
+character=Luggage Boy	name=Tyler Bauer	episodes=1 episode, 2017 	
+character=Female Inmate	name=Jessica Foley	episodes=2 episodes, 2017 	
+character=Seance Lady	name=Michelle Roy	episodes=1 episode, 2017 	
+character=Ferry Passenger	name=Johan Wester	episodes=1 episode, 2017 	
+character=Patron	name=Mark Quigley	episodes=1 episode, 2017 	
+character=Patron	name=Dave Reachill	episodes=1 episode, 2017 	
+character=Valet	name=Robert Bellissimo	episodes=1 episode, 2017 	
+character=Ferry Passenger	name=Ken Linton	episodes=1 episode, 2017 	
+character=Ship Passenger	name=Dylan Sypher	episodes=1 episode, 2017 	

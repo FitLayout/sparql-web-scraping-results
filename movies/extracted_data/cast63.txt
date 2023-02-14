@@ -1,0 +1,2194 @@
+# http://fitlayout.github.io/resource/art63 -> https://www.imdb.com/title/tt0106179/fullcredits/
+character=Dana Scully	name=Gillian Anderson	episodes=217 episodes, 1993-2018 	
+character=Fox Mulder	name=David Duchovny	episodes=190 episodes, 1993-2018 	
+character=Walter Skinner	name=Mitch Pileggi	episodes=91 episodes, 1994-2018 	
+character=Smoking Man	name=William B. Davis	episodes=43 episodes, 1993-2018 	
+character=John Doggett	name=Robert Patrick	episodes=40 episodes, 2000-2002 	
+character=Melvin Frohike	name=Tom Braidwood	episodes=39 episodes, 1994-2018 	
+character=John Fitzgerald Byers	name=Bruce Harwood	episodes=37 episodes, 1994-2018 	
+character=Ringo	name=Dean Haglund	episodes=36 episodes, 1994-2018 	
+character=Langly	name=Dean Haglund	episodes=36 episodes, 1994-2018 	
+character=Richard 	name=Dean Haglund	episodes=36 episodes, 1994-2018 	
+character=Monica Reyes	name=Annabeth Gish	episodes=26 episodes, 2001-2018 	
+character=Alex Krycek	name=Nicholas Lea	episodes=24 episodes, 1994-2002 	
+character=Alvin Kersh	name=James Pickens Jr.	episodes=21 episodes, 1998-2018 	
+character=Margaret Scully	name=Sheila Larken	episodes=16 episodes, 1994-2016 	
+character=Jeffrey Spender	name=Chris Owens	episodes=14 episodes, 1996-2018 	
+character=Elder 	name=Don S. Williams	episodes=14 episodes, 1995-1999 	
+character=Mr. X	name=Steven Williams	episodes=13 episodes, 1994-2002 	
+character=Deep Throat	name=Jerry Hardin	episodes=11 episodes, 1993-2002 	
+character=Marita Covarrubias	name=Laurie Holden	episodes=10 episodes, 1996-2002 	
+character=Teena Mulder	name=Rebecca Toolan	episodes=10 episodes, 1995-2002 	
+character=Skinner	name=Arlene Warren	episodes=9 episodes, 1998-2002 	
+character=Assistant	name=Arlene Warren	episodes=9 episodes, 1998-2002 	
+character=Alien Bounty Hunter	name=Brian Thompson	episodes=9 episodes, 1995-2002 	
+character=Chuck Burks	name=Bill Dow	episodes=9 episodes, 1993-2018 	
+character=Agent Pendrell	name=Brendan Beiser	episodes=9 episodes, 1995-1997 	
+character=Well-Manicured Man	name=John Neville	episodes=8 episodes, 1995-1998 	
+character=Baby William	name=Travis Riker	episodes=7 episodes, 2001-2016 	
+character=Diana Fowley	name=Mimi Rogers	episodes=6 episodes, 1998-1999 	
+character=Baby William	name=James Riker	episodes=6 episodes, 2001-2016 	
+character=William Mulder	name=Peter Donat	episodes=6 episodes, 1995-2002 	
+character=Brad Follmer	name=Cary Elwes	episodes=6 episodes, 2001-2002 	
+character=Gray Haired Man	name=Morris Panych	episodes=6 episodes, 1995-1997 	
+character=Section Chief Scott Blevins	name=Charles Cioffi	episodes=5 episodes, 1993-1997 	
+character=Elder	name=John Moore	episodes=3 episodes, 1995-1998 	
+character=Detective	name=Bob Wilde	episodes=1 episode, 1993-1998 	
+character=Albert Hosteen	name=Red Crow	episodes=5 episodes, 1995-1999 	
+character=Albert Hosteen	name=Westerman	episodes=5 episodes, 1995-1999 	
+character=Albert Hosteen	name=Floyd 	episodes=5 episodes, 1995-1999 	
+character=Buddy	name=Alex Diakun	episodes=5 episodes, 1995-2018 	
+character=Michael Kritschgau	name=John Finn	episodes=5 episodes, 1997-1999 	
+character=Gibson Andrew Praise	name=Jeff Gulka	episodes=5 episodes, 1998-2002 	
+character=Agent Gene Crane	name=Kirk B.R. Woller	episodes=5 episodes, 2000-2001 	
+character=Dr. Sacks	name=Malcolm Stewart	episodes=5 episodes, 1993-1996 	
+character=Agent Kazanjian	name=William MacDonald	episodes=5 episodes, 1993-1998 	
+character=Billy Miles	name=Zachary Ansley	episodes=5 episodes, 1993-2002 	
+character=Agent 	name=Doug Abrahams	episodes=5 episodes, 1993-1996 	
+character=Senior Agent	name=Michael David Simms	episodes=5 episodes, 1994-1996 	
+character=Senior Agent	name=Ken Camroux-Taylor	episodes=5 episodes, 1993-1997 	
+character=Knowle Rohrer	name=Adam Baldwin	episodes=5 episodes, 2001-2002 	
+character=Ghouli	name=Keith Arbuthnot	episodes=5 episodes, 2016-2018 	
+character=Agent Rice	name=Roger Cross	episodes=4 episodes, 1994-2018 	
+character=Frank Kiveat	name=Steve Makaj	episodes=4 episodes, 1993-1997 	
+character=Dark Suited Man 	name=Eric Breker	episodes=4 episodes, 1996-2016 	
+character=Funeral Director	name=Forbes Angus	episodes=4 episodes, 1993-1998 	
+character=Field Doctor	name=Bonnie Hay	episodes=4 episodes, 1995-1996 	
+character=Hispanic Man	name=Lenno Britos	episodes=4 episodes, 1995-1996 	
+character=Melissa Scully	name=Melinda McGraw	episodes=4 episodes, 1994-1997 	
+character=Morris Fletcher	name=Michael McKean	episodes=4 episodes, 1998-2002 	
+character=Bill Scully Jr.	name=Pat Skipper	episodes=4 episodes, 1997 	
+character=Cassandra Spender	name=Veronica Cartwright	episodes=4 episodes, 1998-2002 	
+character=Penny Northern	name=Gillian Barber	episodes=4 episodes, 1993-1997 	
+character=Angelo Garza	name=Angelo Vacco	episodes=4 episodes, 1995-2002 	
+character=Denny Markham	name=Larry Musser	episodes=4 episodes, 1995-1998 	
+character=Bob Spitz	name=Garry Davey	episodes=4 episodes, 1993-1996 	
+character=Sharon Graffia	name=Chilton Crane	episodes=4 episodes, 1994-1997 	
+character=Commander	name=Dwight McFee	episodes=4 episodes, 1994-1995 	
+character=Karen Kosseff	name=Christine Willes	episodes=4 episodes, 1995-2016 	
+character=Conductor	name=Michael Puttonen	episodes=4 episodes, 1993-1997 	
+character=Agent Barry Weiss	name=Andrew Johnston	episodes=4 episodes, 1993-1997 	
+character=Samantha Mulder	name=Megan Leitch	episodes=4 episodes, 1995-2002 	
+character=Det. Horton	name=Mitchell Kosterman	episodes=4 episodes, 1994-1998 	
+character=Assistant Manager	name=Gordon Tipple	episodes=4 episodes, 1993-1998 	
+character=Elder	name=George Murdock	episodes=4 episodes, 1998-1999 	
+character=Senator Romine	name=Campbell Lane	episodes=4 episodes, 1994-1996 	
+character=Director	name=David Fredericks	episodes=4 episodes, 1994-1998 	
+character=Special Agent Kautz	name=Paul Anthony McLean	episodes=4 episodes, 1994-1997 	
+character=BATF Agent	name=Michael Dobson	episodes=4 episodes, 1994-1998 	
+character=Agent 	name=Lesley Ewen	episodes=4 episodes, 1993-1997 	
+character=Tad O	name=Joel McHale	episodes=3 episodes, 2015-2018 	
+character=Malley	name=Joel McHale	episodes=3 episodes, 2015-2018 	
+character=Henry Willig	name=Don Thompson	episodes=3 episodes, 1993-1998 	
+character=Charlie	name=Don MacKay	episodes=3 episodes, 1994-1996 	
+character=Galen Muntz	name=Hrothgar Mathews	episodes=3 episodes, 1993-1996 	
+character=Detainee	name=Charles Andre	episodes=3 episodes, 1993-2018 	
+character=Dave the Butcher	name=Harrison Coe	episodes=2 episodes, 1996-1998 	
+character=Russian Guard	name=Raoul Ganeev	episodes=2 episodes, 1994-1998 	
+character=Man in Stairwell	name=Tony Morelli	episodes=1 episode, 1993-1996 	
+character=Uniform	name=John Sampson	episodes=1 episode, 1994-1998 	
+character=Erika Price	name=Barbara Hershey	episodes=3 episodes, 2018 	
+character=Senator Richard Matheson	name=Raymond J. Barry	episodes=3 episodes, 1994-1999 	
+character=Det. John Kresge	name=John Pyper-Ferguson	episodes=3 episodes, 1995-1997 	
+character=Agent Einstein	name=Lauren Ambrose	episodes=3 episodes, 2016-2018 	
+character=Max Fenig	name=Scott Bellis	episodes=3 episodes, 1993-1997 	
+character=Detective Gwynn	name=Tom McBeath	episodes=3 episodes, 1993-1996 	
+character=Detective Talbot	name=Timothy Webber	episodes=3 episodes, 1994-1996 	
+character=Detective Frank Briggs	name=Henry Beckman	episodes=3 episodes, 1993-1998 	
+character=Jeremiah Smith	name=Roy Thinnes	episodes=3 episodes, 1996-2001 	
+character=Duffy Haskell	name=Jay Acovone	episodes=3 episodes, 1997-2001 	
+character=Agent Miller	name=Robbie Amell	episodes=3 episodes, 2016-2018 	
+character=Dwight	name=Peter LaCroix	episodes=3 episodes, 1994-1997 	
+character=Agent Brian Fuller	name=Kevin McNulty	episodes=3 episodes, 1993-1996 	
+character=Dr. Yonechi	name=Hiro Kanagawa	episodes=3 episodes, 1994-2015 	
+character=Coroner Truitt	name=Stephen E. Miller	episodes=3 episodes, 1993-1996 	
+character=Attorney	name=Lorena Gale	episodes=3 episodes, 1993-1997 	
+character=Stoner	name=Tyler Labine	episodes=3 episodes, 1996-2016 	
+character=Druggist	name=Walter Marsh	episodes=3 episodes, 1994-1997 	
+character=Dr. Browning	name=Ken Kramer	episodes=3 episodes, 1994-1996 	
+character=Dr. Stroman	name=Colin Cunningham	episodes=3 episodes, 1995-1996 	
+character=Emily Sim	name=Lauren Diewold	episodes=3 episodes, 1997-1998 	
+character=Agent Morris	name=Deryl Hayes	episodes=3 episodes, 1993-1995 	
+character=Absalom	name=Judson Scott	episodes=3 episodes, 2001 	
+character=Deborah Brown	name=P. Lynn Johnson	episodes=3 episodes, 1994-1997 	
+character=Chick	name=Nicole Parker	episodes=3 episodes, 1996-2016 	
+character=Ellen Reardon	name=Tasha Simms	episodes=3 episodes, 1993-1996 	
+character=Dr. Joe Ridley	name=Robin Mossley	episodes=3 episodes, 1994-1996 	
+character=Dr. Heitz Werber	name=Jim Jansen	episodes=3 episodes, 1993-1998 	
+character=Controller	name=Alf Humphreys	episodes=3 episodes, 1993-1997 	
+character=Government Man	name=Dmitry Chepovetsky	episodes=3 episodes, 1995-1998 	
+character=Timothy Mayhew	name=Brent Stait	episodes=3 episodes, 1993-1996 	
+character=FBI Cadet	name=Robert E. Beckwith	episodes=3 episodes, 2001-2002 	
+character=Agent Collins	name=Steve Bacic	episodes=3 episodes, 1995-1998 	
+character=Young Bill Mulder	name=Dean Aylesworth	episodes=3 episodes, 1996-1998 	
+character=Dr. Harriman	name=Warren Sweeney	episodes=3 episodes, 1999 	
+character=Reporter	name=Norma Jean Wick	episodes=3 episodes, 1993-1998 	
+character=Dr. Vitagliano	name=Barry W. Levy	episodes=3 episodes, 1996-1997 	
+character=Larold Rebhun	name=Jerry Schram	episodes=3 episodes, 1997-1998 	
+character=Field Agent	name=J.B. Bivens	episodes=3 episodes, 1993-1998 	
+character=Lana Chee	name=Julia Vera	episodes=3 episodes, 1998-2002 	
+character=Vosberg	name=David James Lewis	episodes=3 episodes, 1993-1995 	
+character=Chaplain	name=Joseph Patrick Finn	episodes=3 episodes, 1995-2018 	
+character=Father McCue	name=Arnie Walters	episodes=3 episodes, 1997-1998 	
+character=Alien	name=Sandy Da Costa	episodes=3 episodes, 2015-2018 	
+character=A.D. Arnold	name=Wayne Alexander	episodes=3 episodes, 1998-2000 	
+character=Assistant	name=Victoria Gallegos	episodes=3 episodes, 2001-2002 	
+character=Follmer	name=Victoria Gallegos	episodes=3 episodes, 2001-2002 	
+character=Guard	name=Craig Bruhnanski	episodes=3 episodes, 1995-1997 	
+character=Officer	name=Robert Lewis	episodes=3 episodes, 1993-1995 	
+character=Toothpick Man	name=Alan Dale	episodes=3 episodes, 2002 	
+character=Assistant	name=Laura Leigh Hughes	episodes=3 episodes, 1998-2002 	
+character=Kersh	name=Laura Leigh Hughes	episodes=3 episodes, 1998-2002 	
+character=Pilot	name=Christopher Stapleton	episodes=3 episodes, 1998-2002 	
+character=Jackson Van De Kamp	name=Miles Robbins	episodes=2 episodes, 2018 	
+character=Agt. Brisentine	name=Marc Baur	episodes=2 episodes, 1993-1996 	
+character=FBI Agent Riggins	name=Anthony Harrison	episodes=2 episodes, 1993-1996 	
+character=Local Cop	name=Sean Campbell	episodes=2 episodes, 1995-2018 	
+character=Agent Landau	name=Sal Landi	episodes=2 episodes, 2000-2002 	
+character=Bartender	name=Rick Dobran	episodes=2 episodes, 1997-1998 	
+character=Robert	name=Brent Chapman	episodes=2 episodes, 1995-1997 	
+character=Fireman	name=Brad Loree	episodes=2 episodes, 1994-1997 	
+character=David Duchovny	name=Steve Kiziak	episodes=2 episodes, 1999-2000 	
+character=Duty Nurse	name=Carrie Cain-Sparks	episodes=2 episodes, 1995-1997 	
+character=Dr. Hartman	name=Martin Evans	episodes=2 episodes, 1995-1996 	
+character=Addie Sparks	name=Jenny-Lynn Hutcheson	episodes=1 episode, 1995-1998 	
+character=First Cop	name=Colin Lawrence	episodes=1 episode, 1996-1998 	
+character=Day Room Patient 	name=Kate Braidwood	episodes=1 episode, 1996-1998 	
+character=Glasses Man	name=Anatol Rezmeritza	episodes=1 episode, 1996-1998 	
+character=Nurse	name=Jenn Forgie	episodes=1 episode, 1997-1999 	
+character=Eugene Victor Tooms	name=Doug Hutchison	episodes=2 episodes, 1993-2018 	
+character=Duane Barry	name=Steve Railsback	episodes=2 episodes, 1994 	
+character=Colleen Azar	name=Colleen Flynn	episodes=2 episodes, 1997-2000 	
+character=Gary Lambert	name=Brian Markinson	episodes=2 episodes, 1994-1998 	
+character=Lt. Brian Tillman	name=Quinn	episodes=2 episodes, 1995-2002 	
+character=Lt. Brian Tillman	name=Terry O	episodes=2 episodes, 1995-2002 	
+character=Henry Weems	name=Willie Garson	episodes=2 episodes, 1995-1999 	
+character=Red-Haired Man	name=Stephen McHattie	episodes=2 episodes, 1995 	
+character=Susanne Modeski	name=Signy Coleman	episodes=2 episodes, 1997-1999 	
+character=Mike Millar	name=Joe Spano	episodes=2 episodes, 1997 	
+character=Young Arthur Dales	name=Fredric Lehne	episodes=2 episodes, 1998-1999 	
+character=Eddie Van Blundht	name=Darin Morgan	episodes=2 episodes, 1994-2018 	
+character=Audrey Pauley	name=Tracey Ellis	episodes=2 episodes, 1995-2002 	
+character=Donald Addie Pfaster	name=Nick Chinlund	episodes=2 episodes, 1995-2000 	
+character=General Wegman	name=John Mahon	episodes=2 episodes, 1998 	
+character=Bud LaPierre	name=Mark Rolston	episodes=2 episodes, 1994-2000 	
+character=Crew Cut Man	name=Lindsey Ginter	episodes=2 episodes, 1994 	
+character=Sgt. Louis Frisch	name=Brien	episodes=2 episodes, 1997 	
+character=Sgt. Louis Frisch	name=Tom O	episodes=2 episodes, 1997 	
+character=Charlie	name=Joel Palmer	episodes=2 episodes, 1993-1995 	
+character=Detective Kelly Ryan	name=Kate Twa	episodes=2 episodes, 1994-1995 	
+character=Robert Patrick Modell	name=Robert Wisden	episodes=2 episodes, 1996-1998 	
+character=Howard Grodin	name=Michael B. Silver	episodes=2 episodes, 1998 	
+character=Claude Peterson	name=Blu Mankuma	episodes=2 episodes, 1993-1998 	
+character=August Bremer	name=Michael MacRae	episodes=2 episodes, 1993-1998 	
+character=General Francis	name=Donnelly Rhodes	episodes=2 episodes, 1994-1996 	
+character=Joanne	name=Kerry Sandomirsky	episodes=2 episodes, 1994-1995 	
+character=Angelo Pintero	name=Alex Bruhanski	episodes=2 episodes, 1996-1997 	
+character=Detective Miles	name=Leon Russom	episodes=2 episodes, 1993-2000 	
+character=Arlinsky	name=Matthew Walker	episodes=2 episodes, 1994-1997 	
+character=Captain William Scully	name=Don S. Davis	episodes=2 episodes, 1994 	
+character=Dr. Shiro Zama	name=Robert Ito	episodes=2 episodes, 1995 	
+character=Agent Greg Nemhauser	name=Greg Thirloway	episodes=2 episodes, 1996 	
+character=Tara Scully	name=Karri Turner	episodes=2 episodes, 1997 	
+character=Salamander Man	name=Jay Caputo	episodes=2 episodes, 2000-2001 	
+character=Shannon McMahon	name=Lucy Lawless	episodes=2 episodes, 2001 	
+character=Examiner	name=Colleen Winton	episodes=2 episodes, 1993-1998 	
+character=Dr. Katz	name=George Touliatos	episodes=2 episodes, 1993-1994 	
+character=Barbara Ausbury	name=Michele Goodger	episodes=2 episodes, 1994-1995 	
+character=Karin Matthews	name=Sarah-Jane Redmond	episodes=2 episodes, 1995-1998 	
+character=Edmund Peacock	name=Chris Nelson Norris	episodes=2 episodes, 1996-1997 	
+character=Jeff Smoodge	name=Scott Allan Campbell	episodes=2 episodes, 1998 	
+character=Benjamin Drake	name=Tom Butler	episodes=2 episodes, 1993-1995 	
+character=Black-Haired Man	name=Michael Shamus Wiles	episodes=2 episodes, 1998-2000 	
+character=Sarah Turner	name=Madeleine Arthur	episodes=2 episodes, 2018 	
+character=Brianna Stapleton	name=Sarah Jeffery	episodes=2 episodes, 2018 	
+character=Anita Budahas	name=Gabrielle Rose	episodes=2 episodes, 1993-1994 	
+character=Mrs. Asekoff	name=Merrilyn Gann	episodes=2 episodes, 1994-1997 	
+character=Able Gardner	name=Allan Lysell	episodes=2 episodes, 1994-1995 	
+character=Agent Rich	name=Fred Henderson	episodes=2 episodes, 1994 	
+character=Doctor	name=Robert Rozen	episodes=2 episodes, 1995-1997 	
+character=Dr. Barnes	name=Michael Ensign	episodes=2 episodes, 1999 	
+character=Gravedigger	name=Brent Sexton	episodes=2 episodes, 2000-2001 	
+character=Mrs. Dawson	name=Sheila Moore	episodes=2 episodes, 1993-1994 	
+character=Gwen Goodensnake	name=Renae Morriseau	episodes=2 episodes, 1994-1995 	
+character=Dr. Spitz	name=Leslie Carlson	episodes=2 episodes, 1994 	
+character=Rich Turner	name=Dean Wray	episodes=2 episodes, 1995-1998 	
+character=Calusari 	name=Bill Croft	episodes=2 episodes, 1995-1997 	
+character=Dr. Larry Steen	name=Robert Thurston	episodes=2 episodes, 1995-1997 	
+character=Dr. Simon Bruin	name=Bob Morrisey	episodes=2 episodes, 1996-1997 	
+character=Agent Sarah Sheherlis	name=Susan Bain	episodes=2 episodes, 1996-1997 	
+character=Dr. Calderon	name=Gerard Plunkett	episodes=2 episodes, 1997 	
+character=Barrington	name=David Hurtubise	episodes=2 episodes, 1994-1997 	
+character=Foreman	name=Ron Sauvé	episodes=2 episodes, 1994-1996 	
+character=Dr. Daly	name=Jay Brazeau	episodes=2 episodes, 1994 	
+character=Doctor Collins	name=Frank C. Turner	episodes=2 episodes, 1994 	
+character=Brenda	name=Gabrielle Miller	episodes=2 episodes, 1995-1996 	
+character=Agent	name=Dan Zukovic	episodes=2 episodes, 1996-2018 	
+character=Scott Garrett	name=Greg Michaels	episodes=2 episodes, 1997 	
+character=Agent Arthur Dales	name=Darren McGavin	episodes=2 episodes, 1998-1999 	
+character=Barbara Doggett	name=Barbara Patrick	episodes=2 episodes, 2002 	
+character=Dr. Louise Colquitt	name=Veena Sood	episodes=2 episodes, 1993-2016 	
+character=Attorney	name=Andrew Airlie	episodes=2 episodes, 1993-1996 	
+character=Doctor Plith	name=Jerry Wasserman	episodes=2 episodes, 1994 	
+character=Marilyn	name=Denalda Williams	episodes=2 episodes, 1995-1996 	
+character=Senator Albert Sorenson	name=Fritz Weaver	episodes=2 episodes, 1996 	
+character=Aide	name=Peter Hanlon	episodes=2 episodes, 1996 	
+character=Beggar	name=Patrick Keating	episodes=2 episodes, 1998-2018 	
+character=Agent Flagler	name=Martin Grey	episodes=2 episodes, 1999-2000 	
+character=Amber Lynn LaPierre	name=Megan Corletto	episodes=2 episodes, 2000 	
+character=Mr. Paulsen	name=Ben Cotton	episodes=2 episodes, 2018 	
+character=Dyer	name=Ken Tremblett	episodes=2 episodes, 1994-1997 	
+character=Defense Attorney	name=Meredith Bain Woodward	episodes=2 episodes, 1994-1996 	
+character=Brother Wilton	name=Paul Batten	episodes=2 episodes, 1994-1996 	
+character=Female Agent	name=Donna Yamamoto	episodes=2 episodes, 1995-1998 	
+character=Aunt	name=Kate Robbins	episodes=2 episodes, 1995-1998 	
+character=Lisa	name=Kate Robbins	episodes=2 episodes, 1995-1998 	
+character=Detective	name=Stephen Dimopoulos	episodes=2 episodes, 1995-1996 	
+character=Dr. Eric Ilaqua	name=Paul Raskin	episodes=2 episodes, 1995-1996 	
+character=Susan Chambliss	name=Patricia Dahlquist	episodes=2 episodes, 1997 	
+character=Base Cop	name=Christopher Wynne	episodes=2 episodes, 1999-2000 	
+character=Dr. Lev	name=David Purdham	episodes=2 episodes, 2001 	
+character=Deputy	name=David Cameron	episodes=2 episodes, 1993-1997 	
+character=Carl Roosevelt	name=Alan Robertson	episodes=2 episodes, 1993-1996 	
+character=Elizabeth	name=Lynda Boyd	episodes=2 episodes, 1993-1995 	
+character=Bus Driver	name=Alvin Sanders	episodes=2 episodes, 1993-1995 	
+character=Dr. Emile Linzer	name=Barry Greene	episodes=2 episodes, 1994-1997 	
+character=Aide	name=Fulvio Cecere	episodes=2 episodes, 1994-1995 	
+character=Bruce Bearfeld	name=Robert Moloney	episodes=2 episodes, 1995-1997 	
+character=Federal Marshall	name=Tim Henry	episodes=2 episodes, 1995-1996 	
+character=Day Care Operator	name=Jane Perry	episodes=2 episodes, 1996-1998 	
+character=Prisoner	name=Stefan Arngrim	episodes=2 episodes, 1996 	
+character=Principal	name=Jonathan Palmer	episodes=2 episodes, 2000 	
+character=Barbara Beaumont	name=Fiona Vroom	episodes=2 episodes, 2018 	
+character=Mr. Green	name=Zak Santiago	episodes=2 episodes, 2018 	
+character=Dr. Laberge	name=John Maclaren	episodes=2 episodes, 1995-1996 	
+character=Clerk	name=Ken Roberts	episodes=2 episodes, 1995 	
+character=Coroner	name=Norman Armour	episodes=2 episodes, 1996-1997 	
+character=Dr. Mary Speake	name=Denise Crosby	episodes=2 episodes, 2001 	
+character=Dr. James Parenti	name=Steven Anderson	episodes=2 episodes, 2001 	
+character=Robert Comer	name=Neal McDonough	episodes=2 episodes, 2002 	
+character=Nurse Sandeep	name=Aliza Vellani	episodes=2 episodes, 2015-2016 	
+character=Anna Fugazzi	name=Sheila Paterson	episodes=2 episodes, 1993-1997 	
+character=Commanding Officer	name=Johnny Cuthbert	episodes=2 episodes, 1993-1994 	
+character=Guard	name=John Payne	episodes=2 episodes, 1994-1995 	
+character=Captain Roy Lacerio	name=James Leard	episodes=2 episodes, 1994-1995 	
+character=Red Head Kid	name=Garvin Cross	episodes=2 episodes, 1995-1996 	
+character=Swat Cop	name=Connell	episodes=2 episodes, 1997-1998 	
+character=Swat Cop	name=Stuart O	episodes=2 episodes, 1997-1998 	
+character=Man in Suit	name=Gardiner Millar	episodes=2 episodes, 1998-2015 	
+character=JoAnne Fletcher	name=Nora Dunn	episodes=2 episodes, 1998 	
+character=Agent Danny Mosley	name=Marc Gomes	episodes=2 episodes, 2000 	
+character=Mr. Y	name=A.C. Peterson	episodes=2 episodes, 2018 	
+character=Asst. Coroner	name=Ric Reid	episodes=2 episodes, 1993-1995 	
+character=Agent Linda Caleca	name=Suleka Mathew	episodes=2 episodes, 1994-1996 	
+character=Ted Bertram	name=Mark Acheson	episodes=2 episodes, 1996-2018 	
+character=Coroner	name=Laurie Murdoch	episodes=2 episodes, 1996-1998 	
+character=Detective Smith	name=Ian Robison	episodes=2 episodes, 1997-1998 	
+character=Dmitri	name=Alex Shostak Jr.	episodes=2 episodes, 1998 	
+character=Lorraine Kelleher	name=Janie Woods-Morris	episodes=2 episodes, 1993-1996 	
+character=Kennedy	name=Gary Hetherington	episodes=2 episodes, 1993-1994 	
+character=Clerk	name=BJ Harrison	episodes=2 episodes, 1994-1997 	
+character=Bob	name=Tim Dixon	episodes=2 episodes, 1994-1996 	
+character=Dr. Lorenz	name=Crystal Verge	episodes=2 episodes, 1994-1996 	
+character=Local Cop	name=Paul Bittante	episodes=2 episodes, 1994-1996 	
+character=Calusari 	name=George Josef	episodes=2 episodes, 1995-1998 	
+character=Angie	name=Eileen Pedde	episodes=2 episodes, 1996-1998 	
+character=Auntie Janet	name=Brenda McDonald	episodes=2 episodes, 1996-1998 	
+character=Cobra	name=Timothy Landfield	episodes=2 episodes, 2000-2002 	
+character=Thea Sprecher	name=Christine Firkins	episodes=2 episodes, 2000 	
+character=Overcoat Woman	name=McNally Sagal	episodes=2 episodes, 2002 	
+character=Lone Man	name=Denis Forest	episodes=2 episodes, 2002 	
+character=Crewman	name=Michael J Rogers	episodes=2 episodes, 1993-1995 	
+character=Dell	name=Katya Gardner	episodes=2 episodes, 1993-1995 	
+character=Peggy O	name=Katya Gardner	episodes=2 episodes, 1993-1995 	
+character=James Earl Ray	name=Paul Jarrett	episodes=2 episodes, 1994-1996 	
+character=Beatrice Salinger	name=Lisa Ann Beley	episodes=2 episodes, 1994 	
+character=Harry Linhart	name=Peter Lapres	episodes=2 episodes, 1994 	
+character=Eric Hosteen	name=Dakota House	episodes=2 episodes, 1995 	
+character=Holly	name=Julia Arkos	episodes=2 episodes, 1996-1997 	
+character=Landlord	name=J. Douglas Stewart	episodes=2 episodes, 1997-1998 	
+character=Detective Rempulski	name=Rob Freeman	episodes=2 episodes, 1997 	
+character=Christine Fletcher	name=Dara Hollingsworth	episodes=2 episodes, 1998 	
+character=Terry Fletcher	name=Tyler Binkley	episodes=2 episodes, 1998 	
+character=Angie	name=Mandy Levin	episodes=2 episodes, 1999-2002 	
+character=Elder 	name=Al Ruscio	episodes=2 episodes, 1999 	
+character=Richie	name=Judd Trichter	episodes=2 episodes, 2000-2001 	
+character=Groundskeeper	name=Tom Heaton	episodes=2 episodes, 1993-1996 	
+character=Deputy Scott Kerber	name=D. Neil Mark	episodes=2 episodes, 1993-1996 	
+character=Coroner	name=Roger Haskett	episodes=2 episodes, 1994-1998 	
+character=Agent Cameron Hill	name=Michael Ryan	episodes=2 episodes, 1994-1997 	
+character=Agent Busch	name=Mark Saunders	episodes=2 episodes, 1994-1995 	
+character=The Stupendous Yappi	name=Jaap Broeker	episodes=2 episodes, 1995-1996 	
+character=Burly Nurse	name=Beatrice Zeilinger	episodes=2 episodes, 1995 	
+character=Clinician 	name=John Trottier	episodes=2 episodes, 1996-1998 	
+character=Michael Sloan	name=Tom Scholte	episodes=2 episodes, 1996-1997 	
+character=Doctor	name=Brent Sheppard	episodes=2 episodes, 1996-1997 	
+character=Dark Man	name=David Palffy	episodes=2 episodes, 1997 	
+character=Doctor	name=Oliver Becker	episodes=2 episodes, 1995 	
+character=Agent Hedin	name=Nancy Kerr	episodes=2 episodes, 1997-1998 	
+character=Elder 	name=Frank Ertl	episodes=2 episodes, 1999 	
+character=Customer 	name=Maria Herrera	episodes=2 episodes, 1993-1996 	
+character=Joan Gauthier	name=Kimberly Unger	episodes=2 episodes, 1993-1996 	
+character=Mother	name=Kathleen Duborg	episodes=2 episodes, 1994-1995 	
+character=Joseph Patnik	name=Linden Banks	episodes=2 episodes, 1995-1996 	
+character=Dark Suited Man 	name=Stephen Mendel	episodes=2 episodes, 1997 	
+character=Pilot	name=Mark Wilson	episodes=2 episodes, 1997 	
+character=Gary	name=Eddie Kaye Thomas	episodes=2 episodes, 2000-2001 	
+character=Secretary	name=Jo-Ann Dean	episodes=2 episodes, 2000 	
+character=Dr. Lim	name=Nelson Mashita	episodes=2 episodes, 2001 	
+character=Arlan Green	name=André Daniels	episodes=2 episodes, 1994 	
+character=Landlord	name=Marty Zagon	episodes=2 episodes, 1999-2000 	
+character=Guard 	name=Joe Maffei	episodes=2 episodes, 1993-1996 	
+character=Deputy	name=Bobby Stewart	episodes=2 episodes, 1994-1996 	
+character=Reporter 	name=Leah Sanders	episodes=2 episodes, 2000-2002 	
+character=Homeless Man	name=Gerry Rousseau	episodes=2 episodes, 1994-2018 	
+character=News Anchor	name=Rick Garcia	episodes=2 episodes, 1999-2002 	
+character=Young Dana Scully	name=Tegan Moss	episodes=2 episodes, 1994-1996 	
+character=Lobby Guard	name=Ernie Foort	episodes=2 episodes, 1995-1996 	
+character=Camouflage Man	name=Mitchell Davies	episodes=2 episodes, 1995 	
+character=Cashier	name=James Yaker	episodes=2 episodes, 1998 	
+character=Michelle Charters	name=Teryl Rothery	episodes=1 episode, 1994-2002 	
+character=Police Officer	name=Jason Gray-Stanford	episodes=1 episode, 1993-2018 	
+character=Iskendarian	name=Bob Dawson	episodes=1 episode, 1996-1998 	
+character=Detective Joe Darnell	name=Robyn Driscoll	episodes=1 episode, 1994-1995 	
+character=Angry Husband	name=Paul McGillion	episodes=1 episode, 1994-1997 	
+character=Charlie Morris	name=Jonathan Walker	episodes=1 episode, 1994-1997 	
+character=OPO Staffer	name=Ellie Harvie	episodes=1 episode, 1994-1996 	
+character=Doctor	name=David Kaye	episodes=1 episode, 1994-1996 	
+character=Vassily Peskow	name=Jan Rubes	episodes=1 episode, 1996 	
+character=Day Room Patient 	name=Carolyn Tweedle	episodes=1 episode, 1997-1998 	
+character=Uniformed Cop	name=Kevin Conway	episodes=1 episode, 1994-1995 	
+character=Boy in the Bus	name=Myles Ferguson	episodes=1 episode, 1995-1998 	
+character=Ms. Hadden	name=Jan Bailey Mattia	episodes=1 episode, 1995-1997 	
+character=Mr. Burrad	name=Christopher Hutson	episodes=1 episode, 1993-2001 	
+character=Garrett Lorre	name=Roger Allford	episodes=1 episode, 1994-1995 	
+character=Halverson	name=Mar Andersons	episodes=1 episode, 1995 	
+character=Customer 	name=John Destry	episodes=1 episode, 1996-1997 	
+character=Pudovkin	name=Igor Morozov	episodes=1 episode, 1996-1997 	
+character=Hotel Manager	name=Ralph Alderman	episodes=1 episode, 1998 	
+character=Yuri Volkoff	name=Lee Reherman	episodes=1 episode, 2001-2002 	
+character=Mrs. Van De Kamp	name=Shannon Hile	episodes=1 episode, 2002-2018 	
+character=Boy in the car	name=Lachlan Murdoch	episodes=1 episode, 1993-1996 	
+character=Officer	name=Guyle Fraizer	episodes=1 episode, 1994-1995 	
+character=Army Tech	name=Dean McKenzie	episodes=1 episode, 1995-1998 	
+character=Detective	name=George Gordon	episodes=1 episode, 1996-1997 	
+character=Dr. Matthew Wegweiser	name=Peter Hall	episodes=1 episode, 1997-2018 	
+character=Ed Truelove	name=Randall Bosley	episodes=2 episodes, 2000 	
+character=Frank Ranford	name=Pat Bermel	episodes=1 episode, 1994-1995 	
+character=Paramedic 	name=Jason Griffith	episodes=1 episode, 1995-1997 	
+character=Agent Cook	name=Tim Bissett	episodes=1 episode, 1996-1998 	
+character=Detective	name=David Abbott	episodes=1 episode, 1996-1997 	
+character=Dr. Ben Keyser	name=Allan Franz	episodes=1 episode, 1997-1998 	
+character=Brad	name=Tony Sampson	episodes=1 episode, 1994-1998 	
+character=Man	name=Kurt Max Runte	episodes=1 episode, 1997-1998 	
+character=Dr. Nordlinger	name=Jeff Austin	episodes=1 episode, 2001 	
+character=Man	name=Gerry Nairn	episodes=1 episode, 1994-1997 	
+character=Antonio	name=Aurelio DiNunzio	episodes=1 episode, 1995-1997 	
+character=Agent Eugene Chandler	name=Mark Holden	episodes=1 episode, 1997-1998 	
+character=Agent Farah	name=Christopher Stanley	episodes=1 episode, 2001 	
+character=Coed	name=Kiara Hunter	episodes=1 episode, 1994-1995 	
+character=Bank Manager	name=Marek Wiedman	episodes=1 episode, 1997-1998 	
+character=Dr. Patou	name=Chapelle Jaffe	episodes=1 episode, 1998-1999 	
+character=Officer 	name=John McConnach	episodes=1 episode, 1995-1996 	
+character=Jones	name=Jude Zachary	episodes=1 episode, 1995-1996 	
+character=Navy Base Guard	name=David Neale	episodes=1 episode, 1996-2018 	
+character=Luke Doggett	name=Jake Fritz	episodes=1 episode, 2000-2001 	
+character=Mulders Dance Partner	name=Daniela Dib	episodes=1 episode, 2016 	
+character=Officer 	name=Joe Doserro	episodes=1 episode, 1993-1996 	
+character=Dr. Bonita Charne-Sayre	name=Jessica Schreier	episodes=1 episode, 1996 	
+character=Sick Crewman	name=Peter Scoular	episodes=1 episode, 1996 	
+character=Medic	name=Klodyne Rodney	episodes=1 episode, 1998-1999 	
+character=Cult Man	name=Brad Kalas	episodes=1 episode, 2002 	
+character=Night Manager	name=Henry Mah	episodes=1 episode, 1996-2018 	
+character=Cult Man 	name=Kevin McCorkle	episodes=1 episode, 2002 	
+character=Young Samantha	name=Ashlynn Rose	episodes=1 episode, 1998-2015 	
+character=Emily Sim	name=Mecca Menard	episodes=2 episodes, 1997 	
+character=Dr. Hodge	name=Xander Berkeley	episodes=1 episode, 1993 	
+character=Dr. Sally Kendrick	name=Harriet Sansom Harris	episodes=1 episode, 1993 	
+character=Col. Marcus Aurelius Belt	name=Ed Lauter	episodes=1 episode, 1993 	
+character=Phoebe Green	name=Amanda Pays	episodes=1 episode, 1993 	
+character=Darlene Morris	name=Carrie Snodgress	episodes=1 episode, 1993 	
+character=The Jersey Devil	name=Claire Stansfield	episodes=1 episode, 1993 	
+character=Chief Joseph McGrath	name=Frederick Coffin	episodes=1 episode, 1993 	
+character=Robert Dorlund	name=Barry Primus	episodes=1 episode, 1993 	
+character=Daniel Trepkos	name=Bradley Whitford	episodes=1 episode, 1994 	
+character=Luther Lee Boggs	name=Brad Dourif	episodes=1 episode, 1994 	
+character=Dr. Arthur Grable	name=Zeljko Ivanek	episodes=1 episode, 1994 	
+character=Larry Moore	name=Jason Beghe	episodes=1 episode, 1994 	
+character=Edward Funsch	name=William Sanderson	episodes=1 episode, 1994 	
+character=Agent Jack Willis	name=Christopher Allport	episodes=1 episode, 1994 	
+character=Gird Thomas	name=Paul Sand	episodes=1 episode, 1994 	
+character=Brother Andrew	name=Brent Hinkley	episodes=1 episode, 1994 	
+character=The Unholy Spirit	name=Justina Vail	episodes=1 episode, 1994 	
+character=Lyle Parker	name=Ty Miller	episodes=1 episode, 1994 	
+character=Agent Reggie Purdue	name=Dick Anthony Williams	episodes=1 episode, 1994 	
+character=Sheriff Maurice Daniels	name=R.D. Call	episodes=1 episode, 1994 	
+character=Darin Peter Oswald	name=Giovanni Ribisi	episodes=1 episode, 1995 	
+character=Kevin Kryder	name=Kevin Zegers	episodes=1 episode, 1995 	
+character=Sammom Roque	name=Bokeem Woodbine	episodes=1 episode, 1995 	
+character=Dr. Chester Ray Banton	name=Tony Shalhoub	episodes=1 episode, 1995 	
+character=Clyde Bruckman	name=Peter Boyle	episodes=1 episode, 1995-2018 	
+character=Dr. Osbourne	name=Charles Martin Smith	episodes=1 episode, 1995 	
+character=Henry Trondheim	name=John Savage	episodes=1 episode, 1995 	
+character=Virgil Incanto	name=Timothy Carhart	episodes=1 episode, 1995 	
+character=Willa Ambrose	name=Jayne Atkinson	episodes=1 episode, 1995 	
+character=Jim Ausbury	name=Dan Butler	episodes=1 episode, 1995 	
+character=Agent Bocks	name=Bruce Weitz	episodes=1 episode, 1995 	
+character=Pierre Bauvais	name=Bruce A. Young	episodes=1 episode, 1995 	
+character=General Thomas Callahan	name=Thomas Kopache	episodes=1 episode, 1995 	
+character=Doris Kearns	name=Caroline Kava	episodes=1 episode, 1995 	
+character=Dr. Blockhead	name=Jim Rose	episodes=1 episode, 1995 	
+character=Maggie Holvey	name=Helene Clarkson	episodes=1 episode, 1995 	
+character=Dr. Bambi Berenbaum	name=Bobbie Phillips	episodes=1 episode, 1996 	
+character=Det. Angela White	name=Dana Wheeler-Nicholson	episodes=1 episode, 1996 	
+character=Det. Glen Chao	name=BD Wong	episodes=1 episode, 1996 	
+character=Gerry Schnauz	name=Pruitt Taylor Vince	episodes=1 episode, 1996 	
+character=Dr. Jack Franklin	name=Richard Beymer	episodes=1 episode, 1996 	
+character=Jose Chung	name=Charles Nelson Reilly	episodes=1 episode, 1996 	
+character=Sheriff Lance Hindt	name=Chris Ellis	episodes=1 episode, 1996 	
+character=Sheriff Andy Taylor	name=Tucker Smallwood	episodes=1 episode, 1996 	
+character=Dr. Alonso Bilac	name=Vic Trevino	episodes=1 episode, 1996 	
+character=John Munch	name=Richard Belzer	episodes=1 episode, 1997 	
+character=Leonard Morris Betts	name=Paul McCrane	episodes=1 episode, 1997 	
+character=Dr. Pollidori	name=Hurley	episodes=1 episode, 1997 	
+character=Dr. Pollidori	name=John O	episodes=1 episode, 1997 	
+character=Ariel Weiss	name=Justine Miceli	episodes=1 episode, 1997 	
+character=Edward Jerse	name=Rodney Rowland	episodes=1 episode, 1997 	
+character=Harold Spuller	name=Steven M. Porter	episodes=1 episode, 1997 	
+character=Jason Nichols	name=Joseph Fuqua	episodes=1 episode, 1997 	
+character=Patrick Crump	name=Bryan Cranston	episodes=1 episode, 1998 	
+character=Lydia	name=Lily Tomlin	episodes=1 episode, 1998 	
+character=Marty Glenn	name=Lili Taylor	episodes=1 episode, 1998 	
+character=Esther Nairn	name=Kristin Lehman	episodes=1 episode, 1998 	
+character=Bobby Rich	name=Chad Lindberg	episodes=1 episode, 1998 	
+character=Aaron Starkey	name=Glenn Morshower	episodes=1 episode, 1998 	
+character=Melissa Turner	name=Susannah Hoffmann	episodes=1 episode, 1998 	
+character=Alfred Fellig	name=Geoffrey Lewis	episodes=1 episode, 1999 	
+character=Phillip Padgett	name=John Hawkes	episodes=1 episode, 1999 	
+character=Josh Exley	name=Jesse L. Martin	episodes=1 episode, 1999 	
+character=Karin Berquist	name=Melinda Culea	episodes=1 episode, 1999 	
+character=Wilson Pinker Rawls	name=John Diehl	episodes=1 episode, 1999 	
+character=Sheila Fontaine	name=Victoria Jackson	episodes=1 episode, 1999 	
+character=Roberts	name=Chad Donella	episodes=1 episode, 1999 	
+character=Rob	name=Chad Donella	episodes=1 episode, 1999 	
+character=Robert 	name=Chad Donella	episodes=1 episode, 1999 	
+character=George Vincent	name=Jeremy Roberts	episodes=1 episode, 1999 	
+character=Tony Reed	name=Rodney Scott	episodes=1 episode, 1999 	
+character=Gene Gogolak	name=Peter White	episodes=1 episode, 1999 	
+character=Jade Blue Afterglow	name=Krista Allen	episodes=1 episode, 2000 	
+character=Rev. Orison	name=Scott Wilson	episodes=1 episode, 2000 	
+character=Orel Peattie	name=Billy Drago	episodes=1 episode, 2000 	
+character=Bert Zupanic	name=Cobb	episodes=1 episode, 2000 	
+character=Bert Zupanic	name=Tex	episodes=1 episode, 2000 	
+character=Bert Zupanic	name=Randall 	episodes=1 episode, 2000 	
+character=Deputy Keith Wetzel	name=Judson Mills	episodes=1 episode, 2000 	
+character=Albert Pinchbeck	name=Ricky Jay	episodes=1 episode, 2000 	
+character=Reverend Samuel Mackey	name=Randy Oglesby	episodes=1 episode, 2000 	
+character=Detective Abbott	name=Bradford English	episodes=1 episode, 2000 	
+character=Guy Mann	name=Rhys Darby	episodes=1 episode, 2016 	
+character=Trashman	name=Tim Armstrong	episodes=1 episode, 2016 	
+character=Chief Strong	name=Alex Carter	episodes=1 episode, 2018 	
+character=Shirley	name=Candus Churchill	episodes=1 episode, 2018 	
+character=Agent Tom Colton	name=Donal Logue	episodes=1 episode, 1993 	
+character=Michelle Generoo	name=Susanna Thompson	episodes=1 episode, 1993 	
+character=Bob the Caretaker	name=Mark Sheppard	episodes=1 episode, 1993 	
+character=Dr. Nancy Da Silva	name=Felicity Huffman	episodes=1 episode, 1993 	
+character=Lauren Kyte	name=Lisa Waltz	episodes=1 episode, 1993 	
+character=Colonel Calvin Henderson	name=Marshall Bell	episodes=1 episode, 1993 	
+character=Dr. Jay Nemman	name=Cliff De Young	episodes=1 episode, 1993 	
+character=Brad Wilczek	name=Rob LaBelle	episodes=1 episode, 1993 	
+character=Sheriff Jack Withers	name=Michael Cavanaugh	episodes=1 episode, 1993 	
+character=Detective Thompson	name=Wayne Tippit	episodes=1 episode, 1993 	
+character=Paul Mossinger	name=Michael Bryan French	episodes=1 episode, 1993 	
+character=Cindy Reardon	name=Erika Krievins	episodes=1 episode, 1993-1998 	
+character=Kristen Kilar	name=Perrey Reeves	episodes=1 episode, 1994 	
+character=Jason Ludwig	name=Leland Orser	episodes=1 episode, 1994 	
+character=Dr. Aaron Monte	name=Paul Ben-Victor	episodes=1 episode, 1994 	
+character=Dr. Anne Carpenter	name=Anne De Salvo	episodes=1 episode, 1994 	
+character=Sheriff Charles Tskany	name=Michael Horse	episodes=1 episode, 1994 	
+character=Samuel Hartley	name=Scott Bairstow	episodes=1 episode, 1994 	
+character=Gung Bituen	name=Sab Shimono	episodes=1 episode, 1994 	
+character=Lula Phillips	name=Cec Verrell	episodes=1 episode, 1994 	
+character=Mrs. Stodie	name=Micole Mercurio	episodes=1 episode, 1994 	
+character=Anita Fiore	name=Mimi Lieber	episodes=1 episode, 1994 	
+character=Sheriff Spencer	name=John Cygan	episodes=1 episode, 1994 	
+character=Sheriff Mazeroski	name=Steve Eastin	episodes=1 episode, 1994 	
+character=Steve Humphreys	name=Rourke	episodes=1 episode, 1994 	
+character=Steve Humphreys	name=Tom O	episodes=1 episode, 1994 	
+character=Young John Barnett	name=Alan Boyce	episodes=1 episode, 1994 	
+character=Jorge Concepcion	name=Mike Gomez	episodes=1 episode, 1994 	
+character=Bart 	name=Jack Black	episodes=1 episode, 1995 	
+character=Zero	name=Jack Black	episodes=1 episode, 1995 	
+character=Liquori	name=Jack Black	episodes=1 episode, 1995 	
+character=Marshal Tapia	name=Dean Norris	episodes=1 episode, 1995 	
+character=Phyllis Paddock	name=Susan Blommaert	episodes=1 episode, 1995 	
+character=Kyle Lang	name=Lance Guest	episodes=1 episode, 1995 	
+character=Michael Kryder	name=Sam Bottoms	episodes=1 episode, 1995 	
+character=Captain Barclay	name=David Cubitt	episodes=1 episode, 1995 	
+character=Colonel Wharton	name=Daniel Benzali	episodes=1 episode, 1995 	
+character=Victor Klemper	name=Walter Gotell	episodes=1 episode, 1995 	
+character=Carl Wade	name=Michael Chieffo	episodes=1 episode, 1995 	
+character=Walter Chaco	name=John Milford	episodes=1 episode, 1995 	
+character=Inspector B.J. Morrow	name=Deborah Strang	episodes=1 episode, 1995 	
+character=The Puppet	name=Stuart Charno	episodes=1 episode, 1995 	
+character=Sheriff Hamilton	name=Wayne Grace	episodes=1 episode, 1995 	
+character=Napoleon 	name=Badja Djola	episodes=1 episode, 1995 	
+character=Neech	name=Badja Djola	episodes=1 episode, 1995 	
+character=Manley	name=Badja Djola	episodes=1 episode, 1995 	
+character=Ellen Kaminsky	name=Catherine Paolone	episodes=1 episode, 1995 	
+character=Kim Hsin	name=Lucy Liu	episodes=1 episode, 1996 	
+character=John Lee Roche	name=Tom Noonan	episodes=1 episode, 1996 	
+character=Marcus Duff	name=Carl Lumbly	episodes=1 episode, 1996 	
+character=Roky Crikenson	name=William Lucking	episodes=1 episode, 1996 	
+character=Nurse Rebecca Waite	name=O-Lan Jones	episodes=1 episode, 1996 	
+character=Margi Kleinjan	name=Wendy Benson-Landes	episodes=1 episode, 1996 	
+character=Dr. Jeff Eckerle	name=Raye Birk	episodes=1 episode, 1996 	
+character=Lee Harvey Oswald	name=Morgan Weisser	episodes=1 episode, 1996 	
+character=Detective Waltos	name=Tom Mason	episodes=1 episode, 1996 	
+character=John Mostow	name=Levani	episodes=1 episode, 1996 	
+character=Mona Wustner	name=Janne Mortil	episodes=1 episode, 1996 	
+character=Betty	name=Jodie Foster	episodes=1 episode, 1997 	
+character=Conrad Lozano	name=Rubén Blades	episodes=1 episode, 1997 	
+character=Jacob Weiss	name=David Groh	episodes=1 episode, 1997 	
+character=Agent Stonecypher	name=J.C. Wendel	episodes=1 episode, 1997 	
+character=Dr. Charles Goldstein	name=Mike Nussbaum	episodes=1 episode, 1997 	
+character=Lisa Ianelli	name=Susan Lee Hoffman	episodes=1 episode, 1997 	
+character=Elaine Tanner	name=Marjorie Lovett	episodes=1 episode, 1997 	
+character=Shaineh Berkowitz	name=Pattie Tierce	episodes=1 episode, 1997 	
+character=Edward Skur	name=Garret Dillahunt	episodes=1 episode, 1998 	
+character=Patrol Captain Van Gelder	name=Michael O	episodes=1 episode, 1998 	
+character=Patrol Captain Van Gelder	name=Neill	episodes=1 episode, 1998 	
+character=Sheriff Hartwell	name=Luke Wilson	episodes=1 episode, 1998 	
+character=Maurice	name=Edward Asner	episodes=1 episode, 1998 	
+character=Jacob Steven Haley	name=Daniel von Bargen	episodes=1 episode, 1998 	
+character=Linda Bowman	name=Diana Scarwid	episodes=1 episode, 1998 	
+character=Nurse Nancy	name=Kate Luyben	episodes=1 episode, 1998 	
+character=Charles Wesley Gotts	name=Richard Fitzpatrick	episodes=1 episode, 1998 	
+character=Father Gregory	name=Jody Racicot	episodes=1 episode, 1998 	
+character=Wayne Weinsider	name=Bruce Campbell	episodes=1 episode, 1999 	
+character=Frank Black	name=Lance Henriksen	episodes=1 episode, 1999 	
+character=Angela Schiff	name=Robyn Lively	episodes=1 episode, 1999 	
+character=Max Harden	name=Scott Cooper	episodes=1 episode, 1999 	
+character=Big Mike Raskin	name=Abraham Benrubi	episodes=1 episode, 1999 	
+character=Derwood Spinks	name=Mark Pellegrino	episodes=1 episode, 1999 	
+character=Grant Ellis	name=Charles Rocket	episodes=1 episode, 1999 	
+character=Deputy Greer	name=Joel McKinnon Miller	episodes=1 episode, 1999 	
+character=Daryl Mootz	name=Clayton Rohner	episodes=1 episode, 1999 	
+character=Maggie Lupone	name=Alyson Reed	episodes=1 episode, 1999 	
+character=Agent Peyton Ritter	name=Richard Ruccolo	episodes=1 episode, 1999 	
+character=Ken Naciamento	name=Nestor Serrano	episodes=1 episode, 1999 	
+character=Pam	name=Carrie Hamilton	episodes=1 episode, 1999 	
+character=Jackie Gurwitch	name=Tuesday Knight	episodes=1 episode, 1999 	
+character=Jeffrey Cahn	name=Thomas F. Duffy	episodes=1 episode, 1999 	
+character=Dr. Peter Voss	name=Dennis Boutsikaris	episodes=1 episode, 2000 	
+character=Margaret 	name=Stacy Haiduk	episodes=1 episode, 2000 	
+character=Maggie	name=Stacy Haiduk	episodes=1 episode, 2000 	
+character=Waterston	name=Stacy Haiduk	episodes=1 episode, 2000 	
+character=Martin Wells	name=Joe Morton	episodes=1 episode, 2000 	
+character=Gracie O	name=Tracy Middendorf	episodes=1 episode, 2000 	
+character=Connor	name=Tracy Middendorf	episodes=1 episode, 2000 	
+character=Lisa Underwood	name=Kim Greist	episodes=1 episode, 2000 	
+character=Dr. Robert Wieder	name=James Morrison	episodes=1 episode, 2000 	
+character=Fox Mulder	name=Garry Shandling	episodes=1 episode, 2000 	
+character=Ellen Adderly	name=Michelle Joyner	episodes=1 episode, 2000 	
+character=Argyle Saperstein	name=Art Evans	episodes=1 episode, 2000 	
+character=Ernie Stefaniuk	name=Gene Dynarski	episodes=1 episode, 2000 	
+character=Hank Gulatarski	name=David Barry Gray	episodes=1 episode, 2000 	
+character=Sgt. Paula Duthie	name=Dee Freeman	episodes=1 episode, 2000 	
+character=Billy LaBonge	name=Jonathan Levit	episodes=1 episode, 2000 	
+character=Jenn	name=Paula Sorge	episodes=1 episode, 2000 	
+character=Ivan Martinez	name=Jamie Galen	episodes=1 episode, 2000 	
+character=Josef Kobold	name=James Remar	episodes=1 episode, 2001 	
+character=Trevor	name=Michael Welch	episodes=1 episode, 2001 	
+character=Dwight Cooper	name=Michael Bowen	episodes=1 episode, 2001 	
+character=Ray Pearce	name=Wade Williams	episodes=1 episode, 2001 	
+character=Lt. Bianco	name=Vyto Ruginis	episodes=1 episode, 2001 	
+character=Dylan Lokensgard	name=Hank Harris	episodes=1 episode, 2001 	
+character=Mr. Burt	name=Burt Reynolds	episodes=1 episode, 2002 	
+character=Robert M. Fassl	name=W. Earl Brown	episodes=1 episode, 2002 	
+character=Terry Pruit	name=Don Swayze	episodes=1 episode, 2002 	
+character=Stephen Murdoch	name=Stan Shaw	episodes=1 episode, 2002 	
+character=Pasha	name=Kumail Nanjiani	episodes=1 episode, 2016 	
+character=Kyle Gilligan	name=Jonathan Whitesell	episodes=1 episode, 2016 	
+character=Daryl Landry	name=Daryl Shuttleworth	episodes=1 episode, 2016 	
+character=Reggie Something	name=Brian Huskey	episodes=1 episode, 2018 	
+character=Juliet 	name=Carlena Britch	episodes=1 episode, 2018 	
+character=La Avispa	name=Carlena Britch	episodes=1 episode, 2018 	
+character=Bocanegra	name=Carlena Britch	episodes=1 episode, 2018 	
+character=Dean Cavalier	name=Benjamin Wilkinson	episodes=1 episode, 2018 	
+character=Bigly Customer Service	name=Ashley Lambert	episodes=1 episode, 2018 	
+character=Young Walter Skinner	name=Cory Rempel	episodes=1 episode, 2018 	
+character=Emil	name=Seth Green	episodes=1 episode, 1993 	
+character=Kip	name=Donald Gibb	episodes=1 episode, 1993 	
+character=Dr. Diamond	name=Gregory Sierra	episodes=1 episode, 1993 	
+character=Dr. Denny Murphy	name=Steve Hytner	episodes=1 episode, 1993 	
+character=Agent Jerry Lamana	name=Wayne Duvall	episodes=1 episode, 1993 	
+character=Eve 9	name=Sabrina Krievins	episodes=1 episode, 1993-1998 	
+character=Sir Malcolm Marsden	name=Dan Lett	episodes=1 episode, 1993 	
+character=Salvatore Matola	name=Jon Gries	episodes=1 episode, 1994 	
+character=Doug Spinney	name=Titus Welliver	episodes=1 episode, 1994 	
+character=Jessie O	name=Shawnee Smith	episodes=1 episode, 1994 	
+character=Neil	name=Shawnee Smith	episodes=1 episode, 1994 	
+character=Det. Sharon Lazard	name=Maggie Wheeler	episodes=1 episode, 1994 	
+character=Agent Lucy Kazdin	name=CCH Pounder	episodes=1 episode, 1994 	
+character=Dorothy	name=Frances Bay	episodes=1 episode, 1994 	
+character=Bonnie McRoberts	name=Ashlyn Gere	episodes=1 episode, 1994 	
+character=Marty 	name=Peter Stebbings	episodes=1 episode, 1994 	
+character=Male	name=Peter Stebbings	episodes=1 episode, 1994 	
+character=John	name=Frank Military	episodes=1 episode, 1994 	
+character=First Workman	name=Matthew Bennett	episodes=1 episode, 1994 	
+character=Reverend Calvin Hartley	name=George Gerdes	episodes=1 episode, 1994 	
+character=Dr. William Secare	name=Simon Webb	episodes=1 episode, 1994 	
+character=Agent Bruskin	name=Jackson Davies	episodes=1 episode, 1994 	
+character=Amy Jacobs	name=Jewel Staite	episodes=1 episode, 1995 	
+character=Shannon Ausbury	name=Heather McComb	episodes=1 episode, 1995 	
+character=Olafsson	name=Vladimir Kulich	episodes=1 episode, 1995 	
+character=Sheriff Tom Arens	name=Gary Grubbs	episodes=1 episode, 1995 	
+character=Old Harry Cokely	name=Morgan Woodward	episodes=1 episode, 1995 	
+character=Simon Gates	name=Kenneth Welsh	episodes=1 episode, 1995 	
+character=Mr. Nutt	name=Michael J. Anderson	episodes=1 episode, 1995 	
+character=Sheriff John Teller	name=Ernie Lively	episodes=1 episode, 1995 	
+character=Detective Alan Cross	name=James Handy	episodes=1 episode, 1995 	
+character=Golda	name=Lilyan Chauvin	episodes=1 episode, 1995 	
+character=Chester Bonaparte	name=Jamil Walker Smith	episodes=1 episode, 1995 	
+character=Satin	name=Deanna Milligan	episodes=1 episode, 1995 	
+character=Ed Meecham	name=Jack Rader	episodes=1 episode, 1995 	
+character=John Speranza	name=John Toles-Bey	episodes=1 episode, 1995 	
+character=Dr. Landon Prince	name=Dana Gladstone	episodes=1 episode, 1995 	
+character=Detective Cline	name=Frank Cassini	episodes=1 episode, 1995 	
+character=Agent Bill Patterson	name=Kurtwood Smith	episodes=1 episode, 1996 	
+character=Hard-Faced Man	name=James Hong	episodes=1 episode, 1996 	
+character=Terri Roberts	name=Lisa Robin Kelly	episodes=1 episode, 1996 	
+character=Vernon Ephesian	name=Michael Massee	episodes=1 episode, 1996 	
+character=Sharon Skinner	name=Jennifer Hetrick	episodes=1 episode, 1996 	
+character=Shaman	name=Gordon Tootoosis	episodes=1 episode, 1996 	
+character=Lieutenant Jack Schaefer	name=Daniel Quinn	episodes=1 episode, 1996 	
+character=Agent Frank Burst	name=Vic Polizos	episodes=1 episode, 1996 	
+character=Sheriff Frass	name=Dion Anderson	episodes=1 episode, 1996 	
+character=Sherman Peacock	name=Adrian G. Griffiths	episodes=1 episode, 1996 	
+character=Jeraldine Kallenchuk	name=Jo Bates	episodes=1 episode, 1996 	
+character=Ansel Bray	name=R. Nelson Brown	episodes=1 episode, 1996 	
+character=Robert Sparks	name=Byrne Piven	episodes=1 episode, 1996 	
+character=Dr. Shannon	name=Arlene Mazerolle	episodes=1 episode, 1996 	
+character=Samuel Aboah	name=Willie Amakye	episodes=1 episode, 1996 	
+character=Eladio Buente	name=Raymond Cruz	episodes=1 episode, 1997 	
+character=Amanda Nelligan	name=Christine Cavanaugh	episodes=1 episode, 1997 	
+character=Older Jason Nichols	name=Michael Fairman	episodes=1 episode, 1997 	
+character=Chuck Forsch	name=Sydney Lassick	episodes=1 episode, 1997 	
+character=Gen. Benjamin Bloch	name=Scott Hylands	episodes=1 episode, 1997 	
+character=Babcock	name=James Sutorius	episodes=1 episode, 1997 	
+character=Kenneth Ungar	name=David Wohl	episodes=1 episode, 1997 	
+character=Michele Wilkes	name=Jennifer Clement	episodes=1 episode, 1997 	
+character=Agent Kinsley	name=Scott Burkholder	episodes=1 episode, 1997 	
+character=Izzy Berkowitz	name=Stewart Gale	episodes=1 episode, 1997 	
+character=Lisa Baiocchi	name=Katharine Isabelle	episodes=1 episode, 1998 	
+character=Dara Kernoff	name=Emily Perkins	episodes=1 episode, 1998 	
+character=Ronnie Strickland	name=Patrick Renna	episodes=1 episode, 1998 	
+character=Greg Pincus	name=John Apicella	episodes=1 episode, 1998 	
+character=Hayes Michel	name=Brian Leckner	episodes=1 episode, 1998 	
+character=Wallace Schiff	name=David Denman	episodes=1 episode, 1999 	
+character=Chastity Raines	name=Nicki Aycox	episodes=1 episode, 1999 	
+character=Timothy 	name=John Billingsley	episodes=1 episode, 1999 	
+character=Timmy the Geek	name=John Billingsley	episodes=1 episode, 1999 	
+character=Landau	name=John Billingsley	episodes=1 episode, 1999 	
+character=Dr. Mindy Rinehart	name=Judith Hoag	episodes=1 episode, 1999 	
+character=Angela Villareal	name=Diana Maria Riva	episodes=1 episode, 1999 	
+character=Guard	name=Michael Bailey Smith	episodes=1 episode, 1999 	
+character=Bernard	name=Darren E. Burrows	episodes=1 episode, 1999 	
+character=Mark Johnson	name=Holmes Osborne	episodes=1 episode, 1999 	
+character=Pat Verlander	name=Debra Christofferson	episodes=1 episode, 1999 	
+character=Laura Weinsider	name=Lisa Jane Persky	episodes=1 episode, 1999 	
+character=Joe Cutrona	name=Ramy Zada	episodes=1 episode, 1999 	
+character=Dr. James Riley	name=Michael Mantell	episodes=1 episode, 1999 	
+character=Raybert Fellowes	name=Frank Novak	episodes=1 episode, 1999 	
+character=Holman Hardt	name=David Manis	episodes=1 episode, 1999 	
+character=Dr. Kenneth Orgel	name=John Towey	episodes=1 episode, 1999 	
+character=Dana Scully	name=Téa Leoni	episodes=1 episode, 2000 	
+character=Phoebe	name=Constance Zimmer	episodes=1 episode, 2000 	
+character=Attorney Janet Wilson	name=Bellamy Young	episodes=1 episode, 2000 	
+character=Leslie Stokes	name=Will Sasso	episodes=1 episode, 2000 	
+character=Cissy Alvarez	name=Robert LaSardo	episodes=1 episode, 2000 	
+character=Jenny Uphouse	name=Gina Mastrogiacomo	episodes=1 episode, 2000 	
+character=Anthony Tipet	name=Keith Szarabajka	episodes=1 episode, 2000 	
+character=Bob Danfous	name=Jack McGee	episodes=1 episode, 2000 	
+character=Harold Piller	name=Anthony Heald	episodes=1 episode, 2000-2002 	
+character=Nan Wieder	name=Kate McNeil	episodes=1 episode, 2000 	
+character=Mr. Milsap	name=Lawrence Pressman	episodes=1 episode, 2000 	
+character=Daniel Brimley	name=Richard Cox	episodes=1 episode, 2000 	
+character=U.S. Marshal Daddo	name=Steve Rankin	episodes=1 episode, 2000 	
+character=Cal Jeppy	name=Jim Cody Williams	episodes=1 episode, 2000 	
+character=Dr. Kopeikan	name=Stephen Hornyak	episodes=1 episode, 2000 	
+character=Reverend Enoch O	name=Michael Childers	episodes=1 episode, 2000 	
+character=Connor	name=Michael Childers	episodes=1 episode, 2000 	
+character=Myron Stefaniuk	name=Dan Leegant	episodes=1 episode, 2000 	
+character=Redhead Deputy	name=Michael Maher	episodes=1 episode, 2000 	
+character=Natalie Gordon	name=Samaire Armstrong	episodes=1 episode, 2001 	
+character=Dr. Hellura Lyle	name=Penny Johnson Jerald	episodes=1 episode, 2001 	
+character=Jeb Dukes	name=Jay Underwood	episodes=1 episode, 2001 	
+character=Martin Ortega	name=Miguel Sandoval	episodes=1 episode, 2001 	
+character=Tammi Peyton	name=Kellie Waymire	episodes=1 episode, 2001 	
+character=Rustic Woman	name=Caroline Lagerfelt	episodes=1 episode, 2001 	
+character=Quinton	name=Jordan Warkol	episodes=1 episode, 2001 	
+character=Dr. Miryum	name=Jennifer Griffin	episodes=1 episode, 2001 	
+character=Nora Pearce	name=Jennifer Parsons	episodes=1 episode, 2001 	
+character=Dr. Monique Sampson	name=Andi Chapman	episodes=1 episode, 2001 	
+character=Mad Wayne	name=Ray McKinnon	episodes=1 episode, 2002 	
+character=Oliver Martin	name=Michael Emerson	episodes=1 episode, 2002 	
+character=Patti	name=Allison Smith	episodes=1 episode, 2002 	
+character=Attorney Jana Fain	name=Lisa Darr	episodes=1 episode, 2002 	
+character=Gabe Rotter	name=Brian Poth	episodes=1 episode, 2002 	
+character=Dr. Edwards	name=Cyd Strittmatter	episodes=1 episode, 2002 	
+character=Detective Van Allen	name=James McDonnell	episodes=1 episode, 2002 	
+character=Sveta	name=Annet Mahendru	episodes=1 episode, 2015-2016 	
+character=Jackie Goldman	name=Rebecca Wisocky	episodes=1 episode, 2016 	
+character=Nancy Huff	name=Peggy Jo Jacobs	episodes=1 episode, 2016 	
+character=Dr. Karah Hamby	name=Sandrine Holt	episodes=1 episode, 2018 	
+character=Dr. Randolph Luvenis	name=Jere Burns	episodes=1 episode, 2018 	
+character=Anna Strong	name=Erin Chambers	episodes=1 episode, 2018 	
+character=Sheriff Mac Stenzler	name=Brendan Patrick Connor	episodes=1 episode, 2018 	
+character=Voice of Science	name=Matt Corboy	episodes=1 episode, 2018 	
+character=Arkie Seavers	name=Jared Ager-Foster	episodes=1 episode, 2018 	
+character=Bear	name=Jeff Kober	episodes=1 episode, 1993 	
+character=Mission Controller	name=Terry David Mulligan	episodes=1 episode, 1993 	
+character=Mrs. Marsden	name=Laurie Paton	episodes=1 episode, 1993 	
+character=Judy Bishop	name=Dey Young	episodes=1 episode, 1994 	
+character=Agent Henderson	name=Christine Estabrook	episodes=1 episode, 1994 	
+character=Stan Phillips	name=Eric Christmas	episodes=1 episode, 1994 	
+character=NIH Doctor	name=Graham Jarvis	episodes=1 episode, 1994 	
+character=Ish	name=Jimmy Herman	episodes=1 episode, 1994 	
+character=Leonard Vance	name=Dennis Lipscomb	episodes=1 episode, 1994 	
+character=Dupre	name=Jason Schombing	episodes=1 episode, 1994 	
+character=Dr. Adam Pierce	name=Tuck Milligan	episodes=1 episode, 1994 	
+character=Lucas Henry	name=Lawrence King-Phillips	episodes=1 episode, 1994 	
+character=Det. Norman	name=Freddy Andreiuci	episodes=1 episode, 1994 	
+character=Clean Suited Man	name=David Hay	episodes=1 episode, 1994 	
+character=Owen Lee Jarvis	name=Michael Berryman	episodes=1 episode, 1995 	
+character=Pete Calcagni	name=Shaun Johnston	episodes=1 episode, 1995 	
+character=Vincent Parmelly	name=Ken Foree	episodes=1 episode, 1995 	
+character=Private Harry Dunham	name=Matt Hill	episodes=1 episode, 1995 	
+character=Capt. Janet Draper	name=Nancy Sorel	episodes=1 episode, 1995 	
+character=Sharon Kiveat	name=Karen Lorre	episodes=1 episode, 1995 	
+character=Calusari 	name=Kay E. Kuter	episodes=1 episode, 1995 	
+character=The Conundrum	name=The Enigma	episodes=1 episode, 1995 	
+character=Linda Thibedeaux	name=Joy Coghill	episodes=1 episode, 1995 	
+character=Walt Eubanks	name=Ken Ryan	episodes=1 episode, 1995 	
+character=Man in Black 	name=Jesse Ventura	episodes=1 episode, 1996 	
+character=Mary Lefante	name=Sharon Alexander	episodes=1 episode, 1996 	
+character=Hsin	name=Michael Yama	episodes=1 episode, 1996 	
+character=Lucas Menand	name=Jed Rees	episodes=1 episode, 1997 	
+character=Derek Banks	name=Channon Roe	episodes=1 episode, 1997 	
+character=Nurse Innes	name=Nancy Fish	episodes=1 episode, 1997 	
+character=Eddie Van Blundht Sr.	name=Lee de Broux	episodes=1 episode, 1997 	
+character=Kurt Crawford	name=David Lovgren	episodes=1 episode, 1997 	
+character=Soledad Buente	name=J.R. Yenque	episodes=1 episode, 1997 	
+character=Misty Nagata	name=Nicolle Nattrass	episodes=1 episode, 1997 	
+character=Booger	name=Chris Giacoletti	episodes=1 episode, 1997 	
+character=Detective Gouveia	name=Jay Donahue	episodes=1 episode, 1997 	
+character=Leamus	name=Sam Anderson	episodes=1 episode, 1998 	
+character=Dr. Wilkenson	name=Henri Lubatti	episodes=1 episode, 1998 	
+character=Roy Cohn	name=David Moreland	episodes=1 episode, 1998 	
+character=CDC Doctor	name=Harry Danner	episodes=1 episode, 1998 	
+character=Mrs. Reed	name=Ann Dowd	episodes=1 episode, 1999 	
+character=Coroner	name=Jim Beaver	episodes=1 episode, 1999 	
+character=Mayor Gilmore	name=Dirk Blocker	episodes=1 episode, 1999 	
+character=Dr. Plant	name=Kenneth Tigar	episodes=1 episode, 1999 	
+character=Poor Boy	name=Jesse James	episodes=1 episode, 1999 	
+character=Dominic	name=Tony Longo	episodes=1 episode, 1999 	
+character=Walter Suarez	name=Valente Rodriguez	episodes=1 episode, 1999 	
+character=Robert Werther	name=David Bowe	episodes=1 episode, 1999 	
+character=Dr. Amina Ngebe	name=JoNell Kennedy	episodes=1 episode, 1999 	
+character=Dep. Arky Stevens	name=Michael Milhoan	episodes=1 episode, 1999 	
+character=Win Shroeder	name=Tom Gallop	episodes=1 episode, 1999 	
+character=Woman Customer	name=Suanne Spoke	episodes=1 episode, 1999 	
+character=Deputy	name=Colby French	episodes=1 episode, 1999 	
+character=Sylvia Jassy	name=Lois Foraker	episodes=1 episode, 1999 	
+character=Secretary	name=Ange Billman	episodes=1 episode, 1999 	
+character=Frank Fiedler	name=David Starwalt	episodes=1 episode, 1999 	
+character=Ashman	name=Tobin Bell	episodes=1 episode, 2000 	
+character=Cardinal O	name=Harris Yulin	episodes=1 episode, 2000 	
+character=Fallon	name=Harris Yulin	episodes=1 episode, 2000 	
+character=Marjorie Butters	name=Louise Latham	episodes=1 episode, 2000 	
+character=Anson Stokes	name=Kevin Weisman	episodes=1 episode, 2000 	
+character=Jared Chirp	name=Eric Nenninger	episodes=1 episode, 2000 	
+character=Brigham	name=Emilio Rivera	episodes=1 episode, 2000 	
+character=Ronald Purnell	name=Rodney Eastman	episodes=1 episode, 2000 	
+character=Agent Schoniger	name=Stanley Anderson	episodes=1 episode, 2000 	
+character=Shorty	name=Guy Torry	episodes=1 episode, 2000 	
+character=Sheriff Ciolino	name=Conor O	episodes=1 episode, 2000 	
+character=Sheriff Ciolino	name=Farrell	episodes=1 episode, 2000 	
+character=Burt	name=Rob Van Dam	episodes=1 episode, 2000 	
+character=Opponent	name=Rob Van Dam	episodes=1 episode, 2000 	
+character=Lucy Wieder	name=Cara Jedell	episodes=1 episode, 2000 	
+character=Billie LaPierre	name=Shareen Mitchell	episodes=1 episode, 2000 	
+character=Retro	name=Billy Ray Gallion	episodes=1 episode, 2000 	
+character=Dr. Blankenship	name=F. William Parker	episodes=1 episode, 2000 	
+character=Mexican Lady	name=Perla Walter	episodes=1 episode, 2000 	
+character=Bullethead 	name=Jim Maniaci	episodes=1 episode, 2000 	
+character=Nurse 	name=Victoria Faerber	episodes=1 episode, 2000 	
+character=Beggar Man	name=Deep Roy	episodes=1 episode, 2001 	
+character=Dr. Tom Puvogel	name=Arye Gross	episodes=1 episode, 2001 	
+character=Randall Cooper	name=Patrick Kilpatrick	episodes=1 episode, 2001 	
+character=Saksa	name=Casey Biggs	episodes=1 episode, 2001 	
+character=Dr. Rocky Bronzino	name=Michael Wiseman	episodes=1 episode, 2001 	
+character=Katha Dukes	name=Wendy Gazelle	episodes=1 episode, 2001 	
+character=Evelyn Mountjoy	name=Sarah Benoit	episodes=1 episode, 2001 	
+character=Erwin Timothy Lukesh	name=Dylan Haggerty	episodes=1 episode, 2001 	
+character=Special Agent Fordyce	name=John Kapelos	episodes=1 episode, 2002 	
+character=Dr. John Rietz	name=John Aylward	episodes=1 episode, 2002 	
+character=Jeffrey Conlon	name=Scott Paulin	episodes=1 episode, 2002 	
+character=Man on the Street	name=Steven Flynn	episodes=1 episode, 2002 	
+character=Ed Kelso	name=Cyril O	episodes=1 episode, 2002 	
+character=Ed Kelso	name=Reilly	episodes=1 episode, 2002 	
+character=Dr. Jack Preijers	name=Jack Blessing	episodes=1 episode, 2002 	
+character=FBI Cadet Rudolph Hayes	name=Jared Poe	episodes=1 episode, 2002 	
+character=Bearded Man	name=Alan Davidson	episodes=1 episode, 2002 	
+character=Domingo Salmeron	name=Frank Roman	episodes=1 episode, 2002 	
+character=Doctor	name=Giacomo Baessato	episodes=1 episode, 2015 	
+character=Augustus Goldman	name=Doug Savant	episodes=1 episode, 2016 	
+character=Annabelle	name=Shangela	episodes=1 episode, 2016 	
+character=Annabelle	name=D.J. 	episodes=1 episode, 2016 	
+character=Annabelle	name=Pierce	episodes=1 episode, 2016 	
+character=Dr. Thaddeus Q. They	name=Stuart Margolin	episodes=1 episode, 2018 	
+character=Diana Eggers	name=Sharon Taylor	episodes=1 episode, 2018 	
+character=E-Norm-Uz Customer Service	name=Sitara Attaie	episodes=1 episode, 2018 	
+character=Dr. Babsi Russel	name=Denise Dowse	episodes=1 episode, 2018 	
+character=Price	name=Viv Leacock	episodes=1 episode, 2018 	
+character=Commander Al	name=Andre Roshkov	episodes=1 episode, 2018 	
+character=Glenna	name=Jill Teed	episodes=1 episode, 1993 	
+character=Richter	name=Ken Kirzinger	episodes=1 episode, 1993 	
+character=George Usher	name=Terence Kelly	episodes=1 episode, 1993 	
+character=Beatty	name=Duncan Fraser	episodes=1 episode, 1993 	
+character=Ladonna	name=Monica Parker	episodes=1 episode, 1993 	
+character=Preacher	name=French Tickner	episodes=1 episode, 1993 	
+character=Augustus Cole	name=Tony Todd	episodes=1 episode, 1994 	
+character=Dr. Frank Nollette	name=James Sloyan	episodes=1 episode, 1994 	
+character=Michelle Bishop	name=Andrea Libman	episodes=1 episode, 1994 	
+character=Hal Arden	name=David Fresco	episodes=1 episode, 1994 	
+character=Lanny	name=Vincent Schiavelli	episodes=1 episode, 1995 	
+character=Rappo	name=Ian Tracey	episodes=1 episode, 1995 	
+character=Leonard 	name=Ian Tracey	episodes=1 episode, 1995 	
+character=Trimble	name=Ian Tracey	episodes=1 episode, 1995 	
+character=Danielle Manley	name=April Grace	episodes=1 episode, 1995 	
+character=Jesse	name=Aloka McLean	episodes=1 episode, 1995 	
+character=Detective Barron	name=Nathaniel DeVeaux	episodes=1 episode, 1995 	
+character=Susan Kryder	name=Hayley Tyson	episodes=1 episode, 1995 	
+character=Dr. Laskos	name=Claire Riley	episodes=1 episode, 1995 	
+character=Carina Sayles	name=Amanda Tapping	episodes=1 episode, 1996 	
+character=Chrissy Giorgio	name=Sarah Sawatsky	episodes=1 episode, 1996 	
+character=Dr. Harrison Lloyd	name=John Juliani	episodes=1 episode, 1996 	
+character=Inspector Puett	name=Ron Chartier	episodes=1 episode, 1996 	
+character=Jeff Glaser	name=Anthony Rapp	episodes=1 episode, 1997 	
+character=Detective Hudak	name=Danny Kamin	episodes=1 episode, 1997 	
+character=Gen. Leitch	name=William S. Taylor	episodes=1 episode, 1997 	
+character=Gabrielle Buente	name=Simi Mehta	episodes=1 episode, 1997 	
+character=Nancy Aaronson	name=Cynthia Preston	episodes=1 episode, 1998 	
+character=Captain Yip Harburg	name=Madison Mason	episodes=1 episode, 1998 	
+character=Coroner	name=Brent Butt	episodes=1 episode, 1998 	
+character=Virgil Nokes	name=Junior Brown	episodes=1 episode, 1998 	
+character=Patti Rich	name=Cynde Harmon	episodes=1 episode, 1998 	
+character=Old Orderly	name=Scott Oughterson	episodes=1 episode, 1998 	
+character=Richie Lupone	name=Shia LaBeouf	episodes=1 episode, 1999 	
+character=Dougie	name=Silas Weir Mitchell	episodes=1 episode, 1999 	
+character=June Gurwich	name=Catherine Dent	episodes=1 episode, 1999 	
+character=Dr. Ian Detweiler	name=Andrew Robinson	episodes=1 episode, 1999 	
+character=Sheriff Harden	name=Tom Bower	episodes=1 episode, 1999 	
+character=Cami Schroeder	name=Marnie McPhail	episodes=1 episode, 1999 	
+character=Cindy Culpepper	name=Frankie Ingrassia	episodes=1 episode, 1999 	
+character=Maggie	name=Jillian Bach	episodes=1 episode, 1999 	
+character=Dr. Katrina Cabrera	name=Jenny Gago	episodes=1 episode, 1999 	
+character=Black Coach	name=Lou Beatty Jr.	episodes=1 episode, 1999 	
+character=Betsy Monroe	name=Grace Phillips	episodes=1 episode, 1999 	
+character=Primitive African Man	name=Conrad Roberts	episodes=1 episode, 1999 	
+character=Security Guard	name=George Sharperson	episodes=1 episode, 1999 	
+character=Head Teller	name=Monique Edwards	episodes=1 episode, 1999 	
+character=Funeral Director	name=William Forward	episodes=1 episode, 1999 	
+character=Mr. Rice	name=Bill Lee Brown	episodes=1 episode, 1999 	
+character=Blue Collar Man	name=Nicky Fane	episodes=1 episode, 1999 	
+character=Iris Finster	name=Beth Grant	episodes=1 episode, 2000 	
+character=Gas Station Man	name=Leary	episodes=1 episode, 2000 	
+character=Gas Station Man	name=William O	episodes=1 episode, 2000 	
+character=Doug Underwood	name=Erich Anderson	episodes=1 episode, 2000 	
+character=Call Girl	name=Lisa Arch	episodes=1 episode, 2000 	
+character=Bartender	name=Gene LeBell	episodes=1 episode, 2000 	
+character=Wayne Federman	name=Wayne Federman	episodes=1 episode, 2000 	
+character=Dr. Daniel Waterston	name=Nicolas Surovy	episodes=1 episode, 2000 	
+character=Mrs. McKesson	name=Eve Brenner	episodes=1 episode, 2000 	
+character=Sheriff Phil Adderly	name=John Mese	episodes=1 episode, 2000 	
+character=Steve	name=J.W. Smith	episodes=1 episode, 2000 	
+character=Trina Galvez	name=Joanna Sanchez	episodes=1 episode, 2000 	
+character=Jay Gilmore	name=Paul Hayes	episodes=1 episode, 2000 	
+character=Dr. Irving Thalbro	name=Tom Dahlgren	episodes=1 episode, 2000 	
+character=Holding Cell Officer	name=Rick Marzan	episodes=1 episode, 2000 	
+character=Thomas Gastall	name=Michael Hungerford	episodes=1 episode, 2000 	
+character=Lizzy Gill	name=Frances Fisher	episodes=1 episode, 2001 	
+character=Mrs. Anne T. Lokensgard	name=Jane Lynch	episodes=1 episode, 2001 	
+character=Mrs. Lukesh	name=Angela Paton	episodes=1 episode, 2001 	
+character=Dr. Kai Bowe	name=Judith Scott	episodes=1 episode, 2001 	
+character=Diego Garza	name=Gregory Cruz	episodes=1 episode, 2001 	
+character=Larina Jackson	name=Tamara Clatterbuck	episodes=1 episode, 2001 	
+character=Carl Wormus	name=Nicholas Walker	episodes=1 episode, 2001 	
+character=Captain Triguero	name=Joe Sabatino	episodes=1 episode, 2001 	
+character=Darren Mountjoy	name=Tim Halligan	episodes=1 episode, 2001 	
+character=Gary Sacks	name=Tony Ketcham	episodes=1 episode, 2001 	
+character=Vicki Louise Burdick	name=Ellen Greene	episodes=1 episode, 2002 	
+character=Agent Edie Boal	name=Kathryn Joosten	episodes=1 episode, 2002 	
+character=Assistant D.A. Damon Kaylor	name=Robert Curtis Brown	episodes=1 episode, 2002 	
+character=Nestor	name=Ramón Franco	episodes=1 episode, 2002 	
+character=Dr. Lisa Holland	name=Katy Boyer	episodes=1 episode, 2002 	
+character=Mr. Barreiro	name=Del Zamora	episodes=1 episode, 2002 	
+character=Blake McCormick	name=Tyson Turrou	episodes=1 episode, 2002 	
+character=Tommy Conlon	name=Gavin Fink	episodes=1 episode, 2002 	
+character=Lindquist	name=Aaron Douglas	episodes=1 episode, 2016 	
+character=Joseph Cutler	name=Alessandro Juliani	episodes=1 episode, 2016 	
+character=Man in Suit 1	name=Stephen Lobo	episodes=1 episode, 2016 	
+character=Dr. Rubell	name=Julian Christopher	episodes=1 episode, 2016 	
+character=Dr. Rumanovitch	name=Richard Newman	episodes=1 episode, 2016 	
+character=Davey James	name=Haley Joel Osment	episodes=1 episode, 2018 	
+character=Detective Costa	name=Louis Ferreira	episodes=1 episode, 2018 	
+character=Nurse Vickie Easton	name=Alison Araya	episodes=1 episode, 2018 	
+character=Olivia Bocanegra	name=Micaela Aguilera	episodes=1 episode, 2018 	
+character=Whipz Car	name=Scott Higgs	episodes=1 episode, 2018 	
+character=Tessa Seers	name=Shelley Owens	episodes=1 episode, 1993 	
+character=Ellenn	name=Tamsin Kelsey	episodes=1 episode, 1993 	
+character=Driver 	name=Philip Maurice Hayes	episodes=1 episode, 1993 	
+character=Pathologist	name=Kelli Fox	episodes=1 episode, 1993 	
+character=Campbell	name=Sonny Surowiec	episodes=1 episode, 1993 	
+character=Gary Kane	name=Bob Frazer	episodes=1 episode, 1994 	
+character=Young Fox Mulder	name=Marcus Turner	episodes=1 episode, 1994-2002 	
+character=Judge Kann	name=Jan D	episodes=1 episode, 1994 	
+character=Judge Kann	name=Arcy	episodes=1 episode, 1994 	
+character=Inspector Nettles	name=Frank Ferrucci	episodes=1 episode, 1994 	
+character=Reverend Patrick Findley	name=R. Lee Ermey	episodes=1 episode, 1995 	
+character=Warden Leo Brodeur	name=J.T. Walsh	episodes=1 episode, 1995 	
+character=Ward Nurse	name=Paula Shaw	episodes=1 episode, 1995 	
+character=Jennifer	name=Saraphina Joachim	episodes=1 episode, 1995 	
+character=Officer 	name=Peter Flemming	episodes=1 episode, 1995 	
+character=Dave Duran	name=Travis MacDonald	episodes=1 episode, 1995 	
+character=Sophie	name=Jody St. Michael	episodes=1 episode, 1995 	
+character=Stan Buxton	name=Peter Anderson	episodes=1 episode, 1995 	
+character=Nurse	name=Robert Metcalfe	episodes=1 episode, 1995 	
+character=Henry	name=Jacques Lalonde	episodes=1 episode, 1995 	
+character=Deputy Barney Paster	name=Sebastian Spence	episodes=1 episode, 1996 	
+character=Diabria	name=Zakes Mokae	episodes=1 episode, 1996 	
+character=Officer Corning	name=Michael Cram	episodes=1 episode, 1996 	
+character=Harold Lamb	name=Jason Gaffney	episodes=1 episode, 1996 	
+character=Therapist	name=Donna White	episodes=1 episode, 1996 	
+character=Young Agent	name=Kasper Michaels	episodes=1 episode, 1996 	
+character=Flakita	name=Lillian Hurst	episodes=1 episode, 1997 	
+character=Kaye Schilling	name=Jillian Fargey	episodes=1 episode, 1997 	
+character=Curt Brunjes	name=Jonathan Whittaker	episodes=1 episode, 1997 	
+character=Detective Ray Thomas	name=Fred Keating	episodes=1 episode, 1997 	
+character=Rolston	name=Gerry Bean	episodes=1 episode, 1997 	
+character=Reporter	name=Dana Grahame	episodes=1 episode, 1997 	
+character=Officer Imhof	name=Terry Barclay	episodes=1 episode, 1997 	
+character=Gen. John Steffan	name=William Nunn	episodes=1 episode, 1997 	
+character=Young Orderly	name=Ty Olsson	episodes=1 episode, 1998 	
+character=Elderly Woman	name=Linda Porter	episodes=1 episode, 1998 	
+character=Shooter	name=Martin Ferrero	episodes=1 episode, 1998 	
+character=British Crewman	name=Trevor Goddard	episodes=1 episode, 1998 	
+character=Lance Kernof	name=Eric Keenleyside	episodes=1 episode, 1998 	
+character=Jackson	name=Peter Williams	episodes=1 episode, 1998 	
+character=Skin-Head Man	name=Douglas Arthurs	episodes=1 episode, 1998 	
+character=Gretchen Starns	name=Leslie Jones	episodes=1 episode, 1998 	
+character=Soldier	name=Andrew Sikking	episodes=1 episode, 1998 	
+character=Examiner	name=Joe Pascual	episodes=1 episode, 1998 	
+character=Dr. Eugene Openshaw	name=Nick Tate	episodes=1 episode, 1999 	
+character=Mr. Haas	name=Nicholas Worth	episodes=1 episode, 1999 	
+character=Hooker	name=Naomi Matsuda	episodes=1 episode, 1999 	
+character=Cemetery Grounds Keeper	name=Casey O	episodes=1 episode, 1999 	
+character=Cemetery Grounds Keeper	name=Neill	episodes=1 episode, 1999 	
+character=Jake Conroy	name=James M. Connor	episodes=1 episode, 1999 	
+character=Jordan Black	name=Brittany Tiplady	episodes=1 episode, 1999 	
+character=Mr. Babbitt	name=David Wells	episodes=1 episode, 1999 	
+character=Hungry Guy	name=Chasen Hampton	episodes=1 episode, 1999 	
+character=Dr. Couvillion	name=Michael Rothhaar	episodes=1 episode, 1999 	
+character=Übermenscher	name=Roger W. Morrissey	episodes=1 episode, 1999 	
+character=Doctor	name=Tom McFadden	episodes=1 episode, 1999 	
+character=Dr. Steven Sandoz	name=Murray Rubinstein	episodes=1 episode, 1999 	
+character=Trevor	name=Jeffrey Schoeny	episodes=1 episode, 1999 	
+character=Sara Shipley	name=Nichole Pelerine	episodes=1 episode, 1999 	
+character=Buck Johnson	name=Burnell Roques	episodes=1 episode, 1999 	
+character=Martha Crittendon	name=Wendy Schaal	episodes=1 episode, 2000 	
+character=Harry Bring	name=Spencer Garrett	episodes=1 episode, 2000 	
+character=Betty Templeton	name=Kathy Griffin	episodes=1 episode, 2000 	
+character=Driver	name=Rusty Schwimmer	episodes=1 episode, 2000 	
+character=Elderly Woman	name=Annie O	episodes=1 episode, 2000 	
+character=Elderly Woman	name=Donnell	episodes=1 episode, 2000 	
+character=Micah Hoffman	name=Paul Lieber	episodes=1 episode, 2000 	
+character=Agent Chesty Short	name=Andy Umberger	episodes=1 episode, 2000 	
+character=Guard	name=Rick Cramer	episodes=1 episode, 2000 	
+character=Arbutus Ray	name=Patience Cleveland	episodes=1 episode, 2000 	
+character=Holy Spirit Man 	name=Philip Lenkowsky	episodes=1 episode, 2000 	
+character=Brent Tufeld	name=J. Patrick McCormack	episodes=1 episode, 2000 	
+character=Anne Voss	name=Hurley	episodes=1 episode, 2000 	
+character=Anne Voss	name=Shannon O	episodes=1 episode, 2000 	
+character=Carol	name=Carol Banker	episodes=1 episode, 2000 	
+character=Bank Officer	name=Mark Chaet	episodes=1 episode, 2000 	
+character=Edy	name=Curtis Jackson	episodes=1 episode, 2000 	
+character=Landlady	name=Sage Allen	episodes=1 episode, 2000 	
+character=Billy Underwood	name=Kyle Pepi	episodes=1 episode, 2000 	
+character=Morgue Attendant	name=Brett Bell	episodes=1 episode, 2000 	
+character=Dr. Herman Stites	name=Zach Grenier	episodes=1 episode, 2001 	
+character=Det. Franklin Potter	name=Ron Canada	episodes=1 episode, 2001 	
+character=Mary Hendershot	name=Saxon Trainor	episodes=1 episode, 2001 	
+character=Harry Odell	name=Dan Desmond	episodes=1 episode, 2001 	
+character=Paul Gerlach	name=James Rekart	episodes=1 episode, 2001 	
+character=Officer Philbrick	name=Adam Lieberman	episodes=1 episode, 2001 	
+character=Carlton Chase	name=Tom Jourden	episodes=1 episode, 2001 	
+character=Officer 	name=Ty Upshaw	episodes=1 episode, 2001 	
+character=Agent Rice	name=Gil Colon	episodes=1 episode, 2001 	
+character=Quinton	name=Andy Hubbell	episodes=1 episode, 2001 	
+character=Father	name=Andy Hubbell	episodes=1 episode, 2001 	
+character=Bertram Mueller	name=George D. Wallace	episodes=1 episode, 2002 	
+character=Sheriff Jack Coogan	name=Steve Ryan	episodes=1 episode, 2002 	
+character=Caballero	name=Zitto Kazann	episodes=1 episode, 2002 	
+character=Dr. Henry Jacocks	name=Stephen Bridgewater	episodes=1 episode, 2002 	
+character=Warden Brian Hutchinson	name=Connor	episodes=1 episode, 2002 	
+character=Warden Brian Hutchinson	name=Paul Vincent O	episodes=1 episode, 2002 	
+character=Station Manager	name=Fitz Houston	episodes=1 episode, 2002 	
+character=Mrs. Murdoch	name=Michele Harrell	episodes=1 episode, 2002 	
+character=Woman	name=Beth Watson	episodes=1 episode, 2002 	
+character=Old Man	name=Rance Howard	episodes=1 episode, 2015 	
+character=Gupta	name=Vik Sahay	episodes=1 episode, 2016 	
+character=Detective Gross	name=Chris Shields	episodes=1 episode, 2016 	
+character=Man in Suit 2	name=Shaine Jones	episodes=1 episode, 2016 	
+character=Nurse Peggy Easton	name=Lossen Chambers	episodes=1 episode, 2018 	
+character=Agent Colquitt	name=Dejan Loyola	episodes=1 episode, 2018 	
+character=Warren	name=Samuel Patrick Chu	episodes=1 episode, 2018 	
+character=Cop	name=Tom Pickett	episodes=1 episode, 1993 	
+character=Zoe	name=Lalainia Lindbjerg	episodes=1 episode, 1993 	
+character=Michael	name=Keegan MacIntosh	episodes=1 episode, 1993 	
+character=Waitress	name=Janet Hodgkinson	episodes=1 episode, 1993 	
+character=Det. Johnson	name=James Bell	episodes=1 episode, 1993 	
+character=Liz Hawley	name=Lisa Vultaggio	episodes=1 episode, 1994 	
+character=Gwen	name=Barbara Pollard	episodes=1 episode, 1994 	
+character=Doctor 	name=Lisa Bunting	episodes=1 episode, 1994 	
+character=Medic	name=Phillip MacKenzie	episodes=1 episode, 1994 	
+character=Dr. Francis Girardi	name=Dave Adams	episodes=1 episode, 1994 	
+character=Daniel Charez	name=Greg Rogers	episodes=1 episode, 1995 	
+character=Mr. Fiebling	name=Tim Progosh	episodes=1 episode, 1995 	
+character=Jay De Boom	name=Ryan Reynolds	episodes=1 episode, 1996 	
+character=Man in Black 	name=Alex Trebek	episodes=1 episode, 1996 	
+character=Mrs. Barbara Taylor	name=Judith Maxie	episodes=1 episode, 1996 	
+character=Gauthier	name=Ari Solomon	episodes=1 episode, 1996 	
+character=Model	name=Zoran Vukelic	episodes=1 episode, 1996 	
+character=Johnny Lo	name=Derek Lowe	episodes=1 episode, 1996 	
+character=Dr. Winters	name=Garrison Christiohn	episodes=1 episode, 1996 	
+character=Photo Technician	name=Christopher Royal	episodes=1 episode, 1996 	
+character=El Camino Owner	name=Edward Diaz	episodes=1 episode, 1996 	
+character=Uniformed Cop	name=Peter Bryant	episodes=1 episode, 1997 	
+character=Doctor	name=Alison Matthews	episodes=1 episode, 1997 	
+character=Dr. Peter Valedespino	name=Allan Gray	episodes=1 episode, 1997 	
+character=Tony	name=Timur Karabilgin	episodes=1 episode, 1997 	
+character=Angry Wife	name=Jennifer Sterling	episodes=1 episode, 1997 	
+character=Goat Boy	name=Jean-Yves Hammel	episodes=1 episode, 1997 	
+character=First Carpool Man	name=Christopher Neiman	episodes=1 episode, 1998 	
+character=Mrs. Kernoff	name=Patti Allan	episodes=1 episode, 1998 	
+character=Dr. Leavitt	name=John B. Lowe	episodes=1 episode, 1998 	
+character=Bunny	name=Rob Daprocida	episodes=1 episode, 1998 	
+character=Sports Store Employee	name=Kurt Evans	episodes=1 episode, 1998 	
+character=Sam	name=Chris Ufland	episodes=1 episode, 1998 	
+character=Coroner	name=Mindy Seeger	episodes=1 episode, 1998 	
+character=British Crewman	name=G.W. Stevens	episodes=1 episode, 1998 	
+character=Arthur Dales	name=M. Emmet Walsh	episodes=1 episode, 1999 	
+character=Gordy	name=Tim Bagley	episodes=1 episode, 1999 	
+character=Dick Clark	name=Dick Clark	episodes=1 episode, 1999 	
+character=Evan Shipley	name=Max Kasch	episodes=1 episode, 1999 	
+character=Hood	name=Mo Gallini	episodes=1 episode, 1999 	
+character=Deputy Foster	name=Les Lannom	episodes=1 episode, 1999 	
+character=Dr. Solomon Merkmallen	name=Michael Chinyamurindi	episodes=1 episode, 1999 	
+character=Mr. Ng	name=Dom Magwili	episodes=1 episode, 1999 	
+character=Local News Anchor	name=Dan Gifford	episodes=1 episode, 1999 	
+character=State Trooper	name=Christopher Dahlberg	episodes=1 episode, 1999 	
+character=Woo	name=Yau-Gene Chan	episodes=1 episode, 1999 	
+character=EMT	name=Matthew Butcher	episodes=1 episode, 1999 	
+character=Lucy	name=Kerry Zook	episodes=1 episode, 1999 	
+character=ICU Nurse	name=Donna Marie Moore	episodes=1 episode, 1999 	
+character=Kathy Lee Tencate	name=Kim Darby	episodes=1 episode, 2000 	
+character=Blueberry	name=Tara Buck	episodes=1 episode, 2000 	
+character=Bullethead 	name=Dennis Keiffer	episodes=1 episode, 2000 	
+character=Holy Spirit Man 	name=Clement Blake	episodes=1 episode, 2000 	
+character=Assistant	name=Tara Karsian	episodes=1 episode, 2000 	
+character=Coroner	name=Tara Karsian	episodes=1 episode, 2000 	
+character=Proprietor	name=Pamela Gordon	episodes=1 episode, 2000 	
+character=Lead Counsel	name=Arthur Rosenberg	episodes=1 episode, 2000 	
+character=Judge Kinberg	name=Jack Shearer	episodes=1 episode, 2000 	
+character=Lead Agent Mayfield	name=Todd Jeffries	episodes=1 episode, 2000 	
+character=Nurse 	name=Elayn J. Taylor	episodes=1 episode, 2000 	
+character=Manager 	name=Brian Chenoweth	episodes=1 episode, 2000 	
+character=Koko	name=Brian Chenoweth	episodes=1 episode, 2000 	
+character=Billy Underwood	name=Ryan Pepi	episodes=1 episode, 2000 	
+character=Howard Crittendon	name=Charles Hoyes	episodes=1 episode, 2000 	
+character=Disabled Man	name=Bryan Dilbeck	episodes=1 episode, 2000 	
+character=Bo Taylor	name=M.C. Gainey	episodes=1 episode, 2001 	
+character=Bill	name=Branden Williams	episodes=1 episode, 2001 	
+character=Curt Delario	name=Scott MacDonald	episodes=1 episode, 2001 	
+character=Mrs. Holt	name=Jane Daly	episodes=1 episode, 2001 	
+character=Arlen Sacks	name=James Otis	episodes=1 episode, 2001 	
+character=Gary Garber	name=Bruce Wright	episodes=1 episode, 2001 	
+character=Dr. Kim	name=Ming Lo	episodes=1 episode, 2001 	
+character=Creature	name=Jordan Marder	episodes=1 episode, 2001 	
+character=Dr. Kenneth Richman	name=Troy Mittleider	episodes=1 episode, 2001 	
+character=Thug	name=Bill Jacobson	episodes=1 episode, 2001 	
+character=Nurse Whitney Edwards	name=Vernee Watson	episodes=1 episode, 2002 	
+character=Michael Daley	name=David Faustino	episodes=1 episode, 2002 	
+character=Duke Tomasick	name=Arthur J. Nascarella	episodes=1 episode, 2002 	
+character=Roxanne	name=Kari Whitman	episodes=1 episode, 2002 	
+character=Husband	name=Adam Nelson	episodes=1 episode, 2002 	
+character=Jimmy Bond	name=Stephen Snedden	episodes=1 episode, 2002 	
+character=First Cop	name=Rene Rivera	episodes=1 episode, 2002 	
+character=Diener	name=Avery Glymph	episodes=1 episode, 2002 	
+character=Heavy Italian Man	name=Ernesto Gasco	episodes=1 episode, 2002 	
+character=Young Woman	name=Brianne Prather	episodes=1 episode, 2002 	
+character=Band-Aid Nose Man	name=John DeSantis	episodes=1 episode, 2016 	
+character=Murphy	name=Ryan Robbins	episodes=1 episode, 2016 	
+character=Nurse	name=Janet Kidder	episodes=1 episode, 2016 	
+character=The Werelizard	name=Ryan Beil	episodes=1 episode, 2016 	
+character=Dr. Joyet	name=Anjali Jay	episodes=1 episode, 2018 	
+character=Softie Boy	name=Dean Friss	episodes=1 episode, 2018 	
+character=Attractive Waitress	name=Elizabeth Lavender	episodes=1 episode, 2018 	
+character=Josephine Bocanegra	name=Fabiola Colmenero	episodes=1 episode, 2018 	
+character=Pastor	name=Michael Q. Adams	episodes=1 episode, 2018 	
+character=Gydz	name=Nikita Wyllie	episodes=1 episode, 2018 	
+character=Leza Atsumi	name=Akiko Morison	episodes=1 episode, 1993 	
+character=Lt. Fraser	name=Tony Pantages	episodes=1 episode, 1993 	
+character=Ted Watkins	name=David Kirby	episodes=1 episode, 1993 	
+character=Orderly	name=Alexandra Berlin	episodes=1 episode, 1993 	
+character=Sandwich Man	name=Bill Finck	episodes=1 episode, 1993 	
+character=Kimberly	name=Sarah Strange	episodes=1 episode, 1994 	
+character=Jim Summers	name=Chad Willett	episodes=1 episode, 1994 	
+character=Katie	name=Elisabeth Rosen	episodes=1 episode, 1994 	
+character=Nurse Owens	name=Nicola Cavendish	episodes=1 episode, 1994 	
+character=Leon Felder	name=Richard Sali	episodes=1 episode, 1994 	
+character=Fire Chief	name=Howard Storey	episodes=1 episode, 1994 	
+character=Technician	name=Torben Rolfsen	episodes=1 episode, 1994 	
+character=Amputee	name=Rob Lee	episodes=1 episode, 1995 	
+character=Lauren	name=Randi Lynne	episodes=1 episode, 1995 	
+character=Young Harry Cokely	name=Emanuel Hajek	episodes=1 episode, 1995 	
+character=Myra Jacobs	name=Sidonie Boll	episodes=1 episode, 1995 	
+character=Nurse Castor	name=Jacqueline Dandeneau	episodes=1 episode, 1995 	
+character=Dude	name=A.J. Buckley	episodes=1 episode, 1996 	
+character=First Officer	name=Danny Wattley	episodes=1 episode, 1996 	
+character=Dr. Sally Sanford	name=Marie Stillin	episodes=1 episode, 1996 	
+character=Vase Man	name=Donald Fong	episodes=1 episode, 1996 	
+character=ER Doctor	name=Michele Melland	episodes=1 episode, 1996 	
+character=Snorkel Dude	name=Terrance Leigh	episodes=1 episode, 1996 	
+character=Radio Singer	name=Kenny James	episodes=1 episode, 1996 	
+character=Female EMT	name=Laara Sadiq	episodes=1 episode, 1997 	
+character=Motel Manager	name=Felicia Shulman	episodes=1 episode, 1997 	
+character=Bespectacled Boy	name=Addison Ridge	episodes=1 episode, 1997 	
+character=Louis Asekoff	name=Tyler Thompson	episodes=1 episode, 1997 	
+character=Cher	name=Tracey Bell	episodes=1 episode, 1997 	
+character=Officer	name=Glenn Williams	episodes=1 episode, 1997 	
+character=Clinton	name=Jabin Litwiniec	episodes=1 episode, 1997 	
+character=British Crewman	name=Greg Ellis	episodes=1 episode, 1998 	
+character=Prison Doctor	name=Scott Alan Smith	episodes=1 episode, 1998 	
+character=Homer	name=Kim Robillard	episodes=1 episode, 1998 	
+character=Angry Man	name=Jason Diablo	episodes=1 episode, 1998 	
+character=Dave Kline	name=Tom Virtue	episodes=1 episode, 1999 	
+character=Young Agent	name=Coby Ryan McLaughlin	episodes=1 episode, 1999 	
+character=Mr. Jank	name=Marshall Manesh	episodes=1 episode, 1999 	
+character=Sergeant	name=Robert Peters	episodes=1 episode, 1999 	
+character=Coranado	name=Lennie Loftin	episodes=1 episode, 1999 	
+character=Ms. Britton	name=Lenora May	episodes=1 episode, 1999 	
+character=ICU Nurse	name=Mari Weiss	episodes=1 episode, 1999 	
+character=Widow	name=Marilyn McIntyre	episodes=1 episode, 1999 	
+character=Hotel Manager	name=Sharon Madden	episodes=1 episode, 1999 	
+character=OR Nurse	name=Greta Fadness	episodes=1 episode, 1999 	
+character=Fong	name=Tuan Tran	episodes=1 episode, 1999 	
+character=Tour Guide	name=David Michael Mullins	episodes=1 episode, 1999 	
+character=Lo-Fat	name=Michael Bower	episodes=1 episode, 2000 	
+character=Michelle Crittendon	name=Ashley Edner	episodes=1 episode, 2000 	
+character=Deputy Juan Molina	name=Lombardo Boyar	episodes=1 episode, 2000 	
+character=Nurse 	name=Cheryl White	episodes=1 episode, 2000 	
+character=Doctor	name=Ron Marasco	episodes=1 episode, 2000 	
+character=Marcia Purnell	name=Sheila Shaw	episodes=1 episode, 2000 	
+character=Koko	name=Jim Hanna	episodes=1 episode, 2000 	
+character=Manager	name=Jim Hanna	episodes=1 episode, 2000 	
+character=Al Cawdry	name=Lee Duncan	episodes=1 episode, 2000 	
+character=EMT	name=Stevie Johnson	episodes=1 episode, 2000 	
+character=Deputy	name=Bryan Rasmussen	episodes=1 episode, 2000 	
+character=Sheriff	name=Bryan Rasmussen	episodes=1 episode, 2000 	
+character=Deputy	name=Ed Beechner	episodes=1 episode, 2000 	
+character=Waitress	name=Irene Muzzy	episodes=1 episode, 2000 	
+character=Zombie	name=Tim Roe	episodes=1 episode, 2000 	
+character=Security Guard	name=Michael Sidney	episodes=1 episode, 2000 	
+character=Uniform Cop	name=Dan Rice	episodes=1 episode, 2000 	
+character=Officer 	name=James Franco	episodes=1 episode, 2001 	
+character=Kath McCready	name=Megan Follows	episodes=1 episode, 2001 	
+character=Dr. Herb Fountain	name=Erick Avari	episodes=1 episode, 2001 	
+character=Deputy Chief Karras	name=Ken Jenkins	episodes=1 episode, 2001 	
+character=Dr. Desai	name=Bernard White	episodes=1 episode, 2001 	
+character=Roberta Toews	name=Dayna Beilenson	episodes=1 episode, 2001 	
+character=Officer Custer	name=Lou Richards	episodes=1 episode, 2001 	
+character=Marie Hangemuhl	name=Natalie Radford	episodes=1 episode, 2001 	
+character=Mother	name=Maura Soden	episodes=1 episode, 2001 	
+character=Trevor	name=Maura Soden	episodes=1 episode, 2001 	
+character=SWAT Cop	name=Randy Walker	episodes=1 episode, 2001 	
+character=Pathology Assistant	name=Lisa Kaseman	episodes=1 episode, 2001 	
+character=Special Agent Kallenbrunner	name=Matthew Glave	episodes=1 episode, 2002 	
+character=Lois Runce	name=Zuleikha Robinson	episodes=1 episode, 2002 	
+character=Victor Dale Potts	name=David Figlioli	episodes=1 episode, 2002 	
+character=Mom	name=Carol Kiernan	episodes=1 episode, 2002 	
+character=Mariano Molina	name=Eduardo Antonio Garcia	episodes=1 episode, 2002 	
+character=Old Italian Man	name=Benito Prezia	episodes=1 episode, 2002 	
+character=Mrs. Barreiro	name=Esther Mercado	episodes=1 episode, 2002 	
+character=Woman	name=Kate Lombardi	episodes=1 episode, 2002 	
+character=Shiraz	name=Artin John	episodes=1 episode, 2016 	
+character=Forensic Technician	name=Gary Sekhon	episodes=1 episode, 2016 	
+character=Kayla	name=Genevieve Buechner	episodes=1 episode, 2018 	
+character=Peter Wong	name=François Chau	episodes=1 episode, 2018 	
+character=Emily Strong	name=Emma Oliver	episodes=1 episode, 2018 	
+character=Sergeant	name=Jeremy Jones	episodes=1 episode, 2018 	
+character=Guard	name=Thabo Ketshabetswe	episodes=1 episode, 2018 	
+character=Mom	name=Susan Wright	episodes=1 episode, 2018 	
+character=Reggie	name=Susan Wright	episodes=1 episode, 2018 	
+character=Ruby Morris	name=Taunya Dee	episodes=1 episode, 1993 	
+character=Jimmie	name=Christopher Gray	episodes=1 episode, 1993 	
+character=Databank Scientist	name=Tyronne L	episodes=1 episode, 1993 	
+character=Databank Scientist	name=Hirondelle	episodes=1 episode, 1993 	
+character=Kramer	name=Rob Morton	episodes=1 episode, 1993 	
+character=Mrs. Wright	name=Freda Perry	episodes=1 episode, 1993 	
+character=Clyde	name=Theodore Thomas	episodes=1 episode, 1993 	
+character=Donna Watkins	name=Tina Gilbertson	episodes=1 episode, 1993 	
+character=Reporter	name=Brenda Crichlow	episodes=1 episode, 1994 	
+character=Lillian Daniels	name=Iris Quinn	episodes=1 episode, 1994 	
+character=David Yung	name=Richard Yee	episodes=1 episode, 1994 	
+character=Dr. Charyn	name=Anna Hagan	episodes=1 episode, 1994 	
+character=Detective Rudy Barbala	name=Dwight Koss	episodes=1 episode, 1994 	
+character=Russian Engineer	name=Dmitri S. Boudrine	episodes=1 episode, 1994 	
+character=Christine Ranford	name=Gillian Carfra	episodes=1 episode, 1994 	
+character=Pretty Woman	name=Aundrea MacDonald	episodes=1 episode, 1994 	
+character=Reporter	name=Jaylene Hamilton	episodes=1 episode, 1994 	
+character=Nurse	name=Kathrynn Chisholm	episodes=1 episode, 1994 	
+character=Steve	name=John Tench	episodes=1 episode, 1995 	
+character=Paramedic	name=Robert Underwood	episodes=1 episode, 1995 	
+character=Reverend	name=Alvin Law	episodes=1 episode, 1995 	
+character=Young Husband	name=David MacKay	episodes=1 episode, 1995 	
+character=Mrs. Tynes	name=Nicole Robert	episodes=1 episode, 1995 	
+character=Jerry Thomas	name=Franky Czinege	episodes=1 episode, 1995 	
+character=Trucker	name=Tom Glass	episodes=1 episode, 1995 	
+character=Mrs. Callahan	name=Andrea Barclay	episodes=1 episode, 1995 	
+character=Caitlin Ross	name=Carly McKillip	episodes=1 episode, 1996 	
+character=Stress Man	name=David Bloom	episodes=1 episode, 1996 	
+character=Boyfriend	name=Scott Heindl	episodes=1 episode, 1996 	
+character=Medic	name=Russell Ferrier	episodes=1 episode, 1996 	
+character=Flight Attendant	name=Maxine Guess	episodes=1 episode, 1996 	
+character=Dr. Wu	name=Diana Ha	episodes=1 episode, 1996 	
+character=Minister	name=Ryk Brown	episodes=1 episode, 1996 	
+character=Rick Culver	name=Michael Kopsa	episodes=1 episode, 1997 	
+character=Old Man Pollidori	name=Lloyd Berry	episodes=1 episode, 1997 	
+character=Marty Fox	name=Simon Longmore	episodes=1 episode, 1997 	
+character=Desk Clerk	name=Patricia Idlette	episodes=1 episode, 1997 	
+character=Housekeeper	name=Rebecca Harker	episodes=1 episode, 1997 	
+character=Assistant Director P. Bart	name=Arthur Taxier	episodes=1 episode, 1998 	
+character=EMT	name=Timothy Dale Agee	episodes=1 episode, 1998 	
+character=British Crewman	name=Nick Meaney	episodes=1 episode, 1998 	
+character=Pathologist Vicki Belon	name=Lorraine Landry	episodes=1 episode, 1998 	
+character=Sexy Woman	name=Veronika Stocker	episodes=1 episode, 1998 	
+character=Telemarketer	name=Robert Luft	episodes=1 episode, 1998 	
+character=Ted	name=Paul Willson	episodes=1 episode, 1999 	
+character=Driver	name=Abdoulaye NGom	episodes=1 episode, 1999 	
+character=Nancy Kline	name=Juliana Donald	episodes=1 episode, 1999 	
+character=Motivational Speaker	name=Kevin Porter	episodes=1 episode, 1999 	
+character=Female Coroner	name=Monnae Michaell	episodes=1 episode, 1999 	
+character=Yee	name=Dana Lee	episodes=1 episode, 1999 	
+character=Native American Nurse	name=Sheila Tousey	episodes=1 episode, 1999 	
+character=Roadblock Officer	name=Allen Cutler	episodes=1 episode, 1999 	
+character=Maurice	name=Ernie Lee Banks	episodes=1 episode, 1999 	
+character=Nurse	name=Rachel Winfree	episodes=1 episode, 1999 	
+character=Man	name=Brian Johnson	episodes=1 episode, 1999 	
+character=Lieutenant Kraskow	name=Mik Scriba	episodes=1 episode, 1999 	
+character=Mr. Ginsberg	name=James Staszkiel	episodes=1 episode, 1999 	
+character=Security Guard	name=Jerry Giles	episodes=1 episode, 1999 	
+character=Second Young Agent	name=Lyon Reese	episodes=1 episode, 1999 	
+character=Forensic Tech	name=Dan Klass	episodes=1 episode, 1999 	
+character=Andre Bormanis	name=Grant Heslov	episodes=1 episode, 2000 	
+character=Chantara Gomez	name=María Celedonio	episodes=1 episode, 2000 	
+character=Moxie	name=Ryan Todd	episodes=1 episode, 2000 	
+character=Tall George	name=Gary Bullock	episodes=1 episode, 2000 	
+character=District Attorney Carter	name=Cynthia Martells	episodes=1 episode, 2000 	
+character=Female Employee	name=Sherri Howard	episodes=1 episode, 2000 	
+character=Healer	name=Scott Vance	episodes=1 episode, 2000 	
+character=Joan Scobie	name=Pat Destro	episodes=1 episode, 2000 	
+character=Sheriff Sanchez	name=Barry Cullison	episodes=1 episode, 2000 	
+character=Middle Aged Woman	name=Phyllis Franklin	episodes=1 episode, 2000 	
+character=Records Clerk	name=Matthew Sutherland	episodes=1 episode, 2000 	
+character=Sugar Bear	name=Barry K. Thomas	episodes=1 episode, 2000 	
+character=Jason McPeck	name=Cory Parravano	episodes=1 episode, 2000 	
+character=Customer 	name=Nicole Bush	episodes=1 episode, 2000 	
+character=U.S. Marshal	name=Eric Buker	episodes=1 episode, 2000 	
+character=Gangbanger 	name=Noel Gugliemi	episodes=1 episode, 2001 	
+character=Sheriff Kurt Frey	name=Michael McGrady	episodes=1 episode, 2001 	
+character=The Captain	name=Ryan Cutrona	episodes=1 episode, 2001 	
+character=E.R. Nurse	name=Cheryl Francis Harrington	episodes=1 episode, 2001 	
+character=Camera Dude	name=Aeryk Egan	episodes=1 episode, 2001 	
+character=Kid	name=Chris Graves	episodes=1 episode, 2001 	
+character=Owen Harris	name=Kenneth Meseroll	episodes=1 episode, 2001 	
+character=Simon de la Cruz	name=Luis Villalta	episodes=1 episode, 2001 	
+character=Cop	name=F.J. Rio	episodes=1 episode, 2002 	
+character=ER Physician	name=David Fabrizio	episodes=1 episode, 2002 	
+character=Mrs. Dowdy	name=Mary Margaret Lewis	episodes=1 episode, 2002 	
+character=Cadet 	name=Kipp Shiotani	episodes=1 episode, 2002 	
+character=Amy	name=Allessandro Stolz	episodes=1 episode, 2002 	
+character=Amy	name=Amy D	episodes=1 episode, 2002 	
+character=ER Nurse	name=Cynthena Sanders	episodes=1 episode, 2002 	
+character=Orderly	name=Damon Kaylor	episodes=1 episode, 2002 	
+character=Agnes	name=Kacey Rohl	episodes=1 episode, 2016 	
+character=Jack Budd	name=Sachin Sahel	episodes=1 episode, 2016 	
+character=Noora	name=Nina Nayebi	episodes=1 episode, 2016 	
+character=Truck Driver	name=Virgil Davies	episodes=1 episode, 2016 	
+character=FBI Agent 	name=Antonio Cayonne	episodes=1 episode, 2018 	
+character=Father Hardy	name=Cameron McDonald	episodes=1 episode, 2018 	
+character=First Dude	name=Rhett Spencer	episodes=1 episode, 2018 	
+character=Jane Morris	name=Nora McLellan	episodes=1 episode, 1993 	
+character=Mom	name=Jayme Knox	episodes=1 episode, 1993 	
+character=Kissell	name=Vince Metcalfe	episodes=1 episode, 1993 	
+character=Ms. Wells	name=Christine Upright-Letain	episodes=1 episode, 1993 	
+character=Mr. Thomas Werner	name=Paul Joyce	episodes=1 episode, 1993 	
+character=Paramedic	name=Paul DesRoches	episodes=1 episode, 1993 	
+character=Rick Mazeroski	name=Cameron Labine	episodes=1 episode, 1994 	
+character=Husband	name=John R. Taylor	episodes=1 episode, 1994 	
+character=Uniformed Cop	name=Mike Mitchell	episodes=1 episode, 1994 	
+character=Paramedic	name=Randy Lee	episodes=1 episode, 1994 	
+character=Young Child	name=Courtney Arciaga	episodes=1 episode, 1994 	
+character=Bus Driver	name=William Mackenzie	episodes=1 episode, 1994 	
+character=Andrea	name=Laura Harris	episodes=1 episode, 1995 	
+character=Kenneth 	name=Bernie Coulson	episodes=1 episode, 1995 	
+character=The Thinker	name=Bernie Coulson	episodes=1 episode, 1995 	
+character=Soona	name=Bernie Coulson	episodes=1 episode, 1995 	
+character=Lottie Holloway	name=Corrine Koslo	episodes=1 episode, 1995 	
+character=Young Woman	name=Maggie Blue O	episodes=1 episode, 1995 	
+character=Young Woman	name=Hara	episodes=1 episode, 1995 	
+character=Photographer	name=Greg Anderson	episodes=1 episode, 1995 	
+character=Key Guard	name=Denny Arnold	episodes=1 episode, 1995 	
+character=Fast Food Supervisor	name=Dolly Scarr	episodes=1 episode, 1995 	
+character=Judy Fairly	name=Stacy Grant	episodes=1 episode, 1996 	
+character=Large Man	name=Stephen Chang	episodes=1 episode, 1996 	
+character=Catcher	name=Neil Denis	episodes=1 episode, 1996 	
+character=Blaine Faulkner	name=Allan Zinyk	episodes=1 episode, 1996 	
+character=Young Man	name=Jeremy Radick	episodes=1 episode, 1996 	
+character=Bus Driver	name=Bill Mackenzie	episodes=1 episode, 1996 	
+character=Elizabeth Pollidori	name=Miriam Smith	episodes=1 episode, 1997 	
+character=Barber	name=Marcus Hondro	episodes=1 episode, 1997 	
+character=Jane Brody	name=Lisa Stewart	episodes=1 episode, 1997 	
+character=Ken Hawryliw	name=Kenneth H. Hawryliw	episodes=1 episode, 1997 	
+character=Dr. Kevin Scanlon	name=Sean Allen	episodes=1 episode, 1997 	
+character=Young Mrs. Mulder	name=Shelley Adam	episodes=1 episode, 1997 	
+character=Hasidic Man	name=Murrey Rabinovitch	episodes=1 episode, 1997 	
+character=Attendant	name=Ted White	episodes=1 episode, 1998 	
+character=Third Nazi	name=Kai Wulff	episodes=1 episode, 1998 	
+character=Dr. Floyd Fazio	name=Ron Halder	episodes=1 episode, 1998 	
+character=Second Cop	name=Dalias Blake	episodes=1 episode, 1998 	
+character=Trooper 	name=Mark Craig	episodes=1 episode, 1998 	
+character=Reporter	name=Jill Krop	episodes=1 episode, 1998 	
+character=Second Carpool Man	name=Alan Henry Brown	episodes=1 episode, 1998 	
+character=Four-Faced Man	name=Tracy Elofson	episodes=1 episode, 1998 	
+character=Paramedic	name=Steve Griffith	episodes=1 episode, 1998 	
+character=Nurse	name=Octavia Spencer	episodes=1 episode, 1999 	
+character=Project Doctor	name=Brian George	episodes=1 episode, 1999 	
+character=Desk Sergeant	name=Javier Grajeda	episodes=1 episode, 1999 	
+character=Big Fritz	name=Brian Reddy	episodes=1 episode, 1999 	
+character=Stacey Muir	name=Lisa Picotte	episodes=1 episode, 1999 	
+character=Driver	name=Anthony Okungbowa	episodes=1 episode, 1999 	
+character=Barnes	name=Anthony Okungbowa	episodes=1 episode, 1999 	
+character=Radio Singer	name=Sally Stevens	episodes=1 episode, 1999 	
+character=Woman at O.A.	name=Susan Slome	episodes=1 episode, 1999 	
+character=Alien	name=Walter Phelan	episodes=1 episode, 1999 	
+character=Bo	name=Keith Brunsmann	episodes=1 episode, 1999 	
+character=Nurse	name=Karen Stone	episodes=1 episode, 1999 	
+character=Billy	name=Chris Fogleman	episodes=1 episode, 1999 	
+character=Mover	name=Mark Matthias	episodes=1 episode, 1999 	
+character=Driver	name=Susana Mercedes	episodes=1 episode, 1999 	
+character=Sharon Pearl	name=Maggie Baird	episodes=1 episode, 2000 	
+character=Med Student	name=Dylan Kussman	episodes=1 episode, 2000 	
+character=Tall Guard	name=Roger Hewlett	episodes=1 episode, 2000 	
+character=Dr. Libby Nance	name=Caryn West	episodes=1 episode, 2000 	
+character=Cameron McPeck	name=Michael Canavan	episodes=1 episode, 2000 	
+character=Customer 	name=Paul Kim Jr.	episodes=1 episode, 2000 	
+character=Soundman	name=John Michael Vaughn	episodes=1 episode, 2000 	
+character=Elderly Woman	name=Elyse Donalson	episodes=1 episode, 2000 	
+character=Detective Lacoeur	name=James Geralden	episodes=1 episode, 2000 	
+character=World Weary Dad	name=John Harnagel	episodes=1 episode, 2000 	
+character=Deputy	name=Dan Manning	episodes=1 episode, 2000 	
+character=Appearing Boy	name=Nicolas Stratton	episodes=1 episode, 2000 	
+character=Tina	name=Tina M. Ameduri	episodes=1 episode, 2000 	
+character=Young Boss	name=J. David	episodes=1 episode, 2000 	
+character=Young Officer	name=Ben Reed	episodes=1 episode, 2001 	
+character=Mia Dukes	name=Amanda Fein	episodes=1 episode, 2001 	
+character=Delivery Nurse	name=Diana Castle	episodes=1 episode, 2001 	
+character=Gangbanger 	name=Greg Boniface	episodes=1 episode, 2001 	
+character=Forensic Tech	name=Rueben Grundy	episodes=1 episode, 2001 	
+character=Kid	name=Kevin Graves	episodes=1 episode, 2001 	
+character=Mr. Potocki	name=Calvin Remsberg	episodes=1 episode, 2001 	
+character=Paul Hangemuhl	name=Justin Williams	episodes=1 episode, 2001 	
+character=Chef	name=Kevin Loomis	episodes=1 episode, 2001 	
+character=Owen Harris	name=Reece Morgan	episodes=1 episode, 2001 	
+character=Little Boy	name=Reece Morgan	episodes=1 episode, 2001 	
+character=Owen	name=Colleen Quinn	episodes=1 episode, 2001 	
+character=Wife	name=Colleen Quinn	episodes=1 episode, 2001 	
+character=Howard Salt	name=Gary Bristow	episodes=1 episode, 2001 	
+character=John Gillnitz	name=Marcus Giamatti	episodes=1 episode, 2002 	
+character=Barreiro	name=Joe Nieves	episodes=1 episode, 2002 	
+character=Son	name=Joe Nieves	episodes=1 episode, 2002 	
+character=Dad	name=Michael Patterson	episodes=1 episode, 2002 	
+character=ER Nurse	name=Dallas Munroe	episodes=1 episode, 2002 	
+character=Anthony Fogelman	name=Eric Don	episodes=1 episode, 2002 	
+character=O.R. Surgeon	name=Shekhar Paleja	episodes=1 episode, 2015 	
+character=Mad Dog	name=Garry Chalk	episodes=1 episode, 2016 	
+character=Accosting Man	name=Mik Byskov	episodes=1 episode, 2016 	
+character=Dr. Sanjay	name=Christopher Logan	episodes=1 episode, 2016 	
+character=Naked Lair Victim	name=Jade Pawluk	episodes=1 episode, 2016 	
+character=Receptionist	name=Kathryn Kirkpatrick	episodes=1 episode, 2018 	
+character=Hillbilly Ed	name=Robert Mann	episodes=1 episode, 2018 	
+character=Female Paramedic	name=Arghavan Jenati	episodes=1 episode, 2018 	
+character=Agent Bill Bludworth	name=Albert Nicholas	episodes=1 episode, 2018 	
+character=FBI Agent 	name=Wolsey Brooks	episodes=1 episode, 2018 	
+character=Melvin Peter	name=Ken Godmere	episodes=1 episode, 2018 	
+character=Dr. Harris	name=Cameron Forbes	episodes=1 episode, 2018 	
+character=Ms. Winn	name=Anna Ferguson	episodes=1 episode, 1993 	
+character=First Officer	name=Scott Swanson	episodes=1 episode, 1993 	
+character=M.E. Worker	name=Glen Roald	episodes=1 episode, 1993 	
+character=Clerk	name=Tosca Baggoo	episodes=1 episode, 1994 	
+character=Older John Barnett	name=David Petersen	episodes=1 episode, 1994 	
+character=Leo Kreutzer	name=Ernie Prentice	episodes=1 episode, 1994 	
+character=Young Samuel	name=Alex Doduk	episodes=1 episode, 1994 	
+character=The Father	name=Gustavo Moreno	episodes=1 episode, 1994 	
+character=Mrs. Adams	name=Diana Stevan	episodes=1 episode, 1994 	
+character=Tall Man	name=Grai Carrington	episodes=1 episode, 1994 	
+character=Dr. Pamela Karetzky	name=Mikal Dughi	episodes=1 episode, 1994 	
+character=Clean Cut Man	name=Alexander Boynton	episodes=1 episode, 1994 	
+character=E.R. Doctor	name=Len Rose	episodes=1 episode, 1994 	
+character=Diane	name=Lori Triolo	episodes=1 episode, 1995 	
+character=Bobby Torrence	name=Kim Kondrashoff	episodes=1 episode, 1995 	
+character=Scott Simmons	name=Russell Porter	episodes=1 episode, 1996 	
+character=Customer 	name=Sean Allan	episodes=1 episode, 1996 	
+character=Wiry Man	name=Paul Wong	episodes=1 episode, 1996 	
+character=Batter	name=Cory Fry	episodes=1 episode, 1996 	
+character=Lt. Madsen	name=Shea	episodes=1 episode, 1996 	
+character=Lt. Madsen	name=Michael O	episodes=1 episode, 1996 	
+character=CIA Man	name=Andrew Turner	episodes=1 episode, 1996 	
+character=Waitress	name=Xantha Radley	episodes=1 episode, 1997 	
+character=Woman	name=Julie Bond	episodes=1 episode, 1997 	
+character=Female Private	name=Jennifer Jasey	episodes=1 episode, 1997 	
+character=Dr. Zuckerman	name=Robert Wright	episodes=1 episode, 1997 	
+character=Rabbi	name=David Freedman	episodes=1 episode, 1997 	
+character=Village Woman	name=Janeth Muniz	episodes=1 episode, 1997 	
+character=Trooper 	name=Wiley M. Pickett	episodes=1 episode, 1998 	
+character=Paramedic	name=Ted Cole	episodes=1 episode, 1998 	
+character=Shopper	name=Elizabeth McCarthy Meek	episodes=1 episode, 1998 	
+character=Trace Agent	name=Michelle Hart	episodes=1 episode, 1998 	
+character=Black Haired Man	name=Scott Eberlein	episodes=1 episode, 1998 	
+character=Teacher	name=Christine Anton	episodes=1 episode, 1998 	
+character=Goatee Man	name=Armin Moattar	episodes=1 episode, 1998 	
+character=Second Agent	name=Romy Walthall	episodes=1 episode, 1999 	
+character=Little Fritz	name=Phil Abrams	episodes=1 episode, 1999 	
+character=Whaley	name=Lamont Johnson	episodes=1 episode, 1999 	
+character=Detective	name=Chet Grissom	episodes=1 episode, 1999 	
+character=NYPD Detective	name=Barry Wiggins	episodes=1 episode, 1999 	
+character=Megan McLean	name=Dominique DiPrima	episodes=1 episode, 1999 	
+character=Doctor	name=James Newman	episodes=1 episode, 1999 	
+character=Young Surgeon	name=Tim Van Pelt	episodes=1 episode, 1999 	
+character=Black Kid	name=Gabriel Clifton	episodes=1 episode, 1999 	
+character=Cesar Ocampo	name=Danny Trejo	episodes=1 episode, 2000 	
+character=Josh Underwood	name=Colton James	episodes=1 episode, 2000 	
+character=Irene McPeck	name=Jacqueline Schultz	episodes=1 episode, 2000 	
+character=Courier Guard	name=Steven Barr	episodes=1 episode, 2000 	
+character=Young Samantha	name=Mimi Paley	episodes=1 episode, 2000-2002 	
+character=James Leeds	name=Kevin McClatchy	episodes=1 episode, 2000 	
+character=Guard	name=Marie Chambers	episodes=1 episode, 2000 	
+character=Radiology Tech	name=Aaron Braxton	episodes=1 episode, 2000 	
+character=Director	name=Bill Millar	episodes=1 episode, 2000 	
+character=Dr. Jim Scobie	name=Rick Deats	episodes=1 episode, 2000 	
+character=Holy Spirit Woman 	name=Donna May	episodes=1 episode, 2000 	
+character=Customer 	name=John Mack	episodes=1 episode, 2000 	
+character=Security Guard	name=John Marrott	episodes=1 episode, 2000 	
+character=Cameraman	name=Daniel Emmett	episodes=1 episode, 2000 	
+character=Ed Dell	name=Steve Wilcox	episodes=1 episode, 2001 	
+character=Mia Dukes	name=Caitlin Fein	episodes=1 episode, 2001 	
+character=Dr. James Langenhahn	name=Austin Tichenor	episodes=1 episode, 2001 	
+character=Arthur Gaffin	name=Gibby Brand	episodes=1 episode, 2001 	
+character=Woman	name=Mary Kathleen Gordon	episodes=1 episode, 2001 	
+character=Police Photographer	name=Shane Nickerson	episodes=1 episode, 2001 	
+character=Lead Guard	name=Joe Basile	episodes=1 episode, 2001 	
+character=Roland McFarland	name=John Casino	episodes=1 episode, 2001 	
+character=Red-Headed Kid	name=Jacob Franchek	episodes=1 episode, 2001 	
+character=Second Nurse	name=Elizabeth Cheap	episodes=1 episode, 2001 	
+character=Uniformed Cop	name=John McGonegle	episodes=1 episode, 2001 	
+character=Medical Examiner	name=John Prosky	episodes=1 episode, 2002 	
+character=Carol Brady	name=Robbie Troy	episodes=1 episode, 2002 	
+character=Teenage Girl	name=Kelly McNair	episodes=1 episode, 2002 	
+character=Daughter	name=Ana Maria Lagasca	episodes=1 episode, 2002 	
+character=Barreiro	name=Ana Maria Lagasca	episodes=1 episode, 2002 	
+character=Older Social Worker	name=Annie Abbott	episodes=1 episode, 2002 	
+character=Luke Doggett	name=Zachary Handy	episodes=1 episode, 2002 	
+character=Pizza Guy	name=Nick DeMarinis	episodes=1 episode, 2002 	
+character=Angry Woman	name=Marci T. House	episodes=1 episode, 2016 	
+character=Rogers	name=Omari Newton	episodes=1 episode, 2016 	
+character=Man in Suit	name=Darren Dolynski	episodes=1 episode, 2016 	
+character=Nurse Taillie	name=Jannen Karr	episodes=1 episode, 2016 	
+character=Dr. Aliyeh Scholz	name=Sunita Prasad	episodes=1 episode, 2018 	
+character=Judge	name=Kwesi Ameyaw	episodes=1 episode, 2018 	
+character=Henchman 	name=Ryan Hesp	episodes=1 episode, 2018 	
+character=Male Paramedic	name=Harry Han	episodes=1 episode, 2018 	
+character=Vietnamese Boy	name=Zachary Choe	episodes=1 episode, 2018 	
+character=Cathedral Priest	name=Angus Stuart	episodes=1 episode, 2018 	
+character=Second Officer	name=Sean O	episodes=1 episode, 1993 	
+character=Second Officer	name=Byrne	episodes=1 episode, 1993 	
+character=Laura Dalton	name=Jane MacDougall	episodes=1 episode, 1993 	
+character=Lead Officer	name=Brian Furlong	episodes=1 episode, 1993 	
+character=Coroner	name=Mauricio Mercado	episodes=1 episode, 1993 	
+character=Dr. Jacobs	name=John Tierney	episodes=1 episode, 1994 	
+character=Computer Tekkie	name=Robin Douglas	episodes=1 episode, 1994 	
+character=Officer Daniels	name=Russ Hamilton	episodes=1 episode, 1994 	
+character=Pitcher	name=Douglas Smith	episodes=1 episode, 1996 	
+character=Waitress	name=Rochelle Greenwood	episodes=1 episode, 1996 	
+character=County Coroner	name=Andre Danyliu	episodes=1 episode, 1996 	
+character=Lead Swat Cop	name=Darren Lucas	episodes=1 episode, 1996 	
+character=Huge Man	name=C. Ernst Harth	episodes=1 episode, 1997 	
+character=Maria Dorantes	name=Pamela Diaz	episodes=1 episode, 1997 	
+character=Photo Technician	name=Christopher Newton	episodes=1 episode, 1997 	
+character=Young Mulder	name=Alex Haythorne	episodes=1 episode, 1997 	
+character=Assistant Director J. Maslin	name=Wendie Malick	episodes=1 episode, 1998 	
+character=Gas Station Attendant	name=Ken Collins	episodes=1 episode, 1998 	
+character=Cameraman	name=Grant Gladish	episodes=1 episode, 1998 	
+character=Co-Pilot	name=Eddie Jackson	episodes=1 episode, 1998 	
+character=Clerk	name=Tracy Lively	episodes=1 episode, 1998 	
+character=Ump	name=Al Kaplon	episodes=1 episode, 1999 	
+character=Intern	name=Keith Coulouris	episodes=1 episode, 1999 	
+character=Peggy	name=Treva Tegtmeier	episodes=1 episode, 1999 	
+character=Bearded Man	name=Fritz Greve	episodes=1 episode, 1999 	
+character=First Agent	name=Stephen Ramsey	episodes=1 episode, 1999 	
+character=Al	name=Richard Zobel	episodes=1 episode, 1999 	
+character=Ambulance EMT	name=Don Fehmel	episodes=1 episode, 1999 	
+character=Paramedic	name=Bobby Moynahan	episodes=1 episode, 1999 	
+character=Anchorman	name=Cary Pfeffer	episodes=1 episode, 1999 	
+character=Lead Cop	name=Shane Sinutko	episodes=1 episode, 2000 	
+character=Driver	name=Adam Vernier	episodes=1 episode, 2000 	
+character=Friend	name=Leslie S. Sachs	episodes=1 episode, 2000 	
+character=Lisa	name=Leslie S. Sachs	episodes=1 episode, 2000 	
+character=Crackhead	name=Frankie Ray	episodes=1 episode, 2000 	
+character=Security Man	name=David Sawyer	episodes=1 episode, 2000 	
+character=Angus Stedman	name=Lawrence LeJohn	episodes=1 episode, 2000 	
+character=Detective 	name=Fort Atkinson	episodes=1 episode, 2000 	
+character=News Anchor 	name=John Bisom	episodes=1 episode, 2000 	
+character=Darryl Musashi	name=Christopher Ng	episodes=1 episode, 2000 	
+character=Guard	name=Thomas Roe	episodes=1 episode, 2000 	
+character=Prison Trustee	name=Ric Sarabia	episodes=1 episode, 2001 	
+character=ICU Nurse	name=Jennifer Hammon	episodes=1 episode, 2001 	
+character=Pathology Assistant	name=Larry Dorf	episodes=1 episode, 2001 	
+character=Guard	name=Elijah Mahar	episodes=1 episode, 2001 	
+character=Night Nurse	name=Roz Witt	episodes=1 episode, 2001 	
+character=News Anchor	name=Jane Yamamoto	episodes=1 episode, 2001 	
+character=Double	name=Jack Forbes	episodes=1 episode, 2001 	
+character=Ray	name=Jack Forbes	episodes=1 episode, 2001 	
+character=Pathology Assistant	name=Thomas R. Martin	episodes=1 episode, 2001 	
+character=Teacher	name=Mimi Savage	episodes=1 episode, 2001 	
+character=Hockey Announcer	name=Rich Marotta	episodes=1 episode, 2001 	
+character=Agent Terry Sullivan	name=James Parks	episodes=1 episode, 2002 	
+character=Nurse	name=Kerrie Keane	episodes=1 episode, 2002 	
+character=Guard	name=Aaron D. Spears	episodes=1 episode, 2002 	
+character=Pretty Blonde	name=Shannon Maureen Brown	episodes=1 episode, 2002 	
+character=Younger Social Worker	name=Kiersten Van Horne	episodes=1 episode, 2002 	
+character=Luke Doggett	name=Jacob Handy	episodes=1 episode, 2002 	
+character=Mike Brady	name=Keith Forster	episodes=1 episode, 2002 	
+character=Squad Leader	name=Nneka Croal	episodes=1 episode, 2015 	
+character=Dr. Hill	name=Nikolai Witschl	episodes=1 episode, 2016 	
+character=Fitzpatrick	name=Seth Whittaker	episodes=1 episode, 2016 	
+character=Agent Colquitt	name=Aidan Kahn	episodes=1 episode, 2018 	
+character=Nurse	name=Nia Cummins	episodes=1 episode, 2018 	
+character=Henchman 	name=Shane Dean	episodes=1 episode, 2018 	
+character=Other Marine	name=Shane Symons	episodes=1 episode, 2018 	
+character=Mr. McLennen	name=Doc Harris	episodes=1 episode, 1993 	
+character=Prosecution Counsel Myers	name=Steve Adams	episodes=1 episode, 1994 	
+character=Officer	name=Brian Knox McGugan	episodes=1 episode, 1994 	
+character=Dr. Saul Grissom	name=Claude De Martino	episodes=1 episode, 1994 	
+character=Guard	name=David Livingstone	episodes=1 episode, 1994 	
+character=Agent Janus	name=Prince Maryland	episodes=1 episode, 1994 	
+character=Dr. Robert Torrence	name=Bill Rowat	episodes=1 episode, 1995 	
+character=Nurse	name=Pamela MacDonald	episodes=1 episode, 1996 	
+character=Dr. Hand	name=Mina E. Mina	episodes=1 episode, 1996 	
+character=Paramedic	name=Cam Cronin	episodes=1 episode, 1996 	
+character=Orderly	name=Wren Roberts	episodes=1 episode, 1996 	
+character=Engineer 	name=Joel Silverstone	episodes=1 episode, 1996 	
+character=Jerry Springer	name=Jerry Springer	episodes=1 episode, 1997 	
+character=Young Melissa Scully - 1976	name=Rebecca Codling	episodes=1 episode, 1997 	
+character=Pfc. Gus Burkholder	name=Don McWilliams	episodes=1 episode, 1997 	
+character=Migrant Worker	name=Fabricio Santin	episodes=1 episode, 1997 	
+character=Second Cop	name=Richard Leacock	episodes=1 episode, 1998 	
+character=Navy Lieutenant	name=Tegan West	episodes=1 episode, 1998 	
+character=Bartender	name=Cory Dagg	episodes=1 episode, 1998 	
+character=Customer	name=Sean Benbow	episodes=1 episode, 1998 	
+character=Truck Driver	name=Dell Yount	episodes=1 episode, 1999 	
+character=Redhead Geek	name=Jeff Bowser	episodes=1 episode, 1999 	
+character=Pick-up Player	name=Damon Saleem	episodes=1 episode, 1999 	
+character=Macon Cop	name=Robb Reesman	episodes=1 episode, 1999 	
+character=Young Cop	name=Eulan Middlebrooks	episodes=1 episode, 1999 	
+character=Nurse	name=Adrienne Wilde	episodes=1 episode, 1999 	
+character=Paramedic	name=Anthony Anselmi	episodes=1 episode, 1999 	
+character=Newscaster	name=Terri Merryman	episodes=1 episode, 1999 	
+character=Greta	name=Gretchen Becker	episodes=1 episode, 2000 	
+character=Reporter 	name=Mark Thompson	episodes=1 episode, 2000 	
+character=Apartment Manager	name=Tom Bailey	episodes=1 episode, 2000 	
+character=Principal	name=Steve Stapenhorst	episodes=1 episode, 2000 	
+character=Second Windbreaker Man	name=Greg Poland	episodes=1 episode, 2000 	
+character=Homeless Man	name=Wayne King Sr.	episodes=1 episode, 2000 	
+character=Homicide Detective	name=James Howell	episodes=1 episode, 2000 	
+character=News Anchor 	name=Nancy Tiballi	episodes=1 episode, 2000 	
+character=Detective 	name=Jeff Xander	episodes=1 episode, 2000 	
+character=Sketch Artist	name=Solomon Eversole	episodes=1 episode, 2000 	
+character=Game Warden	name=Dale Dickey	episodes=1 episode, 2001 	
+character=Bellboy	name=Winston Story	episodes=1 episode, 2001 	
+character=Dr. Francis Orovetz	name=Richard McGonagle	episodes=1 episode, 2001 	
+character=Pizza Delivery Man	name=Devlin Elliott	episodes=1 episode, 2001 	
+character=First Associate	name=Karl T. Wright	episodes=1 episode, 2001 	
+character=Prison Armed Guard	name=Dwight Hicks	episodes=1 episode, 2001 	
+character=Nike Man	name=Randy Ross	episodes=1 episode, 2001 	
+character=Injured Soldier	name=Jamie McShane	episodes=1 episode, 2002 	
+character=ER Nurse	name=Dan Shor	episodes=1 episode, 2002 	
+character=Marine Sergeant McCormick	name=Bo Kane	episodes=1 episode, 2002 	
+character=Middle-Aged Man	name=Larry Udy	episodes=1 episode, 2002 	
+character=Alice	name=Marcie Lynn Ross	episodes=1 episode, 2002 	
+character=Leonard Southall	name=Michael Craven Wells	episodes=1 episode, 2002 	
+character=Cynthia	name=Alison Wandzura	episodes=1 episode, 2016 	
+character=Proudley	name=Daniel Jacobsen	episodes=1 episode, 2016 	
+character=Barista	name=Devon Alexander	episodes=1 episode, 2018 	
+character=Maddy	name=West Duchovny	episodes=1 episode, 2018 	
+character=Sitcom Joe	name=Jay Hindle	episodes=1 episode, 2018 	
+character=Quon	name=Johnson Phan	episodes=1 episode, 2018 	
+character=Bailiff	name=John Perrotta	episodes=1 episode, 2018 	
+character=Taber	name=John Harris	episodes=1 episode, 1994 	
+character=Brother Oakley	name=David Thomson	episodes=1 episode, 1994 	
+character=Kazuo Sakurai	name=Yasuo Sakurai	episodes=1 episode, 1995 	
+character=Nurse	name=Frances Flanagan	episodes=1 episode, 1996 	
+character=I.N.S. Worker	name=José Vargas	episodes=1 episode, 1997 	
+character=Young Dana Scully - 1968	name=Joey Shea	episodes=1 episode, 1997 	
+character=Medical Technician	name=Tanya Huse	episodes=1 episode, 1997 	
+character=Father	name=Jon Raitt	episodes=1 episode, 1997 	
+character=Randy	name=Mike Rad	episodes=1 episode, 1998 	
+character=Young Jeffrey Spender	name=Michal Suchánek	episodes=1 episode, 1998 	
+character=Nazi	name=Wolfgang Gerhard	episodes=1 episode, 1998 	
+character=Station Wagon Owner	name=Tom Haile	episodes=1 episode, 1998 	
+character=Old Edward Skur	name=Eric W. Gilder	episodes=1 episode, 1998 	
+character=FBI Agent	name=Valarie Pettiford	episodes=1 episode, 1999 	
+character=Sheriff	name=Michael Dempsey	episodes=1 episode, 1999 	
+character=Guard	name=Ed Corbin	episodes=1 episode, 1999 	
+character=Silk Shirt Man	name=Nasser Faris	episodes=1 episode, 1999 	
+character=Piney	name=Daniel Ducovny	episodes=1 episode, 1999 	
+character=Bald Geek	name=Jason Felipe	episodes=1 episode, 1999 	
+character=Yelling Man	name=Samuel Kwaku Minta	episodes=1 episode, 1999 	
+character=Agent	name=Dondré T. Whitfield	episodes=1 episode, 2000 	
+character=Deputy Ray Hoese	name=Darin Cooper	episodes=1 episode, 2000 	
+character=E.R. Doctor	name=Chris Jacobs	episodes=1 episode, 2000 	
+character=Missionary 	name=Cory Blevins	episodes=1 episode, 2000 	
+character=Reporter	name=Brien Blakely	episodes=1 episode, 2000 	
+character=Detective 	name=Norman Smith	episodes=1 episode, 2000 	
+character=Manager	name=Matthew T. Wilson	episodes=1 episode, 2000 	
+character=Kathy Lee	name=Dylan Stjepovic	episodes=1 episode, 2000 	
+character=Son	name=Dylan Stjepovic	episodes=1 episode, 2000 	
+character=Sheriff 	name=Cheryl Comstock	episodes=1 episode, 2000 	
+character=Navy Seal	name=Kevin E. West	episodes=1 episode, 2001 	
+character=Second Associate	name=Alexandra Margulies	episodes=1 episode, 2001 	
+character=Intercom Guard	name=Jonathan Murad	episodes=1 episode, 2001 	
+character=Woman Party-Goer	name=Karon Kearney	episodes=1 episode, 2001 	
+character=Father	name=Tony Adelman	episodes=1 episode, 2001 	
+character=Trevor	name=Tony Adelman	episodes=1 episode, 2001 	
+character=Marcia Brady	name=Danielle Savre	episodes=1 episode, 2002 	
+character=Brittany	name=Pamela Paulshock	episodes=1 episode, 2002 	
+character=Driver Agent	name=Joe Colligan	episodes=1 episode, 2002 	
+character=The Breather Photo Double	name=Jason Waters	episodes=1 episode, 2002 	
+character=Crackhead	name=Luis Robledo	episodes=1 episode, 2002 	
+character=Reporter 	name=Pamela Kay Davis	episodes=1 episode, 2002 	
+character=Soldier 	name=Brian Morri	episodes=1 episode, 2002 	
+character=Homeless Person 	name=James R. Baylis	episodes=1 episode, 2016 	
+character=Young CSM	name=Jeremy Schuetze	episodes=1 episode, 2018 	
+character=Technician	name=Garrett Black	episodes=1 episode, 2018 	
+character=Mr. Van De Kamp	name=Troy Anthony Young	episodes=1 episode, 2018 	
+character=James	name=Jovan Nenadic	episodes=1 episode, 2018 	
+character=Kitten	name=Jovan Nenadic	episodes=1 episode, 2018 	
+character=Old John 	name=Jovan Nenadic	episodes=1 episode, 2018 	
+character=Townsperson 	name=Philip Cabrita	episodes=1 episode, 2018 	
+character=Store Clerk	name=Tony Dean Smith	episodes=1 episode, 1997 	
+character=Young Billy Scully Jr. - 1968	name=Ryan DeBoer	episodes=1 episode, 1997 	
+character=Nevada News Anchor	name=Frank Buckley	episodes=1 episode, 1998 	
+character=Sandy	name=Rick Millikan	episodes=1 episode, 1998 	
+character=Nazi	name=Guido Föhrweißer	episodes=1 episode, 1998 	
+character=Kelly	name=Lisa Thompson	episodes=1 episode, 1998 	
+character=Guard	name=Freeman Michaels	episodes=1 episode, 1998 	
+character=Dr. Per Lagerqvist	name=Max Wyman	episodes=1 episode, 1998 	
+character=Head Surgeon	name=Robert Lipton	episodes=1 episode, 1999 	
+character=Uniformed Cop	name=Jonathan Fraser	episodes=1 episode, 1999 	
+character=Catcher	name=Chris Kohn	episodes=1 episode, 1999 	
+character=African Man	name=Ayo Adeyemi	episodes=1 episode, 1999 	
+character=Missionary 	name=Brien	episodes=1 episode, 2000 	
+character=Missionary 	name=John O	episodes=1 episode, 2000 	
+character=Sheriff 	name=Ron Gilbert	episodes=1 episode, 2000 	
+character=Bailiff	name=Derick Alexander	episodes=1 episode, 2000 	
+character=Nurse	name=Mary Ostrow	episodes=1 episode, 2000 	
+character=Payphone Woman	name=Veronica Brown	episodes=1 episode, 2001 	
+character=Baby	name=Jerry Shiban	episodes=1 episode, 2001-2016 	
+character=Scully	name=Jerry Shiban	episodes=1 episode, 2001-2016 	
+character=Customs Agent	name=Kiran Rao	episodes=1 episode, 2001 	
+character=Baby William	name=Ashley Knutson	episodes=1 episode, 2001 	
+character=Soldier 	name=Christian Svensson	episodes=1 episode, 2002 	
+character=Lawyer	name=Charlie Hartsock	episodes=1 episode, 2002 	
+character=First Man	name=Michael Edward Thomas	episodes=1 episode, 2002 	
+character=Passenger Agent	name=Brian Catalano	episodes=1 episode, 2002 	
+character=Greg Brady	name=Nick Campisano	episodes=1 episode, 2002 	
+character=Molly	name=Megan Peta Hill	episodes=1 episode, 2016 	
+character=Homeless Person 	name=Sam Bob	episodes=1 episode, 2016 	
+character=Mrs. Van De Kamp	name=Robyn Bradley	episodes=1 episode, 2018 	
+character=Gunner	name=Rob Fournier	episodes=1 episode, 2018 	
+character=Dr. Dave Rednon	name=Guy Fauchon	episodes=1 episode, 2018 	
+character=Townsperson 	name=Monique Durian	episodes=1 episode, 2018 	
+character=Newspaper Clerk	name=Kim Restell	episodes=1 episode, 1995 	
+character=Customer 	name=Dawn Stofer-Rupp	episodes=1 episode, 1996 	
+character=Nurse McKernan	name=Heather McCarthy	episodes=1 episode, 1996 	
+character=WWII Pilot	name=Robert F. Maier	episodes=1 episode, 1996 	
+character=Roughneck	name=Isaac C. Singleton Jr.	episodes=1 episode, 1998 	
+character=Workman	name=Wayne Thomas Yorke	episodes=1 episode, 1998 	
+character=Soldier	name=Greg Smith	episodes=1 episode, 1998 	
+character=Dr. Alepin	name=Barbara Dyke	episodes=1 episode, 1998 	
+character=Clinician 	name=Patrick J. Phillips	episodes=1 episode, 1998 	
+character=Idaho News Anchor	name=Bob Peters	episodes=1 episode, 1998 	
+character=White Coach	name=Ken Medlock	episodes=1 episode, 1999 	
+character=Second African Man	name=Benjamin A. Onyango	episodes=1 episode, 1999 	
+character=Bus Driver	name=Kalena Coleman	episodes=1 episode, 1999 	
+character=Exam Room Nurse	name=Julie Hubert	episodes=1 episode, 1999 	
+character=Toddler	name=Henry Schwartz	episodes=1 episode, 1999 	
+character=Trusty	name=Christopher Michael	episodes=1 episode, 2000 	
+character=Haley Wells	name=Kayla Henry	episodes=1 episode, 2000 	
+character=Gangbanger	name=Luis Rodriguez	episodes=1 episode, 2000 	
+character=Sheriff 	name=Diane Harris	episodes=1 episode, 2000 	
+character=Minister	name=David Doty	episodes=1 episode, 2001 	
+character=Baby William	name=Rikki Held	episodes=1 episode, 2001 	
+character=Distraught Woman	name=Louise Melilli	episodes=1 episode, 2001 	
+character=U-Haul Driver	name=Randy Hall	episodes=1 episode, 2002 	
+character=Big Security Guard	name=Robert Joseph	episodes=1 episode, 2002 	
+character=Operator	name=Lucy Rodriguez	episodes=1 episode, 2002 	
+character=Jan Brady	name=Stephanie Herrera	episodes=1 episode, 2002 	
+character=FBI Agent Guard	name=J. Alex Brinson	episodes=1 episode, 2016 	
+character=Detective Gordon	name=Craig March	episodes=1 episode, 2016 	
+character=Crewman	name=Trezzo Mahoro	episodes=1 episode, 2016 	
+character=Young Spender	name=Jett Klyne	episodes=1 episode, 2018 	
+character=Intern	name=Neil Corbett	episodes=1 episode, 2018 	
+character=D.O.D. Operative	name=Eddie Flake	episodes=1 episode, 2018 	
+character=Monster	name=Shawn Beaton	episodes=1 episode, 2018 	
+character=Female Attendant	name=Jodi Pongratz	episodes=1 episode, 2018 	
+character=Captain	name=Richard Sargent	episodes=1 episode, 1995 	
+character=Customer 	name=Fiona Roeske	episodes=1 episode, 1996 	
+character=Armed Man	name=Jeff Chivers	episodes=1 episode, 1996 	
+character=Clinician 	name=Paul Moniz de Sa	episodes=1 episode, 1998 	
+character=Vicky Crump	name=Janine Venable	episodes=1 episode, 1998 	
+character=Air Policeman	name=Jeffrey T. Unterkofler	episodes=1 episode, 1998 	
+character=Trainer	name=Mickey Knox	episodes=1 episode, 1999 	
+character=CDC Leader	name=Scott Williamson	episodes=1 episode, 1999 	
+character=Dream Boy	name=Andrew Cavarno	episodes=1 episode, 1999 	
+character=Beautiful Woman	name=Julie Griffith	episodes=1 episode, 1999 	
+character=Prison Guard	name=Peter Macdissi	episodes=1 episode, 2000 	
+character=Sheriff 	name=Boris Nikolof	episodes=1 episode, 2000 	
+character=Nurse	name=Mary Wickliffe	episodes=1 episode, 2001 	
+character=Baby William	name=Wyatt Smith	episodes=1 episode, 2001 	
+character=Baby William	name=Jaeger Rowdy Held	episodes=1 episode, 2001 	
+character=Speaker	name=Thomas Schnauz	episodes=1 episode, 2002 	
+character=Indian Boy	name=Cody Lightning	episodes=1 episode, 2002 	
+character=Peter Brady	name=Nolan Irwin	episodes=1 episode, 2002 	
+character=Bartender	name=Alfred De Contreras	episodes=1 episode, 2002 	
+character=Janitor 	name=Simon Chin	episodes=1 episode, 2016 	
+character=Osama Look Alike	name=Mo Saïd	episodes=1 episode, 2016 	
+character=Gas Attendant	name=Mackenzie Murdock	episodes=1 episode, 2018 	
+character=Calvin	name=Nick Heffelfinger	episodes=1 episode, 2018 	
+character=Young Mr. Y	name=Alexandre Campion	episodes=1 episode, 2018 	
+character=Tour Guide	name=Benita Ha	episodes=1 episode, 1995 	
+character=FBI Agent	name=David L. Gordon	episodes=1 episode, 1995 	
+character=Mate	name=Robert Beck	episodes=1 episode, 1998 	
+character=Surgeon	name=Ralph Meyering Jr.	episodes=1 episode, 1998 	
+character=M.P.	name=Derek Versteeg	episodes=1 episode, 1998 	
+character=Germ Suit Cop	name=Art Pickering	episodes=1 episode, 1998 	
+character=Dream Boy	name=Steven Cavarno	episodes=1 episode, 1999 	
+character=Moose	name=Kerric MacDonald	episodes=1 episode, 1999 	
+character=Nurse	name=Jo Jacob	episodes=1 episode, 1999 	
+character=Baby	name=Grace Demontesquiou	episodes=1 episode, 2000 	
+character=Sheriff 	name=Scott Arger	episodes=1 episode, 2000 	
+character=Deckhand	name=Larry Rippenkroeger	episodes=1 episode, 2001 	
+character=Cindy Brady	name=Sharayah Montgomery	episodes=1 episode, 2002 	
+character=Rebecca Gilligan	name=Amanda Burke	episodes=1 episode, 2016 	
+character=Young Muslim	name=Johnny Ghorbani	episodes=1 episode, 2016 	
+character=Slender Man	name=Anthony Moyer	episodes=1 episode, 2016 	
+character=BDU Team Leader	name=Rogan Christopher	episodes=1 episode, 2018 	
+character=Young Erika	name=Erica Govier	episodes=1 episode, 2018 	
+character=Minister	name=Ian Victor	episodes=1 episode, 1995 	
+character=Orderly	name=Benito Martinez	episodes=1 episode, 1998 	
+character=Young Mulder	name=Nick Lashaway	episodes=1 episode, 1998-2015 	
+character=Bald-Headed Man	name=Robert Arce	episodes=1 episode, 1998 	
+character=Young Boy	name=Jack Finn	episodes=1 episode, 1998 	
+character=Russian	name=Orest Blajkevitch	episodes=1 episode, 1998 	
+character=Surgical Team Member	name=Mark Bramhall	episodes=1 episode, 1999 	
+character=Sheriff 	name=Kevin L. Beggs	episodes=1 episode, 2000 	
+character=Baby	name=Kelly Demontesquiou	episodes=1 episode, 2000 	
+character=Guard 	name=Patrick St. Esprit	episodes=1 episode, 2002 	
+character=Bobby Brady	name=Jack Bensinger	episodes=1 episode, 2002 	
+character=Police Officer	name=Dean Redman	episodes=1 episode, 2016 	
+character=Pick Up Driver	name=Billy Wickman	episodes=1 episode, 2016 	
+character=BDU Soldier	name=Thomas Nicholson	episodes=1 episode, 2018 	
+character=Sheriff 	name=Esther MyaPe	episodes=1 episode, 2000 	
+character=Girl	name=Laine MacNeil	episodes=1 episode, 2016 	
+character=William 	name=Hannah Longworth	episodes=1 episode, 2016 	
+character=Young Tena	name=Bonnie McNeil	episodes=1 episode, 1998-2015 	
+character=Sheriff 	name=Steve Sciacca	episodes=1 episode, 2000 	
+character=General Mark Suveg	name=William Devane	episodes=1 episode, 2002 	
+character=Girl 	name=Debs Howard	episodes=1 episode, 2016 	
+character=William 	name=Aiden Longworth	episodes=1 episode, 2016 	
+character=Homeless Woman	name=Niobe Martinez	episodes=1 episode, 2018 	
+character=Sheriff 	name=Mary Campbell	episodes=1 episode, 2000 	
+character=Post Guard	name=John Eric Bentley	episodes=1 episode, 2002 	
+character=William 	name=Rowan Longworth	episodes=1 episode, 2016 	
+character=FBI Agent 	name=Thomas Newman	episodes=1 episode, 2016 	
+character=William - 5 Years	name=Bentley Hixson	episodes=1 episode, 2018 	
+character=FBI Agent 	name=Todd Mann	episodes=1 episode, 2016 	
+character=Adam	name=Jaiven Natt	episodes=1 episode, 2016 	
+character=Girl	name=Anja Savcic	episodes=1 episode, 2016 	
+character=William - 15 Years	name=Austin Dunn	episodes=1 episode, 2018 	
+character=William 	name=Chase Nicholson	episodes=1 episode, 2018 	
+character=Years	name=Chase Nicholson	episodes=1 episode, 2018 	
+character=Jared Marriott	name=Cole Lindsay	episodes=1 episode, 2018 	
+character=President George W. Bush	name=Gary Newton	episodes=1 episode, 2002 	
+character=Cop	name=Finn Michael	episodes=5 episodes, 1993-1996 	
+character=Puppeteer	name=Geoff Redknap	episodes=4 episodes, 1997-1998 	
+character=Elder 	name=Stan Walsh	episodes=3 episodes, 1995-1996 	
+character=FBI Agent	name=Peter Nicholas	episodes=3 episodes, 1996-1998 	
+character=Quiet Willy	name=Willy Ross	episodes=3 episodes, 1997-1998 	
+character=Air Force Major	name=Dean Chambers	episodes=3 episodes, 1998 	
+character=Little Boy	name=Rhys Huber	episodes=2 episodes, 1993-1995 	
+character=Police Officer	name=Eddie Hardy	episodes=2 episodes, 1994-1996 	
+character=FBI Agent	name=Selina Williams	episodes=2 episodes, 1994-1995 	
+character=Adjutant	name=D. Harlan Cutshall	episodes=2 episodes, 1995-1997 	
+character=Bailiff	name=Henry O. Watson	episodes=2 episodes, 1996-1998 	
+character=Patrolman	name=Tim O	episodes=2 episodes, 1996-1998 	
+character=Patrolman	name=Halloran	episodes=2 episodes, 1996-1998 	
+character=Nurse	name=Constance Barnes	episodes=2 episodes, 1996-1997 	
+character=Clone Boy	name=Casey F. Murphy	episodes=2 episodes, 1996-1997 	
+character=Submarine Sailor	name=Michael Bublé	episodes=2 episodes, 1996 	
+character=Hospital Nurse	name=Liza Huget	episodes=2 episodes, 1996 	
+character=Guard	name=Sean Millington	episodes=2 episodes, 1997-2018 	
+character=Bartender	name=Val Stefoff	episodes=2 episodes, 1997 	
+character=Flight Attendant	name=Stacy Fair	episodes=2 episodes, 1997 	
+character=Waiter 	name=Dave Hannay	episodes=2 episodes, 1997 	
+character=Waiter 	name=Regy Sayhay	episodes=2 episodes, 1997 	
+character=Business Man	name=Fuad C	episodes=2 episodes, 1998 	
+character=Business Man	name=Amanero	episodes=2 episodes, 1998 	
+character=Soldier	name=Gary Harmon	episodes=2 episodes, 1998 	
+character=FBI Agent	name=Patricia Steffy	episodes=2 episodes, 2000-2002 	
+character=FBI Agent	name=David C. Fisher	episodes=2 episodes, 2000 	
+character=Detective Bryant	name=Joe Bernier	episodes=2 episodes, 2002 	
+character=Dr. Grayson	name=John Specogna	episodes=2 episodes, 2016 	
+character=Ethan Minette	name=Tim Ransom	episodes=1 episode, 1993 	
+character=Nurse Cooley	name=June B. Wilde	episodes=1 episode, 1993 	
+character=Karen Swenson	name=Laura Lee Connery	episodes=1 episode, 1993 	
+character=Area 51 Worker	name=Mark Kandborg	episodes=1 episode, 1993 	
+character=Girl in the car	name=Jessica Murdoch	episodes=1 episode, 1993 	
+character=Josh Budahas	name=Cody Serpa	episodes=1 episode, 1993 	
+character=Hunter	name=Diane Brown	episodes=1 episode, 1993 	
+character=Doug Reardon	name=Derek Peakman	episodes=1 episode, 1993 	
+character=Leslie Budahas	name=Carrie Classen	episodes=1 episode, 1993 	
+character=Blue Beret	name=Jonathan Silver Scott	episodes=1 episode, 1994 	
+character=Murder Victim	name=Richard C. Burton	episodes=1 episode, 1994 	
+character=Russian Sailor 	name=Benjamin Glenday	episodes=1 episode, 1994 	
+character=Prison Guard	name=Randy Cyr	episodes=1 episode, 1994 	
+character=Young Arthur Grable	name=Tyler Cornborough	episodes=1 episode, 1994 	
+character=Lab Technician	name=Kelly Aisenstat	episodes=1 episode, 1994 	
+character=Crazy Screaming Girl	name=Tali Cherniawsky	episodes=1 episode, 1994 	
+character=Young Roland Grable	name=Todd Cornborough	episodes=1 episode, 1994 	
+character=Deceased Girl Jessica	name=Megan Hilty	episodes=1 episode, 1995 	
+character=Bystander	name=Aaron Poole	episodes=1 episode, 1995 	
+character=Raven	name=Beverley Elliott	episodes=1 episode, 1995 	
+character=Tattooed Prisoner	name=Mig Macario	episodes=1 episode, 1995 	
+character=Tagger	name=P.J. Prinsloo	episodes=1 episode, 1995 	
+character=Sarah Buxton	name=Veronika Sztopa	episodes=1 episode, 1995 	
+character=Paramedic 	name=Cavan Cunningham	episodes=1 episode, 1995 	
+character=Seaman	name=David Stuart	episodes=1 episode, 1995 	
+character=Father	name=Byron Chief-Moon	episodes=1 episode, 1995 	
+character=Josh	name=Josh Epstein	episodes=1 episode, 1995 	
+character=Patrick Newirth	name=L. Harvey Gold	episodes=1 episode, 1995 	
+character=Roberto	name=Alfonso Quijada	episodes=1 episode, 1995 	
+character=Kate	name=Janine Cox	episodes=1 episode, 1995 	
+character=Japanese Escort	name=Warren Takeuchi	episodes=1 episode, 1995 	
+character=Carl	name=Brandon Obray	episodes=1 episode, 1995 	
+character=Trevor Callahan	name=Brennan Kotowich	episodes=1 episode, 1995 	
+character=Haitian Refugee	name=Judi Lewinson	episodes=1 episode, 1995 	
+character=Patrolman	name=Brad Wattum	episodes=1 episode, 1995 	
+character=Mrs. Lowe	name=Doris Rands	episodes=1 episode, 1995 	
+character=Mother	name=Victoria Maxwell	episodes=1 episode, 1995 	
+character=Lionel Glazebrook	name=Devin Walker	episodes=1 episode, 1995 	
+character=Skinny Man	name=Adrien Malebranche	episodes=1 episode, 1995 	
+character=Young Cannibal	name=River Ferreira	episodes=1 episode, 1995 	
+character=Crewman	name=Kelly Irving	episodes=1 episode, 1995 	
+character=Executioner	name=Bruce Pinard	episodes=1 episode, 1995 	
+character=Sadie Jacobs	name=Alexa Mardon	episodes=1 episode, 1995 	
+character=Son	name=Tim Michel	episodes=1 episode, 1995 	
+character=Albert	name=Tim Michel	episodes=1 episode, 1995 	
+character=M.P.	name=Paul Dickson	episodes=1 episode, 1995 	
+character=Child at Fair	name=Jessica Shaw	episodes=1 episode, 1995 	
+character=ICU Nurse	name=Peta Brookstone	episodes=1 episode, 1995 	
+character=Escort	name=Kenji Shimizu	episodes=1 episode, 1995 	
+character=Injured FBI Analyst	name=Rachel Miner	episodes=1 episode, 1996 	
+character=Lobby Passerby	name=Dave Grohl	episodes=1 episode, 1996 	
+character=FBI archivist	name=Dina Spybey-Waters	episodes=1 episode, 1996 	
+character=FBI Female Tech	name=Karen Kruper	episodes=1 episode, 1996 	
+character=Guard	name=Mark Gibbon	episodes=1 episode, 1996 	
+character=Nurse	name=Janyse Jaud	episodes=1 episode, 1996 	
+character=Woman	name=Bathsheba Garnett	episodes=1 episode, 1996 	
+character=Engineer 	name=Darcy Laurie	episodes=1 episode, 1996 	
+character=Businessman	name=Don Stewart	episodes=1 episode, 1996 	
+character=The Cruel-Faced Man	name=Zinaid Memisevic	episodes=1 episode, 1996 	
+character=Customs Agent	name=Andy Thompson	episodes=1 episode, 1996 	
+character=ER Nurse 	name=Leanne Adachi	episodes=1 episode, 1996 	
+character=Jill Holwagerm	name=Nina Roman	episodes=1 episode, 1996 	
+character=Wife	name=Tatiana Chekhova	episodes=1 episode, 1996 	
+character=Truck Driver	name=Tatiana Chekhova	episodes=1 episode, 1996 	
+character=Alfred Kittel	name=Dexter Bell	episodes=1 episode, 1996 	
+character=Kid 	name=Chris Turner	episodes=1 episode, 1996 	
+character=Officer 	name=Peg Christopherson	episodes=1 episode, 1996 	
+character=Basketball Player	name=Jordan Lee Williams	episodes=1 episode, 1996 	
+character=Kid 	name=Christopher Lovick	episodes=1 episode, 1996 	
+character=Young Boy	name=Frank McGowan	episodes=1 episode, 1996 	
+character=Gaunt Man	name=John Hainsworth	episodes=1 episode, 1996 	
+character=Old Woman	name=Bethoe Shirkoff	episodes=1 episode, 1996 	
+character=Helene Riddicock	name=Sandy Tucker	episodes=1 episode, 1996 	
+character=Young Smoking Man	name=Craig Warkentin	episodes=1 episode, 1996 	
+character=Supervisor	name=Steve Oatway	episodes=1 episode, 1996 	
+character=Brandon Aguirre	name=John Milton Branton	episodes=1 episode, 1996 	
+character=Mob Man	name=Peter Mele	episodes=1 episode, 1996 	
+character=Older Agent	name=Jano Frandsen	episodes=1 episode, 1996 	
+character=Uniformed Army Man	name=Ross Douglas	episodes=1 episode, 1996 	
+character=Alice Brandt	name=Angela Donahue	episodes=1 episode, 1996 	
+character=Doctor	name=Amanda O	episodes=1 episode, 1996 	
+character=Doctor	name=Leary	episodes=1 episode, 1996 	
+character=Coworker	name=Ian Marsh	episodes=1 episode, 1996 	
+character=Money Man	name=Ed Hong-Louie	episodes=1 episode, 1996 	
+character=The Fisherman	name=Murray Lowry	episodes=1 episode, 1996 	
+character=Cult Member	name=Rick Morwick	episodes=1 episode, 1996 	
+character=Bartender	name=Nathan Vanering	episodes=1 episode, 1996 	
+character=Liposuction Patient	name=Nancy J. Lilley	episodes=1 episode, 1996 	
+character=Flight Attendant	name=Tomoko Sato	episodes=1 episode, 1996 	
+character=Last Man	name=Brian Barry	episodes=1 episode, 1996 	
+character=Customs Officer	name=Dawn Murphy	episodes=1 episode, 1996 	
+character=Motorcycle Cop	name=Robert Weiss	episodes=1 episode, 1996 	
+character=Mighty Man	name=Douglas Roy Dack	episodes=1 episode, 1996 	
+character=Night Watchman	name=Graham Shiels	episodes=1 episode, 1996 	
+character=Alien 	name=Ian Alexander Martin	episodes=1 episode, 1996 	
+character=Mom	name=Ian Alexander Martin	episodes=1 episode, 1996 	
+character=Motel Manager	name=Tony Marr	episodes=1 episode, 1996 	
+character=One-Armed Leader	name=Denis Krasnogolov	episodes=1 episode, 1996 	
+character=Corporal	name=Anthony Ashbee	episodes=1 episode, 1996 	
+character=Marleen Ross	name=Sonia Norris	episodes=1 episode, 1996 	
+character=Glass Blower	name=Jay Macdonell	episodes=1 episode, 1996 	
+character=Assistant	name=Maria Bitamba	episodes=1 episode, 1996 	
+character=Supervisor	name=John Samson	episodes=1 episode, 1996 	
+character=Ice Skater	name=Kristin Kowalski	episodes=1 episode, 1996 	
+character=The Skin-Peel Patient	name=Celine Lockhart	episodes=1 episode, 1996 	
+character=Screaming Nurse	name=Bobbi Rowntree	episodes=1 episode, 1996 	
+character=Paramedic	name=Paul J. Andersen	episodes=1 episode, 1996 	
+character=Newstand Operator	name=Fred Beale	episodes=1 episode, 1996 	
+character=Flak Agent	name=Philip Heinrich	episodes=1 episode, 1996 	
+character=Bundled Man	name=Olesky Shostak	episodes=1 episode, 1996 	
+character=Woman 	name=Joyce Seeley	episodes=1 episode, 1996 	
+character=Seat Mate	name=Geoffrey Aye-Bonte	episodes=1 episode, 1996 	
+character=Young Detective	name=Cal Traversy	episodes=1 episode, 1996 	
+character=ER Nurse	name=Erin Jeffery	episodes=1 episode, 1996 	
+character=Pleasant Man	name=Ross Clarke	episodes=1 episode, 1996 	
+character=Swarthy Man	name=Lee Serpa	episodes=1 episode, 1996 	
+character=Woman 	name=Shannon Woelk	episodes=1 episode, 1996 	
+character=Young Melissa Scully	name=Christine Viner	episodes=1 episode, 1996 	
+character=Clone Boy	name=Sean C. Murphy	episodes=1 episode, 1996 	
+character=ER Surgeon	name=Kevin McCrae	episodes=1 episode, 1996 	
+character=Attorney	name=Les Gallagher	episodes=1 episode, 1996 	
+character=Officer 	name=Dana Pemberton	episodes=1 episode, 1996 	
+character=EMT	name=Lucia Walters	episodes=1 episode, 1997 	
+character=Waitress	name=Erin Fitzgerald	episodes=1 episode, 1997 	
+character=Deputy	name=Dan Shea	episodes=1 episode, 1997 	
+character=Nurse	name=Marilyn Norry	episodes=1 episode, 1997 	
+character=Concertgoer	name=Clarence Sponagle	episodes=1 episode, 1997 	
+character=Nurse 	name=Moneca Stori	episodes=1 episode, 1997 	
+character=Waiter 	name=Michael Short	episodes=1 episode, 1997 	
+character=Secretary	name=Catherine Barroll	episodes=1 episode, 1997 	
+character=Trooper 	name=Nicholas Harrison	episodes=1 episode, 1997 	
+character=Blonde bowler	name=Fawnia Mondey	episodes=1 episode, 1997 	
+character=Day Room Patient 	name=Kerry van der Griend	episodes=1 episode, 1997 	
+character=Amputee Patient	name=Ian Gregson	episodes=1 episode, 1997 	
+character=Waiter 	name=Michael Short	episodes=1 episode, 1997 	
+character=Night Attendant	name=Don Ackerman	episodes=1 episode, 1997 	
+character=Bearded Man	name=Ken Jones	episodes=1 episode, 1997 	
+character=Mother	name=Gwenda Lorenzetti	episodes=1 episode, 1997 	
+character=Burly Day Laborer	name=Tony Sagastizado I	episodes=1 episode, 1997 	
+character=Nurse	name=Mia Ingimundson	episodes=1 episode, 1997 	
+character=Day Room Patient 	name=Arthur Corber	episodes=1 episode, 1997 	
+character=Store Owner	name=Natasha Vasiluk	episodes=1 episode, 1997 	
+character=The Bellman	name=Austin Basile	episodes=1 episode, 1997 	
+character=Mrs. Shima-Tsuno	name=Marilyn Chin	episodes=1 episode, 1997 	
+character=Towns Folk	name=Laurie Soper	episodes=1 episode, 1997 	
+character=State Trooper	name=Ian Brown	episodes=1 episode, 1997 	
+character=Teenager	name=Maria Luisa Cianni	episodes=1 episode, 1997 	
+character=Lauren Heller	name=Jennifer Bradsen	episodes=1 episode, 1997 	
+character=Boy in the hospital	name=Jeff McLeod	episodes=1 episode, 1997 	
+character=Creature 	name=Axl Aartsen	episodes=1 episode, 1997 	
+character=Booking Sergeant	name=Bob Boyd	episodes=1 episode, 1997 	
+character=The Hacker Dude	name=Eric Knight	episodes=1 episode, 1997 	
+character=Nurse	name=Melanie Angel	episodes=1 episode, 1997 	
+character=The Judge	name=Carla Stewart	episodes=1 episode, 1997 	
+character=Towns Folk	name=Reginald Colin Rowley	episodes=1 episode, 1997 	
+character=Crying Girl	name=Marites Pineda	episodes=1 episode, 1997 	
+character=Matron	name=Melanie Doerr	episodes=1 episode, 1997 	
+character=The Bus Driver	name=Eric Buermeyer	episodes=1 episode, 1997 	
+character=Nerdy Student	name=Andrew Laurenson	episodes=1 episode, 1997 	
+character=Bigger Boy	name=Sterling McKay	episodes=1 episode, 1997 	
+character=Ed Jerse	name=Peter J. Nadler	episodes=1 episode, 1997 	
+character=Lawyer	name=Peter J. Nadler	episodes=1 episode, 1997 	
+character=Older Shanty Woman	name=Tina Amayo	episodes=1 episode, 1997 	
+character=Go Team Member	name=Peter Taraviras	episodes=1 episode, 1997 	
+character=Mother	name=Kathy Rolheiser	episodes=1 episode, 1997 	
+character=Girl in the Airplane	name=Tanya Schuetz	episodes=1 episode, 1997 	
+character=Father at hospital	name=Peter Stenning	episodes=1 episode, 1997 	
+character=Girl in the Airplane	name=Tricia Schuetz	episodes=1 episode, 1997 	
+character=Another Girl	name=Jennifer Hepburn	episodes=1 episode, 1997 	
+character=Ms. Vansen	name=Rita Bozi	episodes=1 episode, 1997 	
+character=Mrs. Kemper	name=Theresa Puskar	episodes=1 episode, 1997 	
+character=City Cop	name=Paul Anderson	episodes=1 episode, 1997 	
+character=Bartender	name=Bear	episodes=1 episode, 1997 	
+character=Bartender	name=Barry 	episodes=1 episode, 1997 	
+character=Bartender	name=Horton	episodes=1 episode, 1997 	
+character=Stewardess	name=Jaclynn Grad	episodes=1 episode, 1997 	
+character=Day Room Patient 	name=John Nolan	episodes=1 episode, 1997 	
+character=New Partner	name=Greg Neumeyer	episodes=1 episode, 1997 	
+character=Postal Worker	name=Jonathan Palis	episodes=1 episode, 1997 	
+character=MP	name=Stewart Laine	episodes=1 episode, 1997 	
+character=Teller	name=Brian Drummond	episodes=1 episode, 1998 	
+character=Brit	name=Birkett Turton	episodes=1 episode, 1998 	
+character=Nazi Soilder	name=Bryan Massey	episodes=1 episode, 1998 	
+character=Blue Helmet	name=Bruno Verdoni	episodes=1 episode, 1998 	
+character=Redneck Sister	name=Annette Reilly	episodes=1 episode, 1998 	
+character=FBI Agent	name=Jeffrey J. Ayers	episodes=1 episode, 1998 	
+character=Brother 	name=Shayn Solberg	episodes=1 episode, 1998 	
+character=Reporter	name=Judi M. Durand	episodes=1 episode, 1998 	
+character=Nurse	name=Kelsa Kinsly	episodes=1 episode, 1998 	
+character=Creep	name=Artine Tony Browne	episodes=1 episode, 1998 	
+character=Uniform	name=David Allan Pearson	episodes=1 episode, 1998 	
+character=Faceless Alien	name=Devin Reeve	episodes=1 episode, 1998 	
+character=Ballroom Dancer	name=Lynne Oropeza	episodes=1 episode, 1998 	
+character=Firefighter	name=Cazimir Milostan	episodes=1 episode, 1998 	
+character=Hostage 	name=Biski Gugushe	episodes=1 episode, 1998 	
+character=Mark Backus	name=Owen Walstrom	episodes=1 episode, 1998 	
+character=Figgis	name=Dan Weber	episodes=1 episode, 1998 	
+character=Detective	name=Marion Killinger	episodes=1 episode, 1998 	
+character=Dealer	name=Jake T. Roberts	episodes=1 episode, 1998 	
+character=Police Officer	name=Laurie Brunetti	episodes=1 episode, 1998 	
+character=FBI Agent	name=Hardia Madden	episodes=1 episode, 1998 	
+character=Nazi Soldier	name=Michael Arturo	episodes=1 episode, 1998 	
+character=Cohn	name=Dean Barrett	episodes=1 episode, 1998 	
+character=Assistant	name=Dean Barrett	episodes=1 episode, 1998 	
+character=ICU Nurse	name=Clare Lapinskie	episodes=1 episode, 1998 	
+character=Lt. Gullie	name=Johan-Carl Nowack	episodes=1 episode, 1998 	
+character=Addict	name=Darwin Haine	episodes=1 episode, 1998 	
+character=Counterman	name=Nick Misura	episodes=1 episode, 1998 	
+character=Police Officer	name=Juan Llorens	episodes=1 episode, 1998 	
+character=Chief Surgeon	name=Alan Giles	episodes=1 episode, 1998 	
+character=Men In Black Agent	name=Michael Swiney	episodes=1 episode, 1998 	
+character=Doctor	name=Oleg Feoktistov	episodes=1 episode, 1998 	
+character=Vampire	name=David Major	episodes=1 episode, 1998 	
+character=First Boy	name=Andrew Star	episodes=1 episode, 1998 	
+character=Martin	name=Trevor Roald	episodes=1 episode, 1998 	
+character=Extra	name=Caspar Ryan	episodes=1 episode, 1998 	
+character=Croney	name=Kory Dunlap	episodes=1 episode, 1998 	
+character=Joey	name=Kory Dunlap	episodes=1 episode, 1998 	
+character=Brother 	name=Thor Derkson	episodes=1 episode, 1998 	
+character=Neighbor	name=Tom Bougers	episodes=1 episode, 1998 	
+character=Field Agent	name=Steven Jones	episodes=1 episode, 1998 	
+character=Orderly	name=Todd Harris	episodes=1 episode, 1998 	
+character=Second Doctor	name=David Brisbin	episodes=1 episode, 1999 	
+character=Mr. Gunderson	name=Jeff Lewis	episodes=1 episode, 1999 	
+character=Lucky Boy Employee	name=Dusty Sorg	episodes=1 episode, 1999 	
+character=Beautiful Woman	name=Ariane Von Kamp	episodes=1 episode, 1999 	
+character=Maggie	name=Durrell Nelson	episodes=1 episode, 1999 	
+character=Dad	name=Durrell Nelson	episodes=1 episode, 1999 	
+character=Baseball Announcer	name=Vin Scully	episodes=1 episode, 1999 	
+character=FBI Special Agent	name=Phil Hawn	episodes=1 episode, 1999 	
+character=HS Alumnus	name=Geoffrey Gould	episodes=1 episode, 1999 	
+character=Alien	name=Cody Weselis	episodes=1 episode, 1999 	
+character=Becky Crouch	name=Jessica Biscardi	episodes=1 episode, 1999 	
+character=Sister	name=Jessica Biscardi	episodes=1 episode, 1999 	
+character=Peter	name=Glen Eberspecher	episodes=1 episode, 1999 	
+character=Vegas Charmer	name=Jose C. Alvarez	episodes=1 episode, 1999 	
+character=Prisoner	name=Mike J Daugherity	episodes=1 episode, 1999 	
+character=Alien	name=Paul Douglas Brown	episodes=1 episode, 1999 	
+character=Camera Operator	name=Rohan Shand	episodes=1 episode, 1999 	
+character=FBI Agent In Meeting	name=Tom Bysiek	episodes=1 episode, 1999 	
+character=Pick-up Player 	name=Reunald Jones III	episodes=1 episode, 1999 	
+character=Cinema Audience	name=Minnie Driver	episodes=1 episode, 2000 	
+character=Vicky Wells	name=Anne-Marie Johnson	episodes=1 episode, 2000 	
+character=Cinema Audience	name=David Alan Grier	episodes=1 episode, 2000 	
+character=Courtney Wells	name=Cheyenne Haynes	episodes=1 episode, 2000 	
+character=Police Officer 	name=Craig Rees	episodes=1 episode, 2000 	
+character=Shot Patron	name=Hallie Lambert	episodes=1 episode, 2000 	
+character=Witness 	name=Richard Rossi	episodes=1 episode, 2000 	
+character=Cult-Killer	name=Hilary Rose Zalman	episodes=1 episode, 2000 	
+character=Prison Inmate	name=Stephen Austin-Skordiles	episodes=1 episode, 2000 	
+character=Teacher	name=Arlene Malinowski	episodes=1 episode, 2000 	
+character=School Teacher	name=Myke Friscia	episodes=1 episode, 2000 	
+character=Bicycle Rider	name=Jeff Cahn	episodes=1 episode, 2000 	
+character=Reporter	name=Regan Metoyer	episodes=1 episode, 2000 	
+character=Witness	name=Donnell	episodes=1 episode, 2000 	
+character=Witness	name=Bill O	episodes=1 episode, 2000 	
+character=FBI Agent	name=Paul Moncrief	episodes=1 episode, 2000 	
+character=Fight Attendant	name=Kelly Florence	episodes=1 episode, 2000 	
+character=Bible Study Leader	name=Jim Hetz	episodes=1 episode, 2000 	
+character=Coroner	name=N. Barry Carver	episodes=1 episode, 2000 	
+character=Zombie Dancer	name=André Fortin	episodes=1 episode, 2000 	
+character=FBI Agent	name=Rebecca Holland	episodes=1 episode, 2000 	
+character=Restaurant Patron	name=Bob Casper	episodes=1 episode, 2000 	
+character=Doctor	name=Mark Snow	episodes=1 episode, 2001 	
+character=Customer with Car	name=Phoebe Price	episodes=1 episode, 2001 	
+character=Agent Robin Kersh	name=Tonja Kahlens	episodes=1 episode, 2001 	
+character=Head Nurse	name=Karen Constantine	episodes=1 episode, 2001 	
+character=Diego	name=David Michie	episodes=1 episode, 2001 	
+character=Rebecca	name=Shelley Mack	episodes=1 episode, 2001 	
+character=Ryan Bracker	name=Kristian Sorensen	episodes=1 episode, 2001 	
+character=Alien Abductee	name=Andrei Sterling	episodes=1 episode, 2001 	
+character=Waitress	name=Heather Charles	episodes=1 episode, 2001 	
+character=Student	name=Kevin Tash	episodes=1 episode, 2001 	
+character=Police Officer	name=Michael Fallon	episodes=1 episode, 2001 	
+character=Neighbor	name=Ray Buffer	episodes=1 episode, 2002 	
+character=Skinned Ed Kelso	name=James Logan	episodes=1 episode, 2002 	
+character=Dancer	name=Kelly Knox	episodes=1 episode, 2002 	
+character=Italian Girl	name=Cara Tripicchio	episodes=1 episode, 2002 	
+character=Italian Girl	name=Christine Tripicchio	episodes=1 episode, 2002 	
+character=Cult Member	name=Leandro DiMonriva	episodes=1 episode, 2002 	
+character=Witness	name=Shakira Vanise Gamble	episodes=1 episode, 2002 	
+character=Shoeshiner	name=Robert Scheid	episodes=1 episode, 2002 	
+character=Guard	name=Larena Patrick	episodes=1 episode, 2002 	
+character=Deputy Carl Horgart	name=Scott Heathcote	episodes=1 episode, 2002 	
+character=Inmate	name=Loic Gisselere	episodes=1 episode, 2002 	
+character=Italian Girl	name=Sandra Tripicchio	episodes=1 episode, 2002 	
+character=Perp	name=Christopher Valin	episodes=1 episode, 2002 	
+character=Swimming Molly	name=Camille Marty	episodes=1 episode, 2015 	
+character=Stranded driver	name=Eoin Bates	episodes=1 episode, 2016 	
+character=Texas Lounge Guest	name=Celeste White Steele	episodes=1 episode, 2016 	
+character=Eugenics Scientist	name=Andrew Suttar	episodes=1 episode, 2016 	
+character=Driver	name=Amber Snow	episodes=1 episode, 2016 	
+character=Doctor	name=Richard David Lecoin	episodes=1 episode, 2016 	
+character=Cop	name=Matthew Hoglie	episodes=1 episode, 2016 	
+character=Gay Male Hustler 	name=Yogi Omar	episodes=1 episode, 2016 	
+character=Alien	name=Fred Tatasciore	episodes=1 episode, 2018 	
+character=The Driver	name=Mike Dopud	episodes=1 episode, 2018 	
+character=Nurse	name=Sherry Nelson	episodes=1 episode, 2018 	
+character=Hipster	name=Peter Brown	episodes=1 episode, 2018 	
+character=Townperson	name=Paul Wu	episodes=1 episode, 2018 	
+character=Cop	name=James Allore	episodes=1 episode, 2018 	
+character=Soldier	name=Jeff Sanca	episodes=1 episode, 2018 	
+character=Erika	name=Jeff Sanca	episodes=1 episode, 2018 	
+character=Eating Policeman	name=Colin Corrigan	episodes=1 episode, 2018 	
+character=Cult Member	name=Nailya Red	episodes=1 episode, 2018 	
+character=Stanley Kubrick	name=Mark Lewis Oglesby	episodes=1 episode, 2018 	
+character=BDU Soldier in motel	name=Mike Desabrais	episodes=1 episode, 2018 	
+character=Driving Townsperson	name=Steve Ellis	episodes=1 episode, 2018 	
+character=Bibbletiggle 	name=Kennith Overbey	episodes=1 episode, 2018 	
+character=Hand Double for Mr Y	name=Richard Stewart Rigby	episodes=1 episode, 2018 	

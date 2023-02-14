@@ -1,0 +1,496 @@
+# http://fitlayout.github.io/resource/art62 -> https://www.imdb.com/title/tt2356777/fullcredits/
+character=Detective Rust Cohle	name=Matthew McConaughey	episodes=8 episodes, 2014 	
+character=Detective Ray Velcoro	name=Colin Farrell	episodes=8 episodes, 2015 	
+character=Wayne Hays	name=Mahershala Ali	episodes=8 episodes, 2019 	
+character=Detective Marty Hart	name=Woody Harrelson	episodes=8 episodes, 2014 	
+character=Detective Ani Bezzerides	name=Rachel McAdams	episodes=8 episodes, 2015 	
+character=Amelia Reardon	name=Carmen Ejogo	episodes=8 episodes, 2019 	
+character=Maggie Hart	name=Michelle Monaghan	episodes=8 episodes, 2014 	
+character=Officer Paul Woodrugh	name=Taylor Kitsch	episodes=8 episodes, 2015 	
+character=Roland West	name=Stephen Dorff	episodes=8 episodes, 2019 	
+character=Detective Maynard Gilbough	name=Michael Potts	episodes=8 episodes, 2014 	
+character=Jordan Semyon	name=Kelly Reilly	episodes=8 episodes, 2015 	
+character=Tom Purcell	name=Scoot McNairy	episodes=8 episodes, 2019 	
+character=Detective Thomas Papania	name=Tory Kittles	episodes=8 episodes, 2014 	
+character=Frank Semyon	name=Vince Vaughn	episodes=8 episodes, 2015 	
+character=Henry Hays	name=Ray Fisher	episodes=8 episodes, 2019 	
+character=Nails	name=Chris Kerson	episodes=8 episodes, 2015 	
+character=Mayor Austin Chessani	name=Ritchie Coster	episodes=7 episodes, 2015 	
+character=Elisa Montgomery	name=Sarah Gadon	episodes=7 episodes, 2019 	
+character=Blake Churchman	name=Christopher James Baker	episodes=7 episodes, 2015 	
+character=Police Chief Holloway	name=Afemo Omilami	episodes=7 episodes, 2015 	
+character=Lieutenant Kevin Burris	name=James Frain	episodes=7 episodes, 2015 	
+character=Gerald Kindt	name=Brett Cullen	episodes=6 episodes, 2019 	
+character=Lucy Purcell	name=Mamie Gummer	episodes=6 episodes, 2019 	
+character=Detective Lutz	name=JD Evermore	episodes=6 episodes, 2014 	
+character=Ivar	name=Andy Mackenzie	episodes=6 episodes, 2015 	
+character=Cathleen	name=Dana Gourrier	episodes=6 episodes, 2014 	
+character=Gena Brune	name=Abigail Spencer	episodes=6 episodes, 2015 	
+character=Detective Elvis Ilinca	name=Michael Irby	episodes=6 episodes, 2015 	
+character=Osip Agronov	name=Timothy V. Murphy	episodes=6 episodes, 2015 	
+character=Felicia	name=Yara Martinez	episodes=6 episodes, 2015 	
+character=Emily	name=Adria Arjona	episodes=6 episodes, 2015 	
+character=Young Henry Hays	name=Isaiah C. Morgan	episodes=6 episodes, 2019 	
+character=Audrey Hart	name=Madison Wolfe	episodes=6 episodes, 2014 	
+character=Ernst Bodine	name=Alain Uy	episodes=6 episodes, 2015 	
+character=Jacob McCandless	name=Jon Lindstrom	episodes=5 episodes, 2015 	
+character=Major Ken Quesada	name=Kevin Dunn	episodes=5 episodes, 2014 	
+character=Alan Jones	name=Jon Tenney	episodes=5 episodes, 2019 	
+character=Brett Woodard	name=Michael Greyeyes	episodes=5 episodes, 2019 	
+character=Detective Teague Dixon	name=W. Earl Brown	episodes=5 episodes, 2015 	
+character=Detective Demma	name=Joe Chrest	episodes=5 episodes, 2014 	
+character=Freddy Burns	name=Rhys Wakefield	episodes=5 episodes, 2019 	
+character=Katherine Davis	name=Michael Hyatt	episodes=5 episodes, 2015 	
+character=Athena Bezzerides	name=Leven Rambin	episodes=5 episodes, 2015 	
+character=Margaret	name=Emily Nelson	episodes=5 episodes, 2019 	
+character=Singer	name=Lera Lynn	episodes=5 episodes, 2015 	
+character=Young Becca Hays	name=Kennedi Butler	episodes=5 episodes, 2019 	
+character=Detective Favre	name=Dane Rhodes	episodes=5 episodes, 2014 	
+character=Lisa Tragnetti	name=Alexandra Daddario	episodes=4 episodes, 2014 	
+character=Harris James	name=Scott Shepherd	episodes=4 episodes, 2019 	
+character=Jim Dobkins	name=Josh Hopkins	episodes=4 episodes, 2019 	
+character=Major Blevins	name=James MacDonald	episodes=4 episodes, 2019 	
+character=Special Agent John Bowen	name=Michael Broderick	episodes=4 episodes, 2019 	
+character=Richard Geldof	name=C.S. Lee	episodes=4 episodes, 2015 	
+character=Special Agent Burt Diller	name=Tim Griffin	episodes=4 episodes, 2019 	
+character=Cynthia Woodrugh	name=Lolita Davidovich	episodes=4 episodes, 2015 	
+character=Detective	name=Tony Molina Jr.	episodes=4 episodes, 2014 	
+character=Tony Chessani	name=Vinicius Zorin-Machado	episodes=4 episodes, 2015 	
+character=Chad Velcoro	name=Trevor Larcom	episodes=4 episodes, 2015 	
+character=Eddie	name=Brian Oerly	episodes=4 episodes, 2019 	
+character=Year Old Julie Purcell	name=Bea Santos	episodes=4 episodes, 2019 	
+character=Commander Floyd Heschmeyer	name=Matt Battaglia	episodes=4 episodes, 2015 	
+character=Michael Bulgari	name=Sol Landerman	episodes=4 episodes, 2015 	
+character=Maisie Hart	name=Meghan Wolfe	episodes=4 episodes, 2014 	
+character=Detective Morelli	name=Myk Watford	episodes=4 episodes, 2019 	
+character=Eliot Bezzerides	name=David Morse	episodes=3 episodes, 2015 	
+character=Dr. Irving Pitlor	name=Rick Springfield	episodes=3 episodes, 2015 	
+character=Detective Mark Daughtry	name=Jackson Beals	episodes=3 episodes, 2014 	
+character=Errol Childress	name=Glenn Fleshler	episodes=3 episodes, 2014 	
+character=Steve Geraci	name=Michael Harney	episodes=3 episodes, 2014 	
+character=Police Chief Warren	name=Gareth Williams	episodes=3 episodes, 2019 	
+character=James O	name=Alex Fernandez	episodes=3 episodes, 2015 	
+character=Neal	name=Alex Fernandez	episodes=3 episodes, 2015 	
+character=Ryan Peters	name=Brandon Flynn	episodes=3 episodes, 2019 	
+character=Detective Segar	name=David Stanbra	episodes=3 episodes, 2019 	
+character=Frankie Boyle	name=Richard Meehan	episodes=3 episodes, 2019 	
+character=Detective	name=L. Warren Young	episodes=3 episodes, 2019 	
+character=Audrey Hart	name=Erin Moriarty	episodes=3 episodes, 2014 	
+character=Detective Hobbs	name=Bill Kelly	episodes=3 episodes, 2019 	
+character=Detective Ted Bertrand	name=Jim Klock	episodes=3 episodes, 2014 	
+character=Miguel Gilb	name=Gabriel Luna	episodes=3 episodes, 2015 	
+character=Armin	name=Jack Topalian	episodes=3 episodes, 2015 	
+character=Leonid	name=Arthur Darbinyan	episodes=3 episodes, 2015 	
+character=Detective Jimmy Dufrene	name=Garrett Kruithof	episodes=3 episodes, 2014 	
+character=Betty Chessani	name=Emily Rios	episodes=3 episodes, 2015 	
+character=Veronica Chessani	name=Agnes Albright	episodes=3 episodes, 2015 	
+character=Richard Brune	name=Christian Campbell	episodes=3 episodes, 2015 	
+character=Erica Jonson	name=Courtney Halverson	episodes=3 episodes, 2015 	
+character=Commander Speece	name=Don Yesso	episodes=3 episodes, 2014 	
+character=Danielle Delvayo	name=Carla Vila	episodes=3 episodes, 2015 	
+character=Gonzales 	name=Benjamín Benítez	episodes=3 episodes, 2015 	
+character=Dan O	name=Michael Graziadei	episodes=2 episodes, 2019 	
+character=Brien	name=Michael Graziadei	episodes=2 episodes, 2019 	
+character=Gonzales 	name=Robert Renderos	episodes=3 episodes, 2015 	
+character=Stan	name=Ronnie Gene Blevins	episodes=2 episodes, 2015 	
+character=Mike Ardoin	name=Corbin Pitts	episodes=3 episodes, 2019 	
+character=Edward Hoyt	name=Michael Rooker	episodes=2 episodes, 2019 	
+character=Billy Lee Tuttle	name=Jay O. Sanders	episodes=2 episodes, 2014 	
+character=Eddie Velcoro	name=Fred Ward	episodes=2 episodes, 2015 	
+character=Beth	name=Lili Simmons	episodes=2 episodes, 2014 	
+character=Joel Theriot	name=Shea Whigham	episodes=2 episodes, 2014 	
+character=Danny Fontenot	name=Christopher Berry	episodes=2 episodes, 2014 	
+character=Charlie Lange	name=Brad Carter	episodes=2 episodes, 2014 	
+character=Robert Doumain	name=Johnny McPhail	episodes=2 episodes, 2014 	
+character=Junius	name=Steven Williams	episodes=2 episodes, 2019 	
+character=Becca Hays	name=Deborah Ayorinde	episodes=2 episodes, 2019 	
+character=Will Purcell	name=Phoenix Elkin	episodes=2 episodes, 2019 	
+character=Reggie Ledoux	name=Charles Halford	episodes=2 episodes, 2014 	
+character=Lori	name=Jodi Balfour	episodes=2 episodes, 2019 	
+character=Julie Purcell	name=Lena McCarthy	episodes=2 episodes, 2019 	
+character=Jay Bunda	name=Greg Bryan	episodes=2 episodes, 2019 	
+character=Shelly	name=Lindsay Musil	episodes=2 episodes, 2019 	
+character=Danny Santos	name=Pedro Miguel Arce	episodes=2 episodes, 2015 	
+character=Mrs. Harris	name=Molly Hagan	episodes=2 episodes, 2015 	
+character=Lacey Lindel	name=Ashley Hinshaw	episodes=2 episodes, 2015 	
+character=Mike Ardoin	name=Nathan Wetherington	episodes=2 episodes, 2019 	
+character=Heather Hays	name=Sola Bamis	episodes=2 episodes, 2019 	
+character=Ronnie Boyle	name=Lennon Morgan	episodes=2 episodes, 2019 	
+character=James Boyle	name=Nick Basta	episodes=2 episodes, 2019 	
+character=Lucy	name=Alyshia Ochse	episodes=2 episodes, 2014 	
+character=Video Tech	name=Harlon Miller	episodes=2 episodes, 2014-2019 	
+character=Amy Hays	name=Bailey Rae Fenderson	episodes=2 episodes, 2019 	
+character=Vera Machiado	name=Miranda Rae Mayo	episodes=2 episodes, 2015 	
+character=Detective Richard Kitting	name=Bojesse Christopher	episodes=2 episodes, 2019 	
+character=Maisie Hart	name=Brighton Sharbino	episodes=2 episodes, 2014 	
+character=Agnes	name=Weronika Rosati	episodes=2 episodes, 2015 	
+character=Jew Diamond Dealer	name=Mark Chaet	episodes=2 episodes, 2015 	
+character=Bart Sallis	name=Chet Grissom	episodes=2 episodes, 2015 	
+character=Reporter	name=Michael A. Klucher	episodes=2 episodes, 2019 	
+character=Lenny Tyler	name=Luke Edwards	episodes=2 episodes, 2015 	
+character=Foreman	name=Lawrence Turner	episodes=2 episodes, 2019 	
+character=Dan Howser	name=Mustafa Knight	episodes=2 episodes, 2015 	
+character=State Trooper	name=Cullen Moss	episodes=2 episodes, 2019 	
+character=Ginger	name=Joseph Sikora	episodes=2 episodes, 2014 	
+character=News Anchor	name=Jancey Sheats	episodes=2 episodes, 2019 	
+character=Will Davidson	name=Jamison Jones	episodes=2 episodes, 2015 	
+character=Ventura County Medical Examiner	name=Anjul Nigam	episodes=2 episodes, 2015 	
+character=Steve Mercer	name=Riley Smith	episodes=2 episodes, 2015 	
+character=Catalast Executive	name=Ronny Cox	episodes=1 episode, 2015 	
+character=Worried Man	name=Thomas W. Moore	episodes=2 episodes, 2019 	
+character=Aspen Conroy	name=Cooper Roth	episodes=1 episode, 2015 	
+character=Liz Danvers	name=Jodie Foster	episodes=1 episode 	
+character=Evangeline Navarro	name=Kali Reis	episodes=1 episode 	
+character=Hank Prior	name=John Hawkes	episodes=1 episode 	
+character=Ted Corsaro	name=Christopher Eccleston	episodes=1 episode 	
+character=Rose Aguineau	name=Fiona Shaw	episodes=1 episode 	
+character=Betty Childress	name=Ann Dowd	episodes=1 episode, 2014 	
+character=Major Leroy Salter	name=Paul Ben-Victor	episodes=1 episode, 2014 	
+character=CID Clerk	name=Tim Bell	episodes=1 episode, 2014 	
+character=Peter Prior	name=Finn Bennett	episodes=1 episode 	
+character=Laurie Spencer	name=Elizabeth Reaser	episodes=1 episode, 2014 	
+character=Toby	name=Dave Davis	episodes=1 episode, 2014 	
+character=Kayla Malee	name=Anna Lambe	episodes=1 episode 	
+character=Minister	name=Clarke Peters	episodes=1 episode, 2014 	
+character=Mrs. Kelly	name=Tess Harper	episodes=1 episode, 2014 	
+character=Julia	name=Aka Niviâna	episodes=1 episode 	
+character=Chris Louviere	name=Robert Beitzel	episodes=1 episode, 2014 	
+character=Teacher	name=Veronica Moonhill	episodes=1 episode, 2014 	
+character=Bungalow Woman 	name=Aurielle Brimmer	episodes=1 episode, 2014 	
+character=Leah	name=Isabella LaBlanc	episodes=1 episode 	
+character=Call Girl	name=Kate Adair	episodes=1 episode, 2014 	
+character=Chad	name=Kurt Krause	episodes=1 episode, 2014 	
+character=Kelsey Burgess	name=Amber Carollo	episodes=1 episode, 2014 	
+character=Drew Ledger	name=Gabe Begneaud	episodes=1 episode, 2014 	
+character=Eddie Qavvik	name=Joel Montgrand	episodes=1 episode 	
+character=Jimmy Ledoux	name=Jay Huguley	episodes=1 episode, 2014 	
+character=Nurse	name=Kerry Cahill	episodes=1 episode, 2014 	
+character=Tina	name=Jamie Elliott	episodes=1 episode, 2014 	
+character=Lilly Hill	name=Terry Moore	episodes=1 episode, 2014 	
+character=Theresa Weems	name=Laura Cayouette	episodes=1 episode, 2014 	
+character=Mechanic	name=John Bernecker	episodes=1 episode, 2014 	
+character=Kelly Reider	name=December Ensminger	episodes=1 episode, 2014 	
+character=Priest	name=Seth Barrish	episodes=1 episode, 2019 	
+character=Fiona Jackson	name=Kelsey Scott	episodes=1 episode, 2014 	
+character=Carla Gwartney	name=Amy Brassette	episodes=1 episode, 2014 	
+character=Erath Woman	name=Jennifer K. Dawson	episodes=1 episode, 2014 	
+character=Joyce	name=Sprague Grayden	episodes=1 episode, 2015 	
+character=Isabel Hoyt	name=Lauren Sweetser	episodes=1 episode, 2019 	
+character=Regina	name=Valeri Ross	episodes=1 episode, 2019 	
+character=Patty Faber	name=Candyce Hinkle	episodes=1 episode, 2019 	
+character=Miss Delores	name=Carol Sutton	episodes=1 episode, 2014 	
+character=Billy Lee Childress	name=David Stifel	episodes=1 episode, 2014 	
+character=Steve	name=Henry Frost	episodes=1 episode, 2014 	
+character=Police Officer	name=Silas Cooper	episodes=1 episode, 2014 	
+character=Mikey	name=Austin Nash Chase	episodes=1 episode, 2015 	
+character=Doctor	name=Marcus Lyle Brown	episodes=1 episode, 2019 	
+character=Liquor Store Proprietor	name=Joseph Curtis Callender	episodes=1 episode, 2019 	
+character=Burt	name=Douglas M. Griffin	episodes=1 episode, 2014 	
+character=Examiner 	name=Michael Hartson	episodes=1 episode, 2014 	
+character=Deiffenbach	name=Josh Clark	episodes=1 episode, 2015 	
+character=Sam Whitehead	name=John Earl Jelks	episodes=1 episode, 2019 	
+character=Jan	name=Andrea Frankle	episodes=1 episode, 2014 	
+character=Bruce	name=Rio Hackford	episodes=1 episode, 2014 	
+character=Tiger Thomas	name=Jon Eyez	episodes=1 episode, 2014 	
+character=Anette	name=Charleigh Bryant-Stelly	episodes=1 episode, 2014 	
+character=Child 	name=Floyd Herrington	episodes=1 episode, 2014 	
+character=News Reporter	name=Rachel Wulff	episodes=1 episode, 2014 	
+character=Neighbor 	name=Lorenzo Yearby	episodes=1 episode, 2019 	
+character=Tyrone Weems	name=Todd Giebenhain	episodes=1 episode, 2014 	
+character=Amanda Hebert	name=Patricia French	episodes=1 episode, 2014 	
+character=Linda	name=Sharon Landry	episodes=1 episode, 2014 	
+character=Mrs. James	name=Roxanne Hart	episodes=1 episode, 2019 	
+character=Niece	name=Emyri Crutchfield	episodes=1 episode, 2019 	
+character=Regina	name=Emyri Crutchfield	episodes=1 episode, 2019 	
+character=Neighbor 	name=David T. Anthony	episodes=1 episode, 2019 	
+character=Terry Guidry	name=Louis Herthum	episodes=1 episode, 2014 	
+character=Examiner 	name=Gretchen Koerner	episodes=1 episode, 2014 	
+character=Gordon DiCillo	name=Davi Jay	episodes=1 episode, 2014 	
+character=Singer	name=Maryanne Marino	episodes=1 episode, 2014 	
+character=Cliggot	name=Michael Adler	episodes=1 episode, 2015 	
+character=Ted LaGrange	name=Shawn-Caulin Young	episodes=1 episode, 2019 	
+character=State Trooper	name=Alex Collins	episodes=1 episode, 2019 	
+character=Neighbor 	name=Sasha Morfaw	episodes=1 episode, 2019 	
+character=Sister Alice	name=Silvia McClure	episodes=1 episode, 2019 	
+character=Hunter	name=Owen Harn	episodes=1 episode, 2014 	
+character=Henry Olivier	name=Ritchie Montgomery	episodes=1 episode, 2014 	
+character=Deputy	name=Jason Kirkpatrick	episodes=1 episode, 2014 	
+character=Tweeker	name=Regis Harrington	episodes=1 episode, 2014 	
+character=Gena	name=Melinda Page Hamilton	episodes=1 episode, 2015 	
+character=Attorney	name=Melinda Page Hamilton	episodes=1 episode, 2015 	
+character=Motel Clerk	name=Timmy Sherrill	episodes=1 episode, 2019 	
+character=Abbeville Sergeant	name=David Maldonado	episodes=1 episode, 2014 	
+character=Tiger	name=Ike Jackson	episodes=1 episode, 2014 	
+character=Gang	name=Ike Jackson	episodes=1 episode, 2014 	
+character=Mr. Wyman	name=Brett Rice	episodes=1 episode, 2015 	
+character=Young Deputy	name=John Charles Dickson	episodes=1 episode, 2019 	
+character=Hoyt Foods Manager	name=Mark Cabus	episodes=1 episode, 2019 	
+character=Police Records Officer	name=Paula Randol-Smith	episodes=1 episode, 2019 	
+character=Junior Detective	name=Connell	episodes=1 episode, 2014 	
+character=Junior Detective	name=Tom O	episodes=1 episode, 2014 	
+character=Doctor	name=Shane Jacobsen	episodes=1 episode, 2014 	
+character=Sheriff Russo	name=Bill Kalmenson	episodes=1 episode, 2015 	
+character=Courthouse Manager	name=Virginia Kirby	episodes=1 episode, 2019 	
+character=William Mayo	name=Daniel Ross Owens	episodes=1 episode, 2014 	
+character=Rock	name=Lucky Johnson	episodes=1 episode, 2014 	
+character=Accordion Player	name=Jo-El Sonnier	episodes=1 episode, 2014 	
+character=Big Biker	name=Tim Sitarz	episodes=1 episode, 2019 	
+character=Sallisaw Police Detective	name=Lee Osorio	episodes=1 episode, 2019 	
+character=Mother	name=Karole Foreman	episodes=1 episode, 2019 	
+character=Amelia	name=Karole Foreman	episodes=1 episode, 2019 	
+character=Jennifer	name=Bree Williamson	episodes=1 episode, 2014 	
+character=Charmaine Boudreaux	name=Azure Parsons	episodes=1 episode, 2014 	
+character=Jake Herbert	name=Thomas Francis Murphy	episodes=1 episode, 2014 	
+character=Sheriff Tate	name=Ron Clinton Smith	episodes=1 episode, 2014 	
+character=Black	name=Tre Styles	episodes=1 episode, 2014 	
+character=Woman	name=CC Castillo	episodes=1 episode, 2019 	
+character=Big Biker	name=CC Castillo	episodes=1 episode, 2019 	
+character=Erath Man	name=Charley Vance	episodes=1 episode, 2014 	
+character=Abbeville Investigator	name=John Neisler	episodes=1 episode, 2014 	
+character=Bogden	name=Joseph Gatt	episodes=1 episode, 2015 	
+character=Judge	name=Gregg Daniel	episodes=1 episode, 2015 	
+character=Conway Twitty	name=Jake La Botz	episodes=1 episode, 2015 	
+character=Luca Reles	name=Allel Aimiche	episodes=1 episode, 2015 	
+character=Lucy Ardoin	name=Ivy Dubreuil	episodes=1 episode, 2019 	
+character=Dewall	name=Ólafur Darri Ólafsson	episodes=1 episode, 2014 	
+character=Marie Fontenot	name=Wanetah Walmsley	episodes=1 episode, 2014 	
+character=Rapist	name=Marco Rodríguez	episodes=1 episode, 2015 	
+character=Gena	name=Marco Rodríguez	episodes=1 episode, 2015 	
+character=Pit Boss	name=Peter Douglas	episodes=1 episode, 2015 	
+character=Counselor	name=Mischa Hutchings	episodes=1 episode, 2019 	
+character=Ronnie	name=Mischa Hutchings	episodes=1 episode, 2019 	
+character=Deputy O	name=Grant Hockenbrough	episodes=1 episode, 2019 	
+character=Bannon	name=Grant Hockenbrough	episodes=1 episode, 2019 	
+character=Mitch	name=Joshua Leonard	episodes=1 episode, 2014 	
+character=Psychologist	name=Bianca Taylor	episodes=1 episode, 2015 	
+character=Travel Agent	name=Sheila Cutchlow	episodes=1 episode, 2015 	
+character=Louise Purcell	name=Natalie Canerday	episodes=1 episode, 2019 	
+character=Woodard Son	name=Elisha Pratt	episodes=1 episode, 2019 	
+character=Mary	name=Becki Davis	episodes=1 episode, 2019 	
+character=Smoking Woman	name=Katherine Forbes	episodes=1 episode, 2019 	
+character=Detective	name=Terence Rosemore	episodes=1 episode, 2014 	
+character=Biker 	name=Frank Duffy	episodes=1 episode, 2014 	
+character=Alex	name=Yevgeniy Kartashov	episodes=1 episode, 2015 	
+character=Assistant	name=Kerry Barker	episodes=1 episode, 2015 	
+character=Roy Purcell	name=David Jensen	episodes=1 episode, 2019 	
+character=Officer Martin	name=Lee Dawson	episodes=1 episode, 2019 	
+character=Woman 	name=Julia Lashae	episodes=1 episode, 2019 	
+character=Woodard Daughter	name=Cheyenne Seleah	episodes=1 episode, 2019 	
+character=Lamar	name=Sam Malone	episodes=1 episode, 2014 	
+character=California EPA Agent	name=Travis Hammer	episodes=1 episode, 2015 	
+character=Madame	name=Linda DeMetrick	episodes=1 episode, 2015 	
+character=Farmer	name=Mike Hickman	episodes=1 episode, 2019 	
+character=Reporter 	name=Mark Pettit	episodes=1 episode, 2019 	
+character=Gang	name=Jaren Mitchell	episodes=1 episode, 2014 	
+character=Tiger	name=Jaren Mitchell	episodes=1 episode, 2014 	
+character=Malkin	name=David Denman	episodes=1 episode, 2015 	
+character=Girl 	name=Eva Pepaj	episodes=1 episode, 2015 	
+character=Reporter 	name=Brian Gililland	episodes=1 episode, 2019 	
+character=Man 	name=Tim Caffrey	episodes=1 episode, 2019 	
+character=Bartender	name=Nic Pizzolatto	episodes=1 episode, 2014 	
+character=Irma	name=Saundra Santiago	episodes=1 episode, 2015 	
+character=Gardener	name=David Saucedo	episodes=1 episode, 2015 	
+character=Girl 	name=Erin Spencer	episodes=1 episode, 2015 	
+character=Dr. Burke	name=Roberto Medina	episodes=1 episode, 2015 	
+character=Logan	name=T.C. Matherne	episodes=1 episode, 2019 	
+character=Man 	name=Brian Brown	episodes=1 episode, 2019 	
+character=Worried Woman	name=Sara Edgerton	episodes=1 episode, 2019 	
+character=Man 	name=Brad S. Clayton	episodes=1 episode, 2019 	
+character=Biker 	name=Tom Proctor	episodes=1 episode, 2014 	
+character=Tyler	name=Alex Rich	episodes=1 episode, 2015 	
+character=Car Owner	name=Gary Carlos Cervantes	episodes=1 episode, 2015 	
+character=Charlene	name=Christopher Aguilar	episodes=1 episode, 2015 	
+character=Girl 	name=Jamie VanDyke	episodes=1 episode, 2015 	
+character=Man in the Truck	name=Anthony Molinari	episodes=1 episode, 2019 	
+character=Fran	name=Kitty Harris	episodes=1 episode, 2019 	
+character=Teenage Girl	name=Samantha Rae Soard	episodes=1 episode, 2019 	
+character=Vinci Police	name=David Pressman	episodes=1 episode, 2015 	
+character=Lacey	name=Chris Butler	episodes=1 episode, 2015 	
+character=Attorney	name=Chris Butler	episodes=1 episode, 2015 	
+character=Ledo Amarilla	name=Cesar Garcia	episodes=1 episode, 2015 	
+character=Vice Cop	name=Michael Papajohn	episodes=1 episode, 2019 	
+character=Manager	name=Melanie Haynes	episodes=1 episode, 2019 	
+character=Detective	name=Gary Newton	episodes=1 episode, 2019 	
+character=Sallisaw PD Officer	name=Chad Cline	episodes=1 episode, 2019 	
+character=Book Seller	name=Joshua Sackheim	episodes=1 episode, 2019 	
+character=Gillett	name=Matt McCoy	episodes=1 episode, 2015 	
+character=Pawn Shop Owner	name=Jerry Hauck	episodes=1 episode, 2015 	
+character=Police Tech	name=Toni Youngblood	episodes=1 episode, 2015 	
+character=Daycare Matron	name=Jennifer Pierce Mathus	episodes=1 episode, 2019 	
+character=Soda Can Girl 	name=Brooklyn Courtney-Moore	episodes=1 episode, 2019 	
+character=Woodrugh	name=Mark Berry	episodes=1 episode, 2015 	
+character=Counsel	name=Mark Berry	episodes=1 episode, 2015 	
+character=Mrs. Conroy	name=Gia Mora	episodes=1 episode, 2015 	
+character=Tech	name=Joshua Chang	episodes=1 episode, 2015 	
+character=Dan Czarn	name=Troy Vincent	episodes=1 episode, 2015 	
+character=Reporter 	name=Melissa Center	episodes=1 episode, 2015 	
+character=Soda Can Girl 	name=Berkeley Courtney-Moore	episodes=1 episode, 2019 	
+character=Doctor	name=Jeff Bailey	episodes=1 episode, 2019 	
+character=TV Anchor	name=Alyson Courtney	episodes=1 episode, 2019 	
+character=L	name=Lloyd Watts	episodes=1 episode, 2014 	
+character=Ashley Daison	name=Philip Moon	episodes=1 episode, 2015 	
+character=Hippy	name=Rodger Halston	episodes=1 episode, 2015 	
+character=Moderator	name=Cory Blevins	episodes=1 episode, 2015 	
+character=Reporter 	name=Steven Ellison	episodes=1 episode, 2015 	
+character=State Police Receptionist	name=Mary Kathryn Bryant	episodes=1 episode, 2019 	
+character=Evidence Control Officer	name=Jason Edwards	episodes=1 episode, 2019 	
+character=Paul Trevor	name=Drew Waters	episodes=1 episode, 2015 	
+character=Frank	name=Cooper Huckabee	episodes=1 episode, 2015 	
+character=Father	name=Cooper Huckabee	episodes=1 episode, 2015 	
+character=Jeweler	name=Jeff Doucette	episodes=1 episode, 2015 	
+character=Dealer	name=Miguel Izaguirre	episodes=1 episode, 2015 	
+character=Tony Transpo	name=Michael Edwin	episodes=1 episode, 2015 	
+character=Reporter 	name=Sara Welch	episodes=1 episode, 2015 	
+character=Officer Davis	name=Jon Walters	episodes=1 episode, 2019 	
+character=Field Reporter	name=Diane Mizota	episodes=1 episode, 2015 	
+character=Ranger	name=Peter Katona	episodes=1 episode, 2015 	
+character=Webcam Owner	name=Wilke Itzin	episodes=1 episode, 2015 	
+character=News Reporter	name=Liberte Chan	episodes=1 episode, 2015 	
+character=Ernest	name=Keith Hudson	episodes=1 episode, 2019 	
+character=Tenant	name=Angela Fornero	episodes=1 episode, 2015 	
+character=Colter	name=Joey Jennings	episodes=1 episode, 2015 	
+character=California Highway Patrol Police 	name=Charles Maceo	episodes=1 episode, 2015 	
+character=Youth 	name=Jesse Mitchell	episodes=1 episode, 2015 	
+character=Joe	name=Josh Whites	episodes=1 episode, 2019 	
+character=News Anchor	name=JJ Snyder	episodes=1 episode, 2015 	
+character=Teen Gangster	name=Koby Kumi-Diaka	episodes=1 episode, 2015 	
+character=Don	name=Cody Shelton	episodes=1 episode, 2019 	
+character=Man	name=Benjamin Schrader	episodes=1 episode, 2015 	
+character=Constantine	name=Carlos Ayala	episodes=1 episode, 2015 	
+character=Man 	name=Beau Berglund	episodes=1 episode, 2015 	
+character=Man 	name=Mike Kersey	episodes=1 episode, 2015 	
+character=Hooker	name=Ney Hadley	episodes=1 episode, 2015 	
+character=Hooker	name=Chez	episodes=1 episode, 2015 	
+character=California Highway Patrol Police 	name=Mustafa Speaks	episodes=1 episode, 2015 	
+character=Man 	name=Nick Gracer	episodes=1 episode, 2015 	
+character=Mrs. Peru	name=Ana Mercedes	episodes=1 episode, 2015 	
+character=Webcam Girl 	name=Ashli Haynes	episodes=1 episode, 2015 	
+character=Tommy Peru	name=J. Francisco Rodriguez	episodes=1 episode, 2015 	
+character=Webcam Girl 	name=Rosalie McIntire	episodes=1 episode, 2015 	
+character=Vinci PD	name=Keir Thirus	episodes=1 episode, 2015 	
+character=Panticapaeum Maid 	name=Lidia Porto	episodes=1 episode, 2015 	
+character=Fregredo	name=Eltony Williams	episodes=1 episode, 2015 	
+character=Loyd	name=Chas Scherer	episodes=1 episode, 2015 	
+character=Panticapaeum Maid 	name=Ivet Corvea	episodes=1 episode, 2015 	
+character=Male Deputy 	name=Avi Bernard	episodes=1 episode, 2015 	
+character=Male Deputy 	name=Brett Edwards	episodes=1 episode, 2015 	
+character=Paramedic	name=Dudley Fuqua	episodes=1 episode, 2014 	
+character=Graveside Nun	name=Janis Duley	episodes=1 episode, 2019 	
+character=Bodyguard Detail	name=Lee Pfeifer	episodes=1 episode, 2019 	
+character=Hoyt	name=Lee Pfeifer	episodes=1 episode, 2019 	
+character=Casino Guest	name=Bruce M. Stockert	episodes=4 episodes, 2015 	
+character=Undercover NARC	name=John L. Armijo	episodes=3 episodes, 2014 	
+character=Spectator	name=Marc Abbink	episodes=3 episodes, 2015 	
+character=Pedestrian	name=Jacquelyn Twodat Jackson	episodes=2 episodes, 2014 	
+character=Detective	name=Chris McKnight	episodes=2 episodes, 2014 	
+character=Roller Rink Teen	name=Sebastian Kretzmann	episodes=2 episodes, 2014 	
+character=Santos Posse	name=Abraham Luna	episodes=2 episodes, 2015 	
+character=Santos Posse	name=Shannon Garnett	episodes=2 episodes, 2015 	
+character=Race Spectator	name=Ben Guenther	episodes=2 episodes, 2015 	
+character=Transsexual Hooker	name=Kenneth Kynt Bryan	episodes=1 episode, 2014 	
+character=GB Girl	name=Steffie Grote	episodes=1 episode, 2014 	
+character=Dancing Cowboy	name=Juan Gaspard	episodes=1 episode, 2014 	
+character=Trooper	name=Will Koberg	episodes=1 episode, 2014 	
+character=Narcotics Officer	name=Rex Baker	episodes=1 episode, 2014 	
+character=Good Ol Boy	name=Elton LeBlanc	episodes=1 episode, 2014 	
+character=Dora Kelly Lange	name=Amanda Rose Batz	episodes=1 episode, 2014 	
+character=Major Markum	name=Lee Burns	episodes=1 episode, 2014 	
+character=Detective	name=Jon Arthur	episodes=1 episode, 2014 	
+character=Looter	name=Tre Tureaud	episodes=1 episode, 2014 	
+character=Smoking Girl	name=McKenna Pippen	episodes=1 episode, 2014 	
+character=Dancer	name=Heather Ashley Boyd	episodes=1 episode, 2014 	
+character=Guitarist	name=Shane Theriot	episodes=1 episode, 2014 	
+character=Forensic Photographer	name=Skip Bolen	episodes=1 episode, 2014 	
+character=Detective	name=Robert Segari	episodes=1 episode, 2014 	
+character=Neighborhood Kid	name=Lola Phillips	episodes=1 episode, 2014 	
+character=Lawyer	name=Gustavo I. Ortiz	episodes=1 episode, 2014 	
+character=Club Patron	name=Ross P. Cook	episodes=1 episode, 2014 	
+character=Reporter	name=Brian Bossetta	episodes=1 episode, 2014 	
+character=Nurse	name=Janet Lynn Carey	episodes=1 episode, 2014 	
+character=Tent Revivalist	name=Bob Walker	episodes=1 episode, 2014 	
+character=Bar Bouncer	name=Peter Mortillaro	episodes=1 episode, 2014 	
+character=State Trooper	name=Jason Musco	episodes=1 episode, 2014 	
+character=Golfer	name=Michael Rhoads	episodes=1 episode, 2014 	
+character=Biker	name=Jason Gerry	episodes=1 episode, 2014 	
+character=Bar Patron	name=Tommy Sheppard	episodes=1 episode, 2014 	
+character=Strip Club Trucker	name=James Ourso	episodes=1 episode, 2014 	
+character=Reporter	name=Florence Young	episodes=1 episode, 2014 	
+character=Kid in Street	name=Dylan DePaula	episodes=1 episode, 2014 	
+character=Tent Revival Child	name=Mary Katherine Oglesby	episodes=1 episode, 2014 	
+character=Dancer	name=Jaci LeJeune	episodes=1 episode, 2014 	
+character=Club VIP	name=Andrew j Spinks	episodes=1 episode, 2014 	
+character=Tent Revival Attendee	name=Jessica Incorvaia	episodes=1 episode, 2014 	
+character=Elk Lodge Member	name=Rodney Hebert	episodes=1 episode, 2014 	
+character=GB Biker 	name=Shane Kretzmann	episodes=1 episode, 2014 	
+character=Biker	name=Brandon Cubas	episodes=1 episode, 2014 	
+character=Looter	name=Terrance Collier	episodes=1 episode, 2014 	
+character=Truck Driver	name=Scott Everett Nichols	episodes=1 episode, 2014 	
+character=Attorney	name=Lassiter Holmes	episodes=1 episode, 2014 	
+character=Tent Revival Attendee	name=Neal Ten Eyck	episodes=1 episode, 2014 	
+character=Tent Revival Worshiper	name=James E. Guidry	episodes=1 episode, 2014 	
+character=Escort	name=Erika Jordan	episodes=1 episode, 2015 	
+character=Webcam Girl	name=Jacqui Holland	episodes=1 episode, 2015 	
+character=Escort	name=Anne McDaniels	episodes=1 episode, 2015 	
+character=Escort	name=Brooklynne James	episodes=1 episode, 2015 	
+character=High Roller Client	name=Bill Blair	episodes=1 episode, 2015 	
+character=Shooter	name=Eddie J. Fernandez	episodes=1 episode, 2015 	
+character=Window Shopper	name=Cici Leah Campbell	episodes=1 episode, 2015 	
+character=Escort	name=Tatum Miranda	episodes=1 episode, 2015 	
+character=Ares Operative	name=Eddie Davenport	episodes=1 episode, 2015 	
+character=Escort	name=Diana Terranova	episodes=1 episode, 2015 	
+character=Club Dancer	name=Tina Grimm	episodes=1 episode, 2015 	
+character=Escort	name=Peta Jensen	episodes=1 episode, 2015 	
+character=Escort	name=Alix Lynx	episodes=1 episode, 2015 	
+character=Brandy	name=Nicole Herold	episodes=1 episode, 2015 	
+character=Bouncer	name=Dwayne Marion Johnson	episodes=1 episode, 2015 	
+character=A.D.	name=Nancy DeMars	episodes=1 episode, 2015 	
+character=Escort	name=Laura Lee Cebrick	episodes=1 episode, 2015 	
+character=Casino Guest	name=Emily Rhoads	episodes=1 episode, 2015 	
+character=Casino Dealer	name=Pamela Drake Wilson	episodes=1 episode, 2015 	
+character=Escort	name=Halszka Wanda Lea Kuza	episodes=1 episode, 2015 	
+character=Escort	name=Katie O	episodes=1 episode, 2015 	
+character=Escort	name=Malley	episodes=1 episode, 2015 	
+character=CHP Officer	name=Mandell Frazier	episodes=1 episode, 2015 	
+character=Passenger	name=Juliana Caesar	episodes=1 episode, 2015 	
+character=L.A. Nightclub Patron	name=Jake Ferree	episodes=1 episode, 2015 	
+character=Civilian 	name=Cheryl Lewis	episodes=1 episode, 2015 	
+character=Escort	name=Isabelle Merey	episodes=1 episode, 2015 	
+character=Vault Attendant	name=Keith A. Somers	episodes=1 episode, 2015 	
+character=Mexican 	name=Sergio Garcia	episodes=1 episode, 2015 	
+character=Poker Player	name=Vincent M. Biscione	episodes=1 episode, 2015 	
+character=Casino Guest	name=Ashley Chaney	episodes=1 episode, 2015 	
+character=Gambit Fan	name=Pat-Ric McCaffery	episodes=1 episode, 2015 	
+character=Student	name=Oceane Bucaille	episodes=1 episode, 2015 	
+character=Ben Caspere	name=Bo McCann	episodes=1 episode, 2015 	
+character=Hollywood Lowlife	name=Doby Daenger	episodes=1 episode, 2015 	
+character=Mexican 	name=Richard Nunez	episodes=1 episode, 2015 	
+character=Crossing Guard	name=Tina Redmond	episodes=1 episode, 2015 	
+character=Escort	name=Taryn Jones	episodes=1 episode, 2015 	
+character=Model	name=Barbie B. Lange	episodes=1 episode, 2015 	
+character=Casino Gambler	name=Terra Kimberly Scott	episodes=1 episode, 2015 	
+character=Escort	name=Alana Noland	episodes=1 episode, 2015 	
+character=Vinci Investor	name=Rich Young Lee	episodes=1 episode, 2015 	
+character=Police Officer	name=Mike Sakellarides	episodes=1 episode, 2015 	
+character=Venezuelan Party Girl	name=Fiorella Mayorca	episodes=1 episode, 2015 	
+character=Venezuelan Party Guy	name=Alan Trujillo	episodes=1 episode, 2015 	
+character=Webcam Girl	name=Raquel Yasmin	episodes=1 episode, 2015 	
+character=Race Fan	name=Alessandro Pulisci	episodes=1 episode, 2015 	
+character=Biker	name=Dennis Keiffer	episodes=1 episode, 2019 	
+character=Gus	name=Eric Parkinson	episodes=1 episode, 2019 	
+character=Man Behind Monitor	name=Chuck Meré	episodes=1 episode, 2019 	
+character=Student	name=Grace Pitts	episodes=1 episode, 2019 	
+character=Viet Cong Soldier	name=Vu Ha	episodes=1 episode, 2019 	
+character=Medical Examiner	name=Julie Ivey	episodes=1 episode, 2019 	
+character=Lisa	name=Madison Probus	episodes=1 episode, 2019 	
+character=Cop	name=Ben Belay	episodes=1 episode, 2019 	
+character=Bookstore Patron	name=Marilyn Knapp	episodes=1 episode, 2019 	
+character=State Trooper	name=James Michael Smith	episodes=1 episode, 2019 	
+character=Book Store Customer	name=John Stafford	episodes=1 episode, 2019 	
+character=Walmart Shopper	name=Roman Fischer	episodes=1 episode, 2019 	
+character=Jean	name=Shelby Faciane	episodes=1 episode, 2019 	
+character=Book Reading Patron	name=Mary Ann Moore	episodes=1 episode, 2019 	
+character=Biker	name=James Davison	episodes=1 episode, 2019 	
+character=Fingerprint Tech	name=Lesa Wolfe	episodes=1 episode, 2019 	
+character=Shopper	name=Don E. Willis	episodes=1 episode, 2019 	
+character=Reporter	name=Jordan Rodgers	episodes=1 episode, 2019 	
+character=Deputy Fry	name=Brandon Graham	episodes=1 episode, 2019 	

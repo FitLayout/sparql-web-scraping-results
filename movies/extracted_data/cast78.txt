@@ -1,0 +1,118 @@
+# http://fitlayout.github.io/resource/art78 -> https://www.imdb.com/title/tt11337908/fullcredits/
+character=Alex Russell	name=Margaret Qualley	episodes=10 episodes, 2021 	
+character=Sean Boyd	name=Nick Robinson	episodes=10 episodes, 2021 	
+character=Maddy Boyd	name=Rylea Nevaeh Whittet	episodes=10 episodes, 2021 	
+character=Paula Langley	name=Andie MacDowell	episodes=9 episodes, 2021 	
+character=Regina	name=Anika Noni Rose	episodes=7 episodes, 2021 	
+character=Yolanda	name=Tracy Vilar	episodes=7 episodes, 2021 	
+character=Hank	name=Billy Burke	episodes=6 episodes, 2021 	
+character=Denise	name=BJ Harrison	episodes=6 episodes, 2021 	
+character=Nate	name=Raymond Ablack	episodes=5 episodes, 2021 	
+character=Ethan	name=Xavier de Guzman	episodes=5 episodes, 2021 	
+character=Basil Desmond	name=Toby Levins	episodes=4 episodes, 2021 	
+character=Tania	name=Christie Burke	episodes=4 episodes, 2021 	
+character=Maddy Boyd	name=Angelina Pepper	episodes=3 episodes, 2021 	
+character=Jody	name=Amy Reid	episodes=3 episodes, 2021 	
+character=Cal	name=Anthony Scardera	episodes=3 episodes, 2021 	
+character=Mrs. Kim	name=Sook Hexamer	episodes=3 episodes, 2021 	
+character=Danielle	name=Aimee Carrero	episodes=2 episodes, 2021 	
+character=Tara	name=Mozhan Marnò	episodes=2 episodes, 2021 	
+character=Doreen Boyd	name=Jessica Steen	episodes=2 episodes, 2021 	
+character=Brandi	name=Hilaria Larriva	episodes=2 episodes, 2021 	
+character=Micah	name=Steve Bacic	episodes=2 episodes, 2021 	
+character=Phyllis	name=Moon Hee Suk	episodes=2 episodes, 2021 	
+character=Sharlene	name=Erin Karpluk	episodes=2 episodes, 2021 	
+character=Luis	name=Tim Perez	episodes=2 episodes, 2021 	
+character=Brady	name=Zolan Arneja	episodes=2 episodes, 2021 	
+character=Melody	name=Gillian Barber	episodes=2 episodes, 2021 	
+character=John Marshal	name=Alessandro Juliani	episodes=2 episodes, 2021 	
+character=Shane	name=Nathan Mayes	episodes=2 episodes, 2021 	
+character=Frankie	name=Jessie Liang	episodes=2 episodes, 2021 	
+character=Wayne	name=Théodore Pellerin	episodes=1 episode, 2021 	
+character=Chantal	name=Kayt Roth	episodes=1 episode, 2021 	
+character=Tim	name=Bill Pozzobon	episodes=1 episode, 2021 	
+character=Pubes	name=Jennifer Kitchen	episodes=1 episode, 2021 	
+character=Penny	name=Gloria Garayua	episodes=1 episode, 2021 	
+character=Abigail	name=Bailey Skodje	episodes=1 episode, 2021 	
+character=Ella	name=Lia Frankland	episodes=1 episode, 2021 	
+character=Mina	name=Requell Jodeah	episodes=1 episode, 2021 	
+character=Singh	name=Sachin Sahel	episodes=1 episode, 2021 	
+character=Addison	name=Beckham Skodje	episodes=1 episode, 2021 	
+character=Noah	name=Talen Mabry	episodes=1 episode, 2021 	
+character=Renee	name=Brenda Crichlow	episodes=1 episode, 2021 	
+character=Vivian	name=Laara Sadiq	episodes=1 episode, 2021 	
+character=Stella	name=Mercedes De La Cruz	episodes=1 episode, 2021 	
+character=Kurtis	name=Daniel Bacon	episodes=1 episode, 2021 	
+character=Jackson	name=Kurt Szarka	episodes=1 episode, 2021 	
+character=Sasha	name=Megan Leitch	episodes=1 episode, 2021 	
+character=James Campbell	name=Chris Shields	episodes=1 episode, 2021 	
+character=Kyle Decker	name=Nick Preston	episodes=1 episode, 2021 	
+character=Kyla	name=Murry Peeters	episodes=1 episode, 2021 	
+character=Larry	name=Roman Podhora	episodes=1 episode, 2021 	
+character=Gerald	name=Tom Tasse	episodes=1 episode, 2021 	
+character=Jeffries	name=Matthew Mandzij	episodes=1 episode, 2021 	
+character=Tom	name=Mike Wasko	episodes=1 episode, 2021 	
+character=Gary Whippler	name=Jed Rees	episodes=1 episode, 2021 	
+character=Rose	name=Jelena Milinkovic	episodes=1 episode, 2021 	
+character=Rita	name=Janet Glassford	episodes=1 episode, 2021 	
+character=Esther	name=Nancy Sivak	episodes=1 episode, 2021 	
+character=Susie	name=Bonny Thorne	episodes=1 episode, 2021 	
+character=Adina	name=Charmaine Wilson	episodes=1 episode, 2021 	
+character=Lucas	name=Michael Crouse	episodes=1 episode, 2021 	
+character=Kelly	name=Jill Morrison	episodes=1 episode, 2021 	
+character=Trina	name=Nhi Do	episodes=1 episode, 2021 	
+character=Jordan	name=Paul C. Grenier	episodes=1 episode, 2021 	
+character=Earl	name=Jade Pawluk	episodes=1 episode, 2021 	
+character=Bob	name=Leo Chiang	episodes=1 episode, 2021 	
+character=Jasmine Lippe	name=Ashleigh Kearns	episodes=1 episode, 2021 	
+character=Clint	name=Troy Anthony Young	episodes=1 episode, 2021 	
+character=Howie Poascencia	name=Philip Granger	episodes=1 episode, 2021 	
+character=Dr. Till	name=Scott Bellis	episodes=1 episode, 2021 	
+character=Nora	name=Morgana Wyllie	episodes=1 episode, 2021 	
+character=Winston	name=Braden Chase	episodes=1 episode, 2021 	
+character=Samson	name=Russell Lee	episodes=1 episode, 2021 	
+character=Kiara Hudis	name=Alison Araya	episodes=1 episode, 2021 	
+character=Magda	name=Patti Kim	episodes=1 episode, 2021 	
+character=Jed	name=Spencer Drever	episodes=1 episode, 2021 	
+character=Shauna	name=Madeleine Kelders	episodes=1 episode, 2021 	
+character=Eli	name=Guy Christie	episodes=1 episode, 2021 	
+character=Stu	name=Beau de Zwager	episodes=1 episode, 2021 	
+character=Young Alex	name=Mila Jones	episodes=1 episode, 2021 	
+character=Brett	name=Nels Lennarson	episodes=1 episode, 2021 	
+character=Bingham	name=Donald Sales	episodes=1 episode, 2021 	
+character=Dr. Lim	name=Shekhar Paleja	episodes=1 episode, 2021 	
+character=Dale	name=Miguel Castillo	episodes=1 episode, 2021 	
+character=Lance	name=Jason Tremblay	episodes=1 episode, 2021 	
+character=Rayna	name=Olivia Lucas	episodes=1 episode, 2021 	
+character=Roberta	name=Erin Aubrey	episodes=1 episode, 2021 	
+character=Petal	name=Britney Katelyn Miller	episodes=1 episode, 2021 	
+character=Sue	name=Jeanie Cloutier	episodes=1 episode, 2021 	
+character=McClintock	name=Colby Wilson	episodes=1 episode, 2021 	
+character=Dr. Baig	name=Eileen Pedde	episodes=1 episode, 2021 	
+character=Jake	name=Josh Chambers	episodes=1 episode, 2021 	
+character=Silver	name=Robbie Segulam	episodes=1 episode, 2021 	
+character=Wicket	name=Trace Schurko	episodes=1 episode, 2021 	
+character=Drew	name=Jake Sheardown	episodes=1 episode, 2021 	
+character=Jennings	name=Angela Moore	episodes=1 episode, 2021 	
+character=Phil	name=Eric Ruggieri	episodes=1 episode, 2021 	
+character=Jackie	name=Carmela Sison	episodes=1 episode, 2021 	
+character=Joyce	name=Terry O	episodes=1 episode, 2021 	
+character=Joyce	name=Sullivan	episodes=1 episode, 2021 	
+character=Malik	name=Francisco Cano	episodes=1 episode, 2021 	
+character=Kent	name=Nitin Prasad	episodes=1 episode, 2021 	
+character=Gayle	name=Sandra Medeiros	episodes=1 episode, 2021 	
+character=Jeremiah	name=Yale Shi	episodes=1 episode, 2021 	
+character=Mother	name=Kristina Capati	episodes=1 episode, 2021 	
+character=Nanny	name=Amy McInnes	episodes=1 episode, 2021 	
+character=Coachella Crew 	name=Ashleica Edmond	episodes=1 episode, 2021 	
+character=Coachella Crew 	name=Carolina Rolo	episodes=1 episode, 2021 	
+character=Coachella Crew 	name=Mia Fiona Kut	episodes=1 episode, 2021 	
+character=DV Support Woman 	name=Lynnette Kissoon	episodes=3 episodes, 2021 	
+character=Bar Patron	name=Erin Marshall	episodes=3 episodes, 2021 	
+character=Lawyer	name=Christian J. Stewart	episodes=2 episodes, 2021 	
+character=Security Guard 	name=Noah Crawford	episodes=1 episode, 2021 	
+character=Janice	name=Jane Stanton	episodes=1 episode, 2021 	
+character=Gene Kelly Look Alike	name=Michael Culp	episodes=1 episode, 2021 	
+character=DV writers group member	name=Carey Oakes	episodes=1 episode, 2021 	
+character=Skip	name=Karl Johanson	episodes=1 episode, 2021 	
+character=Bank Teller	name=Rick Larouche	episodes=1 episode, 2021 	

@@ -1,0 +1,109 @@
+# http://fitlayout.github.io/resource/art39 -> https://www.imdb.com/title/tt4898282/fullcredits/
+character=Arthur Bailey	name=Alan Ritchson	episodes=13 episodes, 2017 	
+character=Grace d	name=Christina Ochoa	episodes=13 episodes, 2017 	
+character=Argento	name=Christina Ochoa	episodes=13 episodes, 2017 	
+character=Christopher Carpenter	name=Thomas Dominique	episodes=13 episodes, 2017 	
+character=Aki	name=Marama Corlett	episodes=13 episodes, 2017 	
+character=Julian Slink	name=Colin Cunningham	episodes=13 episodes, 2017 	
+character=Old Man Heart	name=Sean Cameron Michael	episodes=6 episodes, 2017 	
+character=The Scholar	name=Darren Kent	episodes=6 episodes, 2017 	
+character=Garrett Kemble	name=Aidan Whytock	episodes=5 episodes, 2017 	
+character=Rasher	name=Carel Nel	episodes=5 episodes, 2017 	
+character=The Gentleman	name=Andrew Hall	episodes=4 episodes, 2017 	
+character=Karma	name=Alex McGregor	episodes=4 episodes, 2017 	
+character=Cliff	name=Craig Jackson	episodes=4 episodes, 2017 	
+character=Rib Bone	name=Brandon Auret	episodes=4 episodes, 2017 	
+character=Domi	name=Jenny Stead	episodes=4 episodes, 2017 	
+character=Captain Clown Dick	name=Paul Pieterse	episodes=4 episodes, 2017 	
+character=Stacey Fung	name=Natalie Mendoza	episodes=3 episodes, 2017 	
+character=Battledrome Fighter	name=Reon Van Der Watt	episodes=3 episodes, 2017 	
+character=Sheriff Leon	name=Danny Keogh	episodes=2 episodes, 2017 	
+character=Alex Kurosky	name=Claire Berlein	episodes=2 episodes, 2017 	
+character=Bill Henry	name=Paul Snodgrass	episodes=2 episodes, 2017 	
+character=Doctor 2	name=Rob van Vuuren	episodes=2 episodes, 2017 	
+character=Dr. Vermaak	name=Warrick Grier	episodes=2 episodes, 2017 	
+character=Sergeant Gower	name=Altovise Lawrence	episodes=2 episodes, 2017 	
+character=Fat E	name=Adam Pelkowitz	episodes=2 episodes, 2017 	
+character=Drive-Through Girl	name=Frances Sholto-Douglas	episodes=2 episodes, 2017 	
+character=Mohawk	name=Dorian Holdren	episodes=2 episodes, 2017 	
+character=Mercedes	name=Renée Castle	episodes=1 episode, 2017 	
+character=Jeff Warren	name=Tumisho Masha	episodes=1 episode, 2017 	
+character=Terry	name=Odelle de Wet	episodes=1 episode, 2017 	
+character=Roland	name=Michael Bundred	episodes=1 episode, 2017 	
+character=Anne	name=Meganne Young	episodes=1 episode, 2017 	
+character=Diane	name=Jay Anstey	episodes=1 episode, 2017 	
+character=Melanie	name=Ashley de Lange	episodes=1 episode, 2017 	
+character=Documentarian	name=Amy Letcher	episodes=1 episode, 2017 	
+character=Karl Kox	name=Tony Caprari	episodes=1 episode, 2017 	
+character=Rebel Leader	name=Peter Butler	episodes=1 episode, 2017 	
+character=Pearl	name=Pik Sen Lim	episodes=1 episode, 2017 	
+character=Mimi Kox	name=Roxane Hayward	episodes=1 episode, 2017 	
+character=David	name=Ashish Gangapersad	episodes=1 episode, 2017 	
+character=Wife	name=Leigh Bremridge	episodes=1 episode, 2017 	
+character=Rebel Leader	name=Leigh Bremridge	episodes=1 episode, 2017 	
+character=Dr. Kleinfeld	name=Luthuli Dlamini	episodes=1 episode, 2017 	
+character=Operator	name=Gino Lee	episodes=1 episode, 2017 	
+character=Abby the Hun	name=Lee-Anne Liebenberg	episodes=1 episode, 2017 	
+character=Sutherland	name=Stephen Jennings	episodes=1 episode, 2017 	
+character=Team Leader	name=Kevin Otto	episodes=1 episode, 2017 	
+character=Cameraman	name=Keenan Arrison	episodes=1 episode, 2017 	
+character=Receptionist	name=Jaco Nothnagel	episodes=1 episode, 2017 	
+character=Amazon Sperm Slave	name=Matthew Lotter	episodes=1 episode, 2017 	
+character=Jack	name=Christopher Stein	episodes=1 episode, 2017 	
+character=Young Tough	name=Carlito Brigante	episodes=1 episode, 2017 	
+character=Melvin Slink	name=Evan Hengst	episodes=1 episode, 2017 	
+character=Barista	name=Chad Phillips	episodes=1 episode, 2017 	
+character=Carolina	name=Hlubi Mboya	episodes=1 episode, 2017 	
+character=Tattoo Fan	name=Richard Wright-Firth	episodes=1 episode, 2017 	
+character=Tight T-Shirt Guy	name=Michael Fenn	episodes=1 episode, 2017 	
+character=Kid 1	name=Cameron Corrigan	episodes=1 episode, 2017 	
+character=Grela	name=Ambrosa Lambermont	episodes=1 episode, 2017 	
+character=Cyclops	name=Craig Macrae	episodes=1 episode, 2017 	
+character=Junkie	name=Nathan Lynn	episodes=1 episode, 2017 	
+character=Bride	name=Michelle Allen	episodes=1 episode, 2017 	
+character=Gerlie	name=Mischia Batt	episodes=1 episode, 2017 	
+character=Past Primo	name=Leandra Dreyer	episodes=1 episode, 2017 	
+character=Lavern Slink	name=Alicia McCormick	episodes=1 episode, 2017 	
+character=Kid 2	name=Brennar Kyle	episodes=1 episode, 2017 	
+character=Mamphrane Guard	name=Richard Lothian	episodes=1 episode, 2017 	
+character=Cronenburgh Musician	name=John Bartmann	episodes=1 episode, 2017 	
+character=Kissing Mayhemer	name=Denicke Cronje	episodes=1 episode, 2017 	
+character=Past Primo	name=Hein de Vries	episodes=1 episode, 2017 	
+character=Groom	name=Llewellyn Van Der Berg	episodes=1 episode, 2017 	
+character=Carolina Guard 	name=Shelia Ho	episodes=1 episode, 2017 	
+character=Harriet	name=Christie Peruso	episodes=1 episode, 2017 	
+character=Chad	name=Shaun Chad Smit	episodes=1 episode, 2017 	
+character=Kissing Mayhemer	name=Roxanne Prentice	episodes=1 episode, 2017 	
+character=Partier	name=Arlin Bantam	episodes=1 episode, 2017 	
+character=Carolina Guard 	name=Nina Kuhn	episodes=1 episode, 2017 	
+character=Primo Fighter	name=Brenda Firmani	episodes=1 episode, 2017 	
+character=Cronenburgh Musician	name=Riaz Jorge	episodes=1 episode, 2017 	
+character=Primo Fighter	name=Daniel Himschoot	episodes=1 episode, 2017 	
+character=Barry	name=Bjorn Steinbach	episodes=1 episode, 2017 	
+character=Zingo	name=Kerry Gregg	episodes=1 episode, 2017 	
+character=Kissing Mayhemer	name=Cayley Rae	episodes=1 episode, 2017 	
+character=Bearded Trucker	name=Martin Van Geems	episodes=1 episode, 2017 	
+character=Head Splitter Partier	name=Robin Minifie	episodes=1 episode, 2017 	
+character=Cronenburgh Musician	name=Imtiy Az Kardia	episodes=1 episode, 2017 	
+character=Battledrome Fighter	name=Serena Ciralli	episodes=1 episode, 2017 	
+character=Battledrome Fighter	name=Paul Hampshire	episodes=1 episode, 2017 	
+character=Todd	name=Jesse Suntele	episodes=1 episode, 2017 	
+character=Raul	name=Freddie Kruger	episodes=1 episode, 2017 	
+character=Primo Fighter	name=Lana Lynx	episodes=1 episode, 2017 	
+character=Kissing Mayhemer	name=Herschelle Rhodenburg	episodes=1 episode, 2017 	
+character=Cronenburgh Musician	name=James Kirby	episodes=1 episode, 2017 	
+character=Primo Fighter	name=Ian Stock	episodes=1 episode, 2017 	
+character=Battledrome Fighter	name=Malin Kirjonen	episodes=1 episode, 2017 	
+character=Robotard 9000	name=Anton Moon	episodes=1 episode, 2017 	
+character=Cronenburgh Musician	name=Mikhal Motala	episodes=1 episode, 2017 	
+character=Primo Fighter	name=Ross Van Der Walt	episodes=1 episode, 2017 	
+character=Cronenburgh Musician	name=Jason Mulcahy	episodes=1 episode, 2017 	
+character=Battledrome Fighter	name=Anneli Muller	episodes=1 episode, 2017 	
+character=Battledrome Fighter	name=Jenny Umbhau	episodes=1 episode, 2017 	
+character=Cronenburgh Musician	name=Derek Organ	episodes=1 episode, 2017 	
+character=Cronenburgh Musician	name=Atreyu Setter	episodes=1 episode, 2017 	
+character=Cronenburgh Musician	name=Cliff West	episodes=1 episode, 2017 	
+character=Cronenburgh Musician	name=John Yarnold	episodes=1 episode, 2017 	
+character=Town Person	name=Witney Tucker	episodes=1 episode, 2017 	
+character=Glimmer	name=David Smith	episodes=1 episode, 2017 	
+character=Team Member 1	name=Ameera Conrad	episodes=1 episode, 2017 	

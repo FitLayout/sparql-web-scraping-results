@@ -1,0 +1,233 @@
+# http://fitlayout.github.io/resource/art22 -> https://www.imdb.com/title/tt2879552/fullcredits/
+character=Jake Epping	name=James Franco	episodes=8 episodes, 2016 	
+character=Sadie Dunhill	name=Sarah Gadon	episodes=8 episodes, 2016 	
+character=Bill Turcotte	name=George MacKay	episodes=8 episodes, 2016 	
+character=Al Templeton	name=Chris Cooper	episodes=8 episodes, 2016 	
+character=Marguerite Oswald	name=Cherry Jones	episodes=7 episodes, 2016 	
+character=Lee Harvey Oswald	name=Daniel Webber	episodes=7 episodes, 2016 	
+character=Yellow Card Man	name=Connor	episodes=7 episodes, 2016 	
+character=Yellow Card Man	name=Kevin J. O	episodes=7 episodes, 2016 	
+character=Marina Oswald	name=Lucy Fry	episodes=6 episodes, 2016 	
+character=George de Mohrenschildt	name=Jonny Coyne	episodes=5 episodes, 2016 	
+character=Deke Simmons	name=Nick Searcy	episodes=5 episodes, 2016 	
+character=Johnny Clayton	name=T.R. Knight	episodes=4 episodes, 2016 	
+character=Frank Dunning	name=Josh Duhamel	episodes=4 episodes, 2016 	
+character=Mia Mimi Corcoran	name=Tonya Pinkins	episodes=4 episodes, 2016 	
+character=Christy Epping	name=Brooklyn Sudano	episodes=3 episodes, 2016 	
+character=Bobby Oswald	name=Michael Izquierdo	episodes=3 episodes, 2016 	
+character=Jeanne De Mohrenschildt	name=Shauna MacDonald	episodes=3 episodes, 2016 	
+character=Vada Oswald	name=Amy Marie Wallace	episodes=2 episodes, 2016 	
+character=Dallas Dignitary	name=Terrie Cooklin	episodes=1 episode, 2016 	
+character=FBI Agent James B. Hosty	name=Gil Bellows	episodes=2 episodes, 2016 	
+character=Bobbi Jill Allnut	name=Juliette Angelo	episodes=2 episodes, 2016 	
+character=Bonnie Ray Williams	name=Grantham Coleman	episodes=2 episodes, 2016 	
+character=Mike Coslaw	name=Braeden Lemasters	episodes=2 episodes, 2016 	
+character=Harry Dunning	name=Leon Rippy	episodes=2 episodes, 2016 	
+character=General Edwin Walker	name=Gregory North	episodes=2 episodes, 2016 	
+character=Sadie	name=Erica Anderson	episodes=2 episodes, 2016 	
+character=Cousin 	name=Erica Anderson	episodes=2 episodes, 2016 	
+character=Ruth Paine	name=Miranda Calderon	episodes=2 episodes, 2016 	
+character=Dr. Jones	name=Kristian Bruun	episodes=2 episodes, 2016 	
+character=Dr. Moren	name=Christian Lloyd	episodes=2 episodes, 2016 	
+character=Doris Dunning	name=Joanna Douglas	episodes=2 episodes, 2016 	
+character=Man 	name=Kevin Dennis	episodes=2 episodes, 2016 	
+character=Young Harry Dunning	name=Jack Fulton	episodes=2 episodes, 2016 	
+character=Man 	name=Julian De Zotti	episodes=2 episodes, 2016 	
+character=Little Brother	name=Cody Gallant	episodes=2 episodes, 2016 	
+character=Ellen Dunning	name=Hannah Levinson	episodes=2 episodes, 2016 	
+character=Sadie	name=Chelsea Norgren	episodes=2 episodes, 2016 	
+character=Cousin 	name=Chelsea Norgren	episodes=2 episodes, 2016 	
+character=JFK	name=Christopher Phipps	episodes=2 episodes, 2016 	
+character=Police Escort 	name=Gary Biggar	episodes=1 episode, 2016 	
+character=Biggest Cop	name=Christopher Dyson	episodes=1 episode, 2016 	
+character=Inmate 1	name=Matt Smith	episodes=1 episode, 2016 	
+character=Boy 	name=Rividu Mendis	episodes=2 episodes, 2016 	
+character=Houston and Elm Pedestrian	name=Ellen Crouch	episodes=1 episode, 2016 	
+character=Pedestrian	name=Allene Hillegas	episodes=1 episode, 2016 	
+character=Houston and Elm Pedestrian	name=Clarence Cross	episodes=1 episode, 2016 	
+character=Arliss Price	name=Neill	episodes=1 episode, 2016 	
+character=Arliss Price	name=Michael O	episodes=1 episode, 2016 	
+character=Edna Price	name=Toole	episodes=1 episode, 2016 	
+character=Edna Price	name=Annette O	episodes=1 episode, 2016 	
+character=Earl	name=Jadon Clews	episodes=1 episode, 2016 	
+character=Jack Ruby	name=Antoni Corone	episodes=1 episode, 2016 	
+character=Captain Will Fritz	name=Wilbur Fitzgerald	episodes=1 episode, 2016 	
+character=Dr. Densborough	name=Stewart Arnott	episodes=1 episode, 2016 	
+character=Juanita Dale	name=Alison Brooks	episodes=1 episode, 2016 	
+character=Barfly 	name=Martha Girvin	episodes=1 episode, 2016 	
+character=Old Sadie Dunhill	name=Constance Towers	episodes=1 episode, 2016 	
+character=Security Guard	name=Chris Handfield	episodes=1 episode, 2016 	
+character=Inmate 	name=Darryl Dinn	episodes=1 episode, 2016 	
+character=Jaya	name=Bola Aiyeola	episodes=1 episode, 2016 	
+character=Officer Stephens	name=Brian Bisson	episodes=1 episode, 2016 	
+character=Cop	name=Calvin Desautels	episodes=1 episode, 2016 	
+character=Charlene	name=Claire Brosseau	episodes=1 episode, 2016 	
+character=Receptionist	name=Jennifer Goodhue	episodes=1 episode, 2016 	
+character=Lois	name=Kim Horsman	episodes=1 episode, 2016 	
+character=Silent Mike	name=Bob Stephenson	episodes=1 episode, 2016 	
+character=Suit Salesman	name=Scott Anderson	episodes=1 episode, 2016 	
+character=Dawn	name=Kelly McCormack	episodes=1 episode, 2016 	
+character=Ambulance Attendant	name=Joe Delfin	episodes=1 episode, 2016 	
+character=Woman in Curlers	name=Marsha Mason	episodes=1 episode, 2016 	
+character=Principal Hayles	name=Damir Andrei	episodes=1 episode, 2016 	
+character=Kentucky Newscaster	name=Christopher Marren	episodes=1 episode, 2016 	
+character=Clifford	name=Anthony Colonello	episodes=1 episode, 2016 	
+character=Reporter 	name=Ian Busher	episodes=1 episode, 2016 	
+character=Attendant	name=Josh Cruddas	episodes=1 episode, 2016 	
+character=Dickie	name=Ari Millen	episodes=1 episode, 2016 	
+character=Roy Truly	name=Craig Eldridge	episodes=1 episode, 2016 	
+character=Dallas Cop	name=Jake Michaels	episodes=1 episode, 2016 	
+character=Nurse	name=Kimwun Perehinec	episodes=1 episode, 2016 	
+character=Jackie Kennedy	name=Deanna Cahill	episodes=1 episode, 2016 	
+character=Chicken	name=Robin Archer	episodes=1 episode, 2016 	
+character=Mayor	name=Alexandra Castillo	episodes=1 episode, 2016 	
+character=Barfly	name=Boyd Banks	episodes=1 episode, 2016 	
+character=Sam	name=Greg Ellwand	episodes=1 episode, 2016 	
+character=Norbert Keene	name=John Nelles	episodes=1 episode, 2016 	
+character=Young Man	name=Jon Rhys	episodes=1 episode, 2016 	
+character=Niece	name=Sofia Grossi	episodes=1 episode, 2016 	
+character=Large Orderly	name=Bryon Mumford	episodes=1 episode, 2016 	
+character=Front Desk Guy	name=Ben Beauchemin	episodes=1 episode, 2016 	
+character=Buell Frazier	name=Brian Nicholas	episodes=1 episode, 2016 	
+character=Duwayne	name=Leo Pady	episodes=1 episode, 2016 	
+character=Attendant	name=Mark Richards	episodes=1 episode, 2016 	
+character=El Conejo Manager	name=Lenno Britos	episodes=1 episode, 2016 	
+character=Abraham Zapruder	name=Ira Einsohn	episodes=1 episode, 2016 	
+character=Neighbor 	name=Andy Pogson	episodes=1 episode, 2016 	
+character=Woman	name=Sarah White	episodes=1 episode, 2016 	
+character=Smart Girl	name=Abigail Chu	episodes=1 episode, 2016 	
+character=Agent Shanklin	name=Russell Ferrier	episodes=1 episode, 2016 	
+character=Shooting Range Owner	name=Deborah Lobban	episodes=1 episode, 2016 	
+character=Coach Boorman	name=Bruce Marshall	episodes=1 episode, 2016 	
+character=Halloween Kid	name=Porter Schaefer	episodes=1 episode, 2016 	
+character=Priest	name=Steve Whistance-Smith	episodes=1 episode, 2016 	
+character=Rafael	name=Andres Munar	episodes=1 episode, 2016 	
+character=Neighbor 	name=Jimi Shlag	episodes=1 episode, 2016 	
+character=Skinny Woman	name=Sharon Forrester	episodes=1 episode, 2016 	
+character=Henry Boland	name=Joel Cox	episodes=1 episode, 2016 	
+character=ROTC Kid 	name=Joel Cox	episodes=1 episode, 2016 	
+character=Calvin	name=Dylan Taylor	episodes=1 episode, 2016 	
+character=Ray Monk Johnson	name=Michael Rhoades	episodes=1 episode, 2016 	
+character=Anton	name=Vitali Makarov	episodes=1 episode, 2016 	
+character=Reporter 	name=Mark Alastair	episodes=1 episode, 2016 	
+character=Coat Check Girl	name=Vanessa Da Silva	episodes=1 episode, 2016 	
+character=Randy	name=Percy Hynes White	episodes=1 episode, 2016 	
+character=El Conejo Waitress	name=Débora Demestre	episodes=1 episode, 2016 	
+character=Dr. Gelberg	name=Alex Nussbaum	episodes=1 episode, 2016 	
+character=Woman in Red	name=Marianne Galloway	episodes=1 episode, 2016 	
+character=Anesthesiologist	name=Chris Owens	episodes=1 episode, 2016 	
+character=Girl	name=Carine Gilbert	episodes=1 episode, 2016 	
+character=Hobo 	name=Howard Goldthwaite	episodes=1 episode, 2016 	
+character=Police Escort 	name=Jeff Gruen	episodes=1 episode, 2016 	
+character=Man with Black Umbrella	name=Christian Heep	episodes=1 episode, 2016 	
+character=Milk Delivery Man	name=Colin Doyle	episodes=1 episode, 2016 	
+character=Jackie Kennedy	name=Pip Dwyer	episodes=1 episode, 2016 	
+character=Reporter 	name=M. John Kennedy	episodes=1 episode, 2016 	
+character=Fellow	name=Iain Lacourt	episodes=1 episode, 2016 	
+character=Rookie	name=Brandon Ludwig	episodes=1 episode, 2016 	
+character=Young Alice	name=Allie Gallerani	episodes=1 episode, 2016 	
+character=Waitress 	name=Allie Gallerani	episodes=1 episode, 2016 	
+character=Little Girl	name=Holly Macintyre	episodes=1 episode, 2016 	
+character=Boy 	name=Devon Gilders	episodes=1 episode, 2016 	
+character=Corrigan	name=Neil Girvan	episodes=1 episode, 2016 	
+character=Young Volunteer	name=Charlie Gould	episodes=1 episode, 2016 	
+character=Hobo 	name=David Price	episodes=1 episode, 2016 	
+character=Babushka Lady	name=Laura Reeves	episodes=1 episode, 2016 	
+character=Wife	name=Sharon Heldt	episodes=1 episode, 2016 	
+character=Dallas Police Officer 	name=John Ross	episodes=1 episode, 2016 	
+character=Woman at Convention Center	name=Joanne Herda	episodes=1 episode, 2016 	
+character=Frances Boland	name=Susannah Hoffmann	episodes=1 episode, 2016 	
+character=Greyhound Clerk	name=Jerry Schaefer	episodes=1 episode, 2016 	
+character=Reporter 	name=Kent Sheridan	episodes=1 episode, 2016 	
+character=Andy Carlson	name=Kevin Jubinville	episodes=1 episode, 2016 	
+character=Car Salesman 	name=Kevin Jubinville	episodes=1 episode, 2016 	
+character=Owner	name=Alison Smiley	episodes=1 episode, 2016 	
+character=Hobo 	name=Timothy Talbott	episodes=1 episode, 2016 	
+character=Mother	name=Lorna Wright	episodes=1 episode, 2016 	
+character=Imaginary Young Harry	name=Griffin MacIntyre	episodes=1 episode, 2016 	
+character=Edward	name=Gene Mack	episodes=1 episode, 2016 	
+character=Foreman	name=James Madge	episodes=1 episode, 2016 	
+character=Bartender	name=Sam Malkin	episodes=1 episode, 2016 	
+character=Bloody Dead Woman	name=Nola Martin	episodes=1 episode, 2016 	
+character=Little Eddie	name=Tony Munch	episodes=1 episode, 2016 	
+character=Imaginary Little Brother	name=Drake Nadeau	episodes=1 episode, 2016 	
+character=Boy 	name=Connor	episodes=1 episode, 2016 	
+character=Boy 	name=Kataem O	episodes=1 episode, 2016 	
+character=Nun	name=Patty Pell	episodes=1 episode, 2016 	
+character=Big Neighbor	name=Leo Petrus	episodes=1 episode, 2016 	
+character=Farmer Kid	name=George Ridout	episodes=1 episode, 2016 	
+character=Imaginary Ellen	name=Nare Setrakian	episodes=1 episode, 2016 	
+character=VP Alice Nelson	name=Paulette Sinclair	episodes=1 episode, 2016 	
+character=Firefighter	name=Cody Ray Thompson	episodes=1 episode, 2016 	
+character=Campaign Door Guy	name=Thom Vernon	episodes=1 episode, 2016 	
+character=Filipino Woman	name=Jennifer Villaverde	episodes=1 episode, 2016 	
+character=Barber	name=Clinton Walker	episodes=1 episode, 2016 	
+character=Cody	name=Alex Wall	episodes=1 episode, 2016 	
+character=Goth Girl	name=Kyra Weisman	episodes=1 episode, 2016 	
+character=Parry	name=Eric Woolfe	episodes=1 episode, 2016 	
+character=Student	name=Brennan Clost	episodes=1 episode, 2016 	
+character=Madison Dancer	name=Kayleigh Shikanai	episodes=1 episode, 2016 	
+character=School Girl 	name=Isabella Fowler	episodes=1 episode, 2016 	
+character=Catholic School Girl	name=Addison McGarry	episodes=1 episode, 2016 	
+character=Catholic School Girl	name=Savannah Solsbery	episodes=1 episode, 2016 	
+character=Dancer	name=Brittany Good	episodes=1 episode, 2016 	
+character=Dancer	name=Zac Vran	episodes=1 episode, 2016 	
+character=School Girl	name=Grace Martin	episodes=1 episode, 2016 	
+character=ND Driver Pedestrian	name=Kristi Taylor	episodes=1 episode, 2016 	
+character=Kennedy Speech Attendee	name=Aaron Mitchell	episodes=1 episode, 2016 	
+character=Factory Worker	name=Michael Sercerchi	episodes=1 episode, 2016 	
+character=Waitress	name=Candice Richardson	episodes=1 episode, 2016 	
+character=Dallas Dignatary	name=Andrew Flores	episodes=1 episode, 2016 	
+character=Patsy	name=Caitlin Norton	episodes=1 episode, 2016 	
+character=Kennedy Speech Attendee	name=Floyd Knight	episodes=1 episode, 2016 	
+character=Townsfolk	name=Ricky Christie	episodes=1 episode, 2016 	
+character=Reporter	name=Steve Young	episodes=1 episode, 2016 	
+character=Sadie Photodouble	name=Cyndy Day	episodes=8 episodes, 2016 	
+character=Jake Photodouble	name=Tommy James Murphy	episodes=8 episodes, 2016 	
+character=ND Driver	name=Chris Gleason	episodes=5 episodes, 2016 	
+character=Galaxie Driver	name=Paul Heckmann	episodes=3 episodes, 2016 	
+character=Dallas Dignitary	name=Dave Reachill	episodes=2 episodes, 2016 	
+character=Bill Newman	name=Matthew Thornton	episodes=2 episodes, 2016 	
+character=Factory Worker	name=Scott C Wilson	episodes=2 episodes, 2016 	
+character=Dallas Pedestrian	name=Stan Taylor	episodes=2 episodes, 2016 	
+character=Police officer	name=R.J. Taylor	episodes=2 episodes, 2016 	
+character=Dancer	name=Briana Andrade-Gomes	episodes=1 episode, 2016 	
+character=Patrick	name=Max Silvestri	episodes=1 episode, 2016 	
+character=Jackie Kennedy	name=Anna Vocino	episodes=1 episode, 2016 	
+character=Agent Roy Kellerman	name=Jeff Caperton	episodes=1 episode, 2016 	
+character=Dancing Student	name=Michel Issa Rubio	episodes=1 episode, 2016 	
+character=Camera Man	name=Nick Brooks	episodes=1 episode, 2016 	
+character=Pedestrian	name=Latrice Butts	episodes=1 episode, 2016 	
+character=Assasination Spectator	name=Alex Ryan Brown	episodes=1 episode, 2016 	
+character=News Reporter	name=James Larabee	episodes=1 episode, 2016 	
+character=Ceremony Guest	name=Jill Morgan	episodes=1 episode, 2016 	
+character=Nurse	name=Michelle Roy	episodes=1 episode, 2016 	
+character=Dancer	name=Tanya Karn	episodes=1 episode, 2016 	
+character=News Reporter	name=Dallas Wade	episodes=1 episode, 2016 	
+character=Oak Cliff Resident	name=Ryan Bijan	episodes=1 episode, 2016 	
+character=Dallas Dignitary	name=Mark Quigley	episodes=1 episode, 2016 	
+character=Police Officer	name=Peter J. Calvin	episodes=1 episode, 2016 	
+character=Student	name=Lindsay Christopher	episodes=1 episode, 2016 	
+character=Anthony	name=Alek Cole	episodes=1 episode, 2016 	
+character=Kennedy Crowd	name=Kelsie Key	episodes=1 episode, 2016 	
+character=High School Dancer	name=Jason Huska	episodes=1 episode, 2016 	
+character=Cowboy	name=Corey Chainey	episodes=1 episode, 2016 	
+character=Press Reporter	name=Daniel B. Davis	episodes=1 episode, 2016 	
+character=Audience Member	name=Daniel Whittle	episodes=1 episode, 2016 	
+character=Auditorium Usher 	name=Randy Shoemake	episodes=1 episode, 2016 	
+character=Dallas Cab Driver	name=Clay Dove	episodes=1 episode, 2016 	
+character=Adrienne	name=TaKenya Banks	episodes=1 episode, 2016 	
+character=Reporter	name=Greg Fallon	episodes=1 episode, 2016 	
+character=Mary Moorman	name=Shelley Kaehr	episodes=1 episode, 2016 	
+character=Campaign Supporter	name=Darren Sheehan	episodes=1 episode, 2016 	
+character=Zapruder	name=Lisa Finan Rogers	episodes=1 episode, 2016 	
+character=Assistant	name=Lisa Finan Rogers	episodes=1 episode, 2016 	
+character=Kennedy Crowd	name=Raymond Curry	episodes=1 episode, 2016 	
+character=Preppy Boy	name=Owen Lee	episodes=1 episode, 2016 	
+character=Audience, background	name=Jules McClellan	episodes=1 episode, 2016 	
+character=Pedestrian	name=Angela Ravitch	episodes=1 episode, 2016 	
+character=Dallas Dignitary	name=Meredith Brumwell	episodes=1 episode, 2016 	
+character=High School Dancer	name=Brandon Vignali	episodes=1 episode, 2016 	
+character=Woman at Convention	name=Patricia Stubbs	episodes=1 episode, 2016 	
+character=Spectator	name=Jenifer Noel	episodes=1 episode, 2016 	
+character=Dallas Pedestrian	name=Misty Hayes	episodes=1 episode, 2016 	

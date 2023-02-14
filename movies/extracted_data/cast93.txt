@@ -1,0 +1,65 @@
+# http://fitlayout.github.io/resource/art93 -> https://www.imdb.com/title/tt14954498/fullcredits/
+character=Gina	name=Michelle Monaghan	episodes=7 episodes, 2022 	
+character=Jack Beck	name=Matt Bomer	episodes=7 episodes, 2022 	
+character=Sheriff Louise Floss	name=Karen Robinson	episodes=7 episodes, 2022 	
+character=Claudia	name=Ali Stroker	episodes=7 episodes, 2022 	
+character=Beck	name=Gable Swanlund	episodes=7 episodes, 2022 	
+character=Mattie	name=Gable Swanlund	episodes=7 episodes, 2022 	
+character=Mathilda 	name=Gable Swanlund	episodes=7 episodes, 2022 	
+character=Deputy Paula Martinez	name=Rosanny Zayas	episodes=7 episodes, 2022 	
+character=Victor McCleary	name=Neill	episodes=7 episodes, 2022 	
+character=Victor McCleary	name=Michael O	episodes=7 episodes, 2022 	
+character=Dylan James	name=Jonathan Tucker	episodes=7 episodes, 2022 	
+character=Charlie Davenport	name=Daniel Sunjata	episodes=7 episodes, 2022 	
+character=Teen Leni	name=Madison Abbott	episodes=7 episodes, 2022 	
+character=Teen Gina	name=Victoria Abbott	episodes=7 episodes, 2022 	
+character=Gina Double	name=Adrian Eppley	episodes=7 episodes, 2022 	
+character=Teen Dylan	name=Clayton Royal nullJohnson	episodes=5 episodes, 2022 	
+character=Child Leni	name=Hazel Mason	episodes=5 episodes, 2022 	
+character=Child Gina	name=Ginger Mason	episodes=5 episodes, 2022 	
+character=Georgia Tyler	name=Celia Weston	episodes=4 episodes, 2022 	
+character=Maria McCleary	name=Tyner Rushing	episodes=4 episodes, 2022 	
+character=Teen Jack	name=Patrick Nicks	episodes=4 episodes, 2022 	
+character=Child Claudia	name=Lucy Hammond	episodes=4 episodes, 2022 	
+character=Meg	name=Alise Willis	episodes=3 episodes, 2022 	
+character=Young Victor	name=Isaiah Stratton	episodes=3 episodes, 2022 	
+character=Samida	name=Deja Dee	episodes=3 episodes, 2022 	
+character=Natasha	name=Maddie Nichols	episodes=2 episodes, 2022 	
+character=John Towers	name=Justin Matthew Smith	episodes=2 episodes, 2022 	
+character=August Payne	name=Ethan McDowell	episodes=2 episodes, 2022 	
+character=Nurse Fletcher	name=Sable Williams	episodes=2 episodes, 2022 	
+character=Liss	name=Lauren Davis	episodes=2 episodes, 2022 	
+character=Beau McMillan	name=Onye Eme-Akwari	episodes=2 episodes, 2022 	
+character=Doctor	name=George Bryant	episodes=1 episode, 2022 	
+character=Callum	name=William Webber	episodes=1 episode, 2022 	
+character=Colten	name=Ryan Paynter	episodes=1 episode, 2022 	
+character=Missy	name=Emi Curia	episodes=1 episode, 2022 	
+character=Child Jack	name=Grant Feely	episodes=1 episode, 2022 	
+character=Ernest	name=Charles Green	episodes=1 episode, 2022 	
+character=Young Floss	name=Veanna Black	episodes=1 episode, 2022 	
+character=Costumed Teen 	name=Jalen Torres	episodes=1 episode, 2022 	
+character=TSA Worker	name=Anisa Nyell Johnson	episodes=1 episode, 2022 	
+character=Costumed Teen 	name=Zach Primo	episodes=1 episode, 2022 	
+character=Friend	name=Zoe Davis	episodes=1 episode, 2022 	
+character=Mattie	name=Zoe Davis	episodes=1 episode, 2022 	
+character=Editor	name=Perry Smith	episodes=1 episode, 2022 	
+character=Serge	name=Aaron Goldenberg	episodes=1 episode, 2022 	
+character=Audience Member	name=James Bascomb	episodes=1 episode, 2022 	
+character=Caterer	name=Sabrina Saleha	episodes=1 episode, 2022 	
+character=Waiter	name=Henriette Zoutomou	episodes=1 episode, 2022 	
+character=Assistant 	name=Kevin Matsumoto	episodes=1 episode, 2022 	
+character=Senior Editor 	name=Gregory Butler	episodes=1 episode, 2022 	
+character=Teller	name=Denise Arribas	episodes=1 episode, 2022 	
+character=Senior Editor 	name=Nita Mistry	episodes=1 episode, 2022 	
+character=Photographer	name=Walker Babington	episodes=1 episode, 2022 	
+character=Kyle	name=Jason Harris	episodes=1 episode, 2022 	
+character=Senior Marketer 	name=Kevin Henderson	episodes=1 episode, 2022 	
+character=Senior Marketer 	name=Trevor LaPaglia	episodes=1 episode, 2022 	
+character=Book Signing Patron	name=LaChelle Walker	episodes=1 episode, 2022 	
+character=Pedestrian	name=Gary Maniloff	episodes=1 episode, 2022 	
+character=Book Signing Patron	name=Mark T. Russell	episodes=1 episode, 2022 	
+character=Personal Banker	name=Heidi Jones	episodes=1 episode, 2022 	
+character=Ranger	name=William G. Tomek	episodes=1 episode, 2022 	
+character=Party Guest	name=Veronica Russell	episodes=1 episode, 2022 	
+character=Party Attendee	name=Niquitta S. Wolfe	episodes=1 episode, 2022 	
+character=Priest Assistant	name=Austin Joseph	episodes=1 episode, 2022 	

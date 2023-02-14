@@ -1,0 +1,50 @@
+# http://fitlayout.github.io/resource/art82 -> https://www.imdb.com/title/tt8075008/fullcredits/
+character=Anna Wetherell	name=Eve Hewson	episodes=6 episodes, 2020 	
+character=Lydia Wells	name=Eva Green	episodes=6 episodes, 2020 	
+character=Emery Staines	name=Himesh Patel	episodes=6 episodes, 2020 	
+character=Francis Carver	name=Marton Csokas	episodes=6 episodes, 2020 	
+character=Crosbie Wells	name=Ewen Leslie	episodes=6 episodes, 2020 	
+character=Dick Mannering	name=Erik Thomson	episodes=6 episodes, 2020 	
+character=George Shepard	name=Callan Mulvey	episodes=6 episodes, 2020 	
+character=Alistair Lauderback	name=Benedict Hardie	episodes=6 episodes, 2020 	
+character=Te Rau Tauwhare	name=Richard Te Are	episodes=6 episodes, 2020 	
+character=Cowell Devlin	name=Matt Whelan	episodes=6 episodes, 2020 	
+character=Joseph Pritchard	name=Matthew Sunderland	episodes=6 episodes, 2020 	
+character=Benjamin Lowenthal	name=Joel Tobeck	episodes=5 episodes, 2020 	
+character=Quee Long	name=Gary Young	episodes=6 episodes, 2020 	
+character=Aubert Gascoigne	name=Paolo Rotondo	episodes=5 episodes, 2020 	
+character=Charlie Frost	name=Byron Coll	episodes=5 episodes, 2020 	
+character=Thomas Balfour	name=Mark Mitchinson	episodes=4 episodes, 2020 	
+character=Sook Yongsheng	name=Yoson An	episodes=5 episodes, 2020 	
+character=Harald Nilssen	name=Erroll Shand	episodes=4 episodes, 2020 	
+character=Edgar Clinch	name=Kieran Charnock	episodes=4 episodes, 2020 	
+character=Crown Maid	name=Chelsie Florence	episodes=2 episodes, 2020 	
+character=Walter Moody	name=Michael Sheasby	episodes=2 episodes, 2020 	
+character=Graves	name=Charlie Corrigan	episodes=2 episodes, 2020 	
+character=Sinclair	name=Nic Sampson	episodes=2 episodes, 2020 	
+character=Deputy	name=Jack Barry	episodes=2 episodes, 2020 	
+character=Majestic Hotelier	name=John Leigh	episodes=2 episodes, 2020 	
+character=Captain Raxworthy	name=Jed Brophy	episodes=1 episode, 2020 	
+character=Harbourmaster	name=Edwin Wright	episodes=1 episode, 2020 	
+character=Jock Smith	name=Matthew Arbuckle	episodes=1 episode, 2020 	
+character=Opera Singer	name=Emma Sloman	episodes=1 episode, 2020 	
+character=Salvage Dealer	name=Dallas Barnett	episodes=1 episode, 2020 	
+character=Magistrate	name=Cameron Rhodes	episodes=1 episode, 2020 	
+character=Quarry Gold Digger	name=Matt Baker	episodes=1 episode, 2020 	
+character=Customs Officer	name=John Callen	episodes=1 episode, 2020 	
+character=Butcher	name=Paul Ballard	episodes=1 episode, 2020 	
+character=Newspaper Editor	name=Philip Catton	episodes=1 episode, 2020 	
+character=Beach Gold Digger	name=Tom Clarke	episodes=1 episode, 2020 	
+character=Pickpocket Child	name=Frank Paton	episodes=1 episode, 2020 	
+character=Real Estate Agent	name=Patrick Carroll	episodes=1 episode, 2020 	
+character=Market Barker	name=Milo Cawthorne	episodes=1 episode, 2020 	
+character=Sceptical Man	name=Jonathan Price	episodes=1 episode, 2020 	
+character=Enchanted Man	name=Mark Sole	episodes=1 episode, 2020 	
+character=Policeman	name=Scott Wills	episodes=1 episode, 2020 	
+character=Prospector	name=Ashley Jones	episodes=1 episode, 2020 	
+character=Bank Manager	name=Adam Gardiner	episodes=1 episode, 2020 	
+character=Landlady	name=Yvette Parsons	episodes=1 episode, 2020 	
+character=Gold Buyer	name=Charles Pierard	episodes=1 episode, 2020 	
+character=Matterhorn Hotelier	name=Jared Turner	episodes=1 episode, 2020 	
+character=Mr. Woodhead	name=Will Hall	episodes=1 episode, 2020 	
+character=Chimney sweep	name=Pax Baker	episodes=1 episode, 2020 	

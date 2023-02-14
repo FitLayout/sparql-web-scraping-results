@@ -1,0 +1,370 @@
+# http://fitlayout.github.io/resource/art85 -> https://www.imdb.com/title/tt2442560/fullcredits/
+character=Thomas Shelby	name=Cillian Murphy	episodes=36 episodes, 2013-2022 	
+character=Arthur Shelby	name=Paul Anderson	episodes=36 episodes, 2013-2022 	
+character=Ada Shelby	name=Sophie Rundle	episodes=36 episodes, 2013-2022 	
+character=Polly Gray	name=Helen McCrory	episodes=30 episodes, 2013-2022 	
+character=Charlie Strong	name=Ned Dennehy	episodes=27 episodes, 2013-2022 	
+character=Michael Gray	name=Finn Cole	episodes=27 episodes, 2014-2022 	
+character=Lizzie Stark	name=Natasha O	episodes=27 episodes, 2013-2022 	
+character=Lizzie Stark	name=Keeffe	episodes=27 episodes, 2013-2022 	
+character=Curly	name=Ian Peck	episodes=27 episodes, 2013-2022 	
+character=Finn Shelby	name=Harry Kirton	episodes=25 episodes, 2014-2022 	
+character=Johnny Dogs	name=Packy Lee	episodes=23 episodes, 2013-2022 	
+character=John Shelby	name=Joe Cole	episodes=21 episodes, 2013-2017 	
+character=Grace Burgess	name=Annabelle Wallis	episodes=19 episodes, 2013-2019 	
+character=Linda Shelby	name=Kate Phillips	episodes=17 episodes, 2016-2022 	
+character=Esme Shelby	name=Aimee-Ffion Edwards	episodes=17 episodes, 2013-2022 	
+character=Sergeant Moss	name=Tony Pitts	episodes=15 episodes, 2013-2017 	
+character=Jeremiah Jesus	name=Benjamin Zephaniah	episodes=14 episodes, 2013-2022 	
+character=Alfie Solomons	name=Tom Hardy	episodes=13 episodes, 2014-2022 	
+character=Isaiah Jesus	name=Jordan Bolger	episodes=12 episodes, 2014-2017 	
+character=Gina Gray	name=Anya Taylor-Joy	episodes=11 episodes, 2019-2022 	
+character=Oswald Mosley	name=Sam Claflin	episodes=11 episodes, 2019-2022 	
+character=Isaiah Jesus	name=Daryl McCormack	episodes=11 episodes, 2019-2022 	
+character=Aberama Gold	name=Aidan Gillen	episodes=10 episodes, 2017-2022 	
+character=Jessie Eden	name=Charlie Murphy	episodes=8 episodes, 2017-2019 	
+character=Frances	name=Pauline Turner	episodes=8 episodes, 2017-2022 	
+character=Lancaster Officer Mulchay	name=Dave Simon	episodes=6 episodes, 2017-2022 	
+character=Charles Shelby	name=Jensen Clarke	episodes=7 episodes, 2017-2022 	
+character=Local Woman	name=Patricia Winker	episodes=1 episode, 2013-2019 	
+character=Luca Changretta	name=Adrien Brody	episodes=6 episodes, 2017 	
+character=Freddie Thorne	name=Iddo Goldberg	episodes=6 episodes, 2013 	
+character=May Carleton	name=Charlotte Riley	episodes=6 episodes, 2014-2017 	
+character=Finn Shelby	name=Alfie Evans-Meese	episodes=6 episodes, 2013 	
+character=Darby Sabini	name=Noah Taylor	episodes=6 episodes, 2014 	
+character=Ruben Oliver	name=Alexander Siddig	episodes=6 episodes, 2016 	
+character=Princess Tatiana Petrovna	name=Gaite Jansen	episodes=6 episodes, 2016 	
+character=Scudboat	name=Kevin Metcalfe	episodes=2 episodes, 2013 	
+character=Diana Mitford	name=Amber Anderson	episodes=5 episodes, 2022 	
+character=Jimmy McCavern	name=Brian Gleeson	episodes=5 episodes, 2019 	
+character=Ollie	name=Adam El Hagar	episodes=5 episodes, 2014 	
+character=Captain Swing	name=Charlene McKenna	episodes=5 episodes, 2019-2022 	
+character=Harry Fenton	name=Neil Bell	episodes=5 episodes, 2013 	
+character=Bonnie Gold	name=Jack Rowan	episodes=5 episodes, 2017-2019 	
+character=George Sewell	name=Sam Hazeldine	episodes=5 episodes, 2014 	
+character=Charles Shelby	name=Billy Marwood	episodes=5 episodes, 2016 	
+character=Billy Grade	name=Emmett J Scanlan	episodes=5 episodes, 2019-2022 	
+character=Mary	name=Wendy Nottingham	episodes=5 episodes, 2016 	
+character=Col Ben Younger	name=Kingsley Ben-Adir	episodes=5 episodes, 2017-2019 	
+character=Karl Thorne	name=Callum Booth-Ford	episodes=5 episodes, 2019-2022 	
+character=King Maine	name=Daniel Fearn	episodes=5 episodes, 2014-2017 	
+character=Nora	name=Nicola Simonds	episodes=3 episodes, 2016-2019 	
+character=Matteo	name=Luca Matteo Zizzari	episodes=5 episodes, 2017 	
+character=Billy Boy	name=Rob Day	episodes=5 episodes, 2019 	
+character=Jack Nelson	name=James Frecheville	episodes=4 episodes, 2022 	
+character=Father John Hughes	name=Paddy Considine	episodes=4 episodes, 2016 	
+character=Billy Kimber	name=Charlie Creed-Miles	episodes=4 episodes, 2013 	
+character=Grand Duke Leon Petrovna	name=Jan Bijvoet	episodes=4 episodes, 2016 	
+character=Grand Duchess Izabella	name=Dina Korzun	episodes=4 episodes, 2016 	
+character=Johnny the Prison Guard	name=John Gorman	episodes=4 episodes, 2022 	
+character=Ruby Shelby	name=Orla McDonagh	episodes=4 episodes, 2022 	
+character=Charles Shelby	name=Billy Jenkins	episodes=4 episodes, 2022 	
+character=Niall Devlin	name=Graeme Hawley	episodes=4 episodes, 2017 	
+character=Lancaster Mathers Worker	name=Grant Crookes	episodes=2 episodes, 2013-2017 	
+character=Mr. Zhang	name=Lobo Chan	episodes=3 episodes, 2013 	
+character=Billy Kitchen	name=Paul Bullion	episodes=3 episodes, 2014 	
+character=Irene O	name=Simone Kirby	episodes=3 episodes, 2014 	
+character=Donnell	name=Simone Kirby	episodes=3 episodes, 2014 	
+character=Duke Shelby	name=Conrad Khan	episodes=3 episodes, 2022 	
+character=Donal	name=Rory Keenan	episodes=3 episodes, 2014 	
+character=Roberts	name=David Dawson	episodes=3 episodes, 2013 	
+character=Winston Churchill	name=Neil Maskell	episodes=3 episodes, 2019-2022 	
+character=Mario	name=Dorian Lough	episodes=3 episodes, 2014 	
+character=Winston Churchill	name=Andy Nyman	episodes=3 episodes, 2013 	
+character=Danny Whizz-Bang	name=Samuel Edward-Cook	episodes=3 episodes, 2013 	
+character=Edna	name=Gemma Page	episodes=3 episodes, 2019-2022 	
+character=James	name=Josh O	episodes=3 episodes, 2014 	
+character=James	name=Connor	episodes=3 episodes, 2014 	
+character=Mickey Gibbs	name=Art Campion	episodes=3 episodes, 2019 	
+character=Charlotte Murray	name=Stephanie Hyam	episodes=3 episodes, 2016 	
+character=Han	name=Simon Wan	episodes=3 episodes, 2022 	
+character=Li	name=Naomi Yang	episodes=3 episodes, 2022 	
+character=Patrick Jarvis MP	name=Alex Macqueen	episodes=3 episodes, 2016 	
+character=Ruby Shelby	name=Heaven-Leigh Clee	episodes=3 episodes, 2019-2022 	
+character=George	name=Stephan Bessant	episodes=3 episodes, 2022 	
+character=Barney	name=Cosmo Jarvis	episodes=2 episodes, 2019 	
+character=Peaky Blinders Gangster	name=Graham Parrington	episodes=1 episode, 2014-2017 	
+character=Goliath	name=Dino Kelly	episodes=3 episodes, 2017 	
+character=Frederico	name=Jake J. Meniani	episodes=3 episodes, 2017 	
+character=Boxing Trainer	name=Craig Thomas Lambert	episodes=2 episodes, 2017 	
+character=Billy Shelby	name=Etahan Picard-Edwards	episodes=3 episodes, 2017 	
+character=Connor Nutley	name=Ralph Ineson	episodes=2 episodes, 2016 	
+character=Plain Clothed Sabini Officer	name=Andrew Sheridan	episodes=2 episodes, 2014 	
+character=UVF Hardman 1	name=Branwell Donaghey	episodes=2 episodes, 2014-2016 	
+character=UVF Hardman	name=Brendan Gibson	episodes=2 episodes, 2014-2016 	
+character=Karl Shelby	name=George Gwyther	episodes=2 episodes, 2016 	
+character=Hayden Stagg	name=Stephen Graham	episodes=2 episodes, 2022 	
+character=Vicente Changretta	name=Kenneth Colley	episodes=2 episodes, 2016 	
+character=Mrs. Ross	name=Lizzy McInnerny	episodes=2 episodes, 2014 	
+character=Brilliant Chang	name=Andrew Koji	episodes=2 episodes, 2019 	
+character=Erasmus	name=Nigel Travis	episodes=2 episodes, 2013 	
+character=Maguire	name=Keith Dunphy	episodes=2 episodes, 2013 	
+character=Governor	name=Paul McEwan	episodes=2 episodes, 2014 	
+character=Sabini Kidnap Gangster	name=Tom Mothersdale	episodes=2 episodes, 2014 	
+character=Dimitri	name=Jassa Ahluwalia	episodes=2 episodes, 2016 	
+character=Rosemary Johnson	name=Wanda Opalinska	episodes=2 episodes, 2014-2017 	
+character=Mary Bone	name=Abbie Hern	episodes=2 episodes, 2022 	
+character=Connor Dunn	name=Peter Coonan	episodes=2 episodes, 2022 	
+character=Doctor Holford	name=Aneurin Barnard	episodes=2 episodes, 2022 	
+character=Maitre D	name=Aaron Neil	episodes=2 episodes, 2016 	
+character=Dot Kelly	name=Shashi Rami	episodes=2 episodes, 2022 	
+character=Sam Ryan	name=Adam Best	episodes=2 episodes, 2022 	
+character=The Swan	name=Brenda Lee Grech	episodes=2 episodes, 2019 	
+character=Pat	name=Julian Moore-Cook	episodes=2 episodes, 2022 	
+character=Siegfried	name=Jacob Wye	episodes=2 episodes, 2019 	
+character=Daniel Preece	name=Peter Rylands	episodes=2 episodes, 2016 	
+character=Winston Churchill	name=Richard McCabe	episodes=2 episodes, 2014 	
+character=Jean Claude	name=Grégory Fitoussi	episodes=2 episodes, 2022 	
+character=Dougie Bill	name=Jack Parr	episodes=2 episodes, 2022 	
+character=William Letso	name=Peter Bankolé	episodes=2 episodes, 2016 	
+character=Adam Parker	name=Samuel Blenkin	episodes=2 episodes, 2019 	
+character=Henri	name=Assaad Bouab	episodes=2 episodes, 2022 	
+character=Evadne Barwell	name=Gwynne McElveen	episodes=2 episodes, 2022 	
+character=Gilly Ray	name=Stefan Healy	episodes=2 episodes, 2022 	
+character=Joe Ray	name=Ciaran Clancy	episodes=2 episodes, 2022 	
+character=Police Commissioner	name=Franc Bruneau	episodes=2 episodes, 2022 	
+character=Policeman Outside Russell	name=Benedict Relton	episodes=2 episodes, 2014 	
+character=House	name=Benedict Relton	episodes=2 episodes, 2014 	
+character=O	name=Ciarán Owens	episodes=2 episodes, 2022 	
+character=Donnell	name=Ciarán Owens	episodes=2 episodes, 2022 	
+character=Liam	name=Darragh O	episodes=2 episodes, 2022 	
+character=Liam	name=Toole	episodes=2 episodes, 2022 	
+character=Clive Macmillan	name=Henry Garrett	episodes=2 episodes, 2014 	
+character=Violinist	name=Greg Kolpakchi	episodes=1 episode, 2016 	
+character=Black Lion Boy	name=Harrison Vaughan	episodes=1 episode, 2013-2014 	
+character=Audrey Changretta	name=Brid Brennan	episodes=2 episodes, 2016-2017 	
+character=Grieving Woman	name=Erin Shanagher	episodes=2 episodes, 2014-2017 	
+character=Messenger	name=Liam Scholes	episodes=1 episode, 2019-2022 	
+character=Waiter	name=Marc Esse	episodes=1 episode, 2016 	
+character=Arthur Bigge	name=Donald Sumpter	episodes=2 episodes, 2017 	
+character=Billy Factory worker	name=James Brogden	episodes=1 episode, 2017 	
+character=New Peaky Number 12	name=Jonathan Garratt	episodes=1 episode, 2017 	
+character=Boxing Trainer Seconds	name=Craig Carr	episodes=1 episode, 2017 	
+character=Referee	name=James Mccosh	episodes=2 episodes, 2017 	
+character=The Digbeth Kid	name=Bethan Daisy Caddick	episodes=1 episode, 2014 	
+character=Sister	name=Bethan Daisy Caddick	episodes=1 episode, 2014 	
+character=Stanly Chapman	name=John-Paul Hurley	episodes=1 episode, 2013 	
+character=The Digbeth Kid	name=James Eeles	episodes=1 episode, 2014 	
+character=Peaky Blinders Driver	name=Darren Connolly	episodes=1 episode, 2014 	
+character=Butler	name=William Andrews	episodes=1 episode, 2016 	
+character=Birmingham Hospital Nurse	name=Hayley Doherty	episodes=1 episode, 2014 	
+character=General Curran	name=Richard Dillane	episodes=1 episode, 2016 	
+character=Chin	name=Kunjue Li	episodes=1 episode, 2013 	
+character=Marston	name=Nick Holder	episodes=1 episode, 2013 	
+character=Arthur Senior	name=Tommy Flanagan	episodes=1 episode, 2013 	
+character=Priest	name=Dominic Coleman	episodes=1 episode, 2016 	
+character=Carlo	name=Pedro Caxade	episodes=1 episode, 2016 	
+character=Black Lion Barman	name=Colin Connor	episodes=1 episode, 2014 	
+character=Wedding Lady 1	name=Anna Wilson-Hall	episodes=1 episode, 2016 	
+character=Byrne	name=Tom Vaughan-Lawlor	episodes=1 episode, 2013 	
+character=Ryan	name=Karl Shiels	episodes=1 episode, 2013 	
+character=Bethany Boswell	name=Frances Tomelty	episodes=1 episode, 2016 	
+character=Wedding Lady 2	name=Sara Beasley	episodes=1 episode, 2016 	
+character=Zilpha Lee	name=Therese Bradley	episodes=1 episode, 2013 	
+character=Bonnie	name=Barry Aird	episodes=1 episode, 2014 	
+character=Micky	name=Rupert Procter	episodes=1 episode, 2014 	
+character=Border Officer	name=Sam Benjamin	episodes=1 episode, 2016 	
+character=Business Man	name=Bartley Burke	episodes=1 episode, 2016 	
+character=Mrs. Donovan	name=Lorraine Horgan	episodes=1 episode, 2013 	
+character=Young Maid	name=Maisie Turpie	episodes=1 episode, 2014 	
+character=Polly	name=Maisie Turpie	episodes=1 episode, 2014 	
+character=Guard	name=Perry Fitzpatrick	episodes=1 episode, 2013 	
+character=Condemned Man	name=Richard Patterson	episodes=1 episode, 2014 	
+character=Lady 1	name=Caroline Lawrie	episodes=1 episode, 2016 	
+character=Kavetka	name=Nina Yndis	episodes=1 episode, 2016 	
+character=James Monkland	name=John Albasiny	episodes=1 episode, 2016 	
+character=Mother Superior	name=Kate Dickie	episodes=1 episode, 2019 	
+character=Peter	name=Robert Hook	episodes=1 episode, 2019 	
+character=Saul	name=Matthew Marcelis	episodes=1 episode, 2022 	
+character=Esme	name=Daniel Boyarsky	episodes=1 episode, 2022 	
+character=Gypsy 	name=Daniel Boyarsky	episodes=1 episode, 2022 	
+character=Camp	name=Daniel Boyarsky	episodes=1 episode, 2022 	
+character=Reporter	name=Jonty Stephens	episodes=1 episode, 2013 	
+character=Stefan Radischevky	name=Josef Altin	episodes=1 episode, 2016 	
+character=Lady 2	name=Helen Anderson	episodes=1 episode, 2016 	
+character=Party Worker	name=Layla Shirley	episodes=1 episode, 2022 	
+character=Mrs. Dorothy Cox	name=Elexi Walker	episodes=1 episode, 2022 	
+character=Anton Kaledin	name=Richard Brake	episodes=1 episode, 2016 	
+character=Lady 3	name=Kate Bowes Renna	episodes=1 episode, 2016 	
+character=Baba	name=Vincent Wang	episodes=1 episode, 2019 	
+character=Rally Journalist	name=Alan Drake	episodes=1 episode, 2022 	
+character=Doctor	name=Gary Bates	episodes=1 episode, 2022 	
+character=Ruby	name=Gary Bates	episodes=1 episode, 2022 	
+character=Fishing Boat Captain	name=Jean-Philippe Ricci	episodes=1 episode, 2022 	
+character=Lady 4	name=Debra Penny	episodes=1 episode, 2016 	
+character=Stacker	name=Matthew Jure	episodes=1 episode, 2019 	
+character=Jerry	name=Russ Bain	episodes=1 episode, 2022 	
+character=Eaton Sq. Butler	name=Christopher Wright	episodes=1 episode, 2022 	
+character=Sandra	name=Emma Pearce	episodes=1 episode, 2013 	
+character=Briggs	name=Charlie Anson	episodes=1 episode, 2014 	
+character=Officer 1	name=Timothy Harker	episodes=1 episode, 2016 	
+character=Bad Nurse	name=Paula Wharton	episodes=1 episode, 2016 	
+character=Leon Greene	name=Elliot Levey	episodes=1 episode, 2019 	
+character=Mrs. Conners	name=Gemma Paige North	episodes=1 episode, 2019 	
+character=Young Peter	name=Reuben Clarke	episodes=1 episode, 2019 	
+character=Docker	name=Winston Branche	episodes=1 episode, 2022 	
+character=Local Doctor	name=Jonathan Markwood	episodes=1 episode, 2022 	
+character=Medium	name=Jane Wood	episodes=1 episode, 2014 	
+character=Winson Green Heavy	name=Martin Askew	episodes=1 episode, 2014 	
+character=Officer 2	name=John Purcell	episodes=1 episode, 2016 	
+character=Li	name=Gana Bayarsaikhan	episodes=1 episode, 2019 	
+character=Young Girl	name=Lola Mawdsley	episodes=1 episode, 2019 	
+character=Cécile	name=Laura Presgurvic	episodes=1 episode, 2022 	
+character=Gypsy Singer	name=Sam Lee	episodes=1 episode, 2013 	
+character=Woman at Seance	name=Sam Battersea	episodes=1 episode, 2014 	
+character=Young Boy	name=Charlie Knight	episodes=1 episode, 2019 	
+character=Race Commentator	name=Jon Glover	episodes=1 episode, 2014 	
+character=Eamonn Duggan	name=Rory Gallagher	episodes=1 episode, 2014 	
+character=Gilbert Palmer	name=Paul Cawley	episodes=1 episode, 2016 	
+character=Sandra	name=Alison Todd	episodes=1 episode, 2019 	
+character=Wilfred The Referee	name=Douglas Russell	episodes=1 episode, 2022 	
+character=Gypsy Woman	name=Shaila Alvarez	episodes=1 episode, 2022 	
+character=Sir Ian Carleton	name=Guy Williams	episodes=1 episode, 2014 	
+character=Royal Bodyguard	name=Tim Delap	episodes=1 episode, 2014 	
+character=Eden Club Doorman	name=Alastair Barley	episodes=1 episode, 2014 	
+character=Prison Reception Guard	name=Kivan Dene	episodes=1 episode, 2014 	
+character=Older Russian	name=Sean Buckley	episodes=1 episode, 2016 	
+character=Quaker Friend	name=Robbie Keane	episodes=1 episode, 2019 	
+character=Old Man	name=Ian Blower	episodes=1 episode, 2019 	
+character=Irish Priest	name=Patrick O	episodes=1 episode, 2022 	
+character=Irish Priest	name=Brien	episodes=1 episode, 2022 	
+character=Auctioneer	name=Nigel Hastings	episodes=1 episode, 2014 	
+character=Angel Nurse	name=Sarah Gallagher	episodes=1 episode, 2016 	
+character=Asylum Nurse	name=Michael Keogh	episodes=1 episode, 2019 	
+character=Billy Boys Leader	name=Douglas Rankine	episodes=1 episode, 2019 	
+character=Man 1	name=David Perks	episodes=1 episode, 2019 	
+character=Assailant 	name=Zachary Hart	episodes=1 episode, 2022 	
+character=Man 2	name=Adam Speers	episodes=1 episode, 2019 	
+character=Small Heath Policeman	name=Thomas Leggett	episodes=1 episode, 2022 	
+character=Assailant 	name=Robin Lyons	episodes=1 episode, 2022 	
+character=Communist Comrade	name=James Boyland	episodes=1 episode, 2014 	
+character=Tory MP	name=Malcolm Tomlinson	episodes=1 episode, 2019 	
+character=Paddy Watts	name=Joe Macaulay	episodes=1 episode, 2014 	
+character=Flying Squad Officer	name=Ian Conningham	episodes=1 episode, 2016 	
+character=Lord Suckerby	name=Tim Woodward	episodes=1 episode, 2019 	
+character=Handsome Man	name=Adam Lawrence	episodes=1 episode, 2014 	
+character=Marquis Older Barman	name=Nicolas Tennant	episodes=1 episode, 2014 	
+character=Michael Levitt	name=Elliot Cowan	episodes=1 episode, 2019 	
+character=Monsieur Silk	name=Dustin Demri-Burns	episodes=1 episode, 2016 	
+character=Mother	name=Tanya-Loretta Dee	episodes=1 episode, 2022 	
+character=Holdford	name=David Chabeaux	episodes=1 episode, 2022 	
+character=Workman	name=David Chabeaux	episodes=1 episode, 2022 	
+character=Lazarus	name=Jason Williamson	episodes=1 episode, 2022 	
+character=Passenger	name=Donnell	episodes=1 episode, 2016 	
+character=Passenger	name=Dennis O	episodes=1 episode, 2016 	
+character=Officer Collins	name=Adam Collins	episodes=1 episode, 2016 	
+character=Billy Mills	name=Jamie Kenna	episodes=1 episode, 2017 	
+character=Policeman	name=Nigel Boyle	episodes=1 episode, 2017 	
+character=Edward Roberts	name=Jolyon Coy	episodes=1 episode, 2017 	
+character=Antonio	name=Andreas Muñoz	episodes=1 episode, 2017 	
+character=Boat Puller	name=Marcus Langford	episodes=1 episode, 2017 	
+character=Stratford Barman	name=Rob Mitchell-James	episodes=1 episode, 2017 	
+character=Female officer	name=Gemma Layton	episodes=1 episode, 2017 	
+character=Foreman	name=Joe Osborne	episodes=1 episode, 2017 	
+character=Custom Officer	name=Neil Swift	episodes=1 episode, 2017 	
+character=Customs officer	name=Matt Emery	episodes=1 episode, 2017 	
+character=Michael	name=Andrew Caley	episodes=1 episode, 2017 	
+character=Nurse	name=Valentina Petito	episodes=1 episode, 2017 	
+character=Josef Jesus	name=Israel Cortes	episodes=1 episode, 2017 	
+character=Caddie	name=Aidan Rawnsley	episodes=1 episode, 2017 	
+character=Spotted Dog barman	name=Lee Toomes	episodes=1 episode, 2017 	
+character=Women	name=Jennifer James	episodes=1 episode, 2019 	
+character=Finn	name=Jennifer James	episodes=1 episode, 2019 	
+character=Policeman	name=Eric Campbell	episodes=12 episodes, 2013-2014 	
+character=Nipper	name=Matthew Postlethwaite	episodes=9 episodes, 2013-2014 	
+character=Henry	name=Jeffrey Postlethwaite	episodes=9 episodes, 2013-2014 	
+character=Billy Lovelock	name=Jack Hartley	episodes=6 episodes, 2013 	
+character=Special Policeman	name=Paul Chadwick	episodes=6 episodes, 2013 	
+character=Boxing Guest	name=Richard Price	episodes=6 episodes, 2016-2022 	
+character=Salamon Gang Member	name=Bernie Phillips	episodes=6 episodes, 2016 	
+character=Club Patron	name=William Atkinson	episodes=5 episodes, 2013-2019 	
+character=Labourer	name=Pete Szoradi	episodes=5 episodes, 2013-2014 	
+character=Abbey Heath	name=Allan Hopwood	episodes=5 episodes, 2013-2014 	
+character=Billy Lovelock	name=Tim Kinneally	episodes=5 episodes, 2013-2014 	
+character=Communist	name=Nick Owenford	episodes=4 episodes, 2013-2016 	
+character=Special Policeman	name=Alan Bentley	episodes=3 episodes, 2013 	
+character=Neighbour	name=Nicola-Jayne Wells	episodes=3 episodes, 2014-2016 	
+character=Police Officer	name=Luke Delaney	episodes=3 episodes, 2014 	
+character=Chauffeur	name=Brian Woodward	episodes=3 episodes, 2014 	
+character=Solomons Gang Member	name=Tony Fillingham	episodes=3 episodes, 2014 	
+character=Policeman	name=Jonathan Sisson	episodes=3 episodes, 2014 	
+character=Passerby	name=David Charles-Cully	episodes=3 episodes, 2016-2017 	
+character=Tom Foundry Worker	name=Russ Booth	episodes=2 episodes, 2013 	
+character=Police Superintendant	name=Neil Broome	episodes=2 episodes, 2013 	
+character=Communist Worker	name=Liam Tulley	episodes=2 episodes, 2013 	
+character=Watery Lane Resident	name=Bianca Rudman	episodes=2 episodes, 2013 	
+character=Museum Visitor	name=Heather Newland	episodes=2 episodes, 2013 	
+character=Assassin 1	name=Adam Weldrick	episodes=2 episodes, 2014-2019 	
+character=Maid	name=Jennifer Hulman	episodes=2 episodes, 2014 	
+character=Eden Club Member	name=Sam Wright	episodes=2 episodes, 2014 	
+character=Peaky Gang	name=Steven Peace	episodes=2 episodes, 2014 	
+character=Russian Girl	name=Stacey Lynn Crowe	episodes=2 episodes, 2016-2022 	
+character=Dignitary	name=Phil Tillott	episodes=2 episodes, 2016-2017 	
+character=Assassin	name=Gianni McLaughlin	episodes=2 episodes, 2017 	
+character=Peaky Gang Member	name=Lawrence Grugeon	episodes=2 episodes, 2017 	
+character=Captain Swing Men	name=Stephen Seal	episodes=2 episodes, 2019 	
+character=Dockhand	name=James Jaysen Bryhan	episodes=1 episode, 2013 	
+character=Officer	name=Brien	episodes=1 episode, 2013 	
+character=Officer	name=Hugh O	episodes=1 episode, 2013 	
+character=Prostitute	name=Alison Harris	episodes=1 episode, 2013 	
+character=Policeman	name=Ernest Vernon	episodes=1 episode, 2013 	
+character=Local Resident	name=Margaret Wheldon	episodes=1 episode, 2013 	
+character=Jockey	name=Richard Blackburn	episodes=1 episode, 2013 	
+character=Busby Showgirl	name=Katie Derry	episodes=1 episode, 2013 	
+character=Policeman	name=Stephen Mosley	episodes=1 episode, 2013 	
+character=Beggar	name=Kevin Knox	episodes=1 episode, 2013 	
+character=Busby Showgirl	name=Jade Phipps	episodes=1 episode, 2013 	
+character=Police Officer	name=Robert Rae-Lewis	episodes=1 episode, 2013 	
+character=Beggar	name=Charlie Cook	episodes=1 episode, 2013 	
+character=Gentleman	name=Martin Hammond	episodes=1 episode, 2013 	
+character=Labourer	name=Calum O	episodes=1 episode, 2013 	
+character=Labourer	name=Toole	episodes=1 episode, 2013 	
+character=Gambler	name=Tom Raven	episodes=1 episode, 2013 	
+character=Juggler	name=Kamil Lemie	episodes=1 episode, 2014 	
+character=Derby Bartender	name=Cris Haris	episodes=1 episode, 2014 	
+character=Stable Boy	name=Robert Davies	episodes=1 episode, 2014 	
+character=Uniformed Police Officer	name=Wayne Devlin	episodes=1 episode, 2014 	
+character=Barmaid	name=Linzi Gold	episodes=1 episode, 2014 	
+character=Horse Auctioneer	name=William Bale	episodes=1 episode, 2014 	
+character=Labourer	name=Craig Davies	episodes=1 episode, 2014 	
+character=Dock Worker	name=Richard Douglas	episodes=1 episode, 2014 	
+character=Betting Man	name=Michael Gartlan	episodes=1 episode, 2014 	
+character=Billy Kitchen Man	name=Matthew Akers	episodes=1 episode, 2014 	
+character=Sabini Gang Member	name=Dean Marshall	episodes=1 episode, 2014 	
+character=Tipton Tunneller	name=Alex Jaep	episodes=1 episode, 2016 	
+character=Police Officer	name=Kevin Smith	episodes=1 episode, 2016 	
+character=Dinner Guest	name=Craig McGrath	episodes=1 episode, 2016 	
+character=Party Guest	name=Michael Faulkner	episodes=1 episode, 2016 	
+character=Chef	name=Joseph Long	episodes=1 episode, 2017 	
+character=Heavy	name=Craig Douglas	episodes=1 episode, 2017 	
+character=Prostitute	name=Emily Gray	episodes=1 episode, 2017 	
+character=Communist	name=Christian Thorpe	episodes=1 episode, 2017 	
+character=Crowd Communist	name=Dan McGee	episodes=1 episode, 2017 	
+character=Peaky 1	name=Simon Kerrison	episodes=1 episode, 2017 	
+character=Factory Worker	name=Toby Armour	episodes=1 episode, 2017 	
+character=Waiter	name=Richard Varley	episodes=1 episode, 2017 	
+character=Prison Guard with Papers	name=Anthony K. Green	episodes=1 episode, 2017 	
+character=Digbeth Jew	name=Darryl Bradford	episodes=1 episode, 2019 	
+character=Detroit Male	name=Manoj Anand	episodes=1 episode, 2019 	
+character=Irish Tinker	name=Robert Ryan	episodes=1 episode, 2019 	
+character=Detroit Female	name=Amrita Jazzmyn	episodes=1 episode, 2019 	
+character=Mother	name=Jacqueline Foster	episodes=1 episode, 2019 	
+character=Peter	name=Jacqueline Foster	episodes=1 episode, 2019 	
+character=Detroit Female	name=Kas Meghani	episodes=1 episode, 2019 	
+character=Irish Traveller	name=Keith Lomas	episodes=1 episode, 2019 	
+character=Detroit Male	name=Arun Kapur	episodes=1 episode, 2019 	
+character=Anti-fascist Protestor	name=Antony Barlow	episodes=1 episode, 2019 	
+character=Member of Parliament	name=David Price	episodes=1 episode, 2019 	
+character=Policeman	name=David Aspinall	episodes=1 episode, 2019 	
+character=Female rally protestor	name=Adele Lupton	episodes=1 episode, 2019 	
+character=Gypsy at Dog Fight	name=Paul Day	episodes=1 episode, 2019 	
+character=Far Right Protester	name=Thomas J Powell	episodes=1 episode, 2019 	
+character=Detroit Female	name=Danuta Morgan	episodes=1 episode, 2019 	
+character=Bentley Driver 	name=Tom Oakley	episodes=1 episode, 2022 	
+character=Jewish Man	name=Colin Murtagh	episodes=1 episode, 2022 	
+character=Ruby	name=Kevin Jay-Greenwood	episodes=1 episode, 2022 	
+character=Priest	name=Kevin Jay-Greenwood	episodes=1 episode, 2022 	
+character=Catholic Priest	name=Leslie Davidoff	episodes=1 episode, 2022 	
+character=Docker	name=Mario Torella	episodes=1 episode, 2022 	
+character=Scouse docker	name=Ray F. Beard	episodes=1 episode, 2022 	
+character=Docker	name=Daniel McMillon	episodes=1 episode, 2022 	

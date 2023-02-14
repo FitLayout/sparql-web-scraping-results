@@ -1,0 +1,106 @@
+# http://fitlayout.github.io/resource/art41 -> https://www.imdb.com/title/tt7366338/fullcredits/
+character=Lyudmilla Ignatenko	name=Jessie Buckley	episodes=5 episodes, 2019 	
+character=Valery Legasov	name=Jared Harris	episodes=5 episodes, 2019 	
+character=Boris Shcherbina	name=Stellan Skarsgård	episodes=5 episodes, 2019 	
+character=Vasily Ignatenko	name=Adam Nagaitis	episodes=4 episodes, 2019 	
+character=Ulana Khomyuk	name=Emily Watson	episodes=4 episodes, 2019 	
+character=Anatoly Dyatlov	name=Paul Ritter	episodes=4 episodes, 2019 	
+character=Leonid Toptunov	name=Robert Emms	episodes=4 episodes, 2019 	
+character=Alexandr Akimov	name=Sam Troughton	episodes=4 episodes, 2019 	
+character=Viktor Proskuryakov	name=Karl Davies	episodes=3 episodes, 2019 	
+character=Mikhail	name=Michael Socha	episodes=3 episodes, 2019 	
+character=Oksana	name=Laura Elphinstone	episodes=3 episodes, 2019 	
+character=Kid	name=Jan Ricica	episodes=3 episodes, 2019 	
+character=Oksana	name=Jan Ricica	episodes=3 episodes, 2019 	
+character=Nikolai Fomin	name=Adrian Rawlins	episodes=3 episodes, 2019 	
+character=KGB Chairman Charkov	name=Alan Williams	episodes=3 episodes, 2019 	
+character=Viktor Bryukhanov	name=Neill	episodes=3 episodes, 2019 	
+character=Viktor Bryukhanov	name=Con O	episodes=3 episodes, 2019 	
+character=Yuvchenko	name=Douggie McMeekin	episodes=2 episodes, 2019 	
+character=Dr. Svetlana Zinchenko	name=Nadia Clifford	episodes=2 episodes, 2019 	
+character=Mikhail Gorbachev	name=David Dencik	episodes=2 episodes, 2019 	
+character=Pravik	name=Gerard Kearns	episodes=2 episodes, 2019 	
+character=General Pikalov	name=Mark Lewis Jones	episodes=2 episodes, 2019 	
+character=Sitnikov	name=Jamie Sives	episodes=2 episodes, 2019 	
+character=Brazhnik	name=Adam Lundgren	episodes=2 episodes, 2019 	
+character=Blond Man	name=Michael Shaeffer	episodes=2 episodes, 2019 	
+character=Old Maternity Doctor	name=Ron Cook	episodes=2 episodes, 2019 	
+character=Perevozchenko	name=Jay Simpson	episodes=2 episodes, 2019 	
+character=Kibenok	name=Povilas Jatkevicius	episodes=2 episodes, 2019 	
+character=Kirschenbaum	name=Joshua Leese	episodes=2 episodes, 2019 	
+character=Nikolai Gorbachenko	name=Ross Armstrong	episodes=2 episodes, 2019 	
+character=Boris Stolyarchuk	name=Billy Postlethwaite	episodes=2 episodes, 2019 	
+character=Aleksandr Kudryavstev	name=Paulius Markevicius	episodes=2 episodes, 2019 	
+character=General Tarakanov	name=Ralph Ineson	episodes=2 episodes, 2019 	
+character=Ananenko	name=Baltasar Breki Samper	episodes=2 episodes, 2019 	
+character=Pavel	name=Barry Keoghan	episodes=2 episodes, 2019 	
+character=Bezpalov	name=Philip Barantini	episodes=2 episodes, 2019 	
+character=Kremlin Aide Female	name=Amanda Drew	episodes=2 episodes, 2019 	
+character=Baranov	name=Oscar Dyekjær Giese	episodes=2 episodes, 2019 	
+character=Viktor Degtaryenko	name=Karolis Kasperavicius	episodes=2 episodes, 2019 	
+character=Local Wife	name=Cait Davis	episodes=2 episodes, 2019 	
+character=Local Husband	name=Darius Petkevicius	episodes=2 episodes, 2019 	
+character=Zharkov	name=Donald Sumpter	episodes=2 episodes, 2019 	
+character=Policeman	name=Tomas Zaibus	episodes=1 episode, 2019 	
+character=Old Woman Babushka	name=June Watson	episodes=1 episode, 2019 	
+character=Soldier	name=Josef Altin	episodes=1 episode, 2019 	
+character=Dmitri	name=Matthew Needham	episodes=1 episode, 2019 	
+character=Nurse Pripyat	name=Rosie Sheehy	episodes=1 episode, 2019 	
+character=Survey Soldier	name=Sergejus Ivanovas	episodes=1 episode, 2019 	
+character=Yenina	name=Caoilfhionn Dunne	episodes=1 episode, 2019 	
+character=Garo	name=Alexej Manvelov	episodes=1 episode, 2019 	
+character=Dr. Vetrova	name=Pandora Colin	episodes=1 episode, 2019 	
+character=Bacho	name=Fares Fares	episodes=1 episode, 2019 	
+character=Janek	name=Josef Davies	episodes=1 episode, 2019 	
+character=KGB Driver	name=Simonas Dovidauskas	episodes=1 episode, 2019 	
+character=Niyazova	name=Rachel Atkins	episodes=1 episode, 2019 	
+character=Elderly Librarian	name=Velta Zygure	episodes=1 episode, 2019 	
+character=KGB Agent Library	name=Paulius Cizinauskas	episodes=1 episode, 2019 	
+character=Robot Operator	name=Mark Bagnall	episodes=1 episode, 2019 	
+character=Jughashvili 	name=Mark Bagnall	episodes=1 episode, 2019 	
+character=Prosecutor Andrei Stepashin	name=Michael McElhatton	episodes=1 episode, 2019 	
+character=Site Officer Masha	name=Ian Pirie	episodes=1 episode, 2019 	
+character=Misha	name=Sam Strike	episodes=1 episode, 2019 	
+character=Judge Milan Kadnikov	name=Hilton McRae	episodes=1 episode, 2019 	
+character=Glukhov	name=Alex Ferns	episodes=1 episode, 2019 	
+character=Biorobot	name=Andrew Sheridan	episodes=1 episode, 2019 	
+character=Miner	name=James Cosmo	episodes=1 episode, 2019 	
+character=Khodemchuck	name=Kieran O	episodes=1 episode, 2019 	
+character=Khodemchuck	name=Brien	episodes=1 episode, 2019 	
+character=Titenok	name=Sammy Hayman	episodes=1 episode, 2019 	
+character=Biorobot Soldier	name=Lukas Malinauskas	episodes=1 episode, 2019 	
+character=Major Burov	name=Peter Guinness	episodes=1 episode, 2019 	
+character=Soldier 	name=Arnas Danusas	episodes=1 episode, 2019 	
+character=Bus	name=Arnas Danusas	episodes=1 episode, 2019 	
+character=Miner	name=Arnas Danusas	episodes=1 episode, 2019 	
+character=Mikhail Shchadov	name=Michael Colgan	episodes=1 episode, 2019 	
+character=Commission Heli Pilot	name=Laurence Spellman	episodes=1 episode, 2019 	
+character=BCP HQ Aide Female	name=Alison Pargeter	episodes=1 episode, 2019 	
+character=Miner	name=James Kermack	episodes=1 episode, 2019 	
+character=Garanin	name=Victor McGuire	episodes=1 episode, 2019 	
+character=Miner	name=Karolis Vilkas	episodes=1 episode, 2019 	
+character=Ilya Ivanovich Chulkov	name=Sakalas Uzdavinys	episodes=1 episode, 2019 	
+character=Soldier 	name=Sarunas Datenis	episodes=1 episode, 2019 	
+character=Reactor Site	name=Sarunas Datenis	episodes=1 episode, 2019 	
+character=Soldier 	name=Deividas Breive	episodes=1 episode, 2019 	
+character=Mobile Office	name=Deividas Breive	episodes=1 episode, 2019 	
+character=Vladimir Tishchura	name=Matas Dirgincius	episodes=1 episode, 2019 	
+character=Soldier 	name=Aidas Jurgaitis	episodes=1 episode, 2019 	
+character=Shelter	name=Aidas Jurgaitis	episodes=1 episode, 2019 	
+character=Bartender in Polyssia Hotel	name=Aiste S. Gram	episodes=1 episode, 2019 	
+character=Day Shift Worker	name=Caolan Byrne	episodes=1 episode, 2019 	
+character=Night Shift Worker	name=Stephen Bisland	episodes=1 episode, 2019 	
+character=Petrovich	name=Alex Blake	episodes=1 episode, 2019 	
+character=Stasiuk	name=Daniel Crossley	episodes=1 episode, 2019 	
+character=Marina Gruzinskaya	name=Lucy Russell	episodes=1 episode, 2019 	
+character=Zukauskas	name=Diarmaid Murtagh	episodes=1 episode, 2019 	
+character=Russian News Reader	name=Natasha Radski	episodes=1 episode, 2019 	
+character=General	name=Yitzchak Averbuch	episodes=1 episode, 2019 	
+character=Plant Employee	name=Joe Tucker	episodes=1 episode, 2019 	
+character=Mass	name=Jokubas Gutautas	episodes=2 episodes, 2019 	
+character=Civilian in a Hospital	name=Kadrolsha Ona Carole	episodes=1 episode, 2019 	
+character=Airman Pavel	name=Jimmy Walker	episodes=1 episode, 2019 	
+character=Dyatlov	name=Petras Simonis	episodes=1 episode, 2019 	
+character=Guard	name=Petras Simonis	episodes=1 episode, 2019 	
+character=Civilian in a Hospital	name=Bartas Erminas	episodes=1 episode, 2019 	
+character=Civilian	name=Roman Listopad	episodes=1 episode, 2019 	

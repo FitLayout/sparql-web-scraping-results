@@ -1,0 +1,1175 @@
+# http://fitlayout.github.io/resource/art25 -> https://www.imdb.com/title/tt0979432/fullcredits/
+character=Nucky	name=Steve Buscemi	episodes=57 episodes, 2010-2014 	
+character=Thompson	name=Steve Buscemi	episodes=57 episodes, 2010-2014 	
+character=Enoch 	name=Steve Buscemi	episodes=57 episodes, 2010-2014 	
+character=Margaret Thompson	name=Kelly Macdonald	episodes=56 episodes, 2010-2014 	
+character=Nelson Van Alden	name=Michael Shannon	episodes=56 episodes, 2010-2014 	
+character=Thompson	name=Shea Whigham	episodes=56 episodes, 2010-2014 	
+character=Elias 	name=Shea Whigham	episodes=56 episodes, 2010-2014 	
+character=Eli	name=Shea Whigham	episodes=56 episodes, 2010-2014 	
+character=Al Capone	name=Stephen Graham	episodes=57 episodes, 2010-2014 	
+character=Lucky Luciano	name=Vincent Piazza	episodes=57 episodes, 2010-2014 	
+character=Chalky White	name=Michael Kenneth Williams	episodes=56 episodes, 2010-2014 	
+character=Mickey Doyle	name=Paul Sparks	episodes=56 episodes, 2010-2014 	
+character=Gillian Darmody	name=Gretchen Mol	episodes=53 episodes, 2010-2014 	
+character=Arnold Rothstein	name=Michael Stuhlbarg	episodes=48 episodes, 2010-2013 	
+character=Eddie Kessler	name=Anthony Laciura	episodes=48 episodes, 2010-2013 	
+character=Richard Harrow	name=Jack Huston	episodes=41 episodes, 2010-2013 	
+character=Meyer Lansky	name=Anatol Yusef	episodes=31 episodes, 2010-2014 	
+character=Tommy Darmody	name=Brady Noon	episodes=29 episodes, 2010-2013 	
+character=Tommy Darmody	name=Connor Noon	episodes=29 episodes, 2010-2013 	
+character=Emily Schroeder	name=Lucy Gallina	episodes=29 episodes, 2010-2013 	
+character=Emily Schroeder	name=Josie Gallina	episodes=29 episodes, 2010-2013 	
+character=Teddy Schroeder	name=Declan McTigue	episodes=28 episodes, 2010-2013 	
+character=Teddy Schroeder	name=Rory McTigue	episodes=28 episodes, 2010-2013 	
+character=Darmody	name=Michael Pitt	episodes=24 episodes, 2010-2012 	
+character=James 	name=Michael Pitt	episodes=24 episodes, 2010-2012 	
+character=Jimmy	name=Michael Pitt	episodes=24 episodes, 2010-2012 	
+character=Angela Darmody	name=Aleksa Palladino	episodes=24 episodes, 2010-2011 	
+character=Lucy Danziger	name=Paz de la Huerta	episodes=24 episodes, 2010-2011 	
+character=Commodore Louis Kaestner	name=Dabney Coleman	episodes=24 episodes, 2010-2011 	
+character=Owen Sleater	name=Charlie Cox	episodes=23 episodes, 2011-2012 	
+character=Edward Bader	name=Rourke	episodes=21 episodes, 2010-2013 	
+character=Edward Bader	name=Kevin O	episodes=21 episodes, 2010-2013 	
+character=Valentin Narcisse	name=Jeffrey Wright	episodes=20 episodes, 2013-2014 	
+character=Ward Boss Fleming	name=Victor Verhaeghe	episodes=20 episodes, 2010-2012 	
+character=Johnny Torrio	name=Greg Antonacci	episodes=19 episodes, 2010-2014 	
+character=Willie Thompson	name=Ben Rosenfield	episodes=17 episodes, 2013-2014 	
+character=Alderman Jim Neary	name=Robert Clohessy	episodes=17 episodes, 2010-2011 	
+character=June Thompson	name=Nisi Sturgis	episodes=16 episodes, 2010-2014 	
+character=Dunn Purnsley	name=Erik LaRay Harvey	episodes=15 episodes, 2011-2013 	
+character=Tonino Sandrelli	name=Chris Caldovino	episodes=15 episodes, 2012-2014 	
+character=Katy	name=Heather Lind	episodes=13 episodes, 2011-2012 	
+character=Sigrid Mueller	name=Christiane Seidel	episodes=14 episodes, 2011-2014 	
+character=Ralph Capone	name=Domenick Lombardozzi	episodes=13 episodes, 2013-2014 	
+character=Ward Boss O	name=William Hill	episodes=13 episodes, 2010-2011 	
+character=Neill	name=William Hill	episodes=13 episodes, 2010-2011 	
+character=Deputy Halloran	name=Adam Mucci	episodes=13 episodes, 2010-2011 	
+character=Ward Boss Boyd	name=Edward McGinty	episodes=13 episodes, 2010-2012 	
+character=Roy Phillips	name=Ron Livingston	episodes=12 episodes, 2013 	
+character=Gyp Rosetti	name=Bobby Cannavale	episodes=13 episodes, 2012 	
+character=Leander Cephas Whitlock	name=Dominic Chianese	episodes=12 episodes, 2011-2013 	
+character=Lillian	name=Jacqueline Pennewill	episodes=12 episodes, 2011-2012 	
+character=Brian Thompson	name=Brandon Zumsteg	episodes=12 episodes, 2011-2013 	
+character=Esther Randolph	name=Julianne Nicholson	episodes=11 episodes, 2011-2013 	
+character=Daughter Maitland	name=Margot Bingham	episodes=11 episodes, 2013-2014 	
+character=Benny Siegel	name=Michael Zegen	episodes=12 episodes, 2011-2014 	
+character=Eli	name=David Campbell	episodes=9 episodes, 2011-2013 	
+character=Deputy 	name=David Campbell	episodes=9 episodes, 2011-2013 	
+character=Sally Wheet	name=Patricia Arquette	episodes=10 episodes, 2013-2014 	
+character=Agent Warren Knox	name=Brian Geraghty	episodes=10 episodes, 2013 	
+character=Joe Masseria	name=Ivo Nandi	episodes=10 episodes, 2011-2014 	
+character=Agent Sawicki	name=Joseph Aniska	episodes=10 episodes, 2011-2013 	
+character=Jake Guzik	name=Joe Caniano	episodes=10 episodes, 2010-2014 	
+character=Julia Sagorsky	name=Wrenn Schmidt	episodes=10 episodes, 2012-2013 	
+character=Nora Thompson	name=Madeline Getty	episodes=6 episodes, 2011-2013 	
+character=Gaston Means	name=Stephen Root	episodes=10 episodes, 2012-2013 	
+character=Supervisor Elliot	name=Peter McRobbie	episodes=9 episodes, 2010-2013 	
+character=Agent Sebso	name=Erik Weiner	episodes=9 episodes, 2010 	
+character=George Remus	name=Glenn Fleshler	episodes=9 episodes, 2011-2013 	
+character=Bill McCoy	name=Pearce Bunting	episodes=9 episodes, 2010-2013 	
+character=Grey-Haired Man	name=Peter Claymore	episodes=9 episodes, 2010-2013 	
+character=Butler	name=Rony Clanton	episodes=9 episodes, 2010-2012 	
+character=Babbette	name=Tracy Middendorf	episodes=9 episodes, 2010-2012 	
+character=Commodore Louis Kaestner	name=John Ellison Conlee	episodes=8 episodes, 2014 	
+character=Paul Sagorsky	name=Mark Borkowski	episodes=8 episodes, 2012-2013 	
+character=Alessio	name=Edoardo Ballerini	episodes=7 episodes, 2010 	
+character=Ignatius D	name=Edoardo Ballerini	episodes=7 episodes, 2010 	
+character=Dr. Carl Surran	name=Kevin Henderson	episodes=8 episodes, 2010-2012 	
+character=Edith Thompson	name=Emma Holzer	episodes=8 episodes, 2012-2013 	
+character=Maybelle White	name=Christina Jackson	episodes=8 episodes, 2011-2013 	
+character=Michael Thompson	name=Charlie Plummer	episodes=8 episodes, 2011-2013 	
+character=Rosetti Thug	name=Nick Diamantis	episodes=6 episodes, 2010-2012 	
+character=Alessio	name=Max Casella	episodes=7 episodes, 2010 	
+character=Leo D	name=Max Casella	episodes=7 episodes, 2010 	
+character=Manny Horvitz	name=William Forsythe	episodes=7 episodes, 2011-2012 	
+character=Harry Daugherty	name=Christopher McDonald	episodes=8 episodes, 2010-2012 	
+character=Kent	name=Meg Steedle	episodes=8 episodes, 2012 	
+character=Billie	name=Meg Steedle	episodes=8 episodes, 2012 	
+character=Lillian 	name=Meg Steedle	episodes=8 episodes, 2012 	
+character=Dr. Douglas Mason	name=Patrick Kennedy	episodes=7 episodes, 2012 	
+character=Arquimedes	name=Paul Calderon	episodes=7 episodes, 2014 	
+character=Banion	name=Arron Shiver	episodes=8 episodes, 2012-2013 	
+character=Dean O	name=Arron Shiver	episodes=8 episodes, 2012-2013 	
+character=Eddie Cantor	name=Stephen DeRosa	episodes=7 episodes, 2010-2013 	
+character=Rose Van Alden	name=Enid Graham	episodes=7 episodes, 2010-2011 	
+character=Clifford Lathrop	name=Curt Bouril	episodes=7 episodes, 2011-2012 	
+character=Samuel Crawford	name=Ty Robinson	episodes=7 episodes, 2011-2013 	
+character=Lester White	name=Justiin Davis	episodes=7 episodes, 2011-2013 	
+character=Lenore White	name=Natalie Wachen	episodes=7 episodes, 2011-2013 	
+character=Isaac Ginsburg	name=Peter Van Wagner	episodes=7 episodes, 2011 	
+character=Gangster	name=Kent Sladyk	episodes=1 episode, 2010-2012 	
+character=Sheriff Jacob Lindsay	name=Boris McGiver	episodes=6 episodes, 2014 	
+character=Joe Harper	name=Travis Tope	episodes=6 episodes, 2014 	
+character=Angelo	name=Louis Cancelmi	episodes=6 episodes, 2014 	
+character=Mike D	name=Louis Cancelmi	episodes=6 episodes, 2014 	
+character=J. Edgar Hoover	name=Eric Ladin	episodes=6 episodes, 2013 	
+character=Father Ed Brennan	name=Michael Cumpsty	episodes=6 episodes, 2011-2012 	
+character=Bill Fallon	name=David Aaron Baker	episodes=6 episodes, 2010-2011 	
+character=Louanne	name=Johnnie Mae	episodes=6 episodes, 2010 	
+character=Isabelle Jeunet	name=Anna Katarina	episodes=6 episodes, 2010-2012 	
+character=Jess Smith	name=Ed Jewett	episodes=7 episodes, 2011-2012 	
+character=Frankie Yale	name=Joseph Riccobene	episodes=6 episodes, 2010-2013 	
+character=Sean	name=Nicholas E. Calhoun	episodes=6 episodes, 2014 	
+character=Ethan Thompson	name=Tom Aldredge	episodes=5 episodes, 2010-2011 	
+character=Lolly Steinman	name=Danny Burstein	episodes=5 episodes, 2010-2011 	
+character=Mary Dittrich	name=Lisa Joyce	episodes=5 episodes, 2010 	
+character=Frank Wilson	name=Michael Countryman	episodes=5 episodes, 2014 	
+character=Young Enoch Thompson	name=Nolan Lyons	episodes=5 episodes, 2014 	
+character=Deputy Ramsey	name=Marc D. Donovan	episodes=5 episodes, 2012 	
+character=Sid	name=Steve Beauchamp	episodes=5 episodes, 2013 	
+character=Mr. Coates - Onyx Club Pianist	name=Surya Botofasina	episodes=5 episodes, 2013 	
+character=Cornelia Predock	name=Emily Dorsch	episodes=5 episodes, 2012 	
+character=Anne Thompson	name=Lo Freidenstine	episodes=5 episodes, 2012-2013 	
+character=Allessio	name=Al Linea	episodes=5 episodes, 2010 	
+character=Matteo D	name=Al Linea	episodes=5 episodes, 2010 	
+character=Ralph	name=Mike Houston	episodes=5 episodes, 2012-2013 	
+character=Hymie Weiss	name=Will Janowitz	episodes=5 episodes, 2012-2013 	
+character=House Servant Phillip	name=Matt Hobby	episodes=5 episodes, 2012 	
+character=Ernie Moran	name=John Keating	episodes=5 episodes, 2010-2011 	
+character=Mayor Harry Bacharach	name=John Rue	episodes=5 episodes, 2010 	
+character=Halsey	name=Thomas Philip O	episodes=5 episodes, 2011 	
+character=Halsey	name=Neill	episodes=5 episodes, 2011 	
+character=Emma Harrow	name=Katherine Waterston	episodes=5 episodes, 2012-2013 	
+character=Deacon Lemuel Cuffy	name=Franklin Ojeda Smith	episodes=5 episodes, 2010-2013 	
+character=Paddy Ryan	name=Samuel Taylor	episodes=5 episodes, 2010-2011 	
+character=Agent Selby	name=Jacob A. Ware	episodes=5 episodes, 2013 	
+character=Onyx Club Dancer 2	name=Maud Arnold	episodes=5 episodes, 2013 	
+character=Annabelle	name=Megan Reinking	episodes=5 episodes, 2010 	
+character=Bouncer	name=Chris Cenatiempo	episodes=3 episodes, 2010-2012 	
+character=Onyx Club Dancer 3	name=Brittany Engel-Adams	episodes=5 episodes, 2013 	
+character=Onyx Club Dancer	name=Jennifer Jones	episodes=5 episodes, 2013 	
+character=Onyx Club Dancer	name=Celestine Rae	episodes=5 episodes, 2013 	
+character=Onyx Club Dancer	name=Jae Ponder	episodes=5 episodes, 2013 	
+character=Onyx Club Dancer	name=Jennifer Rias	episodes=5 episodes, 2013 	
+character=Capone Thug	name=George Pendill	episodes=3 episodes, 2012-2014 	
+character=Ethan Thompson	name=Ian Hart	episodes=4 episodes, 2014 	
+character=Andrew W. Mellon	name=James Cromwell	episodes=4 episodes, 2012-2013 	
+character=Joseph P. Kennedy	name=Matt Letscher	episodes=4 episodes, 2014 	
+character=Deputy Sheriff Enoch Thompson	name=Marc Pickering	episodes=4 episodes, 2014 	
+character=Mrs. McGarry	name=Dana Ivey	episodes=4 episodes, 2010 	
+character=Boss Frank Hague	name=Chris Mulkey	episodes=4 episodes, 2010-2011 	
+character=Robert Dittrich	name=Josiah Early	episodes=4 episodes, 2010 	
+character=Senator Walter Edge	name=Geoff Pierson	episodes=4 episodes, 2010-2012 	
+character=Eleanor Thompson	name=Erin Dilly	episodes=4 episodes, 2014 	
+character=Mabel Jeffries-Thompson	name=Maya Kazan	episodes=4 episodes, 2014 	
+character=Frank Capone	name=Morgan Spector	episodes=4 episodes, 2013 	
+character=Salvatore Maranzano	name=Giampiero Judica	episodes=4 episodes, 2014 	
+character=Lawrence Conors	name=John C. Vennema	episodes=4 episodes, 2014 	
+character=Reporter 	name=Steven L. Barron	episodes=4 episodes, 2010-2013 	
+character=Clayton Davies	name=Owen Campbell	episodes=4 episodes, 2013 	
+character=Gareth Murray	name=Jack Ferry	episodes=4 episodes, 2012 	
+character=Edwina Shearer	name=Malley	episodes=4 episodes, 2012 	
+character=Edwina Shearer	name=Kerry O	episodes=4 episodes, 2012 	
+character=Corrine	name=Kate Loprest	episodes=4 episodes, 2012 	
+character=Doris	name=Kayla Ferguson	episodes=4 episodes, 2013 	
+character=Nan Britton	name=Virginia Kull	episodes=4 episodes, 2010 	
+character=Sister Agnes	name=Rebecca Luker	episodes=4 episodes, 2012 	
+character=Leander Whitlock	name=Jordan Lage	episodes=4 episodes, 2014 	
+character=Capone entourage member	name=Mike Massimino	episodes=4 episodes, 2014 	
+character=Solomon Bishop	name=Bill Sage	episodes=4 episodes, 2011 	
+character=Harlan	name=Julian Rozzell Jr.	episodes=4 episodes, 2010-2011 	
+character=Carl Heely	name=Nic Novicki	episodes=4 episodes, 2010-2011 	
+character=George Baxter	name=Allen Lewis Rickman	episodes=4 episodes, 2010-2013 	
+character=Dr. Landau	name=Nick Wyman	episodes=4 episodes, 2012 	
+character=Onyx Club Dancer 4	name=Karida Griffith	episodes=4 episodes, 2013 	
+character=Phil	name=Ryan Woodle	episodes=4 episodes, 2012-2013 	
+character=Pauline	name=Amy Warren	episodes=4 episodes, 2011 	
+character=Mae Capone	name=Marcella Lentz-Pope	episodes=4 episodes, 2010-2014 	
+character=Onyx Club Dancer 1	name=Chloe Arnold	episodes=4 episodes, 2013 	
+character=Onyx Club Dancer	name=Nicole J. Johnson	episodes=4 episodes, 2013 	
+character=Onyx Club Dancer 9	name=Erin Moore	episodes=4 episodes, 2013 	
+character=Katheryn Bader	name=Tracy Sallows	episodes=4 episodes, 2010-2011 	
+character=Dancer	name=Mark Manley	episodes=4 episodes, 2010-2012 	
+character=Babette	name=Mark Manley	episodes=4 episodes, 2010-2012 	
+character=Onyx Club Dancer 8	name=Marla McReynolds	episodes=4 episodes, 2013 	
+character=Dancer	name=Felicity Stiverson	episodes=4 episodes, 2010-2012 	
+character=Babette	name=Felicity Stiverson	episodes=4 episodes, 2010-2012 	
+character=Dancer	name=William Ward	episodes=4 episodes, 2010-2012 	
+character=Babette	name=William Ward	episodes=4 episodes, 2010-2012 	
+character=Hospital Patient	name=Richard R. Corapi	episodes=1 episode, 2012-2014 	
+character=Lower Class Girl	name=Risa Dorken	episodes=1 episode, 2012 	
+character=Crony	name=Robert Szalai	episodes=4 episodes, 2014 	
+character=Boardwalk Girl	name=Alexis Eileen Murphy	episodes=4 episodes, 2014 	
+character=William Thompson	name=Kevin Csolak	episodes=3 episodes, 2012 	
+character=Waxey Gordon	name=Nick Sandow	episodes=3 episodes, 2011-2012 	
+character=Robert Bennett III	name=Patch Darragh	episodes=3 episodes, 2013-2014 	
+character=Billy Winslow	name=Chase Coleman	episodes=3 episodes, 2010 	
+character=Young Elias Thompson	name=Oakes Fegley	episodes=3 episodes, 2014 	
+character=Boardwalk Barker	name=Kevin Carolan	episodes=3 episodes, 2010-2012 	
+character=Simon	name=Jordan Gelber	episodes=3 episodes, 2010 	
+character=Sterling	name=Joseph Anthony Byrd	episodes=3 episodes, 2013 	
+character=Agent Clarkson	name=Joel Brady	episodes=3 episodes, 2011 	
+character=Don Maxime Ronis	name=Lee Godart	episodes=3 episodes, 2014 	
+character=Dr. Edward Holt	name=Joel Hatch	episodes=3 episodes, 2011 	
+character=Evelyn - Artemis Club Girl	name=Jenna Gavigan	episodes=3 episodes, 2012 	
+character=Priest	name=Stephen Hill	episodes=3 episodes, 2014 	
+character=Rosetti Thug	name=Paul Locke	episodes=3 episodes, 2012 	
+character=Friend	name=David McElwee	episodes=3 episodes, 2013 	
+character=Roger	name=David McElwee	episodes=3 episodes, 2013 	
+character=Dancer 	name=Kathryn Avery	episodes=3 episodes, 2010-2011 	
+character=Boardwalk Walker	name=Joseph Huffman	episodes=3 episodes, 2013-2014 	
+character=Prudence	name=Robin Madel	episodes=3 episodes, 2012 	
+character=Dale	name=Bob Sorenson	episodes=3 episodes, 2010-2013 	
+character=Phil Gardner	name=Jim Schubin	episodes=3 episodes, 2012 	
+character=Bodyguard	name=Sean Stanco	episodes=3 episodes, 2014 	
+character=Hank	name=Ned Noyes	episodes=3 episodes, 2012 	
+character=Lady Jean	name=Charleigh E. Parker	episodes=3 episodes, 2010 	
+character=Edith	name=Barbara Tirrell	episodes=3 episodes, 2010 	
+character=Madam Regina	name=Susan Varon	episodes=3 episodes, 2010 	
+character=Young Gillian	name=Madeleine Yen	episodes=3 episodes, 2014 	
+character=Dancer	name=Dieter Riesle	episodes=3 episodes, 2010-2013 	
+character=Babette	name=Dieter Riesle	episodes=3 episodes, 2010-2013 	
+character=Reporter	name=Jonathan Brody	episodes=3 episodes, 2010-2013 	
+character=Dancer	name=Jennifer Bowles	episodes=3 episodes, 2010-2013 	
+character=Babette	name=Jennifer Bowles	episodes=3 episodes, 2010-2013 	
+character=Dancer 	name=Kate Harpootlian	episodes=3 episodes, 2011-2012 	
+character=Onyx Club Patron	name=Natalia Lepore Hagan	episodes=3 episodes, 2013-2014 	
+character=Onyx Club Dancer 5	name=Afra Hines	episodes=3 episodes, 2013 	
+character=Bodyguard 	name=Ed Heavey	episodes=2 episodes, 2012 	
+character=Nucky	name=Ed Heavey	episodes=2 episodes, 2012 	
+character=Gino	name=Nicky Julius	episodes=2 episodes, 2010-2012 	
+character=Dancer	name=Clifton Samuels	episodes=3 episodes, 2012-2013 	
+character=Bandleader	name=Vince Giordano	episodes=2 episodes, 2010 	
+character=Falcone	name=Rocco Parente	episodes=2 episodes, 2012 	
+character=Adeline White	name=Dominique Swift	episodes=3 episodes, 2013 	
+character=Hirram Cobb	name=Michael Louis Gibson	episodes=2 episodes, 2012 	
+character=Dancer	name=Jessica Swesey	episodes=2 episodes, 2010-2014 	
+character=Babette	name=Jessica Swesey	episodes=2 episodes, 2010-2014 	
+character=Patrick Thompson	name=Matthew Broadley	episodes=2 episodes, 2011 	
+character=Henchman	name=Jon Douglas Rainey	episodes=1 episode, 2013-2014 	
+character=Al Capone	name=Jon Douglas Rainey	episodes=1 episode, 2013-2014 	
+character=Lucky Luciano Bodyguard	name=Brett Joseph DePetrillo	episodes=2 episodes, 2014 	
+character=Harry Prince	name=Michael Badalucco	episodes=2 episodes, 2010 	
+character=Roger McAllister	name=Billy Magnussen	episodes=2 episodes, 2012 	
+character=Big Jim Colosimo	name=Frank Crudele	episodes=2 episodes, 2010 	
+character=Owney Madden	name=Fredric Lehne	episodes=2 episodes, 2013 	
+character=John McGarrigle	name=Ted Rooney	episodes=2 episodes, 2011 	
+character=Pearl	name=Emily Meade	episodes=2 episodes, 2010 	
+character=Carl Billings	name=Sean Cullen	episodes=2 episodes, 2013 	
+character=Viola	name=Clea Alsip	episodes=2 episodes, 2012 	
+character=Vincenzo Petrucelli	name=Vincenzo Amato	episodes=2 episodes, 2013 	
+character=Jerome	name=Eric L. Abrams	episodes=2 episodes, 2010 	
+character=Man	name=Lucas Caleb Rooney	episodes=2 episodes, 2012 	
+character=Banion	name=Lucas Caleb Rooney	episodes=2 episodes, 2012 	
+character=Joe Miller - O	name=Lucas Caleb Rooney	episodes=2 episodes, 2012 	
+character=Robert Hodge	name=Reg Rogers	episodes=2 episodes, 2014 	
+character=Sheriff Victor Sickles	name=E.J. Carroll	episodes=2 episodes, 2012 	
+character=Mrs. Tremaine	name=Dionne Audain	episodes=2 episodes, 2013 	
+character=Carolyn Rothstein	name=Shae D	episodes=2 episodes, 2014 	
+character=Henry	name=Josh Caras	episodes=2 episodes, 2013 	
+character=Thug	name=James Ciccone	episodes=2 episodes, 2012 	
+character=Joe Masseria	name=James Ciccone	episodes=2 episodes, 2012 	
+character=Pat Halligan	name=Danny McCarthy	episodes=2 episodes, 2014 	
+character=Alma Pastor	name=Jo Armeniox	episodes=2 episodes, 2013 	
+character=Tip	name=Jake Woodbury Davis	episodes=2 episodes, 2013 	
+character=Charles Gabler	name=Paul Fitzgerald	episodes=2 episodes, 2014 	
+character=Caiozzo	name=Jason Furlani	episodes=2 episodes, 2012 	
+character=Warehouse Guard 2	name=Noel Dinneen	episodes=2 episodes, 2013 	
+character=Mickey	name=Noel Dinneen	episodes=2 episodes, 2013 	
+character=Theodore Rollins	name=Richard Bekins	episodes=2 episodes, 2014 	
+character=Teresina Capone	name=Johann Carlo	episodes=2 episodes, 2010-2013 	
+character=Kitchen Manager	name=Peter Bradbury	episodes=2 episodes, 2011 	
+character=Levi	name=Brian D. Coats	episodes=2 episodes, 2013 	
+character=Corner Hotel Manager, 1884	name=Christopher J. Domig	episodes=2 episodes, 2014 	
+character=Skip	name=Sean Bell	episodes=2 episodes, 2014 	
+character=Sam Moceri	name=Anthony J. Gallo	episodes=2 episodes, 2012 	
+character=Attorney	name=Rick Crom	episodes=2 episodes, 2013 	
+character=Sagorsky	name=Rick Crom	episodes=2 episodes, 2013 	
+character=Claudia	name=Rae Gray	episodes=2 episodes, 2013 	
+character=Susan Thompson	name=Onata Aprile	episodes=2 episodes, 2014 	
+character=Young Eli Thompson	name=Ryan Dinning	episodes=2 episodes, 2014 	
+character=Cicero Prostitute 1	name=Tricia Burns	episodes=2 episodes, 2013 	
+character=David Hewson	name=Warren Kelley	episodes=2 episodes, 2013 	
+character=Jack Dempsey	name=Devin Harjes	episodes=2 episodes, 2011 	
+character=Hans Schroeder	name=Joseph Sikora	episodes=2 episodes, 2010-2011 	
+character=Roberta	name=Katy Wright-Mead	episodes=2 episodes, 2012 	
+character=Tap Dancer 1	name=DeWitt Fleming Jr.	episodes=2 episodes, 2013 	
+character=Cab Driver	name=Mark Havlis	episodes=2 episodes, 2011-2012 	
+character=Mary	name=Erin Fogel	episodes=2 episodes, 2012 	
+character=Wellman	name=Clem McIntosh	episodes=2 episodes, 2012 	
+character=Alcohol Delivery Boy	name=James Hosey	episodes=2 episodes, 2012 	
+character=Mickey	name=James Hosey	episodes=2 episodes, 2012 	
+character=Charles Kenneth Thorogood	name=T.J. Kenneally	episodes=2 episodes, 2011 	
+character=Pinky Rabinowitz	name=Ethan Herschenfeld	episodes=2 episodes, 2014 	
+character=Tap Dancer 2	name=Jared Grimes	episodes=2 episodes, 2013 	
+character=Flitch	name=Shane Nepveu	episodes=2 episodes, 2013 	
+character=Gas Jockey	name=David Edward Jackson	episodes=2 episodes, 2012 	
+character=Charlotte	name=Erica Fae	episodes=2 episodes, 2014 	
+character=Travis Elkins	name=Rege Lewis	episodes=2 episodes, 2011 	
+character=Mrs. Lindsay	name=Blair Sams	episodes=2 episodes, 2014 	
+character=Postal Worker	name=Kenn Mann	episodes=2 episodes, 2010 	
+character=Douglas Wallbridge	name=Randall Newsome	episodes=2 episodes, 2011 	
+character=Josephine	name=KC Wright	episodes=2 episodes, 2012 	
+character=Margery	name=Bethany Kay	episodes=2 episodes, 2014 	
+character=Judge Varick	name=Robert Emmet Lunney	episodes=2 episodes, 2013 	
+character=Milton	name=Warner Miller	episodes=2 episodes, 2014 	
+character=Police Officer 	name=Jacob Knoll	episodes=2 episodes, 2013 	
+character=Mrs. Sybill Crawford	name=G. Michelle Robinson	episodes=2 episodes, 2013 	
+character=Beatrice Carson	name=Natalie Paul	episodes=2 episodes, 2014 	
+character=Brighton Hotel Manager	name=John Mainieri	episodes=2 episodes, 2010-2011 	
+character=Ward Boss	name=Noel Wilson	episodes=2 episodes, 2010-2013 	
+character=Ruby	name=Jodie Sanders	episodes=2 episodes, 2010 	
+character=Ruby	name=Kylie Sanders	episodes=2 episodes, 2010 	
+character=Intellectual Female Guest	name=Charlotte Maier	episodes=2 episodes, 2012 	
+character=Kennedy Agent	name=Saint Marino	episodes=2 episodes, 2014 	
+character=Elmer	name=Wade Mylius	episodes=2 episodes, 2012-2013 	
+character=Dancer at the Old Rumpus	name=Jessy Smith	episodes=2 episodes, 2014 	
+character=Earl	name=Darrell Shipley	episodes=2 episodes, 2013 	
+character=Charlie Sheridan	name=Frank Shattuck	episodes=2 episodes, 2010 	
+character=Louise	name=Kristen Sieh	episodes=2 episodes, 2011 	
+character=Liam	name=Sean Weil	episodes=2 episodes, 2010 	
+character=Dancer	name=Anna Mancini	episodes=2 episodes, 2013-2014 	
+character=Sixtus D	name=Eric Michael Roy	episodes=2 episodes, 2010 	
+character=Kitty	name=Faith Sandberg	episodes=2 episodes, 2010 	
+character=Dancer 	name=Sarah Skogland	episodes=2 episodes, 2010-2011 	
+character=Cal	name=Joe Tippett	episodes=2 episodes, 2013 	
+character=Hubert McCready	name=Sebastian Tillinger	episodes=2 episodes, 2013 	
+character=Herman Kaufman	name=Sol Landerman	episodes=2 episodes, 2011 	
+character=Jazz Dancer 	name=Terrence Clowe	episodes=2 episodes, 2010-2012 	
+character=Jazz Dancer 	name=Cicily Daniels	episodes=2 episodes, 2010-2012 	
+character=Aide	name=Nathan Williams	episodes=2 episodes, 2010-2012 	
+character=Edge	name=Nathan Williams	episodes=2 episodes, 2010-2012 	
+character=Jazz Dancer 	name=Queen Esther	episodes=2 episodes, 2010-2012 	
+character=Robert Elwood St. John	name=Christopher McLinden	episodes=2 episodes, 2013-2014 	
+character=Jazz Dancer 	name=Francesca Harper	episodes=2 episodes, 2010-2012 	
+character=Onyx Club Patron	name=Amelia Lowe	episodes=2 episodes, 2013 	
+character=Matron	name=Mary B. McCann	episodes=2 episodes, 2014 	
+character=Jazz Dancer 	name=Dameka Hayes	episodes=2 episodes, 2010-2012 	
+character=Mrs. Neary	name=Fiana Toibin	episodes=2 episodes, 2010 	
+character=Jazz Dancer	name=James Jackson Jr.	episodes=2 episodes, 2010-2012 	
+character=Chester	name=Noah Unger	episodes=2 episodes, 2014 	
+character=Dancer 	name=Noah Racey	episodes=2 episodes, 2010-2012 	
+character=Babette	name=Noah Racey	episodes=2 episodes, 2010-2012 	
+character=Neil	name=Susan Wands	episodes=2 episodes, 2010 	
+character=Mrs. O	name=Susan Wands	episodes=2 episodes, 2010 	
+character=Local	name=Shane Tunney	episodes=2 episodes, 2010-2014 	
+character=Dancer 	name=Emily Tyra	episodes=2 episodes, 2011 	
+character=Onyx Club Dancer	name=Ayo Jackson	episodes=2 episodes, 2013 	
+character=Senator Wendell Lloyd	name=Michael Siberry	episodes=2 episodes, 2014 	
+character=Dancer	name=Frank Root	episodes=2 episodes, 2010-2011 	
+character=Babette	name=Frank Root	episodes=2 episodes, 2010-2011 	
+character=Four Deuces Prostitute	name=Desira Pesta	episodes=1 episode, 2010 	
+character=Dancer	name=Tyler Ingram	episodes=2 episodes, 2010-2012 	
+character=Babette	name=Tyler Ingram	episodes=2 episodes, 2010-2012 	
+character=Whiskey Whiskers	name=Byrne Davis Jr.	episodes=1 episode, 2010-2014 	
+character=Sonny	name=Alex Eckstein	episodes=2 episodes, 2010-2012 	
+character=Celt 	name=John Joseph Gallagher	episodes=1 episode, 2010 	
+character=Sonny	name=Ben Eckstein	episodes=2 episodes, 2010-2012 	
+character=Sonny	name=Caleb Eckstein	episodes=2 episodes, 2010-2012 	
+character=Agent Keener	name=Mat Hostetler	episodes=2 episodes, 2010 	
+character=Deputy 	name=Matt Giroveanu	episodes=1 episode, 2010-2013 	
+character=Odette	name=Maggie Steele	episodes=2 episodes, 2010 	
+character=Jazz Dancer 	name=Brian Harlan Brooks	episodes=2 episodes, 2010-2012 	
+character=Alessio	name=Louis Vanaria	episodes=2 episodes, 2010 	
+character=Lucien D	name=Louis Vanaria	episodes=2 episodes, 2010 	
+character=Jazz Dancer 	name=Ernest Williams Jr.	episodes=2 episodes, 2010-2012 	
+character=Prosecutor	name=Jay Russell	episodes=1 episode, 2013 	
+character=Dancer 	name=Doug Sheppard	episodes=1 episode, 2010-2011 	
+character=Babette	name=Doug Sheppard	episodes=1 episode, 2010-2011 	
+character=Dancer	name=Deanna Dys	episodes=1 episode, 2010-2012 	
+character=Deuces Girl	name=Aija Terauda	episodes=2 episodes, 2010 	
+character=Rocko	name=Costa Nicolas	episodes=1 episode, 2010 	
+character=Egyptian Waitress	name=Laura Butler	episodes=1 episode, 2011-2012 	
+character=Bootlegger	name=Joseph Anthony Sudol	episodes=2 episodes, 2014 	
+character=Cigarette Buyer	name=Chris Skeries	episodes=1 episode, 2014 	
+character=Althea	name=Ryan Johnson	episodes=2 episodes, 2014 	
+character=Boardwalk Child	name=Joseph Daniel Murphy	episodes=2 episodes, 2014 	
+character=Marie	name=Mary Bacon	episodes=1 episode, 2014 	
+character=Mrs. Zeller - Crab Woman	name=Joyce Van Patten	episodes=1 episode, 2014 	
+character=Fern	name=Olivia Nikkanen	episodes=1 episode, 2014 	
+character=Rowland Smith - Nate	name=Nick Robinson	episodes=1 episode, 2012 	
+character=Partner	name=Nick Robinson	episodes=1 episode, 2012 	
+character=Oscar Boneau	name=Louis Gossett Jr.	episodes=1 episode, 2013 	
+character=Gianconda Rosetti - Gyp	name=Ashlie Atkinson	episodes=1 episode, 2012 	
+character=Wife	name=Ashlie Atkinson	episodes=1 episode, 2012 	
+character=Jack Corbett - Sagorsky	name=Richard Barlow	episodes=1 episode, 2012 	
+character=Neighbor	name=Richard Barlow	episodes=1 episode, 2012 	
+character=August Tucker	name=Andrew Howard	episodes=1 episode, 2013 	
+character=Dr. Cotton	name=Byron Jennings	episodes=1 episode, 2014 	
+character=Player 	name=Fred Armstrong	episodes=1 episode, 2010 	
+character=Eamonn Rohan	name=Tony Curran	episodes=1 episode, 2011 	
+character=Dinah Linehan	name=Dagmara Dominczyk	episodes=1 episode, 2014 	
+character=Governor Edward I. Edwards	name=Wayne Duvall	episodes=1 episode, 2011 	
+character=Jackson Parkhurst	name=Richard Easton	episodes=1 episode, 2011 	
+character=Player 	name=Stephen Badalamenti	episodes=1 episode, 2010 	
+character=Boxer 	name=Sean Allison	episodes=1 episode, 2010 	
+character=Carolyn Rothstein	name=Jennifer Ferrin	episodes=1 episode, 2011 	
+character=Noel Pearson	name=Gabriel Olds	episodes=1 episode, 2011 	
+character=Rosetti Soldier 	name=Craig DiFrancia	episodes=1 episode, 2012 	
+character=Mickey	name=Herbert Bennett	episodes=1 episode, 2013 	
+character=Warehouse Guard 1	name=Herbert Bennett	episodes=1 episode, 2013 	
+character=George Raft	name=Matt Bailey	episodes=1 episode, 2014 	
+character=Theodore Hardeen	name=Remy Auberjonois	episodes=1 episode, 2010 	
+character=George Anastos	name=Demosthenes Chrysan	episodes=1 episode, 2010 	
+character=Alby Gold	name=Peter Appel	episodes=1 episode, 2012 	
+character=Malfada - Gyp	name=Judy Del Giudice	episodes=1 episode, 2012 	
+character=Mother	name=Judy Del Giudice	episodes=1 episode, 2012 	
+character=Dermot Thompson	name=Domenic Ambroselli	episodes=1 episode, 2012 	
+character=D.A. Lawrence Eisley	name=Ian Blackman	episodes=1 episode, 2013 	
+character=Assistant Bank Manager	name=Michael Armstrong Barr	episodes=1 episode, 2013 	
+character=Eliot Ness	name=Jim True-Frost	episodes=1 episode, 2014 	
+character=Floozy	name=Rémy Bennett	episodes=1 episode, 2010 	
+character=Buck	name=Dan Daily	episodes=1 episode, 2010 	
+character=Bethany Rohan	name=Nadia Alexander	episodes=1 episode, 2011 	
+character=Mickey	name=Brendan Burke	episodes=1 episode, 2012 	
+character=Driver	name=Brendan Burke	episodes=1 episode, 2012 	
+character=Bible Camp Lady	name=Janet Anderson	episodes=1 episode, 2012 	
+character=Stu	name=Joel Marsh Garland	episodes=1 episode, 2013 	
+character=Hotel Maid	name=Ashley Wren Collins	episodes=1 episode, 2014 	
+character=Irene Davis	name=Susan Blommaert	episodes=1 episode, 2010 	
+character=Chinese Man	name=Clem Cheung	episodes=1 episode, 2010 	
+character=Donald Flance	name=Bill Buell	episodes=1 episode, 2010 	
+character=Commodore	name=Cat Davis	episodes=1 episode, 2010 	
+character=Whore	name=Cat Davis	episodes=1 episode, 2010 	
+character=Upscale Whore 	name=Bambi	episodes=1 episode, 2010 	
+character=Barber	name=James Caufield	episodes=1 episode, 2010 	
+character=Antonio	name=Anthony Cerbone	episodes=1 episode, 2010 	
+character=Clifton King	name=Clarke Thorell	episodes=1 episode, 2012 	
+character=Chef Vola	name=Joel Briel	episodes=1 episode, 2014 	
+character=Davey Murdoch	name=Billy Smith	episodes=1 episode, 2010 	
+character=Warren G. Harding	name=Malachy Cleary	episodes=1 episode, 2010 	
+character=Sophie Tucker	name=Kathy Brier	episodes=1 episode, 2010 	
+character=Demanding Mother	name=Sidné Anderson	episodes=1 episode, 2011 	
+character=Martin Sharpe	name=Will Cart	episodes=1 episode, 2011 	
+character=Mercurio	name=Gino Cafarelli	episodes=1 episode, 2012 	
+character=Masseria	name=Joseph DeVito	episodes=1 episode, 2012 	
+character=Man 	name=Joseph DeVito	episodes=1 episode, 2012 	
+character=Victor Drake - Defense Attorney	name=Tim Ransom	episodes=1 episode, 2013 	
+character=Moses	name=Mike Britt	episodes=1 episode, 2013 	
+character=Headbreaker 	name=Martino Caputo	episodes=1 episode, 2013 	
+character=Male Guest 	name=Carl Burrows	episodes=1 episode, 2014 	
+character=Cenzo	name=Edward Carnevale	episodes=1 episode, 2014 	
+character=Girlfriend	name=Emma Berg	episodes=1 episode, 2014 	
+character=Maryska	name=Karen Chmielnicki	episodes=1 episode, 2010 	
+character=Uniformed Cop	name=Chris Fischer	episodes=1 episode, 2010 	
+character=Drunken Celt	name=Kenneth Cavett	episodes=1 episode, 2010 	
+character=Glenmore	name=Bill Camp	episodes=1 episode, 2011 	
+character=Waiter	name=Happy Anderson	episodes=1 episode, 2011 	
+character=Noah Hookway	name=Barthelemy Atsin	episodes=1 episode, 2011 	
+character=Cal Widdecombe	name=Pierce Cravens	episodes=1 episode, 2011 	
+character=Matthews - Disabled WWI Veteran	name=Tim Eliot	episodes=1 episode, 2012 	
+character=Student 2	name=Kathryn Barnhardt	episodes=1 episode, 2012 	
+character=A.D.A. Eugene Mulhearne	name=Tom Coiner	episodes=1 episode, 2013 	
+character=Weems - Boneau	name=D	episodes=1 episode, 2013 	
+character=Weems - Boneau	name=Monroe	episodes=1 episode, 2013 	
+character=Man	name=D	episodes=1 episode, 2013 	
+character=Man	name=Monroe	episodes=1 episode, 2013 	
+character=Danny	name=Jason Boyle	episodes=1 episode, 2014 	
+character=Abe Klein	name=Bob Engel	episodes=1 episode, 2010 	
+character=Jess Smith	name=Daniel Angus Cox	episodes=1 episode, 2010 	
+character=Jess Smith	name=Daniel Cox	episodes=1 episode, 2010 	
+character=State Trooper	name=Matty Blake	episodes=1 episode, 2011 	
+character=Customs Official	name=Spencer Aste	episodes=1 episode, 2011 	
+character=Mrs. Mayhew	name=Marilyn Sue Perry	episodes=1 episode, 2011 	
+character=Alexander	name=Todd Davis	episodes=1 episode, 2011 	
+character=Carruthers	name=Benjamin Forster	episodes=1 episode, 2011 	
+character=Pratt	name=Bob Braswell	episodes=1 episode, 2011 	
+character=William 	name=Bryant Carroll	episodes=1 episode, 2012 	
+character=Wild Bill	name=Bryant Carroll	episodes=1 episode, 2012 	
+character=Lovett	name=Bryant Carroll	episodes=1 episode, 2012 	
+character=Mr. Franklin Shearer	name=Frank Deal	episodes=1 episode, 2012 	
+character=Senator 1	name=Daniel Martin Berkey	episodes=1 episode, 2012 	
+character=Gwynne - Artemis Club Girl	name=Alice Ellis	episodes=1 episode, 2012 	
+character=Pat	name=Joe Abbate	episodes=1 episode, 2013 	
+character=Paul Muni	name=Max von Essen	episodes=1 episode, 2014 	
+character=Talia Bindleman	name=Leighton Bryan	episodes=1 episode, 2014 	
+character=Chalky	name=Danielle Davenport	episodes=1 episode, 2010 	
+character=Date	name=Danielle Davenport	episodes=1 episode, 2010 	
+character=Duncan O	name=John Treacy Egan	episodes=1 episode, 2010 	
+character=Connor	name=John Treacy Egan	episodes=1 episode, 2010 	
+character=Upscale Whore 	name=Darlinda Just Darlinda	episodes=1 episode, 2010 	
+character=Female Patient	name=Lauren Champlin	episodes=1 episode, 2010 	
+character=Klansman 	name=Jimmie James	episodes=1 episode, 2010 	
+character=Carl Switzer	name=John Bolton	episodes=1 episode, 2011 	
+character=Photographer	name=Brad Aldous	episodes=1 episode, 2011 	
+character=Pete	name=Jon DeVries	episodes=1 episode, 2011 	
+character=Jack 	name=Ralph Byers	episodes=1 episode, 2011 	
+character=Doc	name=Ralph Byers	episodes=1 episode, 2011 	
+character=Kearns	name=Ralph Byers	episodes=1 episode, 2011 	
+character=Armory guardsman	name=Clark Carmichael	episodes=1 episode, 2011 	
+character=Cornelius	name=Jonathan Baston	episodes=1 episode, 2011 	
+character=Richard 	name=Patrick Carroll	episodes=1 episode, 2012 	
+character=Peg Leg	name=Patrick Carroll	episodes=1 episode, 2012 	
+character=Lonergan	name=Patrick Carroll	episodes=1 episode, 2012 	
+character=Madge - Mickey	name=Lauren Elder	episodes=1 episode, 2012 	
+character=Date	name=Lauren Elder	episodes=1 episode, 2012 	
+character=Bribing Lobbyist 2	name=Tod Engle	episodes=1 episode, 2012 	
+character=Agent 	name=Bernard Bygott	episodes=1 episode, 2014 	
+character=Agent 	name=Fred Arsenault	episodes=1 episode, 2014 	
+character=Young Jim Neary	name=Marcus Antturi	episodes=1 episode, 2014 	
+character=Capone Entourage Member	name=Matt D	episodes=1 episode, 2014 	
+character=Capone Entourage Member	name=Amico	episodes=1 episode, 2014 	
+character=Claudia	name=Megan Ferguson	episodes=1 episode, 2010 	
+character=Mrs. Fleming	name=Laura Knight	episodes=1 episode, 2010 	
+character=Showgirl on Boardwalk	name=Chloe Harting	episodes=1 episode, 2010 	
+character=Scarpelli	name=John Cenatiempo	episodes=1 episode, 2011 	
+character=Man headbutted by Owen	name=Greg Harvey	episodes=1 episode, 2011 	
+character=Freida Short	name=Laurie Dawn	episodes=1 episode, 2011 	
+character=Interrogated Klansman	name=Denny Dale Bess	episodes=1 episode, 2011 	
+character=Masseria	name=Peter Epstein	episodes=1 episode, 2012 	
+character=Man 	name=Peter Epstein	episodes=1 episode, 2012 	
+character=Tall	name=Ray Crisara	episodes=1 episode, 2012 	
+character=Dr. Hollis	name=Ned Coulter	episodes=1 episode, 2012 	
+character=Dickie Pastor	name=Jeremy Bobb	episodes=1 episode, 2013 	
+character=Negrablanca	name=Drena De Niro	episodes=1 episode, 2013 	
+character=School Teacher	name=Madelyn Barkocy	episodes=1 episode, 2014 	
+character=Little Girl on Boardwalk	name=Francesca Scorsese	episodes=1 episode, 2010 	
+character=Young Woman	name=Katie Henney	episodes=1 episode, 2010 	
+character=Chicago Patron	name=Nikolas Kontomanolis	episodes=1 episode, 2010 	
+character=Stage Manager	name=Ken Forman	episodes=1 episode, 2010 	
+character=Alfred Gordetsky	name=Scott Burik	episodes=1 episode, 2011 	
+character=Waiter	name=Andrew Kober	episodes=1 episode, 2011 	
+character=Jail guard	name=Joseph Harrell	episodes=1 episode, 2011 	
+character=Chalky	name=Donté Bonner	episodes=1 episode, 2011 	
+character=Man 	name=Donté Bonner	episodes=1 episode, 2011 	
+character=Lansky	name=Angelo Berkowitz	episodes=1 episode, 2011 	
+character=Driver	name=Angelo Berkowitz	episodes=1 episode, 2011 	
+character=Businessman 	name=Craig Bockhorn	episodes=1 episode, 2011 	
+character=Bribing Lobbyist 3	name=William Fowle	episodes=1 episode, 2012 	
+character=Skeeter Walsh	name=Roe Hartrampf	episodes=1 episode, 2013 	
+character=Bureau of Investigation Agent	name=Nate Dern	episodes=1 episode, 2013 	
+character=Young Mabel Jeffries	name=Caroline Grossman	episodes=1 episode, 2014 	
+character=Agent 	name=Wilbur Edwin Henry	episodes=1 episode, 2014 	
+character=Agent 	name=Greg Oliver Bodine	episodes=1 episode, 2014 	
+character=Tailor 1	name=John Lantz	episodes=1 episode, 2010 	
+character=Bartender	name=Jack Haley	episodes=1 episode, 2010 	
+character=Talmer	name=Alex Cranmer	episodes=1 episode, 2011 	
+character=Redhead	name=Kate Boyer	episodes=1 episode, 2011 	
+character=Cicero Landlady	name=Charlotte Booker	episodes=1 episode, 2011 	
+character=Franklin	name=Samuel Ray Gates	episodes=1 episode, 2011 	
+character=Nuala Rohan	name=Shannon Garland	episodes=1 episode, 2011 	
+character=Hooker 1	name=Leslie Henstock	episodes=1 episode, 2011 	
+character=Rossi	name=Anthony Engellis	episodes=1 episode, 2012 	
+character=Temple Student	name=Tyler Jones	episodes=1 episode, 2013 	
+character=Apartment Hunting Wife	name=Samantha Buck	episodes=1 episode, 2014 	
+character=Arris	name=Tristan Laurence	episodes=1 episode, 2014 	
+character=Assistant	name=Tristan Laurence	episodes=1 episode, 2014 	
+character=Gerardo Scarpato	name=Roberto De Felice	episodes=1 episode, 2014 	
+character=Jenkins	name=James Campbell	episodes=1 episode, 2014 	
+character=Voter 	name=Craig Geraghty	episodes=1 episode, 2010 	
+character=Elderly Patient	name=Joe Iacona	episodes=1 episode, 2010 	
+character=Army recruiter	name=Jeb Kreager	episodes=1 episode, 2011 	
+character=Pastor	name=Helmar Augustus Cooper	episodes=1 episode, 2011 	
+character=Victrola Delivery Man	name=Michael Kincade	episodes=1 episode, 2011 	
+character=Franco	name=Patrick Gallo	episodes=1 episode, 2012 	
+character=Senator 2	name=Michael Hayward-Jones	episodes=1 episode, 2012 	
+character=Delivery Boy	name=Jacob Clemente	episodes=1 episode, 2012 	
+character=Ben Hoffman	name=Loren Dunn	episodes=1 episode, 2013 	
+character=Jerry Flentje	name=Maggie Fine	episodes=1 episode, 2013 	
+character=Neighbor in 1-C	name=Maggie Fine	episodes=1 episode, 2013 	
+character=Boardwalk barker	name=Eric Leviton	episodes=1 episode, 2014 	
+character=Gangster 	name=Michael De Nola	episodes=1 episode, 2014 	
+character=Agent 	name=Peter Hourihan	episodes=1 episode, 2014 	
+character=Agent 	name=Joseph Byrne	episodes=1 episode, 2014 	
+character=Man at Bar Mitzvah	name=Jerry Hyman	episodes=1 episode, 2010 	
+character=Waiter Martin	name=Austin Jones	episodes=1 episode, 2010 	
+character=Max Hirsch	name=Robert Dorfman	episodes=1 episode, 2011 	
+character=Delivery Guy	name=Jonathan Dickson	episodes=1 episode, 2011 	
+character=Mrs. Landau	name=Margaret Daly	episodes=1 episode, 2012 	
+character=Philadelphia Prohibition Agent 1	name=Chris Haag	episodes=1 episode, 2012 	
+character=Savarin Waiter	name=Kevin Loreque	episodes=1 episode, 2013 	
+character=Helen Hewson	name=Elizabeth Ward Land	episodes=1 episode, 2013 	
+character=Ada Monroe	name=Venida Evans	episodes=1 episode, 2013 	
+character=Cuban Captain	name=Rudy Mungaray	episodes=1 episode, 2014 	
+character=Agent 	name=Dustin Charles	episodes=1 episode, 2014 	
+character=Agent 	name=Ben Jeffrey	episodes=1 episode, 2014 	
+character=Tourist 	name=James P. Engel	episodes=1 episode, 2014 	
+character=Capone	name=Allison Guinn	episodes=1 episode, 2010 	
+character=Whore	name=Allison Guinn	episodes=1 episode, 2010 	
+character=Edith Day	name=Erin McGrath	episodes=1 episode, 2010 	
+character=John 	name=Judson Jones	episodes=1 episode, 2010 	
+character=Aylesh Rohan	name=Emma Kenney	episodes=1 episode, 2011 	
+character=Sister Bernice	name=Marceline Hugot	episodes=1 episode, 2011 	
+character=Beach matron	name=Moira Driscoll	episodes=1 episode, 2011 	
+character=Mr. Markham	name=Edmund Genest	episodes=1 episode, 2011 	
+character=Deuces Bouncer 	name=Anthony DeVito	episodes=1 episode, 2012 	
+character=Switchblade Wielder at Bar	name=Charles Gray	episodes=1 episode, 2012 	
+character=Priest	name=Glenn Peters	episodes=1 episode, 2012 	
+character=Reporter 	name=Michael Chenevert	episodes=1 episode, 2013 	
+character=Narcisse	name=Lakisha May	episodes=1 episode, 2013 	
+character=Secretary	name=Lakisha May	episodes=1 episode, 2013 	
+character=Western Electric Factory Worker	name=Christopher Jon Gombos	episodes=1 episode, 2013 	
+character=Pete 	name=Gregory Morley	episodes=1 episode, 2013 	
+character=Nucky	name=Gregory Morley	episodes=1 episode, 2013 	
+character=Bodyguard	name=Gregory Morley	episodes=1 episode, 2013 	
+character=Poker Dealer	name=A.J. Heekin	episodes=1 episode, 2013 	
+character=U.S. Marshal Gavin Lynnquist	name=Hunter Foster	episodes=1 episode, 2014 	
+character=Ned	name=Tommy Nelson	episodes=1 episode, 2014 	
+character=Luciano Bodyguard	name=Sheffield Chastain	episodes=1 episode, 2014 	
+character=Hobo	name=Paul Krasner	episodes=1 episode, 2014 	
+character=Secretary	name=Susan Kirby	episodes=1 episode, 2014 	
+character=Dr. Cuomo	name=Mark Lotito	episodes=1 episode, 2010 	
+character=Croupier	name=Sam Guncler	episodes=1 episode, 2010 	
+character=Timothy	name=Truck Hudson	episodes=1 episode, 2011 	
+character=Reporter 1	name=Dave Konig	episodes=1 episode, 2011 	
+character=Mr. Darlington	name=Martin LaPlatney	episodes=1 episode, 2011 	
+character=Senior kitchen worker	name=Richardson Desil	episodes=1 episode, 2011 	
+character=Dick Heatherton	name=Christian Davidock	episodes=1 episode, 2011 	
+character=Treasury Agent	name=Rhett Henckel	episodes=1 episode, 2012 	
+character=North Side Resident	name=Bo Dietl	episodes=1 episode, 2013 	
+character=Ruth Lindsay, 1884	name=Grace Van Patten	episodes=1 episode, 2014 	
+character=Mustache Man 	name=David Neal Levin	episodes=1 episode, 2014 	
+character=David	name=Brian Myers Cooper	episodes=1 episode, 2014 	
+character=Judge Graves	name=Christian Kauffmann	episodes=1 episode, 2010 	
+character=Celt 	name=Laurence Lowry	episodes=1 episode, 2010 	
+character=Boy	name=Clayton James Mackay	episodes=1 episode, 2010 	
+character=Bill Neilan	name=Michael Halsey	episodes=1 episode, 2011 	
+character=Pony Wrangler	name=Roy Milton Davis	episodes=1 episode, 2011 	
+character=Irish Bartender Principal	name=Olan Montgomery	episodes=1 episode, 2011 	
+character=World War One Veteran	name=Jeff Kready	episodes=1 episode, 2012 	
+character=Rosetti Thug 	name=Richard Flight	episodes=1 episode, 2012 	
+character=Jeffrey Romsey	name=Sean Dugan	episodes=1 episode, 2013 	
+character=Stoop Loudmouth	name=Aaron Joshua	episodes=1 episode, 2013 	
+character=Cicero Prostitute 2	name=Annika Franklin	episodes=1 episode, 2013 	
+character=Bank Manager	name=Jorge Pupo	episodes=1 episode, 2014 	
+character=School Girl	name=Destiny Monet Cruz	episodes=1 episode, 2014 	
+character=Workman 	name=Raymond McAnally	episodes=1 episode, 2010 	
+character=Florence Harding	name=Jacqueline Knapp	episodes=1 episode, 2010 	
+character=Dealer	name=John Marinacci	episodes=1 episode, 2010 	
+character=Adeline White	name=Skai Jackson	episodes=1 episode, 2011 	
+character=Judge Ketchum	name=Edward James Hyland	episodes=1 episode, 2011 	
+character=John Wright	name=Edward Manley	episodes=1 episode, 2011 	
+character=Star	name=Brittney Lee Hamilton	episodes=1 episode, 2011 	
+character=Tom	name=Patrick Holden O	episodes=1 episode, 2011 	
+character=Tom	name=Neill	episodes=1 episode, 2011 	
+character=Player 	name=Rob Kramer	episodes=1 episode, 2011 	
+character=Legion Hall Bartender	name=T.J. Linnard	episodes=1 episode, 2012 	
+character=Prostitute 1	name=Megan Loya McQueen	episodes=1 episode, 2012 	
+character=Boorish Man	name=Ned Luke	episodes=1 episode, 2013 	
+character=Oliver Crawford	name=Peter Francis James	episodes=1 episode, 2013 	
+character=Bellhop	name=Glenn Quentin	episodes=1 episode, 2013 	
+character=Conors	name=Olli Haaskivi	episodes=1 episode, 2014 	
+character=Assistant	name=Olli Haaskivi	episodes=1 episode, 2014 	
+character=Morris	name=Adam Scarimbolo	episodes=1 episode, 2014 	
+character=Asst. DA Secretary	name=Joanna Bonaro	episodes=1 episode, 2014 	
+character=School Girl	name=Victoria Dennis	episodes=1 episode, 2014 	
+character=Chief Sweeney	name=Richard Pruitt	episodes=1 episode, 2010 	
+character=Ward Boss	name=Curtis Shumaker	episodes=1 episode, 2010 	
+character=Attendant	name=Derek Milhem	episodes=1 episode, 2010 	
+character=Carnival Photographer	name=Mark Stolzenberg	episodes=1 episode, 2012 	
+character=Bishop Norman	name=John Little	episodes=1 episode, 2012 	
+character=Realtor	name=James Michael Reilly	episodes=1 episode, 2013 	
+character=Lead Guard	name=Brian Haley	episodes=1 episode, 2014 	
+character=Phelps	name=Alexander Stine	episodes=1 episode, 2014 	
+character=Rabbi Elli	name=Elli	episodes=1 episode, 2010 	
+character=Radio Announcer	name=Gary Littman	episodes=1 episode, 2010 	
+character=Incrocci	name=Mario Macaluso	episodes=1 episode, 2011 	
+character=Elevator operator	name=Andrew MacLarty	episodes=1 episode, 2011 	
+character=Mr. Webber	name=Tom Morrissey	episodes=1 episode, 2011 	
+character=Third Klansman Raider	name=Tim House	episodes=1 episode, 2011 	
+character=Sheriff	name=Dustin Olson	episodes=1 episode, 2011 	
+character=Mrs. Hollis	name=Lanie MacEwan	episodes=1 episode, 2012 	
+character=Dolph Liebling	name=Stephen Paul Johnson	episodes=1 episode, 2013 	
+character=Mrs. Bridge	name=Renee Flemings	episodes=1 episode, 2013 	
+character=Pauline	name=Andrea Sooch	episodes=1 episode, 2014 	
+character=Joe Bonnano	name=Amadeo Fusca	episodes=1 episode, 2014 	
+character=Sam Red Levine	name=Martin Markaj	episodes=1 episode, 2014 	
+character=Hotel Manager	name=Ben Livingston	episodes=1 episode, 2010 	
+character=Ward Boss	name=Scott Jaeck	episodes=1 episode, 2010 	
+character=Mrs. Boyd	name=Karen Walsh Rullman	episodes=1 episode, 2010 	
+character=Businessman 	name=Jimmy Palumbo	episodes=1 episode, 2011 	
+character=Nurse	name=McKenna Kerrigan	episodes=1 episode, 2011 	
+character=Daniel Fitzgerald	name=Angus Hepburn	episodes=1 episode, 2011 	
+character=Reporter 2	name=Tony Rossi	episodes=1 episode, 2011 	
+character=Uppity Nanny	name=Margo Seibert	episodes=1 episode, 2012 	
+character=Last Rosetti Thug	name=Malcolm Madera	episodes=1 episode, 2012 	
+character=Paper Boy	name=Daniel Marconi	episodes=1 episode, 2012 	
+character=Gilbert Longacre	name=Timothy Sekk	episodes=1 episode, 2012 	
+character=Ira Carroll	name=Rick Kain	episodes=1 episode, 2013 	
+character=Tenement Man	name=Eric Reid Schroeder	episodes=1 episode, 2013 	
+character=Doctor Berns	name=Jonathan Tindle	episodes=1 episode, 2013 	
+character=Clarence Williams	name=Chris Anthony Giles	episodes=1 episode, 2013 	
+character=Luciano Agent	name=Matt Harrington	episodes=1 episode, 2014 	
+character=Army Captain	name=Eliud Garcia Kauffman	episodes=1 episode, 2014 	
+character=Dr. Brubaker	name=Tuck Milligan	episodes=1 episode, 2010 	
+character=Bettyanne Mulhaney	name=Edelen McWilliams	episodes=1 episode, 2010 	
+character=Businessman 	name=Scott Robertson	episodes=1 episode, 2011 	
+character=Del Grogan	name=Gary Troy	episodes=1 episode, 2011 	
+character=Nurse	name=Melissa McMeekin	episodes=1 episode, 2012 	
+character=Mr. Pendergast	name=Steven Hauck	episodes=1 episode, 2012 	
+character=Philadelphia Prohibition Agent 2	name=Michael Solomon	episodes=1 episode, 2012 	
+character=Indiana Counter Man	name=Gene Jones	episodes=1 episode, 2013 	
+character=Harlan Stone	name=Richmond Hoxie	episodes=1 episode, 2013 	
+character=Africanus	name=Irungu Mutu	episodes=1 episode, 2013 	
+character=Prisoner 	name=Elisha Lawson	episodes=1 episode, 2014 	
+character=Crying Wife	name=Loyita Chapel	episodes=1 episode, 2010 	
+character=District Attorney	name=Rob Sheridan	episodes=1 episode, 2010 	
+character=Eunice	name=Trisha McCormick	episodes=1 episode, 2011 	
+character=Fiancee	name=Oona Mekas	episodes=1 episode, 2012 	
+character=Helen Russell - Dr. Mason	name=Oona Mekas	episodes=1 episode, 2012 	
+character=Tourist 	name=Cynthia Silver	episodes=1 episode, 2012 	
+character=Agent Pearl	name=Ed Moran	episodes=1 episode, 2013 	
+character=Rudy	name=Dominik Tiefenthaler	episodes=1 episode, 2013 	
+character=Pauline	name=Maddie Jo Landers	episodes=1 episode, 2013 	
+character=Lady in the Wagon	name=Rachel McPhee	episodes=1 episode, 2014 	
+character=Crying Husband	name=Allen Jared	episodes=1 episode, 2010 	
+character=Voter 	name=Laura Millis McClatchy	episodes=1 episode, 2010 	
+character=Screaming Secretary	name=Naomi McDougall Jones	episodes=1 episode, 2011 	
+character=Aphra Tyson	name=Nneoma Sampson	episodes=1 episode, 2011 	
+character=Mortician	name=Christopher McCann	episodes=1 episode, 2011 	
+character=Mr. Ennis	name=Tom Toner	episodes=1 episode, 2011 	
+character=LeBaron	name=Lucas Wells	episodes=1 episode, 2011 	
+character=Tabor Heights Diner Waitress	name=Grace Rex	episodes=1 episode, 2012 	
+character=Fats	name=Michael Thomas Walker	episodes=1 episode, 2012 	
+character=Housewife	name=Robin Hopkins	episodes=1 episode, 2012 	
+character=Thomas	name=Ben Van Bergen	episodes=1 episode, 2013 	
+character=Mr. Jeffries	name=Burke Moses	episodes=1 episode, 2014 	
+character=Joey	name=Joe Giorgio	episodes=1 episode, 2014 	
+character=Celt 	name=Connell	episodes=1 episode, 2010 	
+character=Celt 	name=Jack O	episodes=1 episode, 2010 	
+character=Thug 	name=Mick O	episodes=1 episode, 2010 	
+character=Thug 	name=Rourke	episodes=1 episode, 2010 	
+character=Joseph Earl Dinler	name=Scott Sowers	episodes=1 episode, 2010 	
+character=Voter 	name=Galway McCullough	episodes=1 episode, 2010 	
+character=Waiter	name=Dan Truman	episodes=1 episode, 2010 	
+character=Showgirl 	name=Annie Paul	episodes=1 episode, 2010 	
+character=Ukulele player	name=Spencer Moses	episodes=1 episode, 2011 	
+character=Priest	name=Edwin McDonough	episodes=1 episode, 2011 	
+character=Hotel Maid	name=Connor	episodes=1 episode, 2012 	
+character=Hotel Maid	name=Susan Louise O	episodes=1 episode, 2012 	
+character=Boardwalk Barker	name=Matthew F. O	episodes=1 episode, 2012 	
+character=Boardwalk Barker	name=Connor	episodes=1 episode, 2012 	
+character=Deacon Markham	name=Horace V. Rogers	episodes=1 episode, 2013 	
+character=Gillian	name=Steve Luker	episodes=1 episode, 2013 	
+character=Customer	name=Steve Luker	episodes=1 episode, 2013 	
+character=Agent 	name=Vincent Ingrisano	episodes=1 episode, 2014 	
+character=Hearse	name=Vic Noto	episodes=1 episode, 2010 	
+character=Mike Green	name=Mikey Post	episodes=1 episode, 2010 	
+character=Dr. Salt	name=Joel Van Liew	episodes=1 episode, 2010 	
+character=Torrio	name=Rachel Rusch	episodes=1 episode, 2010 	
+character=Beach guard	name=Cliff Moylan	episodes=1 episode, 2011 	
+character=Sheriff Deputy 	name=Jack Moran Jr.	episodes=1 episode, 2011 	
+character=Halloran	name=Ian Scott McGregor	episodes=1 episode, 2011 	
+character=Attorney	name=Ian Scott McGregor	episodes=1 episode, 2011 	
+character=Man	name=Jonathon Ruckman	episodes=1 episode, 2012 	
+character=Mickey	name=Jonathon Ruckman	episodes=1 episode, 2012 	
+character=Senator 3	name=Ted Pejovich	episodes=1 episode, 2012 	
+character=Federal Guard	name=Greg Peace	episodes=1 episode, 2012 	
+character=Thomas Gagliano	name=Salvatore Inzerillo	episodes=1 episode, 2014 	
+character=Kevin Kiley	name=Mark Povinelli	episodes=1 episode, 2010 	
+character=Wendell	name=David Schallipp	episodes=1 episode, 2010 	
+character=Sheriff Deputy 	name=Jeff Norris	episodes=1 episode, 2011 	
+character=Student 1	name=Jen Ponton	episodes=1 episode, 2012 	
+character=Mr. Johansen - Motorist	name=Robert C. Kirk	episodes=1 episode, 2012 	
+character=Vito	name=Joseph La Rocca	episodes=1 episode, 2013 	
+character=Boardwalk Barker	name=Rachel Kenney	episodes=1 episode, 2014 	
+character=Funeral Director	name=Steve Witting	episodes=1 episode, 2010 	
+character=Nurse	name=Kendal Ridgeway	episodes=1 episode, 2010 	
+character=Wendell	name=Matthew Schallipp	episodes=1 episode, 2010 	
+character=Conductor	name=Douglas Ryan	episodes=1 episode, 2010 	
+character=Reporter 	name=Christopher James Quinn	episodes=1 episode, 2010 	
+character=Irish farm owner	name=Daniel O	episodes=1 episode, 2011 	
+character=Irish farm owner	name=Shea	episodes=1 episode, 2011 	
+character=Housekeeper	name=Connie Watkins	episodes=1 episode, 2011 	
+character=Dancer 	name=Leslie Flesner	episodes=1 episode, 2011 	
+character=Mr. Posner	name=Matthew Lawler	episodes=1 episode, 2012 	
+character=Father Schuck	name=John Leonard Thompson	episodes=1 episode, 2012 	
+character=Davidoff	name=Steve Routman	episodes=1 episode, 2012 	
+character=Impatient Man	name=Richard James Porter	episodes=1 episode, 2012 	
+character=Prisoner	name=Donald Paul	episodes=1 episode, 2014 	
+character=Agent 	name=Jack Koenig	episodes=1 episode, 2014 	
+character=German Child	name=Elizabeth Rose Sharp	episodes=1 episode, 2010 	
+character=Funeral Attendee	name=Jeannette Gould	episodes=1 episode, 2010 	
+character=Poker Player	name=Don Puglisi	episodes=1 episode, 2011 	
+character=Rosetti Soldier 	name=Greg Pronko	episodes=1 episode, 2012 	
+character=Vern - Choreographer	name=Johnny Pruitt	episodes=1 episode, 2012 	
+character=Bert	name=Tommy Nohilly	episodes=1 episode, 2013 	
+character=Queen Marinda	name=Bryonna Kristoferson	episodes=1 episode, 2014 	
+character=Widow	name=Prudence Wright Holmes	episodes=1 episode, 2010 	
+character=Angelo	name=Carmine Raspaolo	episodes=1 episode, 2010 	
+character=Librarian	name=Susan Barnes Walker	episodes=1 episode, 2012 	
+character=Police Officer 	name=Michael X. Martin	episodes=1 episode, 2013 	
+character=Carter - Onyx Club Bartender	name=Tommar Wilson	episodes=1 episode, 2013 	
+character=Archie	name=Peter Patrikios	episodes=1 episode, 2013 	
+character=School Girl	name=Katherine LaFountain	episodes=1 episode, 2014 	
+character=Ukulele Girl	name=Lauren Sharpe	episodes=1 episode, 2010 	
+character=Still Worker	name=Jeffrey Ware	episodes=1 episode, 2010 	
+character=Mrs. Fishbaum	name=Michele Tauber	episodes=1 episode, 2010 	
+character=Dancer	name=Jeffrey C. Wolf	episodes=1 episode, 2010 	
+character=Babette	name=Jeffrey C. Wolf	episodes=1 episode, 2010 	
+character=Boxer 	name=Cezary Skarzynski	episodes=1 episode, 2010 	
+character=Harold C. Madison	name=Omar Scroggins	episodes=1 episode, 2011 	
+character=Star	name=Laine Rettmer	episodes=1 episode, 2011 	
+character=Dominatrix	name=Megan Sikora	episodes=1 episode, 2011 	
+character=Fire Breather	name=Tighe Swanson	episodes=1 episode, 2012 	
+character=Agent Beagan	name=Matt McDonald	episodes=1 episode, 2013 	
+character=Boss Guard	name=John Talalas	episodes=1 episode, 2014 	
+character=Dentist	name=Kenneth Tigar	episodes=1 episode, 2010 	
+character=Conductor	name=Frank Ridley	episodes=1 episode, 2010 	
+character=Klan Recruiter	name=Michael Warner	episodes=1 episode, 2010 	
+character=Bridget Walsh	name=Anna Stone	episodes=1 episode, 2010 	
+character=Dancer	name=Simone Assboeck	episodes=1 episode, 2010 	
+character=Babette	name=Simone Assboeck	episodes=1 episode, 2010 	
+character=Butcher Shop Customer	name=Ivan Sandomire	episodes=1 episode, 2011 	
+character=Employee	name=Clayton Dean Smith	episodes=1 episode, 2012 	
+character=Boy Scout Troop Leader	name=Jeff Talbott	episodes=1 episode, 2012 	
+character=Franklin Werner	name=James Riordan	episodes=1 episode, 2013 	
+character=Professor	name=Robert Verlaque	episodes=1 episode, 2013 	
+character=Player 	name=Joseph Tudisco	episodes=1 episode, 2011 	
+character=Louis	name=Isaiah Stokes	episodes=1 episode, 2011 	
+character=Sterling	name=Eric Stretch	episodes=1 episode, 2012 	
+character=Dancer	name=John Alix	episodes=1 episode, 2012 	
+character=Tourist 	name=Daniel Wolfe	episodes=1 episode, 2014 	
+character=School Boy	name=Robert Langdon Lloyd	episodes=1 episode, 2014 	
+character=Bribing Lobbyist 1	name=Alex Webb	episodes=1 episode, 2012 	
+character=Dancer	name=Tommaso Antico	episodes=1 episode, 2012 	
+character=Son	name=Haley Zutty	episodes=1 episode, 2010 	
+character=Guzik	name=Haley Zutty	episodes=1 episode, 2010 	
+character=Arthur Lasch	name=David L. Townsend	episodes=1 episode, 2011 	
+character=Otis	name=Lee Summers	episodes=1 episode, 2011 	
+character=Herb Crocker	name=Dan Sharkey	episodes=1 episode, 2011 	
+character=Carny	name=John Mondin	episodes=1 episode, 2012 	
+character=Dancer	name=Christopher Cangero	episodes=1 episode, 2012 	
+character=Secretary	name=Mary Van Arsdel	episodes=1 episode, 2013 	
+character=Werner	name=Mary Van Arsdel	episodes=1 episode, 2013 	
+character=Guard	name=Jonah Young	episodes=1 episode, 2014 	
+character=School Girl	name=Katence A. Lucas	episodes=1 episode, 2014 	
+character=Traymore Hotel Concierge	name=George R. Sheffey	episodes=1 episode, 2010 	
+character=Temperance Singer	name=Margot Jewers	episodes=1 episode, 2010 	
+character=Patrick	name=Justin Swain	episodes=1 episode, 2011 	
+character=Widow	name=Linda Thompson Williams	episodes=1 episode, 2011 	
+character=Judge	name=Ian Stuart	episodes=1 episode, 2011 	
+character=Dancer	name=Danielle Froelich	episodes=1 episode, 2012 	
+character=Joe Klenah	name=Craig Waletzko	episodes=1 episode, 2013 	
+character=Jumping	name=Craig Waletzko	episodes=1 episode, 2013 	
+character=School Girl	name=Regan Lutz	episodes=1 episode, 2014 	
+character=Jazz Dancer 607	name=Gerry McIntyre	episodes=1 episode, 2010 	
+character=Temperance Singer	name=Fran Lieu	episodes=1 episode, 2010 	
+character=Referee	name=Randy Neumann	episodes=1 episode, 2010 	
+character=Henny Walker	name=DeWanda Wise	episodes=1 episode, 2011 	
+character=Temperance Singer	name=Nicole Nelson	episodes=1 episode, 2010 	
+character=Babette	name=Alison Solomon	episodes=1 episode, 2010 	
+character=Dancer	name=Alison Solomon	episodes=1 episode, 2010 	
+character=Radio commentator	name=Terence Winter	episodes=1 episode, 2011 	
+character=Babette	name=Drew Humphrey	episodes=1 episode, 2011 	
+character=Dancer	name=Drew Humphrey	episodes=1 episode, 2011 	
+character=Dancer	name=Colby Q. Lindeman	episodes=1 episode, 2012 	
+character=Cicero Prostitute 2	name=Elizabeth Wright	episodes=1 episode, 2013 	
+character=Temperance Singer	name=Erin Mae Miller	episodes=1 episode, 2010 	
+character=Dancer	name=Stephanie Mas	episodes=1 episode, 2012 	
+character=Bellboy	name=David W. Thompson	episodes=1 episode, 2014 	
+character=Temperance Singer	name=Lynne Valley	episodes=1 episode, 2010 	
+character=Dancer	name=Meredith Riley Stewart	episodes=1 episode, 2010 	
+character=Babette	name=Meredith Riley Stewart	episodes=1 episode, 2010 	
+character=Dancer	name=Lindsay Roebuck	episodes=1 episode, 2012 	
+character=Agent	name=Scott Moreau	episodes=1 episode, 2014 	
+character=Dancer	name=Stephen Hanna	episodes=1 episode, 2014 	
+character=Lady	name=Isabelle Arely Palladino	episodes=1 episode, 2014 	
+character=Dancer	name=Michaela Sprague	episodes=1 episode, 2012 	
+character=Gossipy Prostitute	name=Kate Cullen Roberts	episodes=1 episode, 2012 	
+character=Ma Capone	name=Kevin Pariseau	episodes=1 episode, 2014 	
+character=Hospital Chairman	name=James Rutledge	episodes=1 episode, 2012 	
+character=School Girl	name=Madyson Pellegrino	episodes=1 episode, 2014 	
+character=Mrs. Pendergast	name=Suzanne Savoy	episodes=1 episode, 2012 	
+character=Sonny Capone	name=Salvatore Rossi	episodes=1 episode, 2014 	
+character=Middle-Aged Agent	name=David Rossmer	episodes=1 episode, 2014 	
+character=Babette	name=Amanda Suchy	episodes=1 episode, 2010 	
+character=Dancer 	name=Amanda Suchy	episodes=1 episode, 2010 	
+character=Emma Horvitz	name=Yelena Shmulenson	episodes=1 episode, 2012 	
+character=Onyx Club Patron	name=Jeffrey Scott Stevens	episodes=1 episode, 2013 	
+character=Agent Men 	name=Alicia Ruggiero	episodes=1 episode, 2014 	
+character=Board Dignitary 1	name=Nick Stannard	episodes=1 episode, 2012 	
+character=Middle-Aged Man	name=Thomas Schall	episodes=1 episode, 2014 	
+character=Babette	name=Adam Zotovich	episodes=1 episode, 2010 	
+character=Dancer 	name=Adam Zotovich	episodes=1 episode, 2010 	
+character=Albert McCaully	name=Jeremiah Wiggins	episodes=1 episode, 2012 	
+character=Onyx Club Dancer	name=Jennifer Locke	episodes=1 episode, 2013 	
+character=Photographer 	name=Brian Silliman	episodes=1 episode, 2014 	
+character=Nate - Faraday Irons Salesman	name=Lee Zarrett	episodes=1 episode, 2012 	
+character=Party Dancer 	name=Kiva Dawson	episodes=1 episode, 2012 	
+character=Onyx Club Dancer	name=Vivian Nixon	episodes=1 episode, 2013 	
+character=Party Dancer 	name=Carolyn Doherty	episodes=1 episode, 2012 	
+character=Party Dancer 	name=Manuel Palazzo	episodes=1 episode, 2012 	
+character=Thug 	name=Kevin Nagle	episodes=1 episode, 2010 	
+character=Fire Juggler	name=Robert Lee Harvey	episodes=1 episode, 2010 	
+character=D.W. Fletcher	name=Henry Stram	episodes=1 episode, 2010 	
+character=Bill	name=George Aloi	episodes=1 episode, 2010 	
+character=Coat Check Girl	name=Whitney Bashor	episodes=1 episode, 2010 	
+character=Singing Whore	name=Maranda Barskey	episodes=1 episode, 2010 	
+character=Duyrea Frost	name=Patrick Pitu	episodes=1 episode, 2010 	
+character=Screaming Woman	name=Angela Dirksen	episodes=1 episode, 2010 	
+character=Barker	name=Don Stitt	episodes=1 episode, 2010 	
+character=Zulu Warrior	name=Spelman M. Beaubrun	episodes=1 episode, 2010 	
+character=Singing Whore	name=Maggie Lakis	episodes=1 episode, 2010 	
+character=Mamie Smith	name=A	episodes=1 episode, 2010 	
+character=Mamie Smith	name=Lisa Miles	episodes=1 episode, 2010 	
+character=Deacons Assistant	name=Max Maxy	episodes=1 episode, 2010 	
+character=Nurse	name=Katie Klaus	episodes=1 episode, 2010 	
+character=Deuces girl	name=Carmella Stolyar	episodes=1 episode, 2010 	
+character=Jazz Dancer 609	name=Max Kumangai	episodes=1 episode, 2010 	
+character=Irish Immigrant	name=Lauren A. Kennedy	episodes=1 episode, 2011 	
+character=Customer	name=Stef Nico	episodes=1 episode, 2011 	
+character=Hooker	name=Estelle Bajou	episodes=1 episode, 2011 	
+character=Court Reporter	name=Mark Axelowitz	episodes=1 episode, 2011 	
+character=Odette	name=Ella Jane New	episodes=1 episode, 2011 	
+character=Princeton Student	name=Jonathan Weisbrod	episodes=1 episode, 2011 	
+character=Lifeguard	name=Alessandro Nicolaci	episodes=1 episode, 2011 	
+character=Polio Child	name=Jesse Stone Spadaccini	episodes=1 episode, 2011 	
+character=Floozy	name=Robyn Young	episodes=1 episode, 2011 	
+character=Civil War Veteran	name=David C. Roehm Sr.	episodes=1 episode, 2011 	
+character=High Roller	name=Jim Dykes	episodes=1 episode, 2011 	
+character=Protester	name=Aaron J. Savage	episodes=1 episode, 2011 	
+character=WWI Recruitment Officer	name=Steve Triebes	episodes=1 episode, 2011 	
+character=Western Union Messenger	name=Jim Dolan	episodes=1 episode, 2011 	
+character=Mother with son	name=Vivian Kalinov	episodes=1 episode, 2012 	
+character=Son with Mother	name=Emery Kalinov	episodes=1 episode, 2012 	
+character=Rosetti	name=Jacob Wingfield	episodes=1 episode, 2012 	
+character=Voice	name=Lori Hammel	episodes=1 episode, 2013 	
+character=Federal Agent	name=Jared Johnston	episodes=1 episode, 2013 	
+character=Miss Finch	name=Campbell Dunsmore	episodes=1 episode, 2013 	
+character=Philadelphia Police Detective	name=Scott Lehman	episodes=1 episode, 2013 	
+character=Abigail Van Alden	name=Eva Grace Kellner	episodes=1 episode, 2014 	
+character=Mr. Glass	name=Hagan	episodes=1 episode, 2014 	
+character=Mr. Glass	name=Shaun O	episodes=1 episode, 2014 	
+character=Brokers Client	name=Michael Wren Gucciardo	episodes=1 episode, 2014 	
+character=Kitty	name=Georgia Ximenes Lifsher	episodes=1 episode, 2014 	
+character=Irene	name=Ginger Kearns	episodes=1 episode, 2014 	
+character=Trial	name=Jon Necaj	episodes=1 episode, 2014 	
+character=Boy at Al Capone	name=Jon Necaj	episodes=1 episode, 2014 	
+character=Actress	name=Kari Nicolle	episodes=1 episode, 2014 	
+character=Busboy Waiter	name=Andrew James Bleidner	episodes=1 episode, 2014 	
+character=Sardi	name=Michael Simon Hall	episodes=1 episode, 2014 	
+character=Bartender	name=Michael Simon Hall	episodes=1 episode, 2014 	
+character=Vendor	name=Rose Ftz	episodes=1 episode, 2014 	
+character=David Sarnoff	name=Joseph K. Bevilacqua	episodes=1 episode, 2014 	
+character=Rumba Dancer	name=Darilyn Castillo	episodes=1 episode, 2014 	
+character=Irish Boy	name=Jared Brito	episodes=1 episode, 2014 	
+character=Arm Guard	name=Mauro Bossi	episodes=1 episode, 2014 	
+character=Capone	name=Mauro Bossi	episodes=1 episode, 2014 	
+character=Chicago Reporter	name=Alexis Boursier	episodes=1 episode, 2014 	
+character=Consort	name=Julia Losner	episodes=1 episode, 2014 	
+character=Neptune	name=Julia Losner	episodes=1 episode, 2014 	
+character=Nucky	name=Mike Catapano	episodes=1 episode, 2014 	
+character=Bodyguard	name=Mike Catapano	episodes=1 episode, 2014 	
+character=Upscale Citizen	name=David Itchkawitz	episodes=13 episodes, 2012 	
+character=Frankie	name=Frank L. Messina	episodes=10 episodes, 2011-2013 	
+character=Newsboy	name=Chris Angerman	episodes=7 episodes, 2010-2012 	
+character=Townsman	name=Tom Stratford	episodes=7 episodes, 2011-2012 	
+character=Postal Worker	name=Todd Fredericks	episodes=5 episodes, 2010 	
+character=Nucky	name=Gerard Sullivan	episodes=5 episodes, 2013 	
+character=Bodyguard	name=Gerard Sullivan	episodes=5 episodes, 2013 	
+character=Conventioneer	name=Pierre O	episodes=4 episodes, 2010 	
+character=Conventioneer	name=Farrell	episodes=4 episodes, 2010 	
+character=Capone Thug	name=Noah Forrest	episodes=4 episodes, 2012-2013 	
+character=Capone Thug 	name=Giuseppe Ardizzone	episodes=4 episodes, 2013 	
+character=Club Patron	name=Brian G. Andersson	episodes=4 episodes, 2013 	
+character=Conventioneer	name=Joe Rusnak	episodes=3 episodes, 2010 	
+character=Gillian	name=Jena Mroz	episodes=3 episodes, 2012 	
+character=Prostiute	name=Jena Mroz	episodes=3 episodes, 2012 	
+character=Middle Class Woman	name=Anjuli Sanneman	episodes=3 episodes, 2012 	
+character=Deputy	name=Liam Ferguson	episodes=3 episodes, 2013 	
+character=Sheriff	name=Liam Ferguson	episodes=3 episodes, 2013 	
+character=Prostitute	name=Heather Gilbert	episodes=3 episodes, 2013 	
+character=Narcisse Thug	name=Dion Sapp	episodes=3 episodes, 2013 	
+character=Federal Agent	name=Brian Kealty	episodes=3 episodes, 2013 	
+character=HoBo 	name=Martin Abrahams	episodes=2 episodes, 2010-2014 	
+character=Babbette	name=Kimberly Huston	episodes=2 episodes, 2010 	
+character=Guest	name=Kimberly Huston	episodes=2 episodes, 2010 	
+character=Young Girl	name=Sarah Sugrue	episodes=2 episodes, 2010 	
+character=Doorman	name=Keith Leonard	episodes=2 episodes, 2010 	
+character=Drunken Irishman	name=Rich Rothbell	episodes=2 episodes, 2010 	
+character=FBI Applicant	name=Eddie Noone	episodes=2 episodes, 2010 	
+character=Upper-Class Babette	name=Ann Marie Seall	episodes=2 episodes, 2010 	
+character=Irish Girl	name=Chloe Elaine Scharf	episodes=2 episodes, 2011-2012 	
+character=Irish Girl	name=Connell	episodes=2 episodes, 2011 	
+character=Irish Girl	name=Booch O	episodes=2 episodes, 2011 	
+character=Deuces Girl	name=McKenzie Shea	episodes=2 episodes, 2011 	
+character=Working Class Thug	name=Ian Bonner	episodes=2 episodes, 2011 	
+character=Irish Girl	name=Meagan Weiden	episodes=2 episodes, 2011 	
+character=Hobo	name=Gregg Micheals	episodes=2 episodes, 2012-2014 	
+character=Middle Class Girl	name=Kylie Cast	episodes=2 episodes, 2012 	
+character=Bodyguard	name=John Buscemi	episodes=2 episodes, 2012 	
+character=Middle Class Girl	name=Carina Castagna	episodes=2 episodes, 2012 	
+character=Artemis Club Girl	name=Miriam Pultro	episodes=2 episodes, 2012 	
+character=Working Class Son	name=Logan Kulick	episodes=2 episodes, 2012 	
+character=FBI Agent	name=Joe Fionda	episodes=2 episodes, 2013 	
+character=Cicero Prostitute	name=Emma Cooper	episodes=2 episodes, 2013 	
+character=Gangster	name=Phil Cappadora	episodes=2 episodes, 2014 	
+character=Nucky	name=Molly Parker	episodes=1 episode, 2010 	
+character=Wife in photo	name=Molly Parker	episodes=1 episode, 2010 	
+character=Boxing Dwarf	name=Martin Klebba	episodes=1 episode, 2010 	
+character=Abe Attel	name=David Vadim	episodes=1 episode, 2010 	
+character=Cigarette Girl	name=Laura Dooling	episodes=1 episode, 2010 	
+character=Tart	name=Jessica DiGiovanni	episodes=1 episode, 2010 	
+character=Speakeasy patron	name=Rosemary Howard	episodes=1 episode, 2010 	
+character=Belle	name=Nicole Roderick	episodes=1 episode, 2010 	
+character=Runaway Teen	name=Monty Geer	episodes=1 episode, 2010 	
+character=Guest	name=Zoë D	episodes=1 episode, 2010 	
+character=Guest	name=Amato	episodes=1 episode, 2010 	
+character=Babette	name=Amato	episodes=1 episode, 2010 	
+character=Babette	name=Zoë D	episodes=1 episode, 2010 	
+character=Hotel Patron	name=Jonathan Dwyer	episodes=1 episode, 2010 	
+character=Delivery Driver	name=Zac Henry	episodes=1 episode, 2010 	
+character=Fighting Moonshiner	name=Blaise Corrigan	episodes=1 episode, 2010 	
+character=Baptism Boy	name=Ephraim Benton	episodes=1 episode, 2010 	
+character=Waiter	name=Michael Coley	episodes=1 episode, 2010 	
+character=Dancer Jessie	name=Heather Ashley Chase	episodes=1 episode, 2010 	
+character=Fisherman	name=Harry L. Seddon	episodes=1 episode, 2010 	
+character=Worker Boy	name=Grant Lancaster	episodes=1 episode, 2010 	
+character=Photo Studio Owner	name=Vladimir Troitsky	episodes=1 episode, 2010 	
+character=Reporter	name=Anthony Aibel	episodes=1 episode, 2010 	
+character=Bellhop	name=Nicky Teti	episodes=1 episode, 2010 	
+character=Woman in Palmistry	name=Chloe Lenihan	episodes=1 episode, 2010 	
+character=Babette	name=Milton A. Marsh III	episodes=1 episode, 2010 	
+character=Busboy	name=Milton A. Marsh III	episodes=1 episode, 2010 	
+character=FBI Student	name=Matthew Ray	episodes=1 episode, 2010 	
+character=Waiter	name=William T. Donovan	episodes=1 episode, 2010 	
+character=Flower Girl	name=Angela Anvil	episodes=1 episode, 2010 	
+character=Faro Dealer	name=Roy William Gardner	episodes=1 episode, 2010 	
+character=Mob Pallbearer	name=Vincent Riviezzo	episodes=1 episode, 2010 	
+character=Suffragette	name=Sandra Blaney	episodes=1 episode, 2010 	
+character=Four Deuces Prostitute	name=Lynn Spencer	episodes=1 episode, 2010 	
+character=Dancer Jessica	name=Heather Lynne Chasse	episodes=1 episode, 2010 	
+character=Tart	name=Kate Kuen	episodes=1 episode, 2010 	
+character=Suffragette	name=Deanna Gibson	episodes=1 episode, 2010 	
+character=Dead Girl on Slab	name=Malin Bergman	episodes=1 episode, 2010 	
+character=The Judge	name=James P. Anderson	episodes=1 episode, 2010 	
+character=Still Worker	name=Dolores Winn	episodes=1 episode, 2010 	
+character=Theater Attendee	name=Anne-Sophie Marie	episodes=1 episode, 2010 	
+character=Brothel Customer	name=Frank Galdorise	episodes=1 episode, 2010 	
+character=Bordello Girl	name=Ashley Klein	episodes=1 episode, 2010 	
+character=Councilman	name=Marc Bicking	episodes=1 episode, 2010 	
+character=Atlantic City Dandy	name=Mateo Moreno	episodes=1 episode, 2010 	
+character=Bandleader	name=Frosty Lawson	episodes=1 episode, 2010 	
+character=Celt	name=Michael Broussard	episodes=1 episode, 2010 	
+character=Aristocrat at Bar	name=William Glenn	episodes=1 episode, 2010 	
+character=Prohibition Lady	name=Sasha Kaye	episodes=1 episode, 2010 	
+character=FBI Cadet	name=Sam Platizky	episodes=1 episode, 2010 	
+character=Nickelodeon Pianist	name=Peter Mintun	episodes=1 episode, 2010 	
+character=Gangster	name=Christopher G Gates	episodes=1 episode, 2010 	
+character=James P. Johnson	name=Harold O	episodes=1 episode, 2010 	
+character=James P. Johnson	name=Neal	episodes=1 episode, 2010 	
+character=Reporter	name=Guy Veryzer	episodes=1 episode, 2010 	
+character=Torio Thug	name=Graig Guggenheim	episodes=1 episode, 2010 	
+character=Tart	name=Georgina Ransley	episodes=1 episode, 2010 	
+character=Tart	name=Casey Cipriani	episodes=1 episode, 2010 	
+character=Party Guest	name=Bill Geary	episodes=1 episode, 2010 	
+character=Showgirl	name=Kaydence Frank	episodes=1 episode, 2010 	
+character=FBI Recruit	name=Joe Moran	episodes=1 episode, 2010 	
+character=Bartender at Babettes	name=Jason Roeser	episodes=1 episode, 2010 	
+character=Valet	name=Alex Martinez Wallace	episodes=1 episode, 2010 	
+character=Musician	name=Dan Levinson	episodes=1 episode, 2010 	
+character=Brothel Patron	name=Mark E. Phillips	episodes=1 episode, 2010 	
+character=Babette	name=Orlando McDonald	episodes=1 episode, 2010 	
+character=Busboy	name=Orlando McDonald	episodes=1 episode, 2010 	
+character=Busboy	name=Woodrow Morton	episodes=1 episode, 2010 	
+character=Patron at Babette	name=Natalie M. Stone	episodes=1 episode, 2011 	
+character=Church Member	name=Dartel McRae	episodes=1 episode, 2011 	
+character=Prostitute 	name=J.J. Pyle	episodes=1 episode, 2011 	
+character=Patty Ryan	name=Sophie Vanier	episodes=1 episode, 2011 	
+character=Girl	name=Sophie Vanier	episodes=1 episode, 2011 	
+character=Municipal Worker	name=Ronald Scott Maestri	episodes=1 episode, 2011 	
+character=Hotel Protester	name=Johnathan Hallgrey	episodes=1 episode, 2011 	
+character=Church Member	name=Malik J Ali	episodes=1 episode, 2011 	
+character=Church Boy	name=Julian Murdoch	episodes=1 episode, 2011 	
+character=WWI Veteran	name=Kevin M. Costello	episodes=1 episode, 2011 	
+character=Irish Girl	name=Danielle DeSantis	episodes=1 episode, 2011 	
+character=Dr. Buchwald	name=Kenneth Boys	episodes=1 episode, 2011 	
+character=Angry Church Member	name=Gray Ellis	episodes=1 episode, 2011 	
+character=Restaurant Patron	name=Nadya Migalko	episodes=1 episode, 2011 	
+character=Van Alden	name=Lee Cunningham	episodes=1 episode, 2011 	
+character=Neighbor	name=Lee Cunningham	episodes=1 episode, 2011 	
+character=Newsie	name=Don Arangio	episodes=1 episode, 2011 	
+character=Senator	name=Derek Michaels	episodes=1 episode, 2011 	
+character=Beach goer	name=Joseph Leinwand	episodes=1 episode, 2011 	
+character=Dancer	name=Jennifer Lynn Tune	episodes=1 episode, 2011 	
+character=Babette	name=Jennifer Lynn Tune	episodes=1 episode, 2011 	
+character=Irish Boy	name=Jeffrey D. Petrauskas	episodes=1 episode, 2011 	
+character=Belfast Man	name=Ethan Grant	episodes=1 episode, 2011 	
+character=Boxing Fan	name=Matt Benincasa	episodes=1 episode, 2011 	
+character=Bootlegger	name=Kenny Shapiro	episodes=1 episode, 2012 	
+character=Bathing Beauty	name=Tanya Wheelock	episodes=1 episode, 2012 	
+character=Body Guard	name=Faron Salisbury	episodes=1 episode, 2012 	
+character=Nucky	name=Faron Salisbury	episodes=1 episode, 2012 	
+character=Middle Class Woman	name=Patricia Hodges	episodes=1 episode, 2012 	
+character=Woman at Town Hall	name=Kathleen Wilce	episodes=1 episode, 2012 	
+character=Switchblade Wielder	name=Charles Gray	episodes=1 episode, 2012 	
+character=World War I Veteran	name=Josh Pesin	episodes=1 episode, 2012 	
+character=Musician	name=Kelsey Saunders	episodes=1 episode, 2012 	
+character=Rosetti Thug 	name=John Mitchell	episodes=1 episode, 2012 	
+character=Political Lobbyist	name=Gary Craig	episodes=1 episode, 2012 	
+character=Working Class Girl	name=Natasha Tax	episodes=1 episode, 2012 	
+character=Sheepherder	name=Art Brown	episodes=1 episode, 2012 	
+character=Lobster Girl	name=Kristen Schiano	episodes=1 episode, 2012 	
+character=Bodyguard	name=Richie Noodles	episodes=1 episode, 2012 	
+character=Driver	name=Billy Joe Kiessling	episodes=1 episode, 2012 	
+character=Office Party Guest	name=Steve Konopelski	episodes=1 episode, 2012 	
+character=Drunk Sailor	name=Alan Davis	episodes=1 episode, 2012 	
+character=Sheriff Keck	name=Nick Nappy	episodes=1 episode, 2012 	
+character=Man in White Suit	name=Mark C. Montague	episodes=1 episode, 2012 	
+character=Thug	name=James Taffurelli	episodes=1 episode, 2012 	
+character=Capone	name=James Taffurelli	episodes=1 episode, 2012 	
+character=Boy Scout	name=Atdhe Trepca	episodes=1 episode, 2012 	
+character=Bodyguard	name=Sean LeeRoy	episodes=1 episode, 2012 	
+character=Nucky	name=Sean LeeRoy	episodes=1 episode, 2012 	
+character=Chester	name=Zeke Elizondo	episodes=1 episode, 2012 	
+character=Bodyguard	name=Marshall Sharer	episodes=1 episode, 2012 	
+character=Boardwalk Worker	name=John Cerny	episodes=1 episode, 2012 	
+character=Dancer	name=Kellye Janel	episodes=1 episode, 2012 	
+character=Chester	name=Tomas Elizondo	episodes=1 episode, 2012 	
+character=Crutches	name=Theodore Feldman	episodes=1 episode, 2012 	
+character=Beach Gentleman	name=Glenn Alba	episodes=1 episode, 2012 	
+character=Cop	name=Ryan Redebaugh	episodes=1 episode, 2012 	
+character=Shearer	name=Finian Montague	episodes=1 episode, 2012 	
+character=Son	name=Finian Montague	episodes=1 episode, 2012 	
+character=Boy Scout	name=Alexander Ryan	episodes=1 episode, 2012 	
+character=Mechanic	name=David Antoine	episodes=1 episode, 2012 	
+character=Beachgoer	name=Tom DeFulvio	episodes=1 episode, 2012 	
+character=Tampa Hotel Guest	name=Doris McCarthy	episodes=1 episode, 2013 	
+character=Onyx Club Dancer	name=Romina Schwedler	episodes=1 episode, 2013 	
+character=High Class Girl	name=Kate Owens	episodes=1 episode, 2013 	
+character=Onyx Club Smoker	name=Rachael Ma	episodes=1 episode, 2013 	
+character=Narcisse Thug 	name=Darik Bernard	episodes=1 episode, 2013 	
+character=Onyx Club Dancer	name=Lamar Richardson	episodes=1 episode, 2013 	
+character=Girl in Love	name=Maria Shamkalian	episodes=1 episode, 2013 	
+character=Beachgoer	name=Miranda Plant	episodes=1 episode, 2013 	
+character=Onyx Club Patron	name=Chris Brennan	episodes=1 episode, 2013 	
+character=Temple Student	name=Alexander Jameson	episodes=1 episode, 2013 	
+character=Fitzy	name=Bob Roseman	episodes=1 episode, 2013 	
+character=Onyx Club Member	name=Casey Davis	episodes=1 episode, 2013 	
+character=Boardwalk Boy	name=Johnny DiGiorgio	episodes=1 episode, 2013 	
+character=Onyx Club Dancer	name=Kerstin Julia Dietrich	episodes=1 episode, 2013 	
+character=Man in Black	name=Rick Bolander	episodes=1 episode, 2013 	
+character=Hotel Guest	name=Chris Koch	episodes=1 episode, 2013 	
+character=Court Officer	name=Peter Conboy	episodes=1 episode, 2013 	
+character=Porter	name=Leroy Phillips Jr.	episodes=1 episode, 2013 	
+character=Newspaper Reporter	name=Matthew Gooley	episodes=1 episode, 2013 	
+character=UNIA Member	name=Allen Holloway	episodes=1 episode, 2013 	
+character=Capone Prostitute	name=Ashlynn Alexander	episodes=1 episode, 2013 	
+character=Mayor Bader	name=John Francis Hebert	episodes=1 episode, 2013 	
+character=Aide	name=John Francis Hebert	episodes=1 episode, 2013 	
+character=Court Gallery	name=Gary Schnakenberg	episodes=1 episode, 2013 	
+character=Ladder Boy	name=Austin Kennedy	episodes=1 episode, 2013 	
+character=Onyx Club Musician	name=Alonzo Wright	episodes=1 episode, 2013 	
+character=Temple Student	name=Evie Paller	episodes=1 episode, 2013 	
+character=Onyx Club Staff	name=Andrae Paul Cezair	episodes=1 episode, 2013 	
+character=Daughter	name=Mia Ciccarelle	episodes=1 episode, 2013 	
+character=School Student	name=Jake Cerny	episodes=1 episode, 2013 	
+character=Tennis Player	name=Sam Klein	episodes=1 episode, 2013 	
+character=Mayor	name=Bruce Conner	episodes=1 episode, 2013 	
+character=Assistant Nick	name=Bruce Conner	episodes=1 episode, 2013 	
+character=Cracker	name=Cary Gottlieb	episodes=1 episode, 2013 	
+character=Temple Student	name=Nora Paller	episodes=1 episode, 2013 	
+character=Hobo Cook	name=Tom Waters	episodes=1 episode, 2014 	
+character=Chain Gang Guard	name=Brian Donahue	episodes=1 episode, 2014 	
+character=Luciano Thug 	name=Patrick M. Walsh	episodes=1 episode, 2014 	
+character=Slick Gangster	name=Marko Caka	episodes=1 episode, 2014 	
+character=Cuban Gentleman	name=Alejandro Santoni	episodes=1 episode, 2014 	
+character=Lascivious Clerk	name=Jeremy Bright	episodes=1 episode, 2014 	
+character=Parade Dignitary	name=Christopher Gullo	episodes=1 episode, 2014 	
+character=Upscale Prostitute	name=Alyssa H. Chase	episodes=1 episode, 2014 	
+character=Italian Gangster	name=Anthony Pasqua	episodes=1 episode, 2014 	
+character=Burlesque Waitress	name=Jana Stella	episodes=1 episode, 2014 	
+character=Mrs. Spratt	name=Jeanmarie Lally	episodes=1 episode, 2014 	
+character=Law Applicant	name=Renan Kanbay	episodes=1 episode, 2014 	
+character=Red Levine	name=David Chadwick	episodes=1 episode, 2014 	
+character=Maranzano Thug	name=Rob Ashkenas	episodes=1 episode, 2014 	
+character=Bellhop	name=Scott Montgomery	episodes=1 episode, 2014 	
+character=Law Applicant	name=Megan Hartig	episodes=1 episode, 2014 	
+character=Maranzano Thug	name=Sam Yazbeck	episodes=1 episode, 2014 	
+character=Cuban Poet	name=Eduardo Jesús Escobar	episodes=1 episode, 2014 	
+character=Maranzano Bodyguard	name=Brian Costantino	episodes=1 episode, 2014 	
+character=Swimmer Boy	name=Nicholas B. Tierney	episodes=1 episode, 2014 	
+character=Swimmer Boy	name=Kurt Meier	episodes=1 episode, 2014 	
+character=Chain Gang Prisoner	name=Lawrence Settles	episodes=1 episode, 2014 	

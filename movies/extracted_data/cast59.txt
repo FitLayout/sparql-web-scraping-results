@@ -1,0 +1,544 @@
+# http://fitlayout.github.io/resource/art59 -> https://www.imdb.com/title/tt2306299/fullcredits/
+character=Lagertha	name=Katheryn Winnick	episodes=71 episodes, 2013-2020 	
+character=Floki	name=Gustaf Skarsgård	episodes=68 episodes, 2013-2020 	
+character=Bjorn Lothbrok	name=Alexander Ludwig	episodes=67 episodes, 2014-2020 	
+character=Torvi	name=Georgia Hirst	episodes=63 episodes, 2014-2020 	
+character=Ivar	name=Alex Høgh Andersen	episodes=53 episodes, 2016-2020 	
+character=Ubbe	name=Jordan Patrick Smith	episodes=51 episodes, 2016-2020 	
+character=Hvitserk	name=Marco Ilsø	episodes=49 episodes, 2016-2020 	
+character=King Harald Finehair	name=Peter Franzén	episodes=49 episodes, 2016-2020 	
+character=Ragnar Lothbrok	name=Travis Fimmel	episodes=45 episodes, 2013-2017 	
+character=Rollo	name=Clive Standen	episodes=45 episodes, 2013-2018 	
+character=The Seer	name=John Kavanagh	episodes=42 episodes, 2013-2020 	
+character=Judith	name=Jennie Jacques	episodes=40 episodes, 2015-2019 	
+character=Helga	name=Maude Hirst	episodes=38 episodes, 2013-2017 	
+character=Aethelwulf	name=Moe Dunford	episodes=36 episodes, 2014-2018 	
+character=Queen Aslaug	name=Alyssa Sutherland	episodes=35 episodes, 2013-2016 	
+character=King Ecbert	name=Linus Roache	episodes=33 episodes, 2014-2017 	
+character=Athelstan	name=George Blagden	episodes=30 episodes, 2013-2016 	
+character=Kjetill Flatnose	name=Adam Copeland	episodes=25 episodes, 2017-2020 	
+character=Siggy Haraldson	name=Jessalyn Gilsig	episodes=24 episodes, 2013-2015 	
+character=Halfdan the Black	name=Jasper Pääkkönen	episodes=23 episodes, 2016-2020 	
+character=Gunnhild	name=Ragga Ragnars	episodes=22 episodes, 2018-2020 	
+character=Alfred the Great	name=Ferdia Walsh-Peelo	episodes=22 episodes, 2017-2020 	
+character=Erlendur	name=Edvin Endre	episodes=22 episodes, 2014-2016 	
+character=Shield Maiden	name=Katie Castle	episodes=1 episode, 2015-2020 	
+character=Freydis	name=Alicia Agneson	episodes=21 episodes, 2017-2020 	
+character=Margrethe	name=Ida Nielsen	episodes=20 episodes, 2016-2018 	
+character=Torstein	name=Jefferson Hall	episodes=20 episodes, 2013-2015 	
+character=Bishop Edmund	name=Sullivan	episodes=20 episodes, 2014-2017 	
+character=Bishop Edmund	name=Philip O	episodes=20 episodes, 2014-2017 	
+character=Ingrid	name=Lucy Martin	episodes=18 episodes, 2019-2020 	
+character=Astrid	name=Josefin Asplund	episodes=18 episodes, 2016-2018 	
+character=Ingvild	name=Kelly Campbell	episodes=18 episodes, 2017-2020 	
+character=Frodi	name=Scott Graham	episodes=18 episodes, 2017-2020 	
+character=Bishop Heahmund	name=Jonathan Rhys Meyers	episodes=16 episodes, 2017-2019 	
+character=Princess Gisla	name=Morgane Polanski	episodes=16 episodes, 2015-2017 	
+character=Oleg of Novgorod	name=Danila Kozlovskiy	episodes=15 episodes, 2019-2020 	
+character=Erik	name=Eric Johnson	episodes=14 episodes, 2020 	
+character=Ubbe	name=Cormac Melia	episodes=14 episodes, 2014-2015 	
+character=Roland	name=Huw Parmenter	episodes=14 episodes, 2015-2016 	
+character=Aethelred	name=Darren Cahill	episodes=14 episodes, 2017-2019 	
+character=Igor	name=Oran Glynn O	episodes=13 episodes, 2019-2020 	
+character=Igor	name=Donovan	episodes=13 episodes, 2019-2020 	
+character=Hali	name=Ryan Henson	episodes=14 episodes, 2018-2020 	
+character=Kalf	name=Ben Robson	episodes=13 episodes, 2015-2016 	
+character=Queen Kwenthrith	name=Amy Bailey	episodes=13 episodes, 2014-2016 	
+character=Bjorn Lothbrok	name=Nathan O	episodes=13 episodes, 2013-2020 	
+character=Bjorn Lothbrok	name=Toole	episodes=13 episodes, 2013-2020 	
+character=Porunn	name=Gaia Weiss	episodes=13 episodes, 2014-2015 	
+character=Emperor Charles	name=Lothaire Bluteau	episodes=13 episodes, 2015-2016 	
+character=Hvitserk	name=Hallin	episodes=13 episodes, 2014-2015 	
+character=Hvitserk	name=Cathal O	episodes=13 episodes, 2014-2015 	
+character=King Horik	name=Donal Logue	episodes=12 episodes, 2013-2014 	
+character=King Olaf the Stout	name=Steven Berkoff	episodes=12 episodes, 2019-2020 	
+character=King Aelle	name=Ivan Kaye	episodes=12 episodes, 2013-2017 	
+character=Count Odo	name=Owen Roe	episodes=12 episodes, 2015-2016 	
+character=Sigurd	name=Linnéa Lindström	episodes=12 episodes, 2016-2017 	
+character=Aud	name=Leah McNamara	episodes=12 episodes, 2017-2019 	
+character=Therese	name=Karen Hassan	episodes=12 episodes, 2015-2016 	
+character=Shield Maiden	name=Celine Nihicidhe	episodes=1 episode, 2014-2018 	
+character=Othere	name=Ray Stevenson	episodes=11 episodes, 2020 	
+character=Eyvind	name=Kris Holden-Ried	episodes=11 episodes, 2017-2019 	
+character=Elsewith	name=Roisin Murphy	episodes=11 episodes, 2018-2020 	
+character=Amma	name=Kristy Dawn Dinsmore	episodes=11 episodes, 2019-2020 	
+character=Asa	name=Elodie Curry	episodes=11 episodes, 2019-2020 	
+character=Helgi the Lean	name=Jack McEvoy	episodes=11 episodes, 2017-2019 	
+character=Gyda	name=Ruby O	episodes=9 episodes, 2013-2019 	
+character=Gyda	name=Leary	episodes=9 episodes, 2013-2019 	
+character=Shield Maiden	name=Amy Donnelly	episodes=1 episode, 2016 	
+character=White Hair	name=Kieran O	episodes=10 episodes, 2017-2020 	
+character=White Hair	name=Reilly	episodes=10 episodes, 2017-2020 	
+character=Rafarta	name=Donna Dent	episodes=10 episodes, 2013-2019 	
+character=Asbjorn	name=Elijah Rowen	episodes=10 episodes, 2017-2019 	
+character=Sinric	name=Frankie McCafferty	episodes=9 episodes, 2015-2017 	
+character=Jarl Borg	name=Thorbjørn Harr	episodes=8 episodes, 2013-2014 	
+character=Guthrum	name=Ben Roe	episodes=9 episodes, 2017-2018 	
+character=Thorunn	name=Mei Bignall	episodes=9 episodes, 2017-2018 	
+character=Arne	name=Tadhg Murphy	episodes=8 episodes, 2013-2014 	
+character=Magnus	name=Dean Ridge	episodes=8 episodes, 2018-2019 	
+character=Lord Cuthred	name=Jonathan Delaney Tynan	episodes=8 episodes, 2017-2018 	
+character=Asa	name=Svea Killoran	episodes=8 episodes, 2018-2019 	
+character=Hvitserk	name=Stephen Rockett	episodes=8 episodes, 2016 	
+character=Ubbe	name=Luke Shanahan	episodes=8 episodes, 2016 	
+character=Ealdorman 2	name=Chris McHallem	episodes=8 episodes, 2015-2019 	
+character=Sigurd	name=Elijah O	episodes=8 episodes, 2016 	
+character=Sigurd	name=Sullivan	episodes=8 episodes, 2016 	
+character=Jorunn	name=Lulubelle Earley	episodes=8 episodes, 2018-2019 	
+character=Shield Maiden	name=Eimear O	episodes=1 episode, 2014-2018 	
+character=Shield Maiden	name=Grady	episodes=1 episode, 2014-2018 	
+character=Prince Dir	name=Lenn Kudrjawizki	episodes=7 episodes, 2019-2020 	
+character=Yidu	name=Dianne Doan	episodes=7 episodes, 2016 	
+character=Gudrid	name=Noella Brennan	episodes=7 episodes, 2020 	
+character=Einar	name=Steve Wall	episodes=7 episodes, 2014-2016 	
+character=Chief Priest	name=Niall Ó Sioradáin	episodes=7 episodes, 2013-2020 	
+character=Ivar	name=James Quinn Markey	episodes=7 episodes, 2016 	
+character=Thyri	name=Elinor Crawley	episodes=6 episodes, 2013-2015 	
+character=Earl Haraldson	name=Gabriel Byrne	episodes=6 episodes, 2013 	
+character=Svein	name=David Pearse	episodes=6 episodes, 2013 	
+character=Harbard	name=Kevin Durand	episodes=6 episodes, 2015-2016 	
+character=Leif	name=Diarmaid Murtagh	episodes=6 episodes, 2013 	
+character=Ganbaatar	name=Andrei Claude	episodes=6 episodes, 2019-2020 	
+character=Prudentius	name=Seán T. Ó Meallaigh	episodes=6 episodes, 2016 	
+character=Thora	name=Eve Connolly	episodes=6 episodes, 2018-2020 	
+character=Cyneheard	name=Malcolm Douglas	episodes=6 episodes, 2016-2019 	
+character=Bandit 2	name=Martin White	episodes=1 episode, 2013-2019 	
+character=Viking Warrior	name=Neill	episodes=1 episode, 2013-2014 	
+character=Viking Warrior	name=Dean O	episodes=1 episode, 2013-2014 	
+character=Bjarke	name=Gary Kenneally	episodes=6 episodes, 2014-2015 	
+character=Naad	name=Ian Lloyd Anderson	episodes=5 episodes, 2020 	
+character=Alfred	name=Isaac O	episodes=5 episodes, 2016-2017 	
+character=Alfred	name=Sullivan	episodes=5 episodes, 2016-2017 	
+character=Elisef	name=Carrie Crowley	episodes=5 episodes, 2013-2014 	
+character=Saxon Scribe	name=Jim Roche	episodes=5 episodes, 2017-2019 	
+character=Tanaruz	name=Sinead Gormally	episodes=5 episodes, 2017 	
+character=Waerferth the Scout	name=Des Carney	episodes=5 episodes, 2016 	
+character=Bul	name=James Craze	episodes=5 episodes, 2017-2018 	
+character=Alfred	name=Conor O	episodes=5 episodes, 2016 	
+character=Alfred	name=Hanlon	episodes=5 episodes, 2016 	
+character=Thorgrim	name=Rob Malone	episodes=5 episodes, 2017-2018 	
+character=Ivar	name=Michael Power	episodes=4 episodes, 2016-2019 	
+character=Bodyguard	name=Michael Power	episodes=4 episodes, 2016-2019 	
+character=Shield Maiden	name=Orlaith Doherty	episodes=1 episode, 2018-2020 	
+character=Siegfried	name=Greg Orvis	episodes=4 episodes, 2015 	
+character=First Scout	name=Adam Goodwin	episodes=4 episodes, 2017 	
+character=Guthrum	name=Anton Giltrap	episodes=4 episodes, 2016-2017 	
+character=Ethelfled	name=Ann Skelly	episodes=4 episodes, 2018-2019 	
+character=Ealswith	name=Cathy White	episodes=4 episodes, 2013-2017 	
+character=Burgred	name=Aaron Monaghan	episodes=4 episodes, 2015 	
+character=French Archbishop	name=Laurence Foster	episodes=4 episodes, 2015 	
+character=King Hakon	name=Mishaël Lopes Cardozo	episodes=4 episodes, 2020 	
+character=Priest	name=Simon Boyle	episodes=4 episodes, 2018-2019 	
+character=Patriarch	name=Guy Carleton	episodes=4 episodes, 2020 	
+character=Snaefrid	name=Dagny Backer Johnsen	episodes=4 episodes, 2018 	
+character=King Svase	name=Anthony Brophy	episodes=4 episodes, 2018 	
+character=Ealdorman 1	name=David Shannon	episodes=4 episodes, 2016-2019 	
+character=Eric	name=Vladimir Kulich	episodes=3 episodes, 2013 	
+character=Knut	name=Eric Higgins	episodes=3 episodes, 2013 	
+character=Greenland Settler	name=Tristan McConnell	episodes=4 episodes, 2013-2020 	
+character=Jarl Hrolf	name=Amy De Bhrún	episodes=3 episodes, 2013-2020 	
+character=Greenland Settler	name=Ciaran O	episodes=3 episodes, 2015-2020 	
+character=Greenland Settler	name=Grady	episodes=3 episodes, 2015-2020 	
+character=Viking Warrior	name=Adam Winnick	episodes=1 episode, 2017-2020 	
+character=Peminuit	name=Wesley French	episodes=3 episodes, 2020 	
+character=Sigvard	name=Morten Suurballe	episodes=3 episodes, 2014 	
+character=We	name=Phillip Lewitski	episodes=3 episodes, 2020 	
+character=Jarl Thorkell	name=Fredrik Hiller	episodes=3 episodes, 2020 	
+character=Law Giver	name=Morgan C. Jones	episodes=3 episodes, 2014 	
+character=Young Viking	name=Finn Gillespie	episodes=3 episodes, 2020 	
+character=Judith	name=Sarah Greene	episodes=3 episodes, 2014 	
+character=Lord Denewulf	name=Keith McErlean	episodes=3 episodes, 2017 	
+character=Saxon Scout	name=Lee Hunter	episodes=3 episodes, 2017 	
+character=Kassia	name=Karima McAdams	episodes=3 episodes, 2017 	
+character=King Frodo	name=Connor-Duffy	episodes=3 episodes, 2013-2019 	
+character=King Frodo	name=Gavan O	episodes=3 episodes, 2013-2019 	
+character=Alfred	name=Peter Michael Dillon	episodes=3 episodes, 2020 	
+character=Mounted Bodyguard	name=Peter Michael Dillon	episodes=3 episodes, 2020 	
+character=Male Slave	name=Mark Lavery	episodes=3 episodes, 2018 	
+character=Ivar	name=Mark Lavery	episodes=3 episodes, 2018 	
+character=Messenger 1	name=Danny O	episodes=3 episodes, 2019 	
+character=Messenger 1	name=Connor	episodes=3 episodes, 2019 	
+character=Adam	name=Dafhyd Flynn	episodes=3 episodes, 2020 	
+character=Blacksmith	name=Tristan Heanue	episodes=3 episodes, 2016-2017 	
+character=Anna	name=Serena Kennedy	episodes=3 episodes, 2019-2020 	
+character=Lord Edgar	name=Peter Gaynor	episodes=3 episodes, 2013 	
+character=Leof	name=Brendan McCormack	episodes=3 episodes, 2020 	
+character=Egil	name=Charlie Kelly	episodes=3 episodes, 2017 	
+character=Runa	name=Gina Costigan	episodes=3 episodes, 2019-2020 	
+character=Eira	name=Kathy Monahan	episodes=3 episodes, 2019-2020 	
+character=Bishop Unwan	name=Gary Murphy	episodes=3 episodes, 2013-2017 	
+character=First Noble	name=Lochlann O	episodes=3 episodes, 2015 	
+character=First Noble	name=Mearáin	episodes=3 episodes, 2015 	
+character=Skadi	name=Aoibheann McCann	episodes=3 episodes, 2019-2020 	
+character=Wilfred	name=Damien Devaney	episodes=3 episodes, 2013-2018 	
+character=Second Noble	name=Conor Ryan	episodes=3 episodes, 2015 	
+character=Envoy	name=Pellek	episodes=3 episodes, 2019-2020 	
+character=Jarl Olavosonn	name=Tomi May	episodes=3 episodes, 2018 	
+character=Kauko	name=Jouko Ahola	episodes=3 episodes, 2013 	
+character=Vigrid	name=Martin Maloney	episodes=3 episodes, 2019 	
+character=Warrior	name=Rick Burn	episodes=2 episodes, 2014-2020 	
+character=Viking	name=Lauterio Zamparelli	episodes=1 episode, 2015-2018 	
+character=Galan	name=Oliver Price	episodes=3 episodes, 2020 	
+character=Ziyadat Allah	name=Kal Naga	episodes=2 episodes, 2017 	
+character=Skane	name=Brent Burns	episodes=2 episodes, 2020 	
+character=King Hemming	name=Erik Madsen	episodes=2 episodes, 2019 	
+character=Pekitaulet	name=Carmen Moore	episodes=2 episodes, 2020 	
+character=Earl Bjarni	name=Trevor Cooper	episodes=2 episodes, 2013 	
+character=Nikani	name=Ellyn Jade	episodes=2 episodes, 2020 	
+character=Olafur	name=Eddie Elks	episodes=2 episodes, 2013 	
+character=Stender	name=Søren Pilmark	episodes=2 episodes, 2015-2016 	
+character=Tostig	name=Angus MacInnes	episodes=2 episodes, 2013 	
+character=Bishop Leon	name=Ivo Alexandre	episodes=2 episodes, 2020 	
+character=Odin	name=Eddie Drew	episodes=2 episodes, 2013-2015 	
+character=Louis	name=Mark Huberman	episodes=2 episodes, 2015 	
+character=Frightened Warrior	name=Michael Hough	episodes=2 episodes, 2015 	
+character=Ealdorman Werferth	name=Duncan Lacroix	episodes=2 episodes, 2014 	
+character=Euphemius	name=Albano Jerónimo	episodes=2 episodes, 2017 	
+character=Canute	name=Conn Rogers	episodes=2 episodes, 2019 	
+character=Servant	name=Elshka Lane	episodes=2 episodes, 2020 	
+character=Katia	name=Elshka Lane	episodes=2 episodes, 2020 	
+character=Female Servant 	name=Rebecca Grimes	episodes=2 episodes, 2013-2017 	
+character=Sorceress	name=Barbara Griffin	episodes=2 episodes, 2014 	
+character=Bishop Aldulf	name=Russell Balogh	episodes=2 episodes, 2020 	
+character=Brother Cenwulf	name=Will Irvine	episodes=2 episodes, 2013 	
+character=Viking Farmer	name=Jack Olohan	episodes=2 episodes, 2016 	
+character=Saxon 1	name=Sam Doyle	episodes=2 episodes, 2013 	
+character=Judith	name=Jill Harding	episodes=2 episodes, 2015 	
+character=Maid	name=Jill Harding	episodes=2 episodes, 2015 	
+character=Bishop	name=Ian Brooker	episodes=2 episodes, 2020 	
+character=Second Saxon Noble	name=Marty Maguire	episodes=2 episodes, 2015 	
+character=Sister Annis	name=Breffni Holahan	episodes=2 episodes, 2020 	
+character=Edwin	name=Sam Lucas Smith	episodes=2 episodes, 2013 	
+character=Witch	name=Sandra Voe	episodes=2 episodes, 2019 	
+character=Ne	name=Acahkos Johnson	episodes=2 episodes, 2020 	
+character=Third Saxon Noble	name=Muiris Crowley	episodes=2 episodes, 2015 	
+character=Saxon 	name=Ciaran McGlynn	episodes=2 episodes, 2015 	
+character=Farmhand	name=Ciaran McGlynn	episodes=2 episodes, 2015 	
+character=Torturer	name=Marko Leht	episodes=2 episodes, 2019 	
+character=Jesus	name=Carl Shaaban	episodes=2 episodes, 2014-2015 	
+character=Drunken Saxon	name=Robert Fawsitt	episodes=2 episodes, 2014-2015 	
+character=King Angantyr	name=Mark Winnick	episodes=2 episodes, 2019 	
+character=Hairdresser	name=Paul Ward	episodes=2 episodes, 2013-2016 	
+character=First Viking	name=Adam Traynor	episodes=2 episodes, 2017-2020 	
+character=Wigea	name=Jonathan Kemp	episodes=2 episodes, 2013 	
+character=Thorvard	name=Richard Ashton	episodes=2 episodes, 2014 	
+character=Black Cloaked Figure	name=André Eriksen	episodes=2 episodes, 2016-2017 	
+character=Mannel	name=Paul Reid	episodes=2 episodes, 2017 	
+character=Angrboda	name=Rosalie Connerty	episodes=2 episodes, 2016 	
+character=Anna	name=Isabelle Connolly	episodes=2 episodes, 2020 	
+character=Messenger 2	name=Michael Johnston	episodes=2 episodes, 2019 	
+character=Nissa	name=Victoire Dauxerre	episodes=2 episodes, 2020 	
+character=Dealer	name=Patrick O	episodes=2 episodes, 2020 	
+character=Dealer	name=Donnell	episodes=2 episodes, 2020 	
+character=Eastern Rus Noble	name=Lee Bennett	episodes=2 episodes, 2020 	
+character=Pagan Priestess	name=Noni Stapleton	episodes=2 episodes, 2014-2017 	
+character=Gudmund	name=David Sterne	episodes=2 episodes, 2019-2020 	
+character=Saxon Warrior Scout 1	name=Dave Boyle	episodes=2 episodes, 2020 	
+character=William Son of Rollo	name=Charles Last	episodes=2 episodes, 2016-2017 	
+character=Princess Ellisif	name=Sophie Vavasseur	episodes=2 episodes, 2017 	
+character=Osric	name=Seán McGillicuddy	episodes=2 episodes, 2020 	
+character=Tarben	name=Oisin Murray	episodes=2 episodes, 2019-2020 	
+character=Saxon Warrior Scout 2	name=Sean Condren	episodes=2 episodes, 2020 	
+character=Orlyg	name=Tim Creed	episodes=2 episodes, 2020 	
+character=Vik	name=Gary Buckley	episodes=2 episodes, 2017 	
+character=Wolfgar	name=Steve Cash	episodes=2 episodes, 2020 	
+character=Magician	name=Jonathan Gunning	episodes=2 episodes, 2015-2016 	
+character=Earl Jorgensen	name=Jack Nolan	episodes=2 episodes, 2017 	
+character=Judith	name=Caitlin Scott	episodes=2 episodes, 2017 	
+character=Sister	name=Caitlin Scott	episodes=2 episodes, 2017 	
+character=Abbot Lupus	name=Niall Cusack	episodes=2 episodes, 2016 	
+character=French Archbishop	name=Tom Hopkins	episodes=2 episodes, 2016 	
+character=Ivar	name=Maxim Boshell	episodes=2 episodes, 2016 	
+character=Axe Boy	name=Maxim Boshell	episodes=2 episodes, 2016 	
+character=Ivar Scout	name=Adam Behan	episodes=1 episode, 2019-2020 	
+character=Horik	name=Steve Wilson	episodes=1 episode, 2013 	
+character=Companion	name=Steve Wilson	episodes=1 episode, 2013 	
+character=King 3	name=Ian Gerard Whyte	episodes=1 episode, 2020 	
+character=Farmstead	name=Nigel O	episodes=1 episode, 2015 	
+character=Farmstead	name=Neill	episodes=1 episode, 2015 	
+character=Viking 	name=Neill	episodes=1 episode, 2015 	
+character=Viking 	name=Nigel O	episodes=1 episode, 2015 	
+character=Ragnars Recruit	name=Mark Kelvin Ryan	episodes=1 episode, 2014-2016 	
+character=Executive Producer	name=Michael Hirst	episodes=1 episode, 2017 	
+character=Lord Aethelwulf	name=David Murray	episodes=1 episode, 2013 	
+character=Thorbjorn	name=Noah Syndergaard	episodes=1 episode, 2020 	
+character=Old Man	name=Kevin Flood	episodes=1 episode, 2013 	
+character=Hild	name=Anna Åström	episodes=1 episode, 2014 	
+character=One-Eyed Man	name=Bryan Quinn	episodes=1 episode, 2019 	
+character=Brondsted	name=Gerard McCarthy	episodes=1 episode, 2013 	
+character=Ulf	name=Billy Gibson	episodes=1 episode, 2013 	
+character=Gunnhild	name=Elizabeth Moynihan	episodes=1 episode, 2014 	
+character=Pagan Priest	name=Alvaro Lucchesi	episodes=1 episode, 2014 	
+character=Hoskuld	name=Josh Donaldson	episodes=1 episode, 2017 	
+character=Young Boy	name=Gary Farrelly	episodes=1 episode, 2013 	
+character=Saxon Officer	name=Paul Booth	episodes=1 episode, 2016 	
+character=Chamberlain	name=Will Guppy	episodes=1 episode, 2019 	
+character=Messenger	name=Desmond Eastwood	episodes=1 episode, 2020 	
+character=Second Warrior	name=Alexander Campbell	episodes=1 episode, 2020 	
+character=Olaf Andwend	name=David Wilmot	episodes=1 episode, 2013 	
+character=Egbert	name=Sean Tracy	episodes=1 episode, 2013 	
+character=Warrior	name=Mark Fitzgerald	episodes=1 episode, 2016 	
+character=Warrior	name=Owen J. Barton	episodes=1 episode, 2019 	
+character=Wiglaf	name=Bryan Larkin	episodes=1 episode, 2020 	
+character=First Warrior	name=James Oliver Wheatley	episodes=1 episode, 2020 	
+character=Female Skald	name=Anna-Maria Jopek	episodes=1 episode, 2020 	
+character=Nils	name=David Michael Scott	episodes=1 episode, 2013 	
+character=Hakon	name=Craig Whittaker	episodes=1 episode, 2013 	
+character=Eric Trygvasson	name=Conor Madden	episodes=1 episode, 2013 	
+character=Ari	name=Jay Duffy	episodes=1 episode, 2014 	
+character=Woman	name=Pagan McGrath	episodes=1 episode, 2014 	
+character=Warrior 	name=Jack Hickey	episodes=1 episode, 2015 	
+character=Magnus	name=Cameron Hogan	episodes=1 episode, 2016 	
+character=Lord Abbot	name=Bosco Hogan	episodes=1 episode, 2018 	
+character=Prince Askold	name=Blake Kubena	episodes=1 episode, 2019 	
+character=Idun	name=Jerry-Jane Pears	episodes=1 episode, 2020 	
+character=Rus Official	name=Ciaran McMahon	episodes=1 episode, 2020 	
+character=Viking Messenger	name=Tim Fellingham	episodes=1 episode, 2020 	
+character=Man in Kattegat	name=Kevin McCann	episodes=1 episode, 2013 	
+character=Female Servant 	name=Michelle Costello	episodes=1 episode, 2013 	
+character=Ealdorman Eadric	name=Alan Devine	episodes=1 episode, 2014 	
+character=Young Woman	name=Rachel-Mae Brady	episodes=1 episode, 2014 	
+character=French Sentry	name=Anthony Kinahan	episodes=1 episode, 2015 	
+character=Viking Trader	name=Conor Lambert	episodes=1 episode, 2017 	
+character=Canute	name=Conn Rogers	episodes=1 episode, 2019 	
+character=Physician	name=Marcus Lamb	episodes=1 episode, 2019 	
+character=Kattegonian Man	name=Shane Robinson	episodes=1 episode, 2020 	
+character=King 2	name=Neill Fleming	episodes=1 episode, 2020 	
+character=Young Iceland Woman	name=Ciara Ivie	episodes=1 episode, 2020 	
+character=Blacksmith	name=Paul Kealyn	episodes=1 episode, 2013 	
+character=Olaf, Son of Igolf	name=Cian Quinn	episodes=1 episode, 2013 	
+character=Peasant Man	name=Matt Ryan	episodes=1 episode, 2013 	
+character=Soldier	name=Rex Ryan	episodes=1 episode, 2015 	
+character=Saxon Servant	name=Cian Gallagher	episodes=1 episode, 2018 	
+character=Old Woman	name=Aine Hayden	episodes=1 episode, 2019 	
+character=Sylvi	name=Sandy Kennedy	episodes=1 episode, 2019 	
+character=Wife of Drunk	name=Gail Brady	episodes=1 episode, 2020 	
+character=Earl 1	name=Fiona McGeown	episodes=1 episode, 2020 	
+character=Peasant Woman	name=Deirdre Mullins	episodes=1 episode, 2013 	
+character=Blacksmith	name=Carolyn Murray	episodes=1 episode, 2013 	
+character=Daughter	name=Carolyn Murray	episodes=1 episode, 2013 	
+character=Female Servant 	name=Michelle Beamish	episodes=1 episode, 2013 	
+character=Warrior	name=Mark Fitzgerald	episodes=1 episode, 2014 	
+character=Saxon 	name=Conor Marren	episodes=1 episode, 2014 	
+character=Bell Monk	name=Fionn Foley	episodes=1 episode, 2014 	
+character=Monk	name=Sean Duggan	episodes=1 episode, 2015 	
+character=Tower Sentry	name=Brien	episodes=1 episode, 2015 	
+character=Tower Sentry	name=Colm O	episodes=1 episode, 2015 	
+character=Midwife	name=Eva Bartley	episodes=1 episode, 2015 	
+character=Guard	name=Dave Rowe	episodes=1 episode, 2016 	
+character=Frankish Farmer	name=Luke Pierucci	episodes=1 episode, 2016 	
+character=Frankish Officer	name=Ian Meehan	episodes=1 episode, 2016 	
+character=Saxon Scout	name=Richard McWilliams	episodes=1 episode, 2017 	
+character=Aelle	name=Rob Walsh	episodes=1 episode, 2017 	
+character=Cleric	name=Rob Walsh	episodes=1 episode, 2017 	
+character=First Woman	name=Alicia Gerrard	episodes=1 episode, 2019 	
+character=Moneylender	name=Shane Lynch	episodes=1 episode, 2020 	
+character=Kattegonian	name=Stephen Cromwell	episodes=1 episode, 2020 	
+character=Rus Captain	name=Chris Powell	episodes=1 episode, 2020 	
+character=Floki	name=Amber Jean Rowan	episodes=1 episode, 2013 	
+character=Slave Girl	name=Amber Jean Rowan	episodes=1 episode, 2013 	
+character=Female Servant 	name=Hilary Rose	episodes=1 episode, 2013 	
+character=Slave Girl	name=Roanna Cochrane	episodes=1 episode, 2013 	
+character=Saxon Warrior 	name=Gairbhi	episodes=1 episode, 2013 	
+character=Saxon Warrior 	name=Cillian O	episodes=1 episode, 2013 	
+character=Young Man	name=Rudi Kennedy	episodes=1 episode, 2013 	
+character=Messenger	name=James Browne	episodes=1 episode, 2014 	
+character=Older Man	name=Derry Power	episodes=1 episode, 2014 	
+character=Monk	name=Chris Gallagher	episodes=1 episode, 2014 	
+character=Blind Driver	name=Brendan Conroy	episodes=1 episode, 2016 	
+character=Frankish Farmer	name=Ross McKinney	episodes=1 episode, 2016 	
+character=Aethegyth	name=India Mullen	episodes=1 episode, 2017 	
+character=Widow Ordlaf	name=Tamaryn Payne	episodes=1 episode, 2017 	
+character=Slave	name=Nathan Hughes	episodes=1 episode, 2017 	
+character=Crowbone	name=Ben McKeown	episodes=1 episode, 2019 	
+character=Second Woman	name=Deborah Wiseman	episodes=1 episode, 2019 	
+character=Herigar	name=Ronan Summers	episodes=1 episode, 2020 	
+character=Rus Sentry 1	name=Gary Kane	episodes=1 episode, 2020 	
+character=Village Elder	name=Michael Judd	episodes=1 episode, 2020 	
+character=Rus Officer 	name=Daniel Paton	episodes=1 episode, 2020 	
+character=Earl 2	name=Cathal Sheahan	episodes=1 episode, 2020 	
+character=Saxon Warrior 	name=Andy Kellegher	episodes=1 episode, 2013 	
+character=Grim Giantess	name=Alexis Forbes	episodes=1 episode, 2013 	
+character=Bishop Swithern	name=Edmund Kente	episodes=1 episode, 2014 	
+character=Messenger	name=Aonghus Og McAnally	episodes=1 episode, 2015 	
+character=Wife	name=Gwynne McElveen	episodes=1 episode, 2016 	
+character=Farmer	name=Gwynne McElveen	episodes=1 episode, 2016 	
+character=Female Slave	name=Lauren Farrell	episodes=1 episode, 2017 	
+character=Victim	name=Lorena Weldon	episodes=1 episode, 2017 	
+character=Bjorn	name=Lorena Weldon	episodes=1 episode, 2017 	
+character=First Saxon Boy	name=Jake O	episodes=1 episode, 2017 	
+character=First Saxon Boy	name=Loughlin	episodes=1 episode, 2017 	
+character=Commanding Officer	name=Gabriel Constantin	episodes=1 episode, 2020 	
+character=Aoife	name=Emma Eliza Regan	episodes=1 episode, 2020 	
+character=Rus Officer 	name=Steven Blades	episodes=1 episode, 2020 	
+character=Blind Beggar	name=Bobby McGlynn	episodes=1 episode, 2020 	
+character=Rus Guard	name=Renars Latkovskis	episodes=1 episode, 2020 	
+character=Rus Sentry 2	name=Luke McQuillan	episodes=1 episode, 2020 	
+character=Saxon Priest	name=Simon Coury	episodes=1 episode, 2013 	
+character=Haraldson Kinsman	name=Dez McMahon	episodes=1 episode, 2013 	
+character=King Brihtwulf	name=Ian Beattie	episodes=1 episode, 2015 	
+character=Injured Noble	name=Brian Fortune	episodes=1 episode, 2015 	
+character=Thorhall	name=Adam McNamara	episodes=1 episode, 2016 	
+character=Gudmund	name=Liam Clarke	episodes=1 episode, 2016 	
+character=Saxon Woman	name=Olga Wehrly	episodes=1 episode, 2017 	
+character=Second Saxon Boy	name=Ben Smith-Short	episodes=1 episode, 2017 	
+character=Aldwin	name=Jamie Maclachlan	episodes=1 episode, 2019 	
+character=Oleg	name=Maria Guiver	episodes=1 episode, 2020 	
+character=First Wife	name=Maria Guiver	episodes=1 episode, 2020 	
+character=Natasha	name=Katherine Devlin	episodes=1 episode, 2020 	
+character=Blacksmith	name=Keith Ward	episodes=1 episode, 2020 	
+character=Noble 3	name=Jonathan Ryan	episodes=1 episode, 2013 	
+character=Saxon Messenger	name=Michael Liebmann	episodes=1 episode, 2013 	
+character=Father Cuthbert	name=Des Braiden	episodes=1 episode, 2013 	
+character=Farmstead	name=Matthew O	episodes=1 episode, 2015 	
+character=Farmstead	name=Brien	episodes=1 episode, 2015 	
+character=Saxon 	name=Matthew O	episodes=1 episode, 2015 	
+character=Saxon 	name=Brien	episodes=1 episode, 2015 	
+character=Second Mercian Archer	name=John Merriman	episodes=1 episode, 2015 	
+character=Slave Trader	name=Shashi Rami	episodes=1 episode, 2016 	
+character=Gardar	name=Ed Murphy	episodes=1 episode, 2016 	
+character=Roman Prostitute	name=Martha Christie	episodes=1 episode, 2016 	
+character=Third Young Woman	name=Donoghue	episodes=1 episode, 2016 	
+character=Third Young Woman	name=Ceire O	episodes=1 episode, 2016 	
+character=Young Arab Man	name=Daryl McCormack	episodes=1 episode, 2017 	
+character=Bishop Cynebert	name=Frank Prendergast	episodes=1 episode, 2017 	
+character=Young Lagertha	name=Mabel Hurley	episodes=1 episode, 2018 	
+character=Midwife	name=Clodagh Downing	episodes=1 episode, 2019 	
+character=Monk	name=Eddie Jackson	episodes=1 episode, 2013 	
+character=Eadric	name=James Flynn	episodes=1 episode, 2013 	
+character=Wigstan	name=Declan Conlon	episodes=1 episode, 2016 	
+character=Shield Maiden	name=Amy Hughes	episodes=1 episode, 2016 	
+character=Roman Relic Seller	name=David Coon	episodes=1 episode, 2016 	
+character=Young Nun	name=Anna Sheils-McNamee	episodes=1 episode, 2017 	
+character=Chief Priestess	name=Aoife Maloney	episodes=1 episode, 2017 	
+character=Father	name=Ross Matthew Anderson	episodes=1 episode, 2018 	
+character=Lagertha	name=Ross Matthew Anderson	episodes=1 episode, 2018 	
+character=Messenger	name=Jonathan Milshaw	episodes=1 episode, 2019 	
+character=Viking Messenger	name=Fiach Kunz	episodes=1 episode, 2020 	
+character=Viking Council Noble	name=Neil Watkins	episodes=1 episode, 2020 	
+character=Noble 2	name=Michael James Ford	episodes=1 episode, 2013 	
+character=Monk	name=Nathan Gordon	episodes=1 episode, 2013 	
+character=Old Warrior	name=M.E. Lewis	episodes=1 episode, 2014 	
+character=Envoy	name=Mark McAuley	episodes=1 episode, 2014 	
+character=Farmstead	name=Lenny Hayden	episodes=1 episode, 2015 	
+character=Viking 	name=Lenny Hayden	episodes=1 episode, 2015 	
+character=Drunken Northman	name=Bryan Baker	episodes=1 episode, 2015 	
+character=Terrifying Creature	name=Vincenzo Di Tommaso	episodes=1 episode, 2015 	
+character=French Archbishop	name=Barry McGovern	episodes=1 episode, 2016 	
+character=Papal Secretary	name=Dylan McDonough	episodes=1 episode, 2016 	
+character=Hakon	name=Fuarain	episodes=1 episode, 2017 	
+character=Hakon	name=Laurence O	episodes=1 episode, 2017 	
+character=Gyda	name=Emma Willis	episodes=1 episode, 2020 	
+character=The Stranger	name=Gerard Miller	episodes=1 episode, 2020 	
+character=Servant	name=Moah Madsen	episodes=1 episode, 2020 	
+character=Gunnhild	name=Moah Madsen	episodes=1 episode, 2020 	
+character=Old Monk	name=Martin Phillips	episodes=1 episode, 2013 	
+character=Noble 5	name=Alexander Downes	episodes=1 episode, 2013 	
+character=Mercian Commander	name=Dave Curry	episodes=1 episode, 2015 	
+character=Older Viking Man	name=Joe Doyle	episodes=1 episode, 2015 	
+character=Young Saxon Girl	name=Caoimhe Garvin	episodes=1 episode, 2016 	
+character=Old Man in Market	name=Chooye Bay	episodes=1 episode, 2019 	
+character=Stranger	name=Nicolas Van Beveren	episodes=1 episode, 2020 	
+character=Alexei	name=Neil Keery	episodes=1 episode, 2020 	
+character=Fisherman	name=Lalor Roddy	episodes=1 episode, 2015 	
+character=Older Viking Man	name=Brian McGuinness	episodes=1 episode, 2015 	
+character=Second Viking	name=Donal Gallery	episodes=1 episode, 2017 	
+character=Spy	name=Matthew Ralli	episodes=1 episode, 2018 	
+character=First Young Viking	name=Alex Mills	episodes=1 episode, 2020 	
+character=Earl 3	name=Claire Jenkins	episodes=1 episode, 2020 	
+character=Ansgar	name=James Murphy	episodes=1 episode, 2015 	
+character=Woman	name=Amy Potter	episodes=1 episode, 2015 	
+character=Royal Servant	name=David Maine	episodes=1 episode, 2017 	
+character=Second Young Viking	name=Niall O	episodes=1 episode, 2020 	
+character=Second Young Viking	name=Brien	episodes=1 episode, 2020 	
+character=Servant	name=Aisling Reid	episodes=1 episode, 2020 	
+character=Harold	name=Aisling Reid	episodes=1 episode, 2020 	
+character=Second Woman	name=Niamh Algar	episodes=1 episode, 2015 	
+character=Scotus	name=Jack Walsh	episodes=1 episode, 2016 	
+character=Mercian Commander	name=Aron Hegarty	episodes=1 episode, 2016 	
+character=Frankish Officer	name=Simon Jewell	episodes=1 episode, 2016 	
+character=Egil	name=Siobhan Kelly	episodes=1 episode, 2017 	
+character=Wife	name=Siobhan Kelly	episodes=1 episode, 2017 	
+character=Saxon Priest	name=Allan Keating	episodes=1 episode, 2019 	
+character=Third Young Viking	name=John Hogg	episodes=1 episode, 2020 	
+character=Servant	name=Emily Fox	episodes=1 episode, 2020 	
+character=Harold	name=Emily Fox	episodes=1 episode, 2020 	
+character=Rider	name=Laurence Falconer	episodes=1 episode, 2015 	
+character=Older Man	name=Tony Owen	episodes=1 episode, 2015 	
+character=Eirik	name=Cillian O	episodes=1 episode, 2016 	
+character=Eirik	name=Sullivan	episodes=1 episode, 2016 	
+character=Saxon Officer	name=Paul Booth	episodes=1 episode, 2016 	
+character=Viking Scout	name=Peter Dillon	episodes=1 episode, 2017 	
+character=Angel of Death	name=Karen Connell	episodes=1 episode, 2020 	
+character=Harold	name=Katie McCann	episodes=1 episode, 2020 	
+character=Servant	name=Katie McCann	episodes=1 episode, 2020 	
+character=Papal Legate	name=Nabil Massad	episodes=1 episode, 2016 	
+character=Clergyman	name=Hare	episodes=1 episode, 2019 	
+character=Clergyman	name=Aidan O	episodes=1 episode, 2019 	
+character=Birthmark Viking	name=James Cosgrave	episodes=1 episode, 2020 	
+character=Harold	name=Muireann Bird	episodes=1 episode, 2020 	
+character=Servant	name=Muireann Bird	episodes=1 episode, 2020 	
+character=Clergyman 2	name=Flaherty	episodes=1 episode, 2019 	
+character=Clergyman 2	name=Michael O	episodes=1 episode, 2019 	
+character=Berserker	name=Robert Follin	episodes=1 episode, 2016 	
+character=Jorunn	name=Tallulah Belle	episodes=1 episode, 2017 	
+character=Warrior 1	name=Duinn	episodes=1 episode, 2020 	
+character=Warrior 1	name=Wesley O	episodes=1 episode, 2020 	
+character=Pipe Player	name=Maciej Rychly	episodes=1 episode, 2020 	
+character=Bishop	name=Eamonn Draper	episodes=1 episode, 2018 	
+character=Northumbrian Reeve	name=David Ryan	episodes=1 episode, 2013 	
+character=Angel of death	name=Lexi Rose	episodes=1 episode, 2013 	
+character=Viking Warrior	name=John Wolfe	episodes=1 episode, 2016 	
+character=Aethelred 	name=Faolan Barry	episodes=1 episode, 2016 	
+character=Viking Warrior	name=Robert MacDomhnail	episodes=29 episodes, 2013-2015 	
+character=Warrior	name=Tom Leavey	episodes=21 episodes, 2014-2020 	
+character=Viking	name=Derek Carroll	episodes=16 episodes, 2017-2019 	
+character=Shield Maiden	name=Kristine Kenina	episodes=10 episodes, 2015-2020 	
+character=Viking	name=Joseph Duggan	episodes=10 episodes, 2016-2020 	
+character=Viking Elder	name=Charles Sans	episodes=9 episodes, 2015-2019 	
+character=Kiev Noble	name=Mark Quigley	episodes=7 episodes, 2015-2020 	
+character=Viking Warrior	name=Yuri Ribeiro	episodes=7 episodes, 2015 	
+character=Shield Maiden	name=Aisling Goodwin	episodes=7 episodes, 2016 	
+character=Shield Maiden	name=Hannah Behan	episodes=6 episodes, 2016-2020 	
+character=Shield Maiden	name=Lianne Bowley	episodes=6 episodes, 2016-2020 	
+character=Shield Maiden	name=Laura Flynn	episodes=5 episodes, 2016-2020 	
+character=Viking	name=Aaron Lee Reed	episodes=4 episodes, 2013-2014 	
+character=Bandit 1	name=David Byrne	episodes=4 episodes, 2019 	
+character=Shield Maiden	name=Aoife Byrne	episodes=3 episodes, 2013-2018 	
+character=Viking	name=Lemuel Black	episodes=3 episodes, 2014-2020 	
+character=Viking	name=Conor Hegarty	episodes=3 episodes, 2017-2020 	
+character=Shield Maiden	name=Niamh Hogan	episodes=3 episodes, 2018-2020 	
+character=Viking	name=John Mulvey	episodes=3 episodes, 2018-2020 	
+character=Shield Maiden	name=Lucy Johnson	episodes=3 episodes, 2020 	
+character=Baltic warrior	name=Stav Dvorkin	episodes=2 episodes, 2013-2019 	
+character=Shaman	name=Einar Selvik	episodes=2 episodes, 2015-2016 	
+character=Kattegonian	name=Melody Sorensen	episodes=2 episodes, 2017-2020 	
+character=Rus	name=Alex Payne	episodes=2 episodes, 2020 	
+character=Icelandic Settler	name=Thomas Quill	episodes=2 episodes, 2020 	
+character=Condemned Man	name=Christopher Dane	episodes=1 episode, 2013 	
+character=Dead viking	name=Tyrone Kearns	episodes=1 episode, 2013 	
+character=Viking	name=Riku Rokkanen	episodes=1 episode, 2013 	
+character=Young Mother	name=Melissa Maria Carton	episodes=1 episode, 2013 	
+character=Young Monk	name=James Jake Martinez	episodes=1 episode, 2013 	
+character=Horik Nobel	name=Keith Anderson	episodes=1 episode, 2013 	
+character=Viking Warrior	name=Daniel Aherne	episodes=1 episode, 2013 	
+character=Shield Maiden	name=Rachel Walker	episodes=1 episode, 2014 	
+character=Wet Nurse	name=Andrea Scholer	episodes=1 episode, 2014 	
+character=Slave	name=Graeme Redmond	episodes=1 episode, 2014 	
+character=Monk	name=Patrick Kelly	episodes=1 episode, 2015 	
+character=Executioner	name=Tony Condren	episodes=1 episode, 2015 	
+character=Shield Maiden	name=Jee Hewson	episodes=1 episode, 2015 	
+character=The Saxon	name=Patrick Murphy	episodes=1 episode, 2016 	
+character=Boat Captain	name=Ross Magee	episodes=1 episode, 2016 	
+character=Shield Maiden	name=Jennifer Florence	episodes=1 episode, 2017 	
+character=Rul	name=Dane E. Connor	episodes=1 episode, 2018 	
+character=Noble Man .	name=Paul J. Coffey.	episodes=1 episode, 2019 	
+character=Rus Soldier	name=Michael Redmond	episodes=1 episode, 2020 	
+character=Shield Maiden	name=Holly McCredden	episodes=1 episode, 2020 	
+character=Rus	name=Edward Linard	episodes=1 episode, 2020 	
+character=Rus Soldier	name=Chris Peters	episodes=1 episode, 2020 	
+character=Rus Soldier	name=Sean Bingham	episodes=1 episode, 2020 	
+character=Shield Maiden	name=Jessy Danner	episodes=1 episode, 2020 	
+character=Viking	name=Chris Tallon	episodes=1 episode, 2020 	
+character=Rus Soldier	name=Eoin Leahy	episodes=1 episode, 2020 	
+character=Shield Maiden	name=Ciara Hilliard	episodes=1 episode, 2020 	

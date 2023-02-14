@@ -1,0 +1,69 @@
+# http://fitlayout.github.io/resource/art48 -> https://www.imdb.com/title/tt9059760/fullcredits/
+character=Marianne	name=Daisy Edgar-Jones	episodes=12 episodes, 2020 	
+character=Connell	name=Paul Mescal	episodes=12 episodes, 2020 	
+character=Niall	name=Desmond Eastwood	episodes=8 episodes, 2020 	
+character=Denise	name=Aislín McGuckin	episodes=8 episodes, 2020 	
+character=Lorraine	name=Sarah Greene	episodes=6 episodes, 2020 	
+character=Alan	name=Frank Blake	episodes=6 episodes, 2020 	
+character=Peggy	name=India Mullen	episodes=6 episodes, 2020 	
+character=Joanna	name=Eliot Salt	episodes=6 episodes, 2020 	
+character=Rob	name=Éanna Hardwicke	episodes=5 episodes, 2020 	
+character=Eric	name=Seán Doyle	episodes=5 episodes, 2020 	
+character=Jamie	name=Shea	episodes=5 episodes, 2020 	
+character=Jamie	name=Fionn O	episodes=5 episodes, 2020 	
+character=Kiernan	name=Clinton Liberty	episodes=5 episodes, 2020 	
+character=Karen	name=Niamh Lynch	episodes=5 episodes, 2020 	
+character=Rachel	name=Leah McNamara	episodes=5 episodes, 2020 	
+character=Lisa	name=Meadhbh Maxwell	episodes=5 episodes, 2020 	
+character=Jack	name=Killian Filan	episodes=5 episodes, 2020 	
+character=Helen	name=Aoife Hinds	episodes=4 episodes, 2020 	
+character=Ms. Neary	name=Liz Fitzgibbon	episodes=4 episodes, 2020 	
+character=Elaine	name=Megan McDonnell	episodes=4 episodes, 2020 	
+character=Philip	name=Kwaku Fortune	episodes=4 episodes, 2020 	
+character=Sadie	name=Leah Minto	episodes=3 episodes, 2020 	
+character=Sophie	name=Slaney Power	episodes=3 episodes, 2020 	
+character=Gareth	name=Sebastian De Souza	episodes=2 episodes, 2020 	
+character=Lecturer	name=Chris McHallem	episodes=2 episodes, 2020 	
+character=Matt	name=Domhnall Herdman	episodes=2 episodes, 2020 	
+character=Mr. Kerrigan	name=Muiris Crowley	episodes=2 episodes, 2020 	
+character=Teresa	name=Lauryn Canny	episodes=2 episodes, 2020 	
+character=Lukas	name=Lancelot Ncube	episodes=1 episode, 2020 	
+character=Evelyn	name=Bláithín Mac Gabhann	episodes=1 episode, 2020 	
+character=Tom	name=Conor Mullen	episodes=1 episode, 2020 	
+character=Gillian	name=Noma Dumezweni	episodes=1 episode, 2020 	
+character=Matt	name=Michael Phong Le	episodes=1 episode, 2020 	
+character=Student 1	name=Ciara Berkeley	episodes=1 episode, 2020 	
+character=Teaching Assistant 1	name=Rachel Benaissa	episodes=1 episode, 2020 	
+character=Shopkeeper	name=Lucilla di Paolo	episodes=1 episode, 2020 	
+character=Jason	name=Connor	episodes=1 episode, 2020 	
+character=Jason	name=Barry O	episodes=1 episode, 2020 	
+character=Student 2	name=Lila Coleman	episodes=1 episode, 2020 	
+character=Trish	name=Tina Kellegher	episodes=1 episode, 2020 	
+character=Anna	name=Aoibhinn McAuley	episodes=1 episode, 2020 	
+character=Provost	name=Frank Smith	episodes=1 episode, 2020 	
+character=Matt	name=Sean Duggan	episodes=1 episode, 2020 	
+character=Aunt Caitlin	name=Gwynne McElveen	episodes=1 episode, 2020 	
+character=Sarah	name=Olga Wehrly	episodes=1 episode, 2020 	
+character=Gerald	name=Denis Conway	episodes=1 episode, 2020 	
+character=Pat	name=Killian Coyle	episodes=1 episode, 2020 	
+character=Bernie	name=Eleanor Methven	episodes=1 episode, 2020 	
+character=Eileen	name=Donovan	episodes=1 episode, 2020 	
+character=Eileen	name=Claire O	episodes=1 episode, 2020 	
+character=Darragh	name=Darragh McKenzie	episodes=1 episode, 2020 	
+character=Granny Rose	name=Eileen Byrne	episodes=1 episode, 2020 	
+character=Val	name=Michael Power	episodes=1 episode, 2020 	
+character=Seminar Leader	name=Anita Petry	episodes=1 episode, 2020 	
+character=English Lecturer	name=Carl Austin	episodes=1 episode, 2020 	
+character=Bill	name=Jim Roche	episodes=1 episode, 2020 	
+character=Jenny	name=Shea	episodes=1 episode, 2020 	
+character=Jenny	name=Maya O	episodes=1 episode, 2020 	
+character=Fiona	name=Fiona Browne	episodes=1 episode, 2020 	
+character=Eoin	name=Abdelaziz Sanusi	episodes=1 episode, 2020 	
+character=Teaching Assistant 2	name=Ross Gaynor	episodes=1 episode, 2020 	
+character=Jason	name=Connor	episodes=1 episode, 2020 	
+character=Jason	name=Barry O	episodes=1 episode, 2020 	
+character=Exam Invigilator	name=Una Carroll	episodes=1 episode, 2020 	
+character=Student	name=Louschia Harding	episodes=1 episode, 2020 	
+character=Funeral Mourner	name=Joseph Palmer	episodes=1 episode, 2020 	
+character=Funeral Morner	name=Elena Tully	episodes=1 episode, 2020 	
+character=Marianne	name=Daisy Edgar-Jones	episodes=2023 watched	

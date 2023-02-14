@@ -1,0 +1,220 @@
+# http://fitlayout.github.io/resource/art99 -> https://www.imdb.com/title/tt7949218/fullcredits/
+character=Baba Voss	name=Jason Momoa	episodes=24 episodes, 2019-2022 	
+character=Queen Kane	name=Sylvia Hoeks	episodes=24 episodes, 2019-2022 	
+character=Maghra	name=Hera Hilmar	episodes=24 episodes, 2019-2022 	
+character=Tamacti Jun	name=Christian Camargo	episodes=24 episodes, 2019-2022 	
+character=Kofun	name=Archie Madekwe	episodes=24 episodes, 2019-2022 	
+character=Haniwa	name=Nesta Cooper	episodes=24 episodes, 2019-2022 	
+character=Charlotte	name=Olivia Cheng	episodes=16 episodes, 2021-2022 	
+character=Wren	name=Eden Epstein	episodes=16 episodes, 2021-2022 	
+character=Lord Harlan	name=Tom Mison	episodes=16 episodes, 2021-2022 	
+character=Paris	name=Alfre Woodard	episodes=16 episodes, 2019-2021 	
+character=Captain Gosset	name=Martin Roach	episodes=12 episodes, 2021-2022 	
+character=Bow Lion	name=Yadira Guevara-Prip	episodes=11 episodes, 2019-2022 	
+character=Tormada	name=David Hewlett	episodes=10 episodes, 2021-2022 	
+character=Toad	name=Hoon Lee	episodes=8 episodes, 2021 	
+character=Edo Voss	name=Dave Bautista	episodes=8 episodes, 2021 	
+character=Witchfinder Warrior	name=Josh Blacker	episodes=8 episodes, 2019 	
+character=Boots	name=Franz Drameh	episodes=7 episodes, 2019-2021 	
+character=Witchfinder Ayura	name=Christian Sloan	episodes=7 episodes, 2019 	
+character=Harmony	name=Nina Kiri	episodes=7 episodes, 2021-2022 	
+character=Lord Torrance	name=Ron Kennell	episodes=7 episodes, 2021-2022 	
+character=Maddox	name=Matthew G. Taylor	episodes=7 episodes, 2022 	
+character=Lucien	name=Dean Jagger	episodes=6 episodes, 2022 	
+character=Nevla 	name=Tamara Tunie	episodes=6 episodes, 2021-2022 	
+character=The Bank	name=Tamara Tunie	episodes=6 episodes, 2021-2022 	
+character=Oloman	name=Dayo Okeniyi	episodes=6 episodes, 2019-2022 	
+character=Shiloh	name=Murry Peeters	episodes=6 episodes, 2022 	
+character=Lord Diego	name=Michael Reventar	episodes=6 episodes, 2021-2022 	
+character=Ambassador Trovere	name=Trieste Kelly Dunn	episodes=5 episodes, 2022 	
+character=The Military	name=Joe Flanigan	episodes=5 episodes, 2021-2022 	
+character=Lu	name=Mainei Kinimaka	episodes=5 episodes, 2019-2022 	
+character=The Dreamer	name=Tantoo Cardinal	episodes=4 episodes, 2019 	
+character=Gether Bax	name=Mojean Aria	episodes=4 episodes, 2019 	
+character=Jerlamarel	name=Joshua Henry	episodes=4 episodes, 2019-2021 	
+character=Souter Bax	name=Marilee Talkington	episodes=4 episodes, 2019 	
+character=Cora	name=Jessica Harper	episodes=4 episodes, 2019-2021 	
+character=Lord Dune	name=Peter Bryant	episodes=4 episodes, 2019 	
+character=Matal	name=Bree Klauser	episodes=4 episodes, 2019 	
+character=Dax	name=Alex Breaux	episodes=4 episodes, 2021 	
+character=Sheva	name=Damaris Lewis	episodes=4 episodes, 2019-2022 	
+character=The People	name=James Immekus	episodes=4 episodes, 2021-2022 	
+character=Lord Unoa	name=Hiro Kanagawa	episodes=4 episodes, 2019 	
+character=Massler	name=Maxime Savaria	episodes=4 episodes, 2021-2022 	
+character=Wolffe	name=Riley Klassen	episodes=4 episodes, 2022 	
+character=Cutter	name=Timothy Webber	episodes=3 episodes, 2019 	
+character=Nyrie	name=Lauren Glazier	episodes=3 episodes, 2019 	
+character=Nonni	name=Raven Scott	episodes=3 episodes, 2019-2022 	
+character=Frye	name=Adam Morse	episodes=3 episodes, 2021 	
+character=Shadow Warrior 	name=Cassandra Naud	episodes=3 episodes, 2019 	
+character=Arca	name=Luc Roderique	episodes=3 episodes, 2019 	
+character=Trivantian Ayura	name=Stela Trudeau	episodes=3 episodes, 2022 	
+character=Shadow Warrior 	name=Shalyn Ferdinand	episodes=3 episodes, 2019 	
+character=Kerrigan	name=Luke Humphrey	episodes=3 episodes, 2021 	
+character=Guntar	name=Christopher Tai	episodes=3 episodes, 2022 	
+character=Rockwell	name=Adrian Groulx	episodes=3 episodes, 2021 	
+character=Nellicut	name=Minh Ly	episodes=3 episodes, 2022 	
+character=Wallen	name=Craig Burnatowski	episodes=3 episodes, 2022 	
+character=Hayah	name=Amani Avery	episodes=3 episodes, 2019-2022 	
+character=Yarnes	name=Ryan Boyko	episodes=3 episodes, 2022 	
+character=Hoveh	name=Aiyanna Miorin	episodes=3 episodes, 2019-2022 	
+character=Trivantian Trebuchet Captain	name=Benton Hudder	episodes=3 episodes, 2022 	
+character=Soldier	name=Fraser Aitcheson	episodes=3 episodes, 2021 	
+character=Courtier	name=Jefferson Halliday	episodes=3 episodes, 2019 	
+character=Lady Benik	name=Farah Merani	episodes=3 episodes, 2022 	
+character=Trivantian Soldier	name=Jason Crawford	episodes=3 episodes, 2022 	
+character=Overseer	name=Patricia Drake	episodes=2 episodes, 2019 	
+character=Lt. Jurado	name=Kamran Fulleylove	episodes=2 episodes, 2019 	
+character=Ferik	name=Brandon McGibbon	episodes=2 episodes, 2021 	
+character=Sinjay	name=Brianna Clark	episodes=2 episodes, 2019 	
+character=Andal	name=Clint Rudderham	episodes=2 episodes, 2021 	
+character=Onica	name=Nicole Stamp	episodes=2 episodes, 2021 	
+character=Sheena	name=Janai Attieh	episodes=2 episodes, 2022 	
+character=Lord Sak	name=Adrian Hough	episodes=2 episodes, 2019 	
+character=Sammy	name=Christian Scott	episodes=2 episodes, 2022 	
+character=Lady Zee	name=Alex Bulmer	episodes=2 episodes, 2019 	
+character=Lord Carne	name=Donovan Tildesley	episodes=2 episodes, 2019 	
+character=Lady in Waiting	name=Ellen MacNevin	episodes=2 episodes, 2019 	
+character=Baker Lefet	name=Michael Brown	episodes=2 episodes, 2022 	
+character=Coal Miner Catal Ina	name=Jimmy Makris	episodes=2 episodes, 2022 	
+character=Peltz	name=Patrick Mark	episodes=2 episodes, 2022 	
+character=Lieutenant Moss	name=George Nickolas K.	episodes=2 episodes, 2022 	
+character=Witchfinder	name=Rey Casiano	episodes=2 episodes, 2021 	
+character=Delia	name=Kyra Zagorsky	episodes=1 episode, 2019 	
+character=Wech	name=Aleks Paunovic	episodes=1 episode, 2019 	
+character=Age 12	name=Jaeden Noel	episodes=1 episode, 2019 	
+character=Kofun 	name=Jaeden Noel	episodes=1 episode, 2019 	
+character=Ambassador Scopus	name=David Eisner	episodes=1 episode, 2021 	
+character=Michaela	name=Kyra Harper	episodes=1 episode, 2022 	
+character=Age 12	name=Millie Davis	episodes=1 episode, 2019 	
+character=Haniwa 	name=Millie Davis	episodes=1 episode, 2019 	
+character=Maldeogo	name=Nicolas Grimes	episodes=1 episode, 2021 	
+character=Lady An	name=Gabrielle Rose	episodes=1 episode, 2019 	
+character=King	name=Gardiner Millar	episodes=1 episode, 2019 	
+character=Scentier 1	name=Camillia Mahal	episodes=1 episode, 2019 	
+character=Sammy	name=Christian Darrel Scott	episodes=1 episode, 2019 	
+character=Commander Watts	name=Michelle Giroux	episodes=1 episode, 2021 	
+character=Rebel Witchfinder	name=Kostas Tourlentes	episodes=1 episode, 2022 	
+character=Young Maghra	name=Ava Joy	episodes=1 episode, 2019 	
+character=Archer	name=Leo Rano	episodes=1 episode, 2019 	
+character=Sheena	name=Jaidyn Triplett	episodes=1 episode, 2019 	
+character=Scentier 2	name=Dagan Nish	episodes=1 episode, 2019 	
+character=Ilun	name=Sharon Taylor	episodes=1 episode, 2019 	
+character=Tipi Village	name=Robert Corness	episodes=1 episode, 2019 	
+character=Old Man 	name=Robert Corness	episodes=1 episode, 2019 	
+character=Yakis	name=Eddie McGee	episodes=1 episode, 2021 	
+character=House Guard	name=Daniel Barra-Berger	episodes=1 episode, 2021 	
+character=Bella	name=Amelia Sargisson	episodes=1 episode, 2022 	
+character=Mother	name=Amelia Sargisson	episodes=1 episode, 2022 	
+character=Trivantian Soldier	name=Bola Olubowale	episodes=1 episode, 2021 	
+character=Handmaiden	name=Emily Nixon	episodes=1 episode, 2021 	
+character=Commander Gretar	name=Ryan Allen	episodes=1 episode, 2022 	
+character=Remend Skelt	name=Shawn Devlin	episodes=1 episode, 2022 	
+character=Bella	name=Abigail Walz	episodes=1 episode, 2022 	
+character=Months	name=Nayab Ibodullo	episodes=1 episode, 2022 	
+character=Wolffe 	name=Nayab Ibodullo	episodes=1 episode, 2022 	
+character=Oxe	name=Ese Atawo	episodes=1 episode, 2019 	
+character=Payan Soldier	name=Aimee Bessada	episodes=1 episode, 2021 	
+character=Palace Witchfinder	name=James Eddy	episodes=1 episode, 2021 	
+character=Edo Commando	name=Breanna Dillon	episodes=1 episode, 2021 	
+character=Colonel Stellan	name=Brian Hamman	episodes=1 episode, 2022 	
+character=Handmaiden	name=Kathy Beitz	episodes=1 episode, 2022 	
+character=Colonel Farks	name=Alex Zahara	episodes=1 episode, 2019 	
+character=Salvin Leader	name=Shayla Brown	episodes=1 episode, 2021 	
+character=Ayura	name=Susanna Fournier	episodes=1 episode, 2021 	
+character=Lt. Raya	name=Danijel Mandic	episodes=1 episode, 2021 	
+character=Mourning Mother	name=Alison J. Palmer	episodes=1 episode, 2021 	
+character=Pensian Singer	name=Ali Hand	episodes=1 episode, 2022 	
+character=Row Vano	name=Hayden Finkelshtain	episodes=1 episode, 2022 	
+character=Rider	name=Tommy Clarke	episodes=1 episode, 2019 	
+character=Singing Woman	name=Chelsea Russell	episodes=1 episode, 2021 	
+character=Valier Tribe Member	name=Xavier Schoppel	episodes=1 episode, 2021 	
+character=Yeliss Leader	name=Victor Mifsud	episodes=1 episode, 2021 	
+character=Pensian Singer	name=Simone Soman	episodes=1 episode, 2022 	
+character=Fethin	name=Megan Charpentier	episodes=1 episode, 2019 	
+character=Alkenny Chanter	name=Oliver Peters	episodes=1 episode, 2019 	
+character=Zechan	name=Oliver Becker	episodes=1 episode, 2021 	
+character=Reyenne Leader	name=Samantha Moore	episodes=1 episode, 2021 	
+character=Alkenny Drummer	name=Spencer Prewett	episodes=1 episode, 2019 	
+character=Stall Holder 	name=Bola Omodara	episodes=1 episode, 2019 	
+character=Vienna	name=Atlin Mitchell	episodes=1 episode, 2021 	
+character=Trivantian Trebuchet Operator	name=Adam Ahrens	episodes=1 episode, 2022 	
+character=Stall Holder 	name=Jackie Blackmore	episodes=1 episode, 2019 	
+character=Quito	name=Mitra Suri	episodes=1 episode, 2021 	
+character=Smithee	name=Ian Matthews	episodes=1 episode, 2021 	
+character=Elder Council Official	name=Sarah Gale	episodes=1 episode, 2021 	
+character=Alpha Flesh Eater	name=Glenn Ennis	episodes=1 episode, 2022 	
+character=Pennsan Sketchy Man	name=Bart Badzioch	episodes=1 episode, 2022 	
+character=Gilthee	name=Greg Leach	episodes=1 episode, 2022 	
+character=Trivantian Trebuchet Operator	name=Bryan Morrison	episodes=1 episode, 2022 	
+character=Young Man	name=Nicco Del Rio	episodes=1 episode, 2019 	
+character=Snell	name=Josh Cruddas	episodes=1 episode, 2021 	
+character=Trivantian Soldier	name=Nickolas Baric	episodes=1 episode, 2021 	
+character=Storyteller	name=Michael Giel	episodes=1 episode, 2021 	
+character=Witchfinder	name=Sean Kavanaugh	episodes=1 episode, 2021 	
+character=Flesh Eater	name=Akotene Chanoine	episodes=1 episode, 2022 	
+character=Pennsan Sketchy Men	name=Eli Martyr	episodes=1 episode, 2022 	
+character=Rebel Witchfinder	name=Tyler Williams	episodes=1 episode, 2022 	
+character=Captain Armagon	name=Dennis Lafond	episodes=1 episode, 2022 	
+character=Slayer	name=Rocky Anderson	episodes=1 episode, 2019 	
+character=Age 3	name=Lamine Quiqui	episodes=1 episode, 2019 	
+character=Kofun 	name=Lamine Quiqui	episodes=1 episode, 2019 	
+character=Slaver	name=Glenn Edward Gyorffy	episodes=1 episode, 2021 	
+character=Sergeant	name=Jonah Hundert	episodes=1 episode, 2021 	
+character=Trivantian Soldier	name=Chris Mark	episodes=1 episode, 2022 	
+character=Rebel Witchfinder	name=Geoff Scovell	episodes=1 episode, 2022 	
+character=Pennsan Royal Guard	name=Olympia Lukis	episodes=1 episode, 2022 	
+character=Mom	name=Kelly Metzger	episodes=1 episode, 2019 	
+character=Fethin	name=Kelly Metzger	episodes=1 episode, 2019 	
+character=Woman 	name=Kelly Metzger	episodes=1 episode, 2019 	
+character=Haniwa 	name=Hayven Oladapo	episodes=1 episode, 2019 	
+character=Age 3	name=Hayven Oladapo	episodes=1 episode, 2019 	
+character=Scent Chef	name=Noah Lamanna	episodes=1 episode, 2021 	
+character=Checkpoint Guard	name=Alex Somerville	episodes=1 episode, 2021 	
+character=Rebel Witchfinder	name=Graeme Guthrie	episodes=1 episode, 2022 	
+character=Wolffe	name=Sequoia Paterson	episodes=1 episode, 2022 	
+character=Priest	name=Darren Moore	episodes=1 episode, 2019 	
+character=Age 7	name=Dominic Mariche	episodes=1 episode, 2019 	
+character=Kofun 	name=Dominic Mariche	episodes=1 episode, 2019 	
+character=Rebel Witchfinder	name=Alex Chung	episodes=1 episode, 2022 	
+character=Age 7	name=Jordana Blake	episodes=1 episode, 2019 	
+character=Haniwa 	name=Jordana Blake	episodes=1 episode, 2019 	
+character=Witch 	name=Iris Paluly	episodes=1 episode, 2019 	
+character=Rebel Witchfinder	name=Stéphane Julien	episodes=1 episode, 2022 	
+character=Witch 	name=Wesley Salter	episodes=1 episode, 2019 	
+character=Alkenny Elder	name=Linda Curial	episodes=1 episode, 2019 	
+character=Soldier	name=Mustafa Bulut	episodes=1 episode, 2021 	
+character=Healer	name=Mike Chow	episodes=1 episode, 2021 	
+character=Alkenny Teacher	name=Yvonne Angeles	episodes=1 episode, 2019 	
+character=Witch 	name=Nova Stevens	episodes=1 episode, 2019 	
+character=Torturer	name=Gavin Fox	episodes=1 episode, 2021 	
+character=Ryder	name=Moses Nyarko	episodes=1 episode, 2021 	
+character=Roscoe	name=Stelth Ng	episodes=1 episode, 2022 	
+character=Alkenny Kid 	name=Nathaniel Adams	episodes=1 episode, 2019 	
+character=Pimp	name=Ken Hall	episodes=1 episode, 2021 	
+character=Flint	name=Simon Northwood	episodes=1 episode, 2021 	
+character=Witch 	name=Jarrett Carlington	episodes=1 episode, 2019 	
+character=Alkenny Kid 	name=Damian Jansen	episodes=1 episode, 2019 	
+character=Herald	name=Sammila Vassell	episodes=1 episode, 2021 	
+character=Queen	name=Sammila Vassell	episodes=1 episode, 2021 	
+character=Large Man	name=Steven P. Park	episodes=1 episode, 2022 	
+character=Pennsan Royal Guard	name=Ryan Hooey	episodes=1 episode, 2022 	
+character=Alkenny Kid 	name=Maya Keefe	episodes=1 episode, 2019 	
+character=Protestor	name=Hannan Younis	episodes=1 episode, 2021 	
+character=Pennsan Stablehand	name=Anthony Gerbrandt	episodes=1 episode, 2022 	
+character=Alkenny Kid 	name=Winston Cabagnot	episodes=1 episode, 2019 	
+character=Protestor	name=Robin Frigeri	episodes=1 episode, 2021 	
+character=Trivantian Commander	name=Dan Tokarew	episodes=1 episode, 2022 	
+character=Alkenny Kid 	name=Christopher Cabagnot	episodes=1 episode, 2019 	
+character=Protestor	name=Jesse Buck	episodes=1 episode, 2021 	
+character=River Child	name=Margot Wehrle	episodes=1 episode, 2019 	
+character=Marketplace Citizen	name=Jennifer Merchant	episodes=1 episode, 2021 	
+character=Trivantian Soldier	name=Mugabi Mpagi	episodes=1 episode, 2022 	
+character=Marketplace Citizen	name=Jonathan Ellul	episodes=1 episode, 2021 	
+character=Marketplace Citizen	name=Jessica Allen	episodes=1 episode, 2021 	
+character=Payan Luminary	name=Jim Garrow	episodes=1 episode, 2021 	
+character=Trivantian Commander	name=Mercedes Blanche	episodes=1 episode, 2022 	
+character=Trivantian Soldier	name=Jeremy Durgana	episodes=3 episodes, 2021 	
+character=Edo Voss	name=Kenneth Mitchell	episodes=1 episode, 2019 	
+character=Indigo Man	name=Nicholas Dohy	episodes=1 episode, 2019 	
+character=Singer	name=Bree Ali	episodes=1 episode, 2021 	

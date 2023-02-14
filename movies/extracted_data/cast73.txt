@@ -1,0 +1,82 @@
+# http://fitlayout.github.io/resource/art73 -> https://www.imdb.com/title/tt7985576/fullcredits/
+character=Charles Sobhraj	name=Tahar Rahim	episodes=8 episodes, 2021 	
+character=Herman Knippenberg	name=Billy Howle	episodes=8 episodes, 2021 	
+character=Marie-Andrée Leclerc	name=Jenna Coleman	episodes=8 episodes, 2021 	
+character=Angela Knippenberg	name=Ellie Bamber	episodes=8 episodes, 2021 	
+character=Nadine Gires	name=Mathilde Warnier	episodes=8 episodes, 2021 	
+character=Remi Gires	name=Grégoire Isvarine	episodes=8 episodes, 2021 	
+character=Paul Siemons	name=Tim McInnerny	episodes=8 episodes, 2021 	
+character=Ajay Chowdhury	name=Amesh Edireweera	episodes=7 episodes, 2021 	
+character=Lawana	name=Apasiri Kulthanan	episodes=7 episodes, 2021 	
+character=Ambassador van Dongen	name=William Brand	episodes=7 episodes, 2021 	
+character=Kannika	name=Chotika Sintuboonkul	episodes=5 episodes, 2021 	
+character=Yotin	name=Kenneth Won	episodes=4 episodes, 2021 	
+character=Dominique Renelleau	name=Fabien Frankel	episodes=4 episodes, 2021 	
+character=Gilbert Redland	name=Adam Rothenberg	episodes=4 episodes, 2021 	
+character=Vitali Hakim	name=Ilker Kaleli	episodes=4 episodes, 2021 	
+character=Suda Romyen	name=Kitty Chicha	episodes=4 episodes, 2021 	
+character=Helena Dekker	name=Ellie de Lange	episodes=3 episodes, 2021 	
+character=Willem Bloem	name=Armand Rosbak	episodes=3 episodes, 2021 	
+character=Major General Janthasin	name=Sahajak Boonthanakit	episodes=3 episodes, 2021 	
+character=Juliette Voclain	name=Stacy Martin	episodes=3 episodes, 2021 	
+character=Teresa Knowlton	name=Alice Englert	episodes=3 episodes, 2021 	
+character=Laver	name=Damon Herriman	episodes=3 episodes, 2021 	
+character=Romyen	name=Surasak Chaiyaat	episodes=3 episodes, 2021 	
+character=Phung Chabanol	name=Cathy Min Jung	episodes=2 episodes, 2021 	
+character=Poste Restante Manager	name=Teeradech Tisanuruk	episodes=2 episodes, 2021 	
+character=Mrs. van Dongen	name=Nadhini Sirisinha	episodes=2 episodes, 2021 	
+character=Moira Callaghan	name=Lucy Newman-Williams	episodes=2 episodes, 2021 	
+character=Stéphane Parry	name=Alma Jodorowsky	episodes=2 episodes, 2021 	
+character=Graeme Stanton	name=Stuart Bowman	episodes=2 episodes, 2021 	
+character=Dagmar Boeder	name=Nicole Beutler	episodes=2 episodes, 2021 	
+character=Otto Boeder	name=Johan van Assche	episodes=2 episodes, 2021 	
+character=Lieutenant Colonel Sompol Suthimai	name=Theerapat Sajakul	episodes=2 episodes, 2021 	
+character=Thapa	name=Pravessh Rana	episodes=2 episodes, 2021 	
+character=Count Michel-Andre Jurion	name=Raphael Roger Levy	episodes=2 episodes, 2021 	
+character=Douglas Cartwright	name=Tim McMullan	episodes=2 episodes, 2021 	
+character=Vanessa Knippenberg	name=Katrina Grey	episodes=1 episode, 2021 	
+character=Luc Salomon	name=Geoffrey Breton	episodes=1 episode, 2021 	
+character=Monsieur Renelleau	name=Gigi Velicitat	episodes=1 episode, 2021 	
+character=Linnea	name=Saana Koivisto	episodes=1 episode, 2021 	
+character=Madame Renelleau	name=Maria Mellblom	episodes=1 episode, 2021 	
+character=Jean-Olivier Bellanger	name=Christophe Serge Gerber	episodes=1 episode, 2021 	
+character=Jules Dupont	name=James Gerard	episodes=1 episode, 2021 	
+character=Jean Huygens	name=Thomas Ryckewaert	episodes=1 episode, 2021 	
+character=Cleo Parry	name=Megan Gammons	episodes=1 episode, 2021 	
+character=Mme Parry	name=Gabrielle Lazure	episodes=1 episode, 2021 	
+character=Patty	name=Mariann Schindler	episodes=1 episode, 2021 	
+character=Hip Man	name=Eduard Karapetyan	episodes=1 episode, 2021 	
+character=Hip Woman	name=Anaïs Stubert	episodes=1 episode, 2021 	
+character=Tommy	name=Bertie Jones	episodes=1 episode, 2021 	
+character=Captain Chupong	name=Charlie Ruedpokanon	episodes=1 episode, 2021 	
+character=Laxman	name=Darshan Jariwala	episodes=1 episode, 2021 	
+character=Karl	name=Tobias Schulze	episodes=1 episode, 2021 	
+character=Street Boy	name=Jaidev Notay	episodes=1 episode, 2021 	
+character=Iris May	name=Lucan Gillespie	episodes=1 episode, 2021 	
+character=Erica	name=Alexandra Merle	episodes=1 episode, 2021 	
+character=Connie-Jo Bronzich	name=Dasha Nekrasova	episodes=1 episode, 2021 	
+character=Bastien	name=Colin Stinton	episodes=1 episode, 2021 	
+character=Laurent Carrière	name=Benjamin Braz	episodes=1 episode, 2021 	
+character=Greg Raynott	name=Donnell	episodes=1 episode, 2021 	
+character=Greg Raynott	name=Ryan O	episodes=1 episode, 2021 	
+character=De Groot	name=Philip Wilson	episodes=1 episode, 2021 	
+character=Viola Raynott	name=Libby Jennings	episodes=1 episode, 2021 	
+character=Madhu Sobhraj Aged 2	name=Alicia Grace Jarvis	episodes=1 episode, 2021 	
+character=Santa Cruz Receptionist	name=Dontri Wannarot	episodes=1 episode, 2021 	
+character=Madhu Sobhraj Aged 6	name=Megan Jeremiah	episodes=1 episode, 2021 	
+character=Priest	name=Ezra Faroque Khan	episodes=1 episode, 2021 	
+character=Madame Renelleau	name=Laurence Neveu	episodes=1 episode, 2021 	
+character=German Student	name=Julia Ariete	episodes=1 episode, 2021 	
+character=Celia Wilson	name=Ruby Ashbourne Serkis	episodes=1 episode, 2021 	
+character=Newsreader	name=Nigel Whitmey	episodes=1 episode, 2021 	
+character=Interpol Officer	name=Dimitri Jeannest	episodes=1 episode, 2021 	
+character=Bar Customer	name=Ulf Pilblad	episodes=1 episode, 2021 	
+character=Backpacker	name=Jennifer Seele	episodes=1 episode, 2021 	
+character=Hippy	name=Andrey Kasushkin	episodes=1 episode, 2021 	
+character=Dejongh	name=Greg Garcia	episodes=3 episodes, 2021 	
+character=Cafe Customer	name=Bern Collaço	episodes=2 episodes, 2021 	
+character=Family	name=Manorma Joisi	episodes=1 episode, 2021 	
+character=Hippy	name=Maverick Kang Jr.	episodes=1 episode, 2021 	
+character=Hippie	name=Casey Clark	episodes=1 episode, 2021 	
+character=Driver at French Border	name=Daniel Gutin	episodes=1 episode, 2021 	
+character=Hippy	name=Gregory P.M. Trigo	episodes=1 episode, 2021 	

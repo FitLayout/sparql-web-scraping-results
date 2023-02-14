@@ -1,0 +1,1305 @@
+# http://fitlayout.github.io/resource/art3 -> https://www.imdb.com/title/tt0285331/fullcredits/
+character=Jack Bauer	name=Kiefer Sutherland	episodes=195 episodes, 2001-2010 	
+character=Chloe O	name=Mary Lynn Rajskub	episodes=125 episodes, 2003-2010 	
+character=Brian	name=Mary Lynn Rajskub	episodes=125 episodes, 2003-2010 	
+character=Tony Almeida	name=Carlos Bernard	episodes=114 episodes, 2001-2009 	
+character=President David Palmer	name=Dennis Haysbert	episodes=78 episodes, 2001-2007 	
+character=Kim Bauer	name=Elisha Cuthbert	episodes=78 episodes, 2001-2010 	
+character=Bill Buchanan	name=James Morrison	episodes=62 episodes, 2005-2009 	
+character=Michelle Dessler	name=Reiko Aylesworth	episodes=61 episodes, 2002-2006 	
+character=Mike Novick	name=Jude Ciccolella	episodes=58 episodes, 2001-2006 	
+character=Audrey Raines	name=Kim Raver	episodes=52 episodes, 2004-2007 	
+character=Aaron Pierce	name=Glenn Morshower	episodes=49 episodes, 2001-2009 	
+character=Wayne Palmer	name=D.B. Woodside	episodes=48 episodes, 2003-2007 	
+character=Curtis Manning	name=Roger Cross	episodes=45 episodes, 2005-2007 	
+character=Sherry Palmer	name=Penny Johnson Jerald	episodes=45 episodes, 2001-2004 	
+character=President Allison Taylor	name=Cherry Jones	episodes=43 episodes, 2009-2010 	
+character=President Charles Logan	name=Gregory Itzin	episodes=43 episodes, 2005-2010 	
+character=Renee Walker	name=Annie Wersching	episodes=37 episodes, 2009-2010 	
+character=Edgar Stiles	name=Louis Lombardi	episodes=37 episodes, 2005-2006 	
+character=Nina Myers	name=Sarah Clarke	episodes=36 episodes, 2001-2004 	
+character=Ethan Kanin	name=Bob Gunton	episodes=31 episodes, 2007-2010 	
+character=Karen Hayes	name=Jayne Atkinson	episodes=30 episodes, 2006-2007 	
+character=Morris O	name=Carlo Rota	episodes=29 episodes, 2006-2009 	
+character=Brian	name=Carlo Rota	episodes=29 episodes, 2006-2009 	
+character=Milo Pressman	name=Eric Balfour	episodes=27 episodes, 2001-2007 	
+character=George Mason	name=Xander Berkeley	episodes=27 episodes, 2001-2003 	
+character=Kate Warner	name=Sarah Wynter	episodes=25 episodes, 2002-2003 	
+character=Martha Logan	name=Jean Smart	episodes=24 episodes, 2006-2007 	
+character=Teri Bauer	name=Leslie Hope	episodes=24 episodes, 2001-2002 	
+character=Tom Lennox	name=Peter MacNicol	episodes=24 episodes, 2007 	
+character=Chase Edmunds	name=James Badge Dale	episodes=24 episodes, 2003-2004 	
+character=Arlo Glass	name=John Boyd	episodes=24 episodes, 2010 	
+character=Cole Ortiz	name=Freddie Prinze Jr.	episodes=24 episodes, 2010 	
+character=Nadia Yassir	name=Marisol Nichols	episodes=24 episodes, 2007 	
+character=Tim Woods	name=Frank John Hughes	episodes=23 episodes, 2009-2010 	
+character=Ryan Chappelle	name=Paul Schulze	episodes=22 episodes, 2002-2004 	
+character=Jackie	name=Marci Michelle	episodes=20 episodes, 2005-2009 	
+character=Adam Kaufman	name=Zachary Quinto	episodes=23 episodes, 2003-2004 	
+character=Agent Berkin	name=Greg Hartigan	episodes=1 episode, 2002-2004 	
+character=Janis Gold	name=Janeane Garofalo	episodes=21 episodes, 2009 	
+character=Kayla Hassan	name=Nazneen Contractor	episodes=21 episodes, 2010 	
+character=CTU Staffer	name=Dana Bunch	episodes=2 episodes, 2003-2009 	
+character=Dana Walsh	name=Katee Sackhoff	episodes=20 episodes, 2010 	
+character=Dalia Hassan	name=Necar Zadegan	episodes=20 episodes, 2010 	
+character=Larry Moss	name=Jeffrey Nordling	episodes=19 episodes, 2009 	
+character=Rick Allen	name=Daniel Bess	episodes=18 episodes, 2001-2002 	
+character=Lynne Kresge	name=Michelle Forbes	episodes=18 episodes, 2002-2003 	
+character=President John Keeler	name=Geoff Pierson	episodes=18 episodes, 2003-2005 	
+character=Brian Hastings	name=Mykelti Williamson	episodes=17 episodes, 2010 	
+character=Habib Marwan	name=Arnold Vosloo	episodes=17 episodes, 2005 	
+character=Agent Daniel Reed	name=Steve Lanza	episodes=2 episodes, 2003-2010 	
+character=President Omar Hassan	name=Anil Kapoor	episodes=15 episodes, 2010 	
+character=Andre Drazen	name=Zeljko Ivanek	episodes=14 episodes, 2002 	
+character=Abu Fayed	name=Adoni Maropis	episodes=15 episodes, 2007 	
+character=President Yuri Suvarov	name=Nick Jameson	episodes=14 episodes, 2006-2010 	
+character=Vice President Noah Daniels	name=Powers Boothe	episodes=14 episodes, 2007 	
+character=Gael Ortega	name=Jesse Borrego	episodes=14 episodes, 2003-2004 	
+character=Olivia Taylor	name=Sprague Grayden	episodes=14 episodes, 2009 	
+character=Marie Warner	name=Laura Harris	episodes=14 episodes, 2002-2003 	
+character=Erin Driscoll	name=Alberta Watson	episodes=13 episodes, 2004-2005 	
+character=Keith Palmer	name=Vicellous Shannon	episodes=13 episodes, 2001-2002 	
+character=Cheng Zhi	name=Tzi Ma	episodes=12 episodes, 2005-2007 	
+character=Henry Taylor	name=Colm Feore	episodes=12 episodes, 2009 	
+character=Behrooz Araz	name=Jonathan Ahdout	episodes=12 episodes, 2005 	
+character=Ira Gaines	name=Michael Massee	episodes=12 episodes, 2001-2002 	
+character=Rob Weiss	name=Chris Diamantopoulos	episodes=12 episodes, 2010 	
+character=Sarah Gavin	name=Lana Parrilla	episodes=12 episodes, 2005 	
+character=Ramon Salazar	name=Joaquim de Almeida	episodes=12 episodes, 2003-2004 	
+character=Hector Salazar	name=Vincent Laresca	episodes=12 episodes, 2003-2004 	
+character=Bob Warner	name=John Terry	episodes=12 episodes, 2002-2003 	
+character=Marilyn Bauer	name=Rena Sofer	episodes=12 episodes, 2007 	
+character=Admiral John Smith	name=Ryan Cutrona	episodes=12 episodes, 2007-2010 	
+character=Mike Doyle	name=Ricky Schroder	episodes=12 episodes, 2007 	
+character=Dina Araz	name=Shohreh Aghdashloo	episodes=12 episodes, 2005 	
+character=Dr. Sunny Macer	name=Christina Chang	episodes=11 episodes, 2003-2009 	
+character=Carrie Turner	name=Lourdes Benedicto	episodes=11 episodes, 2003 	
+character=Jamey Farrell	name=Karina Arroyave	episodes=11 episodes, 2001-2002 	
+character=Vladimir Bierko	name=Julian Sands	episodes=11 episodes, 2006 	
+character=Walt Cummings	name=John Allen Nelson	episodes=11 episodes, 2005-2006 	
+character=Tom Baker	name=Daniel Dae Kim	episodes=11 episodes, 2003-2004 	
+character=Tarin Faroush	name=T.J. Ramini	episodes=11 episodes, 2010 	
+character=Alan York	name=Richard Burgi	episodes=11 episodes, 2001-2002 	
+character=Christopher Henderson	name=Peter Weller	episodes=11 episodes, 2006 	
+character=Claudia Hernandez	name=Vanessa Ferlito	episodes=10 episodes, 2003-2004 	
+character=Agent Ryan	name=Alexis Cassar	episodes=11 episodes, 2007 	
+character=Reza Naiyeer	name=Phillip Rhys Chaudhary	episodes=10 episodes, 2002-2003 	
+character=Jonas Hodges	name=Jon Voight	episodes=10 episodes, 2009 	
+character=Agent John	name=Michael Jacey	episodes=1 episode, 2002-2007 	
+character=Stephen Saunders	name=Paul Blackthorne	episodes=10 episodes, 2004 	
+character=Sean Hillinger	name=Rhys Coiro	episodes=10 episodes, 2009 	
+character=Lynn McGill	name=Sean Astin	episodes=10 episodes, 2006 	
+character=Navi Araz	name=Nestor Serrano	episodes=10 episodes, 2005 	
+character=Samir Mehran	name=Mido Hamada	episodes=10 episodes, 2010 	
+character=Evelyn Martin	name=Sandrine Holt	episodes=10 episodes, 2006 	
+character=Lisa Miller	name=Kari Matchett	episodes=10 episodes, 2007 	
+character=Miles Papazian	name=Stephen Spinella	episodes=10 episodes, 2006 	
+character=Josh Bauer	name=Evan Ellingson	episodes=10 episodes, 2007 	
+character=Paul Raines	name=James Frain	episodes=9 episodes, 2005 	
+character=Sandra Palmer	name=Regina King	episodes=9 episodes, 2007 	
+character=Michael Amador	name=Greg Ellis	episodes=9 episodes, 2003-2004 	
+character=Kevin Wade	name=Clayne Crawford	episodes=9 episodes, 2010 	
+character=Patty Brooks	name=Tanya Wright	episodes=9 episodes, 2001-2002 	
+character=Lee Castle	name=Cameron Bancroft	episodes=9 episodes, 2005 	
+character=Colonel Iké Dubaku	name=Hakeem Kae-Kazim	episodes=9 episodes, 2009 	
+character=Jamot	name=Navid Negahban	episodes=9 episodes, 2005-2010 	
+character=Susan	name=Sarah Hollis	episodes=9 episodes, 2010 	
+character=Graem Bauer	name=Paul McCrane	episodes=9 episodes, 2006-2007 	
+character=Dr. Anne Packard	name=Wendy Crewson	episodes=8 episodes, 2003 	
+character=Megan Matheson	name=Skye McCole Bartusiak	episodes=8 episodes, 2002-2003 	
+character=Phillip Bauer	name=James Cromwell	episodes=8 episodes, 2007 	
+character=Jason Pillar	name=Reed Diamond	episodes=8 episodes, 2010 	
+character=Carl Webb	name=Zach Grenier	episodes=8 episodes, 2001-2002 	
+character=Reed Pollock	name=Chad Lowe	episodes=8 episodes, 2007 	
+character=Vice President Jim Prescott	name=Alan Dale	episodes=8 episodes, 2003-2004 	
+character=Dmitri Gredenko	name=Rade Serbedzija	episodes=8 episodes, 2007 	
+character=Farhad Hassan	name=Akbar Kurtha	episodes=8 episodes, 2010 	
+character=Nabeel	name=Hrach Titizian	episodes=7 episodes, 2007-2010 	
+character=Robin Powers	name=Tony Wayne	episodes=4 episodes, 2002-2007 	
+character=Rasheed	name=Henry Kingi Jr.	episodes=2 episodes, 2004-2009 	
+character=Gary Matheson	name=Billy Burke	episodes=7 episodes, 2002-2003 	
+character=Greg Seaton	name=Rory Cochrane	episodes=7 episodes, 2009 	
+character=Sergei Bazhaev	name=Jürgen Prochnow	episodes=7 episodes, 2010 	
+character=Mikhail Novakovich	name=Graham McTavish	episodes=7 episodes, 2010 	
+character=Marianne Taylor	name=Aisha Tyler	episodes=7 episodes, 2005 	
+character=Julia Milliken	name=Gina Torres	episodes=7 episodes, 2004 	
+character=Miguel	name=Innis Casey	episodes=7 episodes, 2002-2003 	
+character=Hamri Al-Assad	name=Alexander Siddig	episodes=7 episodes, 2007 	
+character=Dr. Marc Besson	name=Thomas Vincent Kelly	episodes=7 episodes, 2005-2006 	
+character=Senator Blaine Mayer	name=Kurtwood Smith	episodes=6 episodes, 2009 	
+character=Alexis Drazen	name=Misha Collins	episodes=7 episodes, 2002 	
+character=Reporter	name=Mark Thompson	episodes=7 episodes, 2003-2006 	
+character=Brian Gedge	name=Warren Kole	episodes=6 episodes, 2009 	
+character=Mandy	name=Mia Kirshner	episodes=5 episodes, 2001-2005 	
+character=General Benjamin Juma	name=Tony Todd	episodes=4 episodes, 2004-2009 	
+character=Kevin	name=Ryan Moore	episodes=2 episodes, 2002-2004 	
+character=CTU Agent Brian Pierson	name=Brian Durkin	episodes=1 episode, 2003-2004 	
+character=Alberta Green	name=Tamara Tunie	episodes=6 episodes, 2002 	
+character=Dan Mounts	name=Matthew Carey	episodes=6 episodes, 2001 	
+character=Richard Heller	name=Logan Marshall-Green	episodes=6 episodes, 2005 	
+character=Yusuf Auda	name=Donnie Keshawarz	episodes=6 episodes, 2003 	
+character=Diane Huxley	name=Connie Britton	episodes=6 episodes, 2006 	
+character=Janet York	name=Jacqui Maxwell	episodes=6 episodes, 2001 	
+character=Ule Matobo	name=Isaach De Bankolé	episodes=6 episodes, 2009 	
+character=Kyle Singer	name=Riley Smith	episodes=6 episodes, 2003 	
+character=Derek Huxley	name=Brady Corbet	episodes=6 episodes, 2006 	
+character=James Nathanson	name=Geraint Wyn Davies	episodes=6 episodes, 2006 	
+character=Vice President Hal Gardner	name=Ray Wise	episodes=6 episodes, 2006 	
+character=Agent Owen	name=Julian Morris	episodes=6 episodes, 2010 	
+character=Nicole Palmer	name=Megalyn Echikunwoke	episodes=6 episodes, 2001-2002 	
+character=Cara Bowden	name=Amy Price-Francis	episodes=6 episodes, 2009 	
+character=Spenser Wolff	name=Jonah Lotan	episodes=6 episodes, 2006 	
+character=Melanie	name=Navi Rawat	episodes=6 episodes, 2002 	
+character=Meredith Reed	name=Jennifer Westfeldt	episodes=6 episodes, 2010 	
+character=Josef Bazhaev	name=David Anders	episodes=6 episodes, 2010 	
+character=Ivan Erwich	name=Mark Sheppard	episodes=6 episodes, 2006 	
+character=Dr. Arthur Welton	name=Jim Holmes	episodes=6 episodes, 2007 	
+character=Gerry Whitehorn	name=Jamie McShane	episodes=6 episodes, 2003-2004 	
+character=Anya Suvarov	name=Kathleen Gati	episodes=6 episodes, 2006-2007 	
+character=Angela Nelson	name=Lesley Fera	episodes=6 episodes, 2009-2010 	
+character=Agent Dan	name=Jamison Jones	episodes=6 episodes, 2003-2007 	
+character=Melinda	name=Jolene Kim	episodes=6 episodes, 2007 	
+character=Rick Garcia	name=Rick Garcia	episodes=6 episodes, 2002-2006 	
+character=Walid Al-Rezani	name=Harry Lennix	episodes=5 episodes, 2007 	
+character=Nick Coughlin	name=Michael Filipowich	episodes=5 episodes, 2010 	
+character=Jonathan Matijevich	name=Rudolf Martin	episodes=5 episodes, 2001-2002 	
+character=Jane Saunders	name=Alexandra Lydon	episodes=5 episodes, 2004 	
+character=Eli Stram	name=Silas Weir Mitchell	episodes=5 episodes, 2002 	
+character=Shari Rothenberg	name=Kate Mara	episodes=5 episodes, 2006 	
+character=Erika	name=Ever Carradine	episodes=5 episodes, 2009 	
+character=Paula Schaeffer	name=Sara Gilbert	episodes=5 episodes, 2002 	
+character=Dr. Nicole Duncan	name=Andrea Thompson	episodes=5 episodes, 2003-2004 	
+character=Samantha Roth	name=Carly Pope	episodes=5 episodes, 2009 	
+character=Joe Stevens	name=Mark Derwin	episodes=5 episodes, 2009 	
+character=Syed Ali	name=Francesco Quinn	episodes=5 episodes, 2003 	
+character=Omar	name=Tony Plana	episodes=5 episodes, 2005 	
+character=Brad Hammond	name=Randle Mell	episodes=5 episodes, 2003-2004 	
+character=David Emerson	name=Peter Wingfield	episodes=5 episodes, 2009 	
+character=Jenny Dodge	name=Tamlyn Tomita	episodes=5 episodes, 2002-2006 	
+character=Eden Linley	name=Julie Claire	episodes=5 episodes, 2010 	
+character=Alan Wilson	name=Will Patton	episodes=5 episodes, 2009 	
+character=Linda	name=Agnes Bruckner	episodes=5 episodes, 2003 	
+character=Agent McCallan	name=Vic Chao	episodes=5 episodes, 2005-2009 	
+character=Agent Richards	name=John Eddins	episodes=5 episodes, 2002-2003 	
+character=Andrei	name=Robert Maffia	episodes=5 episodes, 2006 	
+character=Oriol	name=Josh Cruze	episodes=5 episodes, 2003-2004 	
+character=Victor	name=Dylan Kenin	episodes=5 episodes, 2007 	
+character=Nichols	name=Mark Aiken	episodes=5 episodes, 2009 	
+character=Marcus Alvers	name=Lothaire Bluteau	episodes=4 episodes, 2004 	
+character=Victor Drazen	name=Dennis Hopper	episodes=4 episodes, 2002 	
+character=Kalil Hasan	name=Anil Kumar	episodes=4 episodes, 2005 	
+character=Maya Driscoll	name=Angela Goethals	episodes=4 episodes, 2005 	
+character=Ali	name=Iman Nazemzadeh	episodes=4 episodes, 2010 	
+character=Omar	name=Marc Casabani	episodes=4 episodes, 2002-2003 	
+character=Stan Shavers	name=Richie Metcalfe	episodes=2 episodes, 2006-2007 	
+character=FBI Agent 	name=Brett DeLuca	episodes=2 episodes, 2009 	
+character=Terrorist	name=Michael Hilow	episodes=1 episode, 2002-2010 	
+character=Peter Kingsley	name=Tobin Bell	episodes=4 episodes, 2003 	
+character=Jim Ricker	name=Michael Madsen	episodes=4 episodes, 2010 	
+character=Eric Rayburn	name=Timothy Carhart	episodes=4 episodes, 2002 	
+character=Jibraan Al-Zarian	name=Omid Abtahi	episodes=4 episodes, 2005-2009 	
+character=Jonathan Wallace	name=Gregg Henry	episodes=4 episodes, 2003 	
+character=Elizabeth Nash	name=Kara Zediker	episodes=4 episodes, 2002 	
+character=Dr. Phil Parslow	name=Vincent Angell	episodes=4 episodes, 2002 	
+character=Scott Wallace	name=Michael Angarano	episodes=4 episodes, 2007 	
+character=Stokes	name=Michael Rodrick	episodes=4 episodes, 2009 	
+character=Davros	name=Doug Hutchison	episodes=4 episodes, 2010 	
+character=Craig Phillips	name=Doug Savant	episodes=4 episodes, 2004 	
+character=Alan Milliken	name=Albert Hall	episodes=4 episodes, 2004 	
+character=Darren McCarthy	name=David Hunt	episodes=4 episodes, 2007 	
+character=Martin Collier	name=Leland Orser	episodes=4 episodes, 2009 	
+character=Jillian Wallace	name=Megan Gallagher	episodes=4 episodes, 2007 	
+character=Ahmed Amar	name=Kal Penn	episodes=4 episodes, 2007 	
+character=Stephen	name=Paul Wesley	episodes=4 episodes, 2009-2010 	
+character=Mitch Anderson	name=Ned Vaughn	episodes=4 episodes, 2005 	
+character=Valerie Harris	name=Jenny Cooper	episodes=4 episodes, 2006 	
+character=Pavel Tokarev	name=Joel Bissonnette	episodes=4 episodes, 2010 	
+character=Marika Donoso	name=Enuka Okuma	episodes=4 episodes, 2009 	
+character=Howard Bern	name=Robert Cicchini	episodes=4 episodes, 2005 	
+character=Agent Hollister	name=Matt McKenzie	episodes=4 episodes, 2007 	
+character=Raymond Brown	name=Michael McGrady	episodes=4 episodes, 2002-2003 	
+character=Robert Galvez	name=Gabriel Casseus	episodes=4 episodes, 2009 	
+character=Tom Chapman	name=Philip Anthony-Rodriguez	episodes=4 episodes, 2009 	
+character=Ryan Burnett	name=Eyal Podell	episodes=4 episodes, 2009 	
+character=Mamud Rasheed Faheen	name=Anthony Azizi	episodes=4 episodes, 2002-2005 	
+character=Ray Wallace	name=Raphael Sbarge	episodes=4 episodes, 2007 	
+character=Hal Turner	name=James C. Victor	episodes=4 episodes, 2007 	
+character=Alama Matobo	name=Tonya Pinkins	episodes=4 episodes, 2009 	
+character=Laughlin	name=Michael Cavanaugh	episodes=4 episodes, 2004 	
+character=Joseph O	name=Michael Cavanaugh	episodes=4 episodes, 2004 	
+character=Ambassador	name=Ajay Mehta	episodes=4 episodes, 2007 	
+character=Helen Singer	name=Lucinda Jenney	episodes=4 episodes, 2003 	
+character=Ostroff	name=Aleksandr Kuznetsov	episodes=4 episodes, 2006 	
+character=Agent Samuels	name=Scott William Winters	episodes=4 episodes, 2007 	
+character=Rita Brady	name=Missy Crider	episodes=4 episodes, 2007 	
+character=Maureen Kingsley	name=Devika Parikh	episodes=4 episodes, 2001-2002 	
+character=Agent King	name=Matthew Yang King	episodes=4 episodes, 2010 	
+character=Debbie Pendleton	name=Leighton Meester	episodes=4 episodes, 2005 	
+character=Operative	name=Kenneth Choi	episodes=4 episodes, 2007 	
+character=Cheng	name=Kenneth Choi	episodes=4 episodes, 2007 	
+character=Osterlind	name=Joe D	episodes=4 episodes, 2004 	
+character=Osterlind	name=Angerio	episodes=4 episodes, 2004 	
+character=Edward Vossler	name=Mark Kiely	episodes=4 episodes, 2009 	
+character=Oleg Bazhaev	name=Gene Farber	episodes=4 episodes, 2010 	
+character=Wendy Brown	name=Anita Finlay	episodes=4 episodes, 2006 	
+character=Ron Wieland	name=Michael Holden	episodes=4 episodes, 2002-2003 	
+character=Salim	name=Nasser Faris	episodes=4 episodes, 2007 	
+character=Brown	name=Kevin Sizemore	episodes=4 episodes, 2005-2006 	
+character=Samir Hussain	name=Steven Schub	episodes=4 episodes, 2007 	
+character=Eric Richards	name=Butch Klein	episodes=4 episodes, 2004-2005 	
+character=Sergio	name=Julian Rodriguez	episodes=4 episodes, 2003-2004 	
+character=Jane	name=Alicia Bien	episodes=4 episodes, 2002-2005 	
+character=CTU Security Guard	name=Ariel Mirabal-Ramos	episodes=4 episodes, 2010 	
+character=CTU Agent Jim	name=Sterling Sulieman	episodes=4 episodes, 2010 	
+character=Jovan Myovic	name=Henri Lubatti	episodes=3 episodes, 2002 	
+character=Carla Matheson	name=Tracy Middendorf	episodes=3 episodes, 2002 	
+character=Justin Adams	name=Tracy Howe	episodes=3 episodes, 2006 	
+character=Jenny McGill	name=Penny Balfour	episodes=3 episodes, 2006 	
+character=Serge	name=Endre Hules	episodes=3 episodes, 2002-2007 	
+character=Tim Moran	name=Matt McTighe	episodes=3 episodes, 2009 	
+character=Dwayne Thompkins	name=Matthew Boylan	episodes=3 episodes, 2006 	
+character=Agent Lynch	name=D.R. Lewis	episodes=3 episodes, 2009-2010 	
+character=Kevin	name=Kevin Fry	episodes=2 episodes, 2004-2009 	
+character=Neill Choi	name=Al Leong	episodes=2 episodes, 2002 	
+character=Andrew Paige	name=Lukas Haas	episodes=3 episodes, 2005 	
+character=Bill Prady	name=Stephen Root	episodes=3 episodes, 2010 	
+character=Bruce Carson	name=Michael Reilly Burke	episodes=3 episodes, 2007 	
+character=Hamid Al-Zarian	name=Rafi Gavron	episodes=3 episodes, 2009 	
+character=Michael Latham	name=John Billingsley	episodes=3 episodes, 2009 	
+character=Ken Dellao	name=Tim Guinee	episodes=3 episodes, 2009 	
+character=Tomas Sherek	name=Faran Tahir	episodes=3 episodes, 2003-2005 	
+character=Marcus	name=Nick Offerman	episodes=3 episodes, 2003 	
+character=Steve Goodrich	name=Max Martini	episodes=3 episodes, 2003 	
+character=Lonnie McRae	name=Kevin Dillon	episodes=3 episodes, 2003 	
+character=Muhtadi Gohar	name=Ravi Kapoor	episodes=3 episodes, 2009 	
+character=Rachel Forrester	name=Maria del Mar	episodes=3 episodes, 2004 	
+character=Warden Kevin Mitchell	name=Kevin Chapman	episodes=3 episodes, 2002-2003 	
+character=Harris	name=Christian Svensson	episodes=3 episodes, 2002 	
+character=Mark Bishop	name=Michael Shanks	episodes=3 episodes, 2007 	
+character=Krugman	name=Darin Heames	episodes=3 episodes, 2002 	
+character=Agent Mizelli	name=Reynaldo Gallegos	episodes=3 episodes, 2002-2009 	
+character=Collette Stenger	name=Stana Katic	episodes=3 episodes, 2006 	
+character=N.E.S.T. Tech 	name=Dylan Haggerty	episodes=3 episodes, 2003 	
+character=Yosik Khatami	name=Nicholas Guilak	episodes=3 episodes, 2002-2005 	
+character=Agent Lowry	name=William Bumiller	episodes=3 episodes, 2007 	
+character=Rosa Donoso	name=Andi Chapman	episodes=3 episodes, 2009 	
+character=Lugo Elson	name=Tony Curran	episodes=3 episodes, 2010 	
+character=Luis Annicon	name=Carlos Gómez	episodes=3 episodes, 2003 	
+character=Anton Beresch	name=David Dayan Fisher	episodes=3 episodes, 2006 	
+character=Devon Rosenthal	name=James Hiroyuki Liao	episodes=3 episodes, 2010 	
+character=Udo	name=Lovensky Jean-Baptiste	episodes=3 episodes, 2009 	
+character=Marcos Al-Zacar	name=Rami Malek	episodes=3 episodes, 2010 	
+character=Ahman	name=Rizwan Manji	episodes=3 episodes, 2010 	
+character=Rick Phillips	name=Michael Cudlitz	episodes=3 episodes, 2002-2003 	
+character=Robert Franklin	name=J. Patrick McCormack	episodes=3 episodes, 2005 	
+character=Su Ming	name=Ping Wu	episodes=3 episodes, 2005 	
+character=Henry Powell	name=Robertson Dean	episodes=3 episodes, 2005 	
+character=Agent Hoskins	name=Larry Sullivan	episodes=3 episodes, 2009-2010 	
+character=Al	name=Jon E. Epstein	episodes=3 episodes, 2002 	
+character=Agent Beck	name=Justin Alston	episodes=3 episodes, 2010 	
+character=Eddie Grant	name=Keeffe	episodes=3 episodes, 2002 	
+character=Eddie Grant	name=Douglas O	episodes=3 episodes, 2002 	
+character=Rick Burke	name=Martin Papazian	episodes=3 episodes, 2006-2007 	
+character=Mikhail	name=Yorgo Constantine	episodes=3 episodes, 2006 	
+character=Ngozi	name=Keston John	episodes=3 episodes, 2009 	
+character=Dr. Linzer	name=Andy Umberger	episodes=3 episodes, 2003 	
+character=Kevin	name=Kevin Alejandro	episodes=3 episodes, 2005 	
+character=EMT Waltrip	name=Karim Prince	episodes=3 episodes, 2009 	
+character=Litvak	name=Steve Cell	episodes=3 episodes, 2009 	
+character=Jim Koernig	name=Joe Nieves	episodes=3 episodes, 2001-2010 	
+character=Chris	name=Jimmi Simpson	episodes=3 episodes, 2002 	
+character=Dimitri	name=Jordan Marder	episodes=3 episodes, 2010 	
+character=Deborah	name=Heather Salmon	episodes=3 episodes, 2003-2005 	
+character=Tomas	name=Miguel Nájera	episodes=3 episodes, 2003 	
+character=Agent Steve	name=Matt Huhn	episodes=3 episodes, 2006 	
+character=Ralph Burton	name=Jim Abele	episodes=3 episodes, 2002 	
+character=Elaine	name=Jenn McCullough	episodes=3 episodes, 2002 	
+character=David Gomez	name=David Labiosa	episodes=3 episodes, 2003 	
+character=Ellen Price	name=Andrea Grano	episodes=3 episodes, 2007 	
+character=Harbinson	name=Brian Kimmet	episodes=3 episodes, 2009 	
+character=Mae	name=Chuti Tiu	episodes=3 episodes, 2003 	
+character=Agent Manners	name=Lamont Thompson	episodes=3 episodes, 2010 	
+character=Richard Armus	name=Terry Bozeman	episodes=3 episodes, 2002-2003 	
+character=Vladimir Laitanan	name=Callum Keith Rennie	episodes=3 episodes, 2010 	
+character=Komar	name=Roman Varshavsky	episodes=3 episodes, 2006 	
+character=Alan Tanner	name=Dameon Clarke	episodes=3 episodes, 2009 	
+character=Jeff Breeher	name=Sam Ayers	episodes=3 episodes, 2002-2010 	
+character=Reporter	name=Pamela Stollings	episodes=3 episodes, 2002-2004 	
+character=Heather Nauert	name=Heather Nauert	episodes=3 episodes, 2010 	
+character=Frank Allard	name=Edoardo Ballerini	episodes=3 episodes, 2002 	
+character=Cole	name=Maurice Compte	episodes=2 episodes, 2003 	
+character=Ted Packard	name=Farrell	episodes=2 episodes, 2003 	
+character=Ted Packard	name=Conor O	episodes=2 episodes, 2003 	
+character=Technician	name=Ravil Isyanov	episodes=2 episodes, 2006 	
+character=Bierko	name=Ravil Isyanov	episodes=2 episodes, 2006 	
+character=Abdul Mahnesh	name=Mo Gallini	episodes=2 episodes, 2005 	
+character=Ted Simmons	name=Steven Culp	episodes=2 episodes, 2003 	
+character=Brennan	name=Christopher Amitrano	episodes=2 episodes, 2006 	
+character=CTU Helicopter Pilot	name=Michael Lugar	episodes=2 episodes, 2005-2010 	
+character=Anatoly Markov	name=John Noble	episodes=2 episodes, 2007 	
+character=Paul Koplin	name=Al Sapienza	episodes=2 episodes, 2002-2003 	
+character=Division Agent	name=Bruce Nozick	episodes=2 episodes, 2003-2004 	
+character=Heydar	name=Haaz Sleiman	episodes=2 episodes, 2007 	
+character=Agent Smith	name=Michael Roddy	episodes=2 episodes, 2006 	
+character=Secretary of State Alex	name=John Rubinstein	episodes=1 episode, 2003 	
+character=Secretary of Agriculture	name=Robert Pine	episodes=1 episode, 2003 	
+character=Secretary of Treasury	name=Austin Tichenor	episodes=1 episode, 2003 	
+character=Ari	name=Doc Duhame	episodes=1 episode, 2003-2009 	
+character=Basheer	name=Fred Toma	episodes=1 episode, 2002 	
+character=Jesper Isberg	name=Gregory J. Barnett	episodes=1 episode, 2003 	
+character=Andre	name=Mathew Lorenceau	episodes=1 episode, 2010 	
+character=Nicole	name=Dagmara Dominczyk	episodes=2 episodes, 2005 	
+character=Ronnie Lobell	name=Shawn Doyle	episodes=2 episodes, 2005 	
+character=Richard Walsh	name=Neill	episodes=2 episodes, 2001 	
+character=Richard Walsh	name=Michael O	episodes=2 episodes, 2001 	
+character=Mark Bledsoe	name=D.B. Sweeney	episodes=2 episodes, 2010 	
+character=Max	name=Thomas Kretschmann	episodes=2 episodes, 2003 	
+character=UN Secretary General	name=Eriq La Salle	episodes=2 episodes, 2010 	
+character=Deputy Raynes	name=Sterling Macer Jr.	episodes=2 episodes, 2003 	
+character=Doug Knowles	name=Chris Mulkey	episodes=2 episodes, 2009 	
+character=Robert Morrison	name=Keith Szarabajka	episodes=2 episodes, 2005 	
+character=Theo Stoller	name=Henry Ian Cusick	episodes=2 episodes, 2006 	
+character=Greg Penticoff	name=John Hawkes	episodes=2 episodes, 2001 	
+character=Dave Conlon	name=Tomas Arana	episodes=2 episodes, 2005 	
+character=Admiral Kirkland	name=Tom Wright	episodes=2 episodes, 2006 	
+character=John Quinn	name=Sebastian Roché	episodes=2 episodes, 2009 	
+character=General David Brucker	name=Michael Gaston	episodes=2 episodes, 2010 	
+character=Ronnie Stark	name=Peter Outerbridge	episodes=2 episodes, 2003 	
+character=Barry Landes	name=C. Thomas Howell	episodes=2 episodes, 2006 	
+character=Agent Reynolds	name=Terrell Tilford	episodes=2 episodes, 2002-2009 	
+character=Ted Cofell	name=Currie Graham	episodes=2 episodes, 2002 	
+character=Alex Hewitt	name=Rick D. Wasserman	episodes=2 episodes, 2003 	
+character=William Cole	name=Patrick Fabian	episodes=2 episodes, 2004 	
+character=Melissa Rabb	name=Gwendoline Yeo	episodes=2 episodes, 2005 	
+character=Vice President Mitchell Hayworth	name=Cameron Daddo	episodes=2 episodes, 2009 	
+character=Alan Hayes	name=Jesse D. Goins	episodes=2 episodes, 2002 	
+character=Danny Dessler	name=Louis Ferreira	episodes=2 episodes, 2003 	
+character=Ramon Garcia	name=Lombardo Boyar	episodes=2 episodes, 2003 	
+character=Scott Evans	name=Andrew Hawkes	episodes=2 episodes, 2006 	
+character=Zhou Yong	name=Ian Anthony Dale	episodes=2 episodes, 2007 	
+character=Kozelek Hacker	name=Maury Sterling	episodes=2 episodes, 2007 	
+character=Elaine Al-Zacar	name=Mare Winningham	episodes=2 episodes, 2010 	
+character=General Bowden	name=Dean Norris	episodes=2 episodes, 2003 	
+character=Imam Al-Fulani	name=Bernard White	episodes=2 episodes, 2003 	
+character=Agent Davis	name=David Fabrizio	episodes=2 episodes, 2004-2006 	
+character=Bruce Foxton	name=Mark Rolston	episodes=2 episodes, 2004 	
+character=Forbes	name=Richard Marcus	episodes=2 episodes, 2005 	
+character=Sue	name=Stephanie Erb	episodes=2 episodes, 2006 	
+character=Sergeant Cadden	name=Diego Klattenhoff	episodes=2 episodes, 2009 	
+character=Masters	name=Nick Chinlund	episodes=2 episodes, 2009 	
+character=Bob Peluso	name=Don McManus	episodes=2 episodes, 2009 	
+character=Derek Watts	name=Johnathan McClain	episodes=2 episodes, 2009 	
+character=Nate Burke	name=Jamie Martz	episodes=2 episodes, 2010 	
+character=Bridget	name=Kim Murphy	episodes=2 episodes, 2001 	
+character=Frank Simes	name=Michael Bryan French	episodes=2 episodes, 2002-2009 	
+character=Tanya	name=Pauley Perrette	episodes=2 episodes, 2002 	
+character=Teddy Hanlin	name=Kirk Baltz	episodes=2 episodes, 2002 	
+character=Ted Paulson	name=Kevin Ramsey	episodes=2 episodes, 2002 	
+character=Dalton Furrelle	name=David Herman	episodes=2 episodes, 2004 	
+character=Susan Cole	name=Jenni Blong	episodes=2 episodes, 2004 	
+character=John Reiss	name=Albie Selznick	episodes=2 episodes, 2005 	
+character=Peter Hock	name=Jonathan Adams	episodes=2 episodes, 2007-2009 	
+character=Brian Jacobs	name=Scott Paulin	episodes=2 episodes, 2003 	
+character=Agent Solarz	name=Diego Serrano	episodes=2 episodes, 2005 	
+character=Agent Davis	name=Eric Steinberg	episodes=2 episodes, 2006 	
+character=Sarah	name=Mary Page Keller	episodes=2 episodes, 2009 	
+character=Sgt. Arroyo	name=Sal Landi	episodes=2 episodes, 2002 	
+character=Paramedic	name=Scotch Ellis Loring	episodes=2 episodes, 2002 	
+character=Rouse	name=Raymond Cruz	episodes=2 episodes, 2003 	
+character=Randy Murdoch	name=Val Lauren	episodes=2 episodes, 2003 	
+character=Jen Slater	name=Roxanne Day	episodes=2 episodes, 2005 	
+character=Gary Klausner	name=Thomas Ryan	episodes=2 episodes, 2010 	
+character=Mark DeSalvo	name=Lou Diamond Phillips	episodes=2 episodes, 2002 	
+character=Sam Singer	name=Ted Marcoux	episodes=2 episodes, 2003 	
+character=Deputy Sheriff	name=Paco Farias	episodes=2 episodes, 2003 	
+character=LAPD Officer 	name=Kevin McCorkle	episodes=2 episodes, 2004-2009 	
+character=Navid	name=Assaf Cohen	episodes=2 episodes, 2005-2010 	
+character=Carrie Bendis	name=Danielle Burgio	episodes=2 episodes, 2006 	
+character=Doug Masters	name=Jason Grutter	episodes=2 episodes, 2006 	
+character=Team Member 	name=Ron Yuan	episodes=2 episodes, 2007 	
+character=Zhou	name=Ron Yuan	episodes=2 episodes, 2007 	
+character=Surgeon	name=Gabrielle Made	episodes=2 episodes, 2010 	
+character=Dr. Spire	name=Peter Gregory	episodes=2 episodes, 2003 	
+character=Rae Plachecki	name=Jenette Goldstein	episodes=2 episodes, 2004 	
+character=Captain Reiss	name=Rick Ravanello	episodes=2 episodes, 2004 	
+character=Frederick	name=Shawn Woods	episodes=2 episodes, 2004 	
+character=Hikmat Palpatine	name=Kiran Rao	episodes=2 episodes, 2005 	
+character=Amy Martin	name=Skylar Roberge	episodes=2 episodes, 2006 	
+character=Laurent Dubaku	name=Arjay Smith	episodes=2 episodes, 2009 	
+character=Adrion Bishop	name=Michael Irby	episodes=2 episodes, 2010 	
+character=Amanda	name=Nina Landey	episodes=2 episodes, 2002-2003 	
+character=Porter	name=Scott Allan Campbell	episodes=2 episodes, 2002 	
+character=Raymond O	name=Brian Goodman	episodes=2 episodes, 2003 	
+character=Hara	name=Brian Goodman	episodes=2 episodes, 2003 	
+character=Bryce	name=Alex Daniels	episodes=2 episodes, 2003 	
+character=Mark Kanar	name=Matt Salinger	episodes=2 episodes, 2004-2005 	
+character=Pablo	name=Gonzalo Menendez	episodes=2 episodes, 2004 	
+character=Ben Landry	name=Scott Lawrence	episodes=2 episodes, 2009-2010 	
+character=Donnie Fox	name=Maximiliano Hernández	episodes=2 episodes, 2009 	
+character=Sid Paulson	name=Leary	episodes=2 episodes, 2009 	
+character=Sid Paulson	name=William O	episodes=2 episodes, 2009 	
+character=Alan Morgan	name=David Franco	episodes=2 episodes, 2002 	
+character=D.J. Graves	name=Neal Matarazzo	episodes=2 episodes, 2003-2004 	
+character=Brandon	name=Brandon Barash	episodes=2 episodes, 2005 	
+character=Field Reporter	name=Bob DeCastro	episodes=2 episodes, 2006-2010 	
+character=Agent Peter	name=John Griffin	episodes=2 episodes, 2006-2009 	
+character=Christina Hillinger	name=Marina Black	episodes=2 episodes, 2009 	
+character=Maggie Koernig	name=Sandra Purpuro	episodes=2 episodes, 2010 	
+character=Ziya Dakhilov	name=Jon Sklaroff	episodes=2 episodes, 2010 	
+character=Dr. Mark Kaylis	name=Michael Bofshever	episodes=2 episodes, 2005 	
+character=Stan	name=Eric Bruskotter	episodes=2 episodes, 2007 	
+character=Abo	name=Burl Moseley	episodes=2 episodes, 2009 	
+character=Anchorwoman	name=Suzan Brittan	episodes=2 episodes, 2001-2002 	
+character=Horter	name=Cliff Weissman	episodes=2 episodes, 2002-2005 	
+character=Agent Barnes	name=Pete Antico	episodes=2 episodes, 2002 	
+character=N.E.S.T. Tech 	name=Gary DeWitt Marshall	episodes=2 episodes, 2003 	
+character=Reporter	name=Michelle C. Bonilla	episodes=2 episodes, 2004-2005 	
+character=Eduardo	name=Gino Montesinos	episodes=2 episodes, 2004 	
+character=Cabinet Secretary 	name=Joseph Hacker	episodes=2 episodes, 2005-2007 	
+character=Schaeffer	name=Timothy V. Murphy	episodes=2 episodes, 2006 	
+character=Louis Dalton	name=Harry Van Gorkum	episodes=2 episodes, 2010 	
+character=CTU Interrogation Specialist	name=Chris Butler	episodes=2 episodes, 2010 	
+character=Ellen Kramer	name=Kathryn Winslow	episodes=2 episodes, 2010 	
+character=Ed Miller	name=Bryan Rasmussen	episodes=2 episodes, 2002-2004 	
+character=Agent Drake	name=Angelo Pagán	episodes=2 episodes, 2002 	
+character=General Stone	name=Richard Holden	episodes=2 episodes, 2003-2004 	
+character=Trask	name=Mark Ivanir	episodes=2 episodes, 2003 	
+character=Davis	name=Jeff Wincott	episodes=2 episodes, 2003 	
+character=Lucia Garcia	name=Nicole Gomez Fisher	episodes=2 episodes, 2003 	
+character=Carol	name=Forbes Riley	episodes=2 episodes, 2004 	
+character=Helicopter Pilot	name=Vince Duvall	episodes=2 episodes, 2005 	
+character=Agent Jennings	name=Matt Battaglia	episodes=2 episodes, 2006-2007 	
+character=Dr. Joel Levine	name=Eli Goodman	episodes=2 episodes, 2010 	
+character=Doctor	name=Freda Foh Shen	episodes=2 episodes, 2002 	
+character=Alexander Trepkos	name=Eugene Robert Glazer	episodes=2 episodes, 2003 	
+character=Phil	name=David Chisum	episodes=2 episodes, 2004 	
+character=Gunman 	name=Vincent Foster	episodes=2 episodes, 2006 	
+character=Agent Remick	name=Peter Onorati	episodes=2 episodes, 2009 	
+character=EMT Gonzalez	name=Emerson Brooks	episodes=2 episodes, 2009 	
+character=Lesley Lerma	name=Peter James Smith	episodes=2 episodes, 2009 	
+character=Blonde Woman	name=Nazanin Boniadi	episodes=2 episodes, 2010 	
+character=Tim	name=Birkett Turton	episodes=2 episodes, 2003 	
+character=Cale	name=Matt Bushell	episodes=2 episodes, 2004 	
+character=Tech Agent	name=Brian Catalano	episodes=2 episodes, 2004 	
+character=CTU Agent	name=Kelly Gullett	episodes=2 episodes, 2005-2006 	
+character=Mary	name=Nadine Ellis	episodes=2 episodes, 2005 	
+character=Separatist	name=Clayton J. Barber	episodes=2 episodes, 2006 	
+character=Bierko	name=Clayton J. Barber	episodes=2 episodes, 2006 	
+character=Vasili	name=Boris Lee Krutonog	episodes=2 episodes, 2007 	
+character=Halil	name=Said Faraj	episodes=2 episodes, 2007 	
+character=Liddy	name=Adrian Neil	episodes=2 episodes, 2007 	
+character=Major Zeze Eto	name=Cormack	episodes=2 episodes, 2009 	
+character=Major Zeze Eto	name=Adetokumboh M	episodes=2 episodes, 2009 	
+character=UN Protocol Director	name=Tava Smiley	episodes=2 episodes, 2010 	
+character=Phil Lu	name=Johnny M. Wu	episodes=2 episodes, 2010 	
+character=Agent Cole	name=Michael Yavnielli	episodes=2 episodes, 2006 	
+character=O.C. Operator	name=Addie Daddio	episodes=2 episodes, 2002-2006 	
+character=Ahmet	name=Nicholas Kadi	episodes=2 episodes, 2005 	
+character=Lee Jong	name=Peter Chen	episodes=2 episodes, 2005 	
+character=Nurse	name=Liz Loza	episodes=2 episodes, 2010 	
+character=CTU Worker	name=Naomi Morales	episodes=2 episodes, 2010 	
+character=Businessman	name=Carmen Mormino	episodes=2 episodes, 2001-2003 	
+character=Heather	name=Mandy June Turpin	episodes=2 episodes, 2004 	
+character=News Anchor	name=John Beard	episodes=2 episodes, 2005-2006 	
+character=Reporter	name=Maria Quiban	episodes=2 episodes, 2005 	
+character=CTU Doctor	name=Reggie Jordan	episodes=2 episodes, 2006-2010 	
+character=Catherine	name=Jennifer Carta	episodes=2 episodes, 2009 	
+character=Teri	name=Claire Geare	episodes=2 episodes, 2010 	
+character=NY News Anchor	name=Dick Brennan	episodes=2 episodes, 2010 	
+character=MTA Officer Marx	name=Beau Dremann	episodes=2 episodes, 2005-2009 	
+character=Army National Guardsman	name=Jim Klock	episodes=2 episodes, 2007 	
+character=National Guardsman	name=David Michael	episodes=2 episodes, 2007 	
+character=DCPD Officer 	name=Matt Nolan	episodes=2 episodes, 2009 	
+character=EMT 	name=Zachary Stockdale	episodes=2 episodes, 2009 	
+character=Pedro	name=Wilmer Calderon	episodes=2 episodes, 2003 	
+character=Phillips	name=Roger Ranney	episodes=2 episodes, 2004 	
+character=Assistant	name=Roger Ranney	episodes=2 episodes, 2004 	
+character=Emilio	name=Eduardo Antonio Garcia	episodes=2 episodes, 2004 	
+character=Chevensky	name=Taras Los	episodes=2 episodes, 2006 	
+character=Hasan Numair	name=Shaun Majumder	episodes=2 episodes, 2007 	
+character=Phil	name=Chris Williams	episodes=2 episodes, 2009 	
+character=Technician 	name=DaJuan Johnson	episodes=2 episodes, 2009 	
+character=Stripper 	name=Isabella Grace	episodes=2 episodes, 2010 	
+character=Agent Kilner	name=Jorge-Luis Pallo	episodes=2 episodes, 2009 	
+character=Horse Trainer	name=Jorge Noa	episodes=2 episodes, 2003-2006 	
+character=Prion Variant Operative	name=Randy Flagler	episodes=2 episodes, 2009 	
+character=Dubaku	name=Jeronimo Spinx	episodes=2 episodes, 2009 	
+character=Driver	name=Jeronimo Spinx	episodes=2 episodes, 2009 	
+character=Luka	name=Thomas Fiscella	episodes=2 episodes, 2010 	
+character=Tyler	name=Vince Corazza	episodes=2 episodes, 2003-2004 	
+character=Airline Representative	name=Glenda Redfield	episodes=2 episodes, 2009 	
+character=CTU Agent 	name=J.R. Ramirez	episodes=2 episodes, 2010 	
+character=CTU Swat Medic 	name=Eltony Williams	episodes=2 episodes, 2010 	
+character=Bazhaev	name=Conrad Allan	episodes=2 episodes, 2010 	
+character=Bodyguard	name=Conrad Allan	episodes=2 episodes, 2010 	
+character=Agent Lennert	name=Wiley M. Pickett	episodes=2 episodes, 2001-2009 	
+character=Alex	name=Angelo Vacco	episodes=2 episodes, 2009-2010 	
+character=News Anchor	name=Steve Edwards	episodes=2 episodes, 2006 	
+character=Escort Guard	name=Bruce Gerard Brown Jr.	episodes=2 episodes, 2007 	
+character=Cimbe	name=Roshawn Franklin	episodes=2 episodes, 2009 	
+character=Jenna	name=Lauren Storm	episodes=2 episodes, 2003 	
+character=Masheer Abu-Marzuq	name=Sammy Sheik	episodes=2 episodes, 2007 	
+character=Gus	name=David Grant Wright	episodes=2 episodes, 2009 	
+character=Juma	name=Marvin Jordan	episodes=2 episodes, 2009 	
+character=Commando	name=Marvin Jordan	episodes=2 episodes, 2009 	
+character=Pilot	name=Lou Glenn	episodes=2 episodes, 2009 	
+character=Co-Pilot	name=Jonathan Craig Williams	episodes=2 episodes, 2009 	
+character=James	name=Benjamin Burdick	episodes=2 episodes, 2009 	
+character=Lydia	name=Brittainy Parrett	episodes=2 episodes, 2009 	
+character=Year Old Boy	name=Zachary Gordon	episodes=2 episodes, 2009 	
+character=Todd	name=Chris Flanders	episodes=2 episodes, 2009 	
+character=Robert Ellis	name=Wade Williams	episodes=1 episode, 2002 	
+character=Frank Davies	name=Brent Sexton	episodes=1 episode, 2003 	
+character=Joe Prado	name=John Thaddeus	episodes=1 episode, 2005 	
+character=Polakov	name=Timothy Omundson	episodes=1 episode, 2006 	
+character=Mohsen	name=Aki Avni	episodes=1 episode, 2003 	
+character=Brett	name=Jason Padgett	episodes=1 episode, 2005 	
+character=Store Customer	name=Tina Holmes	episodes=1 episode, 2005 	
+character=Joseph Fayed	name=Adam Alexi-Malle	episodes=2 episodes, 2005 	
+character=Victor Aruz	name=Benito Martinez	episodes=1 episode, 2010 	
+character=Nabilla Al-Jamil	name=Lina Patel	episodes=1 episode, 2005 	
+character=Sabir Ardakani	name=Kris Iyer	episodes=1 episode, 2005 	
+character=Barbara Maccabee	name=Donzaleigh Abernathy	episodes=1 episode, 2003 	
+character=Doug	name=Brent Briscoe	episodes=1 episode, 2005 	
+character=Ron	name=Carl Gilliard	episodes=1 episode, 2006 	
+character=Danny	name=Scott Klace	episodes=1 episode, 2004 	
+character=Army Corporal	name=John Brantley Cole	episodes=2 episodes, 2007 	
+character=Marko Khatami	name=Maz Jobrani	episodes=1 episode, 2002 	
+character=Benson	name=TL Savage	episodes=2 episodes, 2007 	
+character=Eileen	name=Jacque Parson	episodes=1 episode, 2002-2005 	
+character=Agent Nichols	name=Alfred F. Woodley	episodes=2 episodes, 2007 	
+character=Beatriz	name=Alejandra Flores	episodes=1 episode, 2004 	
+character=Prescott O	name=Cap Gordon	episodes=1 episode, 2009 	
+character=Brian	name=Cap Gordon	episodes=1 episode, 2009 	
+character=Hugo	name=Alex Castillo	episodes=2 episodes, 2006 	
+character=Marko	name=Mark Kubr	episodes=2 episodes, 2002-2003 	
+character=Barry	name=Jed Bernard	episodes=1 episode, 2004 	
+character=Mikhail	name=Roman Mitichyan	episodes=1 episode, 2010 	
+character=Hong Wai	name=John Koyama	episodes=1 episode, 2006 	
+character=Wu San	name=Garret Sato	episodes=1 episode, 2006 	
+character=Cheng	name=Clay Cullen	episodes=1 episode, 2006 	
+character=Chinese Sentry	name=Tsuyoshi Abe	episodes=1 episode, 2006 	
+character=Don Ashton	name=Denis Arndt	episodes=1 episode, 2005 	
+character=Dr. George Ferragamo	name=John Prosky	episodes=1 episode, 2002 	
+character=Mila Luminovic	name=Juliette Marquis	episodes=1 episode, 2002 	
+character=George Avila	name=Kirk Acevedo	episodes=1 episode, 2006 	
+character=Dana	name=Christina Moore	episodes=1 episode, 2002 	
+character=Jason Girard	name=T.J. Thyne	episodes=1 episode, 2005 	
+character=Gene McLennen	name=Bill Smitrovich	episodes=1 episode, 2005 	
+character=Stan Cotter	name=Richard Gilliland	episodes=1 episode, 2006 	
+character=Attorney General	name=Dan Ziskie	episodes=1 episode, 2006 	
+character=Stuart Pressman	name=Chris Kramer	episodes=1 episode, 2007 	
+character=Nikola Luminovic	name=Evgeniy Lazarev	episodes=1 episode, 2002 	
+character=David Weiss	name=Evan Handler	episodes=1 episode, 2005 	
+character=Naseem	name=Michael Benyaer	episodes=1 episode, 2005 	
+character=Hans Meyer	name=Kirk B.R. Woller	episodes=1 episode, 2006 	
+character=Marshal Holtzman	name=John Lacy	episodes=1 episode, 2006 	
+character=Gabriel Schector	name=Tommy Flanagan	episodes=1 episode, 2009 	
+character=Carl Gadsen	name=Connor Trinneer	episodes=1 episode, 2009 	
+character=Jessie Hampton	name=Yolonda Ross	episodes=1 episode, 2001 	
+character=Lauren Proctor	name=Kathleen Wilhoite	episodes=1 episode, 2002 	
+character=Jessica Abrams	name=Jackie Debatin	episodes=1 episode, 2002 	
+character=Agent Ron	name=Paul Webster	episodes=1 episode, 2002 	
+character=Theresa Ortega	name=Kamala Lopez	episodes=1 episode, 2004 	
+character=Naji	name=Dominic Rains	episodes=1 episode, 2005 	
+character=Lucy Stiles	name=Nancy Linehan Charles	episodes=1 episode, 2005 	
+character=Kelly Girard	name=Claudette Mink	episodes=1 episode, 2005 	
+character=Ali	name=Dariush Kashani	episodes=1 episode, 2005 	
+character=Sam	name=Brett Rickaby	episodes=1 episode, 2006 	
+character=Connell Johnson	name=JR Bourne	episodes=1 episode, 2007 	
+character=Patricia Eames	name=Kathryn Gordon	episodes=1 episode, 2009 	
+character=Agent Winnick	name=Brad Fleischer	episodes=1 episode, 2010 	
+character=Susan Collier	name=Kim Miyori	episodes=1 episode, 2001 	
+character=Philips	name=David Barrera	episodes=1 episode, 2001 	
+character=Serbian Doctor	name=Josip Kuchan	episodes=1 episode, 2002 	
+character=Kevin Kelly	name=Jack Kehler	episodes=1 episode, 2004 	
+character=Dale Spalding	name=Patrick Kilpatrick	episodes=1 episode, 2005 	
+character=Scott Borman	name=David Newsom	episodes=1 episode, 2005 	
+character=Derek Rosner	name=Todd Kimsey	episodes=1 episode, 2005 	
+character=Steve Simmons	name=Mesan Richardson	episodes=1 episode, 2005 	
+character=Joseph Malina	name=José Zúñiga	episodes=1 episode, 2006 	
+character=Ross	name=Blake Robbins	episodes=1 episode, 2006 	
+character=John Carruth	name=Sean McGowan	episodes=1 episode, 2006 	
+character=Sergeant Amis	name=David Gianopoulos	episodes=1 episode, 2010 	
+character=Sergei Bazhaev	name=Joseph Kamal	episodes=1 episode, 2010 	
+character=Attorney	name=Joseph Kamal	episodes=1 episode, 2010 	
+character=John Mason	name=Eric Christian Olsen	episodes=1 episode, 2002 	
+character=Dr. Rose Kent	name=Judith Scott	episodes=1 episode, 2002 	
+character=Erica Vasquez	name=Christine Avila	episodes=1 episode, 2002 	
+character=Reporter	name=Yvette Fernandez	episodes=1 episode, 2002 	
+character=Sgt. Amis	name=Victor Rivers	episodes=1 episode, 2003 	
+character=Kathy McCartney	name=Brigid Brannagh	episodes=1 episode, 2004 	
+character=Arthur Rabens	name=Salvator Xuereb	episodes=1 episode, 2004 	
+character=Shari	name=Darby Stanchfield	episodes=1 episode, 2005 	
+character=Spectre	name=Christopher B. Duncan	episodes=1 episode, 2005 	
+character=Greg Merfield	name=Tim Kelleher	episodes=1 episode, 2005 	
+character=Farah	name=Zilah Mendoza	episodes=1 episode, 2005 	
+character=Tariq	name=Rene Millan	episodes=1 episode, 2005 	
+character=Inessa Kovalevsky	name=Angela Sarafyan	episodes=1 episode, 2006 	
+character=Miriam Henderson	name=JoBeth Williams	episodes=1 episode, 2006 	
+character=Carl Mossman	name=John Posey	episodes=1 episode, 2006 	
+character=Suzanne Cummings	name=Alla Korot	episodes=1 episode, 2006 	
+character=Tim Rooney	name=Jeremy Ray Valdez	episodes=1 episode, 2006 	
+character=Chinese Agent	name=Charles Rahi Chun	episodes=1 episode, 2006 	
+character=Doctor Bradley	name=J.C. MacKenzie	episodes=1 episode, 2007 	
+character=General Mohmar Habib	name=Ismael Kanater	episodes=1 episode, 2007 	
+character=Elemu	name=Treva Etienne	episodes=1 episode, 2009 	
+character=Mitch	name=Paul Francis	episodes=1 episode, 2009 	
+character=John Mazoni	name=Domenick Lombardozzi	episodes=1 episode, 2010 	
+character=Brian	name=Ryan Alosio	episodes=1 episode, 2010 	
+character=Judge Ruffin	name=Jack Shearer	episodes=1 episode, 2010 	
+character=Frank Haynam	name=Chris McGarry	episodes=1 episode, 2010 	
+character=Larry Rogow	name=Keram Malicki-Sánchez	episodes=1 episode, 2001 	
+character=Frank Ames	name=Ivar Brogger	episodes=1 episode, 2002 	
+character=Karris	name=Tico Wells	episodes=1 episode, 2002 	
+character=Ambassador Shareef	name=Alexander Zale	episodes=1 episode, 2002 	
+character=Secret Service Agent	name=Emile Williams	episodes=1 episode, 2002 	
+character=General Blaye	name=Ted Sutton	episodes=1 episode, 2003 	
+character=Diana White	name=Gabrielle Fitzpatrick	episodes=1 episode, 2004 	
+character=Marcy	name=Michael Hyatt	episodes=1 episode, 2005 	
+character=Ian	name=Jonathan Del Arco	episodes=1 episode, 2005 	
+character=Agent Baron	name=Tim Griffin	episodes=1 episode, 2005 	
+character=Gary	name=Lawrence Monoson	episodes=1 episode, 2005 	
+character=Karen Pendleton	name=Phyllis Lyons	episodes=1 episode, 2005 	
+character=Agent Hart	name=Dean Cudworth	episodes=1 episode, 2005 	
+character=USAF Mechanic	name=Bryce Lenon	episodes=1 episode, 2005 	
+character=Rescue Worker	name=Dan Lundy	episodes=1 episode, 2005 	
+character=Agent Ed	name=David Batiste	episodes=1 episode, 2006 	
+character=Bryce Wolffson	name=Jack Galle	episodes=1 episode, 2006 	
+character=Jeannie Tyler	name=Nancy Cartwright	episodes=1 episode, 2007 	
+character=Ben Kram	name=Spencer Garrett	episodes=1 episode, 2007 	
+character=Nikolai	name=Ray Proscia	episodes=1 episode, 2007 	
+character=Elena	name=Scarlett Chorvat	episodes=1 episode, 2007 	
+character=Jamal Nasawa	name=Merik Tadros	episodes=1 episode, 2007 	
+character=Kevin Graves	name=Ray Laska	episodes=1 episode, 2007 	
+character=Deputy Attorney General	name=Robin Thomas	episodes=1 episode, 2009 	
+character=Attorney General	name=Ned Bellamy	episodes=1 episode, 2009 	
+character=Agent Park	name=Tom Choi	episodes=1 episode, 2009 	
+character=Kristen Smith	name=Merle Dandridge	episodes=1 episode, 2010 	
+character=Nantz	name=Alex Carter	episodes=1 episode, 2010 	
+character=Officer I-Mary-38	name=James MacDonald	episodes=1 episode, 2001 	
+character=Joseph Wald	name=Jon Gries	episodes=1 episode, 2002 	
+character=Karima Naiyeer	name=Yareli Arizmendi	episodes=1 episode, 2002 	
+character=Henry Martin	name=Andre Canty	episodes=1 episode, 2002 	
+character=Lenny	name=Logan Alexander	episodes=1 episode, 2002 	
+character=Anna	name=Susan Gibney	episodes=1 episode, 2003 	
+character=General Gratz	name=Carmen Argenziano	episodes=1 episode, 2003 	
+character=Agent Rafael Gutierrez	name=Marco Sanchez	episodes=1 episode, 2003 	
+character=Steve Hillenburg	name=Michael Mantell	episodes=1 episode, 2003 	
+character=Agent Gibson	name=Terrell Clayton	episodes=1 episode, 2003 	
+character=Angry Man	name=Michael Jannetta	episodes=1 episode, 2003 	
+character=Military Officer 	name=Steven Arthur	episodes=1 episode, 2003 	
+character=Trevor Tomlinson	name=Simon Templeman	episodes=1 episode, 2004 	
+character=Mike Murphy	name=Colby French	episodes=1 episode, 2004 	
+character=Roger Sommers	name=Randy Thompson	episodes=1 episode, 2004 	
+character=Melanie	name=Brittany Ishibashi	episodes=1 episode, 2005 	
+character=Doctor Sanford	name=Mauricio Mendoza	episodes=1 episode, 2005 	
+character=Captain John Hansen	name=David Andriole	episodes=1 episode, 2005 	
+character=Security Guard	name=James Calvert	episodes=1 episode, 2005 	
+character=Dr. Martinez	name=Hector Luis Bustamante	episodes=1 episode, 2005 	
+character=Meg	name=Carmen Molinari	episodes=1 episode, 2005 	
+character=Gary	name=Jake Muxworthy	episodes=1 episode, 2005 	
+character=Cal	name=Channon Roe	episodes=1 episode, 2006 	
+character=DHS Staffer	name=Kate Rene Gleason	episodes=1 episode, 2006 	
+character=DHS Security Guard	name=Larkin Campbell	episodes=1 episode, 2006 	
+character=Mall Manager	name=Jay Gordon	episodes=1 episode, 2006 	
+character=Steve Thompson	name=Marc Raducci	episodes=1 episode, 2006 	
+character=Joanna Tandy	name=Pia Artesona	episodes=1 episode, 2006 	
+character=Leon	name=Gideon Emery	episodes=1 episode, 2007 	
+character=CTU Doctor	name=Natalija Nogulich	episodes=1 episode, 2007 	
+character=Doctor Hastings	name=Tom Everett	episodes=1 episode, 2007 	
+character=Jimmy	name=Will Radford	episodes=1 episode, 2007 	
+character=Carol Vossler	name=Jacqueline Pinol	episodes=1 episode, 2009 	
+character=FBI Policeman 	name=Christopher Michael	episodes=1 episode, 2009 	
+character=General Vincent	name=Rocky McMurray	episodes=1 episode, 2009 	
+character=FBI Administrative Agent	name=Lucas Ford	episodes=1 episode, 2009 	
+character=Captain Walleki	name=Joe Sabatino	episodes=1 episode, 2010 	
+character=Claude Davenport	name=Todd Jeffries	episodes=1 episode, 2001 	
+character=Scott Baylor	name=Scott Denny	episodes=1 episode, 2001 	
+character=Agent Bundy	name=Ricardo Chavira	episodes=1 episode, 2002 	
+character=Hassan Naiyeer	name=Shaun Duke	episodes=1 episode, 2002 	
+character=Newman	name=Randy J. Goodwin	episodes=1 episode, 2002 	
+character=Field Reporter	name=Jane Yamamoto	episodes=1 episode, 2002 	
+character=Peel	name=Lobo Sebastian	episodes=1 episode, 2003 	
+character=Deputy Prime Minister Barghouti	name=Christopher Maher	episodes=1 episode, 2003 	
+character=Male Driver	name=James Aaron Oliver	episodes=1 episode, 2003 	
+character=Ranger Mike Kramer	name=Miguel Pérez	episodes=1 episode, 2003 	
+character=Foreman	name=Michael James Reed	episodes=1 episode, 2003 	
+character=Female Reporter	name=Claudia DiFolco	episodes=1 episode, 2003 	
+character=Hannah Zoltan	name=Shontina Vernon	episodes=1 episode, 2003 	
+character=Lennox	name=Shiloh Strong	episodes=1 episode, 2004 	
+character=Subway Guy	name=Andrew Borba	episodes=1 episode, 2004 	
+character=Police Chief Hendrix	name=Paul Vincent O	episodes=1 episode, 2004 	
+character=Police Chief Hendrix	name=Connor	episodes=1 episode, 2004 	
+character=Craig Erwich	name=Kelvin Han Yee	episodes=1 episode, 2005 	
+character=Sergeant Paulson	name=Rick Hall	episodes=1 episode, 2005 	
+character=Anwar	name=Gino Salvano	episodes=1 episode, 2005 	
+character=Arabic Man	name=Jay Harik	episodes=1 episode, 2005 	
+character=CTU Driver	name=Andrew Putney	episodes=1 episode, 2005 	
+character=Tom Wegman	name=Jay Acovone	episodes=1 episode, 2006 	
+character=Marine Commander	name=Pancho Demmings	episodes=1 episode, 2006 	
+character=Agent Clarke	name=Christopher Stapleton	episodes=1 episode, 2006 	
+character=CTU Security Guard	name=Dan Warner	episodes=1 episode, 2006 	
+character=Agent Finn	name=Benjamin John Parrillo	episodes=1 episode, 2006 	
+character=Sgt. Mike McLaren	name=John Gleeson Connolly	episodes=1 episode, 2006 	
+character=Moreno	name=Herman Chavez	episodes=1 episode, 2006 	
+character=Dan	name=Philip Lester	episodes=1 episode, 2006 	
+character=Mark Hauser	name=Devon Gummersall	episodes=1 episode, 2007 	
+character=Bar Patron 	name=Anthony Michael Jones	episodes=1 episode, 2007 	
+character=FBI Agent	name=Christian Macchio	episodes=1 episode, 2007 	
+character=Linda Gadsen	name=Meredith Salenger	episodes=1 episode, 2009 	
+character=John Brunner	name=Tom Irwin	episodes=1 episode, 2009 	
+character=Agent Davis	name=Eric Nenninger	episodes=1 episode, 2009 	
+character=Dr. Levinson	name=Paul McGillion	episodes=1 episode, 2009 	
+character=Prion Variant 	name=Nicholas Guest	episodes=1 episode, 2009 	
+character=Cashier	name=Derek Basco	episodes=1 episode, 2009 	
+character=Agent Franks	name=F.J. Rio	episodes=1 episode, 2009 	
+character=Starkwood Team Leader	name=Jack Maxwell	episodes=1 episode, 2009 	
+character=DCPD Officer	name=Herve Clermont	episodes=1 episode, 2009 	
+character=Wilson	name=Thomas Lumberg Jr.	episodes=1 episode, 2009 	
+character=Operative	name=Thomas Lumberg Jr.	episodes=1 episode, 2009 	
+character=Lead FBI Agent	name=Troy Mittleider	episodes=1 episode, 2009 	
+character=Phil Holden	name=John Eric Bentley	episodes=1 episode, 2010 	
+character=Gerrard	name=Charlie Bodin	episodes=1 episode, 2010 	
+character=Commando 	name=John Antonini	episodes=1 episode, 2010 	
+character=Sergeant Kiley	name=John Cothran	episodes=1 episode, 2001 	
+character=Ben	name=Chuck Walczak	episodes=1 episode, 2001 	
+character=Vincent	name=Gary Murphy	episodes=1 episode, 2001 	
+character=Dave	name=Gregory Sporleder	episodes=1 episode, 2002 	
+character=Dockerty	name=Christopher Murray	episodes=1 episode, 2002 	
+character=Charles McLemore	name=Jesse Corti	episodes=1 episode, 2002 	
+character=Agent Holmes	name=Mina Badie	episodes=1 episode, 2002 	
+character=Cam Strocker	name=Antonio David Lyons	episodes=1 episode, 2002 	
+character=Bus Stop Man	name=Mark Clayman	episodes=1 episode, 2002 	
+character=Fire Marshal	name=Richard Gross	episodes=1 episode, 2002 	
+character=Nancy	name=Tracy E. Wilson	episodes=1 episode, 2002 	
+character=First Waiter	name=John Tague	episodes=1 episode, 2002 	
+character=Anna	name=Talitha Peters	episodes=1 episode, 2002 	
+character=Buchanan	name=Leonard Roberts	episodes=1 episode, 2003 	
+character=Colonel Lamb	name=Edward Edwards	episodes=1 episode, 2003 	
+character=Simon Cullens	name=Carlos Sanz	episodes=1 episode, 2003 	
+character=Gus	name=Adam Vernier	episodes=1 episode, 2003 	
+character=Trap Door Agent	name=Dane Northcutt	episodes=1 episode, 2003 	
+character=Male Reporter	name=Rick Lozano	episodes=1 episode, 2003 	
+character=Bill	name=Christopher Stanley	episodes=1 episode, 2004 	
+character=Bruce Margolis	name=JD Cullum	episodes=1 episode, 2004 	
+character=LAPD Officer 	name=Conroe Brooks	episodes=1 episode, 2004 	
+character=Delta Pilot	name=Thomas Hildreth	episodes=1 episode, 2004 	
+character=Melissa	name=Myndy Crist	episodes=1 episode, 2005 	
+character=Sgt. Dennis McGrath	name=Alex Skuby	episodes=1 episode, 2005 	
+character=Kevin Keeler	name=Chris Olivero	episodes=1 episode, 2005 	
+character=Henchman	name=Peter Macdissi	episodes=1 episode, 2005 	
+character=Omar	name=Peter Macdissi	episodes=1 episode, 2005 	
+character=Jennie	name=Wylie Small	episodes=1 episode, 2005 	
+character=Presidential Aide	name=Stacy Solodkin	episodes=1 episode, 2005 	
+character=Jin	name=Ryun Yu	episodes=1 episode, 2005 	
+character=Conrad Haas	name=Jeff Kober	episodes=1 episode, 2006 	
+character=CTU Agent	name=Tohoru Masamune	episodes=1 episode, 2006 	
+character=Operative	name=Kevin E. West	episodes=1 episode, 2006 	
+character=Nathanson	name=Kevin E. West	episodes=1 episode, 2006 	
+character=DHS Field Agent	name=Aaron McPherson	episodes=1 episode, 2006 	
+character=John Stratton	name=Sky Soleil	episodes=1 episode, 2006 	
+character=Lieutenant Southern	name=Don Fischer	episodes=1 episode, 2006 	
+character=Baggage Handler	name=Adam Donshik	episodes=1 episode, 2006 	
+character=Brady Hauser	name=Scott Michael Campbell	episodes=1 episode, 2007 	
+character=General Walsh	name=James Horan	episodes=1 episode, 2007 	
+character=Blake Simon	name=D.C. Douglas	episodes=1 episode, 2007 	
+character=Cabinet Secretary 	name=Brenda Wehle	episodes=1 episode, 2007 	
+character=Robin	name=Mary Chris Wall	episodes=1 episode, 2007 	
+character=Taj	name=Samir Younis	episodes=1 episode, 2007 	
+character=Prion Variant 	name=Jennifer Hetrick	episodes=1 episode, 2009 	
+character=FBI Agent 	name=Burt Bulos	episodes=1 episode, 2009 	
+character=Dr. Lee Schulman	name=Ned Schmidtke	episodes=1 episode, 2009 	
+character=Driver	name=Pablo Espinosa	episodes=1 episode, 2009 	
+character=Mayer	name=Pablo Espinosa	episodes=1 episode, 2009 	
+character=FBI Policeman 	name=Omar Leyva	episodes=1 episode, 2009 	
+character=Morgan	name=Ian Paul Cassidy	episodes=1 episode, 2009 	
+character=Dr. Stahl	name=Armando Molina	episodes=1 episode, 2009 	
+character=EMT	name=Adam LeClair	episodes=1 episode, 2009 	
+character=CNB Anchor	name=Brian Bolter	episodes=1 episode, 2009 	
+character=Agent Torres	name=Jaime Gomez	episodes=1 episode, 2010 	
+character=Agent Trask	name=Joseph Will	episodes=1 episode, 2010 	
+character=Haigney	name=Marc Aden Gray	episodes=1 episode, 2010 	
+character=CTU Guard Jim Payne	name=Jamison Haase	episodes=1 episode, 2010 	
+character=Bellow	name=John T. Woods	episodes=1 episode, 2010 	
+character=Soldier 	name=Mark Allan Stewart	episodes=1 episode, 2010 	
+character=Nest Operative	name=Brent Schraff	episodes=1 episode, 2010 	
+character=NYPD Officer	name=Mark DeLisle	episodes=1 episode, 2010 	
+character=Victor Rovner	name=Jeff Ricketts	episodes=1 episode, 2001 	
+character=Nurse	name=Norma Maldonado	episodes=1 episode, 2001 	
+character=Jared	name=Ron Roggé	episodes=1 episode, 2002 	
+character=Prime Minister	name=Mike Saad	episodes=1 episode, 2002 	
+character=Phil	name=Connor	episodes=1 episode, 2002 	
+character=Phil	name=Steve O	episodes=1 episode, 2002 	
+character=Kid	name=Desmond Bull	episodes=1 episode, 2002 	
+character=CTU Helicopter Crewman	name=Morocco Omari	episodes=1 episode, 2003 	
+character=Melinda Kale	name=Zina Zaflow	episodes=1 episode, 2003 	
+character=Nurse Clara	name=Misty Carlisle	episodes=1 episode, 2003 	
+character=Fareed Ali	name=Ike Bram	episodes=1 episode, 2003 	
+character=Lieutenant Jim Wong	name=Philip Moon	episodes=1 episode, 2004 	
+character=Woman	name=Liann Pattison	episodes=1 episode, 2004 	
+character=Agent Liles	name=Charlie Sandlan	episodes=1 episode, 2004 	
+character=Laurie Hansen	name=Amy Benedict	episodes=1 episode, 2005 	
+character=Officer Pantell	name=Kent Faulcon	episodes=1 episode, 2005 	
+character=Officer Bill Dodson	name=James McCauley	episodes=1 episode, 2005 	
+character=Medic	name=Taneka Johnson	episodes=1 episode, 2005 	
+character=Agent Davis	name=Tom McCafferty	episodes=1 episode, 2005 	
+character=Maurice Landstrass	name=Thomas Tofel	episodes=1 episode, 2005 	
+character=Agent Drake	name=Leesa Severyn	episodes=1 episode, 2005 	
+character=Burke	name=Taylor Nichols	episodes=1 episode, 2006 	
+character=Harry Swinton	name=Peter Holden	episodes=1 episode, 2006 	
+character=Federal Marshal	name=Matthew Jones	episodes=1 episode, 2006 	
+character=Kohler	name=Eric Winzenried	episodes=1 episode, 2006 	
+character=Penthouse Security Guard 	name=Scott Vance	episodes=1 episode, 2006 	
+character=Airport Security Guard	name=Bernard Addison	episodes=1 episode, 2006 	
+character=Cooper	name=Jeff Campbell	episodes=1 episode, 2006 	
+character=Marcus	name=Pat Healy	episodes=1 episode, 2007 	
+character=Survivor	name=Lyn Alicia Henderson	episodes=1 episode, 2007 	
+character=CTU SWAT Agent	name=Brian Silverman	episodes=1 episode, 2007 	
+character=Secretary Dawes	name=Bob Morrisey	episodes=1 episode, 2007 	
+character=Ian	name=Rueben Grundy	episodes=1 episode, 2007 	
+character=Yusuf Amar	name=Ruben Pla	episodes=1 episode, 2007 	
+character=Rogers	name=Butch Hammett	episodes=1 episode, 2007 	
+character=Dr. Wyndham	name=Cas Anvar	episodes=1 episode, 2009 	
+character=Arthur Carr	name=David Fury	episodes=1 episode, 2009 	
+character=Kevin Aldridge	name=John Rosenfeld	episodes=1 episode, 2009 	
+character=FBI Field Agent	name=Aaron James Cash	episodes=1 episode, 2009 	
+character=Greer	name=Stephen Jared	episodes=1 episode, 2009 	
+character=Secret Service Agent	name=Clint Jung	episodes=1 episode, 2009 	
+character=Resident 	name=Robert A. Johnson	episodes=1 episode, 2009 	
+character=Molly O	name=Christina Cox	episodes=1 episode, 2010 	
+character=Connor	name=Christina Cox	episodes=1 episode, 2010 	
+character=Operative	name=Stefan Kapicic	episodes=1 episode, 2010 	
+character=Davros	name=Stefan Kapicic	episodes=1 episode, 2010 	
+character=Soldier 	name=Jonathan Kowalsky	episodes=1 episode, 2010 	
+character=Aide	name=Adam Tsekhman	episodes=1 episode, 2010 	
+character=Suvarov	name=Adam Tsekhman	episodes=1 episode, 2010 	
+character=Air Force Pilot	name=Mark Engelhardt	episodes=1 episode, 2010 	
+character=Bailiff	name=David Michie	episodes=1 episode, 2010 	
+character=CTU Agent 	name=Kaitlyn Benson	episodes=1 episode, 2010 	
+character=Dr. Wynan	name=Jonathan Strait	episodes=1 episode, 2010 	
+character=CTU Swat 	name=Demond Robertson	episodes=1 episode, 2010 	
+character=Rocco	name=Steph DuVall	episodes=1 episode, 2001 	
+character=Flight Attendant	name=Petra Wright	episodes=1 episode, 2001 	
+character=Craig	name=Noel Gugliemi	episodes=1 episode, 2002 	
+character=Mina	name=Esther K. Chae	episodes=1 episode, 2002 	
+character=Military Official	name=David Ursin	episodes=1 episode, 2002 	
+character=Lewis	name=Martin Morales	episodes=1 episode, 2002 	
+character=Inmate 	name=John Pyper-Ferguson	episodes=1 episode, 2003 	
+character=Major John Blanchard	name=Steve Rankin	episodes=1 episode, 2003 	
+character=News Reporter	name=Daphne Bloomer	episodes=1 episode, 2003 	
+character=Prison Guard 	name=Steve Heinze	episodes=1 episode, 2003 	
+character=Reporter	name=Christine Devine	episodes=1 episode, 2004 	
+character=CTU Forensics Agent	name=David Kelsey	episodes=1 episode, 2004 	
+character=Stevens	name=J. Scott Shonka	episodes=1 episode, 2004 	
+character=CTU Security Wilson	name=Andy Rolfes	episodes=1 episode, 2004 	
+character=Hotel Guest	name=Paris Tanaka	episodes=1 episode, 2004 	
+character=Marwan	name=Sunil Malhotra	episodes=1 episode, 2005 	
+character=Pilot	name=Sunil Malhotra	episodes=1 episode, 2005 	
+character=Hurt Woman	name=Elyse Mirto	episodes=1 episode, 2005 	
+character=George Kliavkoff	name=Timothy Davis-Reed	episodes=1 episode, 2005 	
+character=Jeannie Paige	name=Annie LaRussa	episodes=1 episode, 2005 	
+character=Lover	name=Chris Eckles	episodes=1 episode, 2005 	
+character=Farah	name=Chris Eckles	episodes=1 episode, 2005 	
+character=Hank	name=Robert Rusler	episodes=1 episode, 2006 	
+character=College Student	name=Jerad Anderson	episodes=1 episode, 2006 	
+character=Penthouse Security Guard 	name=J. David Shanks	episodes=1 episode, 2006 	
+character=Captain Riggs	name=Tim Talman	episodes=1 episode, 2006 	
+character=Wilshire Security Guard	name=Frank Silva	episodes=1 episode, 2006 	
+character=Passenger 	name=Keith Pillow	episodes=1 episode, 2006 	
+character=Checkpoint Agent	name=Musashi Alexander	episodes=1 episode, 2006 	
+character=Marine Sergeant	name=Mike Smith	episodes=1 episode, 2007 	
+character=Middle Eastern Man	name=Kahlil Joseph	episodes=1 episode, 2007 	
+character=Assistant	name=Jayson Victor	episodes=1 episode, 2007 	
+character=Bradley	name=Jayson Victor	episodes=1 episode, 2007 	
+character=Agent Hobson	name=Chris Ufland	episodes=1 episode, 2009 	
+character=Chuck Toland	name=Murphy Guyer	episodes=1 episode, 2009 	
+character=EMT 	name=Jade Carter	episodes=1 episode, 2009 	
+character=Nurse	name=Janora McDuffie	episodes=1 episode, 2009 	
+character=Biohazard Agent	name=Emil Beheshti	episodes=1 episode, 2009 	
+character=Resident 	name=Mike Baldridge	episodes=1 episode, 2009 	
+character=Agent Smith	name=Kurt Meyer	episodes=1 episode, 2009 	
+character=Agent Miller	name=Marc Schaffer	episodes=1 episode, 2009 	
+character=DCPD Officer 	name=Joe Wandell	episodes=1 episode, 2009 	
+character=Soldier 	name=Inna Korobkina	episodes=1 episode, 2010 	
+character=Sniper	name=Cliff Simon	episodes=1 episode, 2010 	
+character=Davros	name=Cliff Simon	episodes=1 episode, 2010 	
+character=Female Reporter	name=Nayo Wallace	episodes=1 episode, 2010 	
+character=CTU Worker	name=Kevin Kelly	episodes=1 episode, 2010 	
+character=Anesthesiologist	name=Ariel Felix	episodes=1 episode, 2001 	
+character=Douglas Newman	name=Tony Perez	episodes=1 episode, 2001 	
+character=Teenager 	name=Marcus Brown	episodes=1 episode, 2001 	
+character=Flight Attendant	name=Karen Kim	episodes=1 episode, 2001 	
+character=Chris	name=Jason Matthew Smith	episodes=1 episode, 2002 	
+character=Agent Rosser	name=Billy Mayo	episodes=1 episode, 2002 	
+character=Cop	name=Manny Perry	episodes=1 episode, 2002 	
+character=Lyons	name=Gwen Stewart	episodes=1 episode, 2002 	
+character=Female Worker	name=Shirin Sharif	episodes=1 episode, 2002 	
+character=District Medic	name=Josh Clark	episodes=1 episode, 2003 	
+character=Asad Ali	name=Raja Fenske	episodes=1 episode, 2003 	
+character=Prime Minister of Turkey	name=Braeden Marcott	episodes=1 episode, 2003 	
+character=Maggie	name=Lilas Lane	episodes=1 episode, 2003 	
+character=Sandra	name=Vivian Guzman	episodes=1 episode, 2003 	
+character=Agent Parker	name=Derrick L. McMillon	episodes=1 episode, 2003 	
+character=Assistant	name=Matt Kaminsky	episodes=1 episode, 2004 	
+character=Phillips	name=Matt Kaminsky	episodes=1 episode, 2004 	
+character=Man	name=Bob Jesser	episodes=1 episode, 2004 	
+character=Female Intel Agent	name=Angelena Swords	episodes=1 episode, 2004 	
+character=Alice	name=Kyme	episodes=1 episode, 2004 	
+character=Hotel Guest	name=Sue Jin Song	episodes=1 episode, 2004 	
+character=Brody	name=Jeff Griggs	episodes=1 episode, 2005 	
+character=Sergeant Phillips	name=Eric Ritter	episodes=1 episode, 2005 	
+character=Ned	name=Eddie Mekka	episodes=1 episode, 2006 	
+character=Doctor Hill	name=Tim Rhoze	episodes=1 episode, 2006 	
+character=Russian Officer	name=Dominic Comperatore	episodes=1 episode, 2006 	
+character=Meghan	name=Karla Zamudio	episodes=1 episode, 2006 	
+character=Female Bar Patron	name=Lissa Pallo	episodes=1 episode, 2006 	
+character=Spokesman	name=Mark Henderson	episodes=1 episode, 2006 	
+character=National Guard Sergeant	name=James Parks	episodes=1 episode, 2007 	
+character=Omar	name=Mante	episodes=1 episode, 2007 	
+character=Omar	name=Adrian R	episodes=1 episode, 2007 	
+character=Suvarov	name=Eugene Alper	episodes=1 episode, 2007 	
+character=Aide Gregor	name=Eugene Alper	episodes=1 episode, 2007 	
+character=Raymond Howell	name=Dominic Hoffman	episodes=1 episode, 2009 	
+character=Dr. Cornell	name=Bobby Hosea	episodes=1 episode, 2009 	
+character=Andrews	name=Wally Rudolph	episodes=1 episode, 2009 	
+character=Sangalan Villager 	name=Chris Erric Maddox	episodes=1 episode, 2009 	
+character=Dubaku Man 	name=Maurice McRae	episodes=1 episode, 2009 	
+character=Fynn	name=Brian Jude Leahy	episodes=1 episode, 2009 	
+character=Nurse Mitchell	name=Heidi Wallace	episodes=1 episode, 2009 	
+character=Phillips	name=James Jordan	episodes=1 episode, 2010 	
+character=Ruth Scott	name=Becky Wahlstrom	episodes=1 episode, 2010 	
+character=General Wasim	name=Bashar Rahal	episodes=1 episode, 2010 	
+character=Soldier	name=Simon Anthony	episodes=1 episode, 2010 	
+character=Male Reporter	name=Kevin Ashworth	episodes=1 episode, 2010 	
+character=NYPD Officer Mund	name=Brian Hyman	episodes=1 episode, 2010 	
+character=CTU Analyst	name=Jane Condon	episodes=1 episode, 2010 	
+character=Surgical Nurse	name=Linda Klein	episodes=1 episode, 2001 	
+character=Receptionist	name=Sharon Madden	episodes=1 episode, 2001 	
+character=Reporter	name=Lisa Joyner	episodes=1 episode, 2002 	
+character=Deng	name=Tony Lee	episodes=1 episode, 2002 	
+character=G. Harding	name=Maurice G. Smith	episodes=1 episode, 2002 	
+character=Nurse	name=Michelle Anne Johnson	episodes=1 episode, 2002 	
+character=Bob Jorgensen	name=Lewis Dauber	episodes=1 episode, 2002 	
+character=Field Reporter	name=John Sterling Carter	episodes=1 episode, 2002 	
+character=Security Guard	name=Maurice Dunster	episodes=1 episode, 2002 	
+character=Rita Cullens	name=Deena Dill	episodes=1 episode, 2003 	
+character=Douglas Shaye	name=Lorry Goldman	episodes=1 episode, 2003 	
+character=Zach Parker	name=Jf Pryor	episodes=1 episode, 2003 	
+character=Jeff Benson	name=Ty Upshaw	episodes=1 episode, 2003 	
+character=Driver	name=Fred Saldone	episodes=1 episode, 2003 	
+character=Wife	name=Shaheen Vaaz	episodes=1 episode, 2003 	
+character=Syed Ali	name=Shaheen Vaaz	episodes=1 episode, 2003 	
+character=Jason Carasone	name=Ed Wasser	episodes=1 episode, 2004 	
+character=Dorman	name=Eamon Hunt	episodes=1 episode, 2004 	
+character=Delta Medic	name=Sven Erik Lindstrom	episodes=1 episode, 2004 	
+character=Agent Dalton	name=Gary Weeks	episodes=1 episode, 2005 	
+character=Train Engineer	name=William Badgett	episodes=1 episode, 2005 	
+character=Captain Clarke	name=Michael Borgschulte	episodes=1 episode, 2005 	
+character=Taxi Driver	name=Kevin Scott Allen	episodes=1 episode, 2006 	
+character=Businessman	name=Lou Richards	episodes=1 episode, 2006 	
+character=European Woman	name=Aleksandra Kaniak	episodes=1 episode, 2006 	
+character=Lead LAPD Officer	name=Brandon Ford Green	episodes=1 episode, 2006 	
+character=CTU Agent	name=Michael Eric Strickland	episodes=1 episode, 2006 	
+character=KHGC Field Reporter	name=Elizabeth Espinosa	episodes=1 episode, 2006 	
+character=Ticket Agent	name=Van Epperson	episodes=1 episode, 2007 	
+character=Field Reporter	name=Robb Weller	episodes=1 episode, 2007 	
+character=Floor Manager	name=Richard Rosser	episodes=1 episode, 2007 	
+character=Agent Mark	name=Stephen Wastell	episodes=1 episode, 2007 	
+character=Young East Asian Man	name=Benito Paje	episodes=1 episode, 2007 	
+character=CTU SWAT Medic	name=Eric Cazenave	episodes=1 episode, 2007 	
+character=Meredith Rojas	name=Alyson Croft	episodes=1 episode, 2009 	
+character=Token Booth Operator	name=Eileen Galindo	episodes=1 episode, 2009 	
+character=Marine Squad Leader	name=Darren Keefe Reiher	episodes=1 episode, 2009 	
+character=Boyd Engineer	name=Charles Emmett	episodes=1 episode, 2009 	
+character=Agent Alves	name=Billoah Greene	episodes=1 episode, 2009 	
+character=Sangalan Villager 	name=Carshénah Jefferson	episodes=1 episode, 2009 	
+character=Nurse	name=Detra Payne	episodes=1 episode, 2009 	
+character=Berkov	name=Andy Davoli	episodes=1 episode, 2010 	
+character=Father Gregor	name=Matthew Wolf	episodes=1 episode, 2010 	
+character=Dr. Laura Hendricks	name=Jane McLean Guerra	episodes=1 episode, 2010 	
+character=NYPD Officer 	name=Eddie Goines	episodes=1 episode, 2010 	
+character=Teshon	name=Sam Sarpong	episodes=1 episode, 2010 	
+character=Surgeon	name=Rolando Boyce	episodes=1 episode, 2010 	
+character=Sterling Rush	name=Danny Kashper	episodes=1 episode, 2010 	
+character=Presidential Aide 	name=Shauna McGarry	episodes=1 episode, 2010 	
+character=Arabic Girl	name=Talin Silva	episodes=1 episode, 2010 	
+character=Cop 	name=Aaron Norvell	episodes=1 episode, 2010 	
+character=Police Officer	name=Donnell	episodes=1 episode, 2010 	
+character=Police Officer	name=David J. O	episodes=1 episode, 2010 	
+character=Dr. Kinnard	name=James Healy Jr.	episodes=1 episode, 2001 	
+character=Woman	name=Kathy Byron	episodes=1 episode, 2001 	
+character=LAPD Officer	name=Benjamin Koldyke	episodes=1 episode, 2002 	
+character=Rick	name=Brad Grunberg	episodes=1 episode, 2002 	
+character=Security Guard	name=Marty Ryan	episodes=1 episode, 2002 	
+character=Colonel Ted Graham	name=R.A. Buck	episodes=1 episode, 2002 	
+character=Mark	name=Burke Stuart	episodes=1 episode, 2002 	
+character=Virologist	name=Keith MacKechnie	episodes=1 episode, 2003 	
+character=Chuck	name=Mark Arnott	episodes=1 episode, 2003 	
+character=Detective Fisher	name=David Reivers	episodes=1 episode, 2003 	
+character=Officer Brooks	name=Henry LeBlanc	episodes=1 episode, 2003 	
+character=Nurse	name=Mary Wickliffe	episodes=1 episode, 2004 	
+character=CTU Doctor	name=Fred Griffith	episodes=1 episode, 2004 	
+character=Operative	name=Gavin Glennon	episodes=1 episode, 2004 	
+character=Saunders	name=Gavin Glennon	episodes=1 episode, 2004 	
+character=Guard	name=Nathanial Moon	episodes=1 episode, 2004 	
+character=Amador	name=Nathanial Moon	episodes=1 episode, 2004 	
+character=Hana	name=Pamela Bel Anu	episodes=1 episode, 2005 	
+character=Agent Jones	name=David Joyner	episodes=1 episode, 2006 	
+character=Mara Tyler	name=Josie DiVincenzo	episodes=1 episode, 2006 	
+character=Agent M. Dunley	name=Terry Woodberry	episodes=1 episode, 2006 	
+character=CRT Agent	name=Angelo Perez	episodes=1 episode, 2006 	
+character=Alpha 7	name=Terrence Wayne	episodes=1 episode, 2006 	
+character=Sam	name=Mark Bramhall	episodes=1 episode, 2007 	
+character=CTU Field Agent	name=Brian Johnson	episodes=1 episode, 2007 	
+character=Medic 	name=James Ellis Lane	episodes=1 episode, 2007 	
+character=EMT	name=Francisco Viana	episodes=1 episode, 2007 	
+character=Hale	name=Winston Story	episodes=1 episode, 2009 	
+character=Nurse 	name=Lucy Butler	episodes=1 episode, 2009 	
+character=DCPD Pilot	name=Hector Atreyu Ruiz	episodes=1 episode, 2009 	
+character=Sangalan Villager 	name=Jermel Nakia	episodes=1 episode, 2009 	
+character=Airport Security Guard 	name=Derwin Jordan	episodes=1 episode, 2009 	
+character=Federal Marshal	name=Glenn Davis	episodes=1 episode, 2009 	
+character=Transit Cop 	name=Ryan Smith	episodes=1 episode, 2009 	
+character=IRK Security Guard	name=Jonathan Avigdori	episodes=1 episode, 2010 	
+character=Captain Ravello	name=Greg Collins	episodes=1 episode, 2010 	
+character=Woman	name=Tania Verafield	episodes=1 episode, 2010 	
+character=Ivan	name=Michael Petrone	episodes=1 episode, 2010 	
+character=Agent Swofford	name=Tripp Pickell	episodes=1 episode, 2010 	
+character=EMT 	name=Tony Elias	episodes=1 episode, 2010 	
+character=Fredericks	name=Mickey Maxwell	episodes=1 episode, 2010 	
+character=CTU SWAT Sniper	name=Jerald Vincent	episodes=1 episode, 2010 	
+character=Secret Service Agent	name=Mike Siegel	episodes=1 episode, 2001 	
+character=Secret Service Agent	name=Michael Nagy	episodes=1 episode, 2002 	
+character=Jason Park	name=Boyuen	episodes=1 episode, 2002 	
+character=Doug Sloan	name=Stan Carlson	episodes=1 episode, 2002 	
+character=Partner	name=Mariah Pasos	episodes=1 episode, 2002 	
+character=Sam	name=Mariah Pasos	episodes=1 episode, 2002 	
+character=Mall Security Guard	name=Michael G. Canaan	episodes=1 episode, 2003 	
+character=Sam Tyler	name=Sean Smith	episodes=1 episode, 2004 	
+character=Salazar Guard	name=Frank Alvarez	episodes=1 episode, 2004 	
+character=Convenience Store Woman	name=Heather Long	episodes=1 episode, 2005 	
+character=Jim	name=Dominick LaRae	episodes=1 episode, 2005 	
+character=Viktor Grigorin	name=Marat Oyvetsky	episodes=1 episode, 2006 	
+character=Son	name=Joey Munguia	episodes=1 episode, 2006 	
+character=Meghan	name=Joey Munguia	episodes=1 episode, 2006 	
+character=Medic	name=Joseph Griffin	episodes=1 episode, 2007 	
+character=Security Station Agent	name=Eddie Driscoll	episodes=1 episode, 2007 	
+character=Nurse	name=K.T. Thangavelu	episodes=1 episode, 2007 	
+character=Malek	name=Muttalib J. Ibrahim	episodes=1 episode, 2007 	
+character=News Anchor	name=Mark Joyella	episodes=1 episode, 2007 	
+character=Robert	name=Richard Roat	episodes=1 episode, 2009 	
+character=Helicopter Pilot	name=Boo Arnold	episodes=1 episode, 2009 	
+character=Sangalan Villager 	name=Constance Ejuma	episodes=1 episode, 2009 	
+character=Technician 	name=Reginald James	episodes=1 episode, 2009 	
+character=Nurse 	name=Ali Chen	episodes=1 episode, 2009 	
+character=Nurse Corinna	name=Rachel Andersen	episodes=1 episode, 2009 	
+character=Niel	name=Jim Staples	episodes=1 episode, 2009 	
+character=O	name=Jim Staples	episodes=1 episode, 2009 	
+character=NYPD Patrolman	name=Chris Caldovino	episodes=1 episode, 2010 	
+character=Rabinowitz	name=Robert Dolan	episodes=1 episode, 2010 	
+character=Janitor	name=Jose Vasquez	episodes=1 episode, 2001 	
+character=Abbott	name=Nynno Ahli	episodes=1 episode, 2001 	
+character=Marshall Goren	name=Carl Ciarfalio	episodes=1 episode, 2002 	
+character=Hazmat Paramedic	name=Max Delgado	episodes=1 episode, 2002 	
+character=Ken Williams	name=Demitri Fields	episodes=1 episode, 2002 	
+character=Don	name=Darin Cooper	episodes=1 episode, 2003 	
+character=Red Shirt Guy	name=Bill Kalmenson	episodes=1 episode, 2004 	
+character=Marcy	name=Neisha Folkes-LeMelle	episodes=1 episode, 2004 	
+character=First Reporter	name=John Nielsen	episodes=1 episode, 2004 	
+character=Sarah	name=Jaclyn Sara Silvers	episodes=1 episode, 2004 	
+character=Dan	name=Danny Arroyo	episodes=1 episode, 2005 	
+character=Fayed	name=Ludwig Manukian	episodes=1 episode, 2007 	
+character=Henchman	name=Ludwig Manukian	episodes=1 episode, 2007 	
+character=Yuli	name=Michael Khmurov	episodes=1 episode, 2007 	
+character=Julie	name=Julie Quinn	episodes=1 episode, 2007 	
+character=FAA Official	name=Phil Abrams	episodes=1 episode, 2009 	
+character=Flight Attendant 	name=Jill Remez	episodes=1 episode, 2009 	
+character=Ranger Thompson	name=Chase Kim	episodes=1 episode, 2009 	
+character=Sangalan Villager 	name=Artel Great	episodes=1 episode, 2009 	
+character=Transit Cop 	name=Randolph Adams	episodes=1 episode, 2009 	
+character=Nurse	name=Patty Onagan	episodes=1 episode, 2009 	
+character=Nurse	name=Presciliana Esparolini	episodes=1 episode, 2010 	
+character=Wasim	name=Philip Shahbaz	episodes=1 episode, 2010 	
+character=Officer	name=Philip Shahbaz	episodes=1 episode, 2010 	
+character=Agent Rahim	name=Steve Filice	episodes=1 episode, 2010 	
+character=Press Reporter	name=Jane Park Smith	episodes=1 episode, 2010 	
+character=Jay	name=Cleavon McClendon	episodes=1 episode, 2010 	
+character=UN Field Reporter	name=Nick Smith	episodes=1 episode, 2010 	
+character=Businessman	name=Scott Dawson	episodes=1 episode, 2010 	
+character=Pilot	name=Oscar Nuñez	episodes=1 episode, 2003 	
+character=Aide	name=Margaret Easley	episodes=1 episode, 2004 	
+character=President	name=Margaret Easley	episodes=1 episode, 2004 	
+character=Keeler	name=Dana Walters	episodes=1 episode, 2005 	
+character=Assistant	name=Dana Walters	episodes=1 episode, 2005 	
+character=Doctor Paulson	name=Robb Reesman	episodes=1 episode, 2006 	
+character=Flight Attendant 	name=Elaine Kao	episodes=1 episode, 2009 	
+character=Secret Service Agent 	name=Mark Atteberry	episodes=1 episode, 2009 	
+character=Starkwood ATC	name=Dotan Baer	episodes=1 episode, 2009 	
+character=Patrick	name=James Bulliard	episodes=1 episode, 2009 	
+character=Attorney 	name=Matthew Lenhart	episodes=1 episode, 2009 	
+character=Kayla	name=Mercedes Colon	episodes=1 episode, 2010 	
+character=Aide	name=Mercedes Colon	episodes=1 episode, 2010 	
+character=Drug Addict	name=Jay Thames	episodes=1 episode, 2010 	
+character=CTU Security Guard	name=Brian David Jones	episodes=1 episode, 2010 	
+character=Ed	name=Norm Compton	episodes=1 episode, 2003 	
+character=Second Reporter	name=Hare	episodes=1 episode, 2004 	
+character=Second Reporter	name=Darren O	episodes=1 episode, 2004 	
+character=Saunders	name=Robert Bezanilla	episodes=1 episode, 2004 	
+character=Mercenary Leader	name=Robert Bezanilla	episodes=1 episode, 2004 	
+character=CTU Security Guard	name=Blaine Pate	episodes=1 episode, 2006 	
+character=Assad	name=Herzl Tobey	episodes=1 episode, 2007 	
+character=Man	name=Herzl Tobey	episodes=1 episode, 2007 	
+character=Chuck	name=Peter Smith	episodes=1 episode, 2007 	
+character=FBI Agent 	name=Anthony DeSantis	episodes=1 episode, 2009 	
+character=Attorney 	name=Daver Morrison	episodes=1 episode, 2009 	
+character=IRK Aide	name=Sashi Bommakanty	episodes=1 episode, 2010 	
+character=EMT	name=Scott Ferrara	episodes=1 episode, 2010 	
+character=EMT	name=Scott Ferrara	episodes=1 episode, 2010 	
+character=Dr. Joyner	name=George Alan	episodes=1 episode, 2004 	
+character=Lieutenant Colonel	name=Michael Broderick	episodes=1 episode, 2007 	
+character=CNB Reporter	name=Ron Pitts	episodes=1 episode, 2009 	
+character=Bob Beckel	name=Bob Beckel	episodes=1 episode, 2010 	
+character=NHS Security Guard	name=John Bisom	episodes=1 episode, 2003 	
+character=Wall Street Passenger	name=Geoff Aull	episodes=1 episode, 2009 	
+character=Monica Elizabeth Crowley	name=Monica Crowley	episodes=1 episode, 2010 	
+character=FOX News Anchor	name=Ernie Anastos	episodes=1 episode, 2010 	
+character=FBI Agent 	name=Matthew Scanlon	episodes=1 episode, 2010 	
+character=Nasir Trabelsi	name=Patrick Sabongui	episodes=1 episode, 2007 	
+character=Emily Latham	name=Hayley McFarland	episodes=1 episode, 2009 	
+character=FBI Agent 	name=Ryan Christiansen	episodes=1 episode, 2010 	
+character=Sato	name=Roy Vongtama	episodes=1 episode, 2009 	
+character=Prison Guard 	name=Tom Kiesche	episodes=1 episode, 2003 	
+character=Agent	name=André Rishi	episodes=1 episode, 2004 	
+character=CTU Guard	name=Richy B. Jacobs	episodes=1 episode, 2004 	
+character=Hessa Marwan	name=Bahar Soomekh	episodes=1 episode, 2005 	
+character=Steven Wiseman	name=Robert Catrini	episodes=1 episode, 2005 	
+character=Officer Goodwin	name=Mitchell A. Steinberg	episodes=1 episode, 2005 	
+character=Agent Aaron	name=Aaron White	episodes=1 episode, 2005 	
+character=Agent McCullough	name=Erik Rondell	episodes=1 episode, 2006 	
+character=CTU Guard	name=Chaz Fatur	episodes=1 episode, 2006 	
+character=Middle Eastern Man	name=Michael Karawia	episodes=1 episode, 2006 	
+character=CTU	name=Shawn McDonald	episodes=1 episode, 2007 	
+character=FSB Agent	name=Boris Arsoyev	episodes=1 episode, 2007 	
+character=CTU Agent	name=Patrick O	episodes=14 episodes, 2003 	
+character=CTU Agent	name=Bell	episodes=14 episodes, 2003 	
+character=Roger Stanton	name=Harris Yulin	episodes=9 episodes, 2002-2003 	
+character=CTU Worker	name=Ajay Nayyar	episodes=8 episodes, 2010 	
+character=Cara	name=Randall Archer	episodes=7 episodes, 2009 	
+character=Accomplice	name=Randall Archer	episodes=7 episodes, 2009 	
+character=CTU Staffer	name=Kavita Patil	episodes=6 episodes, 2001-2002 	
+character=Terrorist	name=Laurence Todd Rosenthal	episodes=5 episodes, 2005-2007 	
+character=Mark Wexler	name=Tim Mikulecky	episodes=4 episodes, 2006-2009 	
+character=Agent Adam	name=Richard John Walters	episodes=3 episodes, 2003-2005 	
+character=Inmate 	name=Troy Gilbert	episodes=3 episodes, 2003-2005 	
+character=Terrorist	name=Marco Khan	episodes=3 episodes, 2005 	
+character=Agent North	name=Mark Aaron Wagner	episodes=3 episodes, 2006 	
+character=Agent Boorman	name=Alton Demore	episodes=3 episodes, 2007 	
+character=FBI Agent 	name=Brian Waller	episodes=3 episodes, 2009 	
+character=Lucy	name=Melanee Murray	episodes=2 episodes, 2002 	
+character=Inmate D-9973	name=John Meier	episodes=2 episodes, 2003 	
+character=N.E.S.T. Tech 	name=John Dalton	episodes=2 episodes, 2003 	
+character=Forbes	name=David Kilde	episodes=2 episodes, 2005 	
+character=Henchman	name=David Kilde	episodes=2 episodes, 2005 	
+character=Navi	name=Nick Hermz	episodes=2 episodes, 2005 	
+character=Driver	name=Nick Hermz	episodes=2 episodes, 2005 	
+character=Jacob Rossler	name=Patrick Bauchau	episodes=2 episodes, 2006 	
+character=Irv	name=Monti Sharp	episodes=2 episodes, 2007 	
+character=CTU Officer	name=Danny Pardo	episodes=2 episodes, 2007 	
+character=Ed	name=Matt Flanagan	episodes=2 episodes, 2007 	
+character=CTU Office Worker	name=Kristina Sutton	episodes=2 episodes, 2010 	
+character=Reporter	name=Erin Pickett	episodes=2 episodes, 2010 	
+character=Reporter	name=Rick L. Dean	episodes=2 episodes, 2010 	
+character=Wife	name=Janet Dey	episodes=1 episode, 2001 	
+character=Walsh	name=Janet Dey	episodes=1 episode, 2001 	
+character=Party Guest	name=Robin Blake	episodes=1 episode, 2001 	
+character=Secret Service Agent	name=Chris Torres	episodes=1 episode, 2001 	
+character=Secret Service Agent	name=Al Ahlf	episodes=1 episode, 2001 	
+character=Principal	name=Jenny Gago	episodes=1 episode, 2002 	
+character=CTU Employee	name=Julie Marie Hassett	episodes=1 episode, 2002 	
+character=CTU Staffer	name=Angela Meryl	episodes=1 episode, 2002 	
+character=Band Member	name=Sean Callery	episodes=1 episode, 2002 	
+character=CTU Staffer	name=William H. Burton Jr.	episodes=1 episode, 2002 	
+character=Officer Barber	name=Kevin Beard	episodes=1 episode, 2002 	
+character=CTU Staffer	name=Vladimir Tevlovski	episodes=1 episode, 2002 	
+character=Waitress	name=Cynthia Pinot	episodes=1 episode, 2002 	
+character=Boat Driver	name=Troy Waters	episodes=1 episode, 2002 	
+character=Drazen	name=Troy Waters	episodes=1 episode, 2002 	
+character=Reporter	name=Jackeline Olivier	episodes=1 episode, 2002 	
+character=Ralph Rosen	name=Robert Scott Kyker	episodes=1 episode, 2002 	
+character=Military Officer 	name=Stephen Mendel	episodes=1 episode, 2003 	
+character=CTU Agent	name=Dalia Phillips	episodes=1 episode, 2003 	
+character=Prison Guard	name=Ted Barba	episodes=1 episode, 2003 	
+character=EMT Collins	name=Anthony L. Gilardi	episodes=1 episode, 2003 	
+character=CTU Agent	name=Thomas Sobel	episodes=1 episode, 2003 	
+character=Agent Devereux	name=Randy Davison	episodes=1 episode, 2004 	
+character=CTU Agent	name=Tony Morgan	episodes=1 episode, 2004 	
+character=Man	name=Michael Atlas Lane	episodes=1 episode, 2004 	
+character=Hotel Guest	name=Orlando Ortega	episodes=1 episode, 2004 	
+character=Amador	name=Steven J. Pershing	episodes=1 episode, 2004 	
+character=Bodyguard	name=Steven J. Pershing	episodes=1 episode, 2004 	
+character=Terrorist	name=Scott Waugh	episodes=1 episode, 2005 	
+character=James	name=Rob Mars	episodes=1 episode, 2005 	
+character=Michelle	name=Nancy Harding	episodes=1 episode, 2005 	
+character=Assistant	name=Nancy Harding	episodes=1 episode, 2005 	
+character=CTU Agent	name=Shaun Paul Piccinino	episodes=1 episode, 2005 	
+character=Tim Felson	name=Matt DeCaro	episodes=1 episode, 2005 	
+character=First Agent	name=Todd Cattell	episodes=1 episode, 2005 	
+character=Terrorist	name=Jimmy N. Roberts	episodes=1 episode, 2005 	
+character=White House Aide	name=Terry Bolo	episodes=1 episode, 2005 	
+character=Dar	name=Joseph Hodge	episodes=1 episode, 2005 	
+character=CTU Security Guard	name=Bryan Irzyk	episodes=1 episode, 2005 	
+character=Airforce Solder	name=Dmitriy Karpov	episodes=1 episode, 2005 	
+character=Extra	name=Aled Haydn Jones	episodes=1 episode, 2005 	
+character=Major General Warren	name=Clayton Landey	episodes=1 episode, 2006 	
+character=Gunman 	name=Jerry G. Angelo	episodes=1 episode, 2006 	
+character=CTU Staffer	name=John McCain	episodes=1 episode, 2006 	
+character=Jim Hill	name=Carl Edwards	episodes=1 episode, 2006 	
+character=Daughter	name=Callie Thompson	episodes=1 episode, 2006 	
+character=Harry	name=Callie Thompson	episodes=1 episode, 2006 	
+character=Henderson	name=Mark Riccardi	episodes=1 episode, 2006 	
+character=Mercenary	name=Mark Riccardi	episodes=1 episode, 2006 	
+character=Lieutenant	name=Sonny Surowiec	episodes=1 episode, 2006 	
+character=Ostroff	name=Sonny Surowiec	episodes=1 episode, 2006 	
+character=Presidential Staffer	name=David McDivitt	episodes=1 episode, 2006 	
+character=Oil Fields Worker	name=Ricky Pak	episodes=1 episode, 2006 	
+character=White House Staffer	name=Travis Grenke	episodes=1 episode, 2006 	
+character=CTU Agent	name=Kat Venuti	episodes=1 episode, 2006 	
+character=Interviewed Shopper	name=Debbie Major	episodes=1 episode, 2006 	
+character=CTU Employee	name=Taylor Neil Thomas	episodes=1 episode, 2006 	
+character=CTU Staffer	name=Stephen Merchant	episodes=1 episode, 2007 	
+character=FBI Agent	name=Robert Duncan McNeill	episodes=1 episode, 2007 	
+character=Camp Guard	name=Loren Avedon	episodes=1 episode, 2007 	
+character=FBI Agent	name=Kevin Gregg	episodes=1 episode, 2007 	
+character=CTU Team Leader	name=Marc Scizak	episodes=1 episode, 2007 	
+character=Counter Terrorist Unit	name=Michael Dane	episodes=1 episode, 2007 	
+character=CTU SWAT Agent	name=Brandon Fisher	episodes=1 episode, 2007 	
+character=CTU Security Guard	name=Martin Taylor	episodes=1 episode, 2007 	
+character=CTU Security Guard	name=Monte Hunter	episodes=1 episode, 2007 	
+character=Roger Taylor	name=Eric Lively	episodes=1 episode, 2009 	
+character=Alan Wilson Bodyguard	name=Tanoai Reed	episodes=1 episode, 2009 	
+character=FBI Helicopter Gunner	name=Charles A. Tamburro	episodes=1 episode, 2009 	
+character=Wilson	name=Daniel Arrias	episodes=1 episode, 2009 	
+character=Bodyguard	name=Daniel Arrias	episodes=1 episode, 2009 	
+character=Wilsons Driver	name=Ivan Djurovic	episodes=1 episode, 2009 	
+character=Hostage	name=Melissa Barker	episodes=1 episode, 2009 	
+character=Aide	name=Benjamin Steeples	episodes=1 episode, 2009 	
+character=Kanin	name=Benjamin Steeples	episodes=1 episode, 2009 	
+character=Surgeon	name=Geoff Stevenson	episodes=1 episode, 2009 	
+character=FBI Agent 	name=David J Law	episodes=1 episode, 2009 	
+character=Dubaku	name=Sean Christopher	episodes=1 episode, 2009 	
+character=Bodyguard	name=Sean Christopher	episodes=1 episode, 2009 	
+character=Senator	name=Manny Oliverez	episodes=1 episode, 2009 	
+character=White House Reporter	name=Steve Dargan	episodes=1 episode, 2009 	
+character=Elderly worker	name=Gene LeBell	episodes=1 episode, 2010 	
+character=Stripper 	name=Marisa Saks	episodes=1 episode, 2010 	
+character=CTU Agent Hopkins	name=Hiro Koda	episodes=1 episode, 2010 	
+character=CTU Agent Henderson	name=Briana Cap	episodes=1 episode, 2010 	
+character=EMT	name=Erik Betts	episodes=1 episode, 2010 	
+character=Galvez	name=Erik Betts	episodes=1 episode, 2010 	
+character=CTU Field Agent	name=Jerome Ro Brooks	episodes=1 episode, 2010 	
+character=Agent Peters	name=Mark Alexander Herz	episodes=1 episode, 2010 	
+character=CTU Agent Lee	name=Brian Hite	episodes=1 episode, 2010 	
+character=Reporter	name=Maria Zambrana	episodes=1 episode, 2010 	
+character=CTU Agent Greer	name=Sterling Rush	episodes=1 episode, 2010 	
+character=New Yorker	name=Mark Anthony Lopez	episodes=1 episode, 2010 	

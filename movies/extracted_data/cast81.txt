@@ -1,0 +1,106 @@
+# http://fitlayout.github.io/resource/art81 -> https://www.imdb.com/title/tt14164730/fullcredits/
+character=Dexter 	name=Michael C. Hall	episodes=10 episodes, 2021-2022 	
+character=Morgan	name=Michael C. Hall	episodes=10 episodes, 2021-2022 	
+character=Jim Lindsay	name=Michael C. Hall	episodes=10 episodes, 2021-2022 	
+character=Harrison Morgan	name=Jack Alcott	episodes=10 episodes, 2021-2022 	
+character=Chief Angela Bishop	name=Julia Jones	episodes=10 episodes, 2021-2022 	
+character=Audrey Bishop	name=Johnny Sequoyah	episodes=10 episodes, 2021-2022 	
+character=Sgt. 	name=Alano Miller	episodes=10 episodes, 2021-2022 	
+character=Logan	name=Alano Miller	episodes=10 episodes, 2021-2022 	
+character=Coach	name=Alano Miller	episodes=10 episodes, 2021-2022 	
+character=Debra Morgan	name=Jennifer Carpenter	episodes=10 episodes, 2021-2022 	
+character=Off. Teddy Reed	name=David Magidoff	episodes=9 episodes, 2021-2022 	
+character=Kurt Caldwell	name=Clancy Brown	episodes=9 episodes, 2021-2022 	
+character=Zach	name=Oscar Wahlberg	episodes=8 episodes, 2021-2022 	
+character=Scott	name=Andrew Fama	episodes=8 episodes, 2021-2022 	
+character=Molly Park	name=Jamie Chung	episodes=7 episodes, 2021-2022 	
+character=Esther	name=Katy Sullivan	episodes=7 episodes, 2021-2022 	
+character=Matt Caldwell	name=Steve M. Robertson	episodes=2 episodes, 2021-2022 	
+character=Fred Jr.	name=Michael Cyril Creighton	episodes=6 episodes, 2021-2022 	
+character=Tess	name=Gizel Jimenez	episodes=6 episodes, 2021-2022 	
+character=Lily	name=Kimmy Anne Dunn	episodes=5 episodes, 2021-2022 	
+character=Elric	name=Shuler Hensley	episodes=4 episodes, 2021-2022 	
+character=Abraham Brown	name=Gregory Cruz	episodes=4 episodes, 2021-2022 	
+character=Pastor Brian	name=Dustin Tucker	episodes=4 episodes, 2021-2022 	
+character=Gig	name=David J. Curtis	episodes=4 episodes, 2021-2022 	
+character=Edward Olsen	name=Fredric Lehne	episodes=3 episodes, 2021 	
+character=Miriam	name=Pamela Matthews	episodes=3 episodes, 2021 	
+character=Chloe	name=Skyler Wright	episodes=3 episodes, 2021 	
+character=Adam	name=Benjamin Breault	episodes=3 episodes, 2021 	
+character=Ramon	name=Bari Robinson	episodes=3 episodes, 2021-2022 	
+character=Waitress	name=Dee Nelson	episodes=3 episodes, 2021 	
+character=Susan 	name=Dee Nelson	episodes=3 episodes, 2021 	
+character=Capt. Angel Batista	name=David Zayas	episodes=2 episodes, 2021-2022 	
+character=Ethan	name=Christian Dell	episodes=2 episodes, 2021 	
+character=Ethan	name=Edera	episodes=2 episodes, 2021 	
+character=Dr. Patel	name=Awet Teame	episodes=2 episodes, 2021-2022 	
+character=Miles	name=Dakota Lustick	episodes=2 episodes, 2021 	
+character=Principal Strode	name=Jami Tennille	episodes=2 episodes, 2021 	
+character=Jasper	name=Kellan Rhude	episodes=2 episodes, 2021 	
+character=Bill	name=Henry Lynch	episodes=2 episodes, 2021 	
+character=Alan	name=Timothy Smith	episodes=2 episodes, 2021 	
+character=Iris	name=Jessica Perry	episodes=1 episode, 2021 	
+character=Arthur Mitchell	name=John Lithgow	episodes=1 episode, 2021 	
+character=Wiggles the Clown	name=Michael Laurence	episodes=1 episode, 2022 	
+character=Morris Cooper	name=Alton Fitzgerald White	episodes=1 episode, 2021 	
+character=Bill	name=Charlie Thurston	episodes=1 episode, 2021 	
+character=Victor Lopez	name=Mark Torres	episodes=1 episode, 2021 	
+character=Hotel Clerk	name=Colin Allen	episodes=1 episode, 2022 	
+character=Barry 	name=Colin Allen	episodes=1 episode, 2022 	
+character=Ethan	name=Danielle Perry	episodes=1 episode, 2021 	
+character=Mom	name=Danielle Perry	episodes=1 episode, 2021 	
+character=Beth 	name=Danielle Perry	episodes=1 episode, 2021 	
+character=Dad	name=Shawn Fitzgibbon	episodes=1 episode, 2021 	
+character=Paul 	name=Shawn Fitzgibbon	episodes=1 episode, 2021 	
+character=Ethan	name=Shawn Fitzgibbon	episodes=1 episode, 2021 	
+character=Bartender	name=Patrick Vincent Curran	episodes=1 episode, 2021 	
+character=D.A. Julia Downs	name=Merritt Janson	episodes=1 episode, 2021 	
+character=Referee	name=Michael Carroll	episodes=1 episode, 2021 	
+character=Winnie	name=Kallie Tabor	episodes=1 episode, 2021 	
+character=Damian Church	name=Aaron Andrade	episodes=1 episode, 2021 	
+character=David Babcock	name=David De Beck	episodes=1 episode, 2021 	
+character=Boyfriend	name=Luke Crory	episodes=1 episode, 2021 	
+character=Becka	name=Michelle Lulic	episodes=1 episode, 2021 	
+character=Hotel Clerk	name=Ian Lyons	episodes=1 episode, 2021 	
+character=Doctor	name=Kate Avallone	episodes=1 episode, 2021 	
+character=Jeremy	name=Devlin Carroll	episodes=1 episode, 2021 	
+character=State Trooper Dennis	name=Levon Panek	episodes=1 episode, 2021 	
+character=Young Kurt	name=Peter Donahue	episodes=1 episode, 2021 	
+character=Coach Mitch	name=Mitch Fortier	episodes=1 episode, 2021 	
+character=Truck Driver	name=Michael Malvesti	episodes=1 episode, 2021 	
+character=Blonde Girl	name=Olivia Breault	episodes=1 episode, 2021 	
+character=Seneca Elder	name=Stephen A. Gordon	episodes=1 episode, 2021 	
+character=Sam 	name=Loren Anthony	episodes=1 episode, 2021 	
+character=Zoologist	name=Loren Anthony	episodes=1 episode, 2021 	
+character=Cheerleader	name=Isla Magnusen	episodes=1 episode, 2021 	
+character=Rusty	name=Mason Alban	episodes=1 episode, 2021 	
+character=Clerk	name=Sean Leser	episodes=1 episode, 2021 	
+character=Preppy Girl	name=Aria Lapides	episodes=1 episode, 2021 	
+character=Girlfriend	name=Brooklyn Brailsford	episodes=1 episode, 2021 	
+character=Panelist	name=Steven Burns	episodes=1 episode, 2021 	
+character=Officer	name=Rose Sias	episodes=1 episode, 2021 	
+character=Trio Ecstasy Girl 	name=Leah Joy Faircloth	episodes=1 episode, 2021 	
+character=Trio Ecstasy Girl 	name=Sara Gutierrez	episodes=1 episode, 2021 	
+character=High School Student	name=Erin McAnespie	episodes=4 episodes, 2021 	
+character=Caldwell Diner Cook	name=Armen Garo	episodes=3 episodes, 2021 	
+character=Wiggles	name=Tyler M. Rainey	episodes=2 episodes, 2021-2022 	
+character=Kid	name=Tyler M. Rainey	episodes=2 episodes, 2021-2022 	
+character=Paramedic	name=Omar Khan	episodes=2 episodes, 2021 	
+character=Customer	name=David Pridemore	episodes=1 episode, 2021 	
+character=Iron Lake Townsfolk	name=Elbert Kim	episodes=1 episode, 2021 	
+character=High School Student	name=Becca Lerman	episodes=1 episode, 2021 	
+character=Ballcap Guy	name=William Xifaras	episodes=1 episode, 2021 	
+character=Wrestler	name=Cameron Mysliwicz	episodes=1 episode, 2021 	
+character=High School Student	name=Madison LaPlante	episodes=1 episode, 2021 	
+character=Moose Creek Parent	name=Jon DiVito	episodes=1 episode, 2021 	
+character=Iron Lake Wrestler	name=Keith R Beck	episodes=1 episode, 2021 	
+character=Hospital Security	name=Naeem Duren	episodes=1 episode, 2021 	
+character=Townsfolk	name=Heidi Garza	episodes=1 episode, 2021 	
+character=High School Student	name=Matt DiVito	episodes=1 episode, 2021 	
+character=High School Wrestler	name=Nickee Trotto	episodes=1 episode, 2021 	
+character=Kurt	name=Carter Meehan	episodes=1 episode, 2021 	
+character=Nates Father	name=Jeff Ararat	episodes=1 episode, 2022 	
+character=Laketown Resident	name=Rickland Powell	episodes=1 episode, 2022 	
+character=Iron Lake Townsfolk	name=Ken Kansky	episodes=1 episode, 2022 	
+character=Firefighter	name=Chris Robblee	episodes=1 episode, 2022 	
+character=Wiggles Victim	name=James Brownell	episodes=1 episode, 2022 	

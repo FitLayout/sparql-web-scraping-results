@@ -1,0 +1,46 @@
+# http://fitlayout.github.io/resource/art55 -> https://www.imdb.com/title/tt8686106/fullcredits/
+character=Maja Norberg	name=Hanna Ardéhn	episodes=6 episodes, 2019 	
+character=Sebastian Fagerman	name=Felix Sandman	episodes=6 episodes, 2019 	
+character=Peder Sander	name=David Dencik	episodes=6 episodes, 2019 	
+character=Camilla Norberg	name=Anna Björk	episodes=6 episodes, 2019 	
+character=Lena Pärsson	name=Maria Sundbom Lörelius	episodes=6 episodes, 2019 	
+character=Amanda Steen	name=Ella Rappich	episodes=5 episodes, 2019 	
+character=Evin Orak	name=Evin Ahmad	episodes=5 episodes, 2019 	
+character=Per Jonsson	name=Sebastian Sporsén	episodes=5 episodes, 2019 	
+character=Samir Said	name=William Spetz	episodes=5 episodes, 2019 	
+character=Labbe	name=Arvid Sand	episodes=5 episodes, 2019 	
+character=Lars-Gabriel 	name=Arvid Sand	episodes=5 episodes, 2019 	
+character=Sager-Crona	name=Arvid Sand	episodes=5 episodes, 2019 	
+character=Erik Norberg	name=Christopher Wollter	episodes=5 episodes, 2019 	
+character=Christer Svensson	name=Shanti Roney	episodes=5 episodes, 2019 	
+character=Lina Norberg	name=Iris Herngren	episodes=5 episodes, 2019 	
+character=Claes Fagerman	name=Reuben Sallmander	episodes=5 episodes, 2019 	
+character=Susse Zanjani	name=Marall Nasiri	episodes=5 episodes, 2019 	
+character=Kalle	name=Kalled Mustonen	episodes=5 episodes, 2019 	
+character=Dennis Oryema	name=Suheib Saleh	episodes=4 episodes, 2019 	
+character=Jeanette Nilsson	name=Rebecka Hemse	episodes=4 episodes, 2019 	
+character=Mimmi Steen	name=Helena Af Sandeberg	episodes=3 episodes, 2019 	
+character=Georg Sager-Crona	name=Samuel Fröler	episodes=3 episodes, 2019 	
+character=Margareta Sager-Crona	name=Jeanette Holmgren	episodes=3 episodes, 2019 	
+character=Morfar	name=Sven Wollter	episodes=2 episodes, 2019 	
+character=Ordförande	name=Anna Bjelkerud	episodes=2 episodes, 2019 	
+character=Majlis	name=Louise Edlind	episodes=2 episodes, 2019 	
+character=Saloua Said	name=Helen Al-Jnabi	episodes=2 episodes, 2019 	
+character=Ahmed Said	name=Isa Aouifia	episodes=2 episodes, 2019 	
+character=Zarah Said	name=Nicole Levin	episodes=2 episodes, 2019 	
+character=Barbera Collins	name=Anita Olatunji	episodes=1 episode, 2019 	
+character=Domare	name=Malin Persson Giolito	episodes=1 episode, 2019 	
+character=Fängelsepräst	name=Oscar Töringe	episodes=1 episode, 2019 	
+character=Kriminalvårdare	name=Pablo Leiva Wenger	episodes=1 episode, 2019 	
+character=Dörrvakt	name=Tobias Cronwall	episodes=1 episode, 2019 	
+character=Tv-kocken	name=Henrik Schyffert	episodes=1 episode, 2019 	
+character=Middagsgäst	name=Carl Johan Merner	episodes=1 episode, 2019 	
+character=Pierre Garcon	name=Petar Cvirn	episodes=1 episode, 2019 	
+character=Police	name=Stina Schedin	episodes=1 episode, 2019 	
+character=Andreas	name=Tobias Carlsson	episodes=1 episode, 2019 	
+character=Friend 	name=Michael Insigno	episodes=6 episodes, 2019 	
+character=Begravningsgäst	name=Andreas Gauffin	episodes=2 episodes, 2019 	
+character=Nämdeman	name=Patrik Edgren	episodes=2 episodes, 2019 	
+character=Mela	name=Alva Bratt	episodes=1 episode, 2019 	
+character=Sofie	name=Astrid Plynning	episodes=1 episode, 2019 	
+character=Party Girl	name=Oksana Maria	episodes=1 episode, 2019 	

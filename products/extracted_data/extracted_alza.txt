@@ -1,0 +1,960 @@
+# http://fitlayout.github.io/resource/art1 -> https://alza.cz/huawei-mate-xs-2-d7333100.htm
+title='Huawei Mate Xs 2'	price='49 990,-' 
+# http://fitlayout.github.io/resource/art2 -> https://alza.cz/samsung-galaxy-z-fold-4?dq=7327222
+title='Samsung Galaxy Z Fold4 12GB/512GB černá'	price='47 990,-' 
+# http://fitlayout.github.io/resource/art3 -> https://alza.cz/samsung-galaxy-z-fold-4?dq=7327221
+title='Samsung Galaxy Z Fold4 12GB/512GB béžová'	price='47 990,-' 
+# http://fitlayout.github.io/resource/art4 -> https://alza.cz/samsung-galaxy-z-fold-4?dq=7327220
+title='Samsung Galaxy Z Fold4 12GB/512GB šedozelená'	price='47 990,-' 
+# http://fitlayout.github.io/resource/art5 -> https://alza.cz/samsung-galaxy-z-fold-4?dq=7327223
+title='Samsung Galaxy Z Fold4 12GB/256GB béžová'	price='44 990,-' 
+# http://fitlayout.github.io/resource/art6 -> https://alza.cz/samsung-galaxy-z-fold-4?dq=7327219
+title='Samsung Galaxy Z Fold4 12GB/256GB černá'	price='44 990,-' 
+# http://fitlayout.github.io/resource/art7 -> https://alza.cz/samsung-galaxy-z-fold-4?dq=7327217
+title='Samsung Galaxy Z Fold4 12GB/256GB šedozelená'	price='44 990,-' 
+# http://fitlayout.github.io/resource/art8 -> https://alza.cz/iphone-13-pro?dq=7059008
+title='iPhone 13 Pro 1TB zelená'	price='44 390,-' 
+# http://fitlayout.github.io/resource/art9 -> https://alza.cz/iphone-13-pro?dq=6731155
+title='iPhone 13 Pro 1TB grafitově šedá'	price='40 990,-' 
+# http://fitlayout.github.io/resource/art10 -> https://alza.cz/iphone-13-pro?dq=6731154
+title='iPhone 13 Pro 1TB modrá'	price='40 890,-' 
+# http://fitlayout.github.io/resource/art11 -> https://alza.cz/iphone-13-pro-max?dq=6731167
+title='iPhone 13 Pro Max 512GB modrá'	price='41 190,-' 
+# http://fitlayout.github.io/resource/art12 -> https://alza.cz/iphone-13-pro?dq=7059009
+title='iPhone 13 Pro 512GB zelená'	price='38 190,-' 
+# http://fitlayout.github.io/resource/art13 -> https://alza.cz/iphone-13-pro?dq=6731150
+title='iPhone 13 Pro 512GB modrá'	price='38 190,-' 
+# http://fitlayout.github.io/resource/art14 -> https://alza.cz/samsung-galaxy-z-fold3-5g?dq=6639586
+title='Samsung Galaxy Z Fold3 5G 512GB černá'	price='36 999,-' 
+# http://fitlayout.github.io/resource/art15 -> https://alza.cz/samsung-galaxy-s22-ultra-5g?dq=6974237
+title='Samsung Galaxy S22 Ultra 5G 512GB černá'	price='36 990,-' 
+# http://fitlayout.github.io/resource/art16 -> https://alza.cz/samsung-galaxy-s22-ultra-5g?dq=6974236
+title='Samsung Galaxy S22 Ultra 5G 512GB bílá'	price='36 990,-' 
+# http://fitlayout.github.io/resource/art17 -> https://alza.cz/sony-xperia-pro-i-cerna-d6908522.htm
+title='Sony Xperia PRO-I černá'	price='36 990,-' 
+# http://fitlayout.github.io/resource/art18 -> https://alza.cz/iphone-13-pro?dq=6869153
+title='iPhone 13 Pro 512GB stříbrná'	price='36 990,-' 
+# http://fitlayout.github.io/resource/art19 -> https://alza.cz/iphone-13-pro?dq=6869152
+title='iPhone 13 Pro 512GB modrá'	price='36 990,-' 
+# http://fitlayout.github.io/resource/art20 -> https://alza.cz/iphone-13-pro?dq=6731153
+title='iPhone 13 Pro 512GB grafitově šedá'	price='36 290,-' 
+# http://fitlayout.github.io/resource/art21 -> https://alza.cz/iphone-13-pro?dq=6731152
+title='iPhone 13 Pro 512GB zlatá'	price='36 990,-' 
+# http://fitlayout.github.io/resource/art22 -> https://alza.cz/sony-xperia-1-iv-5g?dq=7187991
+title='Sony Xperia 1 IV 5G černá'	price='34 990,-' 
+# http://fitlayout.github.io/resource/art23 -> https://alza.cz/sony-xperia-1-iv-5g?dq=7187988
+title='Sony Xperia 1 IV 5G bílá'	price='34 990,-' 
+# http://fitlayout.github.io/resource/art24 -> https://alza.cz/sony-xperia-1-iv-5g?dq=7187987
+title='Sony Xperia 1 IV 5G fialová'	price='34 990,-' 
+# http://fitlayout.github.io/resource/art25 -> https://alza.cz/samsung-galaxy-s22-ultra-5g?dq=6974238
+title='Samsung Galaxy S22 Ultra 5G 512GB vínová'	price='34 990,-' 
+# http://fitlayout.github.io/resource/art26 -> https://alza.cz/samsung-galaxy-s22-ultra-5g?dq=6975986
+title='Samsung Galaxy S22 Ultra 5G 256GB zelená'	price='34 490,-' 
+# http://fitlayout.github.io/resource/art27 -> https://alza.cz/samsung-galaxy-s22-ultra-5g?dq=6974239
+title='Samsung Galaxy S22 Ultra 5G 256GB vínová'	price='34 490,-' 
+# http://fitlayout.github.io/resource/art28 -> https://alza.cz/samsung-galaxy-s22-ultra-5g?dq=6974232
+title='Samsung Galaxy S22 Ultra 5G 256GB černá'	price='34 490,-' 
+# http://fitlayout.github.io/resource/art29 -> https://alza.cz/samsung-galaxy-z-flip-4?dq=7327216
+title='Samsung Galaxy Z Flip4 8GB/512GB šedá'	price='31 990,-' 
+# http://fitlayout.github.io/resource/art30 -> https://alza.cz/samsung-galaxy-s22-ultra-5g?dq=6974235
+title='Samsung Galaxy S22 Ultra 5G 128GB černá'	price='31 990,-' 
+# http://fitlayout.github.io/resource/art31 -> https://alza.cz/samsung-galaxy-s22-ultra-5g?dq=6974233
+title='Samsung Galaxy S22 Ultra 5G 128GB vínová'	price='31 990,-' 
+# http://fitlayout.github.io/resource/art32 -> https://alza.cz/iphone-13-pro?dq=6731147
+title='iPhone 13 Pro 256GB stříbrná'	price='31 490,-' 
+# http://fitlayout.github.io/resource/art33 -> https://alza.cz/iphone-13-pro?dq=6869150
+title='iPhone 13 Pro 256GB grafitově šedá'	price='31 490,-' 
+# http://fitlayout.github.io/resource/art34 -> https://alza.cz/iphone-13-pro?dq=6869149
+title='iPhone 13 Pro 256GB modrá'	price='31 490,-' 
+# http://fitlayout.github.io/resource/art35 -> https://alza.cz/iphone-13-pro?dq=7059006
+title='iPhone 13 Pro 256GB zelená'	price='31 990,-' 
+# http://fitlayout.github.io/resource/art36 -> https://alza.cz/iphone-13-pro?dq=6731149
+title='iPhone 13 Pro 256GB zlatá'	price='31 990,-' 
+# http://fitlayout.github.io/resource/art37 -> https://alza.cz/iphone-13-pro?dq=6731148
+title='iPhone 13 Pro 256GB grafitově šedá'	price='31 490,-' 
+# http://fitlayout.github.io/resource/art38 -> https://alza.cz/iphone-13-pro?dq=6731146
+title='iPhone 13 Pro 256GB modrá'	price='31 490,-' 
+# http://fitlayout.github.io/resource/art39 -> https://alza.cz/iphone-12-pro-512gb-stribrna-d6216473.htm
+title='iPhone 12 Pro 512GB stříbrná'	price='30 190,-' 
+# http://fitlayout.github.io/resource/art40 -> https://alza.cz/samsung-galaxy-z-flip3-5g?dq=6750589
+title='Samsung Galaxy Z Flip3 5G 256GB krémová'	price='28 999,-' 
+# http://fitlayout.github.io/resource/art41 -> https://alza.cz/samsung-galaxy-z-flip3-5g?dq=6750586
+title='Samsung Galaxy Z Flip3 5G 256GB fialová'	price='25 090,-' 
+# http://fitlayout.github.io/resource/art42 -> https://alza.cz/samsung-galaxy-z-flip-4?dq=7327218
+title='Samsung Galaxy Z Flip4 8GB/256GB fialová'	price='28 990,-' 
+# http://fitlayout.github.io/resource/art43 -> https://alza.cz/samsung-galaxy-z-flip-4?dq=7327215
+title='Samsung Galaxy Z Flip4 8GB/256GB zlatá'	price='28 990,-' 
+# http://fitlayout.github.io/resource/art44 -> https://alza.cz/samsung-galaxy-z-flip-4?dq=7327214
+title='Samsung Galaxy Z Flip4 8GB/256GB šedá'	price='28 990,-' 
+# http://fitlayout.github.io/resource/art45 -> https://alza.cz/samsung-galaxy-z-flip-4?dq=7327212
+title='Samsung Galaxy Z Flip4 8GB/256GB modrá'	price='28 990,-' 
+# http://fitlayout.github.io/resource/art46 -> https://alza.cz/asus-rog-phone-6-12gb-256gb?dq=7282847
+title='Asus ROG Phone 6 16GB/512GB bílá'	price='28 990,-' 
+# http://fitlayout.github.io/resource/art47 -> https://alza.cz/asus-rog-phone-6-12gb-256gb?dq=7282846
+title='Asus ROG Phone 6 16GB/512GB černá'	price='28 990,-' 
+# http://fitlayout.github.io/resource/art48 -> https://alza.cz/iphone-13-pro?dq=7059005
+title='iPhone 13 Pro 128GB zelená'	price='28 990,-' 
+# http://fitlayout.github.io/resource/art49 -> https://alza.cz/iphone-12-pro?dq=6452684
+title='iPhone 12 Pro 512GB zlatá'	price='28 390,-' 
+# http://fitlayout.github.io/resource/art50 -> https://alza.cz/honor-magic4-pro-5g?dq=7224758
+title='HONOR Magic4 Pro 5G 256GB tyrkysová'	price='27 990,-' 
+# http://fitlayout.github.io/resource/art51 -> https://alza.cz/samsung-galaxy-s22-5g_1?dq=6974229
+title='Samsung Galaxy S22+ 5G 256GB černá'	price='27 990,-' 
+# http://fitlayout.github.io/resource/art52 -> https://alza.cz/samsung-galaxy-s22-5g_1?dq=6974228
+title='Samsung Galaxy S22+ 5G 256GB zelená'	price='27 990,-' 
+# http://fitlayout.github.io/resource/art53 -> https://alza.cz/samsung-galaxy-s22-5g_1?dq=6974227
+title='Samsung Galaxy S22+ 5G 256GB růžová'	price='27 990,-' 
+# http://fitlayout.github.io/resource/art54 -> https://alza.cz/samsung-galaxy-s22-5g_1?dq=6974225
+title='Samsung Galaxy S22+ 5G 256GB bílá'	price='27 990,-' 
+# http://fitlayout.github.io/resource/art55 -> https://alza.cz/iphone-13-pro?dq=6869147
+title='iPhone 13 Pro 128GB zlatá'	price='27 990,-' 
+# http://fitlayout.github.io/resource/art56 -> https://alza.cz/google-pixel-6-pro-5g?dq=6790852
+title='Google Pixel 6 Pro 5G 12GB/256GB černá'	price='27 990,-' 
+# http://fitlayout.github.io/resource/art57 -> https://alza.cz/iphone-13-pro?dq=6731145
+title='iPhone 13 Pro 128GB zlatá'	price='27 990,-' 
+# http://fitlayout.github.io/resource/art58 -> https://alza.cz/iphone-13-pro?dq=6731144
+title='iPhone 13 Pro 128GB grafitově šedá'	price='27 990,-' 
+# http://fitlayout.github.io/resource/art59 -> https://alza.cz/iphone-13-pro?dq=6731142
+title='iPhone 13 Pro 128GB modrá'	price='27 990,-' 
+# http://fitlayout.github.io/resource/art60 -> https://alza.cz/honor-magic4-pro-5g?dq=7224759
+title='HONOR Magic4 Pro 5G 256GB černá'	price='27 490,-' 
+# http://fitlayout.github.io/resource/art61 -> https://alza.cz/samsung-galaxy-z-flip-4?dq=7327213
+title='Samsung Galaxy Z Flip4 8GB/128GB modrá'	price='27 490,-' 
+# http://fitlayout.github.io/resource/art62 -> https://alza.cz/samsung-galaxy-z-flip-4?dq=7327211
+title='Samsung Galaxy Z Flip4 8GB/128GB zlatá'	price='27 490,-' 
+# http://fitlayout.github.io/resource/art63 -> https://alza.cz/samsung-galaxy-z-flip-4?dq=7327210
+title='Samsung Galaxy Z Flip4 8GB/128GB fialová'	price='27 490,-' 
+# http://fitlayout.github.io/resource/art64 -> https://alza.cz/samsung-galaxy-z-flip-4?dq=7327209
+title='Samsung Galaxy Z Flip4 8GB/128GB šedá'	price='27 490,-' 
+# http://fitlayout.github.io/resource/art65 -> https://alza.cz/vivo-x80-pro-cerna-d7251722.htm
+title='Vivo X80 Pro černá'	price='26 990,-' 
+# http://fitlayout.github.io/resource/art66 -> https://alza.cz/samsung-galaxy-s22-5g_1?dq=6974226
+title='Samsung Galaxy S22+ 5G 128GB černá'	price='26 990,-' 
+# http://fitlayout.github.io/resource/art67 -> https://alza.cz/samsung-galaxy-s22-5g_1?dq=6974224
+title='Samsung Galaxy S22+ 5G 128GB růžová'	price='26 990,-' 
+# http://fitlayout.github.io/resource/art68 -> https://alza.cz/samsung-galaxy-s22-5g_1?dq=6974223
+title='Samsung Galaxy S22+ 5G 128GB zelená'	price='26 990,-' 
+# http://fitlayout.github.io/resource/art69 -> https://alza.cz/asus-rog-phone-6-12gb-256gb?dq=7282850
+title='Asus ROG Phone 6 12GB/256GB bílá'	price='25 990,-' 
+# http://fitlayout.github.io/resource/art70 -> https://alza.cz/asus-rog-phone-6-12gb-256gb?dq=7282848
+title='Asus ROG Phone 6 12GB/256GB černá'	price='25 990,-' 
+# http://fitlayout.github.io/resource/art71 -> https://alza.cz/iphone-13-mini?dq=6731138
+title='iPhone 13 mini 512GB červená'	price='25 790,-' 
+# http://fitlayout.github.io/resource/art72 -> https://alza.cz/iphone-13-mini?dq=6731137
+title='iPhone 13 mini 512GB černá'	price='25 790,-' 
+# http://fitlayout.github.io/resource/art73 -> https://alza.cz/iphone-13?dq=6731121
+title='iPhone 13 512GB černá'	price='25 190,-' 
+# http://fitlayout.github.io/resource/art74 -> https://alza.cz/iphone-13?dq=6731120
+title='iPhone 13 512GB bílá'	price='25 190,-' 
+# http://fitlayout.github.io/resource/art75 -> https://alza.cz/iphone-13?dq=6731123
+title='iPhone 13 512GB modrá'	price='25 090,-' 
+# http://fitlayout.github.io/resource/art76 -> https://alza.cz/iphone-13-mini?dq=6731140
+title='iPhone 13 mini 512GB růžová'	price='24 990,-' 
+# http://fitlayout.github.io/resource/art77 -> https://alza.cz/iphone-13-mini?dq=6731139
+title='iPhone 13 mini 512GB modrá'	price='24 990,-' 
+# http://fitlayout.github.io/resource/art78 -> https://alza.cz/iphone-13-mini?dq=6731136
+title='iPhone 13 mini 512GB bílá'	price='24 990,-' 
+# http://fitlayout.github.io/resource/art79 -> https://alza.cz/huawei-p50-pocket-bila-d6964351.htm
+title='Huawei P50 Pocket bílá'	price='24 990,-' 
+# http://fitlayout.github.io/resource/art80 -> https://alza.cz/iphone-12-256gb-bila-d6216445.htm
+title='iPhone 12 256GB bílá'	price='24 490,-' 
+# http://fitlayout.github.io/resource/art81 -> https://alza.cz/oneplus-10-pro?dq=7080338
+title='OnePlus 10 Pro DualSIM 12GB/256GB zelená'	price='23 990,-' 
+# http://fitlayout.github.io/resource/art82 -> https://alza.cz/oneplus-10-pro?dq=7080337
+title='OnePlus 10 Pro DualSIM 12GB/256GB černá'	price='23 990,-' 
+# http://fitlayout.github.io/resource/art83 -> https://alza.cz/samsung-galaxy-z-flip3-5g?dq=6750588
+title='Samsung Galaxy Z Flip3 5G 128GB černá'	price='23 990,-' 
+# http://fitlayout.github.io/resource/art84 -> https://alza.cz/sony-xperia-5-iii-5g?dq=6620128
+title='Sony Xperia 5 III 5G černá'	price='19 990,-' 
+# http://fitlayout.github.io/resource/art85 -> https://alza.cz/iphone-13?dq=6731119
+title='iPhone 13 256GB růžová'	price='22 790,-' 
+# http://fitlayout.github.io/resource/art86 -> https://alza.cz/iphone-13?dq=6731118
+title='iPhone 13 256GB modrá'	price='23 490,-' 
+# http://fitlayout.github.io/resource/art87 -> https://alza.cz/iphone-13?dq=6731117
+title='iPhone 13 256GB červená'	price='23 490,-' 
+# http://fitlayout.github.io/resource/art88 -> https://alza.cz/iphone-13?dq=6731116
+title='iPhone 13 256GB černá'	price='22 790,-' 
+# http://fitlayout.github.io/resource/art89 -> https://alza.cz/iphone-13?dq=6731115
+title='iPhone 13 256GB bílá'	price='22 790,-' 
+# http://fitlayout.github.io/resource/art90 -> https://alza.cz/iphone-12-256gb-cervena-d6216447.htm
+title='iPhone 12 256GB červená'	price='23 290,-' 
+# http://fitlayout.github.io/resource/art91 -> https://alza.cz/samsung-galaxy-s22-5g?dq=7356485
+title='Samsung Galaxy S22 5G 256GB fialová'	price='22 990,-' 
+# http://fitlayout.github.io/resource/art92 -> https://alza.cz/asus-zenfone-9-16gb-256gb-cerna-d7327515.htm
+title='Asus Zenfone 9 16GB/256GB černá'	price='22 990,-' 
+# http://fitlayout.github.io/resource/art93 -> https://alza.cz/samsung-galaxy-s22-5g?dq=6974220
+title='Samsung Galaxy S22 5G 256GB růžová'	price='22 990,-' 
+# http://fitlayout.github.io/resource/art94 -> https://alza.cz/samsung-galaxy-s22-5g?dq=6974219
+title='Samsung Galaxy S22 5G 256GB zelená'	price='22 990,-' 
+# http://fitlayout.github.io/resource/art95 -> https://alza.cz/samsung-galaxy-s22-5g?dq=6974218
+title='Samsung Galaxy S22 5G 256GB černá'	price='22 990,-' 
+# http://fitlayout.github.io/resource/art96 -> https://alza.cz/samsung-galaxy-s22-5g?dq=6974216
+title='Samsung Galaxy S22 5G 256GB bílá'	price='22 990,-' 
+# http://fitlayout.github.io/resource/art97 -> https://alza.cz/google-pixel-6-pro-5g?dq=6790851
+title='Google Pixel 6 Pro 5G 12GB/128GB černá'	price='22 990,-' 
+# http://fitlayout.github.io/resource/art98 -> https://alza.cz/samsung-galaxy-z-flip3-5g?dq=6750584
+title='Samsung Galaxy Z Flip3 5G 128GB krémová'	price='22 990,-' 
+# http://fitlayout.github.io/resource/art99 -> https://alza.cz/samsung-galaxy-s22-5g?dq=7356484
+title='Samsung Galaxy S22 5G 128GB fialová'	price='21 990,-' 
+# http://fitlayout.github.io/resource/art100 -> https://alza.cz/samsung-galaxy-s22-5g?dq=6974217
+title='Samsung Galaxy S22 5G 128GB bílá'	price='21 990,-' 
+# http://fitlayout.github.io/resource/art101 -> https://alza.cz/samsung-galaxy-s22-5g?dq=6974215
+title='Samsung Galaxy S22 5G 128GB růžová'	price='21 990,-' 
+# http://fitlayout.github.io/resource/art102 -> https://alza.cz/samsung-galaxy-s22-5g?dq=6974214
+title='Samsung Galaxy S22 5G 128GB zelená'	price='21 990,-' 
+# http://fitlayout.github.io/resource/art103 -> https://alza.cz/samsung-galaxy-s22-5g?dq=6974213
+title='Samsung Galaxy S22 5G 128GB černá'	price='21 990,-' 
+# http://fitlayout.github.io/resource/art104 -> https://alza.cz/huawei-p50-pro?dq=6964350
+title='Huawei P50 Pro zlatá'	price='21 990,-' 
+# http://fitlayout.github.io/resource/art105 -> https://alza.cz/huawei-p50-pro?dq=6964349
+title='Huawei P50 Pro černá'	price='21 990,-' 
+# http://fitlayout.github.io/resource/art106 -> https://alza.cz/iphone-12-256gb-cerna-d6216446.htm
+title='iPhone 12 256GB černá'	price='21 990,-' 
+# http://fitlayout.github.io/resource/art107 -> https://alza.cz/iphone-12-256gb-zelena-d6216450.htm
+title='iPhone 12 256GB zelená'	price='21 590,-' 
+# http://fitlayout.github.io/resource/art108 -> https://alza.cz/asus-zenfone-9-8gb?dq=7327514
+title='Asus Zenfone 9 8GB/256GB černá'	price='21 490,-' 
+# http://fitlayout.github.io/resource/art109 -> https://alza.cz/oneplus-10-pro?dq=7080339
+title='OnePlus 10 Pro DualSIM 8GB/128GB černá'	price='21 490,-' 
+# http://fitlayout.github.io/resource/art110 -> https://alza.cz/iphone-13?dq=7059007
+title='iPhone 13 128GB zelená'	price='20 990,-' 
+# http://fitlayout.github.io/resource/art111 -> https://alza.cz/iphone-13?dq=6731114
+title='iPhone 13 128GB růžová'	price='20 990,-' 
+# http://fitlayout.github.io/resource/art112 -> https://alza.cz/iphone-13?dq=6731113
+title='iPhone 13 128GB modrá'	price='20 990,-' 
+# http://fitlayout.github.io/resource/art113 -> https://alza.cz/iphone-13?dq=6731112
+title='iPhone 13 128GB červená'	price='20 990,-' 
+# http://fitlayout.github.io/resource/art114 -> https://alza.cz/iphone-13-128gb-cerna-d6731111.htm
+title='iPhone 13 128GB černá'	price='20 990,-' 
+# http://fitlayout.github.io/resource/art115 -> https://alza.cz/iphone-13?dq=6731110
+title='iPhone 13 128GB bílá'	price='20 990,-' 
+# http://fitlayout.github.io/resource/art116 -> https://alza.cz/oneplus-10t-5g?dq=7353253
+title='OnePlus 10T 5G 16GB/256GB černá'	price='20 490,-' 
+# http://fitlayout.github.io/resource/art117 -> https://alza.cz/oneplus-10t-5g?dq=7353252
+title='OnePlus 10T 5G 16GB/256G zelená'	price='20 490,-' 
+# http://fitlayout.github.io/resource/art118 -> https://alza.cz/iphone-13-mini?dq=7059047
+title='iPhone 13 mini 256GB zelená'	price='20 490,-' 
+# http://fitlayout.github.io/resource/art119 -> https://alza.cz/iphone-13-mini?dq=6731135
+title='iPhone 13 mini 256GB růžová'	price='20 490,-' 
+# http://fitlayout.github.io/resource/art120 -> https://alza.cz/iphone-13-mini?dq=6731134
+title='iPhone 13 mini 256GB modrá'	price='20 490,-' 
+# http://fitlayout.github.io/resource/art121 -> https://alza.cz/iphone-13-mini?dq=6731133
+title='iPhone 13 mini 256GB červená'	price='20 490,-' 
+# http://fitlayout.github.io/resource/art122 -> https://alza.cz/iphone-13-mini?dq=6731132
+title='iPhone 13 mini 256GB černá'	price='20 490,-' 
+# http://fitlayout.github.io/resource/art123 -> https://alza.cz/iphone-13-mini?dq=6731131
+title='iPhone 13 mini 256GB bílá'	price='20 490,-' 
+# http://fitlayout.github.io/resource/art124 -> https://alza.cz/oneplus-9-pro?dq=6393205
+title='OnePlus 9 Pro 12GB/256GB zelená'	price='19 990,-' 
+# http://fitlayout.github.io/resource/art125 -> https://alza.cz/oneplus-9-pro?dq=6393204
+title='OnePlus 9 Pro 12GB/256GB černá'	price='19 990,-' 
+# http://fitlayout.github.io/resource/art126 -> https://alza.cz/asus-zenfone-9-8gb?dq=7327516
+title='Asus Zenfone 9 8GB/128GB černá'	price='19 990,-' 
+# http://fitlayout.github.io/resource/art127 -> https://alza.cz/asus-zenfone-9-8gb?dq=7327512
+title='Asus Zenfone 9 8GB/128GB červená'	price='19 990,-' 
+# http://fitlayout.github.io/resource/art128 -> https://alza.cz/asus-zenfone-9-8gb?dq=7327511
+title='Asus Zenfone 9 8GB/128GB bílá'	price='19 990,-' 
+# http://fitlayout.github.io/resource/art129 -> https://alza.cz/iphone-12-mini-256gb-cerna-d6216461.htm
+title='iPhone 12 Mini 256GB černá'	price='19 990,-' 
+# http://fitlayout.github.io/resource/art130 -> https://alza.cz/samsung-galaxy-s21-fe-5g?dq=7333213
+title='Samsung Galaxy S21 FE 5G 256GB fialová'	price='19 890,-' 
+# http://fitlayout.github.io/resource/art131 -> https://alza.cz/samsung-galaxy-s21-fe-5g?dq=7333212
+title='Samsung Galaxy S21 FE 5G 256GB zelená'	price='19 890,-' 
+# http://fitlayout.github.io/resource/art132 -> https://alza.cz/samsung-galaxy-s21-fe-5g?dq=7333211
+title='Samsung Galaxy S21 FE 5G 256GB šedá'	price='19 890,-' 
+# http://fitlayout.github.io/resource/art133 -> https://alza.cz/samsung-galaxy-s21-fe-5g?dq=7333210
+title='Samsung Galaxy S21 FE 5G 256GB bílá'	price='20 990,-' 
+# http://fitlayout.github.io/resource/art134 -> https://alza.cz/iphone-12-128gb-cerna-d6216441.htm
+title='iPhone 12 128GB černá'	price='19 090,-' 
+# http://fitlayout.github.io/resource/art135 -> https://alza.cz/xiaomi-12?dq=7075891
+title='Xiaomi 12 8GB/256GB šedá'	price='18 990,-' 
+# http://fitlayout.github.io/resource/art136 -> https://alza.cz/xiaomi-12?dq=7075887
+title='Xiaomi 12 8GB/256GB fialová'	price='18 990,-' 
+# http://fitlayout.github.io/resource/art137 -> https://alza.cz/xiaomi-12?dq=7075885
+title='Xiaomi 12 8GB/256GB modrá'	price='18 990,-' 
+# http://fitlayout.github.io/resource/art138 -> https://alza.cz/samsung-galaxy-s21-fe-5g?dq=6911528
+title='Samsung Galaxy S21 FE 5G 256GB zelená'	price='20 990,-' 
+# http://fitlayout.github.io/resource/art139 -> https://alza.cz/iphone-12-128gb-bila-d6216440.htm
+title='iPhone 12 128GB bílá'	price='18 990,-' 
+# http://fitlayout.github.io/resource/art140 -> https://alza.cz/samsung-galaxy-s21-fe-5g?dq=7333206
+title='Samsung Galaxy S21 FE 5G 128GB bílá'	price='18 490,-' 
+# http://fitlayout.github.io/resource/art141 -> https://alza.cz/iphone-12-128gb-modra-d6216443.htm
+title='iPhone 12 128GB modrá'	price='18 990,-' 
+# http://fitlayout.github.io/resource/art142 -> https://alza.cz/iphone-12?dq=6453777
+title='iPhone 12 128GB fialová'	price='18 590,-' 
+# http://fitlayout.github.io/resource/art143 -> https://alza.cz/samsung-galaxy-s21-fe-5g?dq=7333209
+title='Samsung Galaxy S21 FE 5G 128GB zelená'	price='18 090,-' 
+# http://fitlayout.github.io/resource/art144 -> https://alza.cz/samsung-galaxy-s21-fe-5g?dq=7333208
+title='Samsung Galaxy S21 FE 5G 128GB šedá'	price='18 090,-' 
+# http://fitlayout.github.io/resource/art145 -> https://alza.cz/samsung-galaxy-s21-fe-5g?dq=7333207
+title='Samsung Galaxy S21 FE 5G 128GB fialová'	price='18 090,-' 
+# http://fitlayout.github.io/resource/art146 -> https://alza.cz/oneplus-10t-5g?dq=7353254
+title='OnePlus 10T 5G 8GB/128GB černá'	price='17 990,-' 
+# http://fitlayout.github.io/resource/art147 -> https://alza.cz/oneplus-10t-5g?dq=7353251
+title='OnePlus 10T 5G 8GB/128GB zelená'	price='17 990,-' 
+# http://fitlayout.github.io/resource/art148 -> https://alza.cz/oneplus-9-pro?dq=6691911
+title='OnePlus 9 Pro 8GB/128GB šedá'	price='17 990,-' 
+# http://fitlayout.github.io/resource/art149 -> https://alza.cz/oneplus-9-pro?dq=6393202
+title='OnePlus 9 Pro 8GB/128GB černá'	price='17 990,-' 
+# http://fitlayout.github.io/resource/art150 -> https://alza.cz/xiaomi-12?dq=7075886
+title='Xiaomi 12 8GB/128GB modrá'	price='17 990,-' 
+# http://fitlayout.github.io/resource/art151 -> https://alza.cz/xiaomi-12?dq=7075884
+title='Xiaomi 12 8GB/128GB šedá'	price='17 990,-' 
+# http://fitlayout.github.io/resource/art152 -> https://alza.cz/xiaomi-12?dq=7075883
+title='Xiaomi 12 8GB/128GB fialová'	price='17 990,-' 
+# http://fitlayout.github.io/resource/art153 -> https://alza.cz/realme-gt-2-pro-12gb-256gb-bila-d7017511.htm
+title='Realme GT 2 Pro 12GB/256GB bílá'	price='17 990,-' 
+# http://fitlayout.github.io/resource/art154 -> https://alza.cz/realme-gt-2-pro-12gb-256gb-zelena-d7017510.htm
+title='Realme GT 2 Pro 12GB/256GB zelená'	price='17 990,-' 
+# http://fitlayout.github.io/resource/art155 -> https://alza.cz/realme-gt-2-pro-12gb-256gb-cerna-d7017509.htm
+title='Realme GT 2 Pro 12GB/256GB černá'	price='17 990,-' 
+# http://fitlayout.github.io/resource/art156 -> https://alza.cz/samsung-galaxy-s21-fe-5g?dq=6911521
+title='Samsung Galaxy S21 FE 5G 128GB šedá'	price='17 990,-' 
+# http://fitlayout.github.io/resource/art157 -> https://alza.cz/oneplus-9-pro?dq=6393203
+title='OnePlus 9 Pro 8GB/128GB zelená'	price='17 790,-' 
+# http://fitlayout.github.io/resource/art158 -> https://alza.cz/iphone-13-mini?dq=6731129
+title='iPhone 13 mini 128GB modrá'	price='17 990,-' 
+# http://fitlayout.github.io/resource/art159 -> https://alza.cz/iphone-13-mini?dq=6731127
+title='iPhone 13 mini 128GB černá'	price='17 990,-' 
+# http://fitlayout.github.io/resource/art160 -> https://alza.cz/iphone-12?dq=6452607
+title='iPhone 12 64GB černá'	price='17 590,-' 
+# http://fitlayout.github.io/resource/art161 -> https://alza.cz/iphone-13-mini?dq=7059051
+title='iPhone 13 mini 128GB zelená'	price='17 590,-' 
+# http://fitlayout.github.io/resource/art162 -> https://alza.cz/iphone-13-mini?dq=6731130
+title='iPhone 13 mini 128GB růžová'	price='17 590,-' 
+# http://fitlayout.github.io/resource/art163 -> https://alza.cz/iphone-13-mini?dq=6731128
+title='iPhone 13 mini 128GB červená'	price='17 590,-' 
+# http://fitlayout.github.io/resource/art164 -> https://alza.cz/iphone-13-mini?dq=6731126
+title='iPhone 13 mini 128GB bílá'	price='17 590,-' 
+# http://fitlayout.github.io/resource/art165 -> https://alza.cz/iphone-12?dq=6453776
+title='iPhone 12 64GB fialová'	price='17 590,-' 
+# http://fitlayout.github.io/resource/art166 -> https://alza.cz/iphone-12-64gb-cerna-d6216436.htm
+title='iPhone 12 64GB černá'	price='17 590,-' 
+# http://fitlayout.github.io/resource/art167 -> https://alza.cz/iphone-12-mini-256gb-modra-d6216466.htm
+title='iPhone 12 Mini 256GB modrá'	price='17 490,-' 
+# http://fitlayout.github.io/resource/art168 -> https://alza.cz/iphone-12-mini-256gb-zelena-d6216463.htm
+title='iPhone 12 Mini 256GB zelená'	price='17 490,-' 
+# http://fitlayout.github.io/resource/art169 -> https://alza.cz/iphone-12-mini-256gb-cervena-d6216462.htm
+title='iPhone 12 Mini 256GB červená'	price='17 490,-' 
+# http://fitlayout.github.io/resource/art170 -> https://alza.cz/iphone-12-mini-256gb-bila-d6216460.htm
+title='iPhone 12 Mini 256GB bílá'	price='17 490,-' 
+# http://fitlayout.github.io/resource/art171 -> https://alza.cz/oneplus-9?dq=6691910
+title='OnePlus 9 12GB/256GB černá'	price='17 090,-' 
+# http://fitlayout.github.io/resource/art172 -> https://alza.cz/poco-f4-gt?dq=7137678
+title='POCO F4 GT 256GB černá'	price='16 990,-' 
+# http://fitlayout.github.io/resource/art173 -> https://alza.cz/iphone-12-64gb-modra-d6216438.htm
+title='iPhone 12 64GB modrá'	price='16 990,-' 
+# http://fitlayout.github.io/resource/art174 -> https://alza.cz/iphone-12-64gb-bila-d6216435.htm
+title='iPhone 12 64GB bílá'	price='16 890,-' 
+# http://fitlayout.github.io/resource/art175 -> https://alza.cz/iphone-12-64gb-zelena-d6216439.htm
+title='iPhone 12 64GB zelená'	price='16 690,-' 
+# http://fitlayout.github.io/resource/art176 -> https://alza.cz/iphone-12-64gb-cervena-d6216437.htm
+title='iPhone 12 64GB červená'	price='16 690,-' 
+# http://fitlayout.github.io/resource/art177 -> https://alza.cz/oneplus-9?dq=6393200
+title='OnePlus 9 12GB/256GB fialová'	price='16 490,-' 
+# http://fitlayout.github.io/resource/art178 -> https://alza.cz/iphone-12-mini-128gb-zelena-d6216458.htm
+title='iPhone 12 Mini 128GB zelená'	price='16 490,-' 
+# http://fitlayout.github.io/resource/art179 -> https://alza.cz/iphone-12-mini-128gb-cerna-d6216456.htm
+title='iPhone 12 Mini 128GB černá'	price='16 490,-' 
+# http://fitlayout.github.io/resource/art180 -> https://alza.cz/iphone-se-2022?dq=7058999
+title='iPhone SE 256GB červená 2022'	price='16 390,-' 
+# http://fitlayout.github.io/resource/art181 -> https://alza.cz/blackview-gbl8800-pro-cerna-d7195682.htm
+title='Blackview GBL8800 Pro Thermo černá'	price='15 999,-' 
+# http://fitlayout.github.io/resource/art182 -> https://alza.cz/iphone-12-mini-128gb-cervena-d6216457.htm
+title='iPhone 12 Mini 128GB červená'	price='15 890,-' 
+# http://fitlayout.github.io/resource/art183 -> https://alza.cz/iphone-12-mini-128gb-bila-d6216454.htm
+title='iPhone 12 Mini 128GB bílá'	price='15 490,-' 
+# http://fitlayout.github.io/resource/art184 -> https://alza.cz/iphone-12-mini-64gb-zelena-d6216453.htm
+title='iPhone 12 Mini 64GB zelená'	price='14 990,-' 
+# http://fitlayout.github.io/resource/art185 -> https://alza.cz/cat-s62-pro-cerna-d6119156.htm
+title='CAT S62 Pro černá'	price='15 490,-' 
+# http://fitlayout.github.io/resource/art186 -> https://alza.cz/vivo-x60-pro-5g?dq=6517532
+title='Vivo X60 Pro 5G modrá'	price='14 999,-' 
+# http://fitlayout.github.io/resource/art187 -> https://alza.cz/repasovany-iphone-11-pro?dq=6412602
+title='Repasovaný iPhone 11 Pro 64GB zlatá'	price='14 999,-' 
+# http://fitlayout.github.io/resource/art188 -> https://alza.cz/repasovany-iphone-11-pro?dq=6412601
+title='Repasovaný iPhone 11 Pro 64GB vesmírně šedá'	price='14 999,-' 
+# http://fitlayout.github.io/resource/art189 -> https://alza.cz/repasovany-iphone-11-pro?dq=6412600
+title='Repasovaný iPhone 11 Pro 64GB stříbrná'	price='14 999,-' 
+# http://fitlayout.github.io/resource/art190 -> https://alza.cz/repasovany-iphone-11-pro?dq=6412598
+title='Repasovaný iPhone 11 Pro 64GB půlnoční zelená'	price='14 999,-' 
+# http://fitlayout.github.io/resource/art191 -> https://alza.cz/samsung-galaxy-s20-fe-5g?dq=6158335
+title='Samsung Galaxy S20 FE 5G 256GB modrá'	price='14 999,-' 
+# http://fitlayout.github.io/resource/art192 -> https://alza.cz/google-pixel-6-5g?dq=6796575
+title='Google Pixel 6 5G 8GB/128GB zelená'	price='14 990,-' 
+# http://fitlayout.github.io/resource/art193 -> https://alza.cz/google-pixel-6-5g?dq=6796574
+title='Google Pixel 6 5G 8GB/128GB oranžová'	price='14 990,-' 
+# http://fitlayout.github.io/resource/art194 -> https://alza.cz/google-pixel-6-5g?dq=6790848
+title='Google Pixel 6 5G 8GB/128GB černá'	price='14 990,-' 
+# http://fitlayout.github.io/resource/art195 -> https://alza.cz/asus-zenfone-8?dq=6473078
+title='Asus Zenfone 8 8GB/128GB stříbrná'	price='14 790,-' 
+# http://fitlayout.github.io/resource/art196 -> https://alza.cz/asus-zenfone-8?dq=6473077
+title='Asus Zenfone 8 8GB/128GB černá'	price='14 790,-' 
+# http://fitlayout.github.io/resource/art197 -> https://alza.cz/iphone-12-mini-64gb-cervena-d6216452.htm
+title='iPhone 12 Mini 64GB červená'	price='14 790,-' 
+# http://fitlayout.github.io/resource/art198 -> https://alza.cz/iphone-12-mini-64gb-bila-d6216448.htm
+title='iPhone 12 Mini 64GB bílá'	price='14 790,-' 
+# http://fitlayout.github.io/resource/art199 -> https://alza.cz/iphone-12-mini?dq=6453779
+title='iPhone 12 Mini 64GB fialová'	price='14 990,-' 
+# http://fitlayout.github.io/resource/art200 -> https://alza.cz/iphone-12-mini-64gb-cerna-d6216451.htm
+title='iPhone 12 Mini 64GB černá'	price='14 690,-' 
+# http://fitlayout.github.io/resource/art201 -> https://alza.cz/honor-70?dq=7333173
+title='Honor 70 8GB/256GB stříbrná+ bonus 1500 Kč k výkupu'	price='14 490,-' 
+# http://fitlayout.github.io/resource/art202 -> https://alza.cz/honor-70?dq=7333172
+title='Honor 70 8GB/256GB černá+ bonus 1500 Kč k výkupu'	price='14 490,-' 
+# http://fitlayout.github.io/resource/art203 -> https://alza.cz/realme-gt-2?dq=7053253
+title='Realme GT 2 5G DualSIM 12GB/256GB bílá'	price='14 490,-' 
+# http://fitlayout.github.io/resource/art204 -> https://alza.cz/iphone-11?dq=6452587
+title='iPhone 11 128GB červená'	price='14 490,-' 
+# http://fitlayout.github.io/resource/art205 -> https://alza.cz/oneplus-9?dq=6393199
+title='OnePlus 9 8GB/128GB modrá'	price='14 490,-' 
+# http://fitlayout.github.io/resource/art206 -> https://alza.cz/iphone-11?dq=5669257
+title='iPhone 11 128GB červená'	price='14 490,-' 
+# http://fitlayout.github.io/resource/art207 -> https://alza.cz/xiaomi-12x?dq=7075896
+title='Xiaomi 12X 8GB/128GB modrá'	price='13 999,-' 
+# http://fitlayout.github.io/resource/art208 -> https://alza.cz/xiaomi-12x?dq=7075893
+title='Xiaomi 12X 8GB/128GB šedá'	price='13 999,-' 
+# http://fitlayout.github.io/resource/art209 -> https://alza.cz/blackview-gbv9800-pro-thermo-d5799910.htm
+title='Blackview GBV9800 Pro Thermo'	price='13 999,-' 
+# http://fitlayout.github.io/resource/art210 -> https://alza.cz/iphone-se-256gb-cervena-2020-d5826612.htm
+title='iPhone SE 256GB červená 2020'	price='3' 
+# http://fitlayout.github.io/resource/art211 -> https://alza.cz/nothing-phone-1-12-256gb-cerna-d7282392.htm
+title='Nothing Phone (1) 12+256GB černá'	price='13 990,-' 
+# http://fitlayout.github.io/resource/art212 -> https://alza.cz/doogee-s98-pro-dualsim-8gb-256gb-cerna-d7243692.htm
+title='Doogee S98 PRO DualSIM 8GB/256GB černá'	price='13 990,-' 
+# http://fitlayout.github.io/resource/art213 -> https://alza.cz/motorola-edge-20-pro?dq=6637885
+title='Motorola EDGE 20 Pro 256GB tyrkysová'	price='12 990,-' 
+# http://fitlayout.github.io/resource/art214 -> https://alza.cz/motorola-edge-20-pro?dq=6637884
+title='Motorola EDGE 20 Pro 256GB modrá'	price='12 990,-' 
+# http://fitlayout.github.io/resource/art215 -> https://alza.cz/realme-gt-neo-2-5g?dq=6832030
+title='Realme GT Neo 2 5G DualSIM 256GB zelená'	price='13 690,-' 
+# http://fitlayout.github.io/resource/art216 -> https://alza.cz/iphone-se-256gb-cerna-2020-d5826611.htm
+title='iPhone SE 256GB černá 2020'	price='13 690,-' 
+# http://fitlayout.github.io/resource/art217 -> https://alza.cz/nothing-phone-1-12-256gb-bila-d7282390.htm
+title='Nothing Phone (1) 12+256GB bílá'	price='13 590,-' 
+# http://fitlayout.github.io/resource/art218 -> https://alza.cz/honor-70?dq=7333174
+title='Honor 70 8GB/128GB černá+ bonus 1500 Kč k výkupu'	price='13 490,-' 
+# http://fitlayout.github.io/resource/art219 -> https://alza.cz/honor-70?dq=7333171
+title='Honor 70 8GB/128GB zelená+ bonus 1500 Kč k výkupu'	price='13 490,-' 
+# http://fitlayout.github.io/resource/art220 -> https://alza.cz/ulefone-armor-x5-pro?dq=6449036
+title='UleFone Armor 11 5G černá'	price='13 490,-' 
+# http://fitlayout.github.io/resource/art221 -> https://alza.cz/blackview-gbl6000-pro-seda-d6321473.htm
+title='Blackview GBL6000 Pro šedá'	price='13 490,-' 
+# http://fitlayout.github.io/resource/art222 -> https://alza.cz/oneplus-8-pro?dq=5814667
+title='OnePlus 8 Pro 128GB černá'	price='13 490,-' 
+# http://fitlayout.github.io/resource/art223 -> https://alza.cz/realme-gt-neo-2-5g?dq=6832029
+title='Realme GT Neo 2 5G DualSIM 256GB černá'	price='13 190,-' 
+# http://fitlayout.github.io/resource/art224 -> https://alza.cz/samsung-galaxy-s20-fe-5g?dq=6363660
+title='Samsung Galaxy S20 FE 5G 128GB zelená'	price='12 999,-' 
+# http://fitlayout.github.io/resource/art225 -> https://alza.cz/samsung-galaxy-s20-fe-5g?dq=6363659
+title='Samsung Galaxy S20 FE 5G 128GB fialová'	price='12 999,-' 
+# http://fitlayout.github.io/resource/art226 -> https://alza.cz/samsung-galaxy-s20-fe-5g?dq=6363658
+title='Samsung Galaxy S20 FE 5G 128GB červená'	price='12 999,-' 
+# http://fitlayout.github.io/resource/art227 -> https://alza.cz/samsung-galaxy-s20-fe-5g?dq=6363657
+title='Samsung Galaxy S20 FE 5G 128GB bílá'	price='12 999,-' 
+# http://fitlayout.github.io/resource/art228 -> https://alza.cz/samsung-galaxy-s20-fe-5g?dq=6158334
+title='Samsung Galaxy S20 FE 5G 128GB modrá'	price='12 999,-' 
+# http://fitlayout.github.io/resource/art229 -> https://alza.cz/realme-gt-2?dq=7053254
+title='Realme GT 2 5G DualSIM 12GB/256GB černá'	price='12 990,-' 
+# http://fitlayout.github.io/resource/art230 -> https://alza.cz/doogee-v20-5g-cerna-d6985802.htm
+title='Doogee V20 5G černá'	price='12 990,-' 
+# http://fitlayout.github.io/resource/art231 -> https://alza.cz/nokia-xr20-seda-d6708838.htm
+title='Nokia XR20 128GB šedá'	price='12 990,-' 
+# http://fitlayout.github.io/resource/art232 -> https://alza.cz/nothing-phone-1-8-256gb-bila-d7282391.htm
+title='Nothing Phone (1) 8+256GB bílá'	price='12 890,-' 
+# http://fitlayout.github.io/resource/art233 -> https://alza.cz/iphone-11?dq=6452582
+title='iPhone 11 64GB fialová'	price='12 890,-' 
+# http://fitlayout.github.io/resource/art234 -> https://alza.cz/nothing-phone-1-8-256gb-cerna-d7282389.htm
+title='Nothing Phone (1) 8+256GB černá'	price='12 890,-' 
+# http://fitlayout.github.io/resource/art235 -> https://alza.cz/iphone-11?dq=5669253
+title='iPhone 11 64GB zelená'	price='12 990,-' 
+# http://fitlayout.github.io/resource/art236 -> https://alza.cz/iphone-11?dq=5669252
+title='iPhone 11 64GB fialová'	price='12 890,-' 
+# http://fitlayout.github.io/resource/art237 -> https://alza.cz/iphone-11?dq=5669250
+title='iPhone 11 64GB černá'	price='12 890,-' 
+# http://fitlayout.github.io/resource/art238 -> https://alza.cz/iphone-11?dq=5669249
+title='iPhone 11 64GB bílá'	price='12 890,-' 
+# http://fitlayout.github.io/resource/art239 -> https://alza.cz/google-pixel-6a-5g?dq=7304006
+title='Google Pixel 6a 5G 6GB/128GB bílá'	price='12 499,-' 
+# http://fitlayout.github.io/resource/art240 -> https://alza.cz/sony-xperia-10-iv-5g?dq=7187993
+title='Sony Xperia 10 IV 5G bílá'	price='12 499,-' 
+# http://fitlayout.github.io/resource/art241 -> https://alza.cz/sony-xperia-10-iv-5g?dq=7187992
+title='Sony Xperia 10 IV 5G zelená'	price='12 499,-' 
+# http://fitlayout.github.io/resource/art242 -> https://alza.cz/sony-xperia-10-iv-5g?dq=7187990
+title='Sony Xperia 10 IV 5G fialová'	price='12 499,-' 
+# http://fitlayout.github.io/resource/art243 -> https://alza.cz/sony-xperia-10-iv-5g?dq=7187989
+title='Sony Xperia 10 IV 5G černá'	price='12 499,-' 
+# http://fitlayout.github.io/resource/art244 -> https://alza.cz/xiaomi-11t-pro?dq=6728269
+title='Xiaomi 11T Pro 8GB/256GB šedá'	price='12 499,-' 
+# http://fitlayout.github.io/resource/art245 -> https://alza.cz/xiaomi-11t-pro?dq=6728268
+title='Xiaomi 11T Pro 8GB/256GB modrá'	price='12 499,-' 
+# http://fitlayout.github.io/resource/art246 -> https://alza.cz/xiaomi-11t-pro?dq=6728267
+title='Xiaomi 11T Pro 8GB/256GB bílá'	price='12 499,-' 
+# http://fitlayout.github.io/resource/art247 -> https://alza.cz/cat-s53-cerna-d7334733.htm
+title='CAT S53 černá'	price='12 490,-' 
+# http://fitlayout.github.io/resource/art248 -> https://alza.cz/google-pixel-6a-5g?dq=7304005
+title='Google Pixel 6a 5G 6GB/128GB zelená'	price='12 490,-' 
+# http://fitlayout.github.io/resource/art249 -> https://alza.cz/google-pixel-6a-5g?dq=7304004
+title='Google Pixel 6a 5G 6GB/128GB černá'	price='12 490,-' 
+# http://fitlayout.github.io/resource/art250 -> https://alza.cz/repasovany-iphone-11?dq=6304311
+title='Repasovaný iPhone 11 64GB zelená'	price='12 399,-' 
+# http://fitlayout.github.io/resource/art251 -> https://alza.cz/repasovany-iphone-11?dq=6304310
+title='Repasovaný iPhone 11 64GB fialová'	price='12 399,-' 
+# http://fitlayout.github.io/resource/art252 -> https://alza.cz/repasovany-iphone-11?dq=6304309
+title='Repasovaný iPhone 11 64GB červená'	price='12 399,-' 
+# http://fitlayout.github.io/resource/art253 -> https://alza.cz/repasovany-iphone-11?dq=6304308
+title='Repasovaný iPhone 11 64GB černá'	price='12 399,-' 
+# http://fitlayout.github.io/resource/art254 -> https://alza.cz/repasovany-iphone-11?dq=6304307
+title='Repasovaný iPhone 11 64GB bílá'	price='12 399,-' 
+# http://fitlayout.github.io/resource/art255 -> https://alza.cz/iphone-11?dq=5669254
+title='iPhone 11 64GB žlutá'	price='12 390,-' 
+# http://fitlayout.github.io/resource/art256 -> https://alza.cz/iphone-11?dq=5669251
+title='iPhone 11 64GB červená'	price='12 390,-' 
+# http://fitlayout.github.io/resource/art257 -> https://alza.cz/blackview-gbv8800-cerna-d7135351.htm
+title='Blackview GBV8800 černá'	price='11 999,-' 
+# http://fitlayout.github.io/resource/art258 -> https://alza.cz/repasovany-iphone-11?dq=6304312
+title='Repasovaný iPhone 11 64GB žlutá'	price='11 999,-' 
+# http://fitlayout.github.io/resource/art259 -> https://alza.cz/blackview-gbl8800-cerna-d7360678.htm
+title='Blackview GBL8800 černá'	price='11 990,-' 
+# http://fitlayout.github.io/resource/art260 -> https://alza.cz/nothing-phone-1-8-128gb-cerna-d7282388.htm
+title='Nothing Phone (1) 8+128GB černá'	price='11 990,-' 
+# http://fitlayout.github.io/resource/art261 -> https://alza.cz/umidigi-bison-gt2-pro-5g-cerna-d7263169.htm
+title='Umidigi Bison GT2 Pro 5G černá'	price='11 990,-' 
+# http://fitlayout.github.io/resource/art262 -> https://alza.cz/black-shark-4-5g-8gb-128gb-cerna-d7072340.htm
+title='Black Shark 4 5G 8GB/128GB černá'	price='11 990,-' 
+# http://fitlayout.github.io/resource/art263 -> https://alza.cz/honor-50?dq=6752576
+title='Honor 50 5G 256GB stříbrná'	price='11 990,-' 
+# http://fitlayout.github.io/resource/art264 -> https://alza.cz/honor-50?dq=6752575
+title='Honor 50 5G 256GB černá'	price='11 990,-' 
+# http://fitlayout.github.io/resource/art265 -> https://alza.cz/nokia-xr20-4gb-64gb-seda-d6710544.htm
+title='Nokia XR20 4GB/64GB šedá'	price='11 190,-' 
+# http://fitlayout.github.io/resource/art266 -> https://alza.cz/iphone-xr?dq=5460707
+title='iPhone Xr 64GB žlutá'	price='11 990,-' 
+# http://fitlayout.github.io/resource/art267 -> https://alza.cz/iphone-xr-64gb-cervena-d5460704.htm
+title='iPhone Xr 64GB červená'	price='11 990,-' 
+# http://fitlayout.github.io/resource/art268 -> https://alza.cz/nokia-xr20-4gb-64gb-modra-d6710545.htm
+title='Nokia XR20 4GB/64GB modrá'	price='11 790,-' 
+# http://fitlayout.github.io/resource/art269 -> https://alza.cz/realme-gt-2?dq=7053255
+title='Realme GT 2 5G DualSIM 8GB/128GB bílá'	price='11 690,-' 
+# http://fitlayout.github.io/resource/art270 -> https://alza.cz/realme-gt-2?dq=7053252
+title='Realme GT 2 5G DualSIM 8GB/128GB zelená'	price='11 690,-' 
+# http://fitlayout.github.io/resource/art271 -> https://alza.cz/oneplus-nord-2t-5g-dualsim-12gb-256gb-seda-d7212679.htm
+title='OnePlus Nord 2T 5G DualSIM 12GB/256GB šedá'	price='11 590,-' 
+# http://fitlayout.github.io/resource/art272 -> https://alza.cz/realme-gt-2?dq=7053251
+title='Realme GT 2 5G DualSIM 8GB/128GB černá'	price='11 190,-' 
+# http://fitlayout.github.io/resource/art273 -> https://alza.cz/xiaomi-11t-pro?dq=6728266
+title='Xiaomi 11T Pro 128GB šedá'	price='11 499,-' 
+# http://fitlayout.github.io/resource/art274 -> https://alza.cz/xiaomi-11t-pro?dq=6728265
+title='Xiaomi 11T Pro 128GB modrá'	price='11 499,-' 
+# http://fitlayout.github.io/resource/art275 -> https://alza.cz/samsung-galaxy-a53-5g?dq=7050439
+title='Samsung Galaxy A53 5G 256GB oranžová'	price='11 490,-' 
+# http://fitlayout.github.io/resource/art276 -> https://alza.cz/samsung-galaxy-a53-5g?dq=7050435
+title='Samsung Galaxy A53 5G 256GB modrá'	price='11 490,-' 
+# http://fitlayout.github.io/resource/art277 -> https://alza.cz/samsung-galaxy-a53-5g?dq=7050432
+title='Samsung Galaxy A53 5G 256GB bílá'	price='11 490,-' 
+# http://fitlayout.github.io/resource/art278 -> https://alza.cz/repasovany-iphone-xs?dq=5831175
+title='Repasovaný iPhone Xs 256GB zlatá'	price='11 299,-' 
+# http://fitlayout.github.io/resource/art279 -> https://alza.cz/repasovany-iphone-xs?dq=5831174
+title='Repasovaný iPhone Xs 256GB vesmírně šedá'	price='11 299,-' 
+# http://fitlayout.github.io/resource/art280 -> https://alza.cz/samsung-galaxy-m53-5g-modra-d7108698.htm
+title='Samsung Galaxy M53 5G modrá'	price='10 999,-' 
+# http://fitlayout.github.io/resource/art281 -> https://alza.cz/samsung-galaxy-m53-5g-hneda-d7108697.htm
+title='Samsung Galaxy M53 5G hnědá'	price='10 999,-' 
+# http://fitlayout.github.io/resource/art282 -> https://alza.cz/samsung-galaxy-m53-5g-zelena-d7108696.htm
+title='Samsung Galaxy M53 5G zelená'	price='10 999,-' 
+# http://fitlayout.github.io/resource/art283 -> https://alza.cz/poco-f4?dq=7303048
+title='POCO F4 8GB/256GB stříbrná'	price='10 990,-' 
+# http://fitlayout.github.io/resource/art284 -> https://alza.cz/poco-f4?dq=7303047
+title='POCO F4 8GB/256GB černá'	price='10 990,-' 
+# http://fitlayout.github.io/resource/art285 -> https://alza.cz/poco-f4?dq=7303046
+title='POCO F4 8GB/256GB zelená'	price='10 990,-' 
+# http://fitlayout.github.io/resource/art286 -> https://alza.cz/umidigi-bison-gt2-5g-cerna-d7263168.htm
+title='Umidigi Bison GT2 5G černá'	price='10 990,-' 
+# http://fitlayout.github.io/resource/art287 -> https://alza.cz/vivo-v23-5g?dq=7074523
+title='Vivo V23 5G zlatá'	price='10 990,-' 
+# http://fitlayout.github.io/resource/art288 -> https://alza.cz/realme-gt-neo-2-5g?dq=6832028
+title='Realme GT Neo 2 5G DualSIM 128GB modrá'	price='10 790,-' 
+# http://fitlayout.github.io/resource/art289 -> https://alza.cz/vivo-v23-5g?dq=7074522
+title='Vivo V23 5G černá'	price='10 690,-' 
+# http://fitlayout.github.io/resource/art290 -> https://alza.cz/oneplus-nord2-5g?dq=6637811
+title='OnePlus Nord2 5G 256GB šedá'	price='10 690,-' 
+# http://fitlayout.github.io/resource/art291 -> https://alza.cz/xiaomi-redmi-note-11-pro-5g-128gb?dq=7108131
+title='Xiaomi Redmi Note 11 Pro+ 5G 128GB modrá'	price='10 499,-' 
+# http://fitlayout.github.io/resource/art292 -> https://alza.cz/xiaomi-redmi-note-11-pro-5g-128gb?dq=7108130
+title='Xiaomi Redmi Note 11 Pro+ 5G 128GB šedá'	price='10 499,-' 
+# http://fitlayout.github.io/resource/art293 -> https://alza.cz/repasovany-iphone-x?dq=5830998
+title='Repasovaný iPhone X 256GB stříbrná'	price='10 499,-' 
+# http://fitlayout.github.io/resource/art294 -> https://alza.cz/repasovany-iphone-x?dq=5830997
+title='Repasovaný iPhone X 256GB vesmírně šedá'	price='10 499,-' 
+# http://fitlayout.github.io/resource/art295 -> https://alza.cz/motorola-edge-30?dq=7161618
+title='Motorola EDGE 30 128GB šedá'	price='10 490,-' 
+# http://fitlayout.github.io/resource/art296 -> https://alza.cz/motorola-edge-30?dq=7161617
+title='Motorola EDGE 30 128GB zelená'	price='10 490,-' 
+# http://fitlayout.github.io/resource/art297 -> https://alza.cz/xiaomi-redmi-note-11-pro-5g-128gb?dq=7108129
+title='Xiaomi Redmi Note 11 Pro+ 5G 128GB zelená'	price='10 490,-' 
+# http://fitlayout.github.io/resource/art298 -> https://alza.cz/realme-gt-neo-2-5g?dq=6832027
+title='Realme GT Neo 2 5G DualSIM 128GB černá'	price='10 590,-' 
+# http://fitlayout.github.io/resource/art299 -> https://alza.cz/oneplus-nord2-5g?dq=6637810
+title='OnePlus Nord2 5G 256GB modrá'	price='10 490,-' 
+# http://fitlayout.github.io/resource/art300 -> https://alza.cz/realme-gt-dualsim-128gb-modra-d6526052.htm
+title='Realme GT 5G DualSIM 128GB modrá'	price='10 490,-' 
+# http://fitlayout.github.io/resource/art301 -> https://alza.cz/poco-x4-gt?dq=7303057
+title='POCO X4 GT 8GB/256GB stříbrná'	price='9 989,-' 
+# http://fitlayout.github.io/resource/art302 -> https://alza.cz/poco-x4-gt?dq=7303056
+title='POCO X4 GT 8GB/256GB černá'	price='9 999,-' 
+# http://fitlayout.github.io/resource/art303 -> https://alza.cz/repasovany-iphone-xs?dq=5831004
+title='Repasovaný iPhone Xs 64GB vesmírně šedá'	price='9 999,-' 
+# http://fitlayout.github.io/resource/art304 -> https://alza.cz/repasovany-iphone-xs?dq=5831002
+title='Repasovaný iPhone Xs 64GB zlatá'	price='9 999,-' 
+# http://fitlayout.github.io/resource/art305 -> https://alza.cz/realme-gt?dq=6971654
+title='Realme GT 5G DualSIM 128GB stříbrná'	price='9 990,-' 
+# http://fitlayout.github.io/resource/art306 -> https://alza.cz/poco-x4-gt?dq=7303055
+title='POCO X4 GT 8GB/256GB modrá'	price='9 989,-' 
+# http://fitlayout.github.io/resource/art307 -> https://alza.cz/doogee-s98-dualsim-8gb-256gb-cerna-d7134482.htm
+title='Doogee S98 DualSIM 8GB/256GB černá'	price='9 989,-' 
+# http://fitlayout.github.io/resource/art308 -> https://alza.cz/samsung-galaxy-a53-5g?dq=7050436
+title='Samsung Galaxy A53 5G 128GB modrá'	price='9 989,-' 
+# http://fitlayout.github.io/resource/art309 -> https://alza.cz/samsung-galaxy-a53-5g?dq=7050434
+title='Samsung Galaxy A53 5G 128GB bílá'	price='9 989,-' 
+# http://fitlayout.github.io/resource/art310 -> https://alza.cz/samsung-galaxy-a53-5g?dq=7050431
+title='Samsung Galaxy A53 5G 128GB černá'	price='9 989,-' 
+# http://fitlayout.github.io/resource/art311 -> https://alza.cz/ulefone-armor-12-5g-cerna-d6799533.htm
+title='UleFone Armor 12 5G černá'	price='9 989,-' 
+# http://fitlayout.github.io/resource/art312 -> https://alza.cz/honor-50?dq=6752574
+title='Honor 50 5G 128GB zelená'	price='9 989,-' 
+# http://fitlayout.github.io/resource/art313 -> https://alza.cz/honor-50?dq=6752573
+title='Honor 50 5G 128GB černá'	price='9 989,-' 
+# http://fitlayout.github.io/resource/art314 -> https://alza.cz/blackview-gbl5000?dq=6727916
+title='Blackview GBL5000 černá'	price='9 989,-' 
+# http://fitlayout.github.io/resource/art315 -> https://alza.cz/myphone-hammer-explorer-pro?dq=6482007
+title='myPhone Hammer Explorer Pro stříbrná'	price='9 989,-' 
+# http://fitlayout.github.io/resource/art316 -> https://alza.cz/myphone-hammer-explorer-pro-oranzova-d6482006.htm
+title='myPhone Hammer Explorer Pro oranžová'	price='9 989,-' 
+# http://fitlayout.github.io/resource/art317 -> https://alza.cz/samsungu-galaxy-a52s-5g?dq=6667486
+title='Samsung Galaxy A52s 5G bílá'	price='9 819,-' 
+# http://fitlayout.github.io/resource/art318 -> https://alza.cz/realme-9-pro_1?dq=6983997
+title='Realme 9 Pro+ 256GB zelená'	price='9 799,-' 
+# http://fitlayout.github.io/resource/art319 -> https://alza.cz/realme-9-pro_1?dq=6983996
+title='Realme 9 Pro+ 256GB modrá'	price='9 889,-' 
+# http://fitlayout.github.io/resource/art320 -> https://alza.cz/realme-9-pro_1?dq=6983995
+title='Realme 9 Pro+ 256GB černá'	price='9 799,-' 
+# http://fitlayout.github.io/resource/art321 -> https://alza.cz/samsungu-galaxy-a52s-5g?dq=6667489
+title='Samsung Galaxy A52s 5G zelená'	price='9 769,-' 
+# http://fitlayout.github.io/resource/art322 -> https://alza.cz/samsungu-galaxy-a52s-5g?dq=6667488
+title='Samsung Galaxy A52s 5G fialová'	price='9 499,-' 
+# http://fitlayout.github.io/resource/art323 -> https://alza.cz/samsungu-galaxy-a52s-5g?dq=6667487
+title='Samsung Galaxy A52s 5G černá'	price='9 499,-' 
+# http://fitlayout.github.io/resource/art324 -> https://alza.cz/repasovany-iphone-x?dq=5830999
+title='Repasovaný iPhone X 64GB vesmírně šedá'	price='9 399,-' 
+# http://fitlayout.github.io/resource/art325 -> https://alza.cz/repasovany-iphone-x?dq=5830996
+title='Repasovaný iPhone X 64GB stříbrná'	price='9 399,-' 
+# http://fitlayout.github.io/resource/art326 -> https://alza.cz/blackview-gbl5000?dq=6727917
+title='Blackview GBL5000 oranžová'	price='9 259,-' 
+# http://fitlayout.github.io/resource/art327 -> https://alza.cz/realme-gt-master-5g?dq=6704302
+title='Realme GT Master Edition 5G 256GB bílá'	price='9 099,-' 
+# http://fitlayout.github.io/resource/art328 -> https://alza.cz/xiaomi-redmi-note-11-pro-5g-128gb-bila-d7070786.htm
+title='Xiaomi Redmi Note 11 Pro 5G 128GB bílá'	price='8 999,-' 
+# http://fitlayout.github.io/resource/art329 -> https://alza.cz/xiaomi-redmi-note-11-pro-5g-128gb-seda-d7070785.htm
+title='Xiaomi Redmi Note 11 Pro 5G 128GB šedá'	price='8 999,-' 
+# http://fitlayout.github.io/resource/art330 -> https://alza.cz/repasovany-iphone-se?dq=6304316
+title='Repasovaný iPhone SE 64GB červená 2020'	price='8 999,-' 
+# http://fitlayout.github.io/resource/art331 -> https://alza.cz/repasovany-iphone-se?dq=6304315
+title='Repasovaný iPhone SE 64GB černá 2020'	price='8 999,-' 
+# http://fitlayout.github.io/resource/art332 -> https://alza.cz/repasovany-iphone-se?dq=6304314
+title='Repasovaný iPhone SE 64GB bílá 2020'	price='8 999,-' 
+# http://fitlayout.github.io/resource/art333 -> https://alza.cz/oneplus-nord-2t-5g-dualsim-8gb-128gb-zelena-d7212683.htm
+title='OnePlus Nord 2T 5G DualSIM 8GB/128GB zelená'	price='8 989,-' 
+# http://fitlayout.github.io/resource/art334 -> https://alza.cz/oneplus-nord-2t-5g-dualsim-8gb-128gb-seda-d7212681.htm
+title='OnePlus Nord 2T 5G DualSIM 8GB/128GB šedá'	price='8 989,-' 
+# http://fitlayout.github.io/resource/art335 -> https://alza.cz/oneplus-nord2-5g?dq=6637808
+title='OnePlus Nord2 5G 128GB modrá'	price='8 989,-' 
+# http://fitlayout.github.io/resource/art336 -> https://alza.cz/doogee-v10-5g?dq=6839433
+title='Doogee V10 5G DualSIM oranžová'	price='8 789,-' 
+# http://fitlayout.github.io/resource/art337 -> https://alza.cz/oukitel-wp13-cerna-d7135354.htm
+title='Oukitel WP13 černá'	price='8 399,-' 
+# http://fitlayout.github.io/resource/art338 -> https://alza.cz/huawei-nova-9?dq=6795632
+title='Huawei nova 9 modrá'	price='8 499,-' 
+# http://fitlayout.github.io/resource/art339 -> https://alza.cz/xiaomi-11t?dq=6728259
+title='Xiaomi 11T 128GB šedá'	price='8 499,-' 
+# http://fitlayout.github.io/resource/art340 -> https://alza.cz/xiaomi-11t?dq=6728258
+title='Xiaomi 11T 128GB modrá'	price='8 499,-' 
+# http://fitlayout.github.io/resource/art341 -> https://alza.cz/xiaomi-11t?dq=6728257
+title='Xiaomi 11T 128GB bílá'	price='8 499,-' 
+# http://fitlayout.github.io/resource/art342 -> https://alza.cz/nokia-x20-dual-sim-5g-128gb-modra-d6467046.htm
+title='Nokia X20 Dual SIM 5G 8GB/128GB modrá'	price='8 499,-' 
+# http://fitlayout.github.io/resource/art343 -> https://alza.cz/motorola-moto-g200-5g-128gb-modra-d6862313.htm
+title='Motorola Moto G200 5G 128GB modrá'	price='8 490,-' 
+# http://fitlayout.github.io/resource/art344 -> https://alza.cz/oneplus-nord-ce-5g?dq=6636826
+title='OnePlus Nord CE 5G 256GB černá'	price='8 489,-' 
+# http://fitlayout.github.io/resource/art345 -> https://alza.cz/poco-x4-pro-5g?dq=7051654
+title='POCO X4 Pro 5G 256GB žlutá'	price='8 999,-' 
+# http://fitlayout.github.io/resource/art346 -> https://alza.cz/huawei-nova-9?dq=6795631
+title='Huawei nova 9 černá'	price='8 069,-' 
+# http://fitlayout.github.io/resource/art347 -> https://alza.cz/motorola-moto-g82-5g-6gb-128gb-seda-d7241315.htm
+title='Motorola Moto G82 5G 6GB/128GB šedá'	price='7 999,-' 
+# http://fitlayout.github.io/resource/art348 -> https://alza.cz/samsung-galaxy-a33?dq=7050453
+title='Samsung Galaxy A33 5G oranžová'	price='7 999,-' 
+# http://fitlayout.github.io/resource/art349 -> https://alza.cz/samsung-galaxy-a33?dq=7050452
+title='Samsung Galaxy A33 5G modrá'	price='7 999,-' 
+# http://fitlayout.github.io/resource/art350 -> https://alza.cz/samsung-galaxy-a33?dq=7050451
+title='Samsung Galaxy A33 5G černá'	price='7 989,-' 
+# http://fitlayout.github.io/resource/art351 -> https://alza.cz/oneplus-nord-ce-2-5g-128gb-gradientni-modra-d7017941.htm
+title='OnePlus Nord CE 2 5G 128GB gradientní modrá'	price='7 989,-' 
+# http://fitlayout.github.io/resource/art352 -> https://alza.cz/oneplus-nord-ce-2-5g-128gb-seda-d7017940.htm
+title='OnePlus Nord CE 2 5G 128GB šedá'	price='7 989,-' 
+# http://fitlayout.github.io/resource/art353 -> https://alza.cz/realme-gt-master-5g?dq=6704301
+title='Realme GT Master Edition 5G 128GB šedá'	price='7 989,-' 
+# http://fitlayout.github.io/resource/art354 -> https://alza.cz/oneplus-nord2-5g?dq=6637809
+title='OnePlus Nord2 5G 128GB šedá'	price='8 289,-' 
+# http://fitlayout.github.io/resource/art355 -> https://alza.cz/blackview-gbv9900e-cerna-d6321469.htm
+title='Blackview GBV9900E černá'	price='8 139,-' 
+# http://fitlayout.github.io/resource/art356 -> https://alza.cz/oneplus-nord-ce-5g?dq=6636827
+title='OnePlus Nord CE 5G 256GB modrá'	price='7 789,-' 
+# http://fitlayout.github.io/resource/art357 -> https://alza.cz/oneplus-nord-ce-5g?dq=6922586
+title='OnePlus Nord CE 5G 256GB stříbrná'	price='7 789,-' 
+# http://fitlayout.github.io/resource/art358 -> https://alza.cz/vivo-v21-5g?dq=6517529
+title='Vivo V21 5G modrá'	price='7 609,-' 
+# http://fitlayout.github.io/resource/art359 -> https://alza.cz/vivo-v21-5g?dq=6517528
+title='Vivo V21 5G černá'	price='7 609,-' 
+# http://fitlayout.github.io/resource/art360 -> https://alza.cz/motorola-edge-20?dq=6637881
+title='Motorola EDGE 20 128GB bílá'	price='7 499,-' 
+# http://fitlayout.github.io/resource/art361 -> https://alza.cz/xiaomi-redmi-note-11s-5g?dq=7132582
+title='Xiaomi Redmi Note 11S 5G 6GB/128GB černá'	price='7 489,-' 
+# http://fitlayout.github.io/resource/art362 -> https://alza.cz/tecno-camon-18-premier?dq=7107913
+title='Tecno Camon 18 Premier 8GB/256GB modrá'	price='7 479,-' 
+# http://fitlayout.github.io/resource/art363 -> https://alza.cz/tecno-camon-18-premier?dq=7107912
+title='Tecno Camon 18 Premier 8GB/256GB světle modrá'	price='7 479,-' 
+# http://fitlayout.github.io/resource/art364 -> https://alza.cz/honor-magic4-lite-5g?dq=7095873
+title='Honor Magic4 Lite 5G 128GB černá'	price='7 489,-' 
+# http://fitlayout.github.io/resource/art365 -> https://alza.cz/honor-magic4-lite-5g?dq=7095872
+title='Honor Magic4 Lite 5G 128GB stříbrná'	price='7 489,-' 
+# http://fitlayout.github.io/resource/art366 -> https://alza.cz/honor-magic4-lite-5g?dq=7095871
+title='Honor Magic4 Lite 5G 128GB modrá'	price='7 489,-' 
+# http://fitlayout.github.io/resource/art367 -> https://alza.cz/motorola-edge-20?dq=6862312
+title='Motorola EDGE 20 128GB zelená'	price='7 489,-' 
+# http://fitlayout.github.io/resource/art368 -> https://alza.cz/blackview-gbv6600-pro-thermo?dq=6727920
+title='Blackview GBV6600 Pro Thermo oranžová'	price='7 489,-' 
+# http://fitlayout.github.io/resource/art369 -> https://alza.cz/blackview-gbv6600-pro-thermo?dq=6727919
+title='Blackview GBV6600 Pro Thermo černá'	price='7 489,-' 
+# http://fitlayout.github.io/resource/art370 -> https://alza.cz/xiaomi-redmi-note-11s-5g?dq=7132583
+title='Xiaomi Redmi Note 11S 5G 4GB/128GB modrá'	price='7 199,-' 
+# http://fitlayout.github.io/resource/art371 -> https://alza.cz/poco-x4-pro-5g?dq=7051652
+title='POCO X4 Pro 5G 128GB žlutá'	price='7 999,-' 
+# http://fitlayout.github.io/resource/art372 -> https://alza.cz/poco-x4-pro-5g?dq=7051651
+title='POCO X4 Pro 5G 128GB černá'	price='7 999,-' 
+# http://fitlayout.github.io/resource/art373 -> https://alza.cz/poco-x4-pro-5g?dq=7051650
+title='POCO X4 Pro 5G 128GB modrá'	price='7 999,-' 
+# http://fitlayout.github.io/resource/art374 -> https://alza.cz/xiaomi-redmi-note-11s-5g?dq=7132580
+title='Xiaomi Redmi Note 11S 5G 4GB/128GB gradientní modrá'	price='7 189,-' 
+# http://fitlayout.github.io/resource/art375 -> https://alza.cz/realme-9-pro?dq=6983998
+title='Realme 9 Pro 8GB/128GB zelená'	price='7 179,-' 
+# http://fitlayout.github.io/resource/art376 -> https://alza.cz/realme-9-pro?dq=6983994
+title='Realme 9 Pro 8GB/128GB modrá'	price='7 179,-' 
+# http://fitlayout.github.io/resource/art377 -> https://alza.cz/realme-9-pro?dq=6983992
+title='Realme 9 Pro 8GB/128GB černá'	price='7 179,-' 
+# http://fitlayout.github.io/resource/art378 -> https://alza.cz/cubot-king-kong-7-cerna-d6658191.htm
+title='Cubot King Kong 7 černá'	price='6 999,-' 
+# http://fitlayout.github.io/resource/art379 -> https://alza.cz/oneplus-nord-ce-2-lite-5g-dualsim-6gb-128gb-modra-d7212682.htm
+title='OnePlus Nord CE 2 Lite 5G DualSIM 6GB/128GB modrá'	price='6 990,-' 
+# http://fitlayout.github.io/resource/art380 -> https://alza.cz/oneplus-nord-ce-2-lite-5g-dualsim-6gb-128gb-cerna-d7212680.htm
+title='OnePlus Nord CE 2 Lite 5G DualSIM 6GB/128GB černá'	price='6 989,-' 
+# http://fitlayout.github.io/resource/art381 -> https://alza.cz/huawei-nova-9-se?dq=7019612
+title='Huawei nova 9 SE bílá'	price='6 989,-' 
+# http://fitlayout.github.io/resource/art382 -> https://alza.cz/huawei-nova-9-se?dq=7019611
+title='Huawei nova 9 SE modrá'	price='6 989,-' 
+# http://fitlayout.github.io/resource/art383 -> https://alza.cz/huawei-nova-9-se?dq=7019610
+title='Huawei nova 9 SE černá'	price='6 989,-' 
+# http://fitlayout.github.io/resource/art384 -> https://alza.cz/doogee-s97-pro-cervena-d6708836.htm
+title='Doogee S97 PRO červená'	price='6 989,-' 
+# http://fitlayout.github.io/resource/art385 -> https://alza.cz/realme-9-dualsim?dq=7167955
+title='Realme 9 DualSIM 8GB/128GB zlatá'	price='6 739,-' 
+# http://fitlayout.github.io/resource/art386 -> https://alza.cz/realme-9-dualsim?dq=7167954
+title='Realme 9 DualSIM 8GB/128GB bílá'	price='6 739,-' 
+# http://fitlayout.github.io/resource/art387 -> https://alza.cz/realme-9-dualsim?dq=7167953
+title='Realme 9 DualSIM 8GB/128GB černá'	price='6 739,-' 
+# http://fitlayout.github.io/resource/art388 -> https://alza.cz/realme-9-pro?dq=6983990
+title='Realme 9 Pro 6GB/128GB zelená'	price='6 739,-' 
+# http://fitlayout.github.io/resource/art389 -> https://alza.cz/realme-9-pro?dq=6983993
+title='Realme 9 Pro 6GB/128GB černá'	price='6 739,-' 
+# http://fitlayout.github.io/resource/art390 -> https://alza.cz/realme-9-pro?dq=6983991
+title='Realme 9 Pro 6GB/128GB modrá'	price='6 729,-' 
+# http://fitlayout.github.io/resource/art391 -> https://alza.cz/vivo-y76-5g?dq=7011456
+title='Vivo Y76 5G černá'	price='6 709,-' 
+# http://fitlayout.github.io/resource/art392 -> https://alza.cz/vivo-y76-5g?dq=7011455
+title='Vivo Y76 5G gradientní modrá'	price='6 689,-' 
+# http://fitlayout.github.io/resource/art393 -> https://alza.cz/motorola-moto-g71-5g-zelena-d6969412.htm
+title='Motorola Moto G71 5G zelená'	price='6 689,-' 
+# http://fitlayout.github.io/resource/art394 -> https://alza.cz/samsung-galaxy-m23-5g?dq=7072196
+title='Samsung Galaxy M23 5G modrá'	price='6 499,-' 
+# http://fitlayout.github.io/resource/art395 -> https://alza.cz/samsung-galaxy-m23-5g?dq=7072195
+title='Samsung Galaxy M23 5G zelená'	price='6 499,-' 
+# http://fitlayout.github.io/resource/art396 -> https://alza.cz/samsung-galaxy-m23-5g?dq=7072194
+title='Samsung Galaxy M23 5G oranžová'	price='6 499,-' 
+# http://fitlayout.github.io/resource/art397 -> https://alza.cz/nokia-x10-dual-sim-5g-4gb-128gb-zelena-d6519214.htm
+title='Nokia X10 Dual SIM 5G 4GB/128GB zelená'	price='6 499,-' 
+# http://fitlayout.github.io/resource/art398 -> https://alza.cz/honor-x8-5g?dq=7333175
+title='Honor X8 5G černá+ bonus 500 Kč k výkupu'	price='6 490,-' 
+# http://fitlayout.github.io/resource/art399 -> https://alza.cz/honor-x8-5g?dq=7333176
+title='Honor X8 5G modrá+ bonus 500 Kč k výkupu'	price='6 489,-' 
+# http://fitlayout.github.io/resource/art400 -> https://alza.cz/xiaomi-redmi-note-11s?dq=7051338
+title='Xiaomi Redmi Note 11S 6GB/64GB šedá'	price='6 489,-' 
+# http://fitlayout.github.io/resource/art401 -> https://alza.cz/xiaomi-redmi-note-11s?dq=7051337
+title='Xiaomi Redmi Note 11S 6GB/64GB modrá'	price='6 489,-' 
+# http://fitlayout.github.io/resource/art402 -> https://alza.cz/realme-8-5g?dq=6473482
+title='Realme 8 5G DualSIM 128GB modrá'	price='6 489,-' 
+# http://fitlayout.github.io/resource/art403 -> https://alza.cz/realme-8-5g?dq=6468503
+title='Realme 8 5G DualSIM 128GB černá'	price='6 489,-' 
+# http://fitlayout.github.io/resource/art404 -> https://alza.cz/realme-9-5g?dq=7167959
+title='Realme 9 5G DualSIM 4GB/64GB bílá'	price='6 479,-' 
+# http://fitlayout.github.io/resource/art405 -> https://alza.cz/realme-9-5g?dq=7167958
+title='Realme 9 5G DualSIM 4GB/64GB černá'	price='6 479,-' 
+# http://fitlayout.github.io/resource/art406 -> https://alza.cz/motorola-edge-20-lite?dq=6637879
+title='Motorola EDGE 20 Lite 128GB zelená'	price='6 399,-' 
+# http://fitlayout.github.io/resource/art407 -> https://alza.cz/motorola-edge-20-lite?dq=6637878
+title='Motorola EDGE 20 Lite 128GB šedá'	price='6 389,-' 
+# http://fitlayout.github.io/resource/art408 -> https://alza.cz/poco-m4-pro?dq=7051662
+title='POCO M4 Pro 256GB žlutá'	price='6 999,-' 
+# http://fitlayout.github.io/resource/art409 -> https://alza.cz/poco-m4-pro?dq=7051660
+title='POCO M4 Pro 256GB modrá'	price='6 999,-' 
+# http://fitlayout.github.io/resource/art410 -> https://alza.cz/poco-m4-pro?dq=7051659
+title='POCO M4 Pro 256GB černá'	price='6 999,-' 
+# http://fitlayout.github.io/resource/art411 -> https://alza.cz/samsung-galaxy-a13-5g?dq=7215759
+title='Samsung Galaxy A13 5G 4GB/128GB modrá'	price='6 189,-' 
+# http://fitlayout.github.io/resource/art412 -> https://alza.cz/xiaomi-redmi-10-5g?dq=7333264
+title='Xiaomi Redmi 10 5G 4/128GB zelená'	price='5 999,-' 
+# http://fitlayout.github.io/resource/art413 -> https://alza.cz/xiaomi-redmi-10-5g?dq=7333262
+title='Xiaomi Redmi 10 5G 4/128GB černá'	price='5 999,-' 
+# http://fitlayout.github.io/resource/art414 -> https://alza.cz/huawei-nova-8i?dq=6795635
+title='Huawei nova 8i stříbrná'	price='5 999,-' 
+# http://fitlayout.github.io/resource/art415 -> https://alza.cz/huawei-nova-8i?dq=6795634
+title='Huawei nova 8i černá'	price='5 999,-' 
+# http://fitlayout.github.io/resource/art416 -> https://alza.cz/vivo-y72-5g?dq=6632395
+title='Vivo Y72 5G černá'	price='5 999,-' 
+# http://fitlayout.github.io/resource/art417 -> https://alza.cz/samsung-galaxy-a32?dq=6363655
+title='Samsung Galaxy A32 modrá'	price='5 999,-' 
+# http://fitlayout.github.io/resource/art418 -> https://alza.cz/samsung-galaxy-a32?dq=6363653
+title='Samsung Galaxy A32 černá'	price='5 999,-' 
+# http://fitlayout.github.io/resource/art419 -> https://alza.cz/samsung-galaxy-a32?dq=6363652
+title='Samsung Galaxy A32 bílá'	price='5 999,-' 
+# http://fitlayout.github.io/resource/art420 -> https://alza.cz/myphone-hammer-explorer-plus?dq=7300549
+title='MyPhone Hammer Explorer plus stříbrný'	price='5 989,-' 
+# http://fitlayout.github.io/resource/art421 -> https://alza.cz/myphone-hammer-explorer-plus?dq=7300548
+title='MyPhone Hammer Explorer plus oranžový'	price='5 989,-' 
+# http://fitlayout.github.io/resource/art422 -> https://alza.cz/samsung-galaxy-a13-5g?dq=7215760
+title='Samsung Galaxy A13 5G 4GB/128GB bílá'	price='5 989,-' 
+# http://fitlayout.github.io/resource/art423 -> https://alza.cz/ulefone-armor-8-pro?dq=6715282
+title='UleFone Armor 8 Pro 8GB/128GB oranžová'	price='5 989,-' 
+# http://fitlayout.github.io/resource/art424 -> https://alza.cz/ulefone-armor-8-pro?dq=6715281
+title='UleFone Armor 8 Pro 8GB/128GB červená'	price='5 989,-' 
+# http://fitlayout.github.io/resource/art425 -> https://alza.cz/oukitel-wp9?dq=6551179
+title='Oukitel WP9 oranžová'	price='5 989,-' 
+# http://fitlayout.github.io/resource/art426 -> https://alza.cz/oukitel-wp9?dq=6551178
+title='Oukitel WP9 červená'	price='5 989,-' 
+# http://fitlayout.github.io/resource/art427 -> https://alza.cz/doogee-s88-pro?dq=6106161
+title='Doogee S88 PRO Dual SIM černá'	price='5 890,-' 
+# http://fitlayout.github.io/resource/art428 -> https://alza.cz/umidigi-bison-plus?dq=6635664
+title='Umidigi Bison Plus žlutá'	price='5 290,-' 
+# http://fitlayout.github.io/resource/art429 -> https://alza.cz/umidigi-bison-plus?dq=6635663
+title='Umidigi Bison Plus oranžová'	price='5 290,-' 
+# http://fitlayout.github.io/resource/art430 -> https://alza.cz/samsung-galaxy-a22-5g?dq=6484103
+title='Samsung Galaxy A22 5G 128GB bílá'	price='5 889,-' 
+# http://fitlayout.github.io/resource/art431 -> https://alza.cz/cat-s42-h-cerna-d6669678.htm
+title='CAT S42 H+ černá'	price='5 859,-' 
+# http://fitlayout.github.io/resource/art432 -> https://alza.cz/xiaomi-redmi-note-11?dq=6977674
+title='Xiaomi Redmi Note 11 128GB šedá'	price='5 849,-' 
+# http://fitlayout.github.io/resource/art433 -> https://alza.cz/xiaomi-redmi-note-11?dq=6977672
+title='Xiaomi Redmi Note 11 128GB modrá'	price='5 849,-' 
+# http://fitlayout.github.io/resource/art434 -> https://alza.cz/xiaomi-redmi-note-11?dq=6977671
+title='Xiaomi Redmi Note 11 128GB gradientní modrá'	price='5 849,-' 
+# http://fitlayout.github.io/resource/art435 -> https://alza.cz/xiaomi-redmi-note-11?dq=7100598
+title='Xiaomi Redmi Note 11 128GB XFF Special Edition twilight modrá'	price='5 789,-' 
+# http://fitlayout.github.io/resource/art436 -> https://alza.cz/poco-m4-5g?dq=7398836
+title='POCO M4 5G 4GB/128GB žlutá'	price='5 699,-' 
+# http://fitlayout.github.io/resource/art437 -> https://alza.cz/poco-m4-5g?dq=7398834
+title='POCO M4 5G 4GB/128GB černá'	price='5 699,-' 
+# http://fitlayout.github.io/resource/art438 -> https://alza.cz/poco-m4-5g?dq=7398833
+title='POCO M4 5G 4GB/128GB modrá'	price='5 699,-' 
+# http://fitlayout.github.io/resource/art439 -> https://alza.cz/samsung-galaxy-a13-5g?dq=7215761
+title='Samsung Galaxy A13 5G 4GB/64GB černá'	price='5 689,-' 
+# http://fitlayout.github.io/resource/art440 -> https://alza.cz/samsung-galaxy-a13-5g?dq=7215757
+title='Samsung Galaxy A13 5G 4GB/64GB bílá'	price='5 689,-' 
+# http://fitlayout.github.io/resource/art441 -> https://alza.cz/samsung-galaxy-a13-5g?dq=7215758
+title='Samsung Galaxy A13 5G 4GB/128GB černá'	price='6 189,-' 
+# http://fitlayout.github.io/resource/art442 -> https://alza.cz/xiaomi-redmi-10-5g?dq=7333263
+title='Xiaomi Redmi 10 5G 4/64GB stříbrná'	price='5 599,-' 
+# http://fitlayout.github.io/resource/art443 -> https://alza.cz/xiaomi-redmi-10-5g?dq=7333260
+title='Xiaomi Redmi 10 5G 4/64GB zelená'	price='5 599,-' 
+# http://fitlayout.github.io/resource/art444 -> https://alza.cz/honor-x8-128gb?dq=7101644
+title='Honor X8 128GB černá'	price='5 590,-' 
+# http://fitlayout.github.io/resource/art445 -> https://alza.cz/honor-x8-128gb?dq=7101643
+title='Honor X8 128GB modrá'	price='5 590,-' 
+# http://fitlayout.github.io/resource/art446 -> https://alza.cz/honor-x8-128gb?dq=7101642
+title='Honor X8 128GB stříbrná'	price='5 590,-' 
+# http://fitlayout.github.io/resource/art447 -> https://alza.cz/huawei-nova-y90?dq=7300566
+title='Huawei nova Y90 zelená'	price='5 499,-' 
+# http://fitlayout.github.io/resource/art448 -> https://alza.cz/xiaomi-redmi-note-11?dq=6977670
+title='Xiaomi Redmi Note 11 64GB šedá'	price='5 499,-' 
+# http://fitlayout.github.io/resource/art449 -> https://alza.cz/xiaomi-redmi-note-11?dq=6977669
+title='Xiaomi Redmi Note 11 64GB modrá'	price='5 499,-' 
+# http://fitlayout.github.io/resource/art450 -> https://alza.cz/xiaomi-redmi-note-10-5g?dq=6484210
+title='Xiaomi Redmi Note 10 5G 64GB šedá'	price='5 499,-' 
+# http://fitlayout.github.io/resource/art451 -> https://alza.cz/xiaomi-redmi-note-10-5g?dq=6484208
+title='Xiaomi Redmi Note 10 5G 64GB modrá'	price='5 499,-' 
+# http://fitlayout.github.io/resource/art452 -> https://alza.cz/motorola-moto-g42-6gb-128gb-ruzova-d7298465.htm
+title='Motorola Moto G42 6GB/128GB růžová'	price='5 489,-' 
+# http://fitlayout.github.io/resource/art453 -> https://alza.cz/motorola-moto-g42-6gb-128gb-zelena-d7298464.htm
+title='Motorola Moto G42 6GB/128GB zelená'	price='5 489,-' 
+# http://fitlayout.github.io/resource/art454 -> https://alza.cz/huawei-nova-y90?dq=7298254
+title='Huawei nova Y90 modrá'	price='5 489,-' 
+# http://fitlayout.github.io/resource/art455 -> https://alza.cz/huawei-nova-y90?dq=7298253
+title='Huawei nova Y90 černá'	price='5 489,-' 
+# http://fitlayout.github.io/resource/art456 -> https://alza.cz/samsung-galaxy-a13-5g?dq=7215855
+title='Samsung Galaxy A13 5G 4GB/64GB modrá'	price='5 489,-' 
+# http://fitlayout.github.io/resource/art457 -> https://alza.cz/motorola-moto-g52-6gb-128gb-seda-d7163975.htm
+title='Motorola Moto G52 6GB/128GB šedá'	price='5 389,-' 
+# http://fitlayout.github.io/resource/art458 -> https://alza.cz/motorola-moto-g52-6gb-128gb-bila-d7163974.htm
+title='Motorola Moto G52 6GB/128GB bílá'	price='5 399,-' 
+# http://fitlayout.github.io/resource/art459 -> https://alza.cz/poco-m4-pro?dq=7051658
+title='POCO M4 Pro 128GB žlutá'	price='5 999,-' 
+# http://fitlayout.github.io/resource/art460 -> https://alza.cz/poco-m4-pro?dq=7051657
+title='POCO M4 Pro 128GB modrá'	price='5 999,-' 
+# http://fitlayout.github.io/resource/art461 -> https://alza.cz/poco-m4-pro?dq=7051661
+title='POCO M4 Pro 128GB černá'	price='5 389,-' 
+# http://fitlayout.github.io/resource/art462 -> https://alza.cz/realme-9i?dq=6984001
+title='Realme 9i 128GB modrá'	price='5 439,-' 
+# http://fitlayout.github.io/resource/art463 -> https://alza.cz/vivo-y52-5g?dq=6632393
+title='Vivo Y52 5G modrá'	price='5 239,-' 
+# http://fitlayout.github.io/resource/art464 -> https://alza.cz/vivo-y52-5g?dq=6632392
+title='Vivo Y52 5G černá'	price='5 239,-' 
+# http://fitlayout.github.io/resource/art465 -> https://alza.cz/samsung-galaxy-a13_2?dq=7215769
+title='Samsung Galaxy A13 4GB/128GB modrá'	price='5 199,-' 
+# http://fitlayout.github.io/resource/art466 -> https://alza.cz/samsung-galaxy-a13_2?dq=7215766
+title='Samsung Galaxy A13 4GB/128GB bílá'	price='5 199,-' 
+# http://fitlayout.github.io/resource/art467 -> https://alza.cz/motorola-moto-g41?dq=6969411
+title='Motorola Moto G41 zlatá'	price='4 989,-' 
+# http://fitlayout.github.io/resource/art468 -> https://alza.cz/motorola-moto-g41?dq=6969410
+title='Motorola Moto G41 černá'	price='4 989,-' 
+# http://fitlayout.github.io/resource/art469 -> https://alza.cz/motorola-moto-g42-4gb-128gb-zelena-d7298466.htm
+title='Motorola Moto G42 4GB/128GB zelená'	price='5 189,-' 
+# http://fitlayout.github.io/resource/art470 -> https://alza.cz/realme-8i?dq=6757293
+title='Realme 8i 128GB fialová'	price='5 239,-' 
+# http://fitlayout.github.io/resource/art471 -> https://alza.cz/realme-8-5g?dq=6468502
+title='Realme 8 5G DualSIM 64GB černá'	price='4 959,-' 
+# http://fitlayout.github.io/resource/art472 -> https://alza.cz/realme-9i?dq=6984002
+title='Realme 9i 64GB černá'	price='5 089,-' 
+# http://fitlayout.github.io/resource/art473 -> https://alza.cz/poco-m4-5g?dq=7398835
+title='POCO M4 5G 4GB/64GB černá'	price='4 999,-' 
+# http://fitlayout.github.io/resource/art474 -> https://alza.cz/poco-m4-5g?dq=7398832
+title='POCO M4 5G 4GB/64GB žlutá'	price='4 999,-' 
+# http://fitlayout.github.io/resource/art475 -> https://alza.cz/poco-m4-5g?dq=7398831
+title='POCO M4 5G 4GB/64GB modrá'	price='4 999,-' 
+# http://fitlayout.github.io/resource/art476 -> https://alza.cz/xiaomi-redmi-10-2022-4gb-128gb-bila-d7208111.htm
+title='Xiaomi Redmi 10 2022 4GB/128GB bílá'	price='4 999,-' 
+# http://fitlayout.github.io/resource/art477 -> https://alza.cz/xiaomi-redmi-10-2022-4gb-128gb-cerna-d7208110.htm
+title='Xiaomi Redmi 10 2022 4GB/128GB černá'	price='4 999,-' 
+# http://fitlayout.github.io/resource/art478 -> https://alza.cz/motorola-moto-g52-4gb-128gb-cerna-d7134714.htm
+title='Motorola Moto G52 4GB/128GB černá'	price='4 989,-' 
+# http://fitlayout.github.io/resource/art479 -> https://alza.cz/motorola-moto-g60-seda-d6726030.htm
+title='Motorola Moto G60 šedá'	price='4 999,-' 
+# http://fitlayout.github.io/resource/art480 -> https://alza.cz/cubot-x50?dq=6620069
+title='Cubot X50 zelená'	price='5 999,-' 

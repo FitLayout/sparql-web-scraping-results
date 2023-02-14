@@ -1,0 +1,200 @@
+# http://fitlayout.github.io/resource/art46 -> https://www.imdb.com/title/tt7049682/fullcredits/
+character=Angela Abar	name=Regina King	episodes=9 episodes, 2019 	
+character=Cal Abar	name=Yahya Abdul-Mateen II	episodes=8 episodes, 2019 	
+character=Mr. Phillips	name=Tom Mison	episodes=8 episodes, 2019 	
+character=Ms. Crookshanks	name=Sara Vickers	episodes=8 episodes, 2019 	
+character=Adrian Veidt	name=Jeremy Irons	episodes=8 episodes, 2019 	
+character=Red Scare	name=Andrew Howard	episodes=7 episodes, 2019 	
+character=Will Reeves	name=Louis Gossett Jr.	episodes=7 episodes, 2019 	
+character=Laurie Blake	name=Jean Smart	episodes=6 episodes, 2019 	
+character=Looking Glass	name=Tim Blake Nelson	episodes=6 episodes, 2019 	
+character=Topher Abar	name=Dylan Schombing	episodes=6 episodes, 2019 	
+character=Joe Keene	name=James Wolk	episodes=6 episodes, 2019 	
+character=Rosie	name=Lily Rose Smith	episodes=6 episodes, 2019 	
+character=Emma	name=Adelynn Spoon	episodes=6 episodes, 2019 	
+character=Young Will Reeves	name=Danny Boyd Jr.	episodes=6 episodes, 2019 	
+character=Jane Crawford	name=Frances Fisher	episodes=5 episodes, 2019 	
+character=Pirate Jenny	name=Jessica Camacho	episodes=5 episodes, 2019 	
+character=O.B. Williams	name=Steven G. Norfleet	episodes=5 episodes, 2019 	
+character=Ruth Williams	name=Alexis Louder	episodes=5 episodes, 2019 	
+character=Lady Trieu	name=Hong Chau	episodes=4 episodes, 2019 	
+character=Judd Crawford	name=Don Johnson	episodes=4 episodes, 2019 	
+character=Bian	name=Jolie Hoang-Rappaport	episodes=4 episodes, 2019 	
+character=Panda	name=Jacob Ming-Trent	episodes=3 episodes, 2019 	
+character=Hooded Justice	name=Cheyenne Jackson	episodes=3 episodes, 2019 	
+character=Agent Petey	name=Dustin Ingram	episodes=3 episodes, 2019 	
+character=Will Reeves	name=Jovan Adepo	episodes=3 episodes, 2019 	
+character=Bass Reeves	name=Jamal Akakpo	episodes=3 episodes, 2019 	
+character=Jon	name=Darrell Snedeger	episodes=2 episodes, 2019 	
+character=Seymour	name=Robert Wisdom	episodes=2 episodes, 2019 	
+character=Old Woman	name=Valeri Ross	episodes=2 episodes, 2019 	
+character=June	name=Danielle Deadwyler	episodes=2 episodes, 2019 	
+character=Skip Gates	name=Henry Louis Gates Jr.	episodes=2 episodes, 2019 	
+character=Adorable White Boy	name=Landon Durrence	episodes=2 episodes, 2019 	
+character=Mom	name=Victoria Blade	episodes=2 episodes, 2019 	
+character=Preacher	name=Charles Green	episodes=2 episodes, 2019 	
+character=Sam Battle	name=Philly Plowden	episodes=2 episodes, 2019 	
+character=K Spokesman	name=Nicholas Logan	episodes=2 episodes, 2019 	
+character=Officer Borquin	name=Jordan Salloum	episodes=2 episodes, 2019 	
+character=Sheriff	name=Kyle McDuffie	episodes=2 episodes, 2019 	
+character=Marcus	name=Jaiden Bostic	episodes=2 episodes, 2019 	
+character=Nelson Gardner	name=Jake McDorman	episodes=1 episode, 2019 	
+character=Fred	name=Glenn Fleshler	episodes=1 episode, 2019 	
+character=Renee	name=Paula Malcomson	episodes=1 episode, 2019 	
+character=Bartender	name=Phillip Trieu	episodes=1 episode, 2019 	
+character=Simmons	name=Steve Coulter	episodes=1 episode, 2019 	
+character=Mister Shadow	name=Lee Tergesen	episodes=1 episode, 2019 	
+character=Agent Art	name=Erik Palladino	episodes=1 episode, 2019 	
+character=Young Jon Osterman	name=Zak Rothera-Oxley	episodes=1 episode, 2019 	
+character=Andy	name=Jim Beaver	episodes=1 episode, 2019 	
+character=Hans Osterman	name=Anatole Taubman	episodes=1 episode, 2019 	
+character=Charlie Sutton	name=Charles Brice	episodes=1 episode, 2019 	
+character=Captain Metropolis	name=Chris Whitley	episodes=1 episode, 2019 	
+character=Carmichael	name=Michael Graziadei	episodes=1 episode, 2019 	
+character=Young Wade Tillman	name=Philip Labes	episodes=1 episode, 2019 	
+character=Agent Jerry	name=Adam Drescher	episodes=1 episode, 2019 	
+character=Deputy Director Farragut	name=David Andrews	episodes=1 episode, 2019 	
+character=Roxy	name=Julia Vasi	episodes=1 episode, 2019 	
+character=Paramedic	name=Greg Weeks	episodes=1 episode, 2019 	
+character=The Suspect	name=Wayne Pére	episodes=1 episode, 2019 	
+character=Cleaning Woman	name=Elyse Dinh	episodes=1 episode, 2019 	
+character=Outdoorsy Man	name=David Watts	episodes=1 episode, 2019 	
+character=Young Angela	name=Faithe Herman	episodes=1 episode, 2019 	
+character=Ms. Sweetwater	name=Geraldine Singer	episodes=1 episode, 2019 	
+character=Well Dressed Woman	name=Karen Beyer	episodes=1 episode, 2019 	
+character=Chief	name=John Newberg	episodes=1 episode, 2019 	
+character=Officer Jen	name=Jennifer Vo Le	episodes=1 episode, 2019 	
+character=Police Officer	name=Michael Rubino	episodes=1 episode, 2019 	
+character=Kavalry Bomber	name=Brook Todd	episodes=1 episode, 2019 	
+character=Werner	name=Thomas K. Belgrey	episodes=1 episode, 2019 	
+character=Hostage	name=Erin C. Davis	episodes=1 episode, 2019 	
+character=Child	name=Ariel Milner	episodes=1 episode, 2019 	
+character=Elder	name=Tim Peek	episodes=1 episode, 2019 	
+character=Prisoner	name=Michael Hodson	episodes=1 episode, 2019 	
+character=Marcus Abar	name=Anthony Hill	episodes=1 episode, 2019 	
+character=Another Reporter	name=Sara Antonio	episodes=1 episode, 2019 	
+character=Cynthia Tillman	name=Eileen Grubba	episodes=1 episode, 2019 	
+character=Senator Keene Sr.	name=Ted Johnson	episodes=1 episode, 2019 	
+character=Elise Abar	name=Devyn A. Tyler	episodes=1 episode, 2019 	
+character=Crew Chief	name=Regina Ting Chen	episodes=1 episode, 2019 	
+character=German Officer	name=Miles Doleac	episodes=1 episode, 2019 	
+character=Jerry	name=Ryan Hope Travis	episodes=1 episode, 2019 	
+character=Heavyset White Dude	name=James Dean Smith	episodes=1 episode, 2019 	
+character=Desk Sergeant	name=Charlie Talbert	episodes=1 episode, 2019 	
+character=Jon Clark	name=Robert Pralgo	episodes=1 episode, 2019 	
+character=Knot Top	name=Austin Freeman	episodes=1 episode, 2019 	
+character=Fraulein Mueller	name=Annika Pampel	episodes=1 episode, 2019 	
+character=Mike Schach	name=Bobby Jordan	episodes=1 episode, 2019 	
+character=Video Store Clerk	name=Damien Dao	episodes=1 episode, 2019 	
+character=Delivery Guy	name=Christian Robinson	episodes=1 episode, 2019 	
+character=Uniformed Cop	name=Mahdi Cocci	episodes=1 episode, 2019 	
+character=Vietnamese Headmistress	name=Junie Hoang	episodes=1 episode, 2019 	
+character=Katy Clark	name=Christine Weatherup	episodes=1 episode, 2019 	
+character=Knot Top	name=Cabot Basden	episodes=1 episode, 2019 	
+character=Well Dressed Man	name=Jason Collett	episodes=1 episode, 2019 	
+character=Radio-Schach	name=Jesse O	episodes=1 episode, 2019 	
+character=Radio-Schach	name=Neill	episodes=1 episode, 2019 	
+character=Vietnamese Cab Driver	name=Han Soto	episodes=1 episode, 2019 	
+character=Rorschach	name=Trey Butler	episodes=1 episode, 2019 	
+character=Woman Getting Attacked	name=Catherine Eure	episodes=1 episode, 2019 	
+character=Singer	name=Jim Braswell	episodes=1 episode, 2019 	
+character=Older Woman	name=Holly Stevenson	episodes=1 episode, 2019 	
+character=Guard	name=Mariana Novak	episodes=1 episode, 2019 	
+character=White Cop 	name=Ryan Homchick	episodes=1 episode, 2019 	
+character=Tattooed Man	name=Brian Stapf	episodes=1 episode, 2019 	
+character=Puppeteer	name=Hawn Tran	episodes=1 episode, 2019 	
+character=Reporter	name=Hunter McGregor	episodes=1 episode, 2019 	
+character=Rorschach Tech	name=Jimi Kocina	episodes=1 episode, 2019 	
+character=Newspaper Boy	name=Luke David Blumm	episodes=1 episode, 2019 	
+character=Trieu Compound Guard	name=Shakirah DeMesier	episodes=1 episode, 2019 	
+character=Fireman	name=Quinten Johnson	episodes=1 episode, 2019 	
+character=Ed Support Member	name=Tiger Dawn	episodes=1 episode, 2019 	
+character=Teller	name=Denny Zartman	episodes=1 episode, 2019 	
+character=Ringleader	name=Ryan Czerwonko	episodes=1 episode, 2019 	
+character=Mechanic	name=Dajour Ashwood	episodes=1 episode, 2019 	
+character=Ed Support Member	name=Debra Nelson	episodes=1 episode, 2019 	
+character=Venezuelan Woman	name=Edelia Merida	episodes=1 episode, 2019 	
+character=Ballcap Agent	name=Benjamin David	episodes=1 episode, 2019 	
+character=Reporter	name=Daniel Parvis	episodes=1 episode, 2019 	
+character=Cashier	name=Vince Pisani	episodes=1 episode, 2019 	
+character=Mechanic	name=Sasha Morfaw	episodes=1 episode, 2019 	
+character=Wife	name=Sasha Morfaw	episodes=1 episode, 2019 	
+character=Arabic Man	name=Rowan Bousaid	episodes=1 episode, 2019 	
+character=Clipboard Yellow	name=Maxton Jones	episodes=1 episode, 2019 	
+character=Ed Support Member	name=Denise Hillis	episodes=1 episode, 2019 	
+character=Curly 	name=Uyoata Udi	episodes=1 episode, 2019 	
+character=Oklahoma	name=Uyoata Udi	episodes=1 episode, 2019 	
+character=Sergeant at Arms	name=Patrick Brown	episodes=1 episode, 2019 	
+character=Soldier	name=Tevin Marbeth	episodes=1 episode, 2019 	
+character=Ed Support Member	name=Jesse Mattson	episodes=1 episode, 2019 	
+character=Dame	name=Kate Kovach	episodes=1 episode, 2019 	
+character=Moderator	name=Omer Mughal	episodes=1 episode, 2019 	
+character=Farmer	name=Teresa Jade Wilson	episodes=1 episode, 2019 	
+character=Daughter 	name=Teresa Jade Wilson	episodes=1 episode, 2019 	
+character=Oklahoma	name=Teresa Jade Wilson	episodes=1 episode, 2019 	
+character=Moderator	name=Coley Campany	episodes=1 episode, 2019 	
+character=Nurse	name=Jamie Miles	episodes=1 episode, 2019 	
+character=Fashionable Lady	name=Faye Yvette McQueen	episodes=1 episode, 2019 	
+character=Receptionist	name=Jason Turner	episodes=1 episode, 2019 	
+character=Usher	name=Moses J. Moseley	episodes=1 episode, 2019 	
+character=Roberta Sutton	name=Zsane Jhe	episodes=1 episode, 2019 	
+character=Receptionist	name=Victor Turner	episodes=1 episode, 2019 	
+character=Uniformed Cop	name=Joe Sykes	episodes=1 episode, 2019 	
+character=Grader	name=Gabrielle Manning	episodes=1 episode, 2019 	
+character=Curious Boy	name=Jay Amir	episodes=1 episode, 2019 	
+character=Tommy 	name=Ethan Stormant	episodes=1 episode, 2019 	
+character=Buzzcut	name=Ethan Stormant	episodes=1 episode, 2019 	
+character=Girl	name=Helena Hu	episodes=1 episode, 2019 	
+character=One Kid	name=Joey Mekyten	episodes=1 episode, 2019 	
+character=Fat Guy	name=Ethan Levy	episodes=1 episode, 2019 	
+character=Family Mourner	name=Jay D. Kacho	episodes=2 episodes, 2019 	
+character=Secret Service Agent	name=Patrick Seda	episodes=2 episodes, 2019 	
+character=Masked Cop	name=John Grimm	episodes=2 episodes, 2019 	
+character=Video Testimonial Man	name=Michael Imperioli	episodes=1 episode, 2019 	
+character=Officer Quinlan	name=Derek Magyar	episodes=1 episode, 2019 	
+character=Ed Support Member	name=William Tokarsky	episodes=1 episode, 2019 	
+character=Officer Roy	name=Danny Le Boyer	episodes=1 episode, 2019 	
+character=Suspect	name=Robert Tinsley	episodes=1 episode, 2019 	
+character=Hologram Reporter	name=Mystie Smith	episodes=1 episode, 2019 	
+character=Bar 	name=Scott Rapp	episodes=1 episode, 2019 	
+character=DJ	name=Scott Rapp	episodes=1 episode, 2019 	
+character=Rough Biker	name=Josh Turner	episodes=1 episode, 2019 	
+character=Leg Amputee	name=Timothy Carr	episodes=1 episode, 2019 	
+character=FBI Agent	name=Matthew Atchley	episodes=1 episode, 2019 	
+character=Focus Group Moderator	name=Tommy Campbell	episodes=1 episode, 2019 	
+character=Refugee	name=Stephen Samson	episodes=1 episode, 2019 	
+character=Ven	name=Jamel D. Chambers	episodes=1 episode, 2019 	
+character=DC Police Officer	name=Matthew Byrge	episodes=1 episode, 2019 	
+character=Kavalry	name=Chad J. Wagner	episodes=1 episode, 2019 	
+character=Rorschach Guard	name=Chris Naylor	episodes=1 episode, 2019 	
+character=Suspect	name=David R. Mitchell	episodes=1 episode, 2019 	
+character=Officer Gallagher	name=Spencer Mulligan	episodes=1 episode, 2019 	
+character=Rough Biker	name=Scott Lane	episodes=1 episode, 2019 	
+character=Oklahoma Businessman	name=Rashaan Matthews	episodes=1 episode, 2019 	
+character=FBI Agent	name=Suzan Norton	episodes=1 episode, 2019 	
+character=Uniformed Cop	name=Benjamin Weaver	episodes=1 episode, 2019 	
+character=Audience Member Extra	name=Palo Jimenez	episodes=1 episode, 2019 	
+character=Angry White Man	name=Russ Gladden	episodes=1 episode, 2019 	
+character=Ed Support Member	name=Chris Baker	episodes=1 episode, 2019 	
+character=Prisoner	name=Ryan Newton	episodes=1 episode, 2019 	
+character=Puppeteer 	name=Sonny Charles	episodes=1 episode, 2019 	
+character=Knot Top	name=Matthew Thompson	episodes=1 episode, 2019 	
+character=Audience Member	name=Kyle Jackson	episodes=1 episode, 2019 	
+character=Patron	name=Ray Buchanan	episodes=1 episode, 2019 	
+character=Press Photographer	name=Eddie Terrill	episodes=1 episode, 2019 	
+character=Local	name=Lauren Hough	episodes=1 episode, 2019 	
+character=Core Police	name=McDaniel Austin	episodes=1 episode, 2019 	
+character=Kavalry Member	name=Andres Salgado	episodes=1 episode, 2019 	
+character=Secret Service Agent	name=David J. Cowan	episodes=1 episode, 2019 	
+character=Marionette Puppeteer	name=RayJay Serrano	episodes=1 episode, 2019 	
+character=Businessman	name=Joshua Allen	episodes=1 episode, 2019 	
+character=Armed Soldier	name=James Sterling	episodes=1 episode, 2019 	
+character=Audience Member	name=Clarence Powell	episodes=1 episode, 2019 	
+character=Audience Member	name=Alex Kontakos	episodes=1 episode, 2019 	
+character=Rioter	name=Morris Owens Jr.	episodes=1 episode, 2019 	
+character=Businessman	name=Jeffrey S Smith	episodes=1 episode, 2019 	
+character=Museum Guest	name=Cremel Nakia Burney	episodes=1 episode, 2019 	
+character=Armed Soldier	name=Grant Kersey	episodes=1 episode, 2019 	
+character=German Refugee	name=Mark Pope	episodes=1 episode, 2019 	
+character=Ed Support Member	name=Mary Kirk	episodes=1 episode, 2019 	
+character=Ed Support Member	name=Judith Tokarsky	episodes=1 episode, 2019 	

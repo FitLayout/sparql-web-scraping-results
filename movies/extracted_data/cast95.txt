@@ -1,0 +1,77 @@
+# http://fitlayout.github.io/resource/art95 -> https://www.imdb.com/title/tt14852808/fullcredits/
+character=Nora Brannock	name=Naomi Watts	episodes=7 episodes, 2022 	
+character=Dean Brannock	name=Bobby Cannavale	episodes=7 episodes, 2022 	
+character=Pearl Winslow	name=Mia Farrow	episodes=7 episodes, 2022 	
+character=Jasper Winslow	name=Terry Kinney	episodes=7 episodes, 2022 	
+character=Dakota	name=Henry Hunter Hall	episodes=7 episodes, 2022 	
+character=Ellie Brannock	name=Isabel Gravitt	episodes=7 episodes, 2022 	
+character=Carter Brannock	name=Luke David Blumm	episodes=7 episodes, 2022 	
+character=Karen Calhoun	name=Jennifer Coolidge	episodes=7 episodes, 2022 	
+character=Detective Rourke Chamberland	name=Christopher McDonald	episodes=7 episodes, 2022 	
+character=Theodora Birch	name=Noma Dumezweni	episodes=6 episodes, 2022 	
+character=Maureen	name=Margo Martindale	episodes=6 episodes, 2022 	
+character=John Graff	name=Joe Mantello	episodes=5 episodes, 2022 	
+character=The Watcher	name=Warren Sroka	episodes=5 episodes, 2022 	
+character=Mitch	name=Richard Kind	episodes=4 episodes, 2022 	
+character=Andrew Pierce	name=Seth Gabel	episodes=4 episodes, 2022 	
+character=Roger Kaplan	name=Michael Nouri	episodes=3 episodes, 2022 	
+character=Jack	name=Seth Barrish	episodes=3 episodes, 2022 	
+character=Tammy	name=Susan Merson	episodes=3 episodes, 2022 	
+character=Marjorie	name=Patricia Black	episodes=2 episodes, 2022 	
+character=Steve	name=Danny Garcia	episodes=2 episodes, 2022 	
+character=Contractor	name=Daniel Jenkins	episodes=2 episodes, 2022 	
+character=Secretary	name=Emily Juliette Murphy	episodes=2 episodes, 2022 	
+character=Dean	name=Emily Juliette Murphy	episodes=2 episodes, 2022 	
+character=Miko	name=Yuko Torihara	episodes=2 episodes, 2022 	
+character=Helen Graff	name=Stephanie Kurtzuba	episodes=1 episode, 2022 	
+character=Darren Dunn	name=Matthew Del Negro	episodes=1 episode, 2022 	
+character=Trish	name=Kate Skinner	episodes=1 episode, 2022 	
+character=Worker	name=Omar Corominas	episodes=1 episode, 2022 	
+character=Young Roger	name=Anthony Bowden	episodes=1 episode, 2022 	
+character=Stephanie	name=Alli Brown	episodes=1 episode, 2022 	
+character=Carol Flanagan	name=Pamela Dunlap	episodes=1 episode, 2022 	
+character=Nina	name=Brittany Bradford	episodes=1 episode, 2022 	
+character=Mugger	name=Luis Moco	episodes=1 episode, 2022 	
+character=Therapist	name=Jeff Hiller	episodes=1 episode, 2022 	
+character=Roger 	name=Joshua Satine	episodes=1 episode, 2022 	
+character=Age 10	name=Joshua Satine	episodes=1 episode, 2022 	
+character=Christopher	name=Michael Devine	episodes=1 episode, 2022 	
+character=Receptionist	name=Caitlin Hammond	episodes=1 episode, 2022 	
+character=Gladys	name=Ann McDonough	episodes=1 episode, 2022 	
+character=Police Officer	name=Jeffrey Brooks	episodes=1 episode, 2022 	
+character=Dale Graff	name=Aidan Pierce Brennan	episodes=1 episode, 2022 	
+character=Pigtails	name=Kelly Rae LeGault	episodes=1 episode, 2022 	
+character=Rose Pierce	name=Lily Talevski	episodes=1 episode, 2022 	
+character=Friend	name=Savva Danilovich	episodes=1 episode, 2022 	
+character=Young Waitress	name=Ellie Barrickman	episodes=1 episode, 2022 	
+character=Caleb Pierce	name=Westley Cole Bator	episodes=1 episode, 2022 	
+character=Theodora	name=Leonel Severino	episodes=1 episode, 2022 	
+character=Associate	name=Leonel Severino	episodes=1 episode, 2022 	
+character=Suvl	name=Adrianna Williams	episodes=1 episode, 2022 	
+character=Teacher	name=Sean Hankinson	episodes=1 episode, 2022 	
+character=Young Trish	name=Hollis Fox	episodes=1 episode, 2022 	
+character=Georgia	name=Carly Sakolove	episodes=1 episode, 2022 	
+character=Neighbor	name=Duke Lafoon	episodes=1 episode, 2022 	
+character=Real Estate Agent	name=Fredi Bernstein	episodes=1 episode, 2022 	
+character=Mother	name=Maribel Martinez	episodes=1 episode, 2022 	
+character=Father	name=Nathan Faudree	episodes=1 episode, 2022 	
+character=Randy	name=Dan Tracy	episodes=1 episode, 2022 	
+character=Charice	name=Darlesia Cearcy	episodes=1 episode, 2022 	
+character=Young Miko	name=Grace Dumdaw	episodes=1 episode, 2022 	
+character=Officer	name=Joe Giorgio	episodes=1 episode, 2022 	
+character=Ben	name=Greg Balla	episodes=1 episode, 2022 	
+character=Don Gant	name=Freddie Lee Bennett	episodes=1 episode, 2022 	
+character=Country Club Clerk	name=Jade Kedrick	episodes=1 episode, 2022 	
+character=Danny Flanagan	name=Liam Pollock	episodes=1 episode, 2022 	
+character=Young Carol	name=Aubin Bradley	episodes=1 episode, 2022 	
+character=Junkie	name=Annie Pisapia	episodes=1 episode, 2022 	
+character=Ali	name=Kathryn Boswell	episodes=1 episode, 2022 	
+character=Hostess	name=Angela Petruzziello	episodes=1 episode, 2022 	
+character=Real Estate Agent	name=Ken Holmes	episodes=1 episode, 2022 	
+character=Josh	name=Ryan Ward	episodes=1 episode, 2022 	
+character=Waitress	name=Judy Zheng	episodes=1 episode, 2022 	
+character=Officer	name=Justin Dean	episodes=1 episode, 2022 	
+character=Pat Graff Lookalike	name=Jennifer Berge	episodes=1 episode, 2022 	
+character=Broker	name=Dave Bobb	episodes=1 episode, 2022 	
+character=Pierce Nanny	name=Sarah Row	episodes=1 episode, 2022 	
+character=Bruce Gary	name=Jonathan Rayson	episodes=1 episode, 2022 	

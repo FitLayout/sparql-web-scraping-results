@@ -1,0 +1,50 @@
+# http://fitlayout.github.io/resource/art45 -> https://www.imdb.com/title/tt9139220/fullcredits/
+character=Dracula	name=Claes Bang	episodes=3 episodes, 2020 	
+character=Sister Agatha	name=Dolly Wells	episodes=3 episodes, 2020 	
+character=Mina	name=Morfydd Clark	episodes=1 episode, 2020 	
+character=Lucy	name=Lydia West	episodes=1 episode, 2020 	
+character=Captain Sokolov	name=Jonathan Aris	episodes=1 episode, 2020 	
+character=Jonathan Harker	name=John Heffernan	episodes=1 episode, 2020 	
+character=Jack	name=Matthew Beard	episodes=1 episode, 2020 	
+character=Dr Sharma	name=Sacha Dhawan	episodes=1 episode, 2020 	
+character=Frank	name=Mark Gatiss	episodes=1 episode, 2020 	
+character=Mother Superior	name=Joanna Scanlan	episodes=1 episode, 2020 	
+character=Adisa	name=Nathan Stewart-Jarrett	episodes=1 episode, 2020 	
+character=Valentin	name=Clive Russell	episodes=1 episode, 2020 	
+character=Elena	name=Lujza Richter	episodes=1 episode, 2020 	
+character=Kathleen	name=Chanel Cresswell	episodes=1 episode, 2020 	
+character=Bloxham	name=Lyndsey Marshal	episodes=1 episode, 2020 	
+character=Duchess Valeria	name=Catherine Schell	episodes=1 episode, 2020 	
+character=Carriage Girl	name=Petra Dubayova	episodes=1 episode, 2020 	
+character=Olgaren	name=Youssef Kerkour	episodes=1 episode, 2020 	
+character=Commander Irving	name=Paul Brennen	episodes=1 episode, 2020 	
+character=Lord Ruthven	name=Patrick Walshe McBride	episodes=1 episode, 2020 	
+character=Zev	name=John McCrea	episodes=1 episode, 2020 	
+character=Quincey	name=Phil Dunster	episodes=1 episode, 2020 	
+character=Dorabella	name=Lily Dodsworth-Evans	episodes=1 episode, 2020 	
+character=Piotr	name=Samuel Blenkin	episodes=1 episode, 2020 	
+character=Nurse	name=Polly Kemp	episodes=1 episode, 2020 	
+character=Portmann	name=Anthony Flanagan	episodes=1 episode, 2020 	
+character=Meg	name=Sarah Niles	episodes=1 episode, 2020 	
+character=Abramoff	name=Alec Utgoff	episodes=1 episode, 2020 	
+character=Alice	name=Millicent Wong	episodes=1 episode, 2020 	
+character=Sam	name=Sofia Oxenham	episodes=1 episode, 2020 	
+character=Yamini	name=Lily Kakkar	episodes=1 episode, 2020 	
+character=Little Boy	name=Kiran Shah	episodes=1 episode, 2020 	
+character=Stepashin	name=Andrew Byron	episodes=1 episode, 2020 	
+character=Mother	name=Natasha Radski	episodes=1 episode, 2020 	
+character=Andrea	name=Anna Swan	episodes=1 episode, 2020 	
+character=Gupta	name=Scott Karim	episodes=1 episode, 2020 	
+character=Beth	name=Cat White	episodes=1 episode, 2020 	
+character=Amanda	name=Corinna Wilson	episodes=1 episode, 2020 	
+character=Emily	name=Olivia Klein	episodes=1 episode, 2020 	
+character=Lorraine	name=Katherine Jakeways	episodes=1 episode, 2020 	
+character=Clubber	name=Ria Fend	episodes=1 episode, 2020 	
+character=Andy	name=Anthony Kaye	episodes=1 episode, 2020 	
+character=Harker Staff	name=Rob Horrocks	episodes=1 episode, 2020 	
+character=Nun	name=Dilyana Bouklieva	episodes=1 episode, 2020 	
+character=Dock Worker	name=Ketan Majmudar	episodes=1 episode, 2020 	
+character=Task Force Operator	name=Tom Leigh	episodes=1 episode, 2020 	
+character=Krasnaya Rubashka	name=Tim Ingall	episodes=1 episode, 2020 	
+character=The Young Duchess	name=Veronica Stanwell	episodes=1 episode, 2020 	
+character=Khan	name=Abdulla Majid	episodes=1 episode, 2020 	

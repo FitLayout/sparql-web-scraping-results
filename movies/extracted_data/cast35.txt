@@ -1,0 +1,142 @@
+# http://fitlayout.github.io/resource/art35 -> https://www.imdb.com/title/tt2294189/fullcredits/
+character=DSU Stella Gibson	name=Gillian Anderson	episodes=17 episodes, 2013-2016 	
+character=Paul Spector	name=Jamie Dornan	episodes=17 episodes, 2013-2016 	
+character=ACC Jim Burns	name=John Lynch	episodes=17 episodes, 2013-2016 	
+character=Katie Benedetto	name=Aisling Franciosi	episodes=16 episodes, 2013-2016 	
+character=PC Danielle Ferrington	name=Niamh McGrady	episodes=15 episodes, 2013-2016 	
+character=Sally Ann Spector	name=Bronagh Waugh	episodes=15 episodes, 2013-2016 	
+character=Olivia Spector	name=Sarah Beattie	episodes=15 episodes, 2013-2016 	
+character=DCI Matthew Eastwood	name=Stuart Graham	episodes=13 episodes, 2013-2016 	
+character=DC Gail McNally	name=Bronagh Taggart	episodes=12 episodes, 2014-2016 	
+character=Rose Stagg	name=Valene Kane	episodes=11 episodes, 2013-2016 	
+character=Liam Spector	name=David Beattie	episodes=10 episodes, 2013-2016 	
+character=DC Glen Martin	name=Emmett J Scanlan	episodes=10 episodes, 2013-2016 	
+character=DC Rick Turner	name=Richard Clements	episodes=9 episodes, 2014-2016 	
+character=DC Christine Larkin	name=Claire Rafferty	episodes=9 episodes, 2014-2016 	
+character=DS Anderson	name=Colin Morgan	episodes=9 episodes, 2014-2016 	
+character=PC Hagstrom	name=Kelly Gough	episodes=9 episodes, 2014-2016 	
+character=Prof. Reed Smith	name=Archie Panjabi	episodes=9 episodes, 2013-2014 	
+character=Annie Brawley	name=Karen Hassan	episodes=8 episodes, 2013-2016 	
+character=Dean	name=Neill	episodes=8 episodes, 2013-2016 	
+character=Dean	name=Tara Lynne O	episodes=8 episodes, 2013-2016 	
+character=Brian Stone	name=Gerard Jordan	episodes=7 episodes, 2013-2014 	
+character=Daisy Drake	name=Tara Lee	episodes=7 episodes, 2014-2016 	
+character=Mary McCurdy	name=Siobhán McSweeney	episodes=7 episodes, 2013-2014 	
+character=Tom Stagg	name=Neill	episodes=7 episodes, 2014-2016 	
+character=Tom Stagg	name=Jonjo O	episodes=7 episodes, 2014-2016 	
+character=Ned Callan	name=Nick Lee	episodes=6 episodes, 2013-2014 	
+character=James Tyler	name=Brian Milligan	episodes=6 episodes, 2013-2014 	
+character=Bill Nash	name=Chris Corrigan	episodes=6 episodes, 2013-2014 	
+character=Stephen Jennings	name=Paul Kennedy	episodes=6 episodes, 2013-2016 	
+character=DI Ged Green	name=Tim Loane	episodes=5 episodes, 2014 	
+character=DS James Olson	name=Ben Peel	episodes=5 episodes, 2013-2014 	
+character=Morgan Monroe	name=Ian McElhinney	episodes=5 episodes, 2013-2014 	
+character=Wallace	name=Ruth Bradley	episodes=5 episodes, 2016 	
+character=Liz Tyler	name=Séainín Brennan	episodes=5 episodes, 2013-2014 	
+character=Healy	name=Aidan McArdle	episodes=5 episodes, 2016 	
+character=Marion Kay	name=Lisa Dwyer Hogg	episodes=5 episodes, 2013-2014 	
+character=Newsreader	name=Brenda McNeill	episodes=5 episodes, 2013-2016 	
+character=Nancy Stagg	name=Sofia Smyth Fuentes	episodes=4 episodes, 2014-2016 	
+character=DI Rob Breedlove	name=Michael McElhatton	episodes=4 episodes, 2013 	
+character=Dr Spencer	name=Barry Ward	episodes=4 episodes, 2016 	
+character=Nurse Sheridan	name=Aisling Bea	episodes=4 episodes, 2016 	
+character=Kevin McSwain	name=Gerard McCarthy	episodes=4 episodes, 2013-2016 	
+character=Jerry McElroy	name=Simon Delaney	episodes=4 episodes, 2013 	
+character=Dr Larson	name=Krister Henriksson	episodes=4 episodes, 2016 	
+character=DCI Garrett Brink	name=Frank McCusker	episodes=4 episodes, 2013 	
+character=Ian Kay	name=B.J. Hogg	episodes=4 episodes, 2013-2016 	
+character=Sarah Kay	name=Laura Donnelly	episodes=3 episodes, 2013 	
+character=Dr O	name=Richard Coyle	episodes=3 episodes, 2016 	
+character=Donnell	name=Richard Coyle	episodes=3 episodes, 2016 	
+character=Xray 1	name=Dan Gordon	episodes=3 episodes, 2014 	
+character=Aaron Monroe	name=Hare	episodes=3 episodes, 2013 	
+character=Aaron Monroe	name=Eugene O	episodes=3 episodes, 2013 	
+character=Nurse Ritchie	name=Chris Patrick-Simpson	episodes=3 episodes, 2016 	
+character=Control	name=Orla Mullan	episodes=3 episodes, 2014 	
+character=Lisa Benedetto	name=Lacy Moore	episodes=3 episodes, 2016 	
+character=Angelica	name=Lucy McConnell	episodes=3 episodes, 2013 	
+character=Bailey	name=Conor MacNeill	episodes=3 episodes, 2016 	
+character=Forensic Scientist	name=Lisa Duffy	episodes=3 episodes, 2014 	
+character=Mitchell	name=Ruairí Tohill	episodes=3 episodes, 2014 	
+character=CC Goodall	name=Julia Dearden	episodes=3 episodes, 2013-2016 	
+character=Nurse Nixon	name=Cathy White	episodes=2 episodes, 2016 	
+character=Dr Morton	name=Kelly Campbell	episodes=2 episodes, 2016 	
+character=Dr Walden	name=Denise Gough	episodes=2 episodes, 2016 	
+character=CC Franks	name=Patrick FitzSymons	episodes=2 episodes, 2016 	
+character=Sheldon Schwartz	name=Michael Colgan	episodes=2 episodes, 2013 	
+character=Terry McInturff	name=Andy Moore	episodes=2 episodes, 2013 	
+character=Jnr Dr McLeary	name=Sophie Harkness	episodes=2 episodes, 2016 	
+character=District Judge	name=Andrea Irvine	episodes=2 episodes, 2016 	
+character=Court Clerk	name=Matthew Forsythe	episodes=2 episodes, 2016 	
+character=Dolan	name=Tony Flynn	episodes=2 episodes, 2014 	
+character=Joan Jennings	name=Joanne Crawford	episodes=2 episodes, 2013-2016 	
+character=DC Taylor	name=Roisin Gallagher	episodes=2 episodes, 2014-2016 	
+character=Gaoler	name=Marty Maguire	episodes=2 episodes, 2014 	
+character=Lisa Benedetto	name=Pauline Hutton	episodes=2 episodes, 2014 	
+character=Custody Sergeant	name=Vincent Walsh	episodes=2 episodes, 2014 	
+character=Dr Lucas	name=Conor	episodes=2 episodes, 2016 	
+character=Dr Lucas	name=Hugh O	episodes=2 episodes, 2016 	
+character=Rossmeisl	name=Tobias Winter	episodes=2 episodes, 2013 	
+character=Nurse Gregory	name=Emma Little Lawless	episodes=2 episodes, 2016 	
+character=Miss Fender	name=Antoinette Morelli	episodes=2 episodes, 2013-2016 	
+character=Vicky Olsen	name=Sinead Murphy	episodes=1 episode, 2013 	
+character=Dr Doyle	name=Vanessa Emme	episodes=1 episode, 2016 	
+character=Fiona	name=Tara Egan Langley	episodes=1 episode, 2013 	
+character=Dr. Manson	name=Judith Roddy	episodes=1 episode, 2013 	
+character=Nurse Lyle	name=Amy Molloy	episodes=1 episode, 2016 	
+character=Father Jensen	name=Sean McGinley	episodes=1 episode, 2014 	
+character=Neighbour	name=Ivan Little	episodes=1 episode, 2014 	
+character=Dr Perry	name=Michael Johnston	episodes=1 episode, 2016 	
+character=Shannon	name=Ali White	episodes=1 episode, 2016 	
+character=Charles Chandler	name=Kane	episodes=1 episode, 2013 	
+character=Charles Chandler	name=Patrick O	episodes=1 episode, 2013 	
+character=Nurse Catherwood	name=Stefan Dunbar	episodes=1 episode, 2016 	
+character=Porter	name=Jim Dornan	episodes=1 episode, 2016 	
+character=Kinkead	name=Genevieve O	episodes=1 episode, 2016 	
+character=Kinkead	name=Reilly	episodes=1 episode, 2016 	
+character=Receptionist	name=Sara Dylan	episodes=1 episode, 2014 	
+character=Warmouth	name=Enda Oates	episodes=1 episode, 2016 	
+character=DPP George Lowden	name=Barry Barnes	episodes=1 episode, 2016 	
+character=Greenfield	name=Sean Sloan	episodes=1 episode, 2016 	
+character=Alice Monroe	name=Gemma McCorry	episodes=1 episode, 2013 	
+character=Lang	name=Alex Romein	episodes=1 episode, 2013 	
+character=Angella	name=Irma Mali	episodes=1 episode, 2013 	
+character=Klira	name=Amanda Doherty	episodes=1 episode, 2013 	
+character=Call Handler	name=Dearbhail Lynch	episodes=1 episode, 2013 	
+character=Crime Scene Manager	name=Paul Caddell	episodes=1 episode, 2014 	
+character=Foyle Nurse	name=Patrick Buchanan	episodes=1 episode, 2016 	
+character=Pianist	name=John Donaldson	episodes=1 episode, 2014 	
+character=Alvarez	name=Martin McCann	episodes=1 episode, 2016 	
+character=Lyndsey Conklin	name=Aoibhin Garrihy	episodes=1 episode, 2014 	
+character=Michael Day	name=Liam McMahon	episodes=1 episode, 2014 	
+character=Dr King	name=Shashi Rami	episodes=1 episode, 2016 	
+character=Jarret	name=Griffin Madill	episodes=1 episode, 2013 	
+character=Head Teacher	name=Laura Hughes	episodes=1 episode, 2016 	
+character=Foyle Receptionist	name=Kevin Elliott	episodes=1 episode, 2016 	
+character=Joseph Brawley	name=William Willoughby	episodes=1 episode, 2013 	
+character=Brien	name=Jill Crawford	episodes=1 episode, 2013 	
+character=Alison O	name=Jill Crawford	episodes=1 episode, 2013 	
+character=Old Lady	name=Barbara Adair	episodes=1 episode, 2016 	
+character=Uniformed Police Officer	name=Johnny Hamilton	episodes=6 episodes, 2014 	
+character=Crime Scene Investigator	name=Kristy Robinson	episodes=4 episodes, 2014 	
+character=CSI Officer	name=Hugh Irvine	episodes=3 episodes, 2014 	
+character=Delta	name=Bobby Marno	episodes=3 episodes, 2014 	
+character=Surveillance Officer	name=Robert James	episodes=3 episodes, 2014 	
+character=Police Officer	name=Aaron Rolph	episodes=2 episodes, 2014 	
+character=Toby	name=Luke Whoriskey	episodes=2 episodes, 2016 	
+character=Bar Customer	name=Jonny Everett	episodes=1 episode, 2013 	
+character=Shopper	name=Graeme Peacock	episodes=1 episode, 2013 	
+character=Bar Patron	name=Timothy Fergusson	episodes=1 episode, 2013 	
+character=Internet Cafe Customer	name=Omar Youssef	episodes=1 episode, 2013 	
+character=Pedestrian	name=Dorian Johnson	episodes=1 episode, 2013 	
+character=Spook	name=Paul Kennington	episodes=1 episode, 2014 	
+character=Task Force Detective	name=Roman Beguns	episodes=1 episode, 2014 	
+character=Tactical Support Group	name=Desmond Edwards	episodes=1 episode, 2014 	
+character=Forensic	name=Simon Millar	episodes=1 episode, 2014 	
+character=Amelia Tobias	name=Carolyn Bracken	episodes=1 episode, 2016 	
+character=David Lukes	name=Shane McNaughton	episodes=1 episode, 2016 	
+character=Plain Clothes Police Officer	name=Frank Cannon	episodes=1 episode, 2016 	
+character=Nurse Sadoway	name=Mary Lindsay	episodes=1 episode, 2016 	
+character=Task Force Officer	name=Jessica Odell	episodes=1 episode, 2016 	
+character=Journalist	name=Una Carroll	episodes=1 episode, 2016 	
+character=Paramedic	name=Robert Blair	episodes=1 episode, 2016 	

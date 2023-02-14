@@ -1,0 +1,857 @@
+# http://fitlayout.github.io/resource/art21 -> https://www.imdb.com/title/tt0844441/fullcredits/
+character=Sookie Stackhouse	name=Anna Paquin	episodes=81 episodes, 2008-2014 	
+character=Bill Compton	name=Stephen Moyer	episodes=81 episodes, 2008-2014 	
+character=Sam Merlotte	name=Sam Trammell	episodes=81 episodes, 2008-2014 	
+character=Jason Stackhouse	name=Ryan Kwanten	episodes=81 episodes, 2008-2014 	
+character=Andy Bellefleur	name=Chris Bauer	episodes=81 episodes, 2008-2014 	
+character=Lafayette Reynolds	name=Nelsan Ellis	episodes=81 episodes, 2008-2014 	
+character=Arlene Fowler	name=Carrie Preston	episodes=81 episodes, 2008-2014 	
+character=Tara Thornton	name=Rutina Wesley	episodes=80 episodes, 2008-2014 	
+character=Eric Northman	name=Alexander Skarsgård	episodes=76 episodes, 2008-2014 	
+character=Jessica Hamby	name=Deborah Ann Woll	episodes=71 episodes, 2008-2014 	
+character=Hoyt Fortenberry	name=Jim Parrack	episodes=66 episodes, 2008-2014 	
+character=Terry Bellefleur	name=Todd Lowe	episodes=66 episodes, 2008-2014 	
+character=Holly Cleary	name=Lauren Bowles	episodes=48 episodes, 2010-2014 	
+character=Alcide Herveaux	name=Joe Manganiello	episodes=42 episodes, 2010-2014 	
+character=Sheriff Bud Dearborne	name=William Sanderson	episodes=39 episodes, 2008-2012 	
+character=Steve Newlin	name=Michael McMillian	episodes=38 episodes, 2008-2014 	
+character=Lettie Mae Thornton	name=Adina Porter	episodes=32 episodes, 2008-2014 	
+character=Jesus Velasquez	name=Kevin Alejandro	episodes=26 episodes, 2010-2012 	
+character=Luna Garza	name=Janina Gavankar	episodes=25 episodes, 2011-2013 	
+character=Maxine Fortenberry	name=Dale Raoul	episodes=25 episodes, 2008-2014 	
+character=Sarah Newlin	name=Anna Camp	episodes=24 episodes, 2009-2014 	
+character=Ginger	name=Tara Buck	episodes=24 episodes, 2008-2014 	
+character=Nan Flanagan	name=Jessica Tuck	episodes=23 episodes, 2008-2014 	
+character=Tommy Mickens	name=Marshall Allman	episodes=22 episodes, 2010-2011 	
+character=Nora Gainesborough	name=Lucy Griffiths	episodes=21 episodes, 2012-2013 	
+character=Russell Edgington	name=Hare	episodes=20 episodes, 2010-2012 	
+character=Russell Edgington	name=Denis O	episodes=20 episodes, 2010-2012 	
+character=Deputy Kevin Ellis	name=John Rezig	episodes=20 episodes, 2008-2014 	
+character=Willa Burrell	name=Amelia Rose Blaire	episodes=19 episodes, 2013-2014 	
+character=Nicole Wright	name=Jurnee Smollett	episodes=19 episodes, 2013-2014 	
+character=Jane Bodehouse	name=Patricia Bethune	episodes=18 episodes, 2008-2014 	
+character=Deputy Kenya Jones	name=Tanya Wright	episodes=18 episodes, 2008-2014 	
+character=Mike Spencer	name=John Billingsley	episodes=17 episodes, 2008-2012 	
+character=Adilyn Bellefleur	name=Bailey Noble	episodes=17 episodes, 2013-2014 	
+character=Rene Lenier	name=Michael Raymond-James	episodes=16 episodes, 2008-2011 	
+character=Rocky Cleary	name=Aaron Christian Howles	episodes=16 episodes, 2012-2014 	
+character=Wade Cleary	name=Noah Matthews	episodes=16 episodes, 2012-2014 	
+character=Maryann Forrester	name=Michelle Forbes	episodes=15 episodes, 2008-2012 	
+character=Reverend Daniels	name=Gregg Daniel	episodes=15 episodes, 2010-2014 	
+character=Violet	name=Karolina Wydra	episodes=15 episodes, 2013-2014 	
+character=Lisa Fowler	name=Laurel Weber	episodes=15 episodes, 2008-2014 	
+character=Emma Garza	name=Chloe Noelle	episodes=15 episodes, 2011-2013 	
+character=Eggs	name=Mehcad Brooks	episodes=13 episodes, 2008-2010 	
+character=Crystal Norris	name=Lindsay Pulsipher	episodes=14 episodes, 2010-2011 	
+character=Rikki Naylor	name=Kelly Overton	episodes=14 episodes, 2012-2013 	
+character=Debbie Pelt	name=Brit Morgan	episodes=14 episodes, 2010-2012 	
+character=Coby Fowler	name=Alec Gray	episodes=14 episodes, 2008-2014 	
+character=Lorena Krasiki	name=Mariana Klaveno	episodes=13 episodes, 2008-2012 	
+character=Marnie Stonebrook	name=Fiona Shaw	episodes=12 episodes, 2011 	
+character=Jackson Herveaux	name=Robert Patrick	episodes=12 episodes, 2012-2014 	
+character=Martha Bozeman	name=Dale Dickey	episodes=12 episodes, 2012-2013 	
+character=Rosie	name=Tess Parker	episodes=12 episodes, 2008-2014 	
+character=Adele Stackhouse	name=Lois Smith	episodes=10 episodes, 2008-2014 	
+character=Salome Agrippa	name=Valentina Cervi	episodes=11 episodes, 2012 	
+character=Danielle	name=Jamie Gray Hyder	episodes=11 episodes, 2012-2013 	
+character=Kenneth	name=Marque Richardson	episodes=11 episodes, 2012-2013 	
+character=Patrick Devins	name=Scott Foley	episodes=10 episodes, 2011-2012 	
+character=James	name=Nathan Parsons	episodes=10 episodes, 2014 	
+character=Rosalyn Harris	name=Carolyn Hennesy	episodes=10 episodes, 2012 	
+character=Truman Burrell	name=Arliss Howard	episodes=9 episodes, 2013 	
+character=Macklyn Warlow	name=Robert Kazinsky	episodes=9 episodes, 2013 	
+character=Godric	name=Allan Hyde	episodes=9 episodes, 2009-2012 	
+character=Karl	name=Adam Leadbeater	episodes=9 episodes, 2008-2009 	
+character=Melinda Mickens	name=J. Smith-Cameron	episodes=9 episodes, 2010-2011 	
+character=Claude Crane	name=Giles Matthey	episodes=9 episodes, 2012-2013 	
+character=Daphne Landry	name=Ashley Jones	episodes=8 episodes, 2009 	
+character=Portia Bellefleur	name=Courtney Ford	episodes=8 episodes, 2011-2013 	
+character=Kibwe	name=Peter Mensah	episodes=8 episodes, 2012 	
+character=Felton Norris	name=James Harvey Ward	episodes=8 episodes, 2010-2011 	
+character=Sophie-Anne Leclerq	name=Evan Rachel Wood	episodes=7 episodes, 2009-2011 	
+character=Corbett Stackhouse	name=Jeffrey Nicholas Brown	episodes=8 episodes, 2008-2013 	
+character=Roy	name=Dean Chekvala	episodes=8 episodes, 2011 	
+character=Casey	name=Fiona Dourif	episodes=8 episodes, 2011 	
+character=Miss Jeanette	name=Aisha Hinds	episodes=7 episodes, 2008-2010 	
+character=Franklin Mott	name=James Frain	episodes=7 episodes, 2010 	
+character=Nate	name=Brendan McCarthy	episodes=8 episodes, 2011-2012 	
+character=Antonia Gavilán	name=Paola Turbay	episodes=7 episodes, 2011 	
+character=Lilith	name=Jessica Clark	episodes=7 episodes, 2012-2013 	
+character=Cooter	name=Grant Bowler	episodes=7 episodes, 2010 	
+character=Luke McDonald	name=Wes Brown	episodes=7 episodes, 2009 	
+character=Talbot	name=Theo Alexander	episodes=7 episodes, 2010 	
+character=Marcus Bozeman	name=Dan Buran	episodes=7 episodes, 2011 	
+character=Hadley Hale	name=Lindsey Haun	episodes=7 episodes, 2009-2012 	
+character=JD	name=Louis Herthum	episodes=7 episodes, 2012 	
+character=Joe Lee Mickens	name=Cooper Huckabee	episodes=7 episodes, 2010-2011 	
+character=Michelle Stackhouse	name=Jenni Blong	episodes=7 episodes, 2008-2013 	
+character=Dawn Green	name=Lynn Collins	episodes=6 episodes, 2008 	
+character=Amy Burley	name=Lizzy Caplan	episodes=6 episodes, 2008-2009 	
+character=Niall Brigant	name=Rutger Hauer	episodes=6 episodes, 2013-2014 	
+character=James	name=Luke Grimes	episodes=6 episodes, 2013 	
+character=David Finch	name=John Prosky	episodes=6 episodes, 2008-2013 	
+character=Kirsch	name=Annie Fitzgerald	episodes=6 episodes, 2011 	
+character=Claudine Crane	name=Lara Pulver	episodes=6 episodes, 2010-2012 	
+character=Calvin Norris	name=Gregory Sporleder	episodes=6 episodes, 2010 	
+character=Gus	name=Don Swayze	episodes=6 episodes, 2010 	
+character=Dieter Braun	name=Christopher Heyerdahl	episodes=6 episodes, 2012 	
+character=Summer	name=Melissa Rauch	episodes=6 episodes, 2010 	
+character=Molly	name=Tina Majorino	episodes=6 episodes, 2012 	
+character=Duprez	name=Damion Poitier	episodes=6 episodes, 2011 	
+character=Claudette	name=Camilla Luddington	episodes=6 episodes, 2012 	
+character=Zaafira	name=Anna Khaja	episodes=5 episodes, 2012 	
+character=Roman Zimojic	name=Christopher Meloni	episodes=5 episodes, 2012 	
+character=Magister	name=Zeljko Ivanek	episodes=5 episodes, 2008-2014 	
+character=Ruby Jean Reynolds	name=Alfre Woodard	episodes=5 episodes, 2010-2012 	
+character=Liam	name=Graham Shiels	episodes=5 episodes, 2008 	
+character=Isabel	name=Valerie Cruz	episodes=5 episodes, 2009 	
+character=Yvetta	name=Natasha Alam	episodes=5 episodes, 2010 	
+character=Naomi	name=Vedette Lim	episodes=5 episodes, 2011 	
+character=Finn	name=Pruitt Taylor Vince	episodes=5 episodes, 2013 	
+character=Barry	name=Chris Coy	episodes=5 episodes, 2009-2011 	
+character=Keith	name=Riley Smith	episodes=5 episodes, 2014 	
+character=Maurella	name=Kristina Anapau	episodes=5 episodes, 2011-2012 	
+character=Mr. Gus	name=Will Yun Lee	episodes=5 episodes, 2014 	
+character=Hido Takahashi	name=Keone Young	episodes=5 episodes, 2013 	
+character=Luellen	name=Stephanie Erb	episodes=5 episodes, 2011 	
+character=Dr. Overlark	name=John Fleck	episodes=5 episodes, 2013 	
+character=Caroline Compton	name=Shannon Lucio	episodes=5 episodes, 2010-2014 	
+character=Beverleen	name=Dendrie Taylor	episodes=5 episodes, 2011 	
+character=Yuske	name=Yutaka Takeuchi	episodes=5 episodes, 2014 	
+character=Karen	name=Paula Jai Parker	episodes=5 episodes, 2013-2014 	
+character=Trevor	name=Chad Todhunter	episodes=5 episodes, 2011 	
+character=Blackburn	name=Aaron Perilo	episodes=5 episodes, 2011 	
+character=Big John	name=John W. Godley	episodes=5 episodes, 2013-2014 	
+character=Officer Bucky Featherstone	name=Brandon Molale	episodes=5 episodes, 2011 	
+character=Royce	name=Caleb Moody	episodes=4 episodes, 2008-2009 	
+character=Joe Bob	name=Ted Welch	episodes=4 episodes, 2012 	
+character=Maudette Pickens	name=Danielle Sapia	episodes=4 episodes, 2008 	
+character=Eddie Gauthier	name=Stephen Root	episodes=4 episodes, 2008-2010 	
+character=Longshadow	name=Raoul Max Trujillo	episodes=4 episodes, 2008 	
+character=Chow	name=Patrick Gallagher	episodes=4 episodes, 2008-2009 	
+character=Katerina Pelham	name=Alexandra Breckenridge	episodes=4 episodes, 2011 	
+character=Mavis	name=Nondumiso Tembe	episodes=4 episodes, 2011 	
+character=Brigette	name=Ashley Hinshaw	episodes=4 episodes, 2014 	
+character=Gabe	name=Greg Collins	episodes=4 episodes, 2009 	
+character=Suzanne McKittrick	name=Christina Moore	episodes=4 episodes, 2011-2012 	
+character=Don Bartolo	name=Del Zamora	episodes=4 episodes, 2011-2012 	
+character=Jenny	name=Stacy Haiduk	episodes=4 episodes, 2013-2014 	
+character=Vince	name=Brett Rickaby	episodes=4 episodes, 2014 	
+character=Emory Broome	name=Chris Butler	episodes=4 episodes, 2011-2012 	
+character=Young Tara	name=Avion Baker	episodes=4 episodes, 2008-2012 	
+character=Nigel Beckford	name=Henri Lubatti	episodes=4 episodes, 2012 	
+character=Sweetie Des Arts	name=Jennifer Hasty	episodes=4 episodes, 2008-2012 	
+character=Ronnie	name=Dustin Ingram	episodes=4 episodes, 2014 	
+character=Mack Rattray	name=James Parks	episodes=4 episodes, 2008-2011 	
+character=Belinda	name=Brianne Davis	episodes=4 episodes, 2013-2014 	
+character=Becky	name=Blaine Saunders	episodes=4 episodes, 2011 	
+character=Chelsea	name=Skyler Vallo	episodes=4 episodes, 2012 	
+character=Crystal	name=Haley Brooke Walker	episodes=4 episodes, 2013-2014 	
+character=Authority Guard Captain	name=Charlotta Mohlin	episodes=4 episodes, 2012 	
+character=Camp Guard 	name=Ingo Neuhaus	episodes=4 episodes, 2013 	
+character=Troy	name=Brett Lorenzini	episodes=4 episodes, 2014 	
+character=Claudija	name=Helen Sadler	episodes=3 episodes, 2012-2013 	
+character=Siren 	name=Chanon Finley	episodes=2 episodes, 2013 	
+character=Siren 	name=Jodie Turner-Smith	episodes=2 episodes, 2013 	
+character=Denise Rattray	name=Karina Logue	episodes=3 episodes, 2008 	
+character=Randi Sue	name=Danielle James	episodes=3 episodes, 2008 	
+character=Malcolm	name=Andrew Rothenberg	episodes=3 episodes, 2008 	
+character=Diane	name=Aunjanue Ellis	episodes=3 episodes, 2008 	
+character=Timbo	name=Dane DeHaan	episodes=3 episodes, 2011 	
+character=Luis Patiño	name=Peter Macdissi	episodes=3 episodes, 2011 	
+character=Wayne	name=Jeremy Denzlinger	episodes=3 episodes, 2008 	
+character=Mayor Norris	name=William Schallert	episodes=3 episodes, 2008-2011 	
+character=Chuck	name=Kanin Howell	episodes=3 episodes, 2008 	
+character=Brian Eller	name=Brian Geraghty	episodes=3 episodes, 2012 	
+character=Stan	name=Ed Quinn	episodes=3 episodes, 2009 	
+character=Cindy Marshall	name=Stacie Rippy	episodes=3 episodes, 2008 	
+character=Hugo	name=Chris Gartin	episodes=3 episodes, 2009 	
+character=Hank	name=John Hillard	episodes=3 episodes, 2009-2010 	
+character=Alexander Drew	name=Jacob Hopkins	episodes=3 episodes, 2012 	
+character=GrabbitQuik Clerk	name=Lorin McCraley	episodes=3 episodes, 2008-2013 	
+character=Random Frenzier	name=Valorie Hubbard	episodes=3 episodes, 2009 	
+character=Man at Bar	name=Larry Udy	episodes=3 episodes, 2008-2014 	
+character=Amber Mills	name=Natalie Hall	episodes=3 episodes, 2014 	
+character=Coralee	name=Lauren Pritchard	episodes=3 episodes, 2009-2011 	
+character=Vonetta	name=Missy Doty	episodes=3 episodes, 2009-2011 	
+character=Kitch Maynard	name=Grey Damon	episodes=3 episodes, 2010 	
+character=Tammy	name=Carlson Young	episodes=3 episodes, 2010 	
+character=Jessie	name=Matt Cook	episodes=3 episodes, 2013 	
+character=Suzanne Rico	name=Suzanne Rico	episodes=3 episodes, 2009-2012 	
+character=Leda	name=Brianna Brown	episodes=3 episodes, 2012 	
+character=Dr. Ludwig	name=Marcia DeRousse	episodes=3 episodes, 2009-2014 	
+character=Luther	name=E.J. Callahan	episodes=3 episodes, 2011 	
+character=Young Sookie	name=Zenali Turner	episodes=3 episodes, 2008-2012 	
+character=Jerome	name=Eugene Byrd	episodes=3 episodes, 2014 	
+character=Morris	name=Mark Withers	episodes=3 episodes, 2013 	
+character=Mack	name=Robert Baker	episodes=3 episodes, 2014 	
+character=Ray	name=James Jordan	episodes=3 episodes, 2012 	
+character=Matt	name=Brian Poth	episodes=3 episodes, 2013-2014 	
+character=Lou	name=Lucas Adams	episodes=3 episodes, 2014 	
+character=Claudia	name=Emma Greenwell	episodes=3 episodes, 2012 	
+character=Tyrese	name=Johnny Ray Gill	episodes=3 episodes, 2012 	
+character=Doug	name=Jayden Lund	episodes=3 episodes, 2011-2012 	
+character=Reverend Skinner	name=David Bickford	episodes=3 episodes, 2012-2014 	
+character=Maria	name=Valenzia Algarin	episodes=3 episodes, 2011-2012 	
+character=Lucinda	name=Chelsea Ricketts	episodes=3 episodes, 2014 	
+character=Ruscio	name=Kofi Natei	episodes=3 episodes, 2013 	
+character=Todd Jeffries	name=Jonathan Kowalsky	episodes=3 episodes, 2012 	
+character=Smarmy Guard	name=Michael Maize	episodes=3 episodes, 2013 	
+character=Iraqi Man	name=Mike Akrawi	episodes=3 episodes, 2012 	
+character=Sarah Compton	name=Isabella Kai	episodes=3 episodes, 2014 	
+character=Cart Pusher	name=Jim Hoffmaster	episodes=3 episodes, 2013 	
+character=Churchgoer Man	name=Ben Zelevansky	episodes=3 episodes, 2014 	
+character=Churchgoer Woman	name=Holly Hawkins	episodes=3 episodes, 2014 	
+character=Dancer	name=Nick Lanzisera	episodes=3 episodes, 2012 	
+character=Dancer	name=Rachael Markarian	episodes=3 episodes, 2012 	
+character=Officer Trap	name=Poncho Hodges	episodes=2 episodes, 2011 	
+character=Jemarcus Kessler	name=Lawrence Adimora	episodes=2 episodes, 2012 	
+character=Authority Guard 	name=Ezra Masters	episodes=2 episodes, 2010-2013 	
+character=Frat Boy	name=Josh Kelly	episodes=2 episodes, 2008 	
+character=Kelly	name=Jessica Stroup	episodes=2 episodes, 2008 	
+character=Bill Maher	name=Bill Maher	episodes=2 episodes, 2008 	
+character=Sav-A-Bunch Shopper	name=Lorna Scott	episodes=2 episodes, 2008 	
+character=Orry Dawson	name=Michael Bofshever	episodes=2 episodes, 2008-2009 	
+character=Neighbor	name=Melanie MacQueen	episodes=2 episodes, 2008 	
+character=Dawn	name=Melanie MacQueen	episodes=2 episodes, 2008 	
+character=Neil Jones	name=Kevin McHale	episodes=2 episodes, 2008 	
+character=Rourke	name=Rourke	episodes=2 episodes, 2008 	
+character=Rourke	name=P.J. O	episodes=2 episodes, 2008 	
+character=P.J. O	name=P.J. O	episodes=2 episodes, 2008 	
+character=P.J. O	name=Rourke	episodes=2 episodes, 2008 	
+character=Sue Ann Merlotte	name=Judy Prescott	episodes=2 episodes, 2008-2009 	
+character=Uncle Bartlett	name=Cheyenne Wilbur	episodes=2 episodes, 2008 	
+character=Good Old Boy Vampire	name=John Henry Canavan	episodes=2 episodes, 2008 	
+character=Young Sam	name=Martin Spanjers	episodes=2 episodes, 2008-2009 	
+character=Sav-A-Bunch Manager	name=John F. Schaffer	episodes=2 episodes, 2008 	
+character=Mean Looking Frenzier	name=Price Carson	episodes=2 episodes, 2009 	
+character=Dr. Robideaux	name=Dakin Matthews	episodes=2 episodes, 2010 	
+character=Ludis	name=Jack Krizmanich	episodes=2 episodes, 2009 	
+character=Ms. Suzuki	name=Tamlyn Tomita	episodes=2 episodes, 2013 	
+character=Minister	name=Stewart Skelton	episodes=2 episodes, 2008-2010 	
+character=Teenage Customer	name=David Lewis	episodes=2 episodes, 2008 	
+character=Dirk	name=Preston Jones	episodes=2 episodes, 2009 	
+character=Judge Clements	name=Farrell	episodes=2 episodes, 2012 	
+character=Judge Clements	name=Conor O	episodes=2 episodes, 2012 	
+character=Man with Beer	name=Brendan Patrick Connor	episodes=2 episodes, 2008 	
+character=Authority Gate Guard	name=David J. Wright	episodes=2 episodes, 2012-2013 	
+character=Desk Clerk	name=Ailsa Marshall	episodes=2 episodes, 2009 	
+character=Cammy	name=Cherilyn Wilson	episodes=2 episodes, 2012 	
+character=Guru Sanbir Dutta	name=Shishir Kurup	episodes=2 episodes, 2014 	
+character=Dancer 	name=Jennifer Hamilton	episodes=2 episodes, 2009 	
+character=Paul McClatchy	name=James McCauley	episodes=2 episodes, 2011 	
+character=News Anchor	name=Sharon Tay	episodes=2 episodes, 2008-2009 	
+character=Young Jason	name=Labon Hester	episodes=2 episodes, 2008 	
+character=Matt	name=Randy Wayne	episodes=2 episodes, 2011 	
+character=Mary Wright	name=Valarie Pettiford	episodes=2 episodes, 2013 	
+character=Hostess	name=Jeanne Baron	episodes=2 episodes, 2009-2010 	
+character=Louie	name=Bryan Becker	episodes=2 episodes, 2010 	
+character=Don Santiago	name=Carlo	episodes=2 episodes, 2011 	
+character=Don Santiago	name=East	episodes=2 episodes, 2011 	
+character=Don Santiago	name=Ismael 	episodes=2 episodes, 2011 	
+character=Head Priest	name=Ugo Bianchi	episodes=2 episodes, 2011 	
+character=Creepy Biker	name=Andy Mackenzie	episodes=2 episodes, 2010 	
+character=Jerry McCafferty	name=John Burke	episodes=2 episodes, 2010 	
+character=Joyce Watney	name=Galadriel Stineman	episodes=2 episodes, 2011 	
+character=Barbara Pelt	name=Linda Purl	episodes=2 episodes, 2012 	
+character=T-Dub	name=Ronnie Gene Blevins	episodes=2 episodes, 2010 	
+character=Hiroki	name=Louis Ozawa	episodes=2 episodes, 2014 	
+character=Infomercial Sound Mixer	name=Charlaine Harris	episodes=2 episodes, 2009-2014 	
+character=Bufort Norris	name=Greg Cipes	episodes=2 episodes, 2010 	
+character=Natalie	name=Kate Luyben	episodes=2 episodes, 2010 	
+character=Gordon Pelt	name=Steve Rankin	episodes=2 episodes, 2012 	
+character=Year Old Faerie Girl 	name=Natalie Dreyfuss	episodes=2 episodes, 2013 	
+character=Mailman Vampire	name=Gary Kraus	episodes=2 episodes, 2008-2014 	
+character=Bruce	name=Shaun J. Brown	episodes=2 episodes, 2013 	
+character=Vampire Dancer GO-GO Dancer	name=Cheryl Lyone	episodes=2 episodes, 2008 	
+character=Vampire Dancer	name=Jull Weber	episodes=2 episodes, 2008 	
+character=La Donna	name=Lauren Weedman	episodes=2 episodes, 2011 	
+character=Year Old Faerie Girl 	name=Hannah Kasulka	episodes=2 episodes, 2013 	
+character=Caroline Bellefleur	name=Helen Slayton-Hughes	episodes=2 episodes, 2013 	
+character=Little Girl	name=Caitlin Carmichael	episodes=2 episodes, 2011 	
+character=Elijah Stormer	name=Keram Malicki-Sánchez	episodes=2 episodes, 2012 	
+character=Mustard	name=Jessy Hodges	episodes=2 episodes, 2013 	
+character=Year Old Faerie Girl 	name=Jordan Monaghan	episodes=2 episodes, 2013 	
+character=Charles Dupont	name=Matthew Holmes	episodes=2 episodes, 2014 	
+character=Minus	name=Gilbert Owuor	episodes=2 episodes, 2014 	
+character=Zander	name=Ken Luckey	episodes=2 episodes, 2012 	
+character=Turk	name=Kevin Fry	episodes=2 episodes, 2010 	
+character=Witch 	name=Diahnna Nicole Baxter	episodes=2 episodes, 2011 	
+character=Prisoner Jimmy	name=Stephen Monroe Taylor	episodes=2 episodes, 2012 	
+character=Witch 	name=Dahlia Waingort Guigui	episodes=2 episodes, 2011 	
+character=Camera Operator	name=Brian Treitler	episodes=2 episodes, 2011 	
+character=Jonathan	name=Jonathan Baron	episodes=2 episodes, 2013 	
+character=Junior	name=Todd Giebenhain	episodes=2 episodes, 2012 	
+character=Sorority Girl	name=Rachel Sterling	episodes=2 episodes, 2012 	
+character=Tracy	name=Anastasia Ganias	episodes=2 episodes, 2012 	
+character=Witch 	name=Silvia Curiel	episodes=2 episodes, 2011 	
+character=Siren 	name=Chloe Holmes	episodes=2 episodes, 2013 	
+character=Bank Employee	name=Jeanine Anderson	episodes=2 episodes, 2008-2013 	
+character=Witch 	name=Misha Gonz-Cirkl	episodes=2 episodes, 2011 	
+character=AHQ Guard 	name=Jason E. Kelley	episodes=2 episodes, 2012 	
+character=Chuck	name=Drew James	episodes=2 episodes, 2011 	
+character=Hartzell	name=Todd Quillen	episodes=2 episodes, 2013 	
+character=Fangtasia Dancer	name=Kendall Lake	episodes=2 episodes, 2011 	
+character=Year Old Faerie Girl 	name=Sam Schuder	episodes=2 episodes, 2013 	
+character=Puppeteer	name=Bernhard Eichholz	episodes=2 episodes, 2009-2011 	
+character=Iraqi Teen	name=Dave Marlin	episodes=2 episodes, 2012 	
+character=Year Old Faerie Girl 	name=Chloe East	episodes=2 episodes, 2013 	
+character=Camp Guard 	name=David Landry	episodes=2 episodes, 2013 	
+character=Lab Coat Scientist	name=Troy Vincent	episodes=2 episodes, 2013 	
+character=Burly H-Vamp	name=Derek Mears	episodes=2 episodes, 2014 	
+character=Dancer	name=Tyne Stecklein	episodes=2 episodes, 2012 	
+character=Somchai	name=Danielle Yu	episodes=2 episodes, 2013 	
+character=Prisoner Kate	name=Alissa Jessup	episodes=2 episodes, 2012 	
+character=White Room Vampire	name=Aileen Burdock	episodes=2 episodes, 2013 	
+character=Sickly-Looking Vampire	name=Erik Passoja	episodes=2 episodes, 2013 	
+character=Dancer	name=Lockhart Brownlie	episodes=2 episodes, 2012 	
+character=Anguished Woman	name=Kendall Jones	episodes=2 episodes, 2014 	
+character=Dancer	name=Colleen Craig	episodes=2 episodes, 2012 	
+character=Nurse Hastigan	name=Kiva Jump	episodes=2 episodes, 2012 	
+character=Faerie	name=Cody Green	episodes=2 episodes, 2012 	
+character=Tie	name=Cody Green	episodes=2 episodes, 2012 	
+character=Dancer	name=Cassidy Noblett	episodes=2 episodes, 2012 	
+character=Dancer	name=Genise Ruidiaz	episodes=2 episodes, 2012 	
+character=Dancer	name=Jillian Schmitz	episodes=2 episodes, 2012 	
+character=Amanda	name=Molly Burnett	episodes=1 episode, 2009-2014 	
+character=Rich	name=Timothy Eulich	episodes=1 episode, 2009-2014 	
+character=Baby Mikey	name=Grant Ollivier	episodes=2 episodes, 2011 	
+character=Baby Mikey	name=Wyatt Ollivier	episodes=2 episodes, 2011 	
+character=Faerie Goblin	name=Guy Perry	episodes=1 episode, 2009-2011 	
+character=Frenzy Guest	name=Lauren E. Gates	episodes=1 episode, 2009 	
+character=Tara Thornton	name=Brook Kerr	episodes=1 episode, 2008 	
+character=Terrell	name=Cedric Pendleton	episodes=1 episode, 2008 	
+character=Jerry	name=Nicholas Gonzalez	episodes=1 episode, 2008 	
+character=Rev. Theodore Newlin	name=Randy Oglesby	episodes=1 episode, 2008 	
+character=Dr. Offutt	name=Scott Alan Smith	episodes=1 episode, 2008 	
+character=Earl Stackhouse	name=Gary Cole	episodes=1 episode, 2011 	
+character=Buster	name=Earl Billings	episodes=1 episode, 2008 	
+character=State Trooper	name=David Pease	episodes=1 episode, 2008 	
+character=Mitch Merlotte	name=Cullen Douglas	episodes=1 episode, 2009 	
+character=Nikki	name=Sienna Farall	episodes=1 episode, 2009 	
+character=Bunkie Police Officer	name=Myk Watford	episodes=1 episode, 2008 	
+character=Televangelist	name=David Ruprecht	episodes=1 episode, 2008 	
+character=Mable	name=Elayn J. Taylor	episodes=1 episode, 2008 	
+character=Chauffeur	name=Merritt Yohnka	episodes=1 episode, 2009 	
+character=Missy	name=C.C. Sheffield	episodes=1 episode, 2010 	
+character=Televangelist	name=Kelli Maroney	episodes=1 episode, 2008 	
+character=Bruce	name=Michael McCafferty	episodes=1 episode, 2008 	
+character=Elderly DGD Member	name=Hans Howes	episodes=1 episode, 2008 	
+character=Bank Manager	name=Rod Britt	episodes=1 episode, 2008 	
+character=Hymn Singer	name=Linda Harmon	episodes=1 episode, 2008 	
+character=Lurlene Butterman	name=Catheryn Brockett	episodes=1 episode, 2008 	
+character=Jen	name=Thea Brooks	episodes=1 episode, 2010 	
+character=Jill Steeler	name=Melinda Page Hamilton	episodes=1 episode, 2012 	
+character=Child Psychologist	name=Barbara Whinnery	episodes=1 episode, 2008 	
+character=Vocalist	name=Sally Stevens	episodes=1 episode, 2008 	
+character=Tolliver Humphries	name=Caleb Steinmeyer	episodes=1 episode, 2008 	
+character=Janella	name=Roberta Orlandi	episodes=1 episode, 2008 	
+character=Leon	name=Dean Norris	episodes=1 episode, 2009 	
+character=Mrs. Hamby	name=Cheryl White	episodes=1 episode, 2009 	
+character=Sid Matt Lancaster	name=George Gerdes	episodes=1 episode, 2009 	
+character=Queen Mab	name=Rebecca Wisocky	episodes=1 episode, 2011 	
+character=General Cavanaugh	name=Phil Reeves	episodes=1 episode, 2012 	
+character=Nudist Man	name=Mitchell Edmonds	episodes=1 episode, 2008 	
+character=Secret Serviceman	name=Antonio D. Charity	episodes=1 episode, 2009 	
+character=Jordan Hamby	name=Ben Lemon	episodes=1 episode, 2009 	
+character=Faerie Elder	name=Erica Gimpel	episodes=1 episode, 2012 	
+character=Hayes	name=Zoran Korach	episodes=1 episode, 2012 	
+character=Donnell	name=Donnell	episodes=1 episode, 2013 	
+character=Donnell	name=Lawrence O	episodes=1 episode, 2013 	
+character=Lawrence O	name=Donnell	episodes=1 episode, 2013 	
+character=Lawrence O	name=Lawrence O	episodes=1 episode, 2013 	
+character=Harley	name=Robin Hines	episodes=1 episode, 2008 	
+character=Eden Hamby	name=Annalise Basso	episodes=1 episode, 2009 	
+character=Charlene	name=Arielle Kebbel	episodes=1 episode, 2010 	
+character=Ulfrik	name=John Hans Tester	episodes=1 episode, 2010 	
+character=Screaming Boy	name=Cody Christian	episodes=1 episode, 2008 	
+character=Fangbanger	name=Jack Nathan Harding	episodes=1 episode, 2008 	
+character=Aide	name=B.J. Bales	episodes=1 episode, 2008 	
+character=Boy Soldier of the Sun	name=Christopher Shand	episodes=1 episode, 2009 	
+character=Jon	name=Daniel Gillies	episodes=1 episode, 2010 	
+character=Olivia	name=Shannon Welles	episodes=1 episode, 2010 	
+character=Gondry	name=Matt Bushell	episodes=1 episode, 2012 	
+character=Cat Ingerslev	name=Dawn Stern	episodes=1 episode, 2012 	
+character=Madeline Kapneck	name=Kathleen York	episodes=1 episode, 2014 	
+character=Joe Thornton	name=Malcolm Goodwin	episodes=1 episode, 2014 	
+character=Taryn	name=Katelin Chesna	episodes=1 episode, 2008 	
+character=Vampire Talk Show Host	name=Stephanie McVay	episodes=1 episode, 2008 	
+character=Luisa	name=Kimberly Atkinson	episodes=1 episode, 2008 	
+character=Lindsey	name=Jennifer Wenger	episodes=1 episode, 2009 	
+character=Frances	name=Sarah Scott	episodes=1 episode, 2009 	
+character=Travis	name=Carson Aune	episodes=1 episode, 2009 	
+character=Gunnar	name=Fredrik Ejemo	episodes=1 episode, 2009 	
+character=Autumn	name=Alisha Snider	episodes=1 episode, 2009 	
+character=Customer 	name=Alice Ensor	episodes=1 episode, 2009 	
+character=Tony	name=Michael Steger	episodes=1 episode, 2010 	
+character=Jimmy	name=Monte Rex Perlin	episodes=1 episode, 2010 	
+character=Mrs. Betty Harris	name=Lily Knight	episodes=1 episode, 2014 	
+character=Woman in Booth	name=Susan Merson	episodes=1 episode, 2008 	
+character=Tourist	name=Sarah Blevins	episodes=1 episode, 2008 	
+character=Forensics Tech	name=Brian Ogilvie	episodes=1 episode, 2008 	
+character=Hrolf	name=Peter Franzén	episodes=1 episode, 2009 	
+character=Shawnelle	name=Betsy Rue	episodes=1 episode, 2009 	
+character=Missy	name=Heather Fox	episodes=1 episode, 2009 	
+character=Customer 	name=Duane R. Shepard Sr.	episodes=1 episode, 2009 	
+character=Sidney	name=Lenny Schmidt	episodes=1 episode, 2009 	
+character=Vampire Lawyer	name=Robert Catrini	episodes=1 episode, 2010 	
+character=Caroline Bellefleur	name=Katherine Helmond	episodes=1 episode, 2011 	
+character=Claude Crane	name=Neil Hopkins	episodes=1 episode, 2011 	
+character=Robert Rollins	name=Rick Cramer	episodes=1 episode, 2012 	
+character=Mr. Stewart	name=Terrell Lee	episodes=1 episode, 2014 	
+character=Male Receptionist	name=Gary Holland	episodes=1 episode, 2014 	
+character=Undercover Cop	name=Jeff Bryan Davis	episodes=1 episode, 2008 	
+character=Frank	name=Colby French	episodes=1 episode, 2009 	
+character=Saleswoman	name=Leslie Stevens	episodes=1 episode, 2009 	
+character=Frenzy Man in Dress	name=Leonardo Ciacci	episodes=1 episode, 2009 	
+character=Younger Woman	name=Kim McKean	episodes=1 episode, 2009 	
+character=Colonel John Flood	name=Grainger Hines	episodes=1 episode, 2010 	
+character=Great Aunt Cecilia	name=Lillian Hurst	episodes=1 episode, 2010 	
+character=Virgil	name=Austin Hébert	episodes=1 episode, 2011 	
+character=Ernie	name=Clay Wilcox	episodes=1 episode, 2011 	
+character=King Charles II	name=Hal Ozsan	episodes=1 episode, 2013 	
+character=Veronica	name=Marina Benedict	episodes=1 episode, 2013 	
+character=Jimmy	name=Scott Klace	episodes=1 episode, 2013 	
+character=Occupy Girl	name=Christina Scherer	episodes=1 episode, 2013 	
+character=Teenage Boy Vampire	name=William Leon	episodes=1 episode, 2014 	
+character=Mrs. Stewart	name=Gwen Stewart	episodes=1 episode, 2014 	
+character=Brent	name=Derek Ray	episodes=1 episode, 2009 	
+character=Blood Hooker	name=Camille Langfield	episodes=1 episode, 2009 	
+character=Dancer 	name=Ryan Novak	episodes=1 episode, 2009 	
+character=Guy	name=Michael Scott Brennan	episodes=1 episode, 2009 	
+character=Big Bobby	name=Sean Bridgers	episodes=1 episode, 2010 	
+character=Sgt. Mitch Coburn	name=Matt Riedy	episodes=1 episode, 2010 	
+character=Hollis	name=Vincent M. Ward	episodes=1 episode, 2010 	
+character=Very Old Woman	name=Gina Morelli	episodes=1 episode, 2010 	
+character=Sgt. Kinney	name=James Royce Edwards	episodes=1 episode, 2010 	
+character=Fangbanger	name=Sam Horrigan	episodes=1 episode, 2011 	
+character=Maggie Devins	name=Rebecca McFarland	episodes=1 episode, 2013 	
+character=Dark Figure	name=Paul Rae	episodes=1 episode, 2014 	
+character=Sylvie	name=Gabriella Wright	episodes=1 episode, 2014 	
+character=Female Maker	name=Loanne Bishop	episodes=1 episode, 2014 	
+character=Man in Bar	name=Stephen Jared	episodes=1 episode, 2008 	
+character=Paramedic	name=Edrick Browne	episodes=1 episode, 2008 	
+character=Jerk at Bar	name=Hallock Beals	episodes=1 episode, 2008 	
+character=Band Member	name=C.C. Adcock	episodes=1 episode, 2008 	
+character=Kyle	name=Michael Papajohn	episodes=1 episode, 2009 	
+character=Dancer 	name=Brandon Henschel	episodes=1 episode, 2009 	
+character=Bonita Lou Morris	name=Mary Portser	episodes=1 episode, 2009 	
+character=Man in Bar	name=Keith Oney	episodes=1 episode, 2009 	
+character=Husband	name=Jorge Diaz	episodes=1 episode, 2010 	
+character=Frank	name=Steph DuVall	episodes=1 episode, 2010 	
+character=Astrid	name=Annica McCrudden	episodes=1 episode, 2010 	
+character=Justin	name=Gideon Emery	episodes=1 episode, 2013 	
+character=Yakuza Guy	name=Toshiji Takeshima	episodes=1 episode, 2014 	
+character=Carpool Mom Vampire	name=Kathleen M. Darcy	episodes=1 episode, 2014 	
+character=Paramedic	name=Bill Stinchcomb	episodes=1 episode, 2008 	
+character=Sookie	name=Russ Hunt	episodes=1 episode, 2008 	
+character=Date 	name=Russ Hunt	episodes=1 episode, 2008 	
+character=Band Member	name=Jason Burns	episodes=1 episode, 2008 	
+character=Woman in Bar	name=Jen Ray	episodes=1 episode, 2009 	
+character=Young Woman	name=Flor de Maria Chahua	episodes=1 episode, 2010 	
+character=Slave Girl	name=Sarah McCann	episodes=1 episode, 2010 	
+character=Nancy Mills	name=Bess Armstrong	episodes=1 episode, 2014 	
+character=William Compton Sr.	name=Michael Rothhaar	episodes=1 episode, 2014 	
+character=Older Black Vampire	name=Cal Gibson	episodes=1 episode, 2014 	
+character=Sookie	name=Robert Parks-Valletta	episodes=1 episode, 2008 	
+character=Date 	name=Robert Parks-Valletta	episodes=1 episode, 2008 	
+character=Man in Bar	name=Jonathan Spencer	episodes=1 episode, 2008 	
+character=Well Dressed Woman	name=Kim Swennen	episodes=1 episode, 2009 	
+character=Anne	name=Jade Tailor	episodes=1 episode, 2010 	
+character=Mr. Rakestraw	name=Scott Thomson	episodes=1 episode, 2010 	
+character=TBBN Anchor	name=Mel Fair	episodes=1 episode, 2010 	
+character=Dr. Sekuler	name=Rebecca Tilney	episodes=1 episode, 2010 	
+character=Jethro	name=Kevin Michael Walsh	episodes=1 episode, 2010 	
+character=Dealer	name=Niko Nicotera	episodes=1 episode, 2011 	
+character=Professor Kannell	name=David Dean Bottrell	episodes=1 episode, 2012 	
+character=Buddy	name=Max Barsness	episodes=1 episode, 2012 	
+character=White Room Vampire	name=Kandis Mak	episodes=1 episode, 2013 	
+character=LAVTF Task Force Leader	name=Rico McClinton	episodes=1 episode, 2013 	
+character=Moroccan Proprietor	name=Maz Jobrani	episodes=1 episode, 2014 	
+character=Paul Mills	name=Brett Rice	episodes=1 episode, 2014 	
+character=Young Tara	name=Layla Crawford	episodes=1 episode, 2014 	
+character=Maurice	name=Eric Monjoin	episodes=1 episode, 2014 	
+character=Woman in Bar	name=Pattie Tierce	episodes=1 episode, 2008 	
+character=Woman in Bar	name=Eurlyne Epper	episodes=1 episode, 2008 	
+character=Band Member	name=Chris Hunter	episodes=1 episode, 2008 	
+character=Puppeteer	name=Dan Rebert	episodes=1 episode, 2009 	
+character=Janice Herveaux	name=Dawn Olivieri	episodes=1 episode, 2010 	
+character=Hunter	name=Max Charles	episodes=1 episode, 2010 	
+character=Hospital Administrator	name=Virginia Louise Smith	episodes=1 episode, 2010 	
+character=KKJH Anchor	name=Ken Rudulph	episodes=1 episode, 2010 	
+character=Homer	name=Sean Michael Guess	episodes=1 episode, 2010 	
+character=Callum	name=Darren Darnborough	episodes=1 episode, 2011 	
+character=Fraternity Boy	name=Arthur Napiontek	episodes=1 episode, 2012 	
+character=Recruitment Officer	name=Cory Tucker	episodes=1 episode, 2013 	
+character=Religious Looking Woman	name=Anne Johnson	episodes=1 episode, 2013 	
+character=Connor Farley	name=Hubert Hodgin	episodes=1 episode, 2013 	
+character=Nurse	name=Mandy Levin	episodes=1 episode, 2014 	
+character=Young Sookie	name=Lily Bigham	episodes=1 episode, 2014 	
+character=Man in Bar	name=Randy Hall	episodes=1 episode, 2008 	
+character=Band Member	name=Jude Taylor	episodes=1 episode, 2008 	
+character=Woman in Bar	name=Judi A. Walstrum	episodes=1 episode, 2008 	
+character=Peach	name=Becky Thyre	episodes=1 episode, 2010 	
+character=Nan	name=Tiffany Taylor	episodes=1 episode, 2010 	
+character=Girl	name=Tiffany Taylor	episodes=1 episode, 2010 	
+character=Were-Bitch	name=Sylvianne Chebance	episodes=1 episode, 2010 	
+character=Old Man	name=Jesse James Youngblood	episodes=1 episode, 2010 	
+character=Delilah	name=Jesiree Dizon	episodes=1 episode, 2012 	
+character=Dorothy	name=Melanie Camp	episodes=1 episode, 2012 	
+character=Team Captain 	name=Matthew Glen Johnson	episodes=1 episode, 2012 	
+character=Business Man Vamp	name=Gil Zuniga	episodes=1 episode, 2012 	
+character=Physician 	name=Paul Gregory	episodes=1 episode, 2013 	
+character=Mr. Jenkins	name=Timothy Hornor	episodes=1 episode, 2013 	
+character=Three Year Old Girl 	name=Briana Berlingeri	episodes=1 episode, 2013 	
+character=Najat	name=Arthur Darbinyan	episodes=1 episode, 2014 	
+character=Young Sookie	name=Lilac Emery-Haynes	episodes=1 episode, 2014 	
+character=Young Lafayette	name=Jabari Flanagan	episodes=1 episode, 2014 	
+character=Kris	name=Brad Carter	episodes=1 episode, 2010 	
+character=Chip	name=Eric Jungmann	episodes=1 episode, 2010 	
+character=Vampire Lieutenant	name=Sean Hemeon	episodes=1 episode, 2010 	
+character=Lindsey	name=Abbie Cobb	episodes=1 episode, 2012 	
+character=Cole	name=Bill Tangradi	episodes=1 episode, 2012 	
+character=Angelica	name=Kherington Payne	episodes=1 episode, 2012 	
+character=Team Captain 	name=Sam Adler	episodes=1 episode, 2012 	
+character=Teen Girl Vamp	name=Erika Marosi	episodes=1 episode, 2012 	
+character=Hep V Vampire	name=Bruno Gunn	episodes=1 episode, 2013 	
+character=Warlow	name=Britt George	episodes=1 episode, 2013 	
+character=Father	name=Britt George	episodes=1 episode, 2013 	
+character=Officer Innes	name=Andrew Thacher	episodes=1 episode, 2013 	
+character=Three Year Old Girl 	name=Abigail Lowe	episodes=1 episode, 2013 	
+character=Juliette	name=Vanessa Dubasso	episodes=1 episode, 2014 	
+character=Nizar	name=Massi Furlan	episodes=1 episode, 2014 	
+character=Louis Bodehouse	name=Brian Patrick Mulligan	episodes=1 episode, 2014 	
+character=Young Tara	name=Dara Iruka	episodes=1 episode, 2014 	
+character=Shane	name=Gregorio	episodes=1 episode, 2010 	
+character=Russell	name=George Morris Jr.	episodes=1 episode, 2010 	
+character=Security Guard	name=George Morris Jr.	episodes=1 episode, 2010 	
+character=Robbie	name=Kurtis Bedford	episodes=1 episode, 2012 	
+character=Officer Stutz	name=Linc Hand	episodes=1 episode, 2013 	
+character=Warlow	name=Cathryn de Prume	episodes=1 episode, 2013 	
+character=Mother	name=Cathryn de Prume	episodes=1 episode, 2013 	
+character=Hep V Vampire	name=Michael Filipowich	episodes=1 episode, 2013 	
+character=Scientist	name=Brian Mulligan	episodes=1 episode, 2013 	
+character=Stewart Shelby	name=Rick Overton	episodes=1 episode, 2014 	
+character=Victoria	name=Christian Pitre	episodes=1 episode, 2014 	
+character=Female Reporter	name=Anne Mannal	episodes=1 episode, 2010 	
+character=Rita	name=Elise Robertson	episodes=1 episode, 2011 	
+character=Singing Faerie	name=Lisbeth Scott	episodes=1 episode, 2011 	
+character=Fangtasia Protestor 	name=Jeremy Cohenour	episodes=1 episode, 2011 	
+character=Young Jesus	name=Gabriel Solis	episodes=1 episode, 2011 	
+character=Melanie	name=Jamie Renée Smith	episodes=1 episode, 2012 	
+character=Sarah Compton-Harris	name=Deborah Puette	episodes=1 episode, 2012 	
+character=Niall	name=Linn Bjornland	episodes=1 episode, 2013 	
+character=Mother	name=Linn Bjornland	episodes=1 episode, 2013 	
+character=Team Commander	name=Gerald Webb	episodes=1 episode, 2013 	
+character=Man in Church	name=Nate Reese	episodes=1 episode, 2013 	
+character=Burly Were	name=Nathan Bailey	episodes=1 episode, 2013 	
+character=Amanda H-Vamp	name=Jamie Luner	episodes=1 episode, 2014 	
+character=Claire Shelby	name=Cyd Strittmatter	episodes=1 episode, 2014 	
+character=Collin	name=Connor Barrett	episodes=1 episode, 2014 	
+character=Nearby Stranger	name=Roger Manix	episodes=1 episode, 2014 	
+character=Lloyd	name=Bradley Dodds	episodes=1 episode, 2011 	
+character=Dr. Isani	name=Melody Butiu	episodes=1 episode, 2011 	
+character=Young Woman	name=Michelle Luchese	episodes=1 episode, 2011 	
+character=Fangtasia Protestor 	name=Jake Martin	episodes=1 episode, 2011 	
+character=AHQ Guard 	name=Bryant Romo	episodes=1 episode, 2012 	
+character=Security Chief	name=Boo Arnold	episodes=1 episode, 2013 	
+character=LAVTF Officer 	name=Hugo Medina	episodes=1 episode, 2013 	
+character=Woman in Church	name=Virginia Watson	episodes=1 episode, 2013 	
+character=Young Niall	name=Jack Patrick Metcalf	episodes=1 episode, 2013 	
+character=Margaret Compton	name=Rebecca Klingler	episodes=1 episode, 2014 	
+character=Servant Faerie	name=Ricki Lander	episodes=1 episode, 2011 	
+character=Singer	name=Mick Scott	episodes=1 episode, 2011 	
+character=Ryder	name=Drew Powell	episodes=1 episode, 2012 	
+character=Christine Van Heusen	name=Anastasia Foster	episodes=1 episode, 2012 	
+character=Naked Prisoner	name=Travis Joe Dixon	episodes=1 episode, 2012 	
+character=Dancer	name=Jeremy Barthel	episodes=1 episode, 2012 	
+character=Factory Foreman	name=John Deignan	episodes=1 episode, 2013 	
+character=Young Niall	name=Travis Scott Metcalf	episodes=1 episode, 2013 	
+character=U.S. Rep Charles Bunn	name=Dan Sachoff	episodes=1 episode, 2011 	
+character=James	name=Marcus McGee	episodes=1 episode, 2011 	
+character=Teenage Alcide	name=Blake Michael	episodes=1 episode, 2012 	
+character=Margaret	name=Christie Burson	episodes=1 episode, 2012 	
+character=Dancer	name=Antonio Hudnell	episodes=1 episode, 2012 	
+character=Guard Wickline	name=Keenan Henson	episodes=1 episode, 2013 	
+character=LAVTF Bottling Plant Guard	name=Brandon Loeser	episodes=1 episode, 2013 	
+character=Midwife	name=Betsy Baker	episodes=1 episode, 2014 	
+character=Julian Fortenberry	name=Drew Rausch	episodes=1 episode, 2014 	
+character=Townsperson	name=Cindy Drummond	episodes=1 episode, 2014 	
+character=Kathy	name=Tarah Paige	episodes=1 episode, 2012 	
+character=Teenage Debbie	name=Heather Hopkins	episodes=1 episode, 2012 	
+character=Finch	name=Geovanni Gopradi	episodes=1 episode, 2013 	
+character=Detail Guy	name=Geovanni Gopradi	episodes=1 episode, 2013 	
+character=Camp Guard	name=Brent Chase	episodes=1 episode, 2013 	
+character=LAVTF Agent Jones	name=Thomas Lumberg Jr.	episodes=1 episode, 2013 	
+character=Dounia	name=Sitara Attaie	episodes=1 episode, 2014 	
+character=Puppeteer 	name=Dan Cangemi	episodes=1 episode, 2011 	
+character=Vampire Hank	name=Clint Culp	episodes=1 episode, 2012 	
+character=Sami	name=Kali Flanagan	episodes=1 episode, 2014 	
+character=Puppeteer 	name=Peter A. Chevako	episodes=1 episode, 2011 	
+character=Male Paramedic	name=Jonathan Kells Phillips	episodes=1 episode, 2012 	
+character=Dancer	name=Derek Ferguson	episodes=1 episode, 2012 	
+character=Dancer	name=Latrina Bolger	episodes=1 episode, 2012 	
+character=Tiffany	name=Katie Rowe	episodes=1 episode, 2013 	
+character=Dave	name=Bryan Dechart	episodes=1 episode, 2014 	
+character=Puppeteer 	name=Robert Devine	episodes=1 episode, 2011 	
+character=News Correspondant	name=Christian Malmin	episodes=1 episode, 2011 	
+character=Unsavory Vampire	name=David Atkinson	episodes=1 episode, 2012 	
+character=Washcloth Helen	name=Erin Alexis	episodes=1 episode, 2012 	
+character=Nole Bride-to-Be	name=Annie Abrams	episodes=1 episode, 2012 	
+character=Reggie	name=Spencer Hill	episodes=1 episode, 2012 	
+character=Big Dude	name=Paul Sanchez	episodes=1 episode, 2013 	
+character=Male Vigilante	name=Ian Hutton	episodes=1 episode, 2014 	
+character=Screaming Man	name=Cameron Barsanti	episodes=1 episode, 2014 	
+character=Richard H-Vamp	name=Richard Weintraub	episodes=1 episode, 2014 	
+character=Drunk Man	name=Tahmus Rounds	episodes=1 episode, 2011 	
+character=Puppeteer 	name=Tom von Badinski	episodes=1 episode, 2011 	
+character=Nola Groom	name=Heather Lee	episodes=1 episode, 2012 	
+character=Mother	name=Heather Lee	episodes=1 episode, 2012 	
+character=Sean	name=Patrick Mapel	episodes=1 episode, 2012 	
+character=Man	name=Paul Haitkin	episodes=1 episode, 2012 	
+character=Dancer	name=Loriel Hennington	episodes=1 episode, 2012 	
+character=Marine	name=Robert Martin III	episodes=1 episode, 2013 	
+character=LAVTF Guard	name=Duane Garrett	episodes=1 episode, 2013 	
+character=Female Vigilante	name=Julia Faye Fisher	episodes=1 episode, 2014 	
+character=Fast Food H-Vamp	name=Chris Ormond	episodes=1 episode, 2014 	
+character=Cabbie	name=Jaren Mitchell	episodes=1 episode, 2012 	
+character=Boy	name=Brandon James	episodes=1 episode, 2012 	
+character=Dentist	name=Mark Viniello	episodes=1 episode, 2013 	
+character=Librarian Vamp	name=Michelle Ladd	episodes=1 episode, 2014 	
+character=Dancer	name=Shannon Holtzapffel	episodes=1 episode, 2012 	
+character=Female Vampire	name=Tiffany Belanger	episodes=1 episode, 2013 	
+character=Dancer	name=Jerrell Johnson	episodes=1 episode, 2012 	
+character=Crazed Vampire	name=Victor of Aquitaine	episodes=1 episode, 2013 	
+character=Wounded Woman	name=Brittany Slattery	episodes=1 episode, 2014 	
+character=Male Vampire	name=Doug Haley	episodes=1 episode, 2013 	
+character=Marc	name=Henry Hereford	episodes=1 episode, 2013 	
+character=White Room Vampire	name=Laura Miro	episodes=1 episode, 2013 	
+character=AKA Officer Trap	name=Chris Jai Alex	episodes=1 episode, 2012 	
+character=Dancer	name=Tracy Shibata	episodes=1 episode, 2012 	
+character=Stephanie Hunter	name=Selina MacDonald	episodes=1 episode, 2010 	
+character=Fangtasia Bartender	name=Mark Blayney	episodes=1 episode, 2010 	
+character=Yokel	name=Keira Glynn	episodes=1 episode, 2011 	
+character=Princess	name=Tatiana Vici	episodes=1 episode, 2011 	
+character=Republican	name=Rich The Lion Gephart	episodes=1 episode, 2014 	
+character=Yakuza	name=Jon Komp Shin	episodes=5 episodes, 2014 	
+character=Yakuza 	name=Lin Oeding	episodes=4 episodes, 2014 	
+character=Frenzy Eye Terra Girl	name=Simone Bargetze	episodes=3 episodes, 2009 	
+character=LAVTF Leader	name=Rydell Danzie	episodes=3 episodes, 2013 	
+character=Man at Bar	name=Ken Kobus	episodes=2 episodes, 2008 	
+character=Kicks Vampire	name=Retson Ross	episodes=2 episodes, 2008 	
+character=Possessed Man	name=Dennis Keiffer	episodes=2 episodes, 2009 	
+character=Dallas Vampire	name=Shannon Garnett	episodes=2 episodes, 2009 	
+character=Hot Shot Child	name=Adara Huntington	episodes=2 episodes, 2010-2011 	
+character=Julie Watney	name=Katie Eischen	episodes=2 episodes, 2011 	
+character=Faerie Archer	name=Skyler Hart	episodes=2 episodes, 2012 	
+character=Faerie	name=Alessandro Nori	episodes=2 episodes, 2012 	
+character=Vivian	name=Maria Katre Osler	episodes=2 episodes, 2013 	
+character=Female Vamp Camper	name=Alexandra Amadio	episodes=2 episodes, 2013 	
+character=Bartender	name=Taber Cross	episodes=2 episodes, 2013 	
+character=Gay Vamp	name=Sidow Sobrino	episodes=1 episode, 2008 	
+character=Tourist in Vampire Club	name=David Cohen	episodes=1 episode, 2008 	
+character=Merlot	name=Deborah Rombaut	episodes=1 episode, 2008 	
+character=Patron	name=Deborah Rombaut	episodes=1 episode, 2008 	
+character=Enforcer 	name=Matt Leonard	episodes=1 episode, 2008 	
+character=Papa	name=Alan Gray	episodes=1 episode, 2008 	
+character=Caroline Compton	name=Amber Dawn Landrum	episodes=1 episode, 2008 	
+character=Bride	name=Vitta Quinn	episodes=1 episode, 2008 	
+character=Barfly 	name=Matthew Herington	episodes=1 episode, 2008 	
+character=Bar Patron	name=Brad Carr	episodes=1 episode, 2008 	
+character=Vampire Dancer	name=Raven Armando Astone	episodes=1 episode, 2008 	
+character=Skinhead Vampire	name=Robert Dill	episodes=1 episode, 2008 	
+character=Bar Patron	name=Dallas Ryan	episodes=1 episode, 2008 	
+character=Sara Compton	name=Gabrielle N. Brown	episodes=1 episode, 2008 	
+character=High Class Vampire	name=Ben Decker	episodes=1 episode, 2008 	
+character=Soldier	name=James Cook	episodes=1 episode, 2008 	
+character=Pretty Girl	name=Adalia Braydon	episodes=1 episode, 2008 	
+character=Party Patron	name=Stephanie Renz	episodes=1 episode, 2008 	
+character=Street Preacher	name=Carlos Antonio	episodes=1 episode, 2008 	
+character=High End Vampire	name=Brooke Bickford	episodes=1 episode, 2008 	
+character=Pool Player	name=Gregg Lee	episodes=1 episode, 2008 	
+character=Morticia	name=Melissa Mandisa	episodes=1 episode, 2008 	
+character=Gangster Lover	name=Bryan Lay	episodes=1 episode, 2008 	
+character=Vampire	name=Kate Zarvis	episodes=1 episode, 2008 	
+character=Woman in Bar	name=Lyssa Prine	episodes=1 episode, 2008 	
+character=Vampire Seductress	name=Judy Dinella	episodes=1 episode, 2008 	
+character=Parish Coroner	name=Ethan Phillips	episodes=1 episode, 2009 	
+character=Christian Cult Member	name=Adrienne McQueen	episodes=1 episode, 2009 	
+character=Dallas Vampire	name=Dallas Malloy	episodes=1 episode, 2009 	
+character=Sophie-Anne	name=Amber Hay	episodes=1 episode, 2009 	
+character=Slave	name=Amber Hay	episodes=1 episode, 2009 	
+character=Prisoner	name=Kelly Frazier	episodes=1 episode, 2009 	
+character=Christian Cult Member	name=Kyle Smithson	episodes=1 episode, 2009 	
+character=Orgo	name=Dragon Dronet	episodes=1 episode, 2009 	
+character=Fangbanger	name=Chris Sanders	episodes=1 episode, 2009 	
+character=Bargirl	name=Rosemary Garris	episodes=1 episode, 2009 	
+character=Bus Boy	name=Robert Amjarv	episodes=1 episode, 2009 	
+character=Female Bodyguard	name=Claudia Graf	episodes=1 episode, 2009 	
+character=Frenzier	name=James Seaman	episodes=1 episode, 2009 	
+character=Table Dancer	name=Kim Ridley	episodes=1 episode, 2009 	
+character=Soldier of the Sun	name=Shaun W. Loeser	episodes=1 episode, 2009 	
+character=Christian Singer on Bus	name=Daria Badanina	episodes=1 episode, 2009 	
+character=Frenzer	name=Fred Fein	episodes=1 episode, 2009 	
+character=Cabinmate	name=Huck Walton	episodes=1 episode, 2009 	
+character=Champagne Guy	name=Greg Raffelson	episodes=1 episode, 2009 	
+character=Pool Player	name=Austin M. Webb	episodes=1 episode, 2009 	
+character=Dallas Vampire	name=Kenny Knoll	episodes=1 episode, 2009 	
+character=Dirty Dancer	name=Matthew L. Sobel	episodes=1 episode, 2009 	
+character=Sophie-Anne	name=Sahara Dawn Ealy	episodes=1 episode, 2009 	
+character=Slave	name=Sahara Dawn Ealy	episodes=1 episode, 2009 	
+character=Church Patron	name=Amanda Walion	episodes=1 episode, 2009 	
+character=Sophie-Anne	name=Everest Ling	episodes=1 episode, 2009 	
+character=Slave	name=Everest Ling	episodes=1 episode, 2009 	
+character=Hot Shot Citizen	name=Jordan Walker Ross	episodes=1 episode, 2010 	
+character=Dog Fight Trainer	name=Bill Oberst Jr.	episodes=1 episode, 2010 	
+character=Werewolf	name=Alex Trumble	episodes=1 episode, 2010 	
+character=Fairy	name=Autumn Federici	episodes=1 episode, 2010 	
+character=Hot Shot Citizen	name=Willow Hale	episodes=1 episode, 2010 	
+character=Eddie Boy	name=Mike Perfetuo	episodes=1 episode, 2010 	
+character=Vampire SWAT	name=Martin Santander	episodes=1 episode, 2010 	
+character=Biker Gang Member	name=Ron Kari	episodes=1 episode, 2010 	
+character=Carol	name=Andrea Harrison	episodes=1 episode, 2010 	
+character=Vampire Server	name=Ethan Stone	episodes=1 episode, 2010 	
+character=Henchwoman	name=Tamara Frapasella	episodes=1 episode, 2010 	
+character=Vampire SWAT	name=Christian Magdu	episodes=1 episode, 2010 	
+character=Hot Shot Hillbilly	name=Gary Sievers	episodes=1 episode, 2010 	
+character=Vampire SWAT	name=Reece Kirk	episodes=1 episode, 2010 	
+character=Hot Shot Citizen	name=Kimberly Ables Jindra	episodes=1 episode, 2010 	
+character=Road Worker	name=Jeffrey O	episodes=1 episode, 2010 	
+character=Road Worker	name=Connell	episodes=1 episode, 2010 	
+character=Merlotte	name=David Pryor	episodes=1 episode, 2010 	
+character=Bar Patron	name=David Pryor	episodes=1 episode, 2010 	
+character=Wild Biker	name=Eric Shackelford	episodes=1 episode, 2010 	
+character=Battered Woman	name=Sherilyn Henderson	episodes=1 episode, 2010 	
+character=Vampire SWAT	name=Kevin Ketcham	episodes=1 episode, 2010 	
+character=Werewolf	name=William Morse	episodes=1 episode, 2010 	
+character=DEA Agent	name=Vinnie Varone	episodes=1 episode, 2010 	
+character=Dog Fight Spectator	name=Justin Reed	episodes=1 episode, 2010 	
+character=Hot Shot Child	name=Danyon Huntington	episodes=1 episode, 2010 	
+character=Vampire SWAT	name=Luis Alberto Aracena	episodes=1 episode, 2010 	
+character=Viking Guard	name=Erick Abraham	episodes=1 episode, 2010 	
+character=Battered Woman	name=Janeé Crump	episodes=1 episode, 2010 	
+character=Viking Guard	name=CJ Brady	episodes=1 episode, 2010 	
+character=Vampire Guard	name=Shaun Guttridge	episodes=1 episode, 2010 	
+character=Hot Shot Child	name=Ciara Huntington	episodes=1 episode, 2010 	
+character=Vampire Harpist	name=Ted Nichelson	episodes=1 episode, 2010 	
+character=Faerie	name=Tom Schwartz	episodes=1 episode, 2011 	
+character=Strongman	name=Christian Calloway	episodes=1 episode, 2011 	
+character=Low Priest	name=Orson Chaplin	episodes=1 episode, 2011 	
+character=Wiccan	name=Stephanie Rojas	episodes=1 episode, 2011 	
+character=Spanish Peasant	name=Robert Lee Bell	episodes=1 episode, 2011 	
+character=Fangbanger	name=Max Valentine	episodes=1 episode, 2011 	
+character=Hillbilly	name=Carryl Lynn	episodes=1 episode, 2011 	
+character=Faerie	name=Jaala Pickering	episodes=1 episode, 2011 	
+character=Wiccan	name=Katherine M. O	episodes=1 episode, 2011 	
+character=Wiccan	name=Connor	episodes=1 episode, 2011 	
+character=Faerie	name=Levon Rector	episodes=1 episode, 2011 	
+character=Fangtasia Bar Guest	name=J. Kimo Arbas	episodes=1 episode, 2011 	
+character=Leaving Witch	name=Lynly Ehrlich	episodes=1 episode, 2011 	
+character=Spanish Dignitary	name=Ryan C. Burney	episodes=1 episode, 2011 	
+character=Faerie	name=Kelsey Farrar	episodes=1 episode, 2011 	
+character=Corner Coach	name=Heather George	episodes=1 episode, 2011 	
+character=Half Faerie	name=Clare Benavides	episodes=1 episode, 2011 	
+character=The Duke	name=Casey Larios	episodes=1 episode, 2011 	
+character=Drummer	name=Bryan Moore	episodes=1 episode, 2011 	
+character=Wiccan	name=Steve Fogelman	episodes=1 episode, 2011 	
+character=Goblin	name=Angele Caron	episodes=1 episode, 2011 	
+character=Faerie	name=Joseph Goode	episodes=1 episode, 2011 	
+character=Faerie	name=Alexander Christensen	episodes=1 episode, 2011 	
+character=Merlotte	name=Jake Levy	episodes=1 episode, 2011 	
+character=Bus Boy	name=Jake Levy	episodes=1 episode, 2011 	
+character=Bass Player	name=Kevin Kipnis	episodes=1 episode, 2011 	
+character=Faerie	name=Eugenia Kuzmina	episodes=1 episode, 2012 	
+character=Biker Vamp	name=David Hutchison	episodes=1 episode, 2012 	
+character=Cocktail Waitress	name=Scarlett Burke	episodes=1 episode, 2012 	
+character=Faerie	name=Pinky Campbell	episodes=1 episode, 2012 	
+character=Faerie Bouncer	name=Jefferson Cox	episodes=1 episode, 2012 	
+character=Vampire Inmate	name=Nick Stellate	episodes=1 episode, 2012 	
+character=Fangtasia Vampire	name=Jobeth Wagner	episodes=1 episode, 2012 	
+character=Brothel Bartender	name=Paul Grace	episodes=1 episode, 2012 	
+character=Claude	name=Megan Albertus	episodes=1 episode, 2012 	
+character=Sister	name=Megan Albertus	episodes=1 episode, 2012 	
+character=Faerie	name=Dinka Dzubur	episodes=1 episode, 2012 	
+character=Weregirl	name=Melissa Tucker	episodes=1 episode, 2012 	
+character=Prostitute	name=Miranda Downey	episodes=1 episode, 2012 	
+character=Young Werewolf	name=Drew Hellenthal	episodes=1 episode, 2012 	
+character=Hannah Cleary	name=Ranae Shepherd	episodes=1 episode, 2012 	
+character=Dancer	name=Andrew Anderson	episodes=1 episode, 2012 	
+character=Victim	name=Emi Hatanaka	episodes=1 episode, 2012 	
+character=Fangbanger	name=Joey Courteau	episodes=1 episode, 2012 	
+character=Bar Patron	name=Marc Abbink	episodes=1 episode, 2012 	
+character=Sidechick with J.D	name=Jennifer Amorelli	episodes=1 episode, 2012 	
+character=Faerie	name=Nicholas Scott	episodes=1 episode, 2012 	
+character=Faerie	name=Brendan Norman	episodes=1 episode, 2012 	
+character=Female Paramedic	name=Paulette Patterson	episodes=1 episode, 2012 	
+character=Square Dancer	name=Richard Allan Jones	episodes=1 episode, 2012 	
+character=Naked Male Prisoner	name=David Barnes	episodes=1 episode, 2012 	
+character=Prisoner	name=Shawn Habibi	episodes=1 episode, 2012 	
+character=Fangbanger	name=Dale Shane	episodes=1 episode, 2012 	
+character=Faerie	name=Sarah Amos	episodes=1 episode, 2012 	
+character=Brothel Patron	name=Terry F. Smith	episodes=1 episode, 2012 	
+character=Bourbon St. Partier	name=Andrew j Spinks	episodes=1 episode, 2012 	
+character=Faerie	name=Adrian Winther	episodes=1 episode, 2012 	
+character=Weregirl	name=Jen Pierce	episodes=1 episode, 2012 	
+character=Chef	name=Joseph Uzzell	episodes=1 episode, 2012 	
+character=Bourbon St Partier	name=Shaundi Li Draven	episodes=1 episode, 2012 	
+character=Female Prisoner	name=Elizabeth Ouimette	episodes=1 episode, 2012 	
+character=Vampire Inmate	name=Jonesiano HD	episodes=1 episode, 2012 	
+character=Faerie	name=Manuel Arnao	episodes=1 episode, 2012 	
+character=Faerie 	name=Alicia Vela-Bailey	episodes=1 episode, 2013 	
+character=Lady Courtesan	name=Ashlynn Yennie	episodes=1 episode, 2013 	
+character=Son	name=Troy Glass	episodes=1 episode, 2013 	
+character=Vampire Couple	name=Ashley McCarthy	episodes=1 episode, 2013 	
+character=Honolulu Vampire	name=Elsi Eng	episodes=1 episode, 2013 	
+character=Aide	name=Sandy Baumann	episodes=1 episode, 2013 	
+character=Governor	name=Sandy Baumann	episodes=1 episode, 2013 	
+character=Day Walking Vampire	name=Val Emanuel	episodes=1 episode, 2013 	
+character=Camp Sex Vampire	name=Jude B. Lanston	episodes=1 episode, 2013 	
+character=Faerie Warrior	name=Edward Coupland	episodes=1 episode, 2013 	
+character=Peasant	name=Kristel Kovner	episodes=1 episode, 2013 	
+character=Young Vampire	name=Strider Ellis	episodes=1 episode, 2013 	
+character=Royal Faerie	name=Elena Kolpachikova	episodes=1 episode, 2013 	
+character=Black Plague Man	name=Gary wayne Hoffman	episodes=1 episode, 2013 	
+character=Vampire Couple	name=Marc Yellin	episodes=1 episode, 2013 	
+character=Jessica	name=Sean L. Malin	episodes=1 episode, 2013 	
+character=Classmate	name=Sean L. Malin	episodes=1 episode, 2013 	
+character=Starving Vampire	name=Dallas James	episodes=1 episode, 2013 	
+character=Servant 1640	name=JC Tremblay	episodes=1 episode, 2013 	
+character=Courtesan 	name=Ana Carolina Valverde	episodes=1 episode, 2013 	
+character=King	name=Ana Carolina Valverde	episodes=1 episode, 2013 	
+character=Cleric	name=Dwight V Coleman	episodes=1 episode, 2013 	
+character=Parishioner	name=Deon Hayman	episodes=1 episode, 2013 	
+character=Anti Vampire Task Force	name=Xavier Clarke	episodes=1 episode, 2013 	
+character=Courtesan	name=Ellen Soderberg	episodes=1 episode, 2013 	
+character=Parishioner	name=Victoria Ryle	episodes=1 episode, 2013 	
+character=Parishioner	name=Aswad Ali	episodes=1 episode, 2013 	
+character=Faerie Warrior	name=John H L Viking	episodes=1 episode, 2013 	
+character=Yakuza 	name=Mike Moh	episodes=1 episode, 2014 	
+character=Mrs. Goodwin	name=Stacie Greenwell	episodes=1 episode, 2014 	
+character=Party Guest	name=Aaron Cavette	episodes=1 episode, 2014 	
+character=Republican Fundraiser	name=Pamela Drake Wilson	episodes=1 episode, 2014 	
+character=Girl at Party	name=Danielle Dreben	episodes=1 episode, 2014 	
+character=Church Girl	name=Milli Moto	episodes=1 episode, 2014 	
+character=H Vamp	name=Renee Daw	episodes=1 episode, 2014 	
+character=Republican Party-Goer	name=Robert Artz	episodes=1 episode, 2014 	
+character=Victoria Merlotte	name=Victoria Carey	episodes=1 episode, 2014 	
+character=Townsman	name=Vincent M. Biscione	episodes=1 episode, 2014 	
+character=Mikey	name=Adam Karchmer	episodes=1 episode, 2014 	
+character=Young Parent	name=Bethany Regan	episodes=1 episode, 2014 	
+character=Moroccan Citizen	name=Will Leon	episodes=1 episode, 2014 	
+character=Confederate Soldier	name=Matt Callahan	episodes=1 episode, 2014 	
+character=H Vamp	name=William Shay House	episodes=1 episode, 2014 	
+character=Mob Member	name=William Pierce	episodes=1 episode, 2014 	
+character=Baby Girl Stackhouse	name=Asher McDonell	episodes=1 episode, 2014 	
+character=Girlfriend	name=Melorine Adler	episodes=1 episode, 2014 	
+character=Yoga Student	name=Joshua Cooper	episodes=1 episode, 2014 	
+character=Rick	name=Mike Mckee	episodes=1 episode, 2014 	
+character=Traveller	name=Pauline Kurks	episodes=1 episode, 2014 	
+character=Young Parent	name=Yana Trofimova	episodes=1 episode, 2014 	
+character=Vigilante	name=Tom Poole	episodes=1 episode, 2014 	
+character=Mary Beth Grant	name=Liz Forde	episodes=1 episode, 2014 	
+character=Confederate Soldier	name=Chris Tomlinson	episodes=1 episode, 2014 	
+character=Pool Player	name=Bill Rude	episodes=1 episode, 2014 	
+character=Brother	name=James Lewis	episodes=1 episode, 2014 	
+character=Minus	name=James Lewis	episodes=1 episode, 2014 	
+character=Baby Girl Stackhouse	name=Brayden McDonell	episodes=1 episode, 2014 	
+character=Dead Frozen Guy	name=Ky Mahone	episodes=1 episode, 2014 	

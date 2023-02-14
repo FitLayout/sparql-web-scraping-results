@@ -1,0 +1,43 @@
+# http://fitlayout.github.io/resource/art29 -> https://www.imdb.com/title/tt6734482/fullcredits/
+character=Michael Yuill	name=Jim McMeekin	episodes=6 episodes, 2017 	
+character=Annie Redford	name=Laura Fraser	episodes=6 episodes, 2017 	
+character=DCI Lauren Quigley	name=Siobhan Finneran	episodes=6 episodes, 2017 	
+character=Blake Albrighton	name=Don Gilet	episodes=6 episodes, 2017 	
+character=PC Jason Denny	name=Murray Fraser	episodes=6 episodes, 2017 	
+character=Evie Redford	name=Shona McHugh	episodes=6 episodes, 2017 	
+character=CI Frank Smilie	name=John Sessions	episodes=6 episodes, 2017 	
+character=Kieran Whitehead	name=Jack Bannon	episodes=6 episodes, 2017 	
+character=Craig Petrie	name=Alastair Mackenzie	episodes=6 episodes, 2017 	
+character=Alan Redford	name=Brien	episodes=6 episodes, 2017 	
+character=Alan Redford	name=Gray O	episodes=6 episodes, 2017 	
+character=Dessie Toner	name=Conor McCarry	episodes=6 episodes, 2017 	
+character=Jordan Whitehead	name=Oliver Greenall	episodes=6 episodes, 2017 	
+character=Crawford Baxter	name=Euan Stamper	episodes=5 episodes, 2017 	
+character=Police officer	name=Pj Barnard	episodes=6 episodes, 2017 	
+character=Jonjo Patterson	name=Keiran Gallacher	episodes=5 episodes, 2017 	
+character=Mhari Toner	name=Simone Lahbib	episodes=5 episodes, 2017 	
+character=Iain Sutherland	name=Ron Donachie	episodes=5 episodes, 2017 	
+character=Dr. Simon Marr	name=John Heffernan	episodes=5 episodes, 2017 	
+character=Kirsty Petrie	name=Shereen Martin	episodes=5 episodes, 2017 	
+character=Bea Whitehead	name=Anita Vettesse	episodes=5 episodes, 2017 	
+character=Don McGrellish	name=George Anton	episodes=4 episodes, 2017 	
+character=Ken Patterson	name=Moray Hunter	episodes=4 episodes, 2017 	
+character=Leighton Thomas	name=William Ash	episodes=4 episodes, 2017 	
+character=Nicole Patterson	name=Jenny Ryan	episodes=4 episodes, 2017 	
+character=Angusina McGrellish	name=Victoria Liddelle	episodes=3 episodes, 2017 	
+character=Sarah McKinnon	name=Lisa Livingstone	episodes=3 episodes, 2017 	
+character=Isla Marr	name=Cherry Campbell	episodes=3 episodes, 2017 	
+character=Police Officer	name=Grant Crookes	episodes=3 episodes, 2017 	
+character=Niall Swift	name=Jordan McCurrach	episodes=2 episodes, 2017 	
+character=Oliver Tench	name=Fraser James	episodes=2 episodes, 2017 	
+character=Reporter	name=Olivia Morgan	episodes=1 episode, 2017 	
+character=Bethan McGrellish	name=Kay McAllister	episodes=1 episode, 2017 	
+character=Technical Support Officer	name=Mark Wood	episodes=1 episode, 2017 	
+character=Laboratory Technician	name=Hannah Donaldson	episodes=1 episode, 2017 	
+character=Pathologist	name=Christopher McPhillips	episodes=6 episodes, 2017 	
+character=Local	name=Ali Macdonald Ross	episodes=4 episodes, 2017 	
+character=Mourner	name=Gordon Ryde	episodes=2 episodes, 2017 	
+character=Michael - Paramedic	name=David Friel	episodes=2 episodes, 2017 	
+character=Bar Punter	name=James E Thompson	episodes=1 episode, 2017 	
+character=Local	name=Jude North	episodes=1 episode, 2017 	
+character=French Reporter	name=Amandine Vincent	episodes=1 episode, 2017 	

@@ -1,0 +1,126 @@
+# http://fitlayout.github.io/resource/art27 -> https://www.imdb.com/title/tt5257744/fullcredits/
+character=Alison Hawthorne-Price	name=Juliet Rylance	episodes=13 episodes, 2016 	
+character=Garrett Hawthorne	name=Antony Starr	episodes=13 episodes, 2016 	
+character=Cam Hawthorne	name=Justin Chatwin	episodes=13 episodes, 2016 	
+character=Tessa Ross	name=Megan Ketch	episodes=13 episodes, 2016 	
+character=Brady Ross	name=Elliot Knight	episodes=13 episodes, 2016 	
+character=Sophie Hawthorne	name=Stephanie Leonidas	episodes=13 episodes, 2016 	
+character=Jack Hawthorne	name=Gabriel Bateman	episodes=13 episodes, 2016 	
+character=Madeline Hawthorne	name=Virginia Madsen	episodes=13 episodes, 2016 	
+character=Detective Linda Cutter	name=Deirdre Lovejoy	episodes=9 episodes, 2016 	
+character=Naomi Flynn	name=Maureen Sebastian	episodes=9 episodes, 2016 	
+character=Tom Price	name=Dylan Bruce	episodes=7 episodes, 2016 	
+character=Christina Morales	name=Catalina Sandino Moreno	episodes=6 episodes, 2016 	
+character=Dana	name=Teresa Pavlinek	episodes=6 episodes, 2016 	
+character=Jennifer Windham	name=Sarah Power	episodes=5 episodes, 2016 	
+character=Harper Hawthorne-Price	name=Natalie Prinzen-Klages	episodes=5 episodes, 2016 	
+character=Phyllis Krittenhauser	name=Lorna Wilson	episodes=5 episodes, 2016 	
+character=Violet Hawthorne-Price	name=Nora Prinzen-Klages	episodes=5 episodes, 2016 	
+character=Mayor Bill Conley	name=Enrico Colantoni	episodes=4 episodes, 2016 	
+character=Lieutenant Craft	name=Richard Fitzpatrick	episodes=4 episodes, 2016 	
+character=April	name=Bethany Joy Lenz	episodes=3 episodes, 2016 	
+character=Gunther Holzman	name=Aidan Devine	episodes=3 episodes, 2016 	
+character=Mitchell Hawthorne	name=Jamey Sheridan	episodes=3 episodes, 2016 	
+character=Age 17	name=Spencer Macpherson	episodes=3 episodes, 2016 	
+character=Cam Hawthorne 	name=Spencer Macpherson	episodes=3 episodes, 2016 	
+character=Young Garrett Hawthorne	name=Micheal Doonan	episodes=2 episodes, 2016 	
+character=Darcy Campano	name=Glenda Braganza	episodes=2 episodes, 2016 	
+character=Young Tessa Hawthorne	name=Zoe Ambrose	episodes=2 episodes, 2016 	
+character=District Attorney	name=Clive Walton	episodes=2 episodes, 2016 	
+character=Officer Baiers	name=Lamont James	episodes=2 episodes, 2016 	
+character=Burly Guy	name=Tim Walker	episodes=2 episodes, 2016 	
+character=SBK	name=Rod Wilson	episodes=2 episodes, 2016 	
+character=John Martin 	name=Rod Wilson	episodes=2 episodes, 2016 	
+character=Young Alison Hawthorne	name=Erica Deutschman	episodes=2 episodes, 2016 	
+character=Wendy Molson	name=Katie Messina	episodes=2 episodes, 2016 	
+character=Kimmie	name=Kate Ross	episodes=2 episodes, 2016 	
+character=FBI Agent Finnegan	name=Richard Zeppieri	episodes=2 episodes, 2016 	
+character=TV Reporter	name=Suneel Joshi	episodes=2 episodes, 2016 	
+character=News Reporter 	name=Nneka Elliott	episodes=1 episode, 2016 	
+character=News Anchor	name=Shea	episodes=1 episode, 2016 	
+character=News Anchor	name=Rory O	episodes=1 episode, 2016 	
+character=Al Jenkins	name=M.C. Gainey	episodes=1 episode, 2016 	
+character=Dave Morales	name=Yancey Arias	episodes=1 episode, 2016 	
+character=Molly	name=Lara Jean Chorostecki	episodes=1 episode, 2016 	
+character=Connor	name=David Keeley	episodes=1 episode, 2016 	
+character=Caleb O	name=David Keeley	episodes=1 episode, 2016 	
+character=Kerry Treadwell	name=Meghan Heffern	episodes=1 episode, 2016 	
+character=Lila	name=Lin Shaye	episodes=1 episode, 2016 	
+character=Eva Tyler	name=Rong Fu	episodes=1 episode, 2016 	
+character=Officer Petrilla	name=Mark Taylor	episodes=1 episode, 2016 	
+character=Lionel	name=David Tompa	episodes=1 episode, 2016 	
+character=Sadie	name=Aviv Cohen	episodes=1 episode, 2016 	
+character=Young Tom Price	name=Jake Manley	episodes=1 episode, 2016 	
+character=Ramona Canby	name=Clare Coulter	episodes=1 episode, 2016 	
+character=Terry the Sketch Artist	name=Nabeel El Khafif	episodes=1 episode, 2016 	
+character=Toby	name=Evan Marsh	episodes=1 episode, 2016 	
+character=Camp Direcor	name=Richard Waugh	episodes=1 episode, 2016 	
+character=C.J. Reed	name=Mary Ashton	episodes=1 episode, 2016 	
+character=Officer Deng	name=Daniel Park	episodes=1 episode, 2016 	
+character=News Anchor	name=Dan Duran	episodes=1 episode, 2016 	
+character=Stephen Gostkowski	name=Stephen Gostkowski	episodes=1 episode, 2016 	
+character=Porter	name=Matt Gordon	episodes=1 episode, 2016 	
+character=GYN Doctor	name=Elisa Moolecherry	episodes=1 episode, 2016 	
+character=Russo	name=Jon Ambrose	episodes=1 episode, 2016 	
+character=Prison Guard	name=Tony Craig	episodes=1 episode, 2016 	
+character=Lester	name=Billy Otis	episodes=1 episode, 2016 	
+character=Elderly Man	name=Allen Stewart-Coates	episodes=1 episode, 2016 	
+character=Nurse	name=Victor Chiu	episodes=1 episode, 2016 	
+character=Hospital Administrator	name=Kim Roberts	episodes=1 episode, 2016 	
+character=Thurmon	name=Boyd Banks	episodes=1 episode, 2016 	
+character=Doctor	name=Lindsay Leese	episodes=1 episode, 2016 	
+character=Young Molly	name=Kendra Leigh Timmins	episodes=1 episode, 2016 	
+character=Store Clerk	name=Jason Jazrawy	episodes=1 episode, 2016 	
+character=Spanish Speaking Patient	name=Marcelo Arroyo	episodes=1 episode, 2016 	
+character=Store Manager	name=Terry Hart	episodes=1 episode, 2016 	
+character=Newscaster	name=Gina Louise Phillips	episodes=1 episode, 2016 	
+character=Bank Clerk	name=Nile Seguin	episodes=1 episode, 2016 	
+character=Surgeon	name=Roger Clown	episodes=1 episode, 2016 	
+character=Male Patron	name=Neil Girvan	episodes=1 episode, 2016 	
+character=News Anchor	name=Ola Sturik	episodes=1 episode, 2016 	
+character=Jimmy	name=Dylan Brentwood	episodes=1 episode, 2016 	
+character=Staffer	name=Amrit Kaur	episodes=1 episode, 2016 	
+character=Link	name=Noah Dalton Danby	episodes=1 episode, 2016 	
+character=Dr. Donna Stanhope	name=Ellora Patnaik	episodes=1 episode, 2016 	
+character=I.T. Expert	name=Joseph Motiki	episodes=1 episode, 2016 	
+character=Funeral Director	name=Paul De La Rosa	episodes=1 episode, 2016 	
+character=News Reporter 	name=Emma Jacobson-Sive	episodes=1 episode, 2016 	
+character=Medical Student 	name=Norman Owen	episodes=1 episode, 2016 	
+character=Katherine Altwyck	name=Sunnie McFadden	episodes=1 episode, 2016 	
+character=Moderator	name=David Rosser	episodes=1 episode, 2016 	
+character=Urgent Care Receptionist	name=Nicole Stamp	episodes=1 episode, 2016 	
+character=Alpha Male	name=Kevin Claydon	episodes=1 episode, 2016 	
+character=Boy Patron	name=Jacob Soley	episodes=1 episode, 2016 	
+character=Beat Cop 	name=Alex Spencer	episodes=1 episode, 2016 	
+character=Researcher	name=Richard Young	episodes=1 episode, 2016 	
+character=Teacher	name=Kimmy Choi	episodes=1 episode, 2016 	
+character=Administrator	name=Marcia Johnson	episodes=1 episode, 2016 	
+character=Cardiologist	name=Ronica Sajnani	episodes=1 episode, 2016 	
+character=Union Head	name=Jeff Christensen	episodes=1 episode, 2016 	
+character=Police Officer at Tunnel	name=Lisa Michelle Cornelius	episodes=1 episode, 2016 	
+character=Frat Boy 2	name=Chris LeBlanc	episodes=1 episode, 2016 	
+character=Medical Student 	name=Jim Armstrong	episodes=1 episode, 2016 	
+character=Crematory Employee	name=Matt Duncan	episodes=1 episode, 2016 	
+character=Young Sophie	name=Alexa Giamou	episodes=1 episode, 2016 	
+character=Female Mourner	name=Nora Sheehan	episodes=1 episode, 2016 	
+character=Frat Boy 3	name=Mike Stechyson	episodes=1 episode, 2016 	
+character=Drug Dealer	name=Miguel Anthony	episodes=1 episode, 2016 	
+character=Adolescent Sophie	name=Sofia Gaspar	episodes=1 episode, 2016 	
+character=Gray-Haired Mourner	name=John Corbett	episodes=1 episode, 2016 	
+character=Reporter	name=P. Rodney Barnes	episodes=1 episode, 2016 	
+character=News Pundit	name=Sam Kalilieh	episodes=1 episode, 2016 	
+character=Renee Childs	name=Kathy Maloney	episodes=1 episode, 2016 	
+character=On-Site Reporter 	name=Val Cole	episodes=1 episode, 2016 	
+character=On-Site Reporter 	name=Dwight Ireland	episodes=1 episode, 2016 	
+character=Brigid Martin	name=Lydia Monet	episodes=1 episode, 2016 	
+character=Head Campaign Staffer	name=Jake Raymond	episodes=1 episode, 2016 	
+character=Property Manager	name=Joel Chico	episodes=1 episode, 2016 	
+character=Child at Camp	name=Aimee Lenihan	episodes=2 episodes, 2016 	
+character=Child at Camp	name=Kylie Lenihan	episodes=2 episodes, 2016 	
+character=News Camera Operator	name=Matthew MacCallum	episodes=1 episode, 2016 	
+character=Young Teacher	name=Marissa Kate Wilson	episodes=1 episode, 2016 	
+character=Aquarium Tour Guide	name=John Jacob	episodes=1 episode, 2016 	
+character=Election Supporter	name=Sylvia Zuk	episodes=1 episode, 2016 	
+character=Mic Boom Operator	name=David S. Bookbinder	episodes=1 episode, 2016 	
+character=Audience Member	name=Rachel Holmes	episodes=1 episode, 2016 	
+character=Photographer	name=Marco Aguirre	episodes=1 episode, 2016 	

@@ -1,0 +1,20 @@
+# http://fitlayout.github.io/resource/art77 -> https://www.imdb.com/title/tt12682218/fullcredits/
+character=Mira	name=Jessica Chastain	episodes=5 episodes, 2021 	
+character=Jonathan	name=Oscar Isaac	episodes=5 episodes, 2021 	
+character=Ava	name=Sophia Kopera	episodes=3 episodes, 2021 	
+character=Kate	name=Nicole Beharie	episodes=1 episode, 2021 	
+character=Peter	name=Corey Stoll	episodes=1 episode, 2021 	
+character=Jonathan	name=Tovah Feldshuh	episodes=1 episode, 2021 	
+character=Mira	name=Michael Aloni	episodes=1 episode, 2021 	
+character=Danielle	name=Sunita Mani	episodes=1 episode, 2021 	
+character=Arye	name=Maury Ginsberg	episodes=1 episode, 2021 	
+character=Elisheva	name=Susan Pourfar	episodes=1 episode, 2021 	
+character=Dr. Varona	name=Shirley Rumierk	episodes=1 episode, 2021 	
+character=Jane	name=Daniella Rabbani	episodes=1 episode, 2021 	
+character=Ava Levy	name=Lily Jane	episodes=1 episode, 2021 	
+character=Waiter	name=Michael Glasner	episodes=1 episode, 2021 	
+character=Veronica	name=Anna Rust	episodes=1 episode, 2021 	
+character=Hagai Levi	name=Hagai Levi	episodes=1 episode, 2021 	
+character=Henry	name=Tre Ryder	episodes=1 episode, 2021 	
+character=Teen Girl	name=Gwyneth Anne nullTrumbore	episodes=1 episode, 2021 	
+character=Teen Girl	name=Gwyneth Anne 	episodes=1 episode, 2021 	

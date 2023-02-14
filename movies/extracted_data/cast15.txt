@@ -1,0 +1,199 @@
+# http://fitlayout.github.io/resource/art15 -> https://www.imdb.com/title/tt1442449/fullcredits/
+character=Crixus	name=Manu Bennett	episodes=33 episodes, 2010-2013 	
+character=Agron	name=Daniel Feuerriegel	episodes=26 episodes, 2010-2013 	
+character=Doctore	name=Peter Mensah	episodes=22 episodes, 2010-2013 	
+character=Lucretia	name=Lucy Lawless	episodes=23 episodes, 2010-2012 	
+character=Ashur	name=Nick E. Tarabay	episodes=21 episodes, 2010-2012 	
+character=Ilithyia	name=Viva Bianca	episodes=21 episodes, 2010-2012 	
+character=Spartacus	name=Liam McIntyre	episodes=20 episodes, 2012-2013 	
+character=Nasir	name=Pana Hema Taylor	episodes=19 episodes, 2012-2013 	
+character=Naevia	name=Cynthia Addai-Robinson	episodes=18 episodes, 2012-2013 	
+character=Gannicus	name=Dustin Clare	episodes=16 episodes, 2012-2013 	
+character=Donar	name=Heath Jones	episodes=17 episodes, 2012-2013 	
+character=Mira	name=Katrina Law	episodes=15 episodes, 2010-2012 	
+character=Saxa	name=Ellen Hollman	episodes=14 episodes, 2012-2013 	
+character=Lugo	name=Barry Duffield	episodes=14 episodes, 2012-2013 	
+character=Kraynos	name=Kelvin Taylor	episodes=7 episodes, 2012-2013 	
+character=Spartacus	name=Andy Whitfield	episodes=13 episodes, 2010 	
+character=Batiatus	name=John Hannah	episodes=13 episodes, 2010 	
+character=Glaber	name=Craig Parker	episodes=13 episodes, 2010-2012 	
+character=Naevia	name=Lesley-Ann Brandt	episodes=11 episodes, 2010 	
+character=Rhaskos	name=Ioane King	episodes=11 episodes, 2010-2012 	
+character=Crassus	name=Simon Merrells	episodes=10 episodes, 2013 	
+character=Varro	name=Jai Courtney	episodes=10 episodes, 2010 	
+character=Kore	name=Jenna Lind	episodes=10 episodes, 2013 	
+character=Tiberius Crassus	name=Christian Antidormi	episodes=10 episodes, 2013 	
+character=Laeta	name=Anna Hutchison	episodes=9 episodes, 2013 	
+character=Nemetes	name=Ditch Davey	episodes=9 episodes, 2012-2013 	
+character=Caesar	name=Todd Lasance	episodes=9 episodes, 2013 	
+character=Sibyl	name=Gwendoline Taylor	episodes=9 episodes, 2013 	
+character=Hamilcar	name=Siaosi Fonua	episodes=9 episodes, 2010 	
+character=Medicus	name=David Austin	episodes=9 episodes, 2010 	
+character=Solonius	name=Craig Walsh-Wrightson	episodes=8 episodes, 2010 	
+character=Salvius	name=Paul Glover	episodes=8 episodes, 2012 	
+character=Castus	name=Blessing Mokgohloa	episodes=8 episodes, 2013 	
+character=Commander Rufus	name=Roy Snow	episodes=7 episodes, 2013 	
+character=Sura	name=Erin Cummings	episodes=6 episodes, 2010-2012 	
+character=Barca	name=Antonio Te Maioha	episodes=6 episodes, 2010 	
+character=Pietros	name=Eka Darville	episodes=6 episodes, 2010 	
+character=Duro	name=Ande Cunningham	episodes=6 episodes, 2010 	
+character=Aurelia	name=Brooke Williams	episodes=6 episodes, 2010-2012 	
+character=Magistrate Gallienus	name=Timothy Raby	episodes=6 episodes, 2012 	
+character=Mercato	name=Greg Ward	episodes=6 episodes, 2010-2012 	
+character=Domitia	name=Janine Burchett	episodes=6 episodes, 2010 	
+character=Seppius	name=Tom Hobbs	episodes=6 episodes, 2012 	
+character=Gnaeus	name=Raicho Vasilev	episodes=6 episodes, 2010 	
+character=Varinius	name=Brett Tucker	episodes=5 episodes, 2012 	
+character=Senator Albinius	name=Kevin J. Wilson	episodes=5 episodes, 2010-2012 	
+character=Magistrate Calavius	name=John Bach	episodes=5 episodes, 2010 	
+character=Marcus	name=Luke Pegler	episodes=5 episodes, 2012 	
+character=Numerius	name=Lliam Powell	episodes=5 episodes, 2010 	
+character=Senator Metellus	name=Colin Moy	episodes=5 episodes, 2013 	
+character=Sanus	name=Anthony Ray Parker	episodes=5 episodes, 2013 	
+character=Brictius	name=Jason Lambert	episodes=5 episodes, 2013 	
+character=Pregnant Rebel	name=Sacha Stejko	episodes=5 episodes, 2013 	
+character=Cook	name=Campbell Cooley	episodes=1 episode, 2010-2012 	
+character=Lucius Caelius	name=Peter McCauley	episodes=4 episodes, 2012 	
+character=Aulus	name=Mark Mitchinson	episodes=4 episodes, 2010 	
+character=Heracleo	name=Vince Colosimo	episodes=4 episodes, 2013 	
+character=Sabinus	name=Aaron Jakubenko	episodes=4 episodes, 2013 	
+character=Hector	name=Tim Foley	episodes=4 episodes, 2010 	
+character=Liscus	name=Joseph Naufahu	episodes=4 episodes, 2012 	
+character=Chadara	name=Bonnie Sveen	episodes=4 episodes, 2012 	
+character=Belesa	name=Luna Rioumina	episodes=4 episodes, 2013 	
+character=Acer	name=Alex Way	episodes=4 episodes, 2012 	
+character=Fortis	name=Brian Manthenga	episodes=4 episodes, 2012 	
+character=Ulpianus	name=Charlie Bleakley	episodes=4 episodes, 2013 	
+character=Ovillus	name=Stephen Papps	episodes=4 episodes, 2012 	
+character=Vitus	name=Francis Mossman	episodes=1 episode, 2012 	
+character=Kerza	name=Karlos Drinkwater	episodes=3 episodes, 2010 	
+character=Ovidius	name=Matthew Chamberlain	episodes=3 episodes, 2010 	
+character=Licinia	name=Brooke Harman	episodes=3 episodes, 2010 	
+character=Caecilia	name=Tania Nolan	episodes=3 episodes, 2010 	
+character=Aemilia	name=Mia Pistorius	episodes=3 episodes, 2010 	
+character=Iovis	name=Joshua Randall	episodes=3 episodes, 2010-2013 	
+character=Marcia	name=Delaney Tabron	episodes=3 episodes, 2012 	
+character=Guard	name=Matthew J. Saville	episodes=2 episodes, 2010 	
+character=Opelia	name=Tineke Robson	episodes=1 episode, 2013 	
+character=Marcellus	name=Matt Gillanders	episodes=2 episodes, 2010 	
+character=Ramel	name=Jon Brazier	episodes=2 episodes, 2010 	
+character=Capuan Man	name=John Way	episodes=2 episodes, 2010 	
+character=Vesper	name=Michael Morris	episodes=2 episodes, 2010 	
+character=Tertulla	name=Katherine Kennard	episodes=2 episodes, 2013 	
+character=Slave Trader	name=Stephen Butterworth	episodes=2 episodes, 2010-2012 	
+character=Diotimos	name=Kelson Henderson	episodes=2 episodes, 2013 	
+character=Publius	name=Harry Standbridge	episodes=2 episodes, 2013 	
+character=Pleuratos	name=Joel Herbert	episodes=2 episodes, 2013 	
+character=Canthara	name=Ayse Tezel	episodes=2 episodes, 2013 	
+character=Attius	name=Cohen Holloway	episodes=2 episodes, 2013 	
+character=Ludus Guard	name=Tim Cronin	episodes=2 episodes, 2010 	
+character=Tarsus	name=Aaron Jackson	episodes=2 episodes, 2012 	
+character=Janus	name=Marlow Robinson	episodes=2 episodes, 2010 	
+character=Cossutius	name=Jason Hood	episodes=2 episodes, 2012 	
+character=City Guard	name=Sam Bunkall	episodes=2 episodes, 2013 	
+character=Drenis	name=Kyle Rowling	episodes=1 episode, 2010 	
+character=Byzo	name=John Rawls	episodes=1 episode, 2010 	
+character=Titus Batiatus	name=Jeffrey Thomas	episodes=1 episode, 2012 	
+character=Tribune	name=Aron Eastwood	episodes=1 episode, 2010 	
+character=Anubis	name=Marcus Johnson	episodes=1 episode, 2010 	
+character=Numerius	name=Liam Powell	episodes=1 episode, 2010 	
+character=Marcus	name=Kyle Pryor	episodes=1 episode, 2010 	
+character=Segovax	name=Mike Edward	episodes=1 episode, 2010 	
+character=Cossinius	name=John Wraight	episodes=1 episode, 2013 	
+character=Priestess	name=Catherine Boniface	episodes=1 episode, 2010 	
+character=Vibius	name=Robert McCulley	episodes=1 episode, 2010 	
+character=Furius	name=Jared Turner	episodes=1 episode, 2013 	
+character=Theokoles	name=Reuben de Jong	episodes=1 episode, 2010 	
+character=Sextus	name=Andrew Laing	episodes=1 episode, 2010 	
+character=Gambler	name=Samuel E. Shore	episodes=1 episode, 2010 	
+character=Harudes	name=Carl Grace	episodes=1 episode, 2012 	
+character=Pompey	name=Joel Tobeck	episodes=1 episode, 2013 	
+character=Hilarus	name=Richard Norton	episodes=1 episode, 2013 	
+character=Dour Soldier	name=Will Hall	episodes=1 episode, 2013 	
+character=Messenger	name=Francis Mountjoy	episodes=1 episode, 2010 	
+character=Guard	name=Scott Polkinghorne	episodes=1 episode, 2010 	
+character=Ovidius Son	name=Dylan Hopkins	episodes=1 episode, 2010 	
+character=Pompeii Magistrate	name=Phil Grieve	episodes=1 episode, 2010 	
+character=Bat Guard	name=Owain Pennington	episodes=1 episode, 2010 	
+character=Sedullus	name=Conan Stevens	episodes=1 episode, 2012 	
+character=Cart Driver	name=Jonathan Costelloe	episodes=1 episode, 2010 	
+character=Young Oenomaus	name=Tapiwa Soropa	episodes=1 episode, 2012 	
+character=Messenger	name=Bryce Langston	episodes=1 episode, 2013 	
+character=Wounded Soldier	name=Lachlan Parkinson	episodes=1 episode, 2013 	
+character=Recruit 	name=Steven Smith	episodes=1 episode, 2010 	
+character=Lead Hunter	name=Rowan Bettjeman	episodes=1 episode, 2012 	
+character=Dominus	name=Mark Ferguson	episodes=1 episode, 2012 	
+character=Herius	name=David Stott	episodes=1 episode, 2012 	
+character=Adal	name=Arlo Gibson	episodes=1 episode, 2013 	
+character=Roman Guard	name=Ross Brannigan	episodes=1 episode, 2012 	
+character=Drunkard	name=John Davies	episodes=1 episode, 2012 	
+character=Controller	name=Monish Anand	episodes=1 episode, 2012 	
+character=Mummius	name=Adam Gardiner	episodes=1 episode, 2013 	
+character=Veteran Soldier	name=Patrick Hales	episodes=1 episode, 2013 	
+character=Ennius	name=Pete Muller	episodes=1 episode, 2013 	
+character=Pit Boss	name=Daniel Cleary	episodes=1 episode, 2012 	
+character=Young Male Slave	name=Elliot Christensen-Yule	episodes=1 episode, 2012 	
+character=Male House Slave	name=Ciarin Smith	episodes=1 episode, 2012 	
+character=Cassius	name=Jordan Mooney	episodes=1 episode, 2013 	
+character=Laurus	name=Andrew Grainger	episodes=1 episode, 2013 	
+character=Lead Soldier	name=Mark Huston	episodes=1 episode, 2013 	
+character=Slave Trader	name=Stephen Ure	episodes=1 episode, 2012 	
+character=Scar Merc	name=Bede Skinner	episodes=1 episode, 2012 	
+character=Hell Beast	name=Joel Oliver	episodes=1 episode, 2012 	
+character=Man in Crowd	name=Preston O	episodes=1 episode, 2012 	
+character=Man in Crowd	name=Brien	episodes=1 episode, 2012 	
+character=Cossinius Tribune	name=Matt Gibbons	episodes=1 episode, 2013 	
+character=Sleazy Guy	name=Dallas Barnett	episodes=1 episode, 2012 	
+character=Point Soldier	name=Wade Jackson	episodes=1 episode, 2012 	
+character=Ferox	name=Karlos Wrennall	episodes=1 episode, 2012 	
+character=Arms Merchant	name=Phil Peleton	episodes=1 episode, 2013 	
+character=Masonius	name=Akotene Chanoine	episodes=1 episode, 2012 	
+character=Portly Woman	name=Sarah Jane Wright	episodes=1 episode, 2012 	
+character=Foreman	name=John Dybvig	episodes=1 episode, 2012 	
+character=Guard 	name=Norman McFadyen	episodes=1 episode, 2012 	
+character=Blond Guard	name=Leonardo Afon	episodes=1 episode, 2013 	
+character=Slaver	name=Michael Chiappa	episodes=1 episode, 2012 	
+character=Male Slave	name=Shadon Meredith	episodes=1 episode, 2013 	
+character=Roman Mother	name=Colleen Davis	episodes=1 episode, 2013 	
+character=Guard	name=Sam Snedden	episodes=1 episode, 2013 	
+character=The Veteran	name=Shane Blakey	episodes=12 episodes, 2010-2013 	
+character=Slave	name=Chris Petrovski	episodes=8 episodes, 2010 	
+character=Rebel	name=Rosalie Button	episodes=8 episodes, 2012-2013 	
+character=Arena Crowd Member	name=Mayen Mehta	episodes=7 episodes, 2010 	
+character=Rebel	name=Ashlee Fidow	episodes=6 episodes, 2013 	
+character=Rabanus	name=Andrew Stehlin	episodes=5 episodes, 2010-2013 	
+character=Rebel	name=Tyrone Bell	episodes=5 episodes, 2012-2013 	
+character=The Egyptian	name=Stephen Dunlevy	episodes=5 episodes, 2012 	
+character=Amana	name=Nicola Simpson	episodes=5 episodes, 2012 	
+character=Rebel	name=Lauren Shaw	episodes=5 episodes, 2013 	
+character=Timocles	name=Tim Eccles	episodes=5 episodes, 2013 	
+character=Totus	name=James Wells	episodes=4 episodes, 2012-2013 	
+character=Sophus	name=Trevor Jones	episodes=4 episodes, 2012 	
+character=Ulpianus	name=Anita Crisinel	episodes=4 episodes, 2013 	
+character=Wife	name=Anita Crisinel	episodes=4 episodes, 2013 	
+character=Leviticus	name=Levi Holley	episodes=3 episodes, 2010-2012 	
+character=Pollux	name=Graham Vincent	episodes=3 episodes, 2013 	
+character=Retiarius Gladiator	name=Adrian McGaw	episodes=2 episodes, 2010 	
+character=Fabia	name=Sarah Hart	episodes=2 episodes, 2012-2013 	
+character=Fugitive Slave	name=Marcus Goldfinch	episodes=2 episodes, 2012 	
+character=Rebel	name=Rachel King	episodes=2 episodes, 2013 	
+character=Bath Tub Girl	name=Laura Surrich	episodes=1 episode, 2010 	
+character=Rebel	name=Jacob Tomuri	episodes=1 episode, 2010 	
+character=Guard	name=Beau Harris	episodes=1 episode, 2010 	
+character=Glaber	name=Beau Harris	episodes=1 episode, 2010 	
+character=Roman Messenger	name=Michael Hurst	episodes=1 episode, 2012 	
+character=Upper Class Lady	name=Odette Warder	episodes=1 episode, 2012 	
+character=Helena	name=Bailey Smith	episodes=1 episode, 2012 	
+character=Child Victim	name=Cameron Hurst	episodes=1 episode, 2012 	
+character=Danus	name=Shaughan Campbell	episodes=1 episode, 2012 	
+character=Action Fugitive 3	name=Pablo Segura	episodes=1 episode, 2012 	
+character=Verenda	name=Vanessa Cater	episodes=2 episodes, 2013 	
+character=Rebel	name=Genevieve Aitken	episodes=1 episode, 2013 	
+character=Drunken Rebel	name=Mike Markoff	episodes=1 episode, 2013 	
+character=Ganicus Lover	name=Lucy Li	episodes=1 episode, 2013 	
+character=Rebel	name=Hannah Tasker-Poland	episodes=1 episode, 2013 	
+character=Rebel	name=Gemma Weston	episodes=1 episode, 2013 	
+character=Roman	name=Stephen Grey	episodes=1 episode, 2013 	
+character=Rebel	name=Crystal Pratt	episodes=1 episode, 2013 	
+character=Slave	name=Boianna	episodes=1 episode, 2013 	
+character=Rebel	name=Laura Matthews	episodes=1 episode, 2013 	

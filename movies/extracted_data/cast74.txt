@@ -1,0 +1,1133 @@
+# http://fitlayout.github.io/resource/art74 -> https://www.imdb.com/title/tt0402711/fullcredits/
+character=Alan Shore	name=James Spader	episodes=101 episodes, 2004-2008 	
+character=Denny Crane	name=William Shatner	episodes=101 episodes, 2004-2008 	
+character=Shirley Schmidt	name=Candice Bergen	episodes=91 episodes, 2005-2008 	
+character=Paul Lewiston	name=Rene Auberjonois	episodes=71 episodes, 2004-2008 	
+character=Brad Chase	name=Mark Valley	episodes=70 episodes, 2004-2007 	
+character=Denise Bauer	name=Julie Bowen	episodes=52 episodes, 2005-2008 	
+character=Jerry Espenson	name=Christian Clemenson	episodes=50 episodes, 2005-2008 	
+character=Clarence Bell	name=Gary Anthony Williams	episodes=36 episodes, 2006-2008 	
+character=Carl Sack	name=John Larroquette	episodes=33 episodes, 2007-2008 	
+character=Katie Lloyd	name=Tara Summers	episodes=33 episodes, 2007-2008 	
+character=Judge Clark Brown	name=Henry Gibson	episodes=24 episodes, 2004-2008 	
+character=Claire Simms	name=Constance Zimmer	episodes=23 episodes, 2006-2007 	
+character=Lori Colson	name=Monica Potter	episodes=21 episodes, 2004-2005 	
+character=Tara Wilson	name=Rhona Mitra	episodes=20 episodes, 2004-2005 	
+character=Lorraine Weller	name=Saffron Burrows	episodes=20 episodes, 2007-2008 	
+character=Bethany Horowitz	name=Meredith Eaton	episodes=18 episodes, 2006-2008 	
+character=Whitney Rome	name=Taraji P. Henson	episodes=17 episodes, 2007-2008 	
+character=Garrett Wells	name=Justin Mentell	episodes=16 episodes, 2005-2006 	
+character=Sara Holt	name=Ryan Michelle Bathe	episodes=16 episodes, 2005-2006 	
+character=Catherine Piper	name=Betty White	episodes=16 episodes, 2005-2008 	
+character=Jeffrey Coho	name=Craig Bierko	episodes=15 episodes, 2006-2007 	
+character=Sally Heep	name=Lake Bell	episodes=14 episodes, 2004-2006 	
+character=Gracie Jane	name=Jill Brennan	episodes=11 episodes, 2005-2007 	
+character=Melissa Hughes	name=Marisa Coughlan	episodes=12 episodes, 2005-2006 	
+character=Judge Robert Sanders	name=Shelley Berman	episodes=11 episodes, 2006-2008 	
+character=Judge Paul Resnick	name=Michael Ensign	episodes=10 episodes, 2004-2008 	
+character=Judge Victoria Peyton	name=Roma Maffia	episodes=9 episodes, 2007-2008 	
+character=A.D.A. Frank Ginsberg	name=Currie Graham	episodes=9 episodes, 2005-2008 	
+character=Clerk	name=Takayo Fischer	episodes=9 episodes, 2005-2008 	
+character=Judge Willard Reese	name=Ron Canada	episodes=8 episodes, 2006-2008 	
+character=Lincoln Meyer	name=David Dean Bottrell	episodes=8 episodes, 2006 	
+character=Judge Harvey Cooper	name=Anthony Heald	episodes=8 episodes, 2005-2008 	
+character=Attorney Adam Jovanka	name=Mark L. Taylor	episodes=7 episodes, 2006-2008 	
+character=Judge Brian Hooper	name=Armin Shimerman	episodes=7 episodes, 2006 	
+character=Judge Gloria Weldon	name=Grady	episodes=7 episodes, 2007 	
+character=Judge Gloria Weldon	name=Gail O	episodes=7 episodes, 2007 	
+character=Reporter	name=Leyna Nguyen	episodes=7 episodes, 2005-2008 	
+character=Daniel Post	name=Michael J. Fox	episodes=6 episodes, 2006 	
+character=Attorney Melvin Palmer	name=Christopher Rich	episodes=6 episodes, 2005-2008 	
+character=Bernard Ferrion	name=Leslie Jordan	episodes=6 episodes, 2005 	
+character=Judge Byron Fudd	name=Chuck McCann	episodes=6 episodes, 2007-2008 	
+character=Detective John Stephenson	name=John Thaddeus	episodes=6 episodes, 2005-2008 	
+character=Anchorman	name=Glen Walker	episodes=6 episodes, 2004-2007 	
+character=Bailiff	name=Kurt Scholler	episodes=6 episodes, 2006-2007 	
+character=Judge Gordon Kolodny	name=Lou Beatty Jr.	episodes=5 episodes, 2004-2008 	
+character=Clerk	name=Laura Henry	episodes=6 episodes, 2004-2007 	
+character=Receptionist	name=Rebecca Lin	episodes=5 episodes, 2004-2006 	
+character=Receptionist	name=Konstantina Mallios	episodes=2 episodes, 2005-2006 	
+character=Chelina Hall	name=Kerry Washington	episodes=5 episodes, 2005-2006 	
+character=A.D.A. John Lennox	name=Don McManus	episodes=5 episodes, 2004-2008 	
+character=Scott Little	name=Ashton Holmes	episodes=5 episodes, 2006 	
+character=A.D.A. Christopher Palmer	name=William Russ	episodes=5 episodes, 2005-2008 	
+character=Judge Jamie Atkinson	name=Francesca P. Roberts	episodes=5 episodes, 2005-2008 	
+character=Dr. Zachary Simon	name=Curtis Armstrong	episodes=5 episodes, 2006 	
+character=Beverly Bridge	name=Joanna Cassidy	episodes=5 episodes, 2006 	
+character=Bella Horowitz	name=Delta Burke	episodes=5 episodes, 2006-2007 	
+character=Bailiff	name=Mark Edward Smith	episodes=5 episodes, 2005-2008 	
+character=Barbara Little	name=Katey Sagal	episodes=5 episodes, 2006 	
+character=A.D.A. Jonathan Winant	name=Tyler Labine	episodes=4 episodes, 2006 	
+character=Walter Seymore	name=Steven Anderson	episodes=4 episodes, 2004-2008 	
+character=Clerk	name=Zylan Brooks	episodes=5 episodes, 2005-2006 	
+character=Ivan Tiggs	name=Tom Selleck	episodes=4 episodes, 2006 	
+character=Marlene Stanger	name=Parker Posey	episodes=4 episodes, 2006 	
+character=Rachel Lewiston	name=Jayne Brook	episodes=4 episodes, 2006 	
+character=Edwin Poole	name=Larry Miller	episodes=4 episodes, 2004-2008 	
+character=Attorney Morrison	name=Andy Umberger	episodes=4 episodes, 2005-2008 	
+character=Emma Path	name=Pamela Adlon	episodes=4 episodes, 2007-2008 	
+character=Leigh Swift	name=Mary Gross	episodes=4 episodes, 2007-2008 	
+character=A.D.A. Holly Raines	name=Ana Ortiz	episodes=4 episodes, 2006 	
+character=Missy Tiggs	name=Meredith Patterson	episodes=4 episodes, 2006-2008 	
+character=Judge Patrice Webb	name=Debra Mooney	episodes=4 episodes, 2007-2008 	
+character=Joanna Monroe	name=Jane Lynch	episodes=4 episodes, 2006-2008 	
+character=Judge Peter Harding	name=Richard Portnow	episodes=4 episodes, 2004-2006 	
+character=Detective Frank Richmond	name=Vic Polizos	episodes=4 episodes, 2005-2006 	
+character=Clerk	name=Nicole J. Butler	episodes=4 episodes, 2007-2008 	
+character=Bailiff	name=Marcus Folmar	episodes=4 episodes, 2006-2008 	
+character=Clerk	name=Karen Lew	episodes=4 episodes, 2007-2008 	
+character=Attorney Samantha Fried	name=Erica Gimpel	episodes=3 episodes, 2006-2007 	
+character=Sam Halpern	name=Eric Payne	episodes=3 episodes, 2004-2006 	
+character=Reporter	name=Ted Garcia	episodes=4 episodes, 2006-2008 	
+character=Judge Dale Melman	name=Richard V. Licata	episodes=4 episodes, 2005-2006 	
+character=Female Server	name=Deena Dill	episodes=4 episodes, 2006 	
+character=Donny Crane	name=Freddie Prinze Jr.	episodes=3 episodes, 2004-2006 	
+character=Renee Winger	name=Missi Pyle	episodes=3 episodes, 2006-2008 	
+character=Judge Robert Thompson	name=Howard Hesseman	episodes=3 episodes, 2006-2007 	
+character=Vanessa Walker	name=Nia Long	episodes=3 episodes, 2007 	
+character=Joseph Washington	name=Craig muMs Grant	episodes=3 episodes, 2007 	
+character=Nora Jacobs	name=Keefe	episodes=3 episodes, 2004-2005 	
+character=Nora Jacobs	name=Jodi Lyn O	episodes=3 episodes, 2004-2005 	
+character=A.D.A. Stewart Betts	name=Peter Onorati	episodes=3 episodes, 2007-2008 	
+character=Hyung Lee	name=Ming Lo	episodes=3 episodes, 2004-2008 	
+character=Judge Harry Hingham	name=H. Richard Greene	episodes=3 episodes, 2004-2005 	
+character=Dana Strickland	name=Rachelle Lefevre	episodes=3 episodes, 2008 	
+character=Marshall Kennedy	name=Jim Jansen	episodes=3 episodes, 2007-2008 	
+character=Attorney Michael Eaves	name=Mark Derwin	episodes=3 episodes, 2005-2007 	
+character=A.D.A. Otto Beedle	name=Patrick Breen	episodes=3 episodes, 2006-2007 	
+character=Justice Antonin Scalia	name=Jack Shearer	episodes=3 episodes, 2004-2008 	
+character=Judge William Howe	name=Frank Birney	episodes=3 episodes, 2004-2007 	
+character=Reverend Donald Diddum	name=Kurt Fuller	episodes=3 episodes, 2005 	
+character=Tim Bauer	name=Shawn Christian	episodes=3 episodes, 2005 	
+character=Attorney Michael Roker	name=Pat Skipper	episodes=3 episodes, 2005-2008 	
+character=A.D.A. Warren Peters	name=Patrick Renna	episodes=3 episodes, 2005-2007 	
+character=D.A. Valerie Murrow	name=Lisa Kaminir	episodes=3 episodes, 2005 	
+character=A.D.A. Douglas Kupfer	name=Adam Arkin	episodes=3 episodes, 2006 	
+character=Judge Leslie Bishop	name=Patricia Belcher	episodes=3 episodes, 2004-2007 	
+character=Officer Carl Ralston	name=Randy Thompson	episodes=3 episodes, 2006-2007 	
+character=Michael Schiller	name=Ethan Phillips	episodes=3 episodes, 2006 	
+character=Judge Blake Winters	name=Thom Gossom Jr.	episodes=3 episodes, 2005-2006 	
+character=Clifford Cabot	name=Ed Begley Jr.	episodes=3 episodes, 2006-2007 	
+character=Judge Nora Lang	name=Hildy Brooks	episodes=3 episodes, 2004-2007 	
+character=Judge Stephen Bickel	name=Christopher Carroll	episodes=3 episodes, 2004-2006 	
+character=Annie	name=Jenjer Vick Robin	episodes=3 episodes, 2006-2007 	
+character=Newscaster	name=Phillip Palmer	episodes=3 episodes, 2005-2008 	
+character=Officer Jones	name=Jack Impellizzeri	episodes=3 episodes, 2005-2007 	
+character=Judge Rose Olsheim	name=Mary Boucher	episodes=3 episodes, 2004-2006 	
+character=A.D.A. Duncan Jones	name=Jason Blicker	episodes=2 episodes, 2005-2006 	
+character=Dr. Frank Wessmer	name=Paul Cassell	episodes=2 episodes, 2007-2008 	
+character=Clerk	name=Philip Weyland	episodes=2 episodes, 2006-2008 	
+character=Detective Wade Spindle	name=Nigel Gibbs	episodes=2 episodes, 2004-2006 	
+character=Fiona	name=Ashley Rios	episodes=3 episodes, 2006 	
+character=Court Reporter	name=David Mehl	episodes=1 episode, 2006 	
+character=Fiona	name=April Rios	episodes=3 episodes, 2006 	
+character=Shocked Woman	name=Rosemary Garris	episodes=1 episode, 2007 	
+character=Bartender	name=Rene Napoli	episodes=3 episodes, 2008 	
+character=Courtney Reese	name=Jeri Ryan	episodes=2 episodes, 2006 	
+character=Attorney Jonathan Weiner	name=Kevin Dunn	episodes=2 episodes, 2006-2007 	
+character=John Sciarra	name=Ray Abruzzo	episodes=2 episodes, 2007-2008 	
+character=Annabelle Carruthers	name=Loretta Devine	episodes=2 episodes, 2006-2007 	
+character=Penelope Kimball	name=Bess Armstrong	episodes=2 episodes, 2008 	
+character=A.D.A. Nicholas Preston	name=Robert Joy	episodes=2 episodes, 2004-2005 	
+character=Cassie	name=Tamara Feldman	episodes=2 episodes, 2005 	
+character=Marlena Hoffman	name=Allison Miller	episodes=2 episodes, 2007-2008 	
+character=A.A.G. Jeremy Hollis	name=Tom Amandes	episodes=2 episodes, 2008 	
+character=Attorney Daniel Gellman	name=David Starzyk	episodes=2 episodes, 2004-2005 	
+character=Erica Dolenz	name=Laura Leighton	episodes=2 episodes, 2006 	
+character=Irma Levine	name=Lisa Vidal	episodes=2 episodes, 2006 	
+character=A.D.A. George McDougal	name=Mark Moses	episodes=2 episodes, 2007-2008 	
+character=Judge Dale Wallace	name=Thomas Kopache	episodes=2 episodes, 2004 	
+character=Ande Mkeba	name=Allan Louis	episodes=2 episodes, 2006 	
+character=Dr. Stanley Rivers	name=Obba Babatundé	episodes=2 episodes, 2007 	
+character=Phoebe Prentice	name=Ally Walker	episodes=2 episodes, 2008 	
+character=Zhu Chang	name=Raymond Ma	episodes=2 episodes, 2008 	
+character=Malcolm Holmes	name=Rupert Everett	episodes=2 episodes, 2005 	
+character=Beth Guttman	name=Lindsay Frost	episodes=2 episodes, 2006 	
+character=Attorney Cynthia Rhodes	name=Nora Dunn	episodes=2 episodes, 2007-2008 	
+character=Andrea Michele	name=Alison La Placa	episodes=2 episodes, 2008 	
+character=D.A. Mary Ann Huff	name=Christine Tucci	episodes=2 episodes, 2004-2007 	
+character=Judge Isabel Hernandez	name=Anne Betancourt	episodes=2 episodes, 2004-2006 	
+character=U.S. Attorney Chris Randolph	name=Zach Grenier	episodes=2 episodes, 2005-2007 	
+character=Father Michael Ryan	name=Richard Fancy	episodes=2 episodes, 2005 	
+character=Dr. Malcolm Freemont	name=Victor McCay	episodes=2 episodes, 2005-2007 	
+character=Kelly Nolan	name=Heather Locklear	episodes=2 episodes, 2005 	
+character=Hannah Guttman	name=Emily Montague	episodes=2 episodes, 2006 	
+character=Doris Thumper	name=Yvette Nicole Brown	episodes=2 episodes, 2007 	
+character=Chief Justice Roberts	name=John Posey	episodes=2 episodes, 2008 	
+character=A.D.A. George Martin	name=Karl T. Wright	episodes=2 episodes, 2004-2007 	
+character=D.A. Casey Mathias	name=David Burke	episodes=2 episodes, 2005-2006 	
+character=A.D.A. Joe Isaacs	name=Jere Burns	episodes=2 episodes, 2006-2008 	
+character=Sean Wilkes	name=Cameron Daddo	episodes=2 episodes, 2006 	
+character=Adams	name=Pamela Dunlap	episodes=2 episodes, 2008 	
+character=Dr. Herbert Waylon	name=Aaron Lustig	episodes=2 episodes, 2004-2008 	
+character=Candy Springtime	name=Robin Riker	episodes=2 episodes, 2006 	
+character=A.D.A. Oliver Goldberg	name=Allan Wasserman	episodes=2 episodes, 2004-2006 	
+character=Helena Perez	name=Dianna Miranda	episodes=2 episodes, 2005 	
+character=Attorney Shelley Ford	name=Christine Dunford	episodes=2 episodes, 2006-2007 	
+character=Judge Floyd Hurwitz	name=Lawrence Pressman	episodes=2 episodes, 2007-2008 	
+character=Justice Samuel Alito	name=Vito D	episodes=2 episodes, 2008 	
+character=Justice Samuel Alito	name=Ambrosio	episodes=2 episodes, 2008 	
+character=George Keene	name=Marshall Manesh	episodes=2 episodes, 2004-2006 	
+character=Detective Sean Wilkins	name=Billy Mayo	episodes=2 episodes, 2005-2007 	
+character=D.A. Bret Haber	name=Michael Wiseman	episodes=2 episodes, 2005-2007 	
+character=D.A. Scott Berger	name=Marc Vann	episodes=2 episodes, 2005-2006 	
+character=Dan Rice	name=Steve Valentine	episodes=2 episodes, 2006 	
+character=Sister Catherine	name=Lauri Johnson	episodes=2 episodes, 2007 	
+character=Wade Mathis	name=James Rebhorn	episodes=2 episodes, 2008 	
+character=A.D.A. Todd Milken	name=Gregory Itzin	episodes=2 episodes, 2005 	
+character=Attorney John Hoberg	name=Kelly Connell	episodes=2 episodes, 2006 	
+character=Christine Pauley	name=Elizabeth Mitchell	episodes=2 episodes, 2004 	
+character=Miguel Obisbo	name=Rolando Molina	episodes=2 episodes, 2007 	
+character=Judge Katherine Taylor	name=Lorna Raver	episodes=2 episodes, 2004-2006 	
+character=Reverend Al Sharpton	name=Al Sharpton	episodes=2 episodes, 2004 	
+character=Barry Goal	name=Robert Wagner	episodes=2 episodes, 2006 	
+character=Judge	name=Anthony S. Johnson	episodes=2 episodes, 2004 	
+character=Clerk 	name=Brad Wilson	episodes=2 episodes, 2005-2007 	
+character=Dr. Anyar Marks	name=Jesse D. Goins	episodes=2 episodes, 2005-2006 	
+character=Detective Willet	name=Rhomeyn Johnson	episodes=2 episodes, 2005 	
+character=Officer Brian Whistler	name=Michael Patrick McGill	episodes=2 episodes, 2007 	
+character=Mary	name=Laura Kai Chen	episodes=2 episodes, 2007 	
+character=Nancy Wilding	name=Khali Macintyre	episodes=2 episodes, 2007 	
+character=Attorney Pepper Minkin	name=Paul Schackman	episodes=2 episodes, 2004-2008 	
+character=Detective James Jacobs	name=Dennis Cockrum	episodes=2 episodes, 2004-2006 	
+character=Atty. Tompkins	name=Helen Eigenberg	episodes=2 episodes, 2004-2005 	
+character=A.D.A. Paul Smithie	name=Joe Conti	episodes=2 episodes, 2006-2008 	
+character=Justice Ginsburg	name=Roz Witt	episodes=2 episodes, 2008 	
+character=Justice Breyer	name=Stu Levin	episodes=2 episodes, 2008 	
+character=Dr. Mahoney	name=Tom Knickerbocker	episodes=2 episodes, 2004-2007 	
+character=Tito Perez	name=Aramis Knight	episodes=2 episodes, 2005 	
+character=Patrice Kelly	name=Mare Winningham	episodes=2 episodes, 2007 	
+character=Frances Stadler	name=Ellen Crawford	episodes=2 episodes, 2005 	
+character=Judge James Billmeyer	name=Ray Laska	episodes=2 episodes, 2005 	
+character=Attorney Braxton Mason	name=David Clennon	episodes=2 episodes, 2004-2008 	
+character=Justice Kennedy	name=Walter Addison	episodes=2 episodes, 2008 	
+character=Rick Guttman	name=Marty Lodge	episodes=2 episodes, 2006 	
+character=Justice Thomas	name=Lee Duncan	episodes=2 episodes, 2008 	
+character=Foreman	name=Ted Lyde	episodes=2 episodes, 2006 	
+character=Clerk	name=Heidi Heller	episodes=2 episodes, 2004-2007 	
+character=Attorney Cone	name=Ron Ostrow	episodes=2 episodes, 2005-2007 	
+character=Marshall of the Court	name=Pamela Shaddock	episodes=2 episodes, 2008 	
+character=Newscaster	name=Diane Kim	episodes=2 episodes, 2005 	
+character=Bellows	name=Steve Seagren	episodes=2 episodes, 2004-2007 	
+character=Officer James	name=Barry Sigismondi	episodes=2 episodes, 2005-2007 	
+character=Jacqueline Ross	name=J.J. Boone	episodes=2 episodes, 2005-2008 	
+character=M.E. Simmons	name=Craig Barnett	episodes=2 episodes, 2007-2008 	
+character=Clerk	name=Mary Elizabeth Barrett	episodes=2 episodes, 2007 	
+character=Jerry Austin	name=John Michael Higgins	episodes=1 episode, 2004 	
+character=Dr. Alan Christie	name=Peter Gray Lewis	episodes=1 episode, 2008 	
+character=Crane	name=Nicole Bilderback	episodes=1 episode, 2004 	
+character=Secretary	name=Nicole Bilderback	episodes=1 episode, 2004 	
+character=Dr. Timothy Wood	name=Rob Brownstein	episodes=1 episode, 2007 	
+character=Helen Poole	name=Anita Finlay	episodes=1 episode, 2004 	
+character=Atty. Smith	name=Kevin Cooney	episodes=1 episode, 2004-2008 	
+character=Dr. George Murrow	name=Jim Ortlieb	episodes=1 episode, 2006 	
+character=Foreman	name=Marques Johnson	episodes=1 episode, 2008 	
+character=Judge Matsumura	name=Clyde Kusatsu	episodes=2 episodes, 2006 	
+character=Foreman	name=Bob Rumnock	episodes=1 episode, 2005 	
+character=Judge Isabel Fisher	name=Jenifer Lewis	episodes=2 episodes, 2007-2008 	
+character=Security Guard	name=Derrick L. McMillon	episodes=1 episode, 2004-2005 	
+character=Dr. David Cannon	name=Michael Kostroff	episodes=1 episode, 2005-2006 	
+character=Detective	name=Blair Bess	episodes=2 episodes, 2004-2006 	
+character=Attorney Shelby Morris	name=Ellen Bry	episodes=1 episode, 2006 	
+character=Bailiff	name=C. Stephen Browder	episodes=1 episode, 2007 	
+character=Foreman	name=Marco Martinez	episodes=2 episodes, 2006 	
+character=Reporter	name=Sean Blodgett	episodes=1 episode, 2006 	
+character=Clerk	name=Tim McFadyen	episodes=1 episode, 2006-2008 	
+character=Chinese Businessman 	name=Ping Wu	episodes=2 episodes, 2008 	
+character=Referee Jack	name=Damien Leake	episodes=1 episode, 2004-2006 	
+character=Chinese Businessman 	name=Joey Yu	episodes=2 episodes, 2008 	
+character=Chinese Businessman 	name=Peter Kim	episodes=2 episodes, 2008 	
+character=Chinese Businessman 	name=Ewan Chung	episodes=2 episodes, 2008 	
+character=Joel Landson	name=Peter Breitmayer	episodes=2 episodes, 2006 	
+character=Michael Reisz	name=Kevin Isola	episodes=1 episode, 2006 	
+character=Bailiff	name=David Pearl	episodes=1 episode, 2007 	
+character=Mock Justice Souter	name=Bill Blair	episodes=2 episodes, 2008 	
+character=Lawyer	name=David Cohen	episodes=1 episode, 2008 	
+character=Jack Fleming	name=Brian Kerwin	episodes=1 episode, 2004 	
+character=Dr. Amanda Gerard	name=Gina Ravera	episodes=1 episode, 2004 	
+character=A.D.A. John Shubert	name=Rocky Carroll	episodes=1 episode, 2004 	
+character=Joan Rubin	name=Nicole Sullivan	episodes=1 episode, 2006 	
+character=A.D.A. Richard Kelton	name=Steven Eckholdt	episodes=1 episode, 2006 	
+character=Ming Wang Shu	name=Ming-Na Wen	episodes=1 episode, 2008 	
+character=Judge Judy Beacon	name=Brenda Strong	episodes=1 episode, 2008 	
+character=Martha Headly	name=Cheri Oteri	episodes=1 episode, 2008 	
+character=Byron Kaneb	name=Dean Norris	episodes=1 episode, 2004 	
+character=Dr. Allen Konigsberg	name=George Newbern	episodes=1 episode, 2004 	
+character=Sarah Berman	name=Dey Young	episodes=1 episode, 2004 	
+character=Susan May	name=Megan Ward	episodes=1 episode, 2004 	
+character=Warren Litch	name=Jeremiah Birkett	episodes=1 episode, 2004 	
+character=Helen Binder	name=Rusty Schwimmer	episodes=1 episode, 2004 	
+character=Dr. Bender	name=Victor Raider-Wexler	episodes=1 episode, 2004 	
+character=A.D.A. Richard Kirkland	name=Vincent Angell	episodes=1 episode, 2004 	
+character=Dr. Sydney Field	name=Peter MacNicol	episodes=1 episode, 2006 	
+character=Judge Milton Brody	name=William Daniels	episodes=1 episode, 2008 	
+character=Ian Hoberman	name=Jay Thomas	episodes=1 episode, 2008 	
+character=Michael Shea	name=Jon Bernthal	episodes=1 episode, 2004 	
+character=Sharon Brant	name=Melora Hardin	episodes=1 episode, 2004 	
+character=Jason Binder	name=Frederick Koehler	episodes=1 episode, 2004 	
+character=Judge Phillip Stevens	name=Ed O	episodes=1 episode, 2004 	
+character=Judge Phillip Stevens	name=Ross	episodes=1 episode, 2004 	
+character=Marcy Kirkland	name=Missy Yager	episodes=1 episode, 2004 	
+character=Ramone Valasquez	name=Lombardo Boyar	episodes=1 episode, 2004 	
+character=Mary Stevens	name=Cheryl White	episodes=1 episode, 2004 	
+character=Andrew Forbes	name=Benjamin John Parrillo	episodes=1 episode, 2004 	
+character=Tracey Green	name=Sarah Carter	episodes=1 episode, 2005 	
+character=Randall Kirk	name=Michael Kenneth Williams	episodes=1 episode, 2005 	
+character=Judge O	name=Brenda Wehle	episodes=1 episode, 2005 	
+character=Keefe	name=Brenda Wehle	episodes=1 episode, 2005 	
+character=Attorney Eli Granger	name=Corbin Bernsen	episodes=1 episode, 2006 	
+character=Marguerite Hauser	name=Bonnie Bartlett	episodes=1 episode, 2006 	
+character=A.U.S.A. Carl Newell	name=Tom Verica	episodes=1 episode, 2006 	
+character=Donald Wharton	name=Matt Malloy	episodes=1 episode, 2006 	
+character=A.D.A. Taryn Campbell	name=Aisha Tyler	episodes=1 episode, 2007 	
+character=Renata Hill	name=Megan Mullally	episodes=1 episode, 2007 	
+character=Frankie Cox	name=Frank Whaley	episodes=1 episode, 2007 	
+character=Kaye Kent	name=Kate Hodge	episodes=1 episode, 2007 	
+character=Judge Walter Yardley	name=Ken Howard	episodes=1 episode, 2008 	
+character=Phyllis Goulet	name=Caroline Aaron	episodes=1 episode, 2008 	
+character=Turnip	name=Kwesi Boakye	episodes=1 episode, 2008 	
+character=Maureen Rhodes	name=Wendy Gazelle	episodes=1 episode, 2008 	
+character=Mark Shrum	name=T.J. Thyne	episodes=1 episode, 2004 	
+character=Matthew Calder	name=Todd Stashwick	episodes=1 episode, 2004 	
+character=Detective Wayne Farley	name=John Kapelos	episodes=1 episode, 2004 	
+character=Gil Furnald	name=Heir	episodes=1 episode, 2004 	
+character=Gil Furnald	name=Jim O	episodes=1 episode, 2004 	
+character=Wendy Moore	name=Susan Floyd	episodes=1 episode, 2004 	
+character=Walter Mack	name=Willie C. Carpenter	episodes=1 episode, 2004 	
+character=Judge Franzetti	name=Louis Giambalvo	episodes=1 episode, 2004 	
+character=Marybeth Hewitt	name=Elizabeth Sampson	episodes=1 episode, 2004 	
+character=Atty. Kevin Ripley	name=Joel Anderson	episodes=1 episode, 2004 	
+character=Zeke Borns	name=Sterling K. Brown	episodes=1 episode, 2005 	
+character=Attorney Elizabeth Tyler	name=Christina Chang	episodes=1 episode, 2005 	
+character=Lydia Tuffalo	name=Alice Drummond	episodes=1 episode, 2005 	
+character=John Zenawi	name=Gregory Alan Williams	episodes=1 episode, 2005 	
+character=Special Agent Kevin Drummond	name=Steve Ryan	episodes=1 episode, 2005 	
+character=Juliette Monroe	name=Michelle Forbes	episodes=1 episode, 2006 	
+character=Russell Blayney	name=Daniel Roebuck	episodes=1 episode, 2006 	
+character=Stephanie Beller	name=Romy Rosemont	episodes=1 episode, 2006 	
+character=Judge Simon Devon	name=Robert Foxworth	episodes=1 episode, 2006 	
+character=Kurt Loomis	name=Tony Denison	episodes=1 episode, 2006 	
+character=Attorney Vivian Marino	name=Annabelle Gurwitch	episodes=1 episode, 2006 	
+character=Natalie Cabot	name=Joan McMurtrey	episodes=1 episode, 2006 	
+character=Kevin Givens	name=Jaleel White	episodes=1 episode, 2007 	
+character=Simon Griffin	name=Joey Slotnick	episodes=1 episode, 2007 	
+character=Aaron Sears	name=Stephen Lee	episodes=1 episode, 2007 	
+character=A.D.A. Rex Swarthmore	name=Xander Berkeley	episodes=1 episode, 2008 	
+character=Attorney Steve Duprey	name=Joe Morton	episodes=1 episode, 2008 	
+character=Officer Preston Holt	name=Jonathan Adams	episodes=1 episode, 2008 	
+character=Ryan Chism	name=Matt Winston	episodes=1 episode, 2008 	
+character=D.A.G. Ronald Lazarus	name=Nestor Serrano	episodes=1 episode, 2008 	
+character=U.S.D.A. Rep Joel Beavis	name=Ned Vaughn	episodes=1 episode, 2008 	
+character=Lance Buttram	name=Paul Collins	episodes=1 episode, 2008 	
+character=Dr. Sylvan Turrette	name=Michael Eric Strickland	episodes=1 episode, 2008 	
+character=Beah Toomy	name=Aisha Hinds	episodes=1 episode, 2004 	
+character=Dr. Gill	name=Andy Milder	episodes=1 episode, 2004 	
+character=A.D.A. Harris	name=David Norona	episodes=1 episode, 2004 	
+character=Martin Jeffries	name=Steve Tom	episodes=1 episode, 2004 	
+character=Brian Stevens	name=Neal Matarazzo	episodes=1 episode, 2004 	
+character=Stephanie Rogers	name=Dana Wheeler-Nicholson	episodes=1 episode, 2005 	
+character=Dr. Barry Glouberman	name=Richard Riehle	episodes=1 episode, 2005 	
+character=Jeanie Biddle	name=Susan Ruttan	episodes=1 episode, 2005 	
+character=Mayor George Bostwick	name=Holmes Osborne	episodes=1 episode, 2005 	
+character=A.D.A. Glenn Jackson	name=Farrell	episodes=1 episode, 2005 	
+character=A.D.A. Glenn Jackson	name=Conor O	episodes=1 episode, 2005 	
+character=Audrey Puiezzy	name=Lauren Stamile	episodes=1 episode, 2006 	
+character=Ryan Myerson	name=Maury Chaykin	episodes=1 episode, 2006 	
+character=Scott Warner	name=Josh Braaten	episodes=1 episode, 2006 	
+character=A.D.A. Joshua Wendt	name=Denis Arndt	episodes=1 episode, 2006 	
+character=Alena	name=Margaret Welsh	episodes=1 episode, 2006 	
+character=Dr. James Tusten	name=Kenneth Kimmins	episodes=1 episode, 2006 	
+character=Adele Freeman	name=Norma Michaels	episodes=1 episode, 2006 	
+character=Derek Roth	name=Christopher Moynihan	episodes=1 episode, 2006 	
+character=Pat Ontario	name=Katherine LaNasa	episodes=1 episode, 2007 	
+character=Dr. Donna Follette	name=Ann Cusack	episodes=1 episode, 2007 	
+character=Judge Phyllis Tamber	name=Amy Aquino	episodes=1 episode, 2007 	
+character=Wally Bird	name=Mike Hagerty	episodes=1 episode, 2007 	
+character=Judge Wendel Donahue	name=Paul Dooley	episodes=1 episode, 2007 	
+character=Neill	name=Scott Michael Campbell	episodes=1 episode, 2007 	
+character=Fitz	name=Sam McMurray	episodes=1 episode, 2007 	
+character=Fitzgerald	name=Sam McMurray	episodes=1 episode, 2007 	
+character=General Mark 	name=Sam McMurray	episodes=1 episode, 2007 	
+character=Benyam Kallah	name=T.J. Ramini	episodes=1 episode, 2007 	
+character=Maria Delgadillo	name=Cecilia Suárez	episodes=1 episode, 2007 	
+character=Charles Costello	name=Michael Bofshever	episodes=1 episode, 2007 	
+character=Walt Bonner	name=Jim Antonio	episodes=1 episode, 2007 	
+character=Attorney Wayne Davidson	name=Alan Ruck	episodes=1 episode, 2008 	
+character=Dr. Robert Brooks	name=Kyle Secor	episodes=1 episode, 2008 	
+character=Martin Monrow	name=Brian Howe	episodes=1 episode, 2008 	
+character=A.A.G. Norman Wood	name=Richard McGonagle	episodes=1 episode, 2008 	
+character=Dr. Jeremy Marley	name=Christopher B. Duncan	episodes=1 episode, 2008 	
+character=Joe Hellman	name=Dov Davidoff	episodes=1 episode, 2008 	
+character=Henry	name=BJ Wallace	episodes=1 episode, 2008 	
+character=Roberta Sloane	name=Danielle Bisutti	episodes=1 episode, 2004 	
+character=Kevin Quinlan	name=Elia	episodes=1 episode, 2004 	
+character=Kevin Quinlan	name=Chris D	episodes=1 episode, 2004 	
+character=Attorney Paul Phillips	name=Wayne Wilderson	episodes=1 episode, 2004 	
+character=Atty. Greg Montero	name=Ben Bode	episodes=1 episode, 2004 	
+character=Julio Flores	name=Daniel Edward Mora	episodes=1 episode, 2004 	
+character=Martha Silver	name=Penelope Windust	episodes=1 episode, 2004 	
+character=A.D.A. Allison Hayes	name=Nike Doukas	episodes=1 episode, 2004 	
+character=Miles Tibbet	name=Will Radford	episodes=1 episode, 2004 	
+character=Dr. Robert McLean	name=Michael O	episodes=1 episode, 2005 	
+character=Dr. Robert McLean	name=Neill	episodes=1 episode, 2005 	
+character=Attorney Kimberly Mellon	name=Lisa Banes	episodes=1 episode, 2005 	
+character=D. A. Chelios	name=Stacy Edwards	episodes=1 episode, 2005 	
+character=Walter Fife	name=Sam Anderson	episodes=1 episode, 2005 	
+character=Judge Lance Abrams	name=John Considine	episodes=1 episode, 2005 	
+character=Judge Kimberly Ohlund	name=Hara	episodes=1 episode, 2006 	
+character=Judge Kimberly Ohlund	name=Jenny O	episodes=1 episode, 2006 	
+character=Dennis Pryor	name=Page Kennedy	episodes=1 episode, 2006 	
+character=U.S. Attorney Jonathan Shapiro	name=Scott Paulin	episodes=1 episode, 2006 	
+character=Judge Diane Avent	name=Fran Bennett	episodes=1 episode, 2006 	
+character=Chris Mott	name=Adrian LaTourelle	episodes=1 episode, 2006 	
+character=Phil Mickle	name=Frank Payne	episodes=1 episode, 2006 	
+character=Edward Scanlon	name=Dan Byrd	episodes=1 episode, 2007 	
+character=U.S. Attorney Mark Freestone	name=Mitch Pileggi	episodes=1 episode, 2007 	
+character=Detective Walter Berenson	name=Tony Todd	episodes=1 episode, 2007 	
+character=Abby Holt	name=Kay Panabaker	episodes=1 episode, 2007 	
+character=Dr. Kathleen Ryan	name=Veanne Cox	episodes=1 episode, 2007 	
+character=Noris Milk	name=Tom McGowan	episodes=1 episode, 2007 	
+character=Judge Harvey Fletcher	name=Dakin Matthews	episodes=1 episode, 2007 	
+character=Attorney William Connolly	name=Bob Gunton	episodes=1 episode, 2008 	
+character=Harry Beckham	name=Nick Searcy	episodes=1 episode, 2008 	
+character=Perry Winston	name=Grant Shaud	episodes=1 episode, 2008 	
+character=Officer Kent Stone	name=Chris Butler	episodes=1 episode, 2008 	
+character=Jensen	name=Grainger Hines	episodes=1 episode, 2008 	
+character=Fiona	name=Emilee Wallace	episodes=1 episode, 2008 	
+character=Mayor Thomas Steinbrenner	name=Michael Mantell	episodes=1 episode, 2008 	
+character=Jenny Pratt	name=Joey Honsa	episodes=1 episode, 2008 	
+character=Dr. Sam Karp	name=David Kaufman	episodes=1 episode, 2004 	
+character=Daniel Ralston	name=Todd Waring	episodes=1 episode, 2004 	
+character=Bill Morgan	name=Larry Clarke	episodes=1 episode, 2004 	
+character=Sylvia Donato	name=Vicki Davis	episodes=1 episode, 2004 	
+character=Dr. Randall	name=Scott Alan Smith	episodes=1 episode, 2004 	
+character=Dr. Lee	name=Eidan Hanzei	episodes=1 episode, 2004 	
+character=Paul Rober	name=Rich Cooper	episodes=1 episode, 2004 	
+character=Meredith Waters	name=Cristine Rose	episodes=1 episode, 2005 	
+character=Roberta Turner	name=Alyson Reed	episodes=1 episode, 2005 	
+character=Captain Larry McDonald	name=Vyto Ruginis	episodes=1 episode, 2005 	
+character=Kiersten Blau	name=Julie Claire	episodes=1 episode, 2005 	
+character=Judge Christopher Serra	name=Donovan Scott	episodes=1 episode, 2005 	
+character=Mark Harrison	name=Travis McKenna	episodes=1 episode, 2005 	
+character=Sam Sawtelle	name=Johnny Sneed	episodes=1 episode, 2005 	
+character=Congressman Raymond Jacobs	name=Ryan Cutrona	episodes=1 episode, 2005 	
+character=A.A.G. Doug Beecham	name=Tyrees Allen	episodes=1 episode, 2005 	
+character=Judge Peggy Zeder	name=Veronica Cartwright	episodes=1 episode, 2006 	
+character=Sophia Wilson	name=Kathleen Wilhoite	episodes=1 episode, 2006 	
+character=Kevin Armus	name=Michael Raymond-James	episodes=1 episode, 2006 	
+character=Evette	name=Tessa Auberjonois	episodes=1 episode, 2006 	
+character=Paul Schwimmer	name=Ray Proscia	episodes=1 episode, 2006 	
+character=Tom Orchard	name=John Aylward	episodes=1 episode, 2006 	
+character=Robert Hopper	name=Larry Cedar	episodes=1 episode, 2006 	
+character=Federal Marshall Joseph Reynolds	name=Robert Joseph	episodes=1 episode, 2006 	
+character=Gwen Richards	name=Betsy Brandt	episodes=1 episode, 2007 	
+character=A.D.A. Adam Mersel	name=Matt Letscher	episodes=1 episode, 2007 	
+character=Attorney Sheila Zale	name=Jessica Tuck	episodes=1 episode, 2007 	
+character=Matthew Steinkellner	name=P.J. Byrne	episodes=1 episode, 2007 	
+character=Michael Scanlon	name=Josh Zuckerman	episodes=1 episode, 2007 	
+character=Gretchen Winters	name=Miriam Flynn	episodes=1 episode, 2007 	
+character=Allison Lovejoy	name=Kali Rocha	episodes=1 episode, 2007 	
+character=Principal Daniels	name=Steve Hytner	episodes=1 episode, 2007 	
+character=Attorney Ernesto Herrera	name=Carlos Gómez	episodes=1 episode, 2007 	
+character=Detective Walter McKay	name=John Beasley	episodes=1 episode, 2007 	
+character=Attorney Regina Williams	name=April Grace	episodes=1 episode, 2007 	
+character=Colonel George Hegarty	name=Leon Russom	episodes=1 episode, 2007 	
+character=Lynnie Cox	name=Rebecca Metz	episodes=1 episode, 2007 	
+character=A.D.A. Mary Franklin	name=Gina Torres	episodes=1 episode, 2008 	
+character=Attorney Bill Withers	name=Timothy Omundson	episodes=1 episode, 2008 	
+character=Mary Winston	name=Valerie Mahaffey	episodes=1 episode, 2008 	
+character=Vivian Stewart	name=Anne-Marie Johnson	episodes=1 episode, 2008 	
+character=Al Bostick	name=George Wyner	episodes=1 episode, 2008 	
+character=Dr. Linda Corbin	name=Sumalee Montano	episodes=1 episode, 2008 	
+character=General Robert Seagram	name=Jude Ciccolella	episodes=1 episode, 2008 	
+character=Attorney Audrey Patterson	name=Kate Beahan	episodes=1 episode, 2008 	
+character=Jason Canfield	name=David Sullivan	episodes=1 episode, 2008 	
+character=Pete	name=Mongo Brownlee	episodes=1 episode, 2008 	
+character=Woman	name=Christine Scott Bennett	episodes=1 episode, 2008 	
+character=Dan	name=Avery Kidd Waddell	episodes=1 episode, 2008 	
+character=Spencer Hamilton	name=Ron Pearson	episodes=1 episode, 2008 	
+character=CEO Michael Ryder	name=Bradford English	episodes=1 episode, 2008 	
+character=Judge Ephraim Woods	name=David Doty	episodes=1 episode, 2008 	
+character=Patty	name=Debbie Lee Carrington	episodes=1 episode, 2004 	
+character=Tori Pines	name=Kristin Bauer van Straten	episodes=1 episode, 2005 	
+character=Frannie Huber	name=Leigh-Allyn Baker	episodes=1 episode, 2005 	
+character=Jose Pitino	name=Bert Rosario	episodes=1 episode, 2005 	
+character=Evelyn Sawtelle	name=Stephanie Venditto	episodes=1 episode, 2005 	
+character=Marshall Stepcoe	name=Austin Tichenor	episodes=1 episode, 2005 	
+character=U.S. Attorney Joyner	name=Tony Pasqualini	episodes=1 episode, 2005 	
+character=Attorney Gerald Litman	name=Liam Craig	episodes=1 episode, 2005 	
+character=Claire Wilson	name=Jessy Schram	episodes=1 episode, 2006 	
+character=Gigi Gering	name=Megan Gallagher	episodes=1 episode, 2006 	
+character=Judge Gilbert Potts	name=Stuart Pankin	episodes=1 episode, 2006 	
+character=Mr. Kahanov	name=Ken Davitian	episodes=1 episode, 2006 	
+character=Howard Bridge	name=Ken Lerner	episodes=1 episode, 2006 	
+character=Ray Richardson	name=Craig Anton	episodes=1 episode, 2006 	
+character=Peter Clark	name=Art Chudabala	episodes=1 episode, 2006 	
+character=Jody Young	name=Stacy Galina	episodes=1 episode, 2006 	
+character=Dr. Barati Waibi	name=Harsh Nayyar	episodes=1 episode, 2006 	
+character=Federal Marshall Thomas Leahy	name=Bradley James	episodes=1 episode, 2006 	
+character=Attorney Susan Bixby	name=Anna Gunn	episodes=1 episode, 2007 	
+character=Cynthia Nichols	name=Bellamy Young	episodes=1 episode, 2007 	
+character=Jeffrey Bass	name=Tom Wilson	episodes=1 episode, 2007 	
+character=Coroner Myron Okubo	name=Ken Jeong	episodes=1 episode, 2007 	
+character=Sandy Zionts	name=Merrin Dungey	episodes=1 episode, 2007 	
+character=Michelle Cabot-Levinson	name=Hallee Hirsh	episodes=1 episode, 2007 	
+character=Jenna Aesop	name=Jackie Debatin	episodes=1 episode, 2007 	
+character=JAG Schoenewics	name=Paul Schulze	episodes=1 episode, 2007 	
+character=Dorothy Scanlon	name=Lisa Waltz	episodes=1 episode, 2007 	
+character=Deena Rice	name=Clare Carey	episodes=1 episode, 2007 	
+character=Wayne Picker	name=Robert Costanzo	episodes=1 episode, 2007 	
+character=Maureen Fleming	name=Jennifer Aspen	episodes=1 episode, 2007 	
+character=Professor Jeffrey Benoit	name=Barry Primus	episodes=1 episode, 2007 	
+character=Marshall Prig	name=Christopher Neiman	episodes=1 episode, 2007 	
+character=Guy Flanders	name=Joel McCrary	episodes=1 episode, 2007 	
+character=Detective Scott Reynolds	name=Scott Allan Campbell	episodes=1 episode, 2007 	
+character=Bert McAdams	name=Joe Guzaldo	episodes=1 episode, 2007 	
+character=Margie Coggins	name=Margo Harshman	episodes=1 episode, 2008 	
+character=Jack Ross	name=Scott Bakula	episodes=1 episode, 2008 	
+character=Attorney Stanley Gould	name=Patrick Fabian	episodes=1 episode, 2008 	
+character=Carol Hober	name=Valerie Bertinelli	episodes=1 episode, 2008 	
+character=Dr. Giles Bromfield	name=Derek Webster	episodes=1 episode, 2008 	
+character=Judge Paula Stern	name=Lainie Kazan	episodes=1 episode, 2008 	
+character=Judge Vincent Kimball	name=Richard Gant	episodes=1 episode, 2008 	
+character=Mitchy Weston	name=Jason Earles	episodes=1 episode, 2008 	
+character=Bishop Luke Bernard	name=Larry Drake	episodes=1 episode, 2008 	
+character=Jeffrey Addario	name=David Bowe	episodes=1 episode, 2008 	
+character=Father Joseph Martin	name=Jim Turner	episodes=1 episode, 2008 	
+character=Kim Wang Shu	name=Charlet Takahashi Chung	episodes=1 episode, 2008 	
+character=Irene Hoberman	name=Rachelle Carson-Begley	episodes=1 episode, 2008 	
+character=Owen Patterson	name=Kent Faulcon	episodes=1 episode, 2008 	
+character=Officer Mike Carr	name=Tommy Koenig	episodes=1 episode, 2008 	
+character=Carrie	name=Frances Fisher	episodes=1 episode, 2004 	
+character=A.D.A. Mark Wills	name=Bruno Campos	episodes=1 episode, 2004 	
+character=Carmen Flores	name=Yeniffer Behrens	episodes=1 episode, 2004 	
+character=Guy with Bomb	name=Billy Kane	episodes=1 episode, 2004 	
+character=Dr. Steven Rayburn	name=Michael Oberlander	episodes=1 episode, 2004 	
+character=Miriam Watson	name=Shelley Long	episodes=1 episode, 2005 	
+character=Stuart Milch	name=Ryan Kelley	episodes=1 episode, 2005 	
+character=Robert Berrin - Zozo the Clown	name=Joel McKinnon Miller	episodes=1 episode, 2005 	
+character=Officer Wayne Kirkland	name=Kevin Chapman	episodes=1 episode, 2005 	
+character=Helen Gershen	name=Lily Knight	episodes=1 episode, 2005 	
+character=Dr. Raymond Young	name=John Short	episodes=1 episode, 2005 	
+character=Judge William Connolly	name=David Purdham	episodes=1 episode, 2005 	
+character=Bob Mathias	name=Matt Champagne	episodes=1 episode, 2005 	
+character=Detective Perry Vale	name=Juan Garcia	episodes=1 episode, 2005 	
+character=Dr. Joshua Forbes	name=Bob Morrisey	episodes=1 episode, 2005 	
+character=Sam Wolfson	name=Andrew Prine	episodes=1 episode, 2006 	
+character=Traci Carpenter	name=Audrey Wasilewski	episodes=1 episode, 2006 	
+character=Ned Hayden	name=Michael Shamus Wiles	episodes=1 episode, 2006 	
+character=Kavita Pokharel	name=Amrapali Ambegaokar	episodes=1 episode, 2006 	
+character=Amelia Warner	name=Kelly Smith	episodes=1 episode, 2006 	
+character=Judge Marianna Folger	name=Bernadette Peters	episodes=1 episode, 2007 	
+character=Dr. Alvin Azinabinacroft	name=Stephen Tobolowsky	episodes=1 episode, 2007 	
+character=Alisa McKenzie	name=Lee Garlington	episodes=1 episode, 2007 	
+character=Phyllis Diller	name=Phyllis Diller	episodes=1 episode, 2007 	
+character=Georgina Babineaux	name=Maree Cheatham	episodes=1 episode, 2007 	
+character=Marcie Cooper	name=Emily Nelson	episodes=1 episode, 2007 	
+character=Linwood Winchell	name=Wolf Muser	episodes=1 episode, 2007 	
+character=Jerome Harris	name=Lovensky Jean-Baptiste	episodes=1 episode, 2007 	
+character=Officer Taylor Jessel	name=Colby French	episodes=1 episode, 2007 	
+character=Joe Gordon	name=James Keane	episodes=1 episode, 2007 	
+character=Ania Gadios	name=Simone Vicari	episodes=1 episode, 2007 	
+character=FBI Special Agent John Sharpe	name=Kirk B.R. Woller	episodes=1 episode, 2008 	
+character=Dr. Kathleen Rosewell	name=Amy Hill	episodes=1 episode, 2008 	
+character=Dr. Paul Harris	name=Cas Anvar	episodes=1 episode, 2008 	
+character=William Brewster	name=Daniel Hugh Kelly	episodes=1 episode, 2008 	
+character=Carolyn Joseph	name=Isabella Hofmann	episodes=1 episode, 2008 	
+character=Evelyn	name=Marianne Muellerleile	episodes=1 episode, 2008 	
+character=Dwayne Willis	name=Lorin McCraley	episodes=1 episode, 2008 	
+character=Terrence Maxwell	name=Aaron D. Spears	episodes=1 episode, 2008 	
+character=Foreman	name=Brian Hatton	episodes=1 episode, 2008 	
+character=Patron	name=Jonathan Kehoe	episodes=1 episode, 2008 	
+character=Samantha Fleming	name=Dana Delany	episodes=1 episode, 2004 	
+character=Judge Rita Sharpley	name=Sharon Lawrence	episodes=1 episode, 2004 	
+character=Irwin Middleman	name=Connor	episodes=1 episode, 2004 	
+character=Irwin Middleman	name=Patrick O	episodes=1 episode, 2004 	
+character=Officer Davis	name=Scott Conte	episodes=1 episode, 2004 	
+character=Steven Harper	name=Chi McBride	episodes=1 episode, 2005 	
+character=Peter Barrett	name=Jeremy Davidson	episodes=1 episode, 2005 	
+character=Dominick Ryan	name=Michael Dempsey	episodes=1 episode, 2005 	
+character=Officer Joe Garrett	name=David Barrera	episodes=1 episode, 2005 	
+character=Ronald Matheny	name=Edward Edwards	episodes=1 episode, 2005 	
+character=Alex Naughton	name=Michael Bryan French	episodes=1 episode, 2005 	
+character=Grace Mathias	name=Marietta DePrima	episodes=1 episode, 2005 	
+character=Father Martin	name=Ken Strunk	episodes=1 episode, 2005 	
+character=Dr. Leonard Raskin	name=Gibby Brand	episodes=1 episode, 2005 	
+character=Mrs. Ferrion	name=Fiona Hale	episodes=1 episode, 2005 	
+character=Dominic Martini	name=Lou Volpe	episodes=1 episode, 2005 	
+character=Megan Raulston	name=Marcella Lentz-Pope	episodes=1 episode, 2006 	
+character=Jessica	name=Aja Evans	episodes=1 episode, 2006 	
+character=Officer Michael Minden	name=Scott MacDonald	episodes=1 episode, 2006 	
+character=Luke Kenneally	name=Richie Keen	episodes=1 episode, 2006 	
+character=Kevin Willhite	name=Steven M. Porter	episodes=1 episode, 2006 	
+character=Translator	name=Purva Bedi	episodes=1 episode, 2006 	
+character=Public Defender Adams	name=Jonathan Palmer	episodes=1 episode, 2006 	
+character=Carol Cabot	name=Stacey Travis	episodes=1 episode, 2007 	
+character=Zachary West	name=Robert Clotworthy	episodes=1 episode, 2007 	
+character=Adam Murch	name=John Marshall Jones	episodes=1 episode, 2007 	
+character=Marshall Gottlieb	name=Brent Jennings	episodes=1 episode, 2007 	
+character=Professor Matthew Tyler	name=Ivar Brogger	episodes=1 episode, 2007 	
+character=Janet Fleming	name=Robin Pearson Rose	episodes=1 episode, 2007 	
+character=Detective Ellen Adams	name=Judith Moreland	episodes=1 episode, 2007 	
+character=Dr. Jacob Levine	name=Matt DeCaro	episodes=1 episode, 2007 	
+character=ICE Agent Daniel Foster	name=Jim Holmes	episodes=1 episode, 2007 	
+character=Riva Boitelle	name=Joyce Guy	episodes=1 episode, 2007 	
+character=Joy Espenson	name=Annie Potts	episodes=1 episode, 2008 	
+character=Donald Feldcamp	name=Saul Rubinek	episodes=1 episode, 2008 	
+character=CEO Robert Winthrop	name=Christopher Stanley	episodes=1 episode, 2008 	
+character=Samantha Taylor	name=Elizabeth Dennehy	episodes=1 episode, 2008 	
+character=Mark Pinnard	name=Chris McGarry	episodes=1 episode, 2008 	
+character=A.A.G. Marshall Brickman	name=David Gautreaux	episodes=1 episode, 2008 	
+character=Dr. Darryl Grant	name=Cornell Womack	episodes=1 episode, 2008 	
+character=Bailiff 	name=Beau Dremann	episodes=1 episode, 2008 	
+character=Officer Michael Bardo	name=Kevin Will	episodes=1 episode, 2008 	
+character=Justice Frances Oliver	name=Annie Abbott	episodes=1 episode, 2008 	
+character=Customer	name=Richard Kuegeman	episodes=1 episode, 2008 	
+character=Foreman	name=Steve Hasley	episodes=1 episode, 2008 	
+character=Dr. Lee Watson	name=Robert Cesario	episodes=1 episode, 2008 	
+character=Ernie Dell	name=Philip Baker Hall	episodes=1 episode, 2004 	
+character=Derek Ross	name=David Brisbin	episodes=1 episode, 2004 	
+character=Judge Wilcox	name=Nancy Stephens	episodes=1 episode, 2004 	
+character=Detective Lowe	name=Steven M. Gagnon	episodes=1 episode, 2004 	
+character=Milton Bombay	name=Carl Reiner	episodes=1 episode, 2005 	
+character=A.D.A. Howard Zale	name=William Atherton	episodes=1 episode, 2005 	
+character=Liz	name=Nakia Burrise	episodes=1 episode, 2005 	
+character=Walter Edmunds	name=Randy Oglesby	episodes=1 episode, 2005 	
+character=Corporal Brian Webb	name=Derrex Brady	episodes=1 episode, 2005 	
+character=Judge Brenford	name=Kat Sawyer	episodes=1 episode, 2005 	
+character=Dr. Kohler	name=Ron Butler	episodes=1 episode, 2005 	
+character=Waiter	name=Wayne Thomas Yorke	episodes=1 episode, 2005 	
+character=Michael Foster	name=Michael Leydon Campbell	episodes=1 episode, 2005 	
+character=Joe Martini	name=Dominic Comperatore	episodes=1 episode, 2005 	
+character=Joe	name=Yamil Piedra	episodes=1 episode, 2005 	
+character=Ellen Tanner	name=Annie Wersching	episodes=1 episode, 2006 	
+character=Harold Pines	name=Ned Bellamy	episodes=1 episode, 2006 	
+character=Marissa Deaver	name=Hannah Leigh	episodes=1 episode, 2006 	
+character=Attorney Eric Yavitch	name=Joel Polis	episodes=1 episode, 2006 	
+character=Mr. Faber	name=Gerry Becker	episodes=1 episode, 2006 	
+character=Detective Russell Roberts	name=Dan Martin	episodes=1 episode, 2006 	
+character=Terry	name=Alex Nevil	episodes=1 episode, 2006 	
+character=Nancy Moran	name=Jennifer Costa	episodes=1 episode, 2006 	
+character=Foreman	name=Rowan Joseph	episodes=1 episode, 2006 	
+character=Manager	name=Carol Kiernan	episodes=1 episode, 2006 	
+character=A.D.A. Norman Wilson	name=Steven Culp	episodes=1 episode, 2007 	
+character=Dr. Mitch Norris	name=Geoffrey Owens	episodes=1 episode, 2007 	
+character=Graham	name=Jake Richardson	episodes=1 episode, 2007 	
+character=Reid Harrington	name=Peter Mackenzie	episodes=1 episode, 2007 	
+character=Dr. Saul Robbins	name=Michael Chieffo	episodes=1 episode, 2007 	
+character=Officer Aaron Payne	name=Lamont Thompson	episodes=1 episode, 2007 	
+character=Lou Schneider	name=Phil Abrams	episodes=1 episode, 2007 	
+character=Helen Choi	name=Kim Evey	episodes=1 episode, 2007 	
+character=Attorney Byron Robb	name=Mark Chaet	episodes=1 episode, 2007 	
+character=Barista	name=Kimberly Fox	episodes=1 episode, 2007 	
+character=Dr. Martin Lee	name=Ismail Bashey	episodes=1 episode, 2007 	
+character=Harriet Bird	name=Bonnie Bailey-Reed	episodes=1 episode, 2007 	
+character=General Milton Eckert	name=Rick Deats	episodes=1 episode, 2007 	
+character=Ethan Melman	name=Stephen Root	episodes=1 episode, 2008 	
+character=Sunny Fields	name=Christine Ebersole	episodes=1 episode, 2008 	
+character=Daniella	name=Sierra McCormick	episodes=1 episode, 2008 	
+character=Lauren Addario	name=Tina Ivlev	episodes=1 episode, 2008 	
+character=D.A. Jack Fitzhugh	name=Bill Smitrovich	episodes=1 episode, 2008 	
+character=Dr. Earl Roberts	name=Bruce Gray	episodes=1 episode, 2008 	
+character=Dr. Ned Thiel	name=Bruce French	episodes=1 episode, 2008 	
+character=Attorney Walt Devlin	name=John Prosky	episodes=1 episode, 2008 	
+character=Rabbi Saul Levine	name=Michael Holden	episodes=1 episode, 2008 	
+character=Lenny Serra	name=Matthew Hatchette	episodes=1 episode, 2008 	
+character=Foreperson	name=Jennifer Williams	episodes=1 episode, 2008 	
+character=Adam Herbett	name=Terry Bozeman	episodes=1 episode, 2004 	
+character=Sylvie While	name=Mary Kathleen Gordon	episodes=1 episode, 2004 	
+character=Secretary	name=Donna Cooper	episodes=1 episode, 2004 	
+character=Campaign Aide	name=Kevin Dunigan	episodes=1 episode, 2004 	
+character=Foreperson	name=Shirley Saunders	episodes=1 episode, 2004 	
+character=Bennett Lyne	name=Charles Currie	episodes=1 episode, 2004 	
+character=Jason Matheny	name=Lucas Grabeel	episodes=1 episode, 2005 	
+character=Ronald Jessel	name=Jon Sklaroff	episodes=1 episode, 2005 	
+character=Police Technician	name=Keisuke Hoashi	episodes=1 episode, 2005 	
+character=Maitre D	name=Glenn Taranto	episodes=1 episode, 2005 	
+character=Marissa Martini	name=Roberta Orlandi	episodes=1 episode, 2005 	
+character=Edwards	name=Curt Bouril	episodes=1 episode, 2005 	
+character=Judge Mitchell	name=James Dalesandro	episodes=1 episode, 2005 	
+character=Douglas Karnes	name=Chris Diamantopoulos	episodes=1 episode, 2006 	
+character=Wes Craven	name=Wes Craven	episodes=1 episode, 2006 	
+character=Emily Hayden	name=Kayla Mae Maloney	episodes=1 episode, 2006 	
+character=Tom Raulston	name=John Hartmann	episodes=1 episode, 2006 	
+character=Phyllis Deaver	name=Hurley	episodes=1 episode, 2006 	
+character=Phyllis Deaver	name=Shannon O	episodes=1 episode, 2006 	
+character=MC in Ballroom	name=S.E. Perry	episodes=1 episode, 2006 	
+character=Patrick	name=Danny Kashper	episodes=1 episode, 2006 	
+character=Judge Harold Hasson	name=William Charles Mitchell	episodes=1 episode, 2006 	
+character=George Tanner	name=Butch Hammett	episodes=1 episode, 2006 	
+character=Foreperson	name=Laura Carson	episodes=1 episode, 2006 	
+character=Attendant	name=Lamont Dixon	episodes=1 episode, 2006 	
+character=Father Nicholas McClinton	name=Michael Gross	episodes=1 episode, 2007 	
+character=Rachel Beckett	name=Sian Heder	episodes=1 episode, 2007 	
+character=Bob Binder	name=Robert Wuhl	episodes=1 episode, 2007 	
+character=Foreman	name=Joseph Buttler	episodes=1 episode, 2007 	
+character=Mr. Nayman	name=Pete Gardner	episodes=1 episode, 2007 	
+character=Dr. Mitchell Levinson	name=Scott Klace	episodes=1 episode, 2007 	
+character=Dr. Jason Marcini	name=Gregg Daniel	episodes=1 episode, 2007 	
+character=Evan Holt	name=Dan Gilvezan	episodes=1 episode, 2007 	
+character=Domingo Obisbo	name=Jonathan Castellanos	episodes=1 episode, 2007 	
+character=Foreman	name=David Trice	episodes=1 episode, 2007 	
+character=Dr. Ferrell	name=Brian Carpenter	episodes=1 episode, 2007 	
+character=Singer 	name=Sabrina Sloan	episodes=1 episode, 2007 	
+character=Attorney Elisa Brooks	name=Kimberly Williams-Paisley	episodes=1 episode, 2008 	
+character=Paul Cruickshank	name=George Segal	episodes=1 episode, 2008 	
+character=Principal Holliston	name=Barbara Eve Harris	episodes=1 episode, 2008 	
+character=Officer James Gilmore	name=Michael C. Mahon	episodes=1 episode, 2008 	
+character=Morris	name=Ben Scott	episodes=1 episode, 2008 	
+character=Jason Engels	name=Jay Malone	episodes=1 episode, 2008 	
+character=Grant Kennard	name=Tim Snay	episodes=1 episode, 2008 	
+character=Det. Frank Richards	name=Michael Nanfria	episodes=1 episode, 2008 	
+character=Dr. Ray	name=Pat Towne	episodes=1 episode, 2008 	
+character=Foreman	name=William Rogers	episodes=1 episode, 2008 	
+character=Gregory Stone	name=Derek Magyar	episodes=1 episode, 2004 	
+character=Criminal Court Foreperson	name=Louise Claps	episodes=1 episode, 2004 	
+character=Police Officer	name=James Howell	episodes=1 episode, 2004 	
+character=Dr. Lott	name=Sam Temeles	episodes=1 episode, 2004 	
+character=Psyche Nurse	name=Ms. P. Reney	episodes=1 episode, 2004 	
+character=Dr. Adam Carter	name=James Eckhouse	episodes=1 episode, 2005 	
+character=Mike	name=Brandon Molale	episodes=1 episode, 2005 	
+character=Smith	name=Robert R. Shafer	episodes=1 episode, 2005 	
+character=Byrne	name=J. Patrick McCormack	episodes=1 episode, 2005 	
+character=Judge Sean O	name=J. Patrick McCormack	episodes=1 episode, 2005 	
+character=Paul Harris	name=Lee Whittaker	episodes=1 episode, 2005 	
+character=Sergeant Jason Hendler	name=David Lee Russek	episodes=1 episode, 2005 	
+character=Foreperson 	name=Angela Sargeant	episodes=1 episode, 2005 	
+character=Hooker	name=Lileé Anderson	episodes=1 episode, 2005 	
+character=Mechanical Bull Attendant	name=William Murphy	episodes=1 episode, 2005 	
+character=Cathy	name=Joleen Lutz	episodes=1 episode, 2006 	
+character=Lara Kohn	name=Austin Highsmith Garces	episodes=1 episode, 2006 	
+character=Dr. Ann Kumi	name=Freda Foh Shen	episodes=1 episode, 2006 	
+character=Dr. Samuel Williams	name=Ken Land	episodes=1 episode, 2006 	
+character=Judge Marcia Fudge	name=Kathy Lamkin	episodes=1 episode, 2007 	
+character=Father Kevin Maher	name=Enn Reitel	episodes=1 episode, 2007 	
+character=Bobbie	name=Patricia Mizen	episodes=1 episode, 2007 	
+character=Foreperson	name=Rebecca Avery	episodes=1 episode, 2007 	
+character=Dr. Futz	name=K.T. Thangavelu	episodes=1 episode, 2007 	
+character=FBI Agent	name=Wayne Mitchell	episodes=1 episode, 2007 	
+character=Marisol Obisbo	name=Victoria Lea Rudd	episodes=1 episode, 2007 	
+character=Singer 	name=Sandy Colton	episodes=1 episode, 2007 	
+character=Maureen Janely	name=Christie Lynn Smith	episodes=1 episode, 2008 	
+character=Dr. Paul Rawlings	name=Van Epperson	episodes=1 episode, 2008 	
+character=Detective Ian Peters	name=Dean Cudworth	episodes=1 episode, 2008 	
+character=Foreperson	name=Carole Gutierrez	episodes=1 episode, 2008 	
+character=Jody Beckham	name=Samantha Klein	episodes=1 episode, 2008 	
+character=Medical Technician	name=Carole Russo	episodes=1 episode, 2008 	
+character=Clerk	name=Timothy R. McFadyen	episodes=1 episode, 2008 	
+character=Detective Smiley	name=Charles Emmett	episodes=1 episode, 2004 	
+character=Male Attorney	name=John Sterling Carter	episodes=1 episode, 2004 	
+character=New York Atty.	name=Tom Ormeny	episodes=1 episode, 2004 	
+character=Foreman 	name=Kevin R. Kelly	episodes=1 episode, 2004 	
+character=Female Patient	name=Erika Greenspan	episodes=1 episode, 2004 	
+character=Dwight Biddle	name=Michael McKean	episodes=1 episode, 2005 	
+character=Principal Berleth	name=Jayne Taini	episodes=1 episode, 2005 	
+character=Fishing Guide	name=Clifton MaCabe Murray	episodes=1 episode, 2005 	
+character=Wesson	name=Buddy Lewis	episodes=1 episode, 2005 	
+character=Officer Coulier	name=Alex Paez	episodes=1 episode, 2005 	
+character=Warden	name=Traber Burns	episodes=1 episode, 2005 	
+character=Wife	name=Lisa Lynch	episodes=1 episode, 2005 	
+character=Harris	name=Lisa Lynch	episodes=1 episode, 2005 	
+character=Jury Foreman	name=Steven Shaw	episodes=1 episode, 2005 	
+character=Judge Swink	name=Robert Noble	episodes=1 episode, 2005 	
+character=Foreman 	name=Connor	episodes=1 episode, 2005 	
+character=Foreman 	name=P.J. O	episodes=1 episode, 2005 	
+character=Band Leader	name=David Beckett	episodes=1 episode, 2005 	
+character=Jane Baker	name=Jan Hoag	episodes=1 episode, 2006 	
+character=Foreperson	name=Shirley Jordan	episodes=1 episode, 2006 	
+character=Joel Kohn	name=Gerald Downey	episodes=1 episode, 2006 	
+character=Dr. Reesa Klaywig	name=Jennifer Parsons	episodes=1 episode, 2006 	
+character=Foreperson	name=Treisa Gary	episodes=1 episode, 2006 	
+character=Cindy	name=Deb Hiett	episodes=1 episode, 2006 	
+character=Poi	name=Nelson Mashita	episodes=1 episode, 2006 	
+character=Frank Lawrence	name=Jonathan Craig Williams	episodes=1 episode, 2006 	
+character=Dr. Duncan	name=Matt Riedy	episodes=1 episode, 2007 	
+character=Singer 	name=Nadine Ellis	episodes=1 episode, 2007 	
+character=Debbie	name=Brandi Burkhardt	episodes=1 episode, 2007 	
+character=Steve Hughes	name=Rod McLachlan	episodes=1 episode, 2007 	
+character=Mike Beckett	name=Matt Kaminsky	episodes=1 episode, 2007 	
+character=Officer Devon Ritchie	name=Adam Gifford	episodes=1 episode, 2007 	
+character=Foreman	name=Charlie Hartsock	episodes=1 episode, 2007 	
+character=Marshall Bettman	name=Brian Chenoweth	episodes=1 episode, 2007 	
+character=Alberto Lopez	name=Cade Olivas	episodes=1 episode, 2007 	
+character=Officer Peters	name=Cari Zoch	episodes=1 episode, 2007 	
+character=Avery Wilson	name=Michael Shannon	episodes=1 episode, 2008 	
+character=Mary Bennett	name=Yvonne Huff Lee	episodes=1 episode, 2008 	
+character=Steve	name=Greg Baine	episodes=1 episode, 2008 	
+character=Reverend Kurt Joyner	name=Michael Loeffelholz	episodes=1 episode, 2008 	
+character=Paramedic	name=Perry Cornelius	episodes=1 episode, 2008 	
+character=Clerk	name=Cristin Mortenson	episodes=1 episode, 2008 	
+character=Foreperson 	name=Diana Yanez	episodes=1 episode, 2004 	
+character=Chicago Atty.	name=John F. Schaffer	episodes=1 episode, 2004 	
+character=Guy	name=David Connell	episodes=1 episode, 2004 	
+character=Tourette	name=David Connell	episodes=1 episode, 2004 	
+character=Paramedic	name=John Cragen	episodes=1 episode, 2004 	
+character=Mother	name=Sue Ozeran	episodes=1 episode, 2004 	
+character=Judge	name=Sue Ozeran	episodes=1 episode, 2004 	
+character=Adrian	name=Fred Helsel	episodes=1 episode, 2004 	
+character=Larry King	name=Larry King	episodes=1 episode, 2005 	
+character=Mary Bradley	name=Jen Kuhn	episodes=1 episode, 2005 	
+character=Ronald Emmerich	name=Paul Perri	episodes=1 episode, 2005 	
+character=Son	name=Jarrod Bailey	episodes=1 episode, 2005 	
+character=Harris	name=Jarrod Bailey	episodes=1 episode, 2005 	
+character=George Knott	name=David A. Kimball	episodes=1 episode, 2005 	
+character=Paramedic	name=Obie Sims	episodes=1 episode, 2005 	
+character=Atty. Klein	name=John J. Dalesandro	episodes=1 episode, 2005 	
+character=Clarence Nichols	name=Mike Binder	episodes=1 episode, 2006 	
+character=Man	name=Robert Frank Telfer	episodes=1 episode, 2006 	
+character=Katey	name=Gennelle Dedek	episodes=1 episode, 2006 	
+character=Clerk	name=John Papapavlos	episodes=1 episode, 2006 	
+character=Altar Boy	name=Forrest Landis	episodes=1 episode, 2007 	
+character=Smith	name=James Edson	episodes=1 episode, 2007 	
+character=Karen Sears	name=Stacey Moseley	episodes=1 episode, 2007 	
+character=Dr. Hoffman	name=Sue Nelson	episodes=1 episode, 2007 	
+character=Foreman	name=Theo Wilson	episodes=1 episode, 2007 	
+character=Officer	name=Stephen Hornyak	episodes=1 episode, 2007 	
+character=Sergeant	name=Eric Christie	episodes=1 episode, 2007 	
+character=Terrence Owens	name=Dalpre Grayer	episodes=1 episode, 2007 	
+character=Nancy Holt	name=Mary Ostrow	episodes=1 episode, 2007 	
+character=Rabbi Hershman	name=Jerry Cutler	episodes=1 episode, 2007 	
+character=Jury Foreperson	name=Liz Laird	episodes=1 episode, 2007 	
+character=George Parkes	name=Eric Lange	episodes=1 episode, 2008 	
+character=Waitress	name=Keena Ferguson	episodes=1 episode, 2008 	
+character=Hugh McDowell	name=Leonard Kelly-Young	episodes=1 episode, 2008 	
+character=John Emerson	name=Weston Nathanson	episodes=1 episode, 2008 	
+character=Foreman	name=Ed Brigadier	episodes=1 episode, 2008 	
+character=Foreman	name=Michael Strickland	episodes=1 episode, 2008 	
+character=Tokyo Guy	name=Simon Rhee	episodes=1 episode, 2004 	
+character=Swat Police	name=Scott Reitz	episodes=1 episode, 2004 	
+character=Dr. Kodash	name=Shawn Michael Patrick	episodes=1 episode, 2004 	
+character=Joshua Abrams	name=Marty Belafsky	episodes=1 episode, 2005 	
+character=Salesman	name=Kevin Farrell	episodes=1 episode, 2005 	
+character=Man	name=Dink O	episodes=1 episode, 2005 	
+character=Man	name=Neal	episodes=1 episode, 2005 	
+character=Harris	name=Sierra Abel	episodes=1 episode, 2005 	
+character=Daughter	name=Sierra Abel	episodes=1 episode, 2005 	
+character=Stan	name=Regan Burns	episodes=1 episode, 2006 	
+character=Waiter	name=Matt Knudsen	episodes=1 episode, 2006 	
+character=Foreperson	name=Tawny René Hamilton	episodes=1 episode, 2006 	
+character=Lauren	name=Alanna Dedek	episodes=1 episode, 2006 	
+character=Father Tulley	name=Tom Virtue	episodes=1 episode, 2007 	
+character=Ruppello	name=Tony Winters	episodes=1 episode, 2007 	
+character=Mrs. Owens	name=Verda Bridges	episodes=1 episode, 2007 	
+character=Foreperson	name=Greta Sesheta	episodes=1 episode, 2007 	
+character=Host	name=Jay Davis	episodes=1 episode, 2007 	
+character=Dr. Brill	name=Brent Keast	episodes=1 episode, 2007 	
+character=Foreman	name=Randall Rapstine	episodes=1 episode, 2007 	
+character=Cantor Ravitz	name=Andrea Massion	episodes=1 episode, 2007 	
+character=Leo Morris	name=Michael Landes	episodes=1 episode, 2008 	
+character=Bryce Laughlin	name=Patrick John Hurley	episodes=1 episode, 2008 	
+character=Julia	name=Christina Cindrich	episodes=1 episode, 2004 	
+character=Nigel	name=Kevin Owers	episodes=1 episode, 2004 	
+character=Maddie Tyler	name=Crystal Allen	episodes=1 episode, 2005 	
+character=Technician	name=Dave Anthony	episodes=1 episode, 2005 	
+character=Willis Berger	name=Fred Meyers	episodes=1 episode, 2005 	
+character=Johnny Damon	name=A. Russell Andrews	episodes=1 episode, 2005 	
+character=Sister Mary Flagerty	name=Joyce Greenleaf	episodes=1 episode, 2005 	
+character=Foreperson	name=LaFern Cusack	episodes=1 episode, 2005 	
+character=Reporter	name=Angela Chee	episodes=1 episode, 2005 	
+character=Judge Keneally	name=Bobbie Norman	episodes=1 episode, 2005 	
+character=Fisherman	name=Frasier Murray	episodes=1 episode, 2005 	
+character=Julie	name=Adriana DeMeo	episodes=1 episode, 2006 	
+character=Annette	name=Tina Morasco	episodes=1 episode, 2006 	
+character=Graham Potter	name=David McKnight	episodes=1 episode, 2006 	
+character=Teresa Klein	name=Jeanne Simpson	episodes=1 episode, 2006 	
+character=Clerk 	name=Jeff Bowser	episodes=1 episode, 2006 	
+character=Jury Foreman	name=Marty Ryan	episodes=1 episode, 2006 	
+character=Guard	name=Julian Starks	episodes=1 episode, 2006 	
+character=Reporter 	name=Reggie Jordan	episodes=1 episode, 2006 	
+character=Technician	name=Lyn Alicia Henderson	episodes=1 episode, 2007 	
+character=Lauren Delhorn	name=Bonnie Burroughs	episodes=1 episode, 2007 	
+character=Foreman	name=Tom Yi	episodes=1 episode, 2007 	
+character=Officer	name=Carey Scott	episodes=1 episode, 2007 	
+character=Dr. Powell	name=Ungela Brockman	episodes=1 episode, 2007 	
+character=Pavlova Kharminov	name=Ella Christopher	episodes=1 episode, 2007 	
+character=Caryl Hutchins	name=Ann Ryerson	episodes=1 episode, 2008 	
+character=Mock Justice Stevens	name=David Grant Wright	episodes=1 episode, 2008 	
+character=Walter Schmidt	name=Art Frankel	episodes=1 episode, 2008 	
+character=Sarah	name=Jadzia Pittman	episodes=1 episode, 2004 	
+character=Tenant 	name=Reggie De Morton	episodes=1 episode, 2004 	
+character=Waitress	name=Amy Penney	episodes=1 episode, 2004 	
+character=Minister	name=Joe Ochman	episodes=1 episode, 2005 	
+character=Jan	name=Pam Trotter	episodes=1 episode, 2005 	
+character=Nurse	name=Shania Accius	episodes=1 episode, 2005 	
+character=Joan Rivers	name=Joan Rivers	episodes=1 episode, 2006 	
+character=Entertainment Lawyer	name=McKinley Freeman	episodes=1 episode, 2006 	
+character=Jury Foreperson	name=Robin Middleton	episodes=1 episode, 2006 	
+character=Ming	name=Sharon Omi	episodes=1 episode, 2006 	
+character=Pundit 	name=John Montana	episodes=1 episode, 2006 	
+character=Man	name=Matthew McCray	episodes=1 episode, 2006 	
+character=Dr. Smith	name=Rick Hickman	episodes=1 episode, 2006 	
+character=Reporter 	name=Tammy La	episodes=1 episode, 2006 	
+character=Pedicurist	name=Alyss Henderson	episodes=1 episode, 2006 	
+character=Minister	name=Shon Little	episodes=1 episode, 2007 	
+character=Dr. Kirk	name=Chandler Hill	episodes=1 episode, 2007 	
+character=Edison	name=Mark Tomesek	episodes=1 episode, 2007 	
+character=Foreperson	name=Arnetta LaShun Ellis	episodes=1 episode, 2007 	
+character=Mock Justice Scalia	name=Thomas Bankowski	episodes=1 episode, 2008 	
+character=Officer Tudor	name=Drew Butler	episodes=1 episode, 2008 	
+character=Lab Tech	name=Bernadette Speakes	episodes=1 episode, 2004 	
+character=Tenant 	name=Roberto Montesinos	episodes=1 episode, 2004 	
+character=Night Court Hooker	name=Aydiee Vaughn	episodes=1 episode, 2004 	
+character=Laurie Berger	name=Julie Pop	episodes=1 episode, 2005 	
+character=Foreperson	name=Odetta Bassett	episodes=1 episode, 2005 	
+character=Harvey Levin	name=Harvey Levin	episodes=1 episode, 2006 	
+character=Pundit 	name=Robin Krieger	episodes=1 episode, 2006 	
+character=Reporter 	name=Saida Pagan	episodes=1 episode, 2006 	
+character=Corinne	name=Christie Insley	episodes=1 episode, 2006 	
+character=Ray	name=Butch Klein	episodes=1 episode, 2007 	
+character=Foreperson	name=Livia Treviño	episodes=1 episode, 2007 	
+character=Officer Blanchard	name=Michael Cutt	episodes=1 episode, 2007 	
+character=Foreman	name=Ralph Drischell	episodes=1 episode, 2007 	
+character=Dr. Perry	name=Mark Henderson	episodes=1 episode, 2007 	
+character=Boy 	name=Max Knowles	episodes=1 episode, 2007 	
+character=Cigarette Girl	name=Monica Young	episodes=1 episode, 2008 	
+character=Nurse 	name=Deborah Cresswell	episodes=1 episode, 2008 	
+character=Foreperson	name=Marcy Goldman	episodes=1 episode, 2004 	
+character=Tenant 	name=Diane Sellers	episodes=1 episode, 2004 	
+character=Calder	name=Lisa Kaseman	episodes=1 episode, 2004 	
+character=Receptionist	name=Lisa Kaseman	episodes=1 episode, 2004 	
+character=Judge Hober	name=John Berg	episodes=1 episode, 2005 	
+character=Foreman	name=Jeffrey Morrow	episodes=1 episode, 2005 	
+character=Kate	name=Sara Erikson	episodes=1 episode, 2006 	
+character=Rikki Klieman	name=Rikki Klieman	episodes=1 episode, 2006 	
+character=Nancy Murr	name=Mari Weiss	episodes=1 episode, 2006 	
+character=Reporter 	name=Patrick Belton	episodes=1 episode, 2006 	
+character=Foreman	name=Kim Delgado	episodes=1 episode, 2007 	
+character=Boy 	name=Dakota Sky	episodes=1 episode, 2007 	
+character=Sean Harmon	name=Matthew J. Williamson	episodes=1 episode, 2007 	
+character=Elizabeth Tilley	name=Mary Chris Wall	episodes=1 episode, 2008 	
+character=Tenant 	name=Gregor Manns	episodes=1 episode, 2004 	
+character=Jury Foreperson	name=Deirdre M. Smith	episodes=1 episode, 2005 	
+character=Reporter 	name=Denise Boutte	episodes=1 episode, 2006 	
+character=Atty. Beckham	name=Dig Wayne	episodes=1 episode, 2006 	
+character=John	name=Bob Rusch	episodes=1 episode, 2006 	
+character=Clerk 	name=John O	episodes=1 episode, 2007 	
+character=Clerk 	name=Brien	episodes=1 episode, 2007 	
+character=Foreperson	name=Victoria Hoffman	episodes=1 episode, 2007 	
+character=Clerk 	name=Jeffrey Markle	episodes=1 episode, 2008 	
+character=Reporter 	name=Patrick Brown	episodes=1 episode, 2006 	
+character=Female Prisoner	name=Yolanda C Benton	episodes=1 episode, 2007 	
+character=Reporter 	name=Michael Brownlee	episodes=1 episode, 2005 	
+character=Female Prisoner	name=Schatar Sapphira Collier	episodes=1 episode, 2007 	
+character=Lisa	name=Elaine Tan	episodes=1 episode, 2008 	
+character=Foreperson	name=Hugh B. Holub	episodes=1 episode, 2005 	
+character=Foreperson	name=Jean Montanti	episodes=1 episode, 2006 	
+character=Female Prisoner	name=Heather McPhaul	episodes=1 episode, 2007 	
+character=Foreperson	name=Deb Snyder	episodes=1 episode, 2007 	
+character=Guard	name=James Moses Black	episodes=1 episode, 2007 	
+character=Singer	name=Yvette Gonzalez-Nacer	episodes=1 episode, 2005 	
+character=Foreperson	name=Elizabeth Payne	episodes=1 episode, 2005 	
+character=Janice Warner	name=Mary Beth McDonough	episodes=1 episode, 2006 	
+character=Thirty-Year-Old Juror	name=Carolyn Lawrence	episodes=1 episode, 2006 	
+character=Juror 	name=Lakshmi Manchu	episodes=1 episode, 2006 	
+character=Troy	name=Will Greenberg	episodes=1 episode, 2006 	
+character=Juror 	name=Suzanne Whang	episodes=1 episode, 2006 	
+character=Reporter	name=Annmarie Lynn Gracey	episodes=1 episode, 2006 	
+character=Juror 	name=Baadja-Lyne Odums	episodes=1 episode, 2006 	
+character=Juror 	name=Carol Herman	episodes=1 episode, 2006 	
+character=Minister Bill	name=Nick Toth	episodes=1 episode, 2006 	
+character=Tim	name=Wesley Thompson	episodes=1 episode, 2006 	
+character=George	name=Brandon Ford Green	episodes=1 episode, 2006 	
+character=Bridesmaid	name=Kimberly Evan	episodes=1 episode, 2006 	
+character=Man in Suit	name=David Weisenberg	episodes=1 episode, 2006 	
+character=Dr. Kerry Woo	name=Rob Narita	episodes=1 episode, 2006 	
+character=P.I. Jerome	name=Michael Hilow	episodes=1 episode, 2006 	
+character=Female Assistant	name=Sarah Culberson	episodes=1 episode, 2006 	
+character=School Boy	name=Tanner Woodley	episodes=1 episode, 2006 	
+character=Foreperson	name=Peggy Etra	episodes=1 episode, 2006 	
+character=Bandleader	name=Billy Valentine	episodes=1 episode, 2006 	
+character=Foreperson	name=Glenda Morgan Brown	episodes=1 episode, 2006 	
+character=P.I. Smollers	name=Brad Bovee	episodes=1 episode, 2006 	
+character=Georgia Murray	name=Georgia Murray	episodes=1 episode, 2006 	
+character=Jury Forman	name=Craig Patton	episodes=1 episode, 2006 	
+character=Miguel Dominguez	name=Richard Bairos	episodes=1 episode, 2006 	
+character=Singer	name=Alfie Silas	episodes=1 episode, 2006 	
+character=Jury Foreman	name=Matthew Lenhart	episodes=1 episode, 2006 	
+character=Juror 	name=Valerie Vaile	episodes=1 episode, 2006 	
+character=Waiter	name=Jesse Daly	episodes=1 episode, 2006 	
+character=Juror 	name=Mark Tuura	episodes=1 episode, 2006 	
+character=Lawyer	name=John Summers	episodes=1 episode, 2006 	
+character=Crane	name=Brady Cook	episodes=1 episode, 2006 	
+character=Assistant	name=Brady Cook	episodes=1 episode, 2006 	
+character=Juror 	name=Michele Moreno	episodes=1 episode, 2006 	
+character=Juror 	name=Dennis Chavis	episodes=1 episode, 2006 	
+character=Secondary Juror	name=Diana Kyle	episodes=1 episode, 2006 	
+character=Officer Ellen Belott	name=Angela Goethals	episodes=1 episode, 2007 	
+character=Court Reporter	name=Rich Ting	episodes=1 episode, 2007 	
+character=Juror	name=Alex Spencer	episodes=1 episode, 2007 	
+character=Assistant U.S. Attorney	name=Lyle Skosey	episodes=1 episode, 2007 	
+character=Reporter	name=Spencer Scott	episodes=1 episode, 2007 	
+character=Court Observer	name=Leslie Rishkofski	episodes=1 episode, 2007 	
+character=Giselli	name=Camille Solari	episodes=1 episode, 2008 	
+character=Oliver Atkins	name=Tom Kemp	episodes=1 episode, 2008 	
+character=Juror	name=Christon Blue	episodes=1 episode, 2008 	
+character=Xavier	name=Soren Hellerup	episodes=1 episode, 2008 	
+character=Paralegal	name=Elizabeth Narciso	episodes=1 episode, 2008 	
+character=Asst. DA	name=Susyn Elise Duris	episodes=1 episode, 2008 	
+character=Assistant District Attorney	name=Lisa Temple	episodes=1 episode, 2008 	
+character=Juror	name=Regina Palian	episodes=1 episode, 2008 	
+character=Chef	name=Mike Faverman	episodes=1 episode, 2008 	
+character=Denny Crane	name=Adalia Braydon	episodes=1 episode, 2008 	
+character=Secretary	name=Adalia Braydon	episodes=1 episode, 2008 	
+character=Underwood	name=Frank Stirling	episodes=1 episode, 2008 	
+character=Thomason	name=Paul Buxton	episodes=1 episode, 2008 	
+character=Evans	name=Randall Barnett	episodes=1 episode, 2008 	
+character=Reid	name=Eugene Boles	episodes=1 episode, 2008 	
+character=Background	name=Scott Goldrich	episodes=1 episode, 2008 	
+character=Courtroom Attendent	name=Shay Kuehlmann	episodes=1 episode, 2008 	
+character=Casey	name=Liza Oppenheimer	episodes=1 episode, 2008 	
+character=Zinberg	name=Elgin Brown	episodes=1 episode, 2008 	
+character=Jury Member	name=V.S. Russell	episodes=1 episode, 2008 	
+character=Paralegal	name=Cynthia Harmon	episodes=12 episodes, 2004-2008 	
+character=Juror	name=Norma Jean	episodes=4 episodes, 2007-2008 	
+character=Reporter	name=Ken Edling	episodes=4 episodes, 2007-2008 	
+character=Attorney	name=John Robert	episodes=4 episodes, 2007 	
+character=Client	name=John Robert	episodes=4 episodes, 2007 	
+character=Bailiff	name=Bill Porter	episodes=3 episodes, 2007-2008 	
+character=Reporter	name=Brett Hunt	episodes=3 episodes, 2008 	
+character=Lawyer	name=Michael A. Templeton	episodes=3 episodes, 2008 	
+character=Paralegal	name=Nina Avetisova	episodes=2 episodes, 2004-2005 	
+character=Justin Murray	name=Jason Brooks	episodes=2 episodes, 2005 	
+character=Dewey	name=David Axel	episodes=2 episodes, 2005 	
+character=Man in Gallery	name=Arne Starr	episodes=2 episodes, 2006-2008 	
+character=Juror	name=Michael Ray Reed	episodes=2 episodes, 2006-2007 	
+character=Wedding Guest	name=Kathleen Davis	episodes=2 episodes, 2006 	
+character=Courtroom	name=Mark A. Nash	episodes=2 episodes, 2008 	
+character=Reporter	name=Brian Waller	episodes=2 episodes, 2008 	
+character=Attorney	name=Renee Taglia	episodes=2 episodes, 2008 	
+character=Emily Watson	name=Joelle ten Damme	episodes=2 episodes, 2008 	
+character=Zhang Wu	name=Ron Yuan	episodes=1 episode, 2004 	
+character=Lee Tyler	name=Linda Gehringer	episodes=1 episode, 2004 	
+character=DA	name=Susana G. Esteban	episodes=1 episode, 2004 	
+character=Assistant	name=Susana G. Esteban	episodes=1 episode, 2004 	
+character=News Reporter	name=Jennifer Kaye Evans	episodes=1 episode, 2004 	
+character=Pedestrian	name=Stephen Silberkraus	episodes=1 episode, 2004 	
+character=Political Ad Announcer	name=Mark C. Baldwin	episodes=1 episode, 2004 	
+character=Paralegal	name=Parker Quinn	episodes=1 episode, 2004 	
+character=Rosalyn	name=Jessica Ray	episodes=1 episode, 2004 	
+character=Prisoner 	name=Jim Kratt	episodes=1 episode, 2004 	
+character=Prisoner 	name=Craig Mitchell	episodes=1 episode, 2004 	
+character=Client	name=Mike Sode	episodes=1 episode, 2004 	
+character=Mrs. Deboru	name=Shem Walker	episodes=1 episode, 2004 	
+character=Troi Ran	name=Rick Yune	episodes=1 episode, 2005 	
+character=Billy Jr.	name=Cory Hardrict	episodes=1 episode, 2005 	
+character=Beautiful Woman	name=Kitana Baker	episodes=1 episode, 2005 	
+character=Dr. Jeffrey Wong	name=Charles Rahi Chun	episodes=1 episode, 2005 	
+character=Ellen Webster	name=Christina Souza	episodes=1 episode, 2005 	
+character=Defendant	name=Jenny Leonhardt	episodes=1 episode, 2005 	
+character=Wife	name=Jenny Leonhardt	episodes=1 episode, 2005 	
+character=Melissa Stevens	name=Maura Soden	episodes=1 episode, 2005 	
+character=Musician	name=Jermaine Stegall	episodes=1 episode, 2005 	
+character=Ana	name=Barbara Scolaro	episodes=1 episode, 2005 	
+character=Juror	name=Gus Lynch	episodes=1 episode, 2005 	
+character=TV Reporter	name=Harrison Held	episodes=1 episode, 2005 	
+character=Vince Odoms	name=Michael Glover	episodes=1 episode, 2005 	
+character=Bar Patron	name=Kevin Wayne Berger	episodes=1 episode, 2005 	
+character=Juror	name=Nick Lee	episodes=1 episode, 2005 	
+character=Drunk Bar Patron	name=Paulah May	episodes=1 episode, 2005 	
+character=Juror	name=Shawn Barber	episodes=1 episode, 2005 	
+character=James Nasland	name=Oded Gross	episodes=1 episode, 2005 	
+character=Assistant DA	name=Stephen Wheeler	episodes=1 episode, 2005 	
+character=Juror	name=Christopher J. Marcinko	episodes=1 episode, 2005 	
+character=Reporter	name=Freddie Johnson	episodes=1 episode, 2005 	
+character=Annie Spotnick	name=Leah Lail	episodes=1 episode, 2006 	
+character=Man	name=James Troesh	episodes=1 episode, 2006 	
+character=Sandy	name=Scarlett Chorvat	episodes=1 episode, 2006 	
+character=Dr. Claire Simon	name=Patti Yasutake	episodes=1 episode, 2006 	
+character=Reporter	name=Kim Webb	episodes=1 episode, 2006 	
+character=Saundra	name=Danielle Sapia	episodes=1 episode, 2006 	
+character=The Man	name=D. Elliot Woods	episodes=1 episode, 2006 	
+character=Coroner	name=Britt George	episodes=1 episode, 2006 	
+character=Bailiff	name=Laura Ann Tull	episodes=1 episode, 2006 	
+character=Jury Foreperson	name=Hollis Doherty	episodes=1 episode, 2006 	
+character=Plaintiff	name=Elaine Lockhart	episodes=1 episode, 2006 	
+character=Reporter 	name=Kerry Finlayson	episodes=1 episode, 2006 	
+character=Secretary	name=Diz White	episodes=1 episode, 2006 	
+character=Job Applicant	name=Zondra Wilson	episodes=1 episode, 2006 	
+character=Thug 	name=Taylor McCluskey	episodes=1 episode, 2006 	
+character=On-Air Reporter	name=Kimberly Bosso	episodes=1 episode, 2006 	
+character=Digna	name=Robin Wilson	episodes=1 episode, 2006 	
+character=Job Applicant	name=Dayan Kodua	episodes=1 episode, 2006 	
+character=Groomsman	name=Dieter Horneman	episodes=1 episode, 2006 	
+character=Rachel Carpenter	name=Danielle Phelan	episodes=1 episode, 2006 	
+character=Juror	name=Job Alonso	episodes=1 episode, 2006 	
+character=Spa Attendant	name=Mion Lee	episodes=1 episode, 2006 	
+character=Thug 	name=A.J. Presley	episodes=1 episode, 2006 	
+character=Reporter	name=L.G. Ross	episodes=1 episode, 2006 	
+character=Dancing Lawyer	name=Tucker Maloney	episodes=1 episode, 2006 	
+character=Juror	name=Marissa Welsh	episodes=1 episode, 2006 	
+character=Waitress	name=Elizabeth Susan Carter	episodes=1 episode, 2006 	
+character=Crane	name=Kristin Somo	episodes=1 episode, 2006 	
+character=Assistant	name=Kristin Somo	episodes=1 episode, 2006 	
+character=Waiter	name=Mark Knudsen	episodes=1 episode, 2006 	
+character=HMO CEO	name=Dennis Lee Nowicki	episodes=1 episode, 2006 	
+character=Lawyer	name=Christina Romero Mollison	episodes=1 episode, 2006 	
+character=White Collar Criminal	name=Brian Vowell	episodes=1 episode, 2006 	
+character=Reporter	name=Vincent Maeder	episodes=1 episode, 2006 	
+character=Courtroom Observer	name=Emilio Cueto	episodes=1 episode, 2006 	
+character=Man in Restaurant	name=Fernando Alessandri	episodes=1 episode, 2006 	
+character=Juror	name=Brett Weston	episodes=1 episode, 2006 	
+character=Bartender	name=Ashley Sawdaye	episodes=1 episode, 2006 	
+character=Jury Audience Member	name=Michael Miraula	episodes=1 episode, 2006 	
+character=Bartender	name=Cory Smith	episodes=1 episode, 2006 	
+character=Baliff	name=Lance Irwin	episodes=1 episode, 2007 	
+character=Featured Vocalist	name=Antonio Sol	episodes=1 episode, 2007 	
+character=Attorney	name=Robin Tweed	episodes=1 episode, 2007 	
+character=Undercover Narc	name=Mark Hicks	episodes=1 episode, 2007 	
+character=Prisoner 	name=Don Pugsley	episodes=1 episode, 2007 	
+character=Model 	name=Stacey Hayes	episodes=1 episode, 2007 	
+character=Producer	name=Melissa Cook	episodes=1 episode, 2007 	
+character=Court Clerk	name=Graham Clarke	episodes=1 episode, 2007 	
+character=Bailiff	name=Frank Mercuri	episodes=1 episode, 2007 	
+character=A.D.A. Alexa Chen	name=Emily Liu	episodes=1 episode, 2007 	
+character=Paralegal	name=Anthony W. Preston	episodes=1 episode, 2007 	
+character=Ryan	name=Kristopher Maz	episodes=1 episode, 2007 	
+character=Prisoner 	name=Leandro Cano	episodes=1 episode, 2007 	
+character=Arresting Officer	name=Mary McNeill	episodes=1 episode, 2007 	
+character=Courtroom Observer	name=Christopher Andrews	episodes=1 episode, 2007 	
+character=Prisoner 	name=Enrique Almeida	episodes=1 episode, 2007 	
+character=Crying Juror	name=Konstantine Anthony	episodes=1 episode, 2007 	
+character=Model 	name=Marie Michel	episodes=1 episode, 2007 	
+character=Court Clerk	name=Ava Marie Carmichael	episodes=1 episode, 2007 	
+character=Mistress	name=Gina Gianni	episodes=1 episode, 2007 	
+character=Juror	name=Greg Brown	episodes=1 episode, 2007 	
+character=Dr. Harold Prescott	name=David Lowell	episodes=1 episode, 2007 	
+character=Court Spectator	name=Dave Johnson	episodes=1 episode, 2007 	
+character=CNN Reporter	name=Marie Antoinette	episodes=1 episode, 2007 	
+character=Featured Vocalist	name=Brandon Alameda	episodes=1 episode, 2007 	
+character=Featured Vocalist	name=David Loucks	episodes=1 episode, 2007 	
+character=Woman	name=Aubrey Chandler	episodes=1 episode, 2007 	
+character=Reporter	name=DeRynn Thompson	episodes=1 episode, 2007 	
+character=Jury Forman	name=Sean Ross	episodes=1 episode, 2007 	
+character=Legal Clerk	name=Kristin Crandall	episodes=1 episode, 2007 	
+character=Court Observer	name=Antonio T. Tillman	episodes=1 episode, 2007 	
+character=Associate Attorney	name=Ron Schwartz	episodes=1 episode, 2007 	
+character=Prisoner 	name=Charlie Adams	episodes=1 episode, 2007 	
+character=Model 	name=Sarita Michelle	episodes=1 episode, 2007 	
+character=Reporter	name=Taya Asimos	episodes=1 episode, 2007 	
+character=Crying Juror	name=Geri Mars	episodes=1 episode, 2007 	
+character=Background Actor	name=Brian Santos	episodes=1 episode, 2007 	
+character=Court Clerk	name=Kellie Guinot	episodes=1 episode, 2007 	
+character=Assistant Prosecutor	name=Laura Lyman	episodes=1 episode, 2007 	
+character=Lawyer	name=Sunil Narkar	episodes=1 episode, 2008 	
+character=Foreman	name=Stephen Holland	episodes=1 episode, 2008 	
+character=Assistant D.A.	name=Karmyn Tyler	episodes=1 episode, 2008 	
+character=Witness	name=Margot Demeter	episodes=1 episode, 2008 	
+character=Lawyer	name=Kayd Currier	episodes=1 episode, 2008 	
+character=Dr. Harvey Loper	name=Philip Newby	episodes=1 episode, 2008 	
+character=FBI Agent	name=Jerald Garner	episodes=1 episode, 2008 	
+character=Network Executive	name=Steve Sabo	episodes=1 episode, 2008 	
+character=Juror	name=Lori Caulfield	episodes=1 episode, 2008 	
+character=Receptionist	name=Candice Cunningham	episodes=1 episode, 2008 	
+character=Law Clerk	name=Kellie Koppel	episodes=1 episode, 2008 	
+character=TV Reporter	name=Ricardo Finnis	episodes=1 episode, 2008 	
+character=Reporter	name=Yoni Tabac	episodes=1 episode, 2008 	
+character=Singing Juror	name=Matt Braaten	episodes=1 episode, 2008 	
+character=Reporter	name=John Jason Bailey	episodes=1 episode, 2008 	
+character=Paralegal	name=Erik Kowalski	episodes=1 episode, 2008 	
+character=Medical staff member	name=Tom Hoads	episodes=1 episode, 2008 	
+character=Jury Member	name=Krystal Grenseman	episodes=1 episode, 2008 	
+character=Coast Guard	name=Robert Benny	episodes=1 episode, 2008 	
+character=Juror	name=Eric Bolton	episodes=1 episode, 2008 	
+character=Juror	name=Chasey James	episodes=1 episode, 2008 	

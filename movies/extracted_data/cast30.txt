@@ -1,0 +1,226 @@
+# http://fitlayout.github.io/resource/art30 -> https://www.imdb.com/title/tt3516878/fullcredits/
+character=Detective Andrea Cornell	name=Juliette Lewis	episodes=20 episodes, 2015-2016 	
+character=Ben Crawford	name=Ryan Phillippe	episodes=10 episodes, 2015 	
+character=Christy Crawford	name=KaDee Strickland	episodes=10 episodes, 2015 	
+character=Kate Warner	name=Jordana Brewster	episodes=10 episodes, 2016 	
+character=Dave Lindsey	name=Dan Fogler	episodes=10 episodes, 2015 	
+character=Amanda Warner	name=Mekia Cox	episodes=10 episodes, 2016 	
+character=Jess Murphy	name=Natalie Martinez	episodes=10 episodes, 2015 	
+character=Patrick Warner	name=Charlie Barnett	episodes=10 episodes, 2016 	
+character=Natalie Crawford	name=Indiana Evans	episodes=10 episodes, 2015 	
+character=Danny Voss	name=Kenny Johnson	episodes=10 episodes, 2016 	
+character=Abby Crawford	name=Belle Shouse	episodes=10 episodes, 2015 	
+character=John Warner	name=Quinn	episodes=10 episodes, 2016 	
+character=John Warner	name=Terry O	episodes=10 episodes, 2016 	
+character=Eric Warner	name=Michael Ealy	episodes=10 episodes, 2016 	
+character=Elaine Williams	name=Denise Dowse	episodes=9 episodes, 2015 	
+character=Neil Oliver	name=Eric Winter	episodes=8 episodes, 2016 	
+character=Tom Murphy	name=Aiden Malik	episodes=8 episodes, 2015 	
+character=Melanie Warner	name=AnnaLynne McCord	episodes=7 episodes, 2016 	
+character=Major Bryant	name=David James Elliott	episodes=7 episodes, 2016 	
+character=May Stone	name=McNally Sagal	episodes=7 episodes, 2016 	
+character=Detective Ralston	name=Brendan Hines	episodes=7 episodes, 2016 	
+character=Michael James	name=Jason Davis	episodes=6 episodes, 2015 	
+character=Kevin Williams	name=Gregory Alan Williams	episodes=6 episodes, 2015 	
+character=Lisa Daly	name=Melissa Gilbert	episodes=5 episodes, 2015 	
+character=Nicole	name=Meaghan Rath	episodes=5 episodes, 2015 	
+character=Young Eric 	name=Myles Nathaniel	episodes=5 episodes, 2016 	
+character=Carly Sinclair	name=Presilah Nunez	episodes=4 episodes, 2016 	
+character=Arthur Fenton	name=Michael Beach	episodes=4 episodes, 2015 	
+character=Vanessa Richardson	name=Kate Ashfield	episodes=4 episodes, 2015 	
+character=Dr. Joseph Richardson	name=Steven Brand	episodes=4 episodes, 2015 	
+character=John Garner	name=Timothy Busfield	episodes=4 episodes, 2015 	
+character=John Patrick	name=French Stewart	episodes=4 episodes, 2015-2016 	
+character=Jennifer Barrett	name=Cole Bernstein	episodes=4 episodes, 2015-2016 	
+character=Young Patrick 	name=Justice Alan	episodes=4 episodes, 2016 	
+character=Ethan Barrett	name=Jake Weber	episodes=3 episodes, 2015-2016 	
+character=Belinda Peterson	name=Romy Rosemont	episodes=3 episodes, 2016 	
+character=Scott Murphy	name=Jack St-James	episodes=3 episodes, 2015 	
+character=Detective Felicia Sanchez	name=Dawn Olivieri	episodes=3 episodes, 2016 	
+character=Dr. Greg Young	name=Edwin Hodge	episodes=3 episodes, 2016 	
+character=Matt Daly	name=Tad Cooley	episodes=3 episodes, 2015 	
+character=Liam Connors	name=Graham Phillips	episodes=3 episodes, 2016 	
+character=ADA Ken Turk	name=Michael B. Silver	episodes=3 episodes, 2015-2016 	
+character=Young Amanda 	name=Corinne Massiah	episodes=3 episodes, 2016 	
+character=Uniform 	name=Kendrick Cross	episodes=3 episodes, 2015 	
+character=Reporter 	name=John Crow	episodes=3 episodes, 2015 	
+character=Yvonne	name=Amber Bela Muse	episodes=3 episodes, 2016 	
+character=Danny Gold	name=Eric Lange	episodes=2 episodes, 2015 	
+character=Shane Campbell	name=Carter MacIntyre	episodes=2 episodes, 2016 	
+character=Cooper	name=Sean Grandillo	episodes=2 episodes, 2015 	
+character=Angry Wife	name=Mary Chris Wall	episodes=2 episodes, 2015 	
+character=Rachel	name=Virginia Gardner	episodes=2 episodes, 2016 	
+character=Carrie-Ann	name=Remy Nozik	episodes=2 episodes, 2016 	
+character=Henry Stratman	name=Mark D. Espinoza	episodes=2 episodes, 2016 	
+character=Sam Morrison	name=Jon Briddell	episodes=2 episodes, 2015 	
+character=Tina Sawyer	name=Nikiva Dionne	episodes=2 episodes, 2016 	
+character=Sheriff 	name=Leon Pridgen	episodes=2 episodes, 2015 	
+character=Receptionist	name=Chelsea Yakura-Kurtz	episodes=2 episodes, 2016 	
+character=Reporter 	name=Myke Holmes	episodes=2 episodes, 2015 	
+character=Fence Ho	name=Amber Erwin	episodes=2 episodes, 2015 	
+character=Reporter	name=Sara Hopkins	episodes=2 episodes, 2015 	
+character=Tech	name=Miles Mussenden	episodes=1 episode, 2015 	
+character=Charlie Peterson	name=Cody Anthony	episodes=1 episode, 2016 	
+character=Phil	name=Christopher May	episodes=1 episode, 2016 	
+character=Barfly	name=Mary Mara	episodes=1 episode, 2015 	
+character=Billy Andrews	name=Griff Furst	episodes=1 episode, 2015 	
+character=Tyler Daly	name=Dillon Lane	episodes=1 episode, 2015 	
+character=Corinne	name=Roxanne Hart	episodes=1 episode, 2016 	
+character=Ellie Lindsey	name=Caroline Aaron	episodes=1 episode, 2015 	
+character=Laura	name=Allie McCulloch	episodes=1 episode, 2015 	
+character=Leo	name=Aaron Christian Howles	episodes=1 episode, 2015 	
+character=R.B. Warner	name=Adam Kaufman	episodes=1 episode, 2016 	
+character=Allison	name=Sumiko Braun	episodes=1 episode, 2016 	
+character=Reporter 	name=Josh Canfield	episodes=1 episode, 2016 	
+character=Shannon	name=Kim Wall	episodes=1 episode, 2015 	
+character=Carnie	name=Timmy Sherrill	episodes=1 episode, 2015 	
+character=Bartender	name=Mike Platarote Jr.	episodes=1 episode, 2015 	
+character=Medical Examiner	name=Ursula Burton	episodes=1 episode, 2016 	
+character=Steven Porter	name=Daniel Joseph Del Valle	episodes=1 episode, 2016 	
+character=Roger Johnson	name=Judd Lormand	episodes=1 episode, 2015 	
+character=Older Woman	name=Elizabeth Becka	episodes=1 episode, 2015 	
+character=Linda	name=Tonya Bludsworth	episodes=1 episode, 2015 	
+character=Drunk	name=Al Hamacher	episodes=1 episode, 2015 	
+character=Uniform 	name=Christopher Johnson	episodes=1 episode, 2015 	
+character=Reporter 	name=Matt McHugh	episodes=1 episode, 2015 	
+character=Janice	name=Chelsea Field	episodes=1 episode, 2016 	
+character=Woman	name=Laura Gardner	episodes=1 episode, 2016 	
+character=Sebastian Graves	name=Michael Rose	episodes=1 episode, 2016 	
+character=Investigator	name=George Barber	episodes=1 episode, 2016 	
+character=Uniform 	name=Andrene Ward-Hammond	episodes=1 episode, 2015 	
+character=Bryan	name=Kenny Alfonso	episodes=1 episode, 2015 	
+character=Reporter 	name=Jack Landry	episodes=1 episode, 2015 	
+character=Reporter 	name=Tamara Farias	episodes=1 episode, 2015 	
+character=Rachel Voss	name=Isabella Crovetti	episodes=1 episode, 2016 	
+character=Reporter 	name=Nanrisa Lee	episodes=1 episode, 2016 	
+character=Mark Peterson	name=Larry Poindexter	episodes=1 episode, 2016 	
+character=Jake	name=Rodney Rowland	episodes=1 episode, 2016 	
+character=Sheriff 	name=Arriane Alexander	episodes=1 episode, 2016 	
+character=Gavin	name=Ron Butler	episodes=1 episode, 2016 	
+character=Uniform 	name=Cantrell Harris	episodes=1 episode, 2016 	
+character=Uniform 	name=Cullen Moss	episodes=1 episode, 2015 	
+character=CSI	name=Keith Flippen	episodes=1 episode, 2015 	
+character=James Goring	name=Ryan Boz	episodes=1 episode, 2015 	
+character=Reporter 	name=Frank Corcoran	episodes=1 episode, 2015 	
+character=Guy	name=Alexander Bryant	episodes=1 episode, 2015 	
+character=Lab Tech	name=Salina Lee	episodes=1 episode, 2015 	
+character=Ivan Dale	name=Nigel Gibbs	episodes=1 episode, 2016 	
+character=Marjorie	name=Annie Korzen	episodes=1 episode, 2016 	
+character=Albert	name=Kim Estes	episodes=1 episode, 2016 	
+character=Detective Oscar Reyna	name=Al Coronel	episodes=1 episode, 2016 	
+character=Sheriff 	name=Mickey Maxwell	episodes=1 episode, 2016 	
+character=Detective Don Beekman	name=Anthony Reynolds	episodes=1 episode, 2015 	
+character=Sheriff	name=Paul Vincent Freeman	episodes=1 episode, 2015 	
+character=Newscaster	name=Caroline Renfro	episodes=1 episode, 2015 	
+character=NY Detective	name=Bruno Amato	episodes=1 episode, 2016 	
+character=Billy, the Bail Bondsman	name=Blake Gibbons	episodes=1 episode, 2016 	
+character=Ashley	name=Natalia Castellanos	episodes=1 episode, 2016 	
+character=Reporter 	name=Jill Remez	episodes=1 episode, 2016 	
+character=Nurse	name=Treisa Gary	episodes=1 episode, 2016 	
+character=Motel Clerk	name=Patrick Hume	episodes=1 episode, 2016 	
+character=Niles Hardwicke	name=Mark Ashworth	episodes=1 episode, 2015 	
+character=Bus Driver	name=Alisa Harris	episodes=1 episode, 2015 	
+character=Gretchen Strong	name=Tiffany Satoris	episodes=1 episode, 2015 	
+character=Craig	name=Dylan DePaula	episodes=1 episode, 2015 	
+character=Banker	name=Mel Fair	episodes=1 episode, 2016 	
+character=John	name=Doug Jeffery	episodes=1 episode, 2016 	
+character=Bartender	name=Andy Taylor Kim	episodes=1 episode, 2016 	
+character=Jake	name=Kasi Brown	episodes=1 episode, 2016 	
+character=Wife	name=Kasi Brown	episodes=1 episode, 2016 	
+character=CSI Tech Carter	name=Drew Fonteiro	episodes=1 episode, 2016 	
+character=Uni	name=Jill Henderlight	episodes=1 episode, 2016 	
+character=Dad	name=Jessejames Locorriere	episodes=1 episode, 2015 	
+character=Craig	name=Jessejames Locorriere	episodes=1 episode, 2015 	
+character=Gerald	name=Nick Basta	episodes=1 episode, 2015 	
+character=Andrew	name=James Patrick Freetly	episodes=1 episode, 2015 	
+character=Photographer 	name=Christopher Harvey	episodes=1 episode, 2015 	
+character=Man	name=Jaret Sears	episodes=1 episode, 2015 	
+character=Call Girl 	name=Caitlin Leahy	episodes=1 episode, 2016 	
+character=Frank Soica	name=Rocky McMurray	episodes=1 episode, 2016 	
+character=Security Guard Harris	name=Stacy Hall	episodes=1 episode, 2016 	
+character=Assistant District Attorney	name=Chris Mollica	episodes=1 episode, 2016 	
+character=Jesse	name=Mike Maolucci	episodes=1 episode, 2016 	
+character=Man	name=Aaron Pont	episodes=1 episode, 2016 	
+character=Baxter	name=Cranston Johnson	episodes=1 episode, 2015 	
+character=Julie	name=Terri James	episodes=1 episode, 2015 	
+character=Nelson	name=Anthony Crawford	episodes=1 episode, 2015 	
+character=TJ	name=Justin Lopez	episodes=1 episode, 2016 	
+character=Driver	name=Hash Patel	episodes=1 episode, 2016 	
+character=Uniform 	name=Allen Warchol	episodes=1 episode, 2016 	
+character=Waitress	name=Scott People	episodes=1 episode, 2016 	
+character=Franklin Shaw	name=Roy McCrerey	episodes=1 episode, 2015 	
+character=Rick	name=Ilan Muallem	episodes=1 episode, 2015 	
+character=Newscaster	name=Amy Wegmann	episodes=1 episode, 2015 	
+character=Uniformed Officer	name=Corey Mendell Parker	episodes=1 episode, 2016 	
+character=Bob	name=David Weisenberg	episodes=1 episode, 2016 	
+character=Broker Bro	name=Alex Polcyn	episodes=1 episode, 2016 	
+character=Raquel	name=Wendy Wynne	episodes=1 episode, 2015 	
+character=Salesman	name=Miko DeFoor	episodes=1 episode, 2015 	
+character=Chaplain	name=Staley Colvert	episodes=1 episode, 2015 	
+character=Cameraman 	name=Chris Walters	episodes=1 episode, 2015 	
+character=Hal Markum	name=Peter James Smith	episodes=1 episode, 2016 	
+character=Lab Tech	name=Irene Santiago	episodes=1 episode, 2015 	
+character=News Reporter	name=Evan Kelly	episodes=1 episode, 2015 	
+character=WQIX Anchor	name=Kristen McFann	episodes=1 episode, 2015 	
+character=Reporter 	name=Allison Gabriel	episodes=1 episode, 2015 	
+character=Reporter 	name=Mike Whaley	episodes=1 episode, 2015 	
+character=Nathaniel Arkin	name=John M. Adrian	episodes=1 episode, 2015 	
+character=Reporter 	name=Ann McAdams	episodes=1 episode, 2015 	
+character=Cameraman	name=Alan Boell	episodes=1 episode, 2015 	
+character=Examiner	name=Geordie White	episodes=1 episode, 2015 	
+character=Man	name=William Flaman	episodes=1 episode, 2015 	
+character=Guy in Fatigues	name=Euseph Messiah	episodes=1 episode, 2015 	
+character=Yoga Instructor	name=Justin Cone	episodes=1 episode, 2016 	
+character=Detective Decker	name=Patt Noday	episodes=1 episode, 2015 	
+character=College Kid	name=Dallas White	episodes=1 episode, 2015 	
+character=Block Party Kid	name=Diana Moon Alfaro	episodes=1 episode, 2015 	
+character=Detective Sergeant	name=Robert Fortunato	episodes=8 episodes, 2015 	
+character=Carnival Goer	name=Mary Austin	episodes=3 episodes, 2015 	
+character=Channel 7 Reporter	name=David Schifter	episodes=2 episodes, 2015 	
+character=CSI	name=Rochelle Aycoth	episodes=2 episodes, 2015 	
+character=Carnival attendee	name=Julianna Barkas	episodes=2 episodes, 2015 	
+character=News Reporter	name=Alisa Locke	episodes=2 episodes, 2015 	
+character=Pedestrian	name=Silawn Lewis	episodes=2 episodes, 2016 	
+character=Detective	name=Toni French	episodes=2 episodes, 2016 	
+character=Dave	name=Ashley Bratcher	episodes=1 episode, 2015 	
+character=Date	name=Ashley Bratcher	episodes=1 episode, 2015 	
+character=Woman 	name=Ashley Bratcher	episodes=1 episode, 2015 	
+character=Col. Gwen Anderson	name=Brandi Nicole Wilson	episodes=1 episode, 2015 	
+character=Detective	name=Tommy Brown	episodes=1 episode, 2015 	
+character=Police Officer	name=Michael Mercaldi	episodes=1 episode, 2015 	
+character=Biker in Bar	name=Rob Kellum	episodes=1 episode, 2015 	
+character=Shopper	name=Steve Baldwin	episodes=1 episode, 2015 	
+character=News Reporter	name=Brandon Oakley	episodes=1 episode, 2015 	
+character=News Camera Woman	name=Sherri Robinson	episodes=1 episode, 2015 	
+character=Detective	name=Jerome L. Williams	episodes=1 episode, 2015 	
+character=Townsfolk	name=Cody Mark Hanna	episodes=1 episode, 2015 	
+character=July Kid	name=Ryan McNeil	episodes=1 episode, 2015 	
+character=Uniformed Cop	name=Michael Joe Young	episodes=1 episode, 2015 	
+character=Lawyer	name=David Pascua	episodes=1 episode, 2015 	
+character=Party D.J.	name=William Frasca	episodes=1 episode, 2015 	
+character=Biker in Bar	name=Joe Montanti	episodes=1 episode, 2015 	
+character=Funeral Mourner	name=Mark Salas	episodes=1 episode, 2015 	
+character=Neighbor	name=Jerry Schuller	episodes=1 episode, 2015 	
+character=Funeral Goer	name=Nancy Rouse Hodges	episodes=1 episode, 2015 	
+character=Funeral Goer	name=Joseph Milton Hodges Jr.	episodes=1 episode, 2015 	
+character=Inmate	name=Kegan Dean Rushing	episodes=1 episode, 2015 	
+character=Police Officer	name=Jonathan Edwards	episodes=1 episode, 2015 	
+character=Prison Guard	name=Ben Yemba	episodes=1 episode, 2015 	
+character=Carnival Goer	name=Gianna Lorenn Singleton	episodes=1 episode, 2015 	
+character=Carnival Goer	name=Kurt Barner	episodes=1 episode, 2015 	
+character=Neighborhood Teen	name=Emily Wertz	episodes=1 episode, 2015 	
+character=Reporter	name=Carolyn Foland	episodes=1 episode, 2015 	
+character=Photographer	name=Robert Gregory Cole	episodes=1 episode, 2015 	
+character=Carnival Balloon Twister	name=Kevie Penny	episodes=1 episode, 2015 	
+character=Funeral Goer	name=Rusty Burrow	episodes=1 episode, 2015 	
+character=News Reporter	name=Sean Powell	episodes=1 episode, 2015 	
+character=Funeral Goer	name=Illie Dawson	episodes=1 episode, 2015 	
+character=Neighborhood Teen	name=Kyle Martinez	episodes=1 episode, 2015 	
+character=Bar Patron	name=Lori Stamm	episodes=1 episode, 2015 	
+character=Goon 	name=Brandon Molale	episodes=1 episode, 2016 	
+character=Feaux Amanda	name=Paige Annette	episodes=1 episode, 2016 	
+character=Server	name=Punnavith Koy	episodes=1 episode, 2016 	
+character=Security Guard	name=Alison Yates	episodes=1 episode, 2016 	
+character=Redneck Joe	name=Joe P. Harris	episodes=1 episode, 2016 	
+character=Waitress	name=Alycen Malone	episodes=1 episode, 2016 	
+character=The photographer	name=Gregory Joiner	episodes=1 episode, 2016 	

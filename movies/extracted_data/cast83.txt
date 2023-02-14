@@ -1,0 +1,111 @@
+# http://fitlayout.github.io/resource/art83 -> https://www.imdb.com/title/tt8594276/fullcredits/
+character=Daisy 	name=Carla Gugino	episodes=9 episodes, 2019 	
+character=Kowalski	name=Carla Gugino	episodes=9 episodes, 2019 	
+character=Jett	name=Carla Gugino	episodes=9 episodes, 2019 	
+character=María	name=Elena Anaya	episodes=9 episodes, 2019 	
+character=Jack 	name=Michael Aronov	episodes=9 episodes, 2019 	
+character=Dillon	name=Michael Aronov	episodes=9 episodes, 2019 	
+character=Jackie	name=Michael Aronov	episodes=9 episodes, 2019 	
+character=Phoenix	name=Gaite Jansen	episodes=9 episodes, 2019 	
+character=Evans	name=Gil Bellows	episodes=9 episodes, 2019 	
+character=Bennie	name=Christopher Backus	episodes=9 episodes, 2019 	
+character=Charles Junior	name=Gentry White	episodes=9 episodes, 2019 	
+character=Josie	name=Jodie Turner-Smith	episodes=9 episodes, 2019 	
+character=Alice	name=Violet McGraw	episodes=9 episodes, 2019 	
+character=Charlie Baudelaire	name=Giancarlo Esposito	episodes=9 episodes, 2019 	
+character=Carl	name=Rainbow Sun Francks	episodes=7 episodes, 2019 	
+character=Rosalie	name=Lucy Walters	episodes=6 episodes, 2019 	
+character=Neal	name=Gus Halper	episodes=5 episodes, 2019 	
+character=Taggart	name=Alex Mallari Jr.	episodes=5 episodes, 2019 	
+character=Bobby	name=Gregg Lowe	episodes=4 episodes, 2019 	
+character=Quinn	name=Mustafa Shakir	episodes=4 episodes, 2019 	
+character=Blair	name=Shiloh Fernandez	episodes=4 episodes, 2019 	
+character=McKay	name=David Aron Damane	episodes=4 episodes, 2019 	
+character=Dwight Tucker	name=Jonathan Koensgen	episodes=4 episodes, 2019 	
+character=Hopper	name=Dwain Murphy	episodes=4 episodes, 2019 	
+character=Miljan Bestic	name=Greg Bryk	episodes=3 episodes, 2019 	
+character=Helen	name=Rya Kihlstedt	episodes=3 episodes, 2019 	
+character=Fred Mooney	name=Hamza Haq	episodes=3 episodes, 2019 	
+character=Mrs. Baudelaire	name=Chivonne Michelle	episodes=3 episodes, 2019 	
+character=Hotel Doorman	name=Shelly Antony	episodes=3 episodes, 2019 	
+character=Mr. Carlyle	name=Bruce Greenwood	episodes=2 episodes, 2019 	
+character=Vicky	name=Natalie Hall	episodes=2 episodes, 2019 	
+character=Sweeney	name=Stuart Hughes	episodes=2 episodes, 2019 	
+character=Malibu	name=Nola Palmer	episodes=2 episodes, 2019 	
+character=Viktor Solonik	name=Andreas Apergis	episodes=2 episodes, 2019 	
+character=Jacinto Salas	name=Ache Hernandez	episodes=2 episodes, 2019 	
+character=Henry	name=Jesse Aaron Dwyre	episodes=2 episodes, 2019 	
+character=Nolan	name=Derek Gilroy	episodes=2 episodes, 2019 	
+character=Octavio	name=Richard Chevolleau	episodes=2 episodes, 2019 	
+character=Seth	name=Stephen Chambers	episodes=2 episodes, 2019 	
+character=Joe Garson	name=Tony Nappo	episodes=2 episodes, 2019 	
+character=Wayne	name=James Cade	episodes=2 episodes, 2019 	
+character=Miss Kennedy	name=Genevieve Kang	episodes=2 episodes, 2019 	
+character=Murphy	name=Adam Langton	episodes=2 episodes, 2019 	
+character=Dream Girl 	name=Corrin Evans	episodes=2 episodes, 2019 	
+character=Ray Brewer	name=Josh Pence	episodes=1 episode, 2019 	
+character=Walter Parrish	name=Jeff Clarke	episodes=1 episode, 2019 	
+character=Lamar Benjamin	name=Milton Barnes	episodes=1 episode, 2019 	
+character=Jalisco	name=Manuel Rodriguez-Saenz	episodes=1 episode, 2019 	
+character=Madisen Daruzzi	name=Jessica Greco	episodes=1 episode, 2019 	
+character=Annie	name=Jhene Erwin	episodes=1 episode, 2019 	
+character=Worker 	name=Sean Rey	episodes=1 episode, 2019 	
+character=Franklin	name=Neil Whitely	episodes=1 episode, 2019 	
+character=Svec	name=Helen Hayden	episodes=1 episode, 2019 	
+character=Felix	name=Anthony T. Solano	episodes=1 episode, 2019 	
+character=Worker 	name=Jhonattan Ardila	episodes=1 episode, 2019 	
+character=Orlando	name=Dempsey Bryk	episodes=1 episode, 2019 	
+character=Veronica	name=Stephanie Anne Mills	episodes=1 episode, 2019 	
+character=Contractor	name=David MacInnis	episodes=1 episode, 2019 	
+character=Mikey Sarzos	name=Pedro Miguel Arce	episodes=1 episode, 2019 	
+character=Locksmith	name=Val Ovtcharov	episodes=1 episode, 2019 	
+character=Dream Girl 	name=Christina Ritchey	episodes=1 episode, 2019 	
+character=Judge Prescott	name=Doug Murphy	episodes=1 episode, 2019 	
+character=Lieutenant Carter	name=Conrad Coates	episodes=1 episode, 2019 	
+character=Blond Man	name=Justin Howell	episodes=1 episode, 2019 	
+character=Gladys Hilburn	name=Kristina Nicoll	episodes=1 episode, 2019 	
+character=Task Force Agent 	name=Daniel Harroch	episodes=1 episode, 2019 	
+character=Niño	name=Elias Edraki	episodes=1 episode, 2019 	
+character=Bodyguard 	name=Alan Chau	episodes=1 episode, 2019 	
+character=Mariposa	name=Angelica Lisk-Hann	episodes=1 episode, 2019 	
+character=Sweeney	name=Lesleh Donaldson	episodes=1 episode, 2019 	
+character=Sister	name=Lesleh Donaldson	episodes=1 episode, 2019 	
+character=Medical Examiner	name=Carlos Diaz	episodes=1 episode, 2019 	
+character=Renard	name=Jesse Buck	episodes=1 episode, 2019 	
+character=Task Force Agent 	name=Jason Burke	episodes=1 episode, 2019 	
+character=Bestic Guard	name=Ricardo Betancourt	episodes=1 episode, 2019 	
+character=Bodyguard 	name=Horace Abel	episodes=1 episode, 2019 	
+character=Checkout Lady	name=April Miranda	episodes=1 episode, 2019 	
+character=Charlie	name=Dan Galea	episodes=1 episode, 2019 	
+character=Neighbor	name=Dan Galea	episodes=1 episode, 2019 	
+character=Sal Hilburn	name=Alan Catlin	episodes=1 episode, 2019 	
+character=Slim	name=Billy Bryk	episodes=1 episode, 2019 	
+character=Rich Kid 	name=Travis Nelson	episodes=1 episode, 2019 	
+character=Phil	name=Zach Smadu	episodes=1 episode, 2019 	
+character=El Tranvia Manager	name=Victor Gomez	episodes=1 episode, 2019 	
+character=Prison Guard	name=Dillon Carman	episodes=1 episode, 2019 	
+character=Motel Manager	name=Richard Young	episodes=1 episode, 2019 	
+character=Gardener 	name=Diego Fuentes	episodes=1 episode, 2019 	
+character=Rivera	name=Cheryl Quiacos	episodes=1 episode, 2019 	
+character=Josh	name=Eddie Max Huband	episodes=1 episode, 2019 	
+character=Security Guard	name=Boomer Phillips	episodes=1 episode, 2019 	
+character=Rivas	name=Juan Carlos Velis	episodes=1 episode, 2019 	
+character=Chop Shop Grant	name=Grant Boyle	episodes=1 episode, 2019 	
+character=Model 	name=Alice Tate	episodes=1 episode, 2019 	
+character=Lexy	name=Moni Ogunsuyi	episodes=1 episode, 2019 	
+character=Bodyguard	name=Oscar Neira	episodes=1 episode, 2019 	
+character=Kirkbride Guard 	name=Craig Burnatowski	episodes=1 episode, 2019 	
+character=Lance, Club Security	name=Matt Purdy	episodes=1 episode, 2019 	
+character=Waitress	name=Sacha Stewart	episodes=1 episode, 2019 	
+character=Roland	name=Ayinde Blake	episodes=1 episode, 2019 	
+character=Teen Boy	name=Tosh Robertson	episodes=1 episode, 2019 	
+character=Female Attendant	name=Brenna Stewart	episodes=1 episode, 2019 	
+character=Judge Prosky	name=Doug Murray	episodes=1 episode, 2019 	
+character=Naked Pool Boy	name=Anthony Lake	episodes=1 episode, 2019 	
+character=Bar owner	name=Nadine Hyatt	episodes=1 episode, 2019 	
+character=Blue Flower Escort 	name=Drew Catherine	episodes=1 episode, 2019 	
+character=Blue Flower Escort 	name=Talia Russo	episodes=1 episode, 2019 	
+character=Poker Player	name=Drew Moss	episodes=1 episode, 2019 	
+character=Angry Wife	name=Cathy Lynn Symonds	episodes=1 episode, 2019 	
+character=Confused Hotel Guest	name=Daniel Chung	episodes=1 episode, 2019 	
+character=Pool Party Guest	name=Shane Giamou	episodes=1 episode, 2019 	

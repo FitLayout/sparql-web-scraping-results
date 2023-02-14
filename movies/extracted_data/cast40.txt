@@ -1,0 +1,902 @@
+# http://fitlayout.github.io/resource/art40 -> https://www.imdb.com/title/tt0944947/fullcredits/
+character=Tyrion Lannister	name=Peter Dinklage	episodes=67 episodes, 2011-2019 	
+character=Cersei Lannister	name=Lena Headey	episodes=62 episodes, 2011-2019 	
+character=Daenerys Targaryen	name=Emilia Clarke	episodes=62 episodes, 2011-2019 	
+character=Jon Snow	name=Kit Harington	episodes=62 episodes, 2011-2019 	
+character=Sansa Stark	name=Sophie Turner	episodes=59 episodes, 2011-2019 	
+character=Arya Stark	name=Maisie Williams	episodes=59 episodes, 2011-2019 	
+character=Jaime Lannister	name=Nikolaj Coster-Waldau	episodes=55 episodes, 2011-2019 	
+character=Jorah Mormont	name=Iain Glen	episodes=52 episodes, 2011-2019 	
+character=Samwell Tarly	name=John Bradley	episodes=48 episodes, 2011-2019 	
+character=Theon Greyjoy	name=Alfie Allen	episodes=47 episodes, 2011-2019 	
+character=Lord Varys	name=Conleth Hill	episodes=46 episodes, 2011-2019 	
+character=Davos Seaworth	name=Liam Cunningham	episodes=42 episodes, 2012-2019 	
+character=Brienne of Tarth	name=Gwendoline Christie	episodes=42 episodes, 2012-2019 	
+character=Baelish	name=Aidan Gillen	episodes=41 episodes, 2011-2017 	
+character=Littlefinger	name=Aidan Gillen	episodes=41 episodes, 2011-2017 	
+character=Petyr 	name=Aidan Gillen	episodes=41 episodes, 2011-2017 	
+character=Bran Stark	name=Isaac Hempstead Wright	episodes=40 episodes, 2011-2019 	
+character=Missandei	name=Nathalie Emmanuel	episodes=38 episodes, 2013-2019 	
+character=Bronn	name=Jerome Flynn	episodes=37 episodes, 2011-2019 	
+character=Podrick Payne	name=Daniel Portman	episodes=35 episodes, 2012-2019 	
+character=Grey Worm	name=Jacob Anderson	episodes=34 episodes, 2013-2019 	
+character=Eddison Tollett	name=Ben Crompton	episodes=34 episodes, 2012-2019 	
+character=Tormund Giantsbane	name=Kristofer Hivju	episodes=33 episodes, 2013-2019 	
+character=Grand Maester Pycelle	name=Julian Glover	episodes=31 episodes, 2011-2016 	
+character=Melisandre	name=Carice van Houten	episodes=29 episodes, 2012-2019 	
+character=Tywin Lannister	name=Charles Dance	episodes=27 episodes, 2011-2015 	
+character=Gilly	name=Hannah Murray	episodes=27 episodes, 2012-2019 	
+character=Margaery Tyrell	name=Natalie Dormer	episodes=26 episodes, 2012-2016 	
+character=Joffrey Baratheon	name=Jack Gleeson	episodes=26 episodes, 2011-2014 	
+character=Catelyn Stark	name=Michelle Fairley	episodes=25 episodes, 2011-2016 	
+character=Barristan Selmy	name=Ian McElhinney	episodes=25 episodes, 2011-2015 	
+character=Stannis Baratheon	name=Stephen Dillane	episodes=24 episodes, 2012-2015 	
+character=Gendry	name=Joe Dempsie	episodes=24 episodes, 2011-2019 	
+character=Hodor	name=Kristian Nairn	episodes=23 episodes, 2011-2016 	
+character=Qyburn	name=Anton Lesser	episodes=22 episodes, 2013-2019 	
+character=Grenn	name=Mark Stanley	episodes=22 episodes, 2011-2014 	
+character=Robb Stark	name=Richard Madden	episodes=21 episodes, 2011-2016 	
+character=Loras Tyrell	name=Finn Jones	episodes=21 episodes, 2011-2016 	
+character=Shae	name=Sibel Kekilli	episodes=20 episodes, 2011-2014 	
+character=Ramsay Bolton	name=Iwan Rheon	episodes=20 episodes, 2013-2016 	
+character=Roose Bolton	name=Michael McElhatton	episodes=19 episodes, 2012-2016 	
+character=Alliser Thorne	name=Owen Teale	episodes=19 episodes, 2011-2016 	
+character=Daario Naharis	name=Michiel Huisman	episodes=18 episodes, 2014-2016 	
+character=Olenna Tyrell	name=Diana Rigg	episodes=18 episodes, 2013-2017 	
+character=Tommen Baratheon	name=Dean-Charles Chapman	episodes=18 episodes, 2013-2016 	
+character=Ygritte	name=Rose Leslie	episodes=17 episodes, 2012-2014 	
+character=Jaqen H	name=Tom Wlaschiha	episodes=17 episodes, 2012-2016 	
+character=Olly	name=Connor	episodes=17 episodes, 2014-2016 	
+character=Olly	name=Brenock O	episodes=17 episodes, 2014-2016 	
+character=Meryn Trant	name=Ian Beattie	episodes=17 episodes, 2011-2015 	
+character=Osha	name=Natalia Tena	episodes=16 episodes, 2011-2016 	
+character=Yara Greyjoy	name=Gemma Whelan	episodes=16 episodes, 2012-2019 	
+character=Meera Reed	name=Ellie Kendrick	episodes=16 episodes, 2013-2017 	
+character=Wun Wun	name=Ian Whyte	episodes=16 episodes, 2011-2019 	
+character=Lancel Lannister	name=Eugene Simon	episodes=15 episodes, 2011-2016 	
+character=Janos Slynt	name=Dominic Carter	episodes=14 episodes, 2011-2015 	
+character=Maester Luwin	name=Donald Sumpter	episodes=14 episodes, 2011-2012 	
+character=Ros	name=Esmé Bianco	episodes=14 episodes, 2011-2013 	
+character=Rickon Stark	name=Art Parkinson	episodes=14 episodes, 2011-2016 	
+character=Othell Yarwyck	name=Brian Fortune	episodes=14 episodes, 2011-2016 	
+character=Ellaria Sand	name=Indira Varma	episodes=13 episodes, 2014-2017 	
+character=Rodrik Cassel	name=Ron Donachie	episodes=13 episodes, 2011-2012 	
+character=Beric Dondarrion	name=Richard Dormer	episodes=13 episodes, 2013-2019 	
+character=Mace Tyrell	name=Roger Ashton-Griffiths	episodes=13 episodes, 2014-2016 	
+character=Yohn Royce	name=Rupert Vansittart	episodes=13 episodes, 2014-2019 	
+character=Pypar	name=Josef Altin	episodes=13 episodes, 2011-2014 	
+character=Irri	name=Amrita Acharia	episodes=13 episodes, 2011-2012 	
+character=High Sparrow	name=Jonathan Pryce	episodes=12 episodes, 2015-2016 	
+character=Jeor Mormont	name=James Cosmo	episodes=12 episodes, 2011-2013 	
+character=Maester Wolkan	name=Richard Rycroft	episodes=12 episodes, 2016-2019 	
+character=Kevan Lannister	name=Ian Gelder	episodes=12 episodes, 2011-2016 	
+character=Rast	name=Luke Barnes	episodes=12 episodes, 2011-2014 	
+character=Hot Pie	name=Ben Hawkey	episodes=12 episodes, 2011-2017 	
+character=Talisa Stark	name=Oona Chaplin	episodes=11 episodes, 2012-2013 	
+character=Maester Aemon	name=Peter Vaughan	episodes=11 episodes, 2011-2015 	
+character=The Waif	name=Faye Marsay	episodes=11 episodes, 2015-2016 	
+character=Doreah	name=Roxanne McKee	episodes=11 episodes, 2011-2012 	
+character=Qhono	name=Staz Nair	episodes=11 episodes, 2016-2019 	
+character=Stark	name=Sean Bean	episodes=10 episodes, 2011 	
+character=Ned	name=Sean Bean	episodes=10 episodes, 2011 	
+character=Eddard 	name=Sean Bean	episodes=10 episodes, 2011 	
+character=Thoros of Myr	name=Paul Kaye	episodes=10 episodes, 2013-2017 	
+character=Selyse Baratheon	name=Tara Fitzgerald	episodes=10 episodes, 2013-2015 	
+character=Jojen Reed	name=Thomas Brodie-Sangster	episodes=10 episodes, 2013-2014 	
+character=Shireen Baratheon	name=Kerry Ingram	episodes=10 episodes, 2013-2015 	
+character=Bowen Marsh	name=Michael Condron	episodes=10 episodes, 2015-2016 	
+character=Khal Drogo	name=Jason Momoa	episodes=10 episodes, 2011-2012 	
+character=Euron Greyjoy	name=Pilou Asbæk	episodes=9 episodes, 2016-2019 	
+character=Edmure Tully	name=Tobias Menzies	episodes=9 episodes, 2013-2019 	
+character=Tyene Sand	name=Rosabell Laurenti Sellers	episodes=9 episodes, 2015-2017 	
+character=Lyanna Mormont	name=Bella Ramsey	episodes=9 episodes, 2016-2019 	
+character=Robin Arryn	name=Lino Facioli	episodes=9 episodes, 2011-2019 	
+character=Renly Baratheon	name=Gethin Anthony	episodes=8 episodes, 2011-2012 	
+character=Locke	name=Noah Taylor	episodes=8 episodes, 2013-2014 	
+character=Obara Sand	name=Keisha Castle-Hughes	episodes=8 episodes, 2015-2017 	
+character=Hizdahr zo Loraq	name=Joel Fry	episodes=8 episodes, 2014-2015 	
+character=Nymeria Sand	name=Jessica Henwick	episodes=8 episodes, 2015-2017 	
+character=Septa Unella	name=Hannah Waddingham	episodes=8 episodes, 2015-2016 	
+character=Myranda	name=Charlotte Hope	episodes=8 episodes, 2013-2016 	
+character=Kovarro	name=Steven Cole	episodes=8 episodes, 2012 	
+character=Tommen Baratheon	name=Callum Wharry	episodes=8 episodes, 2011-2012 	
+character=Myrcella Baratheon	name=Aimee Richardson	episodes=8 episodes, 2011-2012 	
+character=Marei	name=Josephine Gillan	episodes=8 episodes, 2012-2019 	
+character=Robert Baratheon	name=Mark Addy	episodes=7 episodes, 2011 	
+character=Oberyn Martell	name=Pedro Pascal	episodes=7 episodes, 2014 	
+character=Yoren	name=Francis Magee	episodes=7 episodes, 2011-2012 	
+character=Blackfish	name=Clive Russell	episodes=7 episodes, 2013-2016 	
+character=Brynden 	name=Clive Russell	episodes=7 episodes, 2013-2016 	
+character=Tully	name=Clive Russell	episodes=7 episodes, 2013-2016 	
+character=Olyvar	name=Will Tudor	episodes=7 episodes, 2013-2015 	
+character=Rakharo	name=Elyes Gabel	episodes=7 episodes, 2011-2012 	
+character=Bernadette	name=Sara Dylan	episodes=6 episodes, 2012-2017 	
+character=Walder Frey	name=David Bradley	episodes=6 episodes, 2011-2017 	
+character=Benjen Stark	name=Joseph Mawle	episodes=6 episodes, 2011-2017 	
+character=Orell	name=Mackenzie Crook	episodes=6 episodes, 2013 	
+character=Areo Hotah	name=Deobia Oparei	episodes=6 episodes, 2015-2016 	
+character=Septa Mordane	name=Susan Brown	episodes=6 episodes, 2011 	
+character=Black Walder Rivers	name=Tim Plester	episodes=6 episodes, 2013-2016 	
+character=Qotho	name=Dar Salim	episodes=6 episodes, 2011 	
+character=Dontos Hollard	name=Tony Way	episodes=6 episodes, 2012-2014 	
+character=Myrcella Baratheon	name=Nell Tiger Free	episodes=6 episodes, 2015-2016 	
+character=Anguy	name=Philip McGinley	episodes=6 episodes, 2013 	
+character=High Septon	name=Paul Bentley	episodes=6 episodes, 2013-2015 	
+character=Alys Karstark	name=Megan Parkinson	episodes=5 episodes, 2016-2019 	
+character=Watch Officer	name=Dennis McKeever	episodes=1 episode, 2011-2013 	
+character=Night	name=Dennis McKeever	episodes=1 episode, 2011-2013 	
+character=Viserys Targaryen	name=Harry Lloyd	episodes=5 episodes, 2011 	
+character=Jory Cassel	name=Jamie Sives	episodes=5 episodes, 2011 	
+character=Lysa Arryn	name=Kate Dickie	episodes=5 episodes, 2011-2014 	
+character=Mance Rayder	name=Ciarán Hinds	episodes=5 episodes, 2013-2015 	
+character=Craster	name=Robert Pugh	episodes=5 episodes, 2012-2013 	
+character=Doran Martell	name=Alexander Siddig	episodes=5 episodes, 2015-2016 	
+character=Xaro Xhoan Daxos	name=Nonso Anozie	episodes=5 episodes, 2012 	
+character=Randyll Tarly	name=James Faulkner	episodes=5 episodes, 2016-2017 	
+character=Robett Glover	name=Tim McInnerny	episodes=5 episodes, 2016-2017 	
+character=Rickard Karstark	name=John Stahl	episodes=5 episodes, 2012-2013 	
+character=Dagmer Cleftjaw	name=Ralph Ineson	episodes=5 episodes, 2012 	
+character=Walda Bolton	name=Elizabeth Webster	episodes=5 episodes, 2014-2016 	
+character=Trystane Martell	name=Toby Sebastian	episodes=5 episodes, 2015-2016 	
+character=The Night King	name=Furdik	episodes=2 episodes, 2016-2019 	
+character=The Night King	name=Furdo	episodes=2 episodes, 2016-2019 	
+character=The Night King	name=Vladimir 	episodes=2 episodes, 2016-2019 	
+character=Archmaester Ebrose	name=Jim Broadbent	episodes=4 episodes, 2017 	
+character=Tycho Nestoris	name=Mark Gatiss	episodes=4 episodes, 2014-2017 	
+character=Balon Greyjoy	name=Patrick Malahide	episodes=4 episodes, 2012-2016 	
+character=Pyat Pree	name=Ian Hanmore	episodes=4 episodes, 2012 	
+character=Styr	name=Yuri Kolokolnikov	episodes=4 episodes, 2014 	
+character=Yezzan zo Qaggaz	name=Enzo Cilenti	episodes=4 episodes, 2015-2016 	
+character=Karl Tanner	name=Burn Gorman	episodes=4 episodes, 2013-2014 	
+character=Ilyn Payne	name=Wilko Johnson	episodes=4 episodes, 2011-2012 	
+character=Marillion	name=Emun Elliott	episodes=4 episodes, 2011 	
+character=Dickon Tarly	name=Tom Hopper	episodes=4 episodes, 2017 	
+character=Qhorin Halfhand	name=Simon Armstrong	episodes=4 episodes, 2012 	
+character=Lothar Frey	name=Daniel Tuite	episodes=4 episodes, 2016 	
+character=Rorge	name=Andy Beckwith	episodes=4 episodes, 2012-2014 	
+character=Lommy Greenhands	name=Eros Vlahos	episodes=4 episodes, 2011-2012 	
+character=Matthos Seaworth	name=Kerr Logan	episodes=4 episodes, 2012 	
+character=Armeca	name=Sahara Knite	episodes=4 episodes, 2011-2012 	
+character=Royal Steward	name=Robert Sterne	episodes=4 episodes, 2011 	
+character=Amory Lorch	name=Fintan McKeown	episodes=4 episodes, 2012 	
+character=Black Lorren	name=Forbes KB	episodes=4 episodes, 2012 	
+character=Biter	name=Gerard Jordan	episodes=4 episodes, 2012-2014 	
+character=Young Ned	name=Robert Aramayo	episodes=4 episodes, 2016-2017 	
+character=Baby Sam	name=William Nevan Wilson	episodes=4 episodes, 2016-2017 	
+character=Baby Sam	name=James Robert Wilson	episodes=4 episodes, 2016-2017 	
+character=Timett	name=Tobias Winter	episodes=1 episode, 2011-2012 	
+character=Steelshanks Walton	name=Jamie Michie	episodes=1 episode, 2013 	
+character=Izembaro	name=Richard E. Grant	episodes=3 episodes, 2016 	
+character=Lady Crane	name=Essie Davis	episodes=3 episodes, 2016 	
+character=Spice King	name=Nicholas Blane	episodes=3 episodes, 2012 	
+character=Three-Eyed Raven	name=Max von Sydow	episodes=3 episodes, 2016 	
+character=Syrio Forel	name=Miltos Yerolemou	episodes=3 episodes, 2011 	
+character=Harrag	name=Brendan Cowell	episodes=3 episodes, 2017 	
+character=Salladhor Saan	name=Lucian Msamati	episodes=3 episodes, 2012-2014 	
+character=Daario Naharis	name=Ed Skrein	episodes=3 episodes, 2013 	
+character=Greatjon Umber	name=Clive Mantle	episodes=3 episodes, 2011 	
+character=Camello	name=Kevin Eldon	episodes=3 episodes, 2016-2017 	
+character=Harald Karstark	name=Paul Rattray	episodes=3 episodes, 2016 	
+character=Giant Wight 	name=Neil Fingleton	episodes=3 episodes, 2014-2017 	
+character=Leaf	name=Kae Alexander	episodes=3 episodes, 2016 	
+character=Bobono	name=Leigh Gill	episodes=3 episodes, 2016 	
+character=Razdal mo Eraz	name=George Georgiou	episodes=3 episodes, 2013-2016 	
+character=Lhara	name=Sarine Sofair	episodes=3 episodes, 2014-2015 	
+character=Clarenzo	name=Rob Callender	episodes=3 episodes, 2016 	
+character=Thenn Warg	name=Joseph Gatt	episodes=3 episodes, 2014 	
+character=Mirri Maz Duur	name=Mia Soteriou	episodes=3 episodes, 2011 	
+character=Polliver	name=Andy Kellegher	episodes=3 episodes, 2012-2014 	
+character=Alton Lannister	name=Karl Davies	episodes=3 episodes, 2012 	
+character=Khal Moro	name=Joseph Naufahu	episodes=3 episodes, 2016 	
+character=Ned Umber	name=Harry Grasby	episodes=3 episodes, 2017-2019 	
+character=Kraznys mo Nakloz	name=Dan Hildebrand	episodes=3 episodes, 2013 	
+character=Mossador	name=Reece Noi	episodes=3 episodes, 2014-2015 	
+character=White Walker	name=Ross Mullan	episodes=3 episodes, 2012-2014 	
+character=Rattleshirt	name=Edward Dogliani	episodes=3 episodes, 2012-2013 	
+character=Vala	name=Meena Rayann	episodes=3 episodes, 2015-2016 	
+character=Daisy	name=Maisie Dee	episodes=3 episodes, 2012 	
+character=Bathhouse Prostitute	name=Samantha Bentley	episodes=3 episodes, 2014-2015 	
+character=Silk King	name=Slavko Juraga	episodes=3 episodes, 2012 	
+character=Dothraki Bloodrider 	name=Diogo Sales	episodes=3 episodes, 2016 	
+character=Dothraki Bloodrider 	name=Junade Khan	episodes=3 episodes, 2016 	
+character=Musician 	name=Ragnar Þórhallsson	episodes=3 episodes, 2016 	
+character=Musician 	name=Brynjar Leifsson	episodes=3 episodes, 2016 	
+character=Musician 	name=Kristján Kristjánsson	episodes=3 episodes, 2016 	
+character=Watchman 	name=Robert Fawsitt	episodes=3 episodes, 2016 	
+character=Loyal Night	name=Robert Fawsitt	episodes=3 episodes, 2016 	
+character=King	name=Xena Avramidis	episodes=3 episodes, 2014-2015 	
+character=Landing Whore	name=Xena Avramidis	episodes=3 episodes, 2014-2015 	
+character=Aggo	name=Chuku Modu	episodes=2 episodes, 2016 	
+character=Frances	name=Annette Hannah	episodes=2 episodes, 2016-2017 	
+character=Brothel Patron 	name=Derek Dubery	episodes=1 episode, 2015-2019 	
+character=Hallyne	name=Roy Dotrice	episodes=2 episodes, 2012 	
+character=Harry Strickland	name=Marc Rissmann	episodes=2 episodes, 2019 	
+character=Illyrio Mopatis	name=Roger Allam	episodes=2 episodes, 2011 	
+character=Smalljon Umber	name=Dean Jagger	episodes=2 episodes, 2016 	
+character=Martha	name=Bronte Carmichael	episodes=2 episodes, 2019 	
+character=Mord	name=Ciaran Bermingham	episodes=2 episodes, 2011 	
+character=Aeron Greyjoy	name=Michael Feast	episodes=2 episodes, 2016 	
+character=Dim Dalba	name=Murray McArthur	episodes=2 episodes, 2015-2016 	
+character=Belicho Paenymion	name=Eddie Jackson	episodes=2 episodes, 2016 	
+character=Fergus	name=Hara	episodes=2 episodes, 2019 	
+character=Fergus	name=Seamus O	episodes=2 episodes, 2019 	
+character=Gatins	name=Ricky Champ	episodes=2 episodes, 2016 	
+character=Teela	name=Bea Glancy	episodes=2 episodes, 2019 	
+character=Old Nan	name=Margaret John	episodes=2 episodes, 2011 	
+character=The Night King	name=Richard Brake	episodes=2 episodes, 2014-2016 	
+character=Morgan	name=Ian Davies	episodes=2 episodes, 2016 	
+character=Woman with Elderly Parents	name=Lucy McConnell	episodes=2 episodes, 2019 	
+character=Gregor 	name=Conan Stevens	episodes=2 episodes, 2011 	
+character=Clegane	name=Conan Stevens	episodes=2 episodes, 2011 	
+character=The Mountain	name=Conan Stevens	episodes=2 episodes, 2011 	
+character=Thin Man	name=Oengus MacNamara	episodes=2 episodes, 2015 	
+character=Lothar Frey	name=Tom Brooke	episodes=2 episodes, 2013 	
+character=Bianca	name=Eline Powell	episodes=2 episodes, 2016 	
+character=Vardis Egen	name=Brendan McCormack	episodes=2 episodes, 2011 	
+character=Shagga	name=Mark Lewis Jones	episodes=2 episodes, 2011 	
+character=Quaithe	name=Laura Pradelska	episodes=2 episodes, 2012 	
+character=Margaery Tyrell Mummer	name=Eva Butterly	episodes=2 episodes, 2016 	
+character=Old Woman	name=Stella McCusker	episodes=2 episodes, 2015 	
+character=Baby Sam	name=Logan Watson	episodes=2 episodes, 2019 	
+character=Hugh of the Vale	name=Jefferson Hall	episodes=2 episodes, 2011 	
+character=Morag	name=Deirdre Monaghan	episodes=2 episodes, 2014 	
+character=Todder	name=Will O	episodes=2 episodes, 2013-2015 	
+character=Todder	name=Connell	episodes=2 episodes, 2013-2015 	
+character=Willa	name=Karla Lyons	episodes=2 episodes, 2015 	
+character=Johnna	name=Ali Lyons	episodes=2 episodes, 2015 	
+character=Lady Kitty Frey	name=Lucy Hayes	episodes=2 episodes, 2016-2017 	
+character=Baby Sam	name=Finn Watson	episodes=2 episodes, 2019 	
+character=Lyanna Stark	name=Aisling Franciosi	episodes=2 episodes, 2016-2017 	
+character=Village Woman	name=Eileen McCloskey	episodes=2 episodes, 2019 	
+character=Farlen	name=Peter Ballance	episodes=2 episodes, 2012 	
+character=Donnel Waynwood	name=Alisdair Simpson	episodes=2 episodes, 2014 	
+character=Drennan	name=David James	episodes=2 episodes, 2012 	
+character=Sissy	name=Jane McGrath	episodes=2 episodes, 2014 	
+character=Dosh khaleen High Priestess	name=Souad Faress	episodes=2 episodes, 2016 	
+character=Zanrush	name=Gerald Lepkowski	episodes=2 episodes, 2016 	
+character=King	name=Emily Diamond	episodes=2 episodes, 2011 	
+character=Landing Whore	name=Emily Diamond	episodes=2 episodes, 2011 	
+character=Ornela	name=Hannah John-Kamen	episodes=2 episodes, 2016 	
+character=Young Nan	name=Annette Tierney	episodes=2 episodes, 2016 	
+character=Kurleket	name=Kevin Keenan	episodes=2 episodes, 2011 	
+character=The Tickler	name=Anthony Morris	episodes=2 episodes, 2012 	
+character=Winterfell Shepherd	name=Donagh Deeney	episodes=2 episodes, 2012 	
+character=Ghita	name=Hattie Gotobed	episodes=2 episodes, 2015 	
+character=Wyllis	name=Sam Coleman	episodes=2 episodes, 2016 	
+character=Morgan	name=Chris Reilly	episodes=2 episodes, 2012-2014 	
+character=Greizhen mo Ullhor	name=Clifford Barry	episodes=2 episodes, 2013 	
+character=Mole	name=Lois Winstone	episodes=2 episodes, 2014 	
+character=Town Whore	name=Lois Winstone	episodes=2 episodes, 2014 	
+character=Willis Wode	name=Ryan McKenna	episodes=2 episodes, 2011 	
+character=Goldcloak	name=Sam Callis	episodes=2 episodes, 2012 	
+character=King	name=Reg Wayment	episodes=2 episodes, 2012 	
+character=Landing Rioter 	name=Reg Wayment	episodes=2 episodes, 2012 	
+character=Jacks	name=Paul Caddell	episodes=2 episodes, 2012 	
+character=Ternesio Terys	name=Gary Oliver	episodes=2 episodes, 2014-2015 	
+character=Moro	name=Fola Evans-Akingbola	episodes=2 episodes, 2016 	
+character=Wife 	name=Fola Evans-Akingbola	episodes=2 episodes, 2016 	
+character=Master Torturer	name=Michael Shelford	episodes=2 episodes, 2013 	
+character=Great Master 	name=Emilio Doorgasingh	episodes=2 episodes, 2014 	
+character=Young Ned Stark	name=Sebastian Croft	episodes=2 episodes, 2016 	
+character=Young Rodrik Cassel	name=Fergus Leathem	episodes=2 episodes, 2016 	
+character=Mhaegen	name=Antonia Christophers	episodes=2 episodes, 2011-2012 	
+character=Mole	name=Lu Corfield	episodes=2 episodes, 2014 	
+character=Town Madam	name=Lu Corfield	episodes=2 episodes, 2014 	
+character=Lannister Captain	name=Aiden Condron	episodes=2 episodes, 2012 	
+character=Quent	name=Aidan Crowe	episodes=2 episodes, 2012 	
+character=Young Benjen Stark	name=Matteo Elezi	episodes=2 episodes, 2016 	
+character=Dothraki Widow 	name=Angelique Fernandez	episodes=2 episodes, 2016 	
+character=Stark Guard	name=David Sheehan	episodes=2 episodes, 2012 	
+character=Mummer 	name=Glen Barry	episodes=2 episodes, 2016 	
+character=Kayla	name=Pixie Le Knot	episodes=2 episodes, 2013-2014 	
+character=Manservant	name=Conor Watters	episodes=2 episodes, 2014 	
+character=Mummer 	name=Brendan O	episodes=2 episodes, 2016 	
+character=Mummer 	name=Rourke	episodes=2 episodes, 2016 	
+character=Tobho Mott	name=Andrew Wilde	episodes=2 episodes, 2011-2012 	
+character=Night	name=Michael Hayes	episodes=2 episodes, 2016 	
+character=Watchman 	name=Michael Hayes	episodes=2 episodes, 2016 	
+character=Mummer 	name=Ross Anderson-Doherty	episodes=2 episodes, 2016 	
+character=Dothraki Widow 	name=Wuese Houston-Jibo	episodes=2 episodes, 2016 	
+character=Willem Lannister	name=Timothy Gibbons	episodes=2 episodes, 2013 	
+character=Baratheon Soldier 	name=Jason McLaughlin	episodes=2 episodes, 2015 	
+character=Loyal Night	name=Steve Cash	episodes=2 episodes, 2016 	
+character=Watchman 	name=Steve Cash	episodes=2 episodes, 2016 	
+character=Night	name=Tony Flynn	episodes=2 episodes, 2016 	
+character=Watchman 	name=Tony Flynn	episodes=2 episodes, 2016 	
+character=Night	name=Michael Hooley	episodes=2 episodes, 2016 	
+character=Watchman	name=Michael Hooley	episodes=2 episodes, 2016 	
+character=The Mother	name=Em Scribbler	episodes=2 episodes, 2015 	
+character=Male Prostitute	name=Dennis Stokes	episodes=2 episodes, 2012 	
+character=The Maiden	name=Rebecca Scott	episodes=2 episodes, 2015 	
+character=The Crone	name=Rosie Ruthless	episodes=2 episodes, 2015 	
+character=Arthur	name=Nathanael Saleh	episodes=2 episodes, 2016 	
+character=Little Bird 	name=Jesse Magee	episodes=2 episodes, 2016 	
+character=Little Bird 	name=Michael Nevin	episodes=2 episodes, 2016 	
+character=Little Bird 	name=Lucy Gallagher	episodes=2 episodes, 2016 	
+character=Little Bird 	name=Iona Clarke	episodes=2 episodes, 2016 	
+character=Little Bird 	name=Fionn Kernan	episodes=2 episodes, 2016 	
+character=Three-Eyed Raven	name=Struan Rodger	episodes=1 episode, 2014 	
+character=Joyeuse Frey	name=Kelly Long	episodes=1 episode, 2011-2013 	
+character=Tyrell Lady	name=Sophie Reid	episodes=1 episode, 2013 	
+character=Tommy	name=Tommy Dunne	episodes=1 episode, 2011-2014 	
+character=Leo Lefford	name=Vinnie McCabe	episodes=1 episode, 2011 	
+character=Ironborn 	name=Robert Render	episodes=1 episode, 2011-2016 	
+character=Brother Ray	name=Ian McShane	episodes=1 episode, 2016 	
+character=Nora	name=Laura Elphinstone	episodes=1 episode, 2019 	
+character=Xela	name=Alexis Raben	episodes=1 episode, 2019 	
+character=Lannister Soldier	name=Matthew Wolf	episodes=1 episode, 2019 	
+character=Karsi	name=Birgitte Hjort Sørensen	episodes=1 episode, 2015 	
+character=Nora	name=Tipper Seifert-Cleveland	episodes=1 episode, 2019 	
+character=Daughter	name=Tipper Seifert-Cleveland	episodes=1 episode, 2019 	
+character=Singing Lannister Soldier	name=Stephen Swift	episodes=1 episode, 2012 	
+character=Northern Sentry	name=Frank Blake	episodes=1 episode, 2019 	
+character=Dying Man	name=Barry McGovern	episodes=1 episode, 2014 	
+character=Loboda	name=Zachary Baharov	episodes=1 episode, 2015 	
+character=Lannister Soldier	name=Ryan McKen	episodes=1 episode, 2019 	
+character=Stark Soldier	name=Danny Kirrane	episodes=1 episode, 2017 	
+character=Unsullied Captain	name=Gabriel Akuwudike	episodes=1 episode, 2019 	
+character=Lannister Soldier	name=Owen Whitelaw	episodes=1 episode, 2019 	
+character=Imry Florent	name=Gordon Mahon	episodes=1 episode, 2012 	
+character=Captain of the Bolton Archers	name=Rory Mullen	episodes=1 episode, 2016 	
+character=Koner	name=Joseph Quinn	episodes=1 episode, 2017 	
+character=Young Woman	name=Rori Hawthorn	episodes=1 episode, 2019 	
+character=Ironborn Lord	name=Noel Harron	episodes=1 episode, 2019 	
+character=Mandon Moore	name=James Doran	episodes=1 episode, 2012 	
+character=Bolton General	name=Mark Tankersley	episodes=1 episode, 2016 	
+character=Dornish Prince	name=Toby Osmond	episodes=1 episode, 2019 	
+character=Northerner in Alley	name=Oliver Devoti	episodes=1 episode, 2019 	
+character=Jhiqui	name=Sarita Piotrowski	episodes=1 episode, 2011 	
+character=Baratheon Officer	name=Kieran Cunningham	episodes=1 episode, 2012 	
+character=Melessa Tarly	name=Samantha Spiro	episodes=1 episode, 2016 	
+character=Northman Rider	name=David Birkbeck	episodes=1 episode, 2016 	
+character=Winterfell Local	name=Briege Roche	episodes=1 episode, 2017 	
+character=Riverlands Lord	name=Andrew Bicknell	episodes=1 episode, 2019 	
+character=Lannister Soldier	name=Jim Tighe	episodes=1 episode, 2019 	
+character=Will	name=Bronson Webb	episodes=1 episode, 2011 	
+character=Captain of the Archers	name=Michael Grennell	episodes=1 episode, 2012 	
+character=Lord of Bones	name=Ross O	episodes=1 episode, 2015 	
+character=Lord of Bones	name=Hennessy	episodes=1 episode, 2015 	
+character=Northman Archer	name=Paul Garrett	episodes=1 episode, 2016 	
+character=Stark Soldier	name=Eamonn Keenan	episodes=1 episode, 2017 	
+character=Lord Une	name=Michael Benbaruk	episodes=1 episode, 2019 	
+character=Jon Arryn	name=John Standing	episodes=1 episode, 2011 	
+character=Mycah	name=Rhodri Hosking	episodes=1 episode, 2011 	
+character=Mero	name=Mark Killeen	episodes=1 episode, 2013 	
+character=Vale Lord	name=Frank Jakeman	episodes=1 episode, 2019 	
+character=Lannister Soldier	name=Luke McQuillan	episodes=1 episode, 2019 	
+character=Waymar Royce	name=Rob Ostlere	episodes=1 episode, 2011 	
+character=Prendahl na Ghezn	name=Ramon Tikaram	episodes=1 episode, 2013 	
+character=Goatherd	name=Philip Arditti	episodes=1 episode, 2014 	
+character=Northern Lord	name=Niall Bishop	episodes=1 episode, 2019 	
+character=King	name=Nicky Harley	episodes=1 episode, 2019 	
+character=Landing Citizen	name=Nicky Harley	episodes=1 episode, 2019 	
+character=Catspaw Assassin	name=Lalor Roddy	episodes=1 episode, 2011 	
+character=Gared	name=Dermot Keaney	episodes=1 episode, 2011 	
+character=Maester Cressen	name=Oliver Ford Davies	episodes=1 episode, 2012 	
+character=Septon	name=Kenneth Hadley	episodes=1 episode, 2013 	
+character=First Mate	name=Rhodri Miles	episodes=1 episode, 2014 	
+character=Citadel Maester	name=Julian Firth	episodes=1 episode, 2017 	
+character=Wight at Table	name=Javier Botet	episodes=1 episode, 2019 	
+character=Crying Man	name=Pádraig O	episodes=1 episode, 2019 	
+character=Crying Man	name=Grady	episodes=1 episode, 2019 	
+character=Landing Citizen	name=Hayley McQuillan	episodes=1 episode, 2019 	
+character=King	name=Hayley McQuillan	episodes=1 episode, 2019 	
+character=Lannister Guard	name=Conor Delaney	episodes=1 episode, 2011 	
+character=Maggy	name=Jodhi May	episodes=1 episode, 2015 	
+character=The Waif	name=Margaret Jackman	episodes=1 episode, 2016 	
+character=Disguise	name=Margaret Jackman	episodes=1 episode, 2016 	
+character=Citadel Maester	name=Philip O	episodes=1 episode, 2017 	
+character=Citadel Maester	name=Sullivan	episodes=1 episode, 2017 	
+character=Lannister	name=Eoin Duffy	episodes=1 episode, 2019 	
+character=Lannister Soldier	name=Adam Devereux	episodes=1 episode, 2019 	
+character=Roslin Frey	name=Alexandra Dowling	episodes=1 episode, 2013 	
+character=Anya Waynwood	name=Paola Dionisotti	episodes=1 episode, 2014 	
+character=Bathhouse Prostitute	name=Samantha McEwan	episodes=1 episode, 2014 	
+character=Braavosi Captain	name=Morgan C. Jones	episodes=1 episode, 2015 	
+character=Street Red Priestess Meereen	name=Melanie Liburd	episodes=1 episode, 2016 	
+character=Ironborn 	name=Darrell D	episodes=1 episode, 2016 	
+character=Ironborn 	name=Silva	episodes=1 episode, 2016 	
+character=Westerosi Trader	name=Kevin Horsham	episodes=1 episode, 2016 	
+character=Goldcloak	name=Laurence Spellman	episodes=1 episode, 2017 	
+character=Willa	name=Alice Nokes	episodes=1 episode, 2019 	
+character=Lannister Soldier	name=Thomas Martin	episodes=1 episode, 2019 	
+character=Yunkai	name=Talitha Luke-Eardley	episodes=1 episode, 2013 	
+character=Whore	name=Talitha Luke-Eardley	episodes=1 episode, 2013 	
+character=Old Man	name=Sean Buckley	episodes=1 episode, 2013 	
+character=Ironborn in Skiff	name=Michael Hough	episodes=1 episode, 2014 	
+character=Black Armored White Walker	name=Tim Loane	episodes=1 episode, 2015 	
+character=Slaver	name=Michael Yare	episodes=1 episode, 2015 	
+character=Bear Island Maester	name=Louis Rolston	episodes=1 episode, 2016 	
+character=Rhaegar Targaryen	name=Wilf Scolding	episodes=1 episode, 2017 	
+character=Sarra	name=Danielle Galligan	episodes=1 episode, 2019 	
+character=Fergus	name=Thomas Finnegan	episodes=1 episode, 2019 	
+character=Friend	name=Thomas Finnegan	episodes=1 episode, 2019 	
+character=Lannister Soldier	name=Brian Patrick Kennedy	episodes=1 episode, 2019 	
+character=Villager 1	name=Lorcan Strain	episodes=1 episode, 2019 	
+character=Wine Merchant	name=Simon Lowe	episodes=1 episode, 2011 	
+character=Frey Guard	name=A.J. Kennedy	episodes=1 episode, 2013 	
+character=Prisoner	name=Marko Jelic	episodes=1 episode, 2014 	
+character=Great Master 	name=Gianpiero Cognoli	episodes=1 episode, 2015 	
+character=Joss	name=James McKenzie Robinson	episodes=1 episode, 2015 	
+character=Volantene Whore 	name=Katie Alexander Thom	episodes=1 episode, 2016 	
+character=High Septon Maynard	name=Tom Chadbon	episodes=1 episode, 2017 	
+character=Winterfell Girl	name=Emer McDaid	episodes=1 episode, 2019 	
+character=King	name=Luna Kalo	episodes=1 episode, 2019 	
+character=Landing Citizen	name=Luna Kalo	episodes=1 episode, 2019 	
+character=Pentoshi Servant	name=Rania Zouari	episodes=1 episode, 2011 	
+character=High Septon	name=David Verrey	episodes=1 episode, 2012 	
+character=Merry Frey	name=Grace Hendy	episodes=1 episode, 2013 	
+character=Bolton Guard	name=Anthony Boyle	episodes=1 episode, 2014 	
+character=Ralf Kenning	name=Grahame Fox	episodes=1 episode, 2014 	
+character=Street Red Priestess Volantis	name=Rila Fukushima	episodes=1 episode, 2015 	
+character=Pit Announcer	name=Nicholas Boulton	episodes=1 episode, 2015 	
+character=Winter Town Man	name=Raymond Keane	episodes=1 episode, 2015 	
+character=Aerys Targaryen	name=David Rintoul	episodes=1 episode, 2016 	
+character=Tully Bannerman	name=Sam Redford	episodes=1 episode, 2016 	
+character=Northman Rioter	name=Jed Murray	episodes=1 episode, 2016 	
+character=Crayah	name=Lucy Aarden	episodes=1 episode, 2019 	
+character=King	name=Caitlin Pharro	episodes=1 episode, 2019 	
+character=Landing Citizen	name=Caitlin Pharro	episodes=1 episode, 2019 	
+character=Varly	name=Graham Charles	episodes=1 episode, 2011 	
+character=Goldcloak	name=Alan Paris	episodes=1 episode, 2011 	
+character=Hog Farmer	name=Pat McGrath	episodes=1 episode, 2013 	
+character=Elder Meereen Slave	name=Philip Philmar	episodes=1 episode, 2014 	
+character=Great Master 	name=Bobby Asghar	episodes=1 episode, 2015 	
+character=Dickon Tarly	name=Freddie Stroma	episodes=1 episode, 2016 	
+character=Wildling Rioter	name=Michael Patrick	episodes=1 episode, 2016 	
+character=Lannister Soldier	name=Ed Sheeran	episodes=1 episode, 2017 	
+character=Crossroads Inn Patron	name=Ben Fox	episodes=1 episode, 2017 	
+character=Lannister General	name=Guy Oliver-Watts	episodes=1 episode, 2017 	
+character=Stark Soldier	name=Luke Wilson Hanley	episodes=1 episode, 2017 	
+character=Littlefinger	name=Adele Smyth-Kennedy	episodes=1 episode, 2017 	
+character=Winterfell Spy	name=Adele Smyth-Kennedy	episodes=1 episode, 2017 	
+character=King	name=Louis McCartney	episodes=1 episode, 2019 	
+character=Landing Citizen	name=Louis McCartney	episodes=1 episode, 2019 	
+character=Dirah	name=Marina Lawrence-Mahrra	episodes=1 episode, 2019 	
+character=Northman	name=Robert James	episodes=1 episode, 2019 	
+character=White Walker 	name=Spencer Wilding	episodes=1 episode, 2011 	
+character=Drowned Priest	name=Jonathan Ryan	episodes=1 episode, 2012 	
+character=Theon	name=Steve Wilson	episodes=1 episode, 2012 	
+character=Master of Hounds	name=Steve Wilson	episodes=1 episode, 2012 	
+character=Lannister Guard	name=Sam Mackay	episodes=1 episode, 2012 	
+character=Tansy	name=Jazzy De Lisser	episodes=1 episode, 2014 	
+character=Fennesz	name=Trevor Allan Davies	episodes=1 episode, 2014 	
+character=Goatherd	name=Gian Sanghera-Warren	episodes=1 episode, 2014 	
+character=Son	name=Gian Sanghera-Warren	episodes=1 episode, 2014 	
+character=Merchant Captain	name=Gary Pillai	episodes=1 episode, 2015 	
+character=Braavosi Madam	name=Lacy Moore	episodes=1 episode, 2015 	
+character=Great Master 	name=Peter Silverleaf	episodes=1 episode, 2015 	
+character=Talla Tarly	name=Rebecca Benson	episodes=1 episode, 2016 	
+character=Landing Boaster	name=Dylan Edwards	episodes=1 episode, 2016 	
+character=King	name=Dylan Edwards	episodes=1 episode, 2016 	
+character=Ash	name=Yousef 	episodes=1 episode, 2016 	
+character=Ash	name=Joe	episodes=1 episode, 2016 	
+character=Ash	name=Sweid	episodes=1 episode, 2016 	
+character=Lannister Soldier	name=Matt Faris	episodes=1 episode, 2016 	
+character=Lannister Soldier	name=Thomas Turgoose	episodes=1 episode, 2017 	
+character=Crossroads Inn Patron	name=Mark Roper	episodes=1 episode, 2017 	
+character=Northwoman	name=Roma Tomelty	episodes=1 episode, 2019 	
+character=King	name=Rosie McClelland	episodes=1 episode, 2019 	
+character=Landing Citizen	name=Rosie McClelland	episodes=1 episode, 2019 	
+character=Dothraki Crone	name=Amira Ghazalla	episodes=1 episode, 2011 	
+character=Wight Wildling Girl	name=Claire Wright	episodes=1 episode, 2011-2014 	
+character=Jaremy Rykker	name=Jeffrey O	episodes=1 episode, 2011 	
+character=Jaremy Rykker	name=Brien	episodes=1 episode, 2011 	
+character=Rennick	name=David Fynn	episodes=1 episode, 2012 	
+character=Captain	name=Amy Dawson	episodes=1 episode, 2012 	
+character=Daughter	name=Amy Dawson	episodes=1 episode, 2012 	
+character=Wendel Manderly	name=Oddie Braddell	episodes=1 episode, 2013 	
+character=Morgan	name=Stuart Martin	episodes=1 episode, 2014 	
+character=Friend	name=Stuart Martin	episodes=1 episode, 2014 	
+character=Adrack Humble	name=Jody Halse	episodes=1 episode, 2014 	
+character=Lead Dornish Guard	name=Christian Vit	episodes=1 episode, 2015 	
+character=Young Braavosi	name=Jack Hickey	episodes=1 episode, 2015 	
+character=Great Master 	name=Davor Jozinovic	episodes=1 episode, 2015 	
+character=Riddell	name=Ross McKinney	episodes=1 episode, 2016 	
+character=Kesh	name=Michael Heath	episodes=1 episode, 2016 	
+character=Moro	name=Rubi Ali	episodes=1 episode, 2016 	
+character=Wife 	name=Rubi Ali	episodes=1 episode, 2016 	
+character=Ironborn at Brothel	name=Neil Keery	episodes=1 episode, 2016 	
+character=Lannister Soldier	name=Billy Postlethwaite	episodes=1 episode, 2017 	
+character=King	name=Isaac Heslip	episodes=1 episode, 2019 	
+character=Landing Citizen	name=Isaac Heslip	episodes=1 episode, 2019 	
+character=Joss	name=Niall Cusack	episodes=1 episode, 2011 	
+character=Drunk Patron	name=Paul Portelli	episodes=1 episode, 2011 	
+character=Torrhen Karstark	name=Tyrone McElhennon	episodes=1 episode, 2012 	
+character=Drummer	name=Will Champion	episodes=1 episode, 2013 	
+character=Great Master 	name=Ivan Peric	episodes=1 episode, 2015 	
+character=Kinvara	name=Ania Bukstein	episodes=1 episode, 2016 	
+character=Volantene Whore 	name=Heidi Romanova	episodes=1 episode, 2016 	
+character=Steve	name=Steve Love	episodes=1 episode, 2016 	
+character=Tyrell Bannerman	name=Raül Tortosa	episodes=1 episode, 2016 	
+character=Lannister Guard	name=Adam Slynn	episodes=1 episode, 2017 	
+character=Winter Town Boy	name=Felix Jamieson	episodes=1 episode, 2019 	
+character=Lannister Soldier	name=Jack Morgan	episodes=1 episode, 2019 	
+character=Stiv	name=Stephen Don	episodes=1 episode, 2011 	
+character=Goldcloak 	name=Nikovich Sammut	episodes=1 episode, 2011 	
+character=King	name=Edward Mercieca	episodes=1 episode, 2011 	
+character=Landing Baker	name=Edward Mercieca	episodes=1 episode, 2011 	
+character=Tomard	name=Phil Dixon	episodes=1 episode, 2011 	
+character=Lordsport Dockhand	name=Jer O	episodes=1 episode, 2012 	
+character=Lordsport Dockhand	name=Leary	episodes=1 episode, 2012 	
+character=Karstark Soldier 	name=Neill Fleming	episodes=1 episode, 2012 	
+character=Bolton Soldier	name=Bryan Quinn	episodes=1 episode, 2013 	
+character=Leaf	name=Octavia Selena Alexandru	episodes=1 episode, 2014 	
+character=Valyrian Slave	name=Robert Goodman	episodes=1 episode, 2014 	
+character=Innkeeper	name=Martin Walsh	episodes=1 episode, 2014 	
+character=Vance Corbray	name=Richard Doubleday	episodes=1 episode, 2014 	
+character=Axell Florent	name=James McHale	episodes=1 episode, 2014 	
+character=Great Master 	name=Hadi Kermani	episodes=1 episode, 2015 	
+character=Khal Forzho	name=Tamer Hassan	episodes=1 episode, 2016 	
+character=Volantene Whore 	name=Danielle Claire Jenner	episodes=1 episode, 2016 	
+character=Lannister Soldier	name=Brahm Gallagher	episodes=1 episode, 2016 	
+character=Winter Town Woman	name=Syd Ralph	episodes=1 episode, 2019 	
+character=Night	name=Marcus Lamb	episodes=1 episode, 2011 	
+character=Watchman	name=Marcus Lamb	episodes=1 episode, 2011 	
+character=Knight of House Lynderly	name=Paddy Rocks	episodes=1 episode, 2011 	
+character=Little Bird	name=Tristan Mercieca	episodes=1 episode, 2011 	
+character=Goldcloak 	name=Seamus Kelly	episodes=1 episode, 2011 	
+character=Old Woman Prisoner	name=Gina Moxley	episodes=1 episode, 2012 	
+character=Mirelle	name=Elisa Lasowski	episodes=1 episode, 2013 	
+character=Sorcerer	name=Harold James McMullan	episodes=1 episode, 2013 	
+character=Unsullied	name=Karl Jackson	episodes=1 episode, 2014 	
+character=Lord Blackmont	name=Daniel Rabin	episodes=1 episode, 2014 	
+character=Brothel Guard	name=Mishaël Lopes Cardozo	episodes=1 episode, 2015 	
+character=Great Master 	name=Tonci Banov	episodes=1 episode, 2015 	
+character=Faith Militant 	name=Simon Norbury	episodes=1 episode, 2015 	
+character=Volantene Whore 	name=Ella Hughes	episodes=1 episode, 2016 	
+character=The Waif	name=Adam Turns	episodes=1 episode, 2016 	
+character=Disguise	name=Adam Turns	episodes=1 episode, 2016 	
+character=Stevron Frey	name=Colin Carnegie	episodes=1 episode, 2011 	
+character=Eon Hunter	name=Barrington Cullen	episodes=1 episode, 2011 	
+character=Gerald	name=Ken Fletcher	episodes=1 episode, 2012 	
+character=Boat Commander	name=Michael Power	episodes=1 episode, 2013 	
+character=Goatherd	name=Darren Kent	episodes=1 episode, 2014 	
+character=Musician 	name=Jon Thor Birgisson	episodes=1 episode, 2014 	
+character=Kegs	name=Tim Landers	episodes=1 episode, 2014 	
+character=Derek	name=Ian Lloyd Anderson	episodes=1 episode, 2015 	
+character=Lollys Stokeworth	name=Elizabeth Cadwallader	episodes=1 episode, 2015 	
+character=Despondent Man	name=David Garlick	episodes=1 episode, 2015 	
+character=Faith Militant 	name=Jack Olohan	episodes=1 episode, 2015 	
+character=Volantene Whore 	name=Zoi Gorman	episodes=1 episode, 2016 	
+character=Winter Town Woman	name=Katie Tumelty	episodes=1 episode, 2019 	
+character=Watch Deserter	name=Connor	episodes=1 episode, 2011 	
+character=Watch Deserter	name=Barry O	episodes=1 episode, 2011 	
+character=Night	name=Connor	episodes=1 episode, 2011 	
+character=Night	name=Barry O	episodes=1 episode, 2011 	
+character=Ryger Rivers	name=Bryan McCaugherty	episodes=1 episode, 2011 	
+character=Protestor	name=Edward Tudor-Pole	episodes=1 episode, 2012 	
+character=Wounded Lannister	name=Emmet O	episodes=1 episode, 2012 	
+character=Wounded Lannister	name=Riabhaigh	episodes=1 episode, 2012 	
+character=Landing Rioter 	name=Marko Juraga	episodes=1 episode, 2012 	
+character=King	name=Marko Juraga	episodes=1 episode, 2012 	
+character=Colen of Greenpools	name=Darren Killeen	episodes=1 episode, 2012 	
+character=Frey Soldier 	name=Grady	episodes=1 episode, 2013 	
+character=Frey Soldier 	name=Ciaran O	episodes=1 episode, 2013 	
+character=Margaery	name=Aisling Jarrett-Gavin	episodes=1 episode, 2013 	
+character=Handmaiden	name=Aisling Jarrett-Gavin	episodes=1 episode, 2013 	
+character=Riverlands Traveller	name=Joe Purcell	episodes=1 episode, 2013 	
+character=Craster	name=Aeryn Walker	episodes=1 episode, 2014 	
+character=Wife 	name=Aeryn Walker	episodes=1 episode, 2014 	
+character=Ser Endrew Tarth	name=Dez McMahon	episodes=1 episode, 2014 	
+character=Black Jack Bulwer	name=Cormac McDonagh	episodes=1 episode, 2014 	
+character=Musician 	name=Orri P. Dyrason	episodes=1 episode, 2014 	
+character=Second Son	name=Slavko Sobin	episodes=1 episode, 2015 	
+character=Brant	name=Jonathan Byrne	episodes=1 episode, 2015 	
+character=Faceless Man	name=Cedric Henderson	episodes=1 episode, 2015 	
+character=Sellsword 	name=Matt McArdle	episodes=1 episode, 2015 	
+character=Rickard Stark	name=Wayne Foskett	episodes=1 episode, 2016 	
+character=Poisoned Frey	name=Paul Ward	episodes=1 episode, 2017 	
+character=Beric Dondarrion	name=David Michael Scott	episodes=1 episode, 2011 	
+character=King	name=Stephen Grech	episodes=1 episode, 2011 	
+character=Landing Urchin	name=Stephen Grech	episodes=1 episode, 2011 	
+character=Karstark Soldier 	name=Duncan Lacroix	episodes=1 episode, 2012 	
+character=Tortured Prisoner	name=Donal Gallery	episodes=1 episode, 2012 	
+character=Landing Rioter 	name=Rea Separovic	episodes=1 episode, 2012 	
+character=King	name=Rea Separovic	episodes=1 episode, 2012 	
+character=Karstark Lookout	name=Shaun Blaney	episodes=1 episode, 2013 	
+character=Frey Soldier 	name=Michael Liebmann	episodes=1 episode, 2013 	
+character=Orphan Kid	name=Max Barber	episodes=1 episode, 2013 	
+character=Landing Tailor	name=Joe Cassidy	episodes=1 episode, 2013 	
+character=King	name=Joe Cassidy	episodes=1 episode, 2013 	
+character=Farmer Hamlet	name=Finbar Lynch	episodes=1 episode, 2014 	
+character=Mully	name=Andy Moore	episodes=1 episode, 2014 	
+character=Musician 	name=Georg Holm	episodes=1 episode, 2014 	
+character=Wife 	name=Cheryl Lester	episodes=1 episode, 2014 	
+character=Craster	name=Cheryl Lester	episodes=1 episode, 2014 	
+character=Lead Kingsguard	name=Paddy Wallace	episodes=1 episode, 2015 	
+character=Sellsword 	name=Eddie Elks	episodes=1 episode, 2015 	
+character=Lannister Guard 	name=Connor	episodes=1 episode, 2015 	
+character=Lannister Guard 	name=Danny O	episodes=1 episode, 2015 	
+character=Tyrell Guard	name=Nikola Bace	episodes=1 episode, 2015 	
+character=Arthur Dayne	name=Luke Roberts	episodes=1 episode, 2016 	
+character=Frey Lord	name=Brendan Morrissey	episodes=1 episode, 2017 	
+character=Reginald Lannister	name=Patrick FitzSymons	episodes=1 episode, 2012 	
+character=Brothel Customer	name=Derek Reid	episodes=1 episode, 2012 	
+character=Violet	name=Stephanie Blacker	episodes=1 episode, 2013 	
+character=Warlock	name=Lottie Steer	episodes=1 episode, 2013 	
+character=Tyrell Servant	name=Will Rastall	episodes=1 episode, 2013 	
+character=Fruit Vendor	name=Alex Mileman	episodes=1 episode, 2013 	
+character=Wight	name=Alice Hewkin	episodes=1 episode, 2014 	
+character=Little Bird	name=Samuel Paul Small	episodes=1 episode, 2014 	
+character=King Joffrey Baratheon Dwarf	name=Raymond Griffiths	episodes=1 episode, 2014 	
+character=Clea	name=Gwyneth Keyworth	episodes=1 episode, 2015 	
+character=Brusco	name=Garry Mountaine	episodes=1 episode, 2015 	
+character=Foreign Merchant	name=Allon Sylvain	episodes=1 episode, 2015 	
+character=Gerold Hightower	name=Eddie Eyre	episodes=1 episode, 2016 	
+character=Lannister Captain	name=Richard Laing	episodes=1 episode, 2016 	
+character=Iggo	name=Deon Lee-Williams	episodes=1 episode, 2016 	
+character=Sick Maester	name=Eamonn Draper	episodes=1 episode, 2017 	
+character=Rickard Karstark	name=Steve Blount	episodes=1 episode, 2011 	
+character=Unsullied	name=Rhys Howells	episodes=1 episode, 2013 	
+character=Whore 	name=Kristen Gillespie	episodes=1 episode, 2014 	
+character=King Stannis Baratheon Dwarf	name=Maxwell Laird	episodes=1 episode, 2014 	
+character=Young Cersei Lannister	name=Nell Williams	episodes=1 episode, 2015 	
+character=Denys Mallister	name=J.J. Murphy	episodes=1 episode, 2015 	
+character=Beggar Woman	name=Emina Muftic	episodes=1 episode, 2015 	
+character=Sailor	name=Dylan McDonough	episodes=1 episode, 2015 	
+character=Khal Brozho	name=Elie Haddad	episodes=1 episode, 2016 	
+character=Jonos Bracken	name=Gerry O	episodes=1 episode, 2011 	
+character=Jonos Bracken	name=Brien	episodes=1 episode, 2011 	
+character=Stark Messenger	name=Moe Dunford	episodes=1 episode, 2012 	
+character=Jaqen	name=Patrick O	episodes=1 episode, 2012 	
+character=Jaqen	name=Kane	episodes=1 episode, 2012 	
+character=Disguise	name=Patrick O	episodes=1 episode, 2012 	
+character=Disguise	name=Kane	episodes=1 episode, 2012 	
+character=Desmond Crakehall	name=Maro Drobnic	episodes=1 episode, 2013 	
+character=King Renly Baratheon Dwarf	name=Dean Whatton	episodes=1 episode, 2014 	
+character=Guymon	name=Jem Wall	episodes=1 episode, 2014 	
+character=Baratheon General	name=Nigel O	episodes=1 episode, 2015 	
+character=Baratheon General	name=Neill	episodes=1 episode, 2015 	
+character=Melara Hetherspoon	name=Isabella Steinbarth	episodes=1 episode, 2015 	
+character=Khal Rhalko	name=Andrei Claude	episodes=1 episode, 2016 	
+character=Young Lyanna Stark	name=Cordelia Hill	episodes=1 episode, 2016 	
+character=Braavosi Woman 	name=Kate Anthony	episodes=1 episode, 2016 	
+character=Knight of House Frey	name=Patrick Ryan	episodes=1 episode, 2011 	
+character=Lannister Messenger	name=Simon Stewart	episodes=1 episode, 2011 	
+character=Stark Soldier	name=Michael Shaeffer	episodes=1 episode, 2012 	
+character=Northern Lord	name=Pat Mooney	episodes=1 episode, 2012 	
+character=Lannister Torturer	name=Mark Byatt	episodes=1 episode, 2012 	
+character=Slave 	name=Marin Tudor	episodes=1 episode, 2013 	
+character=Yunkai	name=Marin Tudor	episodes=1 episode, 2013 	
+character=Innkeeper	name=Gabrielle Dempsey	episodes=1 episode, 2014 	
+character=Daughter	name=Gabrielle Dempsey	episodes=1 episode, 2014 	
+character=King Robb Stark Dwarf	name=George Appleby	episodes=1 episode, 2014 	
+character=Olly	name=Raewyn Lippert	episodes=1 episode, 2014 	
+character=Mother	name=Raewyn Lippert	episodes=1 episode, 2014 	
+character=White Rat	name=Marcos James	episodes=1 episode, 2015 	
+character=Anara	name=Ollie Kram	episodes=1 episode, 2015 	
+character=Septa Moelle	name=Maggie Hayes	episodes=1 episode, 2015 	
+character=Street Tough 	name=Tom Fava	episodes=1 episode, 2015 	
+character=Citadel Maester	name=Frank Hvam	episodes=1 episode, 2016 	
+character=Braavosi Woman 	name=Sally Mortemore	episodes=1 episode, 2016 	
+character=Khal Qorro	name=Darius Dar Khan	episodes=1 episode, 2016 	
+character=Serving Girl	name=Kate Dempsey	episodes=1 episode, 2017 	
+character=Vayon Poole	name=Matthew Scurfield	episodes=1 episode, 2011 	
+character=Addam Marbrand	name=B.J. Hogg	episodes=1 episode, 2011 	
+character=Bolton Soldier	name=Gary Lightbody	episodes=1 episode, 2013 	
+character=Slave 	name=Roxana Kadyrova	episodes=1 episode, 2013 	
+character=Yunkai	name=Roxana Kadyrova	episodes=1 episode, 2013 	
+character=Whore 	name=Maria Sikavica	episodes=1 episode, 2014 	
+character=King Balon Greyjoy Dwarf	name=Krysten Coombs	episodes=1 episode, 2014 	
+character=Brea	name=Gemita Samarra	episodes=1 episode, 2015 	
+character=Mallister Supporter	name=Derek Lord	episodes=1 episode, 2015 	
+character=Strong Sam Stone	name=Allan Gildea	episodes=1 episode, 2015 	
+character=Septa Scolera	name=Mary Jordan	episodes=1 episode, 2015 	
+character=Watch Messenger	name=Sullivan	episodes=1 episode, 2011 	
+character=Watch Messenger	name=Frank O	episodes=1 episode, 2011 	
+character=Night	name=Sullivan	episodes=1 episode, 2011 	
+character=Night	name=Frank O	episodes=1 episode, 2011 	
+character=Masha Heddle	name=Susie Kelly	episodes=1 episode, 2011 	
+character=Stark Guard	name=Faolan Morgan	episodes=1 episode, 2011 	
+character=Qartheen Woman	name=Kristina Krepela	episodes=1 episode, 2012 	
+character=Septon	name=Terry Byrne	episodes=1 episode, 2012 	
+character=Wife	name=Michelle Costello	episodes=1 episode, 2013 	
+character=Craster	name=Michelle Costello	episodes=1 episode, 2013 	
+character=Slave 	name=Jamal Ouarraq	episodes=1 episode, 2013 	
+character=Yunkai	name=Jamal Ouarraq	episodes=1 episode, 2013 	
+character=Eyrie Guard	name=Paul Kennedy	episodes=1 episode, 2015 	
+character=Whore	name=Irma Mali	episodes=1 episode, 2015 	
+character=Brothel Customer	name=Ben Yates	episodes=1 episode, 2015 	
+character=Watchman 	name=Ruairí Heading	episodes=1 episode, 2016 	
+character=Night	name=Ruairí Heading	episodes=1 episode, 2016 	
+character=Lannister Soldier	name=Ciaran McMahon	episodes=1 episode, 2012 	
+character=Younger Wife	name=Lisa Walsh	episodes=1 episode, 2013 	
+character=Craster	name=Lisa Walsh	episodes=1 episode, 2013 	
+character=Slave 	name=El Hasani	episodes=1 episode, 2013 	
+character=Yunkai	name=El Hasani	episodes=1 episode, 2013 	
+character=Aya	name=Donnell	episodes=1 episode, 2015 	
+character=Aya	name=Aifric O	episodes=1 episode, 2015 	
+character=Brothel Child 	name=Ella Tweed	episodes=1 episode, 2015 	
+character=Sparring Boy	name=Stephen Brown	episodes=1 episode, 2015 	
+character=Street Tough 	name=Winston Davis	episodes=1 episode, 2015 	
+character=Bolton Officer	name=Andrew Bryan	episodes=1 episode, 2016 	
+character=Lannister Scout	name=Chris Gallagher	episodes=1 episode, 2011 	
+character=Rhaego	name=Wren Ros Elliot-Sloan	episodes=1 episode, 2012 	
+character=Yunkai	name=Mustapha Mekanassi	episodes=1 episode, 2013 	
+character=Slave 	name=Mustapha Mekanassi	episodes=1 episode, 2013 	
+character=Inn Waitress	name=Irene Kelleher	episodes=1 episode, 2015 	
+character=Lannister Guard 	name=Fiach Kunz	episodes=1 episode, 2015 	
+character=Brothel Child 	name=Isabelle Jones	episodes=1 episode, 2015 	
+character=Maester Helliweg	name=Joe Hewetson	episodes=1 episode, 2015 	
+character=Handmaid	name=Sabrina Bartlett	episodes=1 episode, 2016 	
+character=Bolton Soldier	name=Tristan Heanue	episodes=1 episode, 2016 	
+character=Ironborn 	name=James Lecky	episodes=1 episode, 2016 	
+character=Stark Guard	name=Rick Burn	episodes=1 episode, 2011 	
+character=Genna	name=Kylie Harris	episodes=1 episode, 2013 	
+character=Son of the Harpy	name=Curtis-Lee Ashqar	episodes=1 episode, 2015 	
+character=Lannister Guard 	name=Michael Johnston	episodes=1 episode, 2015 	
+character=Baratheon Soldier 	name=David Fennelly	episodes=1 episode, 2015 	
+character=Attendant	name=Dermot Ward	episodes=1 episode, 2016 	
+character=Tommen	name=Dermot Ward	episodes=1 episode, 2016 	
+character=Meereenese Homeless Mother	name=Sabina Arthur	episodes=1 episode, 2016 	
+character=Red Keep Stableboy	name=Hugo Culverhouse	episodes=1 episode, 2011 	
+character=Night	name=Patrick J Molloy	episodes=1 episode, 2014 	
+character=Watchman	name=Patrick J Molloy	episodes=1 episode, 2014 	
+character=Dwarf Hunter 	name=Jonathan Gunning	episodes=1 episode, 2015 	
+character=Maester Caleotte	name=Colin Azzopardi	episodes=1 episode, 2016 	
+character=Manservant	name=Aron Hegarty	episodes=1 episode, 2016 	
+character=Tommen	name=Aron Hegarty	episodes=1 episode, 2016 	
+character=Chella	name=Natalia Lee	episodes=1 episode, 2012 	
+character=Gordy	name=Tristan McConnell	episodes=1 episode, 2015 	
+character=Dwarf Hunter 	name=Alan McKee	episodes=1 episode, 2015 	
+character=Wyman Manderly	name=Sean Blowers	episodes=1 episode, 2016 	
+character=Lord Portan	name=Gordon Fulton	episodes=1 episode, 2012 	
+character=Daughter	name=Trixiebell Harrowell	episodes=1 episode, 2014 	
+character=Farmer	name=Trixiebell Harrowell	episodes=1 episode, 2014 	
+character=Simpson	name=Laurence O	episodes=1 episode, 2015 	
+character=Simpson	name=Fuarain	episodes=1 episode, 2015 	
+character=Cley Cerwyn	name=Tom Varey	episodes=1 episode, 2016 	
+character=Tourney Herald	name=Marko Cindric	episodes=1 episode, 2012 	
+character=Tortured Slave	name=Mark Drake	episodes=1 episode, 2013 	
+character=Woodcutter	name=Ralph Clemente	episodes=1 episode, 2015 	
+character=Dothraki Man Having Sex	name=Oliver Stockwell	episodes=1 episode, 2016 	
+character=Landing Drunkard	name=Anthony John Crocker	episodes=1 episode, 2015 	
+character=King	name=Anthony John Crocker	episodes=1 episode, 2015 	
+character=Great Master 	name=Derek Horsham	episodes=1 episode, 2014 	
+character=Landing Whore	name=Kirsty Nicholls	episodes=1 episode, 2015 	
+character=King	name=Kirsty Nicholls	episodes=1 episode, 2015 	
+character=Meereen Slave	name=Joshua Sher	episodes=1 episode, 2014 	
+character=Landing Flasher 	name=Munro Graham	episodes=1 episode, 2015 	
+character=King	name=Munro Graham	episodes=1 episode, 2015 	
+character=Landing Flasher 	name=Ben Kelly	episodes=1 episode, 2015 	
+character=King	name=Ben Kelly	episodes=1 episode, 2015 	
+character=Cersei Body Double	name=Rebecca Van Cleave	episodes=1 episode, 2015 	
+character=The Bear	name=Bart the Bear	episodes=1 episode, 2013 	
+character=Ironborn	name=Logan Bruce	episodes=6 episodes, 2013-2019 	
+character=Unsullied	name=Stephen Presley	episodes=6 episodes, 2019 	
+character=Unsullied	name=Andrew Watson	episodes=6 episodes, 2019 	
+character=Knight	name=Frédéric André	episodes=4 episodes, 2011-2016 	
+character=Wildling	name=Jessica Odell	episodes=4 episodes, 2015-2016 	
+character=Wildling	name=Brian Kearns	episodes=3 episodes, 2019 	
+character=Unsullied Soldier	name=Jaryd Headley	episodes=3 episodes, 2019 	
+character=Mikken	name=Boyd Rankin	episodes=2 episodes, 2011 	
+character=Lord Galbart Glover	name=Mark Coney	episodes=2 episodes, 2011 	
+character=Nobleman	name=Aaron Archer	episodes=2 episodes, 2012-2016 	
+character=Peasant	name=Marijan Hinteregger	episodes=2 episodes, 2012-2015 	
+character=Watch	name=Gerald McMullan	episodes=2 episodes, 2014-2017 	
+character=Night	name=Gerald McMullan	episodes=2 episodes, 2014-2017 	
+character=Mole	name=Marion McDowell	episodes=2 episodes, 2014 	
+character=Town Whore	name=Marion McDowell	episodes=2 episodes, 2014 	
+character=Tyrell Cousin	name=Kylie Zimmer	episodes=2 episodes, 2014 	
+character=Bolton Infantry	name=Kevin-Barry Brown	episodes=2 episodes, 2016 	
+character=Meereen Guard	name=Hugh Yeaman	episodes=2 episodes, 2016 	
+character=Captured Wight	name=Michael Byrch	episodes=2 episodes, 2017 	
+character=Dothraki Rider	name=Spencer Collings	episodes=2 episodes, 2019 	
+character=Dothraki	name=Nathan Laudrup Craig	episodes=2 episodes, 2019 	
+character=Lady of Winterfell	name=Canan Avsar	episodes=2 episodes, 2019 	
+character=Mago	name=Ivailo Dimitrov	episodes=1 episode, 2011 	
+character=Prostitute	name=Caroline Davis	episodes=1 episode, 2011 	
+character=Guard	name=Robert Yates	episodes=1 episode, 2011 	
+character=King	name=Robert Yates	episodes=1 episode, 2011 	
+character=Lannister Guard	name=James Tolcher	episodes=1 episode, 2011 	
+character=Peasant	name=Melissa Reid	episodes=1 episode, 2011 	
+character=Winterfell Beekeeper	name=Owen Dickey	episodes=1 episode, 2011 	
+character=Baratheon Guard	name=Phil Barnhill	episodes=1 episode, 2011 	
+character=Black Knight	name=Jonathan Cohen	episodes=1 episode, 2012 	
+character=Lannister Archer	name=Hugh Irvine	episodes=1 episode, 2012 	
+character=Selyse Baratheon	name=Sarah Mac Keever	episodes=1 episode, 2012 	
+character=Weasel	name=Paul Kealyn	episodes=1 episode, 2012 	
+character=Daughter	name=Ginger A. Taylor	episodes=1 episode, 2012 	
+character=Craster	name=Ginger A. Taylor	episodes=1 episode, 2012 	
+character=Wight	name=Noel Cecil	episodes=1 episode, 2012 	
+character=Baratheon Archer	name=Robert Atkinson	episodes=1 episode, 2012 	
+character=Stark Guard	name=Paul Monahan	episodes=1 episode, 2012 	
+character=Young Nobleman	name=Filip Lozic	episodes=1 episode, 2012 	
+character=Hoster Tully	name=Christopher Newman	episodes=1 episode, 2013 	
+character=Musician	name=Kevin McCann	episodes=1 episode, 2013 	
+character=Riverrun Nobleman	name=Matt Butcher	episodes=1 episode, 2013 	
+character=Marianne Frey	name=Katie Creaven	episodes=1 episode, 2013 	
+character=Yunkai Citizen	name=Mustapha Rachidi	episodes=1 episode, 2013 	
+character=Dothraki	name=Omar Youssef	episodes=1 episode, 2013 	
+character=Soldier	name=Michael Golden	episodes=1 episode, 2013 	
+character=Bathhouse Boy	name=Niall O	episodes=1 episode, 2013 	
+character=Bathhouse Boy	name=Donnell	episodes=1 episode, 2013 	
+character=Watch Archer	name=Neil Marshall	episodes=1 episode, 2014 	
+character=Night	name=Neil Marshall	episodes=1 episode, 2014 	
+character=Donnel Hill	name=Jack Roth	episodes=1 episode, 2014 	
+character=Wedding Band	name=Sigur Rós	episodes=1 episode, 2014 	
+character=Dragonstone waiter	name=Bryan Cogman	episodes=1 episode, 2014 	
+character=Waitress	name=Emma Bryant	episodes=1 episode, 2014 	
+character=Cooper	name=Joe Claflin	episodes=1 episode, 2014 	
+character=Wedding Guest	name=Paul Herbert	episodes=1 episode, 2014 	
+character=Inn Customer	name=Phelim Kelly	episodes=1 episode, 2014 	
+character=Wedding Guest	name=C.C. Smiff	episodes=1 episode, 2014 	
+character=Frey Serving Boy	name=Mark Kelvin Ryan	episodes=1 episode, 2014 	
+character=Noble Lady	name=Stella Lutz	episodes=1 episode, 2014 	
+character=Noble Man	name=Neil Baltus	episodes=1 episode, 2014 	
+character=Stannis Guard	name=Oisin De Lange	episodes=1 episode, 2014 	
+character=Strong Fighter	name=Adam Basil	episodes=1 episode, 2015 	
+character=Wildling	name=Royd Tolkien	episodes=1 episode, 2015 	
+character=Wilding Gladiator	name=Danko Jordanov	episodes=1 episode, 2015 	
+character=Fighter	name=Rob de Groot	episodes=1 episode, 2015 	
+character=Pit Fighter	name=Charles Jarman	episodes=1 episode, 2015 	
+character=Wildling	name=Katie Castle	episodes=1 episode, 2015 	
+character=Unsullied Guard	name=Pablo Verdejo	episodes=1 episode, 2015 	
+character=Wildling	name=Elaine O	episodes=1 episode, 2015 	
+character=Wildling	name=Dwyer	episodes=1 episode, 2015 	
+character=Wildling	name=Brann Dailor	episodes=1 episode, 2015 	
+character=Wildling	name=Brent Hinds	episodes=1 episode, 2015 	
+character=Wight	name=Barrie Martin	episodes=1 episode, 2015 	
+character=Wildling	name=Bill Kelliher	episodes=1 episode, 2015 	
+character=Wildling Archer	name=Jenny Edgar	episodes=1 episode, 2015 	
+character=Wildling Archer	name=Chelsea Mainwaring	episodes=1 episode, 2015 	
+character=Fighter	name=Roman Beguns	episodes=1 episode, 2015 	
+character=Night	name=Christopher Kinkead	episodes=1 episode, 2015 	
+character=Watch Recruit	name=Christopher Kinkead	episodes=1 episode, 2015 	
+character=Wight	name=Cassie Friel	episodes=1 episode, 2015 	
+character=Freed Slave	name=Terence Hughes	episodes=1 episode, 2015 	
+character=Child of the Forest 	name=Rachelle Beinart	episodes=1 episode, 2016 	
+character=Child of the Forest 	name=Kristina Baskett	episodes=1 episode, 2016 	
+character=Healtor Troop	name=Gary Wales	episodes=1 episode, 2016 	
+character=Howland Reed	name=Leo Woodruff	episodes=1 episode, 2016 	
+character=Child of the Forest 	name=Casey Michaels	episodes=1 episode, 2016 	
+character=Volantene Whore	name=Sophia Smith	episodes=1 episode, 2016 	
+character=Man in the Alcazaba	name=Francisco Peramos	episodes=1 episode, 2016 	
+character=Volantene Whore	name=Susan Christie	episodes=1 episode, 2016 	
+character=Laundry Woman	name=Alba Ribó	episodes=1 episode, 2016 	
+character=Volantene Whore	name=Raquel Arraes	episodes=1 episode, 2016 	
+character=Wight	name=Declan Curran	episodes=1 episode, 2016 	
+character=Man	name=José Mellinas	episodes=1 episode, 2016 	
+character=Right	name=José Mellinas	episodes=1 episode, 2016 	
+character=That	name=José Mellinas	episodes=1 episode, 2016 	
+character=Frey Daughter	name=Milly Burke Cunningham	episodes=1 episode, 2016 	
+character=Tavern Maid	name=Elynia Betts	episodes=1 episode, 2016 	
+character=Lannister Spearman	name=Noah Syndergaard	episodes=1 episode, 2017 	
+character=Wildling	name=Dan Euston	episodes=1 episode, 2017 	
+character=Lannister Soldier	name=Seán McGillicuddy	episodes=1 episode, 2017 	
+character=Burning Lannister	name=Douglas Robson	episodes=1 episode, 2017 	
+character=Lannister Map Painter	name=Jim Stanes	episodes=1 episode, 2017 	
+character=Traveller	name=Dario Cannizzaro	episodes=1 episode, 2017 	
+character=Tyrell Guard	name=Ross Moneypenny	episodes=1 episode, 2017 	
+character=Dothraki Rider	name=Charlie Barrett	episodes=1 episode, 2017 	
+character=Lannister Guard	name=Christian Gimse	episodes=1 episode, 2017 	
+character=Watch	name=Brendan McGivern	episodes=1 episode, 2017 	
+character=Night	name=Brendan McGivern	episodes=1 episode, 2017 	
+character=Ironborn 	name=Rob McElhenney	episodes=1 episode, 2019 	
+character=Ironborn 	name=Martin Starr	episodes=1 episode, 2019 	
+character=Wildling 	name=David Benioff	episodes=1 episode, 2019 	
+character=Wildling 	name=D.B. Weiss	episodes=1 episode, 2019 	
+character=King	name=Lorenzo Antonucci	episodes=1 episode, 2019 	
+character=Landing Citizen	name=Lorenzo Antonucci	episodes=1 episode, 2019 	
+character=King	name=Aaron Rodgers	episodes=1 episode, 2019 	
+character=Landing Citizen	name=Aaron Rodgers	episodes=1 episode, 2019 	
+character=Soldier	name=Sophie Ellis-Bextor	episodes=1 episode, 2019 	
+character=Wight	name=Jack Hudson	episodes=1 episode, 2019 	
+character=Lannister Officer	name=Duncan Muggoch	episodes=1 episode, 2019 	
+character=Wildling Wight	name=Chris Stapleton	episodes=1 episode, 2019 	
+character=Alanna	name=Kim Chapman	episodes=1 episode, 2019 	
+character=Stark Guard	name=Jesse Morris	episodes=1 episode, 2019 	
+character=Ironborn 	name=Dave Hill	episodes=1 episode, 2019 	
+character=Soldier	name=Vasco Temudo	episodes=1 episode, 2019 	
+character=Soldier	name=Richard Jones	episodes=1 episode, 2019 	
+character=Lannister Archer	name=Brian Black	episodes=1 episode, 2019 	
+character=King	name=Patrick McGilligan	episodes=1 episode, 2019 	
+character=Landing Citizen	name=Patrick McGilligan	episodes=1 episode, 2019 	
+character=Grieving Daughter	name=Flaherty	episodes=1 episode, 2019 	
+character=Grieving Daughter	name=Michelle O	episodes=1 episode, 2019 	
+character=Old Man	name=Derek Smith	episodes=1 episode, 2019 	
+character=Lannister Guard	name=Adam Quigley-Nixon	episodes=1 episode, 2019 	
+character=Unsullied	name=Louis Agbodo	episodes=1 episode, 2019 	
+character=Wight	name=Gareth Wright	episodes=1 episode, 2019 	
+character=Karstark Bannerman	name=Jack Watson	episodes=1 episode, 2019 	

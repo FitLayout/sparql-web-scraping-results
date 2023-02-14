@@ -1,0 +1,900 @@
+# http://fitlayout.github.io/resource/art1 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-pro-1tb-silver-mq2n3yc-a.html
+title='Mobilní telefon Apple iPhone 14 Pro 1TB Silver (MQ2N3YC/A)'	price='49 990 Kč' 
+# http://fitlayout.github.io/resource/art2 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-pro-1tb-deep-purple-mq323yc-a.html
+title='Mobilní telefon Apple iPhone 14 Pro 1TB Deep Purple (MQ323YC/A)'	price='49 990 Kč' 
+# http://fitlayout.github.io/resource/art3 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-pro-1tb-space-black-mq2g3yc-a.html
+title='Mobilní telefon Apple iPhone 14 Pro 1TB Space Black (MQ2G3YC/A)'	price='49 990 Kč' 
+# http://fitlayout.github.io/resource/art4 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-pro-1tb-gold-mq2v3yc-a.html
+title='Mobilní telefon Apple iPhone 14 Pro 1TB Gold (MQ2V3YC/A)'	price='49 990 Kč' 
+# http://fitlayout.github.io/resource/art5 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-fold3-512-gb-5g-sm-f926bzsgeue-stribrny.html
+title='Mobilní telefon Samsung Galaxy Z Fold3 512 GB 5G (SM-F926BZSGEUE) stříbrný'	price='48 990 Kč' 
+# http://fitlayout.github.io/resource/art6 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-fold4-5g-12gb-512gb-sm-f936bzkceue-cerny.html
+title='Mobilní telefon Samsung Galaxy Z Fold4 5G 12GB/512GB (SM-F936BZKCEUE) černý'	price='47 990 Kč' 
+# http://fitlayout.github.io/resource/art7 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-fold4-5g-12gb-256gb-sm-f936bzebeue-bezovy.html
+title='Mobilní telefon Samsung Galaxy Z Fold4 5G 12GB/256GB (SM-F936BZEBEUE) béžový'	price='44 990 Kč' 
+# http://fitlayout.github.io/resource/art8 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-fold4-5g-12gb-256gb-sm-f936bzkbeue-cerny.html
+title='Mobilní telefon Samsung Galaxy Z Fold4 5G 12GB/256GB (SM-F936BZKBEUE) černý'	price='44 990 Kč' 
+# http://fitlayout.github.io/resource/art9 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-pro-512gb-silver-mq1w3yc-a.html
+title='Mobilní telefon Apple iPhone 14 Pro 512GB Silver (MQ1W3YC/A)'	price='43 490 Kč' 
+# http://fitlayout.github.io/resource/art10 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-pro-512gb-gold-mq233yc-a.html
+title='Mobilní telefon Apple iPhone 14 Pro 512GB Gold (MQ233YC/A)'	price='43 490 Kč' 
+# http://fitlayout.github.io/resource/art11 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-1tb-graphite-mlvv3cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 1TB Graphite (MLVV3CN/A)'	price='41 990 Kč' 
+# http://fitlayout.github.io/resource/art12 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-1tb-sierra-blue-mlw03cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 1TB Sierra Blue (MLW03CN/A)'	price='41 490 Kč' 
+# http://fitlayout.github.io/resource/art13 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-max-512gb-gold-mllh3cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro Max 512GB Gold (MLLH3CN/A)'	price='41 190 Kč' 
+# http://fitlayout.github.io/resource/art14 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-1tb-gold-zanovni-12-mesicu-zaruka-mlvy3cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 1TB Gold - ZÁNOVNÍ - 12 měsíců záruka (MLVY3CN/A)'	price='39 490 Kč' 
+# http://fitlayout.github.io/resource/art15 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-1tb-graphite-zanovni-12-mesicu-zaruka-mlvv3cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 1TB Graphite - ZÁNOVNÍ - 12 měsíců záruka (MLVV3CN/A)'	price='39 490 Kč' 
+# http://fitlayout.github.io/resource/art16 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-max-1tb-graphite-zanovni-12-mesicu-zaruka-mllk3cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro Max 1TB Graphite - ZÁNOVNÍ - 12 měsíců záruka (MLLK3CN/A)'	price='37 990 Kč' 
+# http://fitlayout.github.io/resource/art17 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-512gb-gold-mlvq3cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 512GB Gold (MLVQ3CN/A)'	price='36 990 Kč' 
+# http://fitlayout.github.io/resource/art18 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-512gb-graphite-mlvh3cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 512GB Graphite (MLVH3CN/A)'	price='36 990 Kč' 
+# http://fitlayout.github.io/resource/art19 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-512gb-midnight-mpww3yc-a.html
+title='Mobilní telefon Apple iPhone 14 512GB Midnight (MPWW3YC/A)'	price='36 490 Kč' 
+# http://fitlayout.github.io/resource/art20 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-512gb-starlight-mpx33yc-a.html
+title='Mobilní telefon Apple iPhone 14 512GB Starlight (MPX33YC/A)'	price='36 490 Kč' 
+# http://fitlayout.github.io/resource/art21 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-512gb-product-red-mpxg3yc-a.html
+title='Mobilní telefon Apple iPhone 14 512GB (PRODUCT)RED (MPXG3YC/A)'	price='36 490 Kč' 
+# http://fitlayout.github.io/resource/art22 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-512gb-blue-mpxn3yc-a.html
+title='Mobilní telefon Apple iPhone 14 512GB Blue (MPXN3YC/A)'	price='36 490 Kč' 
+# http://fitlayout.github.io/resource/art23 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-ultra-5g-512-gb-sm-s908bdrheue-vinovy.html
+title='Mobilní telefon Samsung Galaxy S22 Ultra 5G 512 GB (SM-S908BDRHEUE) vínový'	price='34 990 Kč' 
+# http://fitlayout.github.io/resource/art24 -> https://www.datart.cz/mobilni-telefon-sony-xperia-1-iv-5g-xqct54c0w-eeac-bily.html
+title='Mobilní telefon Sony Xperia 1 IV 5G (XQCT54C0W.EEAC) bílý'	price='34 990 Kč' 
+# http://fitlayout.github.io/resource/art25 -> https://www.datart.cz/mobilni-telefon-sony-xperia-1-iv-5g-xqct54c0v-eeac-fialovy.html
+title='Mobilní telefon Sony Xperia 1 IV 5G (XQCT54C0V.EEAC) fialový'	price='34 990 Kč' 
+# http://fitlayout.github.io/resource/art26 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-ultra-5g-256-gb-sm-s908bdrgeue-vinovy.html
+title='Mobilní telefon Samsung Galaxy S22 Ultra 5G 256 GB (SM-S908BDRGEUE) vínový'	price='34 490 Kč' 
+# http://fitlayout.github.io/resource/art27 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-ultra-5g-256-gb-sm-s908bzggeue-zeleny.html
+title='Mobilní telefon Samsung Galaxy S22 Ultra 5G 256 GB (SM-S908BZGGEUE) zelený'	price='34 490 Kč' 
+# http://fitlayout.github.io/resource/art28 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-ultra-5g-256-gb-sm-s908bzkgeue-cerny.html
+title='Mobilní telefon Samsung Galaxy S22 Ultra 5G 256 GB (SM-S908BZKGEUE) černý'	price='34 490 Kč' 
+# http://fitlayout.github.io/resource/art29 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-512gb-green-mngm3cn-a.html
+title='Mobilní telefon Apple iPhone 13 512GB Green (MNGM3CN/A)'	price='32 190 Kč' 
+# http://fitlayout.github.io/resource/art30 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-256gb-sierra-blue-mlvp3cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 256GB Sierra Blue (MLVP3CN/A)'	price='31 990 Kč' 
+# http://fitlayout.github.io/resource/art31 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-256gb-graphite-mlve3cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 256GB Graphite (MLVE3CN/A)'	price='31 990 Kč' 
+# http://fitlayout.github.io/resource/art32 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-256gb-gold-mlvk3cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 256GB Gold (MLVK3CN/A)'	price='31 990 Kč' 
+# http://fitlayout.github.io/resource/art33 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-256gb-alpine-green-mne33cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 256GB Alpine Green (MNE33CN/A)'	price='31 990 Kč' 
+# http://fitlayout.github.io/resource/art34 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-ultra-5g-128-gb-sm-s908bzwdeue-bily.html
+title='Mobilní telefon Samsung Galaxy S22 Ultra 5G 128 GB (SM-S908BZWDEUE) bílý'	price='31 990 Kč' 
+# http://fitlayout.github.io/resource/art35 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-ultra-5g-128-gb-sm-s908bzkdeue-cerny.html
+title='Mobilní telefon Samsung Galaxy S22 Ultra 5G 128 GB (SM-S908BZKDEUE) černý'	price='31 990 Kč' 
+# http://fitlayout.github.io/resource/art36 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-256gb-silver-mlvf3cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 256GB Silver (MLVF3CN/A)'	price='31 990 Kč' 
+# http://fitlayout.github.io/resource/art37 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-ultra-5g-128-gb-sm-s908bdrdeue-vinovy.html
+title='Mobilní telefon Samsung Galaxy S22 Ultra 5G 128 GB (SM-S908BDRDEUE) vínový'	price='31 990 Kč' 
+# http://fitlayout.github.io/resource/art38 -> https://www.datart.cz/mobilni-telefon-sony-xperia-1-iii-5g-xqbc52c2b-eeac-cerny.html
+title='Mobilní telefon Sony Xperia 1 III 5G (XQBC52C2B.EEAC) černý'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art39 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-256gb-purple-mpwa3yc-a.html
+title='Mobilní telefon Apple iPhone 14 256GB Purple (MPWA3YC/A)'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art40 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-256gb-product-red-mpwh3yc-a.html
+title='Mobilní telefon Apple iPhone 14 256GB (PRODUCT)RED (MPWH3YC/A)'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art41 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-256gb-starlight-mpw43yc-a.html
+title='Mobilní telefon Apple iPhone 14 256GB Starlight (MPW43YC/A)'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art42 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-256gb-blue-mpwp3yc-a.html
+title='Mobilní telefon Apple iPhone 14 256GB Blue (MPWP3YC/A)'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art43 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-256gb-midnight-mpvx3yc-a.html
+title='Mobilní telefon Apple iPhone 14 256GB Midnight (MPVX3YC/A)'	price='29 990 Kč' 
+# http://fitlayout.github.io/resource/art44 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-128gb-sierra-blue-mlvd3cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 128GB Sierra Blue (MLVD3CN/A)'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art45 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-128gb-graphite-mlv93cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 128GB Graphite (MLV93CN/A)'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art46 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-flip4-5g-8gb-256gb-sm-f721blbheue-modry.html
+title='Mobilní telefon Samsung Galaxy Z Flip4 5G 8GB/256GB (SM-F721BLBHEUE) modrý'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art47 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-128gb-gold-mlvc3cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 128GB Gold (MLVC3CN/A)'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art48 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-flip4-5g-8gb-256gb-sm-f721bzaheue-sedy.html
+title='Mobilní telefon Samsung Galaxy Z Flip4 5G 8GB/256GB (SM-F721BZAHEUE) šedý'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art49 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-flip4-5g-8gb-256gb-sm-f721bzdheue-zlaty.html
+title='Mobilní telefon Samsung Galaxy Z Flip4 5G 8GB/256GB (SM-F721BZDHEUE) zlatý'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art50 -> https://www.datart.cz/mobilni-telefon-asus-rog-phone-6-16gb-512gb-90ai00b2-m00100-bily.html
+title='Mobilní telefon Asus ROG Phone 6 16GB/512GB (90AI00B2-M00100) bílý'	price='28 990 Kč' 
+# http://fitlayout.github.io/resource/art51 -> https://www.datart.cz/mobilni-telefon-xiaomi-12-pro-5g-12gb-256gb-37095-fialovy.html
+title='Mobilní telefon Xiaomi 12 Pro 5G 12GB/256GB (37095) fialový'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art52 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-5g-256-gb-sm-s906bzggeue-zeleny.html
+title='Mobilní telefon Samsung Galaxy S22+ 5G 256 GB (SM-S906BZGGEUE) zelený'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art53 -> https://www.datart.cz/mobilni-telefon-xiaomi-12-pro-5g-12gb-256gb-37128-sedy.html
+title='Mobilní telefon Xiaomi 12 Pro 5G 12GB/256GB (37128) šedý'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art54 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-256gb-silver-zanovni-12-mesicu-zaruka-mlvf3cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 256GB Silver - ZÁNOVNÍ - 12 měsíců záruka (MLVF3CN/A)'	price='27 990 Kč' 
+# http://fitlayout.github.io/resource/art55 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-flip4-5g-8gb-128gb-sm-f721bzageue-sedy.html
+title='Mobilní telefon Samsung Galaxy Z Flip4 5G 8GB/128GB (SM-F721BZAGEUE) šedý'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art56 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-flip4-5g-8gb-128gb-sm-f721blbgeue-modry.html
+title='Mobilní telefon Samsung Galaxy Z Flip4 5G 8GB/128GB (SM-F721BLBGEUE) modrý'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art57 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-flip4-5g-8gb-128gb-sm-f721blvgeue-fialovy.html
+title='Mobilní telefon Samsung Galaxy Z Flip4 5G 8GB/128GB (SM-F721BLVGEUE) fialový'	price='27 490 Kč' 
+# http://fitlayout.github.io/resource/art58 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-5g-128-gb-sm-s906bzkdeue-cerny.html
+title='Mobilní telefon Samsung Galaxy S22+ 5G 128 GB (SM-S906BZKDEUE) černý'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art59 -> https://www.datart.cz/mobilni-telefon-vivo-x80-pro-5g-5661266-cerny.html
+title='Mobilní telefon vivo X80 Pro 5G (5661266) černý'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art60 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-5g-128-gb-sm-s906bzwdeue-bily.html
+title='Mobilní telefon Samsung Galaxy S22+ 5G 128 GB (SM-S906BZWDEUE) bílý'	price='26 990 Kč' 
+# http://fitlayout.github.io/resource/art61 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-128gb-purple-mpv03yc-a.html
+title='Mobilní telefon Apple iPhone 14 128GB Purple (MPV03YC/A)'	price='26 490 Kč' 
+# http://fitlayout.github.io/resource/art62 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-128gb-midnight-mpuf3yc-a.html
+title='Mobilní telefon Apple iPhone 14 128GB Midnight (MPUF3YC/A)'	price='26 490 Kč' 
+# http://fitlayout.github.io/resource/art63 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-128gb-starlight-mpur3yc-a.html
+title='Mobilní telefon Apple iPhone 14 128GB Starlight (MPUR3YC/A)'	price='26 490 Kč' 
+# http://fitlayout.github.io/resource/art64 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-128gb-blue-mpvn3yc-a.html
+title='Mobilní telefon Apple iPhone 14 128GB Blue (MPVN3YC/A)'	price='26 490 Kč' 
+# http://fitlayout.github.io/resource/art65 -> https://www.datart.cz/mobilni-telefon-apple-iphone-14-128gb-product-red-mpva3yc-a.html
+title='Mobilní telefon Apple iPhone 14 128GB (PRODUCT)RED (MPVA3YC/A)'	price='26 490 Kč' 
+# http://fitlayout.github.io/resource/art66 -> https://www.datart.cz/mobilni-telefon-asus-rog-phone-6-12gb-256gb-90ai00b5-m000x0-cerny.html
+title='Mobilní telefon Asus ROG Phone 6 12GB/256GB (90AI00B5-M000X0) černý'	price='25 990 Kč' 
+# http://fitlayout.github.io/resource/art67 -> https://www.datart.cz/mobilni-telefon-asus-rog-phone-6-12gb-256gb-90ai00b2-m000z0-bily.html
+title='Mobilní telefon Asus ROG Phone 6 12GB/256GB (90AI00B2-M000Z0) bílý'	price='25 990 Kč' 
+# http://fitlayout.github.io/resource/art68 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-pro-128gb-gold-zanovni-12-mesicu-zaruka-mlvc3cn-a.html
+title='Mobilní telefon Apple iPhone 13 Pro 128GB Gold - ZÁNOVNÍ - 12 měsíců záruka (MLVC3CN/A)'	price='25 990 Kč' 
+# http://fitlayout.github.io/resource/art69 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-mini-512gb-midnight-mlka3cn-a.html
+title='Mobilní telefon Apple iPhone 13 mini 512GB Midnight (MLKA3CN/A)'	price='25 790 Kč' 
+# http://fitlayout.github.io/resource/art70 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-512gb-midnight-mlqc3cn-a.html
+title='Mobilní telefon Apple iPhone 13 512GB Midnight (MLQC3CN/A)'	price='24 990 Kč' 
+# http://fitlayout.github.io/resource/art71 -> https://www.datart.cz/mobilni-telefon-huawei-p50-pocket-hms-mt-p50pcktdswht-bily.html
+title='Mobilní telefon Huawei P50 Pocket (HMS) (MT-P50PCKTDSWHT) bílý'	price='24 990 Kč' 
+# http://fitlayout.github.io/resource/art72 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-512gb-product-red-mlqf3cn-a.html
+title='Mobilní telefon Apple iPhone 13 512GB (PRODUCT)RED (MLQF3CN/A)'	price='24 990 Kč' 
+# http://fitlayout.github.io/resource/art73 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-512gb-blue-mlqg3cn-a.html
+title='Mobilní telefon Apple iPhone 13 512GB Blue (MLQG3CN/A)'	price='24 990 Kč' 
+# http://fitlayout.github.io/resource/art74 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-mini-512gb-starlight-mlkc3cn-a.html
+title='Mobilní telefon Apple iPhone 13 mini 512GB Starlight (MLKC3CN/A)'	price='24 990 Kč' 
+# http://fitlayout.github.io/resource/art75 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-mini-512gb-pink-mlkd3cn-a.html
+title='Mobilní telefon Apple iPhone 13 mini 512GB Pink (MLKD3CN/A)'	price='24 990 Kč' 
+# http://fitlayout.github.io/resource/art76 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-mini-512gb-product-red-mlke3cn-a.html
+title='Mobilní telefon Apple iPhone 13 mini 512GB (PRODUCT)RED (MLKE3CN/A)'	price='24 990 Kč' 
+# http://fitlayout.github.io/resource/art77 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-mini-512gb-blue-mlkf3cn-a.html
+title='Mobilní telefon Apple iPhone 13 mini 512GB Blue (MLKF3CN/A)'	price='24 990 Kč' 
+# http://fitlayout.github.io/resource/art78 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-512gb-starlight-mlqd3cn-a.html
+title='Mobilní telefon Apple iPhone 13 512GB Starlight (MLQD3CN/A)'	price='24 990 Kč' 
+# http://fitlayout.github.io/resource/art79 -> https://www.datart.cz/mobilni-telefon-oneplus-10-pro-5g-12gb-256gb-volcanic-black-5011101935.html
+title='Mobilní telefon OnePlus 10 Pro 5G 12GB/256GB - Volcanic Black (5011101935)'	price='23 999 Kč' 
+# http://fitlayout.github.io/resource/art80 -> https://www.datart.cz/mobilni-telefon-oneplus-10-pro-5g-12gb-256gb-emerald-forest-5011101936.html
+title='Mobilní telefon OnePlus 10 Pro 5G 12GB/256GB - Emerald Forest (5011101936)'	price='23 999 Kč' 
+# http://fitlayout.github.io/resource/art81 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-256gb-green-mngl3cn-a.html
+title='Mobilní telefon Apple iPhone 13 256GB Green (MNGL3CN/A)'	price='23 490 Kč' 
+# http://fitlayout.github.io/resource/art82 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-256gb-midnight-mlq63cn-a.html
+title='Mobilní telefon Apple iPhone 13 256GB Midnight (MLQ63CN/A)'	price='23 490 Kč' 
+# http://fitlayout.github.io/resource/art83 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-256gb-starlight-mlq73cn-a.html
+title='Mobilní telefon Apple iPhone 13 256GB Starlight (MLQ73CN/A)'	price='23 490 Kč' 
+# http://fitlayout.github.io/resource/art84 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-256gb-product-red-mlq93cn-a.html
+title='Mobilní telefon Apple iPhone 13 256GB (PRODUCT)RED (MLQ93CN/A)'	price='23 490 Kč' 
+# http://fitlayout.github.io/resource/art85 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-256gb-blue-mlqa3cn-a.html
+title='Mobilní telefon Apple iPhone 13 256GB Blue (MLQA3CN/A)'	price='23 490 Kč' 
+# http://fitlayout.github.io/resource/art86 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-flip3-128-gb-5g-sm-f711bzebeue-kremovy.html
+title='Mobilní telefon Samsung Galaxy Z Flip3 128 GB 5G (SM-F711BZEBEUE) krémový'	price='22 999 Kč' 
+# http://fitlayout.github.io/resource/art87 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-flip3-128-gb-5g-sm-f711bzgbeue-zeleny.html
+title='Mobilní telefon Samsung Galaxy Z Flip3 128 GB 5G (SM-F711BZGBEUE) zelený'	price='22 999 Kč' 
+# http://fitlayout.github.io/resource/art88 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-flip3-128-gb-5g-sm-f711bzkbeue-cerny.html
+title='Mobilní telefon Samsung Galaxy Z Flip3 128 GB 5G (SM-F711BZKBEUE) černý'	price='22 999 Kč' 
+# http://fitlayout.github.io/resource/art89 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-flip3-256-gb-5g-sm-f711bzefeue-kremovy.html
+title='Mobilní telefon Samsung Galaxy Z Flip3 256 GB 5G (SM-F711BZEFEUE) krémový'	price='22 999 Kč' 
+# http://fitlayout.github.io/resource/art90 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-flip3-256-gb-5g-sm-f711bzkfeue-cerny.html
+title='Mobilní telefon Samsung Galaxy Z Flip3 256 GB 5G (SM-F711BZKFEUE) černý'	price='22 999 Kč' 
+# http://fitlayout.github.io/resource/art91 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-5g-256-gb-sm-s901blvgeue-fialovy.html
+title='Mobilní telefon Samsung Galaxy S22 5G 256 GB (SM-S901BLVGEUE) fialový'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art92 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-5g-256-gb-sm-s901bidgeue-ruzovy.html
+title='Mobilní telefon Samsung Galaxy S22 5G 256 GB (SM-S901BIDGEUE) růžový'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art93 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-5g-256-gb-sm-s901bzwgeue-bily.html
+title='Mobilní telefon Samsung Galaxy S22 5G 256 GB (SM-S901BZWGEUE) bílý'	price='22 990 Kč' 
+# http://fitlayout.github.io/resource/art94 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-5g-256-gb-sm-s901bzggeue-zeleny.html
+title='Mobilní telefon Samsung Galaxy S22 5G 256 GB (SM-S901BZGGEUE) zelený'	price='0 Kč' 
+# http://fitlayout.github.io/resource/art95 -> https://www.datart.cz/mobilni-telefon-sony-xperia-5-iii-5g-xqbq52c2b-eeac-cerny.html
+title='Mobilní telefon Sony Xperia 5 III 5G (XQBQ52C2B.EEAC) černý'	price='22 984 Kč' 
+# http://fitlayout.github.io/resource/art96 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-128gb-green-mngk3cn-a.html
+title='Mobilní telefon Apple iPhone 13 128GB Green (MNGK3CN/A)'	price='22 490 Kč' 
+# http://fitlayout.github.io/resource/art97 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-128gb-blue-mlpk3cn-a.html
+title='Mobilní telefon Apple iPhone 13 128GB Blue (MLPK3CN/A)'	price='22 490 Kč' 
+# http://fitlayout.github.io/resource/art98 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-128gb-midnight-mlpf3cn-a.html
+title='Mobilní telefon Apple iPhone 13 128GB Midnight (MLPF3CN/A)'	price='22 490 Kč' 
+# http://fitlayout.github.io/resource/art99 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-128gb-pink-mlph3cn-a.html
+title='Mobilní telefon Apple iPhone 13 128GB Pink (MLPH3CN/A)'	price='22 490 Kč' 
+# http://fitlayout.github.io/resource/art100 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-128gb-product-red-mlpj3cn-a.html
+title='Mobilní telefon Apple iPhone 13 128GB (PRODUCT)RED (MLPJ3CN/A)'	price='22 490 Kč' 
+# http://fitlayout.github.io/resource/art101 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-256-gb-black-mgjg3cn-a.html
+title='Mobilní telefon Apple iPhone 12 256 GB - Black (MGJG3CN/A)'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art102 -> https://www.datart.cz/mobilni-telefon-huawei-p50-pro-hms-mt-p50pdscgom-zlaty.html
+title='Mobilní telefon Huawei P50 Pro (HMS) (MT-P50PDSCGOM) zlatý'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art103 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-5g-128-gb-sm-s901blvdeue-fialovy.html
+title='Mobilní telefon Samsung Galaxy S22 5G 128 GB (SM-S901BLVDEUE) fialový'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art104 -> https://www.datart.cz/asus-zenfone-8-16gb-256gb-stribrny-zs590ks-8j012eu.html
+title='Mobilní telefon Asus ZenFone 8 16GB/256GB 5G (ZS590KS-8J012EU) stříbrný'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art105 -> https://www.datart.cz/mobilni-telefon-huawei-p50-pro-hms-mt-p50pdsgbom-cerny.html
+title='Mobilní telefon Huawei P50 Pro (HMS) (MT-P50PDSGBOM) černý'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art106 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-5g-128-gb-sm-s901bzwdeue-bily.html
+title='Mobilní telefon Samsung Galaxy S22 5G 128 GB (SM-S901BZWDEUE) bílý'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art107 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-5g-128-gb-sm-s901bzgdeue-zeleny.html
+title='Mobilní telefon Samsung Galaxy S22 5G 128 GB (SM-S901BZGDEUE) zelený'	price='21 990 Kč' 
+# http://fitlayout.github.io/resource/art108 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s22-5g-128-gb-sm-s901bzkdeue-cerny.html
+title='Mobilní telefon Samsung Galaxy S22 5G 128 GB (SM-S901BZKDEUE) černý'	price='21 989 Kč' 
+# http://fitlayout.github.io/resource/art109 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-256-gb-product-red-mgjj3cn-a.html
+title='Mobilní telefon Apple iPhone 12 256 GB - (Product)Red (MGJJ3CN/A)'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art110 -> https://www.datart.cz/mobilni-telefon-asus-zenfone-9-8gb-256gb-90ai00c1-m00040-cerny.html
+title='Mobilní telefon Asus Zenfone 9 8GB/256GB (90AI00C1-M00040) černý'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art111 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-256-gb-green-mgjl3cn-a.html
+title='Mobilní telefon Apple iPhone 12 256 GB - Green (MGJL3CN/A)'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art112 -> https://www.datart.cz/mobilni-telefon-oneplus-10-pro-5g-8gb-128gb-volcanic-black-5011101934.html
+title='Mobilní telefon OnePlus 10 Pro 5G 8GB/128GB - Volcanic Black (5011101934)'	price='21 490 Kč' 
+# http://fitlayout.github.io/resource/art113 -> https://www.datart.cz/asus-zenfone-8-16gb-256gb-cerny-zs590ks-2a011eu.html
+title='Mobilní telefon Asus ZenFone 8 16GB/256GB 5G (ZS590KS-2A011EU) černý'	price='21 290 Kč' 
+# http://fitlayout.github.io/resource/art114 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s21-fe-5g-8gb-256gb-sm-g990bzwweue-bily.html
+title='Mobilní telefon Samsung Galaxy S21 FE 5G 8GB/256GB (SM-G990BZWWEUE) bílý'	price='20 990 Kč' 
+# http://fitlayout.github.io/resource/art115 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-mini-512gb-starlight-zanovni-12-mesicu-zaruka-mlkc3cn-a.html
+title='Mobilní telefon Apple iPhone 13 mini 512GB Starlight - ZÁNOVNÍ - 12 měsíců záruka (MLKC3CN/A)'	price='20 990 Kč' 
+# http://fitlayout.github.io/resource/art116 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s21-fe-5g-8gb-256gb-sm-g990blgweue-zeleny.html
+title='Mobilní telefon Samsung Galaxy S21 FE 5G 8GB/256GB (SM-G990BLGWEUE) zelený'	price='20 990 Kč' 
+# http://fitlayout.github.io/resource/art117 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-256gb-product-red-zanovni-12-mesicu-zaruka-mlq93cn-a.html
+title='Mobilní telefon Apple iPhone 13 256GB (PRODUCT)RED - ZÁNOVNÍ - 12 měsíců záruka (MLQ93CN/A)'	price='20 990 Kč' 
+# http://fitlayout.github.io/resource/art118 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s21-fe-5g-8gb-256gb-sm-g990bzaweue-sedy.html
+title='Mobilní telefon Samsung Galaxy S21 FE 5G 8GB/256GB (SM-G990BZAWEUE) šedý'	price='20 990 Kč' 
+# http://fitlayout.github.io/resource/art119 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s21-fe-5g-8gb-256gb-sm-g990bzageue-sedy.html
+title='Mobilní telefon Samsung Galaxy S21 FE 5G 8GB/256GB (SM-G990BZAGEUE) šedý'	price='20 990 Kč' 
+# http://fitlayout.github.io/resource/art120 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s21-fe-5g-8gb-256gb-sm-g990blggeue-zeleny.html
+title='Mobilní telefon Samsung Galaxy S21 FE 5G 8GB/256GB (SM-G990BLGGEUE) zelený'	price='20 990 Kč' 
+# http://fitlayout.github.io/resource/art121 -> https://www.datart.cz/mobilni-telefon-oneplus-10t-5g-16gb-256gb-5011102144-cerny.html
+title='Mobilní telefon OnePlus 10T 5G 16GB/256GB (5011102144) černý'	price='20 490 Kč' 
+# http://fitlayout.github.io/resource/art122 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-mini-256gb-starlight-mlk63cn-a.html
+title='Mobilní telefon Apple iPhone 13 mini 256GB Starlight (MLK63CN/A)'	price='20 490 Kč' 
+# http://fitlayout.github.io/resource/art123 -> https://www.datart.cz/mobilni-telefon-oneplus-10t-5g-16gb-256gb-5011102146-zeleny.html
+title='Mobilní telefon OnePlus 10T 5G 16GB/256GB (5011102146) zelený'	price='20 490 Kč' 
+# http://fitlayout.github.io/resource/art124 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-128-gb-product-red-mgjd3cn-a.html
+title='Mobilní telefon Apple iPhone 12 128 GB - (Product)Red (MGJD3CN/A)'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art125 -> https://www.datart.cz/mobilni-telefon-asus-zenfone-9-8gb-128gb-90ai00c1-m00020-cerny.html
+title='Mobilní telefon Asus Zenfone 9 8GB/128GB (90AI00C1-M00020) černý'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art126 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-128-gb-green-mgjf3cn-a.html
+title='Mobilní telefon Apple iPhone 12 128 GB - Green (MGJF3CN/A)'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art127 -> https://www.datart.cz/oneplus-9-pro-256gb-forest-green-5011101616.html
+title='Mobilní telefon OnePlus 9 Pro 256 GB 5G (5011101616) zelený'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art128 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-128gb-blue-zanovni-12-mesicu-zaruka-mlpk3cn-a.html
+title='Mobilní telefon Apple iPhone 13 128GB Blue - ZÁNOVNÍ - 12 měsíců záruka (MLPK3CN/A)'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art129 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-flip3-256-gb-5g-zanovni-12-mesicu-zaruka-sm-f711bzefeue-kremovy.html
+title='Mobilní telefon Samsung Galaxy Z Flip3 256 GB 5G - ZÁNOVNÍ - 12 měsíců záruka (SM-F711BZEFEUE) krémový'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art130 -> https://www.datart.cz/mobilni-telefon-asus-zenfone-9-8gb-128gb-90ai00c2-m00030-bily.html
+title='Mobilní telefon Asus Zenfone 9 8GB/128GB (90AI00C2-M00030) bílý'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art131 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-128-gb-black-mgja3cn-a.html
+title='Mobilní telefon Apple iPhone 12 128 GB - Black (MGJA3CN/A)'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art132 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-64-gb-purple-zanovni-12-mesicu-zaruka-mjnm3cn-a/1.html
+title='Mobilní telefon Apple iPhone 12 64 GB - Purple - ZÁNOVNÍ - 12 měsíců záruka (MJNM3CN/A)'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art133 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-mini-256-gb-blue-zanovni-12-mesicu-zaruka-mged3cn-a/1.html
+title='Mobilní telefon Apple iPhone 12 mini 256 GB - Blue - ZÁNOVNÍ- 12 měsíců záruka (MGED3CN/A)'	price='19 990 Kč' 
+# http://fitlayout.github.io/resource/art134 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s21-fe-5g-8gb-256gb-sm-g990blvweue-fialovy.html
+title='Mobilní telefon Samsung Galaxy S21 FE 5G 8GB/256GB (SM-G990BLVWEUE) fialový'	price='19 890 Kč' 
+# http://fitlayout.github.io/resource/art135 -> https://www.datart.cz/mobilni-telefon-xiaomi-12-5g-8gb-256gb-37055-fialovy.html
+title='Mobilní telefon Xiaomi 12 5G 8GB/256GB (37055) fialový'	price='18 999 Kč' 
+# http://fitlayout.github.io/resource/art136 -> https://www.datart.cz/mobilni-telefon-xiaomi-12-5g-8gb-256gb-37071-modry.html
+title='Mobilní telefon Xiaomi 12 5G 8GB/256GB (37071) modrý'	price='18 999 Kč' 
+# http://fitlayout.github.io/resource/art137 -> https://www.datart.cz/mobilni-telefon-xiaomi-12-5g-8gb-256gb-37059-sedy.html
+title='Mobilní telefon Xiaomi 12 5G 8GB/256GB (37059) šedý'	price='18 999 Kč' 
+# http://fitlayout.github.io/resource/art138 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-mini-256-gb-purple-mjqh3cn-a.html
+title='Mobilní telefon Apple iPhone 12 mini 256 GB - Purple (MJQH3CN/A)'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art139 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-mini-256gb-starlight-zanovni-12-mesicu-zaruka-mlk63cn-a.html
+title='Mobilní telefon Apple iPhone 13 mini 256GB Starlight - ZÁNOVNÍ - 12 měsíců záruka (MLK63CN/A)'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art140 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-z-flip3-128-gb-5g-zanovni-12-mesicu-zaruka-sm-f711bzkbeue-cerny.html
+title='Mobilní telefon Samsung Galaxy Z Flip3 128 GB 5G - ZÁNOVNÍ - 12 měsíců záruka (SM-F711BZKBEUE) černý'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art141 -> https://www.datart.cz/galaxy-s21-5g-pink-8-256gb.html
+title='Mobilní telefon Samsung Galaxy S21 5G 256 GB (SM-G991BZIGEUE) růžový'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art142 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s21-fe-5g-6gb-128gb-sm-g990blvdeue-fialovy.html
+title='Mobilní telefon Samsung Galaxy S21 FE 5G 6GB/128GB (SM-G990BLVDEUE) fialový'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art143 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-128-gb-blue-mgje3cn-a.html
+title='Mobilní telefon Apple iPhone 12 128 GB - Blue (MGJE3CN/A)'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art144 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-mini-128gb-midnight-mlk03cn-a.html
+title='Mobilní telefon Apple iPhone 13 mini 128GB Midnight (MLK03CN/A)'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art145 -> https://www.datart.cz/galaxy-s21-5g-white-8-128gb.html
+title='Mobilní telefon Samsung Galaxy S21 5G 128 GB (SM-G991BZWDEUE) bílý'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art146 -> https://www.datart.cz/asus-zenfone-8-8gb-256gb-cerny-zs590ks-2a009eu.html
+title='Mobilní telefon Asus ZenFone 8 8GB/256GB 5G (ZS590KS-2A009EU) černý'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art147 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-mini-128gb-starlight-mlk13cn-a.html
+title='Mobilní telefon Apple iPhone 13 mini 128GB Starlight (MLK13CN/A)'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art148 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-mini-128gb-product-red-mlk33cn-a.html
+title='Mobilní telefon Apple iPhone 13 mini 128GB (PRODUCT)RED (MLK33CN/A)'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art149 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s21-fe-5g-6gb-128gb-sm-g990blgfeue-zeleny.html
+title='Mobilní telefon Samsung Galaxy S21 FE 5G 6GB/128GB (SM-G990BLGFEUE) zelený'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art150 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s21-fe-5g-6gb-128gb-sm-g990blgdeue-zeleny.html
+title='Mobilní telefon Samsung Galaxy S21 FE 5G 6GB/128GB (SM-G990BLGDEUE) zelený'	price='18 990 Kč' 
+# http://fitlayout.github.io/resource/art151 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-64-gb-green-mgj93cn-a.html
+title='Mobilní telefon Apple iPhone 12 64 GB - Green (MGJ93CN/A)'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art152 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-mini-256-gb-white-mgea3cn-a.html
+title='Mobilní telefon Apple iPhone 12 mini 256 GB - White (MGEA3CN/A)'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art153 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-mini-256-gb-green-mgee3cn-a.html
+title='Mobilní telefon Apple iPhone 12 mini 256 GB - Green (MGEE3CN/A)'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art154 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-mini-256-gb-product-red-mgec3cn-a.html
+title='Mobilní telefon Apple iPhone 12 mini 256 GB - (Product)Red (MGEC3CN/A)'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art155 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-mini-256-gb-blue-mged3cn-a.html
+title='Mobilní telefon Apple iPhone 12 mini 256 GB - Blue (MGED3CN/A)'	price='18 490 Kč' 
+# http://fitlayout.github.io/resource/art156 -> https://www.datart.cz/asus-zenfone-8-8gb-256gb-stribrny-zs590ks-8j010eu.html
+title='Mobilní telefon Asus ZenFone 8 8GB/256GB 5G (ZS590KS-8J010EU) stříbrný'	price='18 290 Kč' 
+# http://fitlayout.github.io/resource/art157 -> https://www.datart.cz/mobilni-telefon-xiaomi-12-5g-8gb-128gb-37069-sedy.html
+title='Mobilní telefon Xiaomi 12 5G 8GB/128GB (37069) šedý'	price='17 999 Kč' 
+# http://fitlayout.github.io/resource/art158 -> https://www.datart.cz/mobilni-telefon-xiaomi-12-5g-8gb-128gb-37061-modry.html
+title='Mobilní telefon Xiaomi 12 5G 8GB/128GB (37061) modrý'	price='17 999 Kč' 
+# http://fitlayout.github.io/resource/art159 -> https://www.datart.cz/mobilni-telefon-xiaomi-12-5g-8gb-128gb-37080-fialovy.html
+title='Mobilní telefon Xiaomi 12 5G 8GB/128GB (37080) fialový'	price='17 999 Kč' 
+# http://fitlayout.github.io/resource/art160 -> https://www.datart.cz/mobilni-telefon-oneplus-8-pro-8-128-gb-cerny-5011101010.html
+title='Mobilní telefon OnePlus 8 Pro 8/128 GB 5G (5011101010) černý'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art161 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s21-fe-5g-6gb-128gb-sm-g990bzwfeue-bily.html
+title='Mobilní telefon Samsung Galaxy S21 FE 5G 6GB/128GB (SM-G990BZWFEUE) bílý'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art162 -> https://www.datart.cz/mobilni-telefon-oneplus-9-pro-128-gb-5g-5011101612-stribrny.html
+title='Mobilní telefon OnePlus 9 Pro 128 GB 5G (5011101612) stříbrný'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art163 -> https://www.datart.cz/mobilni-telefon-oneplus-10t-5g-8gb-128gb-5011102095-cerny.html
+title='Mobilní telefon OnePlus 10T 5G 8GB/128GB (5011102095) černý'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art164 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s21-fe-5g-6gb-128gb-sm-g990bzadeue-sedy.html
+title='Mobilní telefon Samsung Galaxy S21 FE 5G 6GB/128GB (SM-G990BZADEUE) šedý'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art165 -> https://www.datart.cz/mobilni-telefon-oneplus-9-pro-128-gb-5g-5011101696-zeleny.html
+title='Mobilní telefon OnePlus 9 Pro 128 GB 5G (5011101696) zelený'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art166 -> https://www.datart.cz/mobilni-telefon-oneplus-10t-5g-8gb-128gb-5011102097-zeleny.html
+title='Mobilní telefon OnePlus 10T 5G 8GB/128GB (5011102097) zelený'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art167 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s21-fe-5g-6gb-128gb-sm-g990blvfeue-fialovy.html
+title='Mobilní telefon Samsung Galaxy S21 FE 5G 6GB/128GB (SM-G990BLVFEUE) fialový'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art168 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s21-fe-5g-6gb-128gb-sm-g990bzafeue-sedy.html
+title='Mobilní telefon Samsung Galaxy S21 FE 5G 6GB/128GB (SM-G990BZAFEUE) šedý'	price='17 990 Kč' 
+# http://fitlayout.github.io/resource/art169 -> https://www.datart.cz/mobilni-telefon-realme-gt-2-pro-5g-12gb-256gb-paper-green-rmx3301pg12.html
+title='Mobilní telefon realme GT 2 Pro 5G 12GB/256GB - Paper Green (RMX3301PG12)'	price='17 790 Kč' 
+# http://fitlayout.github.io/resource/art170 -> https://www.datart.cz/mobilni-telefon-realme-gt-2-pro-5g-12gb-256gb-paper-white-rmx3301wh12.html
+title='Mobilní telefon realme GT 2 Pro 5G 12GB/256GB - Paper White (RMX3301WH12)'	price='17 790 Kč' 
+# http://fitlayout.github.io/resource/art171 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-64-gb-purple-mjnm3cn-a.html
+title='Mobilní telefon Apple iPhone 12 64 GB - Purple (MJNM3CN/A)'	price='17 490 Kč' 
+# http://fitlayout.github.io/resource/art172 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-64-gb-blue-mgj83cn-a.html
+title='Mobilní telefon Apple iPhone 12 64 GB - Blue (MGJ83CN/A)'	price='17 490 Kč' 
+# http://fitlayout.github.io/resource/art173 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-128-gb-white-zanovni-12-mesicu-zaruka-mgjc3cn-a.html
+title='Mobilní telefon Apple iPhone 12 128 GB - White - ZÁNOVNÍ - 12 měsíců záruka (MGJC3CN/A)'	price='17 290 Kč' 
+# http://fitlayout.github.io/resource/art174 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-128-gb-green-zanovni-12-mesicu-zaruka-mgjf3cn-a.html
+title='Mobilní telefon Apple iPhone 12 128 GB - Green - ZÁNOVNÍ - 12 měsíců záruka (MGJF3CN/A)'	price='0 Kč' 
+# http://fitlayout.github.io/resource/art175 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-128-gb-blue-zanovni-12-mesicu-zaruka-mgje3cn-a.html
+title='Mobilní telefon Apple iPhone 12 128 GB - Blue - ZÁNOVNÍ - 12 měsíců záruka (MGJE3CN/A)'	price='17 290 Kč' 
+# http://fitlayout.github.io/resource/art176 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-mini-128-gb-blue-mge63cn-a.html
+title='Mobilní telefon Apple iPhone 12 mini 128 GB - Blue (MGE63CN/A)'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art177 -> https://www.datart.cz/mobilni-telefon-apple-iphone-13-mini-128gb-blue-zanovni-12-mesicu-zaruka-mlk43cn-a.html
+title='Mobilní telefon Apple iPhone 13 mini 128GB Blue - ZÁNOVNÍ - 12 měsíců záruka (MLK43CN/A)'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art178 -> https://www.datart.cz/oneplus-9-256gb.html
+title='Mobilní telefon OnePlus 9 256 GB 5G (5011101553) fialový'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art179 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-mini-128-gb-black-mge33cn-a.html
+title='Mobilní telefon Apple iPhone 12 mini 128 GB - Black (MGE33CN/A)'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art180 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-mini-128-gb-green-mge73cn-a.html
+title='Mobilní telefon Apple iPhone 12 mini 128 GB - Green (MGE73CN/A)'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art181 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-64-gb-white-mgj63cn-a.html
+title='Mobilní telefon Apple iPhone 12 64 GB - White (MGJ63CN/A)'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art182 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-mini-128-gb-white-mge43cn-a.html
+title='Mobilní telefon Apple iPhone 12 mini 128 GB - White (MGE43CN/A)'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art183 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-mini-128-gb-product-red-mge53cn-a.html
+title='Mobilní telefon Apple iPhone 12 mini 128 GB - (Product)Red (MGE53CN/A)'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art184 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-64-gb-black-mgj53cn-a.html
+title='Mobilní telefon Apple iPhone 12 64 GB - Black (MGJ53CN/A)'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art185 -> https://www.datart.cz/mobilni-telefon-ulefone-armor-11t-5g-ule000421-cerny.html
+title='Mobilní telefon UleFone Armor 11T 5G (ULE000421) černý'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art186 -> https://www.datart.cz/mobilni-telefon-poco-f4-gt-stealth-black-39508.html
+title='Mobilní telefon Poco F4 GT - Stealth Black (39508)'	price='16 990 Kč' 
+# http://fitlayout.github.io/resource/art187 -> https://www.datart.cz/mobilni-telefon-iget-blackview-gbl8800-5g-pro-thermo-84008091-cerny.html
+title='Mobilní telefon iGET Blackview GBL8800 5G Pro Thermo (84008091) černý'	price='15 999 Kč' 
+# http://fitlayout.github.io/resource/art188 -> https://www.datart.cz/mobilni-telefon-apple-iphone-se-2022-256gb-midnight-mmxm3cn-a.html
+title='Mobilní telefon Apple iPhone SE (2022) 256GB Midnight (MMXM3CN/A)'	price='15 990 Kč' 
+# http://fitlayout.github.io/resource/art189 -> https://www.datart.cz/mobilni-telefon-apple-iphone-se-2022-256gb-starlight-mmxn3cn-a.html
+title='Mobilní telefon Apple iPhone SE (2022) 256GB Starlight (MMXN3CN/A)'	price='15 990 Kč' 
+# http://fitlayout.github.io/resource/art190 -> https://www.datart.cz/caterpillar-s62-pro-cs62p-dab-ron-en.html
+title='Mobilní telefon Caterpillar S62 PRO (CS62P-DAB-RON-EN) černý'	price='15 599 Kč' 
+# http://fitlayout.github.io/resource/art191 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s20-fe-5g-256-gb-modry-sm-g781bzbheue.html
+title='Mobilní telefon Samsung Galaxy S20 FE 5G 256 GB (SM-G781BZBHEUE) modrý'	price='14 999 Kč' 
+# http://fitlayout.github.io/resource/art192 -> https://www.datart.cz/mobilni-telefon-xiaomi-11t-pro-5g-8gb-256gb-meteorite-gray-34883.html
+title='Mobilní telefon Xiaomi 11T Pro 5G 8GB/256GB - Meteorite Gray (34883)'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art193 -> https://www.datart.cz/mobilni-telefon-apple-iphone-se-2022-128gb-starlight-mmxk3cn-a.html
+title='Mobilní telefon Apple iPhone SE (2022) 128GB Starlight (MMXK3CN/A)'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art194 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-mini-64-gb-white-mgdy3cn-a.html
+title='Mobilní telefon Apple iPhone 12 mini 64 GB - White (MGDY3CN/A)'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art195 -> https://www.datart.cz/mobilni-telefon-apple-iphone-12-mini-64-gb-product-red-mge03cn-a.html
+title='Mobilní telefon Apple iPhone 12 mini 64 GB - (Product)Red (MGE03CN/A)'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art196 -> https://www.datart.cz/mobilni-telefon-apple-iphone-se-2022-128gb-midnight-mmxj3cn-a.html
+title='Mobilní telefon Apple iPhone SE (2022) 128GB Midnight (MMXJ3CN/A)'	price='14 990 Kč' 
+# http://fitlayout.github.io/resource/art197 -> https://www.datart.cz/iphone-11-128gb-product-red-mwm32cn-a.html
+title='Mobilní telefon Apple iPhone 11 128 GB - (PRODUCT)RED (MHDK3CN/A)'	price='14 690 Kč' 
+# http://fitlayout.github.io/resource/art198 -> https://www.datart.cz/iphone-11-128gb-yellow-mwm42cn-a.html
+title='Mobilní telefon Apple iPhone 11 128 GB - Yellow (MHDL3CN/A)'	price='14 690 Kč' 
+# http://fitlayout.github.io/resource/art199 -> https://www.datart.cz/mobilni-telefon-honor-70-5g-8gb-256gb-5109ajcc-stribrny.html
+title='Mobilní telefon Honor 70 5G 8GB/256GB (5109AJCC) stříbrný'	price='14 490 Kč' 
+# http://fitlayout.github.io/resource/art200 -> https://www.datart.cz/oneplus-9-128gb.html
+title='Mobilní telefon OnePlus 9 128 GB 5G (5011101551) modrý'	price='14 490 Kč' 
+# http://fitlayout.github.io/resource/art201 -> https://www.datart.cz/mobilni-telefon-honor-70-5g-8gb-256gb-5109ajcg-cerny.html
+title='Mobilní telefon Honor 70 5G 8GB/256GB (5109AJCG) černý'	price='14 490 Kč' 
+# http://fitlayout.github.io/resource/art202 -> https://www.datart.cz/mobilni-telefon-oneplus-9-128-gb-5g-5011101552-cerny.html
+title='Mobilní telefon OnePlus 9 128 GB 5G (5011101552) černý'	price='14 490 Kč' 
+# http://fitlayout.github.io/resource/art203 -> https://www.datart.cz/mobilni-telefon-xiaomi-11t-5g-8gb-256gb-moonlight-white-34987.html
+title='Mobilní telefon Xiaomi 11T 5G 8GB/256GB - Moonlight White (34987)'	price='13 999 Kč' 
+# http://fitlayout.github.io/resource/art204 -> https://www.datart.cz/mobilni-telefon-xiaomi-12x-5g-8gb-128gb-36126-sedy.html
+title='Mobilní telefon Xiaomi 12X 5G 8GB/128GB (36126) šedý'	price='13 999 Kč' 
+# http://fitlayout.github.io/resource/art205 -> https://www.datart.cz/mobilni-telefon-xiaomi-12x-5g-8gb-128gb-37037-modry.html
+title='Mobilní telefon Xiaomi 12X 5G 8GB/128GB (37037) modrý'	price='13 999 Kč' 
+# http://fitlayout.github.io/resource/art206 -> https://www.datart.cz/mobilni-telefon-doogee-s98-pro-dge001763-cerny.html
+title='Mobilní telefon Doogee S98 Pro (DGE001763) černý'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art207 -> https://www.datart.cz/mobilni-telefon-xiaomi-11t-pro-5g-8gb-256gb-celestial-blue-34952.html
+title='Mobilní telefon Xiaomi 11T Pro 5G 8GB/256GB - Celestial Blue (34952)'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art208 -> https://www.datart.cz/mobilni-telefon-xiaomi-11t-pro-5g-8gb-256gb-moonlight-white-34881.html
+title='Mobilní telefon Xiaomi 11T Pro 5G 8GB/256GB - Moonlight White (34881)'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art209 -> https://www.datart.cz/mobilni-telefon-nothing-phone-1-5g-12gb-256gb-a10400008-cerny.html
+title='Mobilní telefon Nothing Phone (1) 5G 12GB/256GB (A10400008) černý'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art210 -> https://www.datart.cz/mobilni-telefon-nothing-phone-1-5g-12gb-256gb-a10400010-bily.html
+title='Mobilní telefon Nothing Phone (1) 5G 12GB/256GB (A10400010) bílý'	price='13 990 Kč' 
+# http://fitlayout.github.io/resource/art211 -> https://www.datart.cz/mobilni-telefon-honor-70-5g-8gb-128gb-5109ajbb-cerny.html
+title='Mobilní telefon Honor 70 5G 8GB/128GB (5109AJBB) černý'	price='13 490 Kč' 
+# http://fitlayout.github.io/resource/art212 -> https://www.datart.cz/mobilni-telefon-ulefone-armor-11-5g-ule000408-cerny.html
+title='Mobilní telefon UleFone Armor 11 5G (ULE000408) černý'	price='13 490 Kč' 
+# http://fitlayout.github.io/resource/art213 -> https://www.datart.cz/mobilni-telefon-honor-70-5g-8gb-128gb-5109ajcw-zeleny.html
+title='Mobilní telefon Honor 70 5G 8GB/128GB (5109AJCW) zelený'	price='13 490 Kč' 
+# http://fitlayout.github.io/resource/art214 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s20-fe-5g-modry-sm-g781bzbdeue.html
+title='Mobilní telefon Samsung Galaxy S20 FE 5G 128 GB (SM-G781BZBDEUE) modrý'	price='12 999 Kč' 
+# http://fitlayout.github.io/resource/art215 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s20-fe-5g-128-gb-ruzovy-fialovy-sm-g781blvdeue.html
+title='Mobilní telefon Samsung Galaxy S20 FE 5G 128 GB (SM-G781BLVDEUE) růžový/fialový'	price='12 999 Kč' 
+# http://fitlayout.github.io/resource/art216 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s20-fe-5g-128-gb-bily-sm-g781bzwdeue.html
+title='Mobilní telefon Samsung Galaxy S20 FE 5G 128 GB (SM-G781BZWDEUE) bílý'	price='12 999 Kč' 
+# http://fitlayout.github.io/resource/art217 -> https://www.datart.cz/mobilni-telefon-iget-blackview-gbl6000-pro-sedy-84002475.html
+title='Mobilní telefon iGET Blackview GBL6000 Pro (84002475) šedý'	price='12 999 Kč' 
+# http://fitlayout.github.io/resource/art218 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s20-fe-5g-128-gb-cerveny-sm-g781bzrdeue.html
+title='Mobilní telefon Samsung Galaxy S20 FE 5G 128 GB (SM-G781BZRDEUE) červený'	price='12 999 Kč' 
+# http://fitlayout.github.io/resource/art219 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s20-fe-5g-128-gb-zeleny-sm-g781bzgdeue.html
+title='Mobilní telefon Samsung Galaxy S20 FE 5G 128 GB (SM-G781BZGDEUE) zelený'	price='12 999 Kč' 
+# http://fitlayout.github.io/resource/art220 -> https://www.datart.cz/mobilni-telefon-realme-gt-2-5g-12gb-256gb-steel-black-rmx3311bk256.html
+title='Mobilní telefon realme GT 2 5G 12GB/256GB - Steel Black (RMX3311BK256)'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art221 -> https://www.datart.cz/mobilni-telefon-xiaomi-11t-pro-5g-8gb-128gb-moonlight-white-34908.html
+title='Mobilní telefon Xiaomi 11T Pro 5G 8GB/128GB - Moonlight White (34908)'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art222 -> https://www.datart.cz/iphone-11-64gb-yellow-mwlw2cn-a.html
+title='Mobilní telefon Apple iPhone 11 64 GB - Yellow (MHDE3CN/A)'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art223 -> https://www.datart.cz/iphone-11-64gb-product-red-mwlv2cn-a.html
+title='Mobilní telefon Apple iPhone 11 64 GB - (PRODUCT)RED (MHDD3CN/A)'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art224 -> https://www.datart.cz/mobilni-telefon-xiaomi-11t-pro-5g-8gb-128gb-meteorite-gray-34895.html
+title='Mobilní telefon Xiaomi 11T Pro 5G 8GB/128GB - Meteorite Gray (34895)'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art225 -> https://www.datart.cz/mobilni-telefon-apple-iphone-se-2022-64gb-product-red-mmxh3cn-a.html
+title='Mobilní telefon Apple iPhone SE (2022) 64GB (PRODUCT)RED (MMXH3CN/A)'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art226 -> https://www.datart.cz/mobilni-telefon-apple-iphone-se-2022-64gb-midnight-mmxf3cn-a.html
+title='Mobilní telefon Apple iPhone SE (2022) 64GB Midnight (MMXF3CN/A)'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art227 -> https://www.datart.cz/mobilni-telefon-xiaomi-11t-pro-5g-8gb-128gb-celestial-blue-34875.html
+title='Mobilní telefon Xiaomi 11T Pro 5G 8GB/128GB - Celestial Blue (34875)'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art228 -> https://www.datart.cz/mobilni-telefon-apple-iphone-se-2022-64gb-starlight-mmxg3cn-a.html
+title='Mobilní telefon Apple iPhone SE (2022) 64GB Starlight (MMXG3CN/A)'	price='12 990 Kč' 
+# http://fitlayout.github.io/resource/art229 -> https://www.datart.cz/mobilni-telefon-nothing-phone-1-5g-8gb-256gb-a10400009-bily.html
+title='Mobilní telefon Nothing Phone (1) 5G 8GB/256GB (A10400009) bílý'	price='12 890 Kč' 
+# http://fitlayout.github.io/resource/art230 -> https://www.datart.cz/mobilni-telefon-nothing-phone-1-5g-8gb-256gb-a10400007-cerny.html
+title='Mobilní telefon Nothing Phone (1) 5G 8GB/256GB (A10400007) černý'	price='12 890 Kč' 
+# http://fitlayout.github.io/resource/art231 -> https://www.datart.cz/mobilni-telefon-realme-gt-2-5g-12gb-256gb-paper-white-rmx3311wh256.html
+title='Mobilní telefon realme GT 2 5G 12GB/256GB - Paper White (RMX3311WH256)'	price='12 676 Kč' 
+# http://fitlayout.github.io/resource/art232 -> https://www.datart.cz/mobilni-telefon-sony-xperia-10-iv-5g-xqcc54c0b-eeac-cerny.html
+title='Mobilní telefon Sony Xperia 10 IV 5G (XQCC54C0B.EEAC) černý'	price='12 499 Kč' 
+# http://fitlayout.github.io/resource/art233 -> https://www.datart.cz/mobilni-telefon-sony-xperia-10-iv-5g-xqcc54c0w-eeac-bily.html
+title='Mobilní telefon Sony Xperia 10 IV 5G (XQCC54C0W.EEAC) bílý'	price='12 499 Kč' 
+# http://fitlayout.github.io/resource/art234 -> https://www.datart.cz/mobilni-telefon-caterpillar-s53-cs53-dab-roe-nn-cerny.html
+title='Mobilní telefon Caterpillar S53 (CS53-DAB-ROE-NN) černý'	price='12 499 Kč' 
+# http://fitlayout.github.io/resource/art235 -> https://www.datart.cz/mobilni-telefon-sony-xperia-10-iv-5g-xqcc54c0v-eeac-fialovy.html
+title='Mobilní telefon Sony Xperia 10 IV 5G (XQCC54C0V.EEAC) fialový'	price='12 499 Kč' 
+# http://fitlayout.github.io/resource/art236 -> https://www.datart.cz/mobilni-telefon-iget-blackview-gbl8800-5g-84008090-cerny.html
+title='Mobilní telefon iGET Blackview GBL8800 5G (84008090) černý'	price='11 999 Kč' 
+# http://fitlayout.github.io/resource/art237 -> https://www.datart.cz/mobilni-telefon-nothing-phone-1-5g-8gb-128gb-a10400006-cerny.html
+title='Mobilní telefon Nothing Phone (1) 5G 8GB/128GB (A10400006) černý'	price='11 990 Kč' 
+# http://fitlayout.github.io/resource/art238 -> https://www.datart.cz/mobilni-telefon-apple-iphone-se-2020-128-gb-white-mxd12cn-a.html
+title='Mobilní telefon Apple iPhone SE (2020) 128 GB - White (MHGU3CN/A)'	price='11 490 Kč' 
+# http://fitlayout.github.io/resource/art239 -> https://www.datart.cz/mobilni-telefon-realme-gt-2-5g-8gb-128gb-paper-white-rmx3311wh128.html
+title='Mobilní telefon realme GT 2 5G 8GB/128GB - Paper White (RMX3311WH128)'	price='11 366 Kč' 
+# http://fitlayout.github.io/resource/art240 -> https://www.datart.cz/mobilni-telefon-realme-gt-2-5g-8gb-128gb-steel-black-rmx3311bk128.html
+title='Mobilní telefon realme GT 2 5G 8GB/128GB - Steel Black (RMX3311BK128)'	price='11 318 Kč' 
+# http://fitlayout.github.io/resource/art241 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-m53-5g-8gb-128gb-sm-m536bzggeue-zeleny.html
+title='Mobilní telefon Samsung Galaxy M53 5G 8GB/128GB (SM-M536BZGGEUE) zelený'	price='10 999 Kč' 
+# http://fitlayout.github.io/resource/art242 -> https://www.datart.cz/mobilni-telefon-motorola-edge-30-5g-aurora-green-pauc0047pl.html
+title='Mobilní telefon Motorola Edge 30 5G - Aurora Green (PAUC0047PL)'	price='10 999 Kč' 
+# http://fitlayout.github.io/resource/art243 -> https://www.datart.cz/mobilni-telefon-umidigi-bison-gt2-5g-84008084-sedy.html
+title='Mobilní telefon UMIDIGI Bison GT2 5G (84008084) šedý'	price='10 999 Kč' 
+# http://fitlayout.github.io/resource/art244 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-m53-5g-8gb-128gb-sm-m536bzbgeue-modry.html
+title='Mobilní telefon Samsung Galaxy M53 5G 8GB/128GB (SM-M536BZBGEUE) modrý'	price='10 999 Kč' 
+# http://fitlayout.github.io/resource/art245 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-m53-5g-8gb-128gb-sm-m536bzngeue-hnedy.html
+title='Mobilní telefon Samsung Galaxy M53 5G 8GB/128GB (SM-M536BZNGEUE) hnědý'	price='10 999 Kč' 
+# http://fitlayout.github.io/resource/art246 -> https://www.datart.cz/mobilni-telefon-vivo-v23-5g-stardust-black-5660419.html
+title='Mobilní telefon vivo V23 5G - Stardust Black (5660419)'	price='10 999 Kč' 
+# http://fitlayout.github.io/resource/art247 -> https://www.datart.cz/mobilni-telefon-motorola-edge-30-5g-meteor-gray-pauc0004pl.html
+title='Mobilní telefon Motorola Edge 30 5G - Meteor Gray (PAUC0004PL)'	price='10 999 Kč' 
+# http://fitlayout.github.io/resource/art248 -> https://www.datart.cz/mobilni-telefon-poco-f4-5g-8gb-256gb-39720-zeleny.html
+title='Mobilní telefon Poco F4 5G 8GB/256GB (39720) zelený'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art249 -> https://www.datart.cz/mobilni-telefon-poco-f4-5g-8gb-256gb-39718-cerny.html
+title='Mobilní telefon Poco F4 5G 8GB/256GB (39718) černý'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art250 -> https://www.datart.cz/mobilni-telefon-poco-f4-5g-8gb-256gb-39725-stribrny.html
+title='Mobilní telefon Poco F4 5G 8GB/256GB (39725) stříbrný'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art251 -> https://www.datart.cz/mobilni-telefon-vivo-v23-5g-sunshine-gold-5660420.html
+title='Mobilní telefon vivo V23 5G - Sunshine Gold (5660420)'	price='10 990 Kč' 
+# http://fitlayout.github.io/resource/art252 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-11-pro-5g-6gb-128gb-36870-modry.html
+title='Mobilní telefon Xiaomi Redmi Note 11 Pro+ 5G 6GB/128GB (36870) modrý'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art253 -> https://www.datart.cz/mobilni-telefon-realme-gt-neo-2-5g-8-128gb-neo-blue-rmx3370bl128.html
+title='Mobilní telefon realme GT Neo 2 5G 8/128GB - Neo Blue (RMX3370BL128)'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art254 -> https://www.datart.cz/mobilni-telefon-oneplus-nord2-5g-12-256-gb-blue-haze-5011101810.html
+title='Mobilní telefon OnePlus Nord2 5G 12/256 GB - Blue Haze (5011101810)'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art255 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-11-pro-5g-6gb-128gb-36880-zeleny.html
+title='Mobilní telefon Xiaomi Redmi Note 11 Pro+ 5G 6GB/128GB (36880) zelený'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art256 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-11-pro-5g-6gb-128gb-36895-sedy.html
+title='Mobilní telefon Xiaomi Redmi Note 11 Pro+ 5G 6GB/128GB (36895) šedý'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art257 -> https://www.datart.cz/mobilni-telefon-oneplus-nord-ce-5g-12-256-gb-blue-void-5011101731.html
+title='Mobilní telefon OnePlus Nord CE 5G 12/256 GB - Blue Void (5011101731)'	price='10 199 Kč' 
+# http://fitlayout.github.io/resource/art258 -> https://www.datart.cz/mobilni-telefon-iget-blackview-gbl5000-84008057-oranzovy.html
+title='Mobilní telefon iGET Blackview GBL5000 (84008057) oranžový'	price='9 999 Kč' 
+# http://fitlayout.github.io/resource/art259 -> https://www.datart.cz/mobilni-telefon-poco-x4-gt-5g-8gb-256gb-41205-stribrny.html
+title='Mobilní telefon Poco X4 GT 5G 8GB/256GB (41205) stříbrný'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art260 -> https://www.datart.cz/mobilni-telefon-xiaomi-11t-5g-8gb-128gb-celestial-blue-34983.html
+title='Mobilní telefon Xiaomi 11T 5G 8GB/128GB - Celestial Blue (34983)'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art261 -> https://www.datart.cz/mobilni-telefon-honor-50-5g-6-128-gb-emerald-green-5109aaxy.html
+title='Mobilní telefon Honor 50 5G 6/128 GB - Emerald Green (5109AAXY)'	price='0 Kč' 
+# http://fitlayout.github.io/resource/art262 -> https://www.datart.cz/mobilni-telefon-xiaomi-11t-5g-8gb-128gb-moonlight-white-34992.html
+title='Mobilní telefon Xiaomi 11T 5G 8GB/128GB - Moonlight White (34992)'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art263 -> https://www.datart.cz/mobilni-telefon-poco-x4-gt-5g-8gb-256gb-41230-cerny.html
+title='Mobilní telefon Poco X4 GT 5G 8GB/256GB (41230) černý'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art264 -> https://www.datart.cz/mobilni-telefon-xiaomi-11t-5g-8gb-128gb-meteorite-gray-34981.html
+title='Mobilní telefon Xiaomi 11T 5G 8GB/128GB - Meteorite Gray (34981)'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art265 -> https://www.datart.cz/mobilni-telefon-poco-x4-gt-5g-8gb-256gb-41219-modry.html
+title='Mobilní telefon Poco X4 GT 5G 8GB/256GB (41219) modrý'	price='9 990 Kč' 
+# http://fitlayout.github.io/resource/art266 -> https://www.datart.cz/mobilni-telefon-honor-50-5g-6-128-gb-midnight-black-5109aaxw.html
+title='Mobilní telefon Honor 50 5G 6/128 GB - Midnight Black (5109AAXW)'	price='0 Kč' 
+# http://fitlayout.github.io/resource/art267 -> https://www.datart.cz/mobilni-telefon-ulefone-armor-12-5g-ule000427-cerny.html
+title='Mobilní telefon UleFone Armor 12 5G (ULE000427) černý'	price='9 989 Kč' 
+# http://fitlayout.github.io/resource/art268 -> https://www.datart.cz/mobilni-telefon-realme-gt-neo-2-5g-8-128gb-neo-black-rmx3370bk128.html
+title='Mobilní telefon realme GT Neo 2 5G 8/128GB - Neo Black (RMX3370BK128)'	price='10 490 Kč' 
+# http://fitlayout.github.io/resource/art269 -> https://www.datart.cz/mobilni-telefon-oppo-reno7-lite-5g-cph2343bk-cerny.html
+title='Mobilní telefon Oppo Reno7 Lite 5G (CPH2343BK) černý'	price='9 690 Kč' 
+# http://fitlayout.github.io/resource/art270 -> https://www.datart.cz/mobilni-telefon-oppo-reno5-5g-cph2145bl-modry.html
+title='Mobilní telefon Oppo Reno5 5G (CPH2145BL) modrý'	price='9 673 Kč' 
+# http://fitlayout.github.io/resource/art271 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-a52s-5g-128gb-sm-a528bzkceue-cerny.html
+title='Mobilní telefon Samsung Galaxy A52s 5G 128GB (SM-A528BZKCEUE) černý'	price='9 499 Kč' 
+# http://fitlayout.github.io/resource/art272 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-a52s-5g-128gb-sm-a528bzwceue-bily.html
+title='Mobilní telefon Samsung Galaxy A52s 5G 128GB (SM-A528BZWCEUE) bílý'	price='9 499 Kč' 
+# http://fitlayout.github.io/resource/art273 -> https://www.datart.cz/mobilni-telefon-realme-9-pro-8gb-256gb-sunrise-blue-rmx3393bl256.html
+title='Mobilní telefon realme 9 Pro+ 8GB/256GB - Sunrise Blue (RMX3393BL256)'	price='9 409 Kč' 
+# http://fitlayout.github.io/resource/art274 -> https://www.datart.cz/mobilni-telefon-realme-9-pro-8gb-256gb-aurora-green-rmx3393ag256.html
+title='Mobilní telefon realme 9 Pro+ 8GB/256GB - Aurora Green (RMX3393AG256)'	price='9 409 Kč' 
+# http://fitlayout.github.io/resource/art275 -> https://www.datart.cz/mobilni-telefon-realme-gt-master-edition-5g-256-gb-cosmos-black-rmx33636bk8.html
+title='Mobilní telefon realme GT Master Edition 5G 256 GB - Cosmos Black (RMX33636BK8)'	price='9 204 Kč' 
+# http://fitlayout.github.io/resource/art276 -> https://www.datart.cz/mobilni-telefon-realme-gt-master-edition-5g-256-gb-voyager-grey-rmx33636gr8.html
+title='Mobilní telefon realme GT Master Edition 5G 256 GB - Voyager Grey (RMX33636GR8)'	price='9 190 Kč' 
+# http://fitlayout.github.io/resource/art277 -> https://www.datart.cz/mobilni-telefon-xiaomi-11-lite-5g-ne-8gb-128gb-bubblegum-blue-35656.html
+title='Mobilní telefon Xiaomi 11 Lite 5G NE 8GB/128GB - Bubblegum Blue (35656)'	price='8 999 Kč' 
+# http://fitlayout.github.io/resource/art278 -> https://www.datart.cz/mobilni-telefon-oukitel-wp13-84008066-cerny.html
+title='Mobilní telefon Oukitel WP13 (84008066) černý'	price='8 999 Kč' 
+# http://fitlayout.github.io/resource/art279 -> https://www.datart.cz/mobilni-telefon-xiaomi-11-lite-5g-ne-8gb-128gb-truffle-black-35737.html
+title='Mobilní telefon Xiaomi 11 Lite 5G NE 8GB/128GB - Truffle Black (35737)'	price='8 999 Kč' 
+# http://fitlayout.github.io/resource/art280 -> https://www.datart.cz/mobilni-telefon-oneplus-nord-2t-5g-8gb-128gb-gray-shadow-5011102071.html
+title='Mobilní telefon OnePlus Nord 2T 5G 8GB/128GB - Gray Shadow (5011102071)'	price='8 999 Kč' 
+# http://fitlayout.github.io/resource/art281 -> https://www.datart.cz/mobilni-telefon-iget-blackview-gbv6600-pro-thermo-84008058-oranzovy.html
+title='Mobilní telefon iGET Blackview GBV6600 Pro Thermo (84008058) oranžový'	price='8 999 Kč' 
+# http://fitlayout.github.io/resource/art282 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-11-pro-5g-6gb-128gb-polar-white-38131.html
+title='Mobilní telefon Xiaomi Redmi Note 11 Pro 5G 6GB/128GB - Polar White (38131)'	price='0 Kč' 
+# http://fitlayout.github.io/resource/art283 -> https://www.datart.cz/mobilni-telefon-tecno-camon-18-premier-8gb-256gb-vast-sky-35272681vs.html
+title='Mobilní telefon Tecno Camon 18 Premier 8GB/256GB - Vast Sky (35272681VS)'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art284 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-s20-fe-zanovni-12-mesicu-zaruka-sm-g780gzbdeue-modry.html
+title='Mobilní telefon Samsung Galaxy S20 FE - ZÁNOVNÍ - 12 měsíců záruka (SM-G780GZBDEUE) modrý'	price='0 Kč' 
+# http://fitlayout.github.io/resource/art285 -> https://www.datart.cz/mobilni-telefon-tecno-camon-18-premier-8gb-256gb-polar-night-35272681pn.html
+title='Mobilní telefon Tecno Camon 18 Premier 8GB/256GB - Polar Night (35272681PN)'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art286 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-11-pro-5g-6gb-128gb-graphite-gray-38072.html
+title='Mobilní telefon Xiaomi Redmi Note 11 Pro 5G 6GB/128GB - Graphite Gray (38072)'	price='8 990 Kč' 
+# http://fitlayout.github.io/resource/art287 -> https://www.datart.cz/mobilni-telefon-doogee-v10-5g-dge000671-cerny-cerveny.html
+title='Mobilní telefon Doogee V10 5G (DGE000671) černý/červený'	price='8 790 Kč' 
+# http://fitlayout.github.io/resource/art288 -> https://www.datart.cz/mobilni-telefon-doogee-v10-5g-dge000670-cerny-oranzovy.html
+title='Mobilní telefon Doogee V10 5G (DGE000670) černý/oranžový'	price='8 790 Kč' 
+# http://fitlayout.github.io/resource/art289 -> https://www.datart.cz/mobilni-telefon-doogee-v10-5g-dge000669-cerny.html
+title='Mobilní telefon Doogee V10 5G (DGE000669) černý'	price='8 790 Kč' 
+# http://fitlayout.github.io/resource/art290 -> https://www.datart.cz/mobilni-telefon-huawei-nova-9-mt-nova9dsslom-modry.html
+title='Mobilní telefon Huawei nova 9 (MT-NOVA9DSSLOM) modrý'	price='8 490 Kč' 
+# http://fitlayout.github.io/resource/art291 -> https://www.datart.cz/mobilni-telefon-nokia-x20-5g-modry-101qkslvh041.html
+title='Mobilní telefon Nokia X20 5G (101QKSLVH041) modrý'	price='8 490 Kč' 
+# http://fitlayout.github.io/resource/art292 -> https://www.datart.cz/mobilni-telefon-oneplus-nord2-5g-8-128-gb-gray-sierra-5011101807.html
+title='Mobilní telefon OnePlus Nord2 5G 8/128 GB - Gray Sierra (5011101807)'	price='8 290 Kč' 
+# http://fitlayout.github.io/resource/art293 -> https://www.datart.cz/mobilni-telefon-motorola-g82-5g-6gb-128gb-paua0016pl-sedy.html
+title='Mobilní telefon Motorola G82 5G 6GB/128GB (PAUA0016PL) šedý'	price='7 999 Kč' 
+# http://fitlayout.github.io/resource/art294 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-a23-5g-4gb-128gb-sm-a236bzwveue-bily.html
+title='Mobilní telefon Samsung Galaxy A23 5G 4GB/128GB (SM-A236BZWVEUE) bílý'	price='7 999 Kč' 
+# http://fitlayout.github.io/resource/art295 -> https://www.datart.cz/mobilni-telefon-vivo-v21-5g-sunset-dazzle-5658170.html
+title='Mobilní telefon vivo V21 5G - Sunset Dazzle (5658170)'	price='7 999 Kč' 
+# http://fitlayout.github.io/resource/art296 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-a33-5g-sm-a336blbgeue-modry.html
+title='Mobilní telefon Samsung Galaxy A33 5G (SM-A336BLBGEUE) modrý'	price='7 999 Kč' 
+# http://fitlayout.github.io/resource/art297 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-a33-5g-sm-a336bzkgeue-cerny.html
+title='Mobilní telefon Samsung Galaxy A33 5G (SM-A336BZKGEUE) černý'	price='7 999 Kč' 
+# http://fitlayout.github.io/resource/art298 -> https://www.datart.cz/mobilni-telefon-vivo-v21-5g-dusk-blue-5658171.html
+title='Mobilní telefon vivo V21 5G - Dusk Blue (5658171)'	price='7 999 Kč' 
+# http://fitlayout.github.io/resource/art299 -> https://www.datart.cz/mobilni-telefon-xiaomi-11-lite-5g-ne-6gb-128gb-truffle-black-35739.html
+title='Mobilní telefon Xiaomi 11 Lite 5G NE 6GB/128GB - Truffle Black (35739)'	price='0 Kč' 
+# http://fitlayout.github.io/resource/art300 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-10-pro-6-128gb-onyx-gray-31753.html
+title='Mobilní telefon Xiaomi Redmi Note 10 Pro 6/128GB - Onyx Gray (31753)'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art301 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-10-pro-6-128gb-glacier-blue-31755.html
+title='Mobilní telefon Xiaomi Redmi Note 10 Pro 6/128GB - Glacier Blue (31755)'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art302 -> https://www.datart.cz/mobilni-telefon-huawei-nova-9-mt-nova9dsbom-cerny.html
+title='Mobilní telefon Huawei nova 9 (MT-NOVA9DSBOM) černý'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art303 -> https://www.datart.cz/mobilni-telefon-oneplus-nord-ce-2-5g-8gb-128gb-gray-mirror-5011101969.html
+title='Mobilní telefon OnePlus Nord CE 2 5G 8GB/128GB - Gray Mirror (5011101969)'	price='7 990 Kč' 
+# http://fitlayout.github.io/resource/art304 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-11-pro-6gb-128gb-star-blue-38011.html
+title='Mobilní telefon Xiaomi Redmi Note 11 Pro 6GB/128GB - Star Blue (38011)'	price='7 989 Kč' 
+# http://fitlayout.github.io/resource/art305 -> https://www.datart.cz/mobilni-telefon-realme-gt-master-edition-5g-128gb-cosmos-black-rmx3363bk6.html
+title='Mobilní telefon realme GT Master Edition 5G 128GB - Cosmos Black (RMX3363BK6)'	price='7 875 Kč' 
+# http://fitlayout.github.io/resource/art306 -> https://www.datart.cz/mobilni-telefon-oppo-reno5-z-5g-fluid-black-cph2211bk.html
+title='Mobilní telefon Oppo Reno5 Z 5G - Fluid Black (CPH2211BK)'	price='7 606 Kč' 
+# http://fitlayout.github.io/resource/art307 -> https://www.datart.cz/mobilni-telefon-motorola-edge-20-5g-frosted-white-par00038pl.html
+title='Mobilní telefon Motorola Edge 20 5G - Frosted White (PAR00038PL)'	price='7 499 Kč' 
+# http://fitlayout.github.io/resource/art308 -> https://www.datart.cz/mobilni-telefon-motorola-edge-20-5g-frosted-emerald-par00050ro.html
+title='Mobilní telefon Motorola Edge 20 5G - Frosted Emerald (PAR00050RO)'	price='7 499 Kč' 
+# http://fitlayout.github.io/resource/art309 -> https://www.datart.cz/mobilni-telefon-realme-9-pro-6gb-128gb-sunrise-blue-rmx3472bl6.html
+title='Mobilní telefon realme 9 Pro 6GB/128GB - Sunrise Blue (RMX3472BL6)'	price='7 499 Kč' 
+# http://fitlayout.github.io/resource/art310 -> https://www.datart.cz/mobilni-telefon-realme-9-pro-6gb-128gb-midnight-black-rmx3472bk6.html
+title='Mobilní telefon realme 9 Pro 6GB/128GB - Midnight Black (RMX3472BK6)'	price='7 499 Kč' 
+# http://fitlayout.github.io/resource/art311 -> https://www.datart.cz/mobilni-telefon-realme-9-meteor-black-rmx3521bk8.html
+title='Mobilní telefon realme 9 - Meteor Black (RMX3521BK8)'	price='7 499 Kč' 
+# http://fitlayout.github.io/resource/art312 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-10-pro-6-64gb-31751.html
+title='Mobilní telefon Xiaomi Redmi Note 10 Pro 6/64GB - Gradient Bronze (31751)'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art313 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-10-pro-6-64gb-31754.html
+title='Mobilní telefon Xiaomi Redmi Note 10 Pro 6/64GB - Onyx Gray (31754)'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art314 -> https://www.datart.cz/mobilni-telefon-poco-x4-pro-5g-6gb-128gb-38399-cerny.html
+title='Mobilní telefon Poco X4 Pro 5G 6GB/128GB (38399) černý'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art315 -> https://www.datart.cz/mobilni-telefon-poco-x4-pro-5g-6gb-128gb-38400-modry.html
+title='Mobilní telefon Poco X4 Pro 5G 6GB/128GB (38400) modrý'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art316 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-11-pro-6gb-64gb-star-blue-38018.html
+title='Mobilní telefon Xiaomi Redmi Note 11 Pro 6GB/64GB - Star Blue (38018)'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art317 -> https://www.datart.cz/mobilni-telefon-honor-magic4-lite-5g-5109aecg-cerny.html
+title='Mobilní telefon Honor Magic4 Lite 5G (5109AECG) černý'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art318 -> https://www.datart.cz/mobilni-telefon-honor-magic4-lite-5g-5109aecj-stribrny.html
+title='Mobilní telefon Honor Magic4 Lite 5G (5109AECJ) stříbrný'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art319 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-10-pro-6-64gb-31749.html
+title='Mobilní telefon Xiaomi Redmi Note 10 Pro 6/64GB - Glacier Blue (31749)'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art320 -> https://www.datart.cz/mobilni-telefon-xiaomi-mi-11-lite-5g-6gb-128gb-truffle-black-31709.html
+title='Mobilní telefon Xiaomi Mi 11 Lite 5G 6GB/128GB - Truffle Black (31709)'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art321 -> https://www.datart.cz/mobilni-telefon-doogee-s97-pro-laser-meter-dge000650-cerny-cerveny.html
+title='Mobilní telefon Doogee S97 Pro Laser Meter (DGE000650) černý/červený'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art322 -> https://www.datart.cz/mobilni-telefon-doogee-s97-pro-laser-meter-dge000649-cerny-stribrny.html
+title='Mobilní telefon Doogee S97 Pro Laser Meter (DGE000649) černý/stříbrný'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art323 -> https://www.datart.cz/mobilni-telefon-honor-magic4-lite-5g-5109aecl-modry.html
+title='Mobilní telefon Honor Magic4 Lite 5G (5109AECL) modrý'	price='7 490 Kč' 
+# http://fitlayout.github.io/resource/art324 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-a23-5g-4gb-64gb-sm-a236bzkueue-cerny.html
+title='Mobilní telefon Samsung Galaxy A23 5G 4GB/64GB (SM-A236BZKUEUE) černý'	price='7 199 Kč' 
+# http://fitlayout.github.io/resource/art325 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-11s-5g-4gb-128gb-star-blue-39824.html
+title='Mobilní telefon Xiaomi Redmi Note 11S 5G 4GB/128GB - Star Blue (39824)'	price='7 190 Kč' 
+# http://fitlayout.github.io/resource/art326 -> https://www.datart.cz/mobilni-telefon-nokia-x10-5g-zeleny-101scalth030.html
+title='Mobilní telefon Nokia X10 5G (101SCALTH030) zelený'	price='7 038 Kč' 
+# http://fitlayout.github.io/resource/art327 -> https://www.datart.cz/mobilni-telefon-realme-9-pro-8gb-128gb-sunrise-blue-rmx3472bl8.html
+title='Mobilní telefon realme 9 Pro 8GB/128GB - Sunrise Blue (RMX3472BL8)'	price='6 997 Kč' 
+# http://fitlayout.github.io/resource/art328 -> https://www.datart.cz/mobilni-telefon-realme-9-pro-8gb-128gb-aurora-green-rmx3472ag8.html
+title='Mobilní telefon realme 9 Pro 8GB/128GB - Aurora Green (RMX3472AG8)'	price='6 997 Kč' 
+# http://fitlayout.github.io/resource/art329 -> https://www.datart.cz/mobilni-telefon-realme-9-pro-8gb-128gb-midnight-black-rmx3472bk8.html
+title='Mobilní telefon realme 9 Pro 8GB/128GB - Midnight Black (RMX3472BK8)'	price='6 990 Kč' 
+# http://fitlayout.github.io/resource/art330 -> https://www.datart.cz/mobilni-telefon-oneplus-nord-ce-2-lite-5g-6gb-128gb-black-dusk-5011102002.html
+title='Mobilní telefon OnePlus Nord CE 2 Lite 5G 6GB/128GB- Black Dusk (5011102002)'	price='6 990 Kč' 
+# http://fitlayout.github.io/resource/art331 -> https://www.datart.cz/mobilni-telefon-huawei-nova-9-se-midnight-black-mt-n9sedsbom.html
+title='Mobilní telefon Huawei nova 9 SE - Midnight Black (MT-N9SEDSBOM)'	price='6 990 Kč' 
+# http://fitlayout.github.io/resource/art332 -> https://www.datart.cz/mobilni-telefon-oneplus-nord-ce-2-lite-5g-6gb-128gb-blue-tide-5011102001.html
+title='Mobilní telefon OnePlus Nord CE 2 Lite 5G 6GB/128GB - Blue Tide (5011102001)'	price='6 990 Kč' 
+# http://fitlayout.github.io/resource/art333 -> https://www.datart.cz/mobilni-telefon-huawei-nova-9-se-crystal-blue-mt-n9sedslom.html
+title='Mobilní telefon Huawei nova 9 SE - Crystal Blue (MT-N9SEDSLOM)'	price='6 990 Kč' 
+# http://fitlayout.github.io/resource/art334 -> https://www.datart.cz/mobilni-telefon-huawei-nova-9-se-pearl-white-mt-n9sedswom.html
+title='Mobilní telefon Huawei nova 9 SE - Pearl White (MT-N9SEDSWOM)'	price='6 990 Kč' 
+# http://fitlayout.github.io/resource/art335 -> https://www.datart.cz/xiaomi-mi-11-lite-4g-6gb-64gb-boba-black-31438.html
+title='Mobilní telefon Xiaomi Mi 11 Lite 4G 6GB/64GB - Boba Black (31438)'	price='6 960 Kč' 
+# http://fitlayout.github.io/resource/art336 -> https://www.datart.cz/mobilni-telefon-vivo-y76-5g-midnight-space-5659847.html
+title='Mobilní telefon vivo Y76 5G - Midnight Space (5659847)'	price='6 799 Kč' 
+# http://fitlayout.github.io/resource/art337 -> https://www.datart.cz/mobilni-telefon-vivo-y76-5g-cosmic-aurora-5659834.html
+title='Mobilní telefon vivo Y76 5G - Cosmic Aurora (5659834)'	price='6 799 Kč' 
+# http://fitlayout.github.io/resource/art338 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-10s-128-gb-modry-33426.html
+title='Mobilní telefon Xiaomi Redmi Note 10S 128 GB (33426) modrý'	price='6 690 Kč' 
+# http://fitlayout.github.io/resource/art339 -> https://www.datart.cz/mobilni-telefon-motorola-moto-g71-5g-6-128gb-neptune-green-pas20021pl.html
+title='Mobilní telefon Motorola Moto G71 5G 6+128GB - Neptune Green (PAS20021PL)'	price='6 690 Kč' 
+# http://fitlayout.github.io/resource/art340 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-10s-128-gb-sedy-33427.html
+title='Mobilní telefon Xiaomi Redmi Note 10S 128 GB (33427) šedý'	price='6 690 Kč' 
+# http://fitlayout.github.io/resource/art341 -> https://www.datart.cz/mobilni-telefon-realme-9-sunburst-gold-rmx3521sg8.html
+title='Mobilní telefon realme 9 - Sunburst Gold (RMX3521SG8)'	price='6 690 Kč' 
+# http://fitlayout.github.io/resource/art342 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-a32-5g-cerny-sm-a326bzkveue.html
+title='Mobilní telefon Samsung Galaxy A32 5G (SM-A326BZKVEUE) černý'	price='6 499 Kč' 
+# http://fitlayout.github.io/resource/art343 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-a32-5g-bily-sm-a326bzwveue.html
+title='Mobilní telefon Samsung Galaxy A32 5G (SM-A326BZWVEUE) bílý'	price='6 499 Kč' 
+# http://fitlayout.github.io/resource/art344 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-m23-5g-sm-m236bzggeue-zeleny.html
+title='Mobilní telefon Samsung Galaxy M23 5G (SM-M236BZGGEUE) zelený'	price='6 499 Kč' 
+# http://fitlayout.github.io/resource/art345 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-m23-5g-sm-m236bidgeue-oranzovy.html
+title='Mobilní telefon Samsung Galaxy M23 5G (SM-M236BIDGEUE) oranžový'	price='6 499 Kč' 
+# http://fitlayout.github.io/resource/art346 -> https://www.datart.cz/mobilni-telefon-realme-9-5g-4gb-64gb-stargaze-white-rmx3474wh4.html
+title='Mobilní telefon realme 9 5G 4GB/64GB - Stargaze White (RMX3474WH4)'	price='6 490 Kč' 
+# http://fitlayout.github.io/resource/art347 -> https://www.datart.cz/mobilni-telefon-honor-x8-5g-5109afvh-modry.html
+title='Mobilní telefon Honor X8 5G (5109AFVH) modrý'	price='6 490 Kč' 
+# http://fitlayout.github.io/resource/art348 -> https://www.datart.cz/mobilni-telefon-honor-x8-5g-5109afvf-cerny.html
+title='Mobilní telefon Honor X8 5G (5109AFVF) černý'	price='6 490 Kč' 
+# http://fitlayout.github.io/resource/art349 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-11s-6gb-64gb-37951-modry.html
+title='Mobilní telefon Xiaomi Redmi Note 11S 6GB/64GB (37951) modrý'	price='6 490 Kč' 
+# http://fitlayout.github.io/resource/art350 -> https://www.datart.cz/xiaomi-redmi-note-9t-4gb-64gb-nightfall-black-30634.html
+title='Mobilní telefon Xiaomi Redmi Note 9T 64 GB 5G - Nightfall Black (30634)'	price='6 490 Kč' 
+# http://fitlayout.github.io/resource/art351 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-11s-6gb-64gb-37939-sedy.html
+title='Mobilní telefon Xiaomi Redmi Note 11S 6GB/64GB (37939) šedý'	price='6 490 Kč' 
+# http://fitlayout.github.io/resource/art352 -> https://www.datart.cz/mobilni-telefon-realme-9-5g-4gb-64gb-meteor-black-rmx3474blk4.html
+title='Mobilní telefon realme 9 5G 4GB/64GB - Meteor Black (RMX3474BLK4)'	price='6 490 Kč' 
+# http://fitlayout.github.io/resource/art353 -> https://www.datart.cz/mobilni-telefon-motorola-edge-20-lite-5g-lagoon-green-pane0044pl.html
+title='Mobilní telefon Motorola Edge 20 Lite 5G - Lagoon Green (PANE0044PL)'	price='6 399 Kč' 
+# http://fitlayout.github.io/resource/art354 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-a13-5g-4gb-128gb-sm-a136bzkveue-cerny.html
+title='Mobilní telefon Samsung Galaxy A13 5G 4GB/128GB (SM-A136BZKVEUE) černý'	price='6 390 Kč' 
+# http://fitlayout.github.io/resource/art355 -> https://www.datart.cz/mobilni-telefon-poco-m4-pro-8gb-256gb-38518-zluty.html
+title='Mobilní telefon Poco M4 Pro 8GB/256GB (38518) žlutý'	price='6 290 Kč' 
+# http://fitlayout.github.io/resource/art356 -> https://www.datart.cz/realme-7-pro-dualsim-8-128gb-gsm-tel-mirror-blue-rmx2170bl.html
+title='Mobilní telefon realme 7 Pro (RMX2170BL) modrý'	price='6 290 Kč' 
+# http://fitlayout.github.io/resource/art357 -> https://www.datart.cz/samsung-galaxy-a32-128gb-bila-sm-a325fzwgeue.html
+title='Mobilní telefon Samsung Galaxy A32 (SM-A325FZWGEUE) bílý'	price='0 Kč' 
+# http://fitlayout.github.io/resource/art358 -> https://www.datart.cz/mobilni-telefon-realme-9i-4gb-128gb-prism-blue-rmx3491bl128.html
+title='Mobilní telefon realme 9i 4GB/128GB - Prism Blue (RMX3491BL128)'	price='5 999 Kč' 
+# http://fitlayout.github.io/resource/art359 -> https://www.datart.cz/mobilni-telefon-vivo-y72-5g-graphite-black-5657306.html
+title='Mobilní telefon vivo Y72 5G - Graphite Black (5657306)'	price='5 999 Kč' 
+# http://fitlayout.github.io/resource/art360 -> https://www.datart.cz/mobilni-telefon-vivo-y72-5g-dream-glow-5657307.html
+title='Mobilní telefon vivo Y72 5G - Dream Glow (5657307)'	price='5 999 Kč' 
+# http://fitlayout.github.io/resource/art361 -> https://www.datart.cz/mobilni-telefon-realme-8-6-128-gb-punk-black-rmx3085pbl6.html
+title='Mobilní telefon realme 8 6/128 GB - Punk Black (RMX3085PBL6)'	price='5 990 Kč' 
+# http://fitlayout.github.io/resource/art362 -> https://www.datart.cz/mobilni-telefon-realme-8-6-128-gb-cyber-silver-rmx3085sl6.html
+title='Mobilní telefon realme 8 6/128 GB - Cyber Silver (RMX3085SL6)'	price='5 990 Kč' 
+# http://fitlayout.github.io/resource/art363 -> https://www.datart.cz/mobilni-telefon-infinix-note-12-8gb-128-sapphire-blue-x670sb.html
+title='Mobilní telefon Infinix Note 12 8GB/128 - Sapphire Blue (X670SB)'	price='5 990 Kč' 
+# http://fitlayout.github.io/resource/art364 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-10-5g-4gb-128gb-aurora-green-39269.html
+title='Mobilní telefon Xiaomi Redmi 10 5G 4GB/128GB - Aurora Green (39269)'	price='5 990 Kč' 
+# http://fitlayout.github.io/resource/art365 -> https://www.datart.cz/mobilni-telefon-realme-8-6-128-gb-cyber-black-rmx3085bl6.html
+title='Mobilní telefon realme 8 6/128 GB - Cyber Black (RMX3085BL6)'	price='5 990 Kč' 
+# http://fitlayout.github.io/resource/art366 -> https://www.datart.cz/mobilni-telefon-huawei-nova-8i-stary-black-mt-nova8idssbom.html
+title='Mobilní telefon Huawei nova 8i - Stary Black (MT-NOVA8iDSSBOM)'	price='5 990 Kč' 
+# http://fitlayout.github.io/resource/art367 -> https://www.datart.cz/mobilni-telefon-poco-m4-pro-6gb-128gb-38523-modry.html
+title='Mobilní telefon Poco M4 Pro 6GB/128GB (38523) modrý'	price='5 990 Kč' 
+# http://fitlayout.github.io/resource/art368 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-10-5g-4gb-128gb-graphite-gray-39251.html
+title='Mobilní telefon Xiaomi Redmi 10 5G 4GB/128GB - Graphite Gray (39251)'	price='5 990 Kč' 
+# http://fitlayout.github.io/resource/art369 -> https://www.datart.cz/mobilni-telefon-infinix-note-12-8gb-128-force-black-x670fb.html
+title='Mobilní telefon Infinix Note 12 8GB/128 - Force Black (X670FB)'	price='5 990 Kč' 
+# http://fitlayout.github.io/resource/art370 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-10-5g-128gb-33272-modry.html
+title='Mobilní telefon Xiaomi Redmi Note 10 5G 128GB (33272) modrý'	price='0 Kč' 
+# http://fitlayout.github.io/resource/art371 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-a13-5g-4gb-128gb-sm-a136bzwveue-bily.html
+title='Mobilní telefon Samsung Galaxy A13 5G 4GB/128GB (SM-A136BZWVEUE) bílý'	price='5 990 Kč' 
+# http://fitlayout.github.io/resource/art372 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-10-5g-4gb-128gb-chrome-silver-39258.html
+title='Mobilní telefon Xiaomi Redmi 10 5G 4GB/128GB - Chrome Silver (39258)'	price='5 990 Kč' 
+# http://fitlayout.github.io/resource/art373 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-11-4gb-128gb-star-blue-37801.html
+title='Mobilní telefon Xiaomi Redmi Note 11 4GB/128GB - Star Blue (37801)'	price='5 849 Kč' 
+# http://fitlayout.github.io/resource/art374 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-11-4gb-128gb-twilight-blue-37800.html
+title='Mobilní telefon Xiaomi Redmi Note 11 4GB/128GB - Twilight Blue (37800)'	price='5 849 Kč' 
+# http://fitlayout.github.io/resource/art375 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-11-4gb-128gb-graphite-grey-37651.html
+title='Mobilní telefon Xiaomi Redmi Note 11 4GB/128GB - Graphite Grey (37651)'	price='5 849 Kč' 
+# http://fitlayout.github.io/resource/art376 -> https://www.datart.cz/mobilni-telefon-umidigi-a9-plus-84002495-zeleny.html
+title='Mobilní telefon UMIDIGI A9 Plus (84002495) zelený'	price='5 799 Kč' 
+# http://fitlayout.github.io/resource/art377 -> https://www.datart.cz/samsung-galaxy-a22-5g-64gb-fialova-sm-a226blvueue.html
+title='Mobilní telefon Samsung Galaxy A22 5G 64 GB (SM-A226BLVUEUE) fialový'	price='5 799 Kč' 
+# http://fitlayout.github.io/resource/art378 -> https://www.datart.cz/mobilni-telefon-caterpillar-s42-h-cerny-cs42h-dab-ron-nn.html
+title='Mobilní telefon Caterpillar S42 H+ (CS42H-DAB-RON-NN) černý'	price='5 790 Kč' 
+# http://fitlayout.github.io/resource/art379 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-a13-5g-4gb-64gb-sm-a136blbueue-modry.html
+title='Mobilní telefon Samsung Galaxy A13 5G 4GB/64GB (SM-A136BLBUEUE) modrý'	price='5 790 Kč' 
+# http://fitlayout.github.io/resource/art380 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-a13-5g-4gb-64gb-sm-a136bzwueue-bily.html
+title='Mobilní telefon Samsung Galaxy A13 5G 4GB/64GB (SM-A136BZWUEUE) bílý'	price='5 690 Kč' 
+# http://fitlayout.github.io/resource/art381 -> https://www.datart.cz/mobilni-telefon-poco-m4-5g-6gb-128gb-39307-modry.html
+title='Mobilní telefon Poco M4 5G 6GB/128GB (39307) modrý'	price='5 690 Kč' 
+# http://fitlayout.github.io/resource/art382 -> https://www.datart.cz/mobilni-telefon-poco-m4-5g-6gb-128gb-39309-zluty.html
+title='Mobilní telefon Poco M4 5G 6GB/128GB (39309) žlutý'	price='5 690 Kč' 
+# http://fitlayout.github.io/resource/art383 -> https://www.datart.cz/mobilni-telefon-poco-m4-5g-6gb-128gb-39282-cerny.html
+title='Mobilní telefon Poco M4 5G 6GB/128GB (39282) černý'	price='5 690 Kč' 
+# http://fitlayout.github.io/resource/art384 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-a13-5g-4gb-64gb-sm-a136bzkueue-cerny.html
+title='Mobilní telefon Samsung Galaxy A13 5G 4GB/64GB (SM-A136BZKUEUE) černý'	price='5 690 Kč' 
+# http://fitlayout.github.io/resource/art385 -> https://www.datart.cz/mobilni-telefon-umidigi-bison-zluty-84002480.html
+title='Mobilní telefon UMIDIGI Bison (84002480) žlutý'	price='5 599 Kč' 
+# http://fitlayout.github.io/resource/art386 -> https://www.datart.cz/mobilni-telefon-honor-x8-5109acyt-modry.html
+title='Mobilní telefon Honor X8 (5109ACYT) modrý'	price='5 590 Kč' 
+# http://fitlayout.github.io/resource/art387 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-10-5g-4gb-64gb-aurora-green-39246.html
+title='Mobilní telefon Xiaomi Redmi 10 5G 4GB/64GB - Aurora Green (39246)'	price='5 590 Kč' 
+# http://fitlayout.github.io/resource/art388 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-10-5g-4gb-64gb-chrome-silver-39274.html
+title='Mobilní telefon Xiaomi Redmi 10 5G 4GB/64GB - Chrome Silver (39274)'	price='5 590 Kč' 
+# http://fitlayout.github.io/resource/art389 -> https://www.datart.cz/mobilni-telefon-honor-x8-5109acyp-cerny.html
+title='Mobilní telefon Honor X8 (5109ACYP) černý'	price='5 590 Kč' 
+# http://fitlayout.github.io/resource/art390 -> https://www.datart.cz/mobilni-telefon-honor-x8-5109acyr-stribrny/1.html
+title='Mobilní telefon Honor X8 (5109ACYR) stříbrný'	price='5 590 Kč' 
+# http://fitlayout.github.io/resource/art391 -> https://www.datart.cz/mobilni-telefon-realme-8-4-64-gb-cyber-black-rmx3085bl4.html
+title='Mobilní telefon realme 8 4/64 GB - Cyber Black (RMX3085BL4)'	price='5 590 Kč' 
+# http://fitlayout.github.io/resource/art392 -> https://www.datart.cz/mobilni-telefon-realme-8-4-64-gb-cyber-silver-rmx3085sl4.html
+title='Mobilní telefon realme 8 4/64 GB - Cyber Silver (RMX3085SL4)'	price='5 590 Kč' 
+# http://fitlayout.github.io/resource/art393 -> https://www.datart.cz/mobilni-telefon-vivo-y52-5g-graphite-black-5658042.html
+title='Mobilní telefon vivo Y52 5G - Graphite Black (5658042)'	price='5 555 Kč' 
+# http://fitlayout.github.io/resource/art394 -> https://www.datart.cz/mobilni-telefon-vivo-y52-5g-polar-blue-5658040.html
+title='Mobilní telefon vivo Y52 5G - Polar Blue (5658040)'	price='5 555 Kč' 
+# http://fitlayout.github.io/resource/art395 -> https://www.datart.cz/mobilni-telefon-motorola-moto-g42-6gb-128gb-atlantic-green-pau00029ro.html
+title='Mobilní telefon Motorola Moto G42 6GB/128GB - Atlantic Green (PAU00029RO)'	price='5 499 Kč' 
+# http://fitlayout.github.io/resource/art396 -> https://www.datart.cz/mobilni-telefon-realme-9i-4gb-128gb-prism-black-rmx3491bk128.html
+title='Mobilní telefon realme 9i 4GB/128GB - Prism Black (RMX3491BK128)'	price='5 245 Kč' 
+# http://fitlayout.github.io/resource/art397 -> https://www.datart.cz/mobilni-telefon-motorola-moto-g42-6gb-128gb-metallic-rose-pau00031ro.html
+title='Mobilní telefon Motorola Moto G42 6GB/128GB - Metallic Rose (PAU00031RO)'	price='5 499 Kč' 
+# http://fitlayout.github.io/resource/art398 -> https://www.datart.cz/mobilni-telefon-oppo-a54s-4gb-128gb-pearl-blue-cph2273bl.html
+title='Mobilní telefon Oppo A54s 4GB/128GB - Pearl Blue (CPH2273BL)'	price='5 499 Kč' 
+# http://fitlayout.github.io/resource/art399 -> https://www.datart.cz/mobilni-telefon-oppo-a54s-4gb-128gb-crystal-black-cph2273bk.html
+title='Mobilní telefon Oppo A54s 4GB/128GB - Crystal Black (CPH2273BK)'	price='5 499 Kč' 
+# http://fitlayout.github.io/resource/art400 -> https://www.datart.cz/mobilni-telefon-realme-9i-4gb-64gb-prism-blue-rmx3491bl64.html
+title='Mobilní telefon realme 9i 4GB/64GB - Prism Blue (RMX3491BL64)'	price='5 499 Kč' 
+# http://fitlayout.github.io/resource/art401 -> https://www.datart.cz/mobilni-telefon-huawei-nova-y90-6gb-128gb-crystal-blue-mt-y90dslom.html
+title='Mobilní telefon Huawei nova Y90 6GB/128GB - Crystal Blue (MT-Y90DSLOM)'	price='5 490 Kč' 
+# http://fitlayout.github.io/resource/art402 -> https://www.datart.cz/mobilni-telefon-tcl-30-4gb-128gb-techno-black-t676k-2alce112.html
+title='Mobilní telefon TCL 30+ 4GB/128GB - Techno Black (T676K-2ALCE112)'	price='5 490 Kč' 
+# http://fitlayout.github.io/resource/art403 -> https://www.datart.cz/mobilni-telefon-tcl-30-4gb-128gb-muse-blue-t676k-2blce112.html
+title='Mobilní telefon TCL 30+ 4GB/128GB - Muse Blue (T676K-2BLCE112)'	price='5 490 Kč' 
+# http://fitlayout.github.io/resource/art404 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-11-4gb-64gb-graphite-grey-37646.html
+title='Mobilní telefon Xiaomi Redmi Note 11 4GB/64GB - Graphite Grey (37646)'	price='5 490 Kč' 
+# http://fitlayout.github.io/resource/art405 -> https://www.datart.cz/mobilni-telefon-huawei-nova-y90-6gb-128gb-midnight-black-mt-y90dsbom.html
+title='Mobilní telefon Huawei nova Y90 6GB/128GB - Midnight Black (MT-Y90DSBOM)'	price='5 490 Kč' 
+# http://fitlayout.github.io/resource/art406 -> https://www.datart.cz/mobilni-telefon-realme-8i-4gb-128gb-space-black-rmx3151bl128.html
+title='Mobilní telefon realme 8i 4GB/128GB - Space Black (RMX3151BL128)'	price='5 490 Kč' 
+# http://fitlayout.github.io/resource/art407 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-11-4gb-64gb-twilight-blue-37809.html
+title='Mobilní telefon Xiaomi Redmi Note 11 4GB/64GB - Twilight Blue (37809)'	price='5 490 Kč' 
+# http://fitlayout.github.io/resource/art408 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-10-5g-64gb-modry-33259.html
+title='Mobilní telefon Xiaomi Redmi Note 10 5G 64GB (33259) modrý'	price='5 490 Kč' 
+# http://fitlayout.github.io/resource/art409 -> https://www.datart.cz/mobilni-telefon-realme-8i-4gb-128gb-stellar-purple-rmx3151pr128.html
+title='Mobilní telefon realme 8i 4GB/128GB - Stellar Purple (RMX3151PR128)'	price='5 490 Kč' 
+# http://fitlayout.github.io/resource/art410 -> https://www.datart.cz/mobilni-telefon-motorola-moto-g52-6gb-128gb-charcoal-grey-pau70021ro.html
+title='Mobilní telefon Motorola Moto G52 6GB/128GB - Charcoal Grey (PAU70021RO)'	price='0 Kč' 
+# http://fitlayout.github.io/resource/art411 -> https://www.datart.cz/mobilni-telefon-poco-m4-pro-6gb-128gb-38494-zluty.html
+title='Mobilní telefon Poco M4 Pro 6GB/128GB (38494) žlutý'	price='0 Kč' 
+# http://fitlayout.github.io/resource/art412 -> https://www.datart.cz/mobilni-telefon-poco-m4-pro-6gb-128gb-38510-cerny.html
+title='Mobilní telefon Poco M4 Pro 6GB/128GB (38510) černý'	price='5 389 Kč' 
+# http://fitlayout.github.io/resource/art413 -> https://www.datart.cz/mobilni-telefon-umidigi-bison-x10-pro-84008072-cerny-zluty.html
+title='Mobilní telefon UMIDIGI Bison X10 Pro (84008072) černý/žlutý'	price='5 299 Kč' 
+# http://fitlayout.github.io/resource/art414 -> https://www.datart.cz/mobilni-telefon-motorola-moto-g42-4gb-128gb-atlantic-green-pau00008pl.html
+title='Mobilní telefon Motorola Moto G42 4GB/128GB - Atlantic Green (PAU00008PL)'	price='5 199 Kč' 
+# http://fitlayout.github.io/resource/art415 -> https://www.datart.cz/mobilni-telefon-vivo-y33s-mirror-black-5658828.html
+title='Mobilní telefon vivo Y33s - Mirror Black (5658828)'	price='4 999 Kč' 
+# http://fitlayout.github.io/resource/art416 -> https://www.datart.cz/mobilni-telefon-motorola-moto-g52-4gb-128gb-charcoal-grey-pau70003pl.html
+title='Mobilní telefon Motorola Moto G52 4GB/128GB - Charcoal Grey (PAU70003PL)'	price='4 999 Kč' 
+# http://fitlayout.github.io/resource/art417 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-m13-4gb-128gb-orange-copper-sm-m135fidveue.html
+title='Mobilní telefon Samsung Galaxy M13 4GB/128GB - Orange Copper (SM-M135FIDVEUE)'	price='4 999 Kč' 
+# http://fitlayout.github.io/resource/art418 -> https://www.datart.cz/mobilni-telefon-vivo-y33s-midday-dream-5658829.html
+title='Mobilní telefon vivo Y33s - Midday Dream (5658829)'	price='4 999 Kč' 
+# http://fitlayout.github.io/resource/art419 -> https://www.datart.cz/mobilni-telefon-motorola-moto-g60-panb0027pl-cerny.html
+title='Mobilní telefon Motorola Moto G60 (PANB0027PL) černý'	price='4 999 Kč' 
+# http://fitlayout.github.io/resource/art420 -> https://www.datart.cz/mobilni-telefon-motorola-moto-g32-6gb-128gb-mineral-grey-pauu0024ro.html
+title='Mobilní telefon Motorola Moto G32 6GB/128GB - Mineral Grey (PAUU0024RO)'	price='4 999 Kč' 
+# http://fitlayout.github.io/resource/art421 -> https://www.datart.cz/mobilni-telefon-motorola-moto-g32-6gb-128gb-fleece-gold-pauu0030ro.html
+title='Mobilní telefon Motorola Moto G32 6GB/128GB - Fleece Gold (PAUU0030RO)'	price='4 999 Kč' 
+# http://fitlayout.github.io/resource/art422 -> https://www.datart.cz/mobilni-telefon-motorola-moto-g32-6gb-128gb-satin-maroon-pauu0026ro.html
+title='Mobilní telefon Motorola Moto G32 6GB/128GB - Satin Maroon (PAUU0026RO)'	price='4 999 Kč' 
+# http://fitlayout.github.io/resource/art423 -> https://www.datart.cz/mobilni-telefon-poco-m5s-6gb-128gb-43235-sedy.html
+title='Mobilní telefon Poco M5s 6GB/128GB (43235) šedý'	price='4 999 Kč' 
+# http://fitlayout.github.io/resource/art424 -> https://www.datart.cz/mobilni-telefon-poco-m5s-6gb-128gb-43201-modry.html
+title='Mobilní telefon Poco M5s 6GB/128GB (43201) modrý'	price='4 999 Kč' 
+# http://fitlayout.github.io/resource/art425 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-m13-4gb-128gb-deep-green-sm-m135fzgveue.html
+title='Mobilní telefon Samsung Galaxy M13 4GB/128GB - Deep Green (SM-M135FZGVEUE)'	price='4 999 Kč' 
+# http://fitlayout.github.io/resource/art426 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-m13-4gb-128gb-light-blue-sm-m135flbveue.html
+title='Mobilní telefon Samsung Galaxy M13 4GB/128GB - Light Blue (SM-M135FLBVEUE)'	price='4 999 Kč' 
+# http://fitlayout.github.io/resource/art427 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-a13-4gb-128gb-sm-a137fzwkeue-bily.html
+title='Mobilní telefon Samsung Galaxy A13 4GB/128GB (SM-A137FZWKEUE) bílý'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art428 -> https://www.datart.cz/mobilni-telefon-realme-8i-4gb-64gb-space-black-rmx3151bl4.html
+title='Mobilní telefon realme 8i 4GB/64GB - Space Black (RMX3151BL4)'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art429 -> https://www.datart.cz/mobilni-tel-aligator-rx800-extremo-64gb-cerno-cerv-arx800br.html
+title='Mobilní telefon Aligator RX800 eXtremo (ARX800BR) černý/červený'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art430 -> https://www.datart.cz/mobilni-tel-aligator-rx800-extremo-64gb-cerno-oran-arx800bo.html
+title='Mobilní telefon Aligator RX800 eXtremo (ARX800BO) černý/oranžový'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art431 -> https://www.datart.cz/mobilni-telefon-realme-c35-4gb-128gb-glowing-green-rmx3511gr128.html
+title='Mobilní telefon realme C35 4GB/128GB - Glowing Green (RMX3511GR128)'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art432 -> https://www.datart.cz/mobilni-telefon-samsung-galaxy-a13-4gb-128gb-sm-a135fzwkeue-bily.html
+title='Mobilní telefon Samsung Galaxy A13 4GB/128GB (SM-A135FZWKEUE) bílý'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art433 -> https://www.datart.cz/mobilni-telefon-poco-m4-5g-4gb-64gb-39312-modry.html
+title='Mobilní telefon Poco M4 5G 4GB/64GB (39312) modrý'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art434 -> https://www.datart.cz/mobilni-telefon-poco-m5s-4gb-128gb-43220-sedy.html
+title='Mobilní telefon Poco M5s 4GB/128GB (43220) šedý'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art435 -> https://www.datart.cz/mobilni-telefon-poco-m5s-4gb-128gb-43226-modry.html
+title='Mobilní telefon Poco M5s 4GB/128GB (43226) modrý'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art436 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-10-2022-4gb-128gb-carbon-gray-36685.html
+title='Mobilní telefon Xiaomi Redmi 10 2022 4GB/128GB - Carbon Gray (36685)'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art437 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-10-2022-4gb-128gb-pebble-white-36706.html
+title='Mobilní telefon Xiaomi Redmi 10 2022 4GB/128GB - Pebble White (36706)'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art438 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-10-2022-4gb-128gb-sea-blue-36692.html
+title='Mobilní telefon Xiaomi Redmi 10 2022 4GB/128GB - Sea Blue (36692)'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art439 -> https://www.datart.cz/mobilni-telefon-tcl-30-4gb-64gb-muse-blue-t676h-2blce112.html
+title='Mobilní telefon TCL 30 4GB/64GB - Muse Blue (T676H-2BLCE112)'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art440 -> https://www.datart.cz/mobilni-telefon-tcl-30-4gb-64gb-techno-black-t676h-2alce112.html
+title='Mobilní telefon TCL 30 4GB/64GB - Techno Black (T676H-2ALCE112)'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art441 -> https://www.datart.cz/mobilni-telefon-poco-m4-5g-4gb-64gb-39299-cerny.html
+title='Mobilní telefon Poco M4 5G 4GB/64GB (39299) černý'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art442 -> https://www.datart.cz/mobilni-telefon-poco-m5s-4gb-128gb-43240-bily.html
+title='Mobilní telefon Poco M5s 4GB/128GB (43240) bílý'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art443 -> https://www.datart.cz/mobilni-telefon-motorola-moto-g41-6gb-128gb-pearl-gold-pas40014ro.html
+title='Mobilní telefon Motorola Moto G41 6GB/128GB - Pearl Gold (PAS40014RO)'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art444 -> https://www.datart.cz/mobilni-telefon-motorola-moto-g41-6gb-128gb-meteorite-black-pas40009ro.html
+title='Mobilní telefon Motorola Moto G41 6GB/128GB - Meteorite Black (PAS40009RO)'	price='4 990 Kč' 
+# http://fitlayout.github.io/resource/art445 -> https://www.datart.cz/mobilni-telefon-xiaomi-redmi-note-10-5g-64gb-33265-sedy.html
+title='Mobilní telefon Xiaomi Redmi Note 10 5G 64GB (33265) šedý'	price='4 890 Kč' 
+# http://fitlayout.github.io/resource/art446 -> https://www.datart.cz/mobilni-telefon-infinix-hot-11s-nfc-6gb-128gb-green-wave-x6812bgw.html
+title='Mobilní telefon Infinix Hot 11S NFC 6GB/128GB - Green Wave (X6812BGW)'	price='4 890 Kč' 
+# http://fitlayout.github.io/resource/art447 -> https://www.datart.cz/mobilni-telefon-ulefone-note-11p-ule000419-zeleny.html
+title='Mobilní telefon UleFone Note 11P (ULE000419) zelený'	price='4 790 Kč' 
+# http://fitlayout.github.io/resource/art448 -> https://www.datart.cz/mobilni-telefon-ulefone-note-11p-ule000417-cerny-cerveny.html
+title='Mobilní telefon UleFone Note 11P (ULE000417) černý/červený'	price='4 790 Kč' 
+# http://fitlayout.github.io/resource/art449 -> https://www.datart.cz/mobilni-telefon-honor-x7-5109adty-stribrny.html
+title='Mobilní telefon Honor X7 (5109ADTY) stříbrný'	price='4 790 Kč' 
+# http://fitlayout.github.io/resource/art450 -> https://www.datart.cz/mobilni-telefon-ulefone-note-11p-ule000418-cerny.html
+title='Mobilní telefon UleFone Note 11P (ULE000418) černý'	price='4 789 Kč' 

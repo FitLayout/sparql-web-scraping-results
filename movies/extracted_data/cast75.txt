@@ -1,0 +1,133 @@
+# http://fitlayout.github.io/resource/art75 -> https://www.imdb.com/title/tt10147644/fullcredits/
+character=Mateo Vidal	name=Mario Casas	episodes=8 episodes, 2021 	
+character=Sáez	name=Xavi Sáez	episodes=8 episodes, 2021 	
+character=Gallardo	name=Santi Pons	episodes=8 episodes, 2021 	
+character=Anibal	name=Sam Feuer	episodes=8 episodes, 2021 	
+character=Olivia Costa	name=Aura Garrido	episodes=7 episodes, 2021 	
+character=Lorena Ortiz	name=Alexandra Jiménez	episodes=7 episodes, 2021 	
+character=Teo Aguilar	name=Jose Coronado	episodes=7 episodes, 2021 	
+character=Kimmy Dale	name=Martina Gusman	episodes=7 episodes, 2021 	
+character=María Luján	name=Juana Acosta	episodes=7 episodes, 2021 	
+character=Hermana Irene	name=Susi Sánchez	episodes=7 episodes, 2021 	
+character=Aníbal Ledesma	name=Miki Esparbé	episodes=6 episodes, 2021 	
+character=Zoe	name=Anna Alarcón	episodes=6 episodes, 2021 	
+character=Comisario Oliete	name=Josean Bengoetxea	episodes=6 episodes, 2021 	
+character=Bruno Soto	name=Oriol Vila	episodes=6 episodes, 2021 	
+character=Lavanda	name=Aysha Daraaui	episodes=6 episodes, 2021 	
+character=Ana	name=Natalia Bilbao	episodes=6 episodes, 2021 	
+character=Mara	name=Mima Riera	episodes=5 episodes, 2021 	
+character=Oscar Crespo	name=Javier Beltrán	episodes=5 episodes, 2021 	
+character=Amanda Prieto	name=Lluïsa Mallol	episodes=5 episodes, 2021 	
+character=Jaime	name=Gonzalo de Castro	episodes=4 episodes, 2021 	
+character=Sonia	name=Ana Wagener	episodes=4 episodes, 2021 	
+character=Isma	name=Jordi Coll	episodes=4 episodes, 2021 	
+character=Carlos	name=Oriol Guinart	episodes=4 episodes, 2021 	
+character=Cassandra	name=Asia Ortega	episodes=4 episodes, 2021 	
+character=Daniel	name=Eudald Font	episodes=4 episodes, 2021 	
+character=Roberto Aranda	name=Pedro Hernández	episodes=4 episodes, 2021 	
+character=Romero	name=Toro Cuenca	episodes=4 episodes, 2021 	
+character=Hugo	name=Alejandro Albarracín	episodes=3 episodes, 2021 	
+character=Eva	name=Ariadna Cabrol	episodes=3 episodes, 2021 	
+character=Pastor	name=Marc Rodríguez	episodes=3 episodes, 2021 	
+character=Paula	name=Aina Planas	episodes=3 episodes, 2021 	
+character=Carla	name=Mireia Vilapuig	episodes=3 episodes, 2021 	
+character=Carmen	name=Montse Morillo	episodes=3 episodes, 2021 	
+character=Jose	name=David Vert	episodes=3 episodes, 2021 	
+character=Lorena 7 años	name=Ainhara Rodríguez	episodes=3 episodes, 2021 	
+character=Bea	name=Cristina Genebat	episodes=3 episodes, 2021 	
+character=Sofía	name=Joana Belmonte	episodes=3 episodes, 2021 	
+character=Laura	name=Louise Good	episodes=3 episodes, 2021 	
+character=Toni Osias	name=Miquel Sitjar	episodes=3 episodes, 2021 	
+character=Presentadora TV	name=Tània Sarrias	episodes=3 episodes, 2021 	
+character=Ana	name=Cristina Murillo	episodes=3 episodes, 2021 	
+character=Menor hangar	name=Yoharis de Lopo	episodes=3 episodes, 2021 	
+character=Botones hotel	name=Jordi Vidal	episodes=3 episodes, 2021 	
+character=Max	name=Martín Noriega	episodes=2 episodes, 2021 	
+character=Alex	name=Cocó Salvador	episodes=2 episodes, 2021 	
+character=Claudia	name=Zoe Arnao	episodes=2 episodes, 2021 	
+character=Preso 1	name=Ricardo Cerezo	episodes=2 episodes, 2021 	
+character=Mujer UDE	name=Ariadna de Guzmán	episodes=2 episodes, 2021 	
+character=Preso 2	name=Toni Cayuela	episodes=2 episodes, 2021 	
+character=Javi	name=Nico Conde	episodes=2 episodes, 2021 	
+character=Lucía	name=Paloma Otero	episodes=2 episodes, 2021 	
+character=Marcos	name=Joan Pedrola	episodes=2 episodes, 2021 	
+character=Hernán	name=Adrià Escudero	episodes=2 episodes, 2021 	
+character=Cliente cadena	name=Àlex Esteve	episodes=2 episodes, 2021 	
+character=Blackmail Client	name=Victor Solé	episodes=2 episodes, 2021 	
+character=Otis Friedman	name=Frank Feys	episodes=2 episodes, 2021 	
+character=Gonzalo	name=Alex Ricart	episodes=2 episodes, 2021 	
+character=Matías Oddone	name=Xavi Lite	episodes=2 episodes, 2021 	
+character=Psicólogo	name=Armand Villén	episodes=2 episodes, 2021 	
+character=Ginecólogo	name=Bernat Muñoz	episodes=2 episodes, 2021 	
+character=Presentador informativo	name=Eduard Gibert	episodes=2 episodes, 2021 	
+character=Vendedor	name=Xavier Pàmies	episodes=2 episodes, 2021 	
+character=Oscar	name=Alex Brull	episodes=2 episodes, 2021 	
+character=Secretaria Tetco	name=Anna Prats	episodes=2 episodes, 2021 	
+character=Lidia	name=Carla Ricart	episodes=2 episodes, 2021 	
+character=Agente aeropuerto	name=Benjamí Conesa	episodes=2 episodes, 2021 	
+character=Enfermera	name=Anna Farriol	episodes=2 episodes, 2021 	
+character=Sra. Abellán	name=Alzira Gómez	episodes=2 episodes, 2021 	
+character=Viuda Gallardo	name=Isabel Rocatti	episodes=2 episodes, 2021 	
+character=Hombre edificio	name=Carlos Martinho	episodes=2 episodes, 2021 	
+character=Agente policía	name=Oriol Ruiz	episodes=2 episodes, 2021 	
+character=Agente policía	name=Arnau Casanovas	episodes=2 episodes, 2021 	
+character=Agente policía	name=Pep Papell	episodes=2 episodes, 2021 	
+character=Agente policía	name=Eduard Tudela	episodes=2 episodes, 2021 	
+character=Agente policía	name=Sonia Espinosa	episodes=2 episodes, 2021 	
+character=Empleado hotel	name=Isaac Alcayde	episodes=2 episodes, 2021 	
+character=Doctora UCI	name=Amàlia Sancho	episodes=2 episodes, 2021 	
+character=Enfermera	name=Anna Garreta	episodes=2 episodes, 2021 	
+character=Agente policía	name=Roger Vidal	episodes=2 episodes, 2021 	
+character=Enfermero	name=Jose Luis Miranda	episodes=2 episodes, 2021 	
+character=Enfermera mostrador	name=Estefi García	episodes=2 episodes, 2021 	
+character=Agente comisaría	name=Gema Sala	episodes=2 episodes, 2021 	
+character=Agente comisaría	name=Dídac Rodríguez	episodes=2 episodes, 2021 	
+character=Olivia niña	name=Carla Moran	episodes=2 episodes, 2021 	
+character=Amigo Isma	name=Kevin Avilés	episodes=2 episodes, 2021 	
+character=Sargento Comisaría	name=Carlos Reyes	episodes=1 episode, 2021 	
+character=Madre Olivia	name=Patrícia Mendoza	episodes=1 episode, 2021 	
+character=Operario camión	name=Carlus Fàbrega	episodes=1 episode, 2021 	
+character=Tipo zoo	name=Marc Barbena	episodes=1 episode, 2021 	
+character=Tutora orfanato	name=Esthela Kuri	episodes=1 episode, 2021 	
+character=Agente piso Mat	name=Arnau Gol-Karsunke	episodes=1 episode, 2021 	
+character=Hombre Málaga	name=Pedro Alonso	episodes=1 episode, 2021 	
+character=Novio Carmen	name=Ignasi Dalmases	episodes=1 episode, 2021 	
+character=Alumno	name=Miquel Giblin	episodes=1 episode, 2021 	
+character=Alumno	name=Adrià Salazar	episodes=1 episode, 2021 	
+character=Funcionario cárcel	name=Òscar Intente	episodes=1 episode, 2021 	
+character=Conductora	name=Rosa Aguado	episodes=1 episode, 2021 	
+character=Hombre Rosa del Viento	name=Toni Climent	episodes=1 episode, 2021 	
+character=Torralba	name=Albert Pérez	episodes=1 episode, 2021 	
+character=Funcionaria Cárcel	name=Patricia Santos	episodes=1 episode, 2021 	
+character=Mujer Toni Osias	name=Mar Serra	episodes=1 episode, 2021 	
+character=Veronica	name=Aleida Torrent	episodes=1 episode, 2021 	
+character=Amigo Isma	name=Alex Vega	episodes=1 episode, 2021 	
+character=Cliente Malquerida	name=Christian Guiriguet	episodes=1 episode, 2021 	
+character=Alumna	name=Natalia Serra	episodes=1 episode, 2021 	
+character=Vendedora compañía aérea	name=Sílvia Forns	episodes=1 episode, 2021 	
+character=Cliente Malquerida	name=Kristel Magan	episodes=1 episode, 2021 	
+character=Alumno	name=Christian Luján	episodes=1 episode, 2021 	
+character=Amigo Isma	name=Darius Macrea	episodes=1 episode, 2021 	
+character=Monja	name=Sílvia Ricart	episodes=1 episode, 2021 	
+character=Novio Mara	name=Joan Sureda	episodes=1 episode, 2021 	
+character=Amigo Isma	name=Víctor Boada	episodes=1 episode, 2021 	
+character=Agente UDE	name=Ferran Plana	episodes=1 episode, 2021 	
+character=Amigo Hugo	name=Ricard Juanola	episodes=1 episode, 2021 	
+character=Mayordomo	name=Gary Anthony Stennette	episodes=1 episode, 2021 	
+character=Agente control aeropuerto	name=Carlos Briones	episodes=1 episode, 2021 	
+character=Amigo Hugo	name=Oscar Fernández	episodes=1 episode, 2021 	
+character=Amigo Hugo	name=Albert Sirvent	episodes=1 episode, 2021 	
+character=Vecino	name=Genís Campillo	episodes=1 episode, 2021 	
+character=Suegro Aguilar	name=Xavier Tor	episodes=1 episode, 2021 	
+character=Conductor camión	name=Álex Barrero	episodes=1 episode, 2021 	
+character=Amigo Hugo	name=Joan Grima	episodes=1 episode, 2021 	
+character=Madre Mat	name=Elena Vilaplana	episodes=1 episode, 2021 	
+character=Agente científica	name=Àlex Mitjà	episodes=1 episode, 2021 	
+character=Padre Mat	name=Alberto Pascual	episodes=1 episode, 2021 	
+character=Juez	name=Toni Meler	episodes=1 episode, 2021 	
+character=Técnico forense	name=Bibiana Xiol	episodes=1 episode, 2021 	
+character=Taquillera zoo	name=Marisol Casas	episodes=1 episode, 2021 	
+character=Escort	name=Kristina Orlovic	episodes=1 episode, 2021 	
+character=Beatriz	name=Begoña Miranda	episodes=1 episode, 2021 	
+character=Violador Hangar	name=Sergio Sala	episodes=1 episode, 2021 	
+character=Ginecóloga	name=Esther Noya	episodes=1 episode, 2021 	

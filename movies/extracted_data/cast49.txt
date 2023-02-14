@@ -1,0 +1,168 @@
+# http://fitlayout.github.io/resource/art49 -> https://www.imdb.com/title/tt1474684/fullcredits/
+character=DCI John Luther	name=Idris Elba	episodes=21 episodes, 2010-2019 	
+character=DSU Martin Schenk	name=Dermot Crowley	episodes=18 episodes, 2010-2019 	
+character=Benny Silver	name=Michael Smiley	episodes=17 episodes, 2010-2019 	
+character=DS Justin Ripley	name=Warren Brown	episodes=16 episodes, 2010-2015 	
+character=Alice Morgan	name=Ruth Wilson	episodes=13 episodes, 2010-2019 	
+character=Mark North	name=Paul McGann	episodes=11 episodes, 2010-2019 	
+character=DCI Erin Gray	name=Nikki Amuka-Bird	episodes=8 episodes, 2011-2013 	
+character=DCI Ian Reed	name=Steven Mackintosh	episodes=7 episodes, 2010 	
+character=DSU Rose Teller	name=Saskia Reeves	episodes=7 episodes, 2010 	
+character=Zoe Luther	name=Indira Varma	episodes=7 episodes, 2010 	
+character=George Cornelius	name=Patrick Malahide	episodes=6 episodes, 2015-2019 	
+character=Mary Day	name=Sienna Guillory	episodes=4 episodes, 2013 	
+character=Jenny Jones	name=Aimee-Ffion Edwards	episodes=4 episodes, 2011 	
+character=DSU George Stark	name=Hara	episodes=4 episodes, 2013 	
+character=DSU George Stark	name=David O	episodes=4 episodes, 2013 	
+character=Caroline Jones	name=Kierston Wareing	episodes=4 episodes, 2011 	
+character=Errol Minty	name=Michael Obiora	episodes=4 episodes, 2015-2019 	
+character=Henry Madsen	name=Anton Valensi	episodes=4 episodes, 2010 	
+character=Jeremy Lake	name=Enzo Cilenti	episodes=4 episodes, 2019 	
+character=Vivien Lake	name=Hermione Norris	episodes=4 episodes, 2019 	
+character=DS Catherine Halliday	name=Wunmi Mosaku	episodes=4 episodes, 2019 	
+character=Donnie McKinney	name=Gary Hailes	episodes=4 episodes, 2019 	
+character=Cornelius Henchman	name=Matt Sproit	episodes=1 episode, 2019 	
+character=Ronald Massey	name=Lex Daniel	episodes=3 episodes, 2019 	
+character=Toby Kent	name=David Dawson	episodes=3 episodes, 2011 	
+character=Frank Hodge	name=Alan Williams	episodes=3 episodes, 2011 	
+character=Baba	name=Pam Ferris	episodes=3 episodes, 2011 	
+character=Celia Lavender	name=Roberta Taylor	episodes=3 episodes, 2019 	
+character=DCSU Russell Cornish	name=Matthew Marsh	episodes=3 episodes, 2010 	
+character=Alastair Cornelius	name=Andrew Mullan	episodes=2 episodes, 2019 	
+character=SCO19 Armed Police Officer	name=Glenn Webster	episodes=1 episode, 2013-2019 	
+character=Nicholas Millberry	name=Steven Robertson	episodes=2 episodes, 2011 	
+character=Paul Ellis	name=Kevin Fuller	episodes=2 episodes, 2013 	
+character=Tom Marwood	name=Elliot Cowan	episodes=2 episodes, 2013 	
+character=Cameron Pell	name=Lee Ingleby	episodes=2 episodes, 2011 	
+character=Megan Cantor	name=Laura Haddock	episodes=2 episodes, 2015 	
+character=DS Emma Lane	name=Rose Leslie	episodes=2 episodes, 2015 	
+character=Steven Rose	name=John Heffernan	episodes=2 episodes, 2015 	
+character=Dani Lane	name=Sasha Behar	episodes=2 episodes, 2013 	
+character=Craig Lane	name=Selva Rasalingam	episodes=2 episodes, 2013 	
+character=Derek Hayes	name=Delroy Atkinson	episodes=2 episodes, 2019 	
+character=Ken Barnaby	name=Lucian Msamati	episodes=2 episodes, 2013 	
+character=Tessa Barnaby	name=Maria Miles	episodes=2 episodes, 2013 	
+character=Penny Leyton	name=Katie Brayben	episodes=2 episodes, 2019 	
+character=James Hauser	name=Jami Reid-Quarrell	episodes=2 episodes, 2019 	
+character=Mindy	name=Julie Teal	episodes=2 episodes, 2019 	
+character=Daria Shubik	name=Sonita Henry	episodes=2 episodes, 2019 	
+character=Ayesha	name=Orlessa Altass	episodes=2 episodes, 2010-2013 	
+character=Palmer	name=Anthony Howell	episodes=2 episodes, 2019 	
+character=Graham Shand	name=Rob Jarvis	episodes=1 episode, 2010 	
+character=PC Steve Gorman	name=Geoffrey Lumb	episodes=1 episode, 2010 	
+character=James Carrodus	name=Thomas Lockyer	episodes=1 episode, 2010 	
+character=Kirsten Ross	name=Catherine Hamilton	episodes=1 episode, 2010 	
+character=Callum	name=Mark Rowley	episodes=1 episode, 2013 	
+character=William Lucas	name=Lewis Young	episodes=1 episode, 2019 	
+character=Owen Lynch	name=Sam Spruell	episodes=1 episode, 2010 	
+character=Lucien Burgess	name=Paul Rhys	episodes=1 episode, 2010 	
+character=Jessica Carrodus	name=Donatienne Dupont	episodes=1 episode, 2010 	
+character=Sally Thomas	name=Golda Rosheuvel	episodes=1 episode, 2011 	
+character=Richard Gardiner	name=Jamie Richards	episodes=1 episode, 2011 	
+character=Maxine	name=Gemma Lawrence	episodes=1 episode, 2013 	
+character=Tom Meyer	name=Danny Lee Wynter	episodes=1 episode, 2010 	
+character=Adewale Omotoso	name=Babou Ceesay	episodes=1 episode, 2011 	
+character=Shaun Butler	name=Oliver Stark	episodes=1 episode, 2013 	
+character=Chloe Morley	name=Joanna Croll	episodes=1 episode, 2015 	
+character=Monsieur Awaritefe	name=Vincent Vermignon	episodes=1 episode, 2019 	
+character=Evangeline Nixon	name=Ania Sowinski	episodes=1 episode, 2010 	
+character=Steve Kimble	name=James Puddephatt	episodes=1 episode, 2011 	
+character=Steve Meredith	name=Ryan Calais Cameron	episodes=1 episode, 2013 	
+character=Emily Hammond	name=Rachel Hankey	episodes=1 episode, 2013 	
+character=Lee Peck	name=Luke Westlake	episodes=1 episode, 2019 	
+character=Daniel Sugarman	name=Ross McCall	episodes=1 episode, 2010 	
+character=Depak Chandrapal	name=Hamza Jeetooa	episodes=1 episode, 2011 	
+character=DCI Theo Bloom	name=Darren Boyd	episodes=1 episode, 2015 	
+character=Jimmy Segar	name=Mark Carey	episodes=1 episode, 2015 	
+character=June Segar	name=Lorraine Hilton	episodes=1 episode, 2015 	
+character=Richard Henley	name=Andrew Tiernan	episodes=1 episode, 2010 	
+character=Corrine Day	name=Louise Rose	episodes=1 episode, 2010 	
+character=Natalie Green	name=Georgina French	episodes=1 episode, 2013 	
+character=Linda Shand	name=Nicola Walker	episodes=1 episode, 2010 	
+character=Abby	name=Anna Brewster	episodes=1 episode, 2011 	
+character=Beamish	name=Shaun Mason	episodes=1 episode, 2013 	
+character=Beanie	name=Shaun Mason	episodes=1 episode, 2013 	
+character=Sean 	name=Shaun Mason	episodes=1 episode, 2013 	
+character=Jodie	name=Laura Pyper	episodes=1 episode, 2013 	
+character=Dr Joe Green	name=Simon Wilson	episodes=1 episode, 2013 	
+character=Declan Segar	name=Tommy French	episodes=1 episode, 2015 	
+character=Mohan Rai	name=Ash Rizi	episodes=1 episode, 2015 	
+character=Mel Cornelius	name=Simone James	episodes=1 episode, 2015 	
+character=Bill Winingham	name=Alexander Morton	episodes=1 episode, 2010 	
+character=PC Jenny Hanson	name=Diveen Henry	episodes=1 episode, 2010 	
+character=William Carney	name=Ned Dennehy	episodes=1 episode, 2013 	
+character=Tara Black	name=Annabel Bates	episodes=1 episode, 2015 	
+character=Dennis Keaton	name=Johann Myers	episodes=1 episode, 2010 	
+character=PC Mardel	name=Gary Shelford	episodes=1 episode, 2010 	
+character=Policeman	name=Mark Redguard	episodes=1 episode, 2010 	
+character=DCS Linda Carroway	name=Ellie Haddington	episodes=1 episode, 2011 	
+character=Candice Calvert	name=Bryony Afferson	episodes=1 episode, 2011 	
+character=Paul Hoby	name=Brett Fancy	episodes=1 episode, 2011 	
+character=Terrence Conran	name=Rupert Procter	episodes=1 episode, 2013 	
+character=Stacey Bell	name=Selin Hizli	episodes=1 episode, 2015 	
+character=Roberta Wise	name=Charlotte Pyke	episodes=1 episode, 2015 	
+character=Terry Lynch	name=Sean Pertwee	episodes=1 episode, 2010 	
+character=Claire Weldon	name=Stacey Sampson	episodes=1 episode, 2010 	
+character=Joe Shepherd	name=Stephen Boxer	episodes=1 episode, 2011 	
+character=Andrei Kolchak	name=John Albasiny	episodes=1 episode, 2011 	
+character=Gordon Murray	name=Michael Shaeffer	episodes=1 episode, 2013 	
+character=Katie Woodward	name=Hannah Bourne	episodes=1 episode, 2015 	
+character=PC Alistair Fulford	name=Okorie Chukwu	episodes=1 episode, 2010 	
+character=Patrick Holguin	name=Graham Turner	episodes=1 episode, 2010 	
+character=Boothe	name=Jamie Martin	episodes=1 episode, 2011 	
+character=Alan Ramsey	name=Jason Riddington	episodes=1 episode, 2013 	
+character=Hannah Woodward	name=Emma Fischer	episodes=1 episode, 2015 	
+character=Eleanor Cadman	name=Eleanor Hafner	episodes=1 episode, 2019 	
+character=Claire Evans	name=Katharine Orchard	episodes=1 episode, 2019 	
+character=Layla	name=Matti Houghton	episodes=1 episode, 2010 	
+character=Wilson	name=Keeley Forsyth	episodes=1 episode, 2011 	
+character=Kiera Mills	name=Michelle Duncan	episodes=1 episode, 2013 	
+character=Dr Joy Harris	name=Lizzie Hopley	episodes=1 episode, 2013 	
+character=Owen Woodward	name=Luke Ward-Wilkinson	episodes=1 episode, 2015 	
+character=Ronald Bryson	name=Nigel Cooke	episodes=1 episode, 2011 	
+character=Eve	name=Alexandra Moen	episodes=1 episode, 2013 	
+character=Sean Woodward	name=Ben Abell	episodes=1 episode, 2015 	
+character=Tim	name=Jamie Glover	episodes=1 episode, 2011 	
+character=PC Singh	name=Hiten Patel	episodes=1 episode, 2019 	
+character=DCI Woodgate	name=Nicholas Asbury	episodes=1 episode, 2019 	
+character=Ileana	name=Andreea Paduraru	episodes=1 episode, 2019 	
+character=Simon Tipton	name=Neill	episodes=1 episode, 2019 	
+character=Simon Tipton	name=Steven O	episodes=1 episode, 2019 	
+character=Andy King	name=Robert Bannon	episodes=1 episode, 2019 	
+character=PA	name=Carmen Kelly	episodes=7 episodes, 2011-2013 	
+character=Luther	name=Carmen Kelly	episodes=7 episodes, 2011-2013 	
+character=Police Officer	name=Paul Blackwell	episodes=3 episodes, 2010-2015 	
+character=Police Officer	name=Chris Cowlin	episodes=3 episodes, 2013-2019 	
+character=Police Officer	name=Janette Sharpe	episodes=3 episodes, 2015-2019 	
+character=Cornelius Henchman	name=Jason Crane	episodes=3 episodes, 2019 	
+character=Office Worker	name=Lee Nicholas Harris	episodes=2 episodes, 2011-2019 	
+character=Police Officer	name=Derek Lea	episodes=1 episode, 2010 	
+character=Monika Poole	name=Katie Hardwick	episodes=1 episode, 2010 	
+character=Hoodie	name=Catherine Balavage	episodes=1 episode, 2010 	
+character=Prison Guard	name=Mark Shrimpton	episodes=1 episode, 2010 	
+character=Police Officer	name=Jeff Lipman	episodes=1 episode, 2010 	
+character=Indian Shopkeeper	name=Atul Sharma	episodes=1 episode, 2011 	
+character=Attacked Passenger	name=Teresa Mahoney	episodes=1 episode, 2011 	
+character=Office Manager	name=Mike Parish	episodes=1 episode, 2011 	
+character=Office Worker	name=Dilyana Bouklieva	episodes=1 episode, 2011 	
+character=Injured Office Victim	name=Mick Slaney	episodes=1 episode, 2011 	
+character=Suited Man	name=Ben Probert	episodes=1 episode, 2011 	
+character=Office Worker	name=Darren Charles	episodes=1 episode, 2011 	
+character=Medic	name=Obinna Okeke	episodes=1 episode, 2011 	
+character=Onlooker	name=Alex Moore	episodes=1 episode, 2011 	
+character=Police Officer	name=Franckie Williams	episodes=1 episode, 2011 	
+character=Police Officer	name=Vic Waghorn	episodes=1 episode, 2013 	
+character=Execution Spectator	name=Lasco Atkins	episodes=1 episode, 2013 	
+character=Riot Police Officer	name=Stephen Hawke	episodes=1 episode, 2013 	
+character=Uniform Police Officer	name=Richard Herdman	episodes=1 episode, 2013 	
+character=Ex Convict	name=Nigel Genis	episodes=1 episode, 2013 	
+character=Office Secretary	name=Celine Jedidi	episodes=1 episode, 2013 	
+character=Drug Dealer	name=Clem So	episodes=1 episode, 2015 	
+character=Reni	name=Jason Julien-Connage	episodes=1 episode, 2015 	
+character=Alastair Morley	name=Joel Stubbs	episodes=1 episode, 2015 	
+character=Men	name=Billy Mansell	episodes=1 episode, 2019 	
+character=Cornelius	name=Billy Mansell	episodes=1 episode, 2019 	
+character=Emil	name=Andrew Burford	episodes=1 episode, 2019 	
+character=Consultant Surgeon	name=Karl Farrer	episodes=1 episode, 2019 	
+character=SSU Detective	name=Ross Carter	episodes=1 episode, 2019 	
+character=Amrita	name=Geraldine Roy	episodes=1 episode, 2019 	

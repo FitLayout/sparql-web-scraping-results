@@ -1,0 +1,162 @@
+# http://fitlayout.github.io/resource/art26 -> https://www.imdb.com/title/tt2628232/fullcredits/
+character=Dorian Gray	name=Reeve Carney	episodes=27 episodes, 2014-2016 	
+character=Sir Malcolm Murray	name=Timothy Dalton	episodes=27 episodes, 2014-2016 	
+character=Vanessa Ives	name=Eva Green	episodes=27 episodes, 2014-2016 	
+character=John Clare	name=Rory Kinnear	episodes=27 episodes, 2014-2016 	
+character=Lily	name=Billie Piper	episodes=27 episodes, 2014-2016 	
+character=Dr. Victor Frankenstein	name=Harry Treadaway	episodes=27 episodes, 2014-2016 	
+character=Ethan Chandler	name=Josh Hartnett	episodes=27 episodes, 2014-2016 	
+character=Sembene	name=Danny Sapani	episodes=18 episodes, 2014-2015 	
+character=Ferdinand Lyle	name=Simon Russell Beale	episodes=14 episodes, 2014-2016 	
+character=Bartholomew Rusk	name=Douglas Hodge	episodes=13 episodes, 2015-2016 	
+character=Hecate Poole	name=Sarah Greene	episodes=13 episodes, 2015-2016 	
+character=Madame Kali	name=Helen McCrory	episodes=12 episodes, 2014-2015 	
+character=Junior Inspector	name=Jack Hickey	episodes=11 episodes, 2015-2016 	
+character=Dr. Seward	name=Patti LuPone	episodes=10 episodes, 2015-2016 	
+character=Mina Harker	name=Olivia Llewellyn	episodes=9 episodes, 2014-2015 	
+character=Kaetenay	name=Wes Studi	episodes=9 episodes, 2016 	
+character=Witch 	name=Neill	episodes=9 episodes, 2015 	
+character=Witch 	name=Nicole O	episodes=9 episodes, 2015 	
+character=Witch 	name=Olivia Chenery	episodes=9 episodes, 2015 	
+character=Dr. Henry Jekyll	name=Shazad Latif	episodes=8 episodes, 2016 	
+character=Dr. Alexander Sweet	name=Christian Camargo	episodes=7 episodes, 2016 	
+character=Renfield	name=Samuel Barnett	episodes=7 episodes, 2016 	
+character=Gladys Murray	name=Noni Stapleton	episodes=7 episodes, 2014-2015 	
+character=Jack	name=Casper Allpress	episodes=6 episodes, 2016 	
+character=Warren Roper	name=Stephen Lord	episodes=6 episodes, 2014-2015 	
+character=Justine	name=Jessica Barden	episodes=6 episodes, 2016 	
+character=Oscar Putney	name=David Haig	episodes=5 episodes, 2015 	
+character=Angelique	name=Jonny Beauchamp	episodes=5 episodes, 2015 	
+character=Octavia Putney	name=Ruth Gemmell	episodes=5 episodes, 2015 	
+character=Lavinia Putney	name=Tamsin Topolski	episodes=5 episodes, 2015 	
+character=Marjorie	name=Pandora Colin	episodes=5 episodes, 2016 	
+character=Peter	name=Graham Butler	episodes=5 episodes, 2014-2015 	
+character=Proteus	name=Alex Price	episodes=4 episodes, 2014-2015 	
+character=Maud Gunneson	name=Hannah Tointon	episodes=4 episodes, 2014 	
+character=Catriona Hartdegen	name=Perdita Weeks	episodes=4 episodes, 2016 	
+character=Marshall Franklin Ostow	name=Sean Gilder	episodes=4 episodes, 2016 	
+character=Simon	name=Gavin Fowler	episodes=4 episodes, 2014 	
+character=Vampire	name=Robert Strange	episodes=4 episodes, 2014 	
+character=Boy Familiar	name=Sebastian Croft	episodes=4 episodes, 2016 	
+character=Vincent Brand	name=Alun Armstrong	episodes=3 episodes, 2014 	
+character=Fenton	name=Olly Alexander	episodes=3 episodes, 2014 	
+character=Balfour	name=Jamie Ballard	episodes=3 episodes, 2016 	
+character=Attendant - Bedlam	name=Steve Wilson	episodes=3 episodes, 2016 	
+character=Lead Familiar	name=Jack Greenlees	episodes=3 episodes, 2016 	
+character=Whore 	name=Charlene Gleeson	episodes=2 episodes, 2016 	
+character=Professor Abraham Van Helsing	name=David Warner	episodes=2 episodes, 2014 	
+character=Inspector Granworthy	name=Lorcan Cranitch	episodes=2 episodes, 2014 	
+character=Sir Geoffrey Hawkes	name=Ronan Vibert	episodes=2 episodes, 2015 	
+character=Middle Aged Man	name=Denis Conway	episodes=2 episodes, 2015 	
+character=Photographer	name=Joe McAvera	episodes=2 episodes, 2014 	
+character=Colonel Brewster	name=Owen Roe	episodes=2 episodes, 2014-2015 	
+character=Jared Talbot	name=Brian Cox	episodes=2 episodes, 2016 	
+character=Scarman	name=Cokey Falkow	episodes=2 episodes, 2016 	
+character=Stage Manager	name=Martin Phillips	episodes=2 episodes, 2014 	
+character=Boy Familiar 	name=Kieron Duffy	episodes=2 episodes, 2016 	
+character=Beautiful Witch	name=Charlotte Beckett	episodes=2 episodes, 2015 	
+character=Rance	name=Brendan Gibson	episodes=2 episodes, 2016 	
+character=Father	name=Dave Curry	episodes=2 episodes, 2015 	
+character=Whore 	name=Mei Bignall	episodes=2 episodes, 2016 	
+character=Mother	name=Aideen Wylde	episodes=2 episodes, 2015 	
+character=Proprietor	name=Calum MacPherson	episodes=2 episodes, 2016 	
+character=Saloon Proprietor	name=Paddy Rocks	episodes=2 episodes, 2016 	
+character=Claire Ives	name=Anna Chancellor	episodes=1 episode, 2014 	
+character=Father Matthews	name=Oliver Cotton	episodes=1 episode, 2014 	
+character=Priest	name=Henry Goodman	episodes=1 episode, 2014 	
+character=Dr. Christopher Banning	name=Frank McCusker	episodes=1 episode, 2014 	
+character=Caroline Frankenstein	name=Mary Stockley	episodes=1 episode, 2014 	
+character=Prostitute	name=Amy De Bhrún	episodes=1 episode, 2014 	
+character=Girl Outside Church	name=Hayley Canham	episodes=1 episode, 2014 	
+character=Mother	name=Aoife Byrne	episodes=1 episode, 2014 	
+character=Young Vanessa	name=Lili Davies	episodes=1 episode, 2014 	
+character=Young Mina	name=Fern Deacon	episodes=1 episode, 2014 	
+character=Young Victor	name=Gus Barry	episodes=1 episode, 2014 	
+character=Barman	name=Jack Walsh	episodes=1 episode, 2014 	
+character=Nanny	name=George Hanover	episodes=1 episode, 2014 	
+character=Year Old Girl	name=Karla Lyons	episodes=1 episode, 2014 	
+character=Mr. Kidd	name=Julian Black Antelope	episodes=1 episode, 2014 	
+character=Alphonse	name=Anthony Brophy	episodes=1 episode, 2014 	
+character=Police Sergeant	name=Flaherty	episodes=1 episode, 2014 	
+character=Police Sergeant	name=Michael O	episodes=1 episode, 2014 	
+character=Pregnant Teenage Girl	name=Carla Langley	episodes=1 episode, 2015 	
+character=Doctor	name=David Ryan	episodes=1 episode, 2015 	
+character=Docker	name=Aonghus Og McAnally	episodes=1 episode, 2016 	
+character=Grieving Mother	name=Donoghue	episodes=1 episode, 2016 	
+character=Grieving Mother	name=Sonya O	episodes=1 episode, 2016 	
+character=Teenage Singing Girl	name=Sophie Meade	episodes=1 episode, 2016 	
+character=Beautiful Young Woman	name=Alison McGirr	episodes=1 episode, 2014 	
+character=Young Peter	name=Xavier Atkins	episodes=1 episode, 2014 	
+character=Gun Shop Proprietor	name=Chris McHallem	episodes=1 episode, 2014 	
+character=William	name=Lucas Farren	episodes=1 episode, 2014 	
+character=Ernest	name=Toole	episodes=1 episode, 2014 	
+character=Ernest	name=Nathan O	episodes=1 episode, 2014 	
+character=Lead Familiar	name=Fady Elsayed	episodes=1 episode, 2014 	
+character=Gordon Ives	name=Michael James Ford	episodes=1 episode, 2014 	
+character=Telegraph Clerk	name=Paul Ward	episodes=1 episode, 2014 	
+character=Jack	name=Jer O	episodes=1 episode, 2015 	
+character=Jack	name=Leary	episodes=1 episode, 2015 	
+character=Bored Policeman	name=Ross Mac Mahon	episodes=1 episode, 2015 	
+character=Captain Branson	name=Joseph Millson	episodes=1 episode, 2014 	
+character=Sailor	name=Rick Burn	episodes=1 episode, 2014 	
+character=Gentleman	name=Stephen Bradley	episodes=1 episode, 2014 	
+character=Tavern Woman	name=Gail Fitzpatrick	episodes=1 episode, 2015 	
+character=Nun	name=Rosemary Henderson	episodes=1 episode, 2015 	
+character=Barman - Train	name=Patrick Joseph Byrnes	episodes=1 episode, 2016 	
+character=Nurse Ruth	name=Diane Jennings	episodes=1 episode, 2014 	
+character=Other Gentleman	name=Frank Prendergast	episodes=1 episode, 2014 	
+character=Mortuary Boss	name=Pat McGrath	episodes=1 episode, 2014 	
+character=Gladys	name=Pagan McGrath	episodes=1 episode, 2015 	
+character=Maid	name=Pagan McGrath	episodes=1 episode, 2015 	
+character=Mrs. Bazarov	name=Barbara Brennan	episodes=1 episode, 2015 	
+character=Woman	name=Elif Knight	episodes=1 episode, 2016 	
+character=Sheriff	name=Paul McCloskey	episodes=1 episode, 2016 	
+character=Salesman	name=Ian Patterson	episodes=1 episode, 2016 	
+character=Woman 	name=Mary Murray	episodes=1 episode, 2014 	
+character=Broker	name=Morgan C. Jones	episodes=1 episode, 2015 	
+character=Curator	name=Frank Smith	episodes=1 episode, 2015 	
+character=Ship Doctor	name=Andrew Bridgmont	episodes=1 episode, 2016 	
+character=Woman 	name=Helen Norton	episodes=1 episode, 2014 	
+character=Man at Opera 	name=Anthony Delaney	episodes=1 episode, 2015 	
+character=Clare Chandler	name=Amber Fernée	episodes=1 episode, 2015 	
+character=Sailor 	name=Bradley Hall	episodes=1 episode, 2016 	
+character=Police Photographer	name=Alvaro Lucchesi	episodes=1 episode, 2014 	
+character=Charles Chandler	name=Noah Jupe	episodes=1 episode, 2015 	
+character=Man at Opera 	name=Brien	episodes=1 episode, 2015 	
+character=Man at Opera 	name=Matthew O	episodes=1 episode, 2015 	
+character=Suffragette Leader	name=Olga Wehrly	episodes=1 episode, 2016 	
+character=Sailor 	name=Jack Olohan	episodes=1 episode, 2016 	
+character=Constable	name=Dylan McDonough	episodes=1 episode, 2014 	
+character=Dress Shop Owner	name=Rachael Dowling	episodes=1 episode, 2015 	
+character=Train Man 	name=Liam Hourican	episodes=1 episode, 2016 	
+character=Felix	name=Gary Fox	episodes=1 episode, 2014 	
+character=Fencer 	name=Jack Hamilton	episodes=1 episode, 2016 	
+character=Train Man 	name=Jaimie Carswell	episodes=1 episode, 2016 	
+character=Rancher	name=Matt McClure	episodes=1 episode, 2016 	
+character=Magic Lantern Proprietor	name=Richard Doubleday	episodes=1 episode, 2016 	
+character=Woman	name=Aine Hayden	episodes=1 episode, 2016 	
+character=Museum Employee	name=Bryan Baker	episodes=1 episode, 2016 	
+character=Old Native American Woman	name=Tantoo Cardinal	episodes=1 episode, 2016 	
+character=Poor Boy	name=David Walsh	episodes=4 episodes, 2014 	
+character=Gentleman	name=Peter Robbie	episodes=2 episodes, 2014 	
+character=Nobleman	name=Mark Quigley	episodes=2 episodes, 2015 	
+character=Nathaniel Morris	name=Richard Riddell	episodes=1 episode, 2014 	
+character=Lady at the Séance	name=Leticia Dolera	episodes=1 episode, 2014 	
+character=Hospital Porter	name=Peter Miles	episodes=1 episode, 2014 	
+character=The Beautiful Woman	name=Raluca-Sandra Moore	episodes=1 episode, 2014 	
+character=Partygoer	name=Melissa Lawlor	episodes=1 episode, 2014 	
+character=Dorian	name=Melissa Lawlor	episodes=1 episode, 2014 	
+character=Rat-baiting Referee	name=Bobby Aherne	episodes=1 episode, 2014 	
+character=Audience Member	name=Darragh O	episodes=1 episode, 2014 	
+character=Audience Member	name=Connor	episodes=1 episode, 2014 	
+character=Nobleman	name=Graeme Redmond	episodes=1 episode, 2014 	
+character=Screaming Woman	name=Melissa Maria Carton	episodes=1 episode, 2014 	
+character=Man at the Sèance	name=Keith Murphy	episodes=1 episode, 2014 	
+character=Cowgirl	name=Olivia Fahy	episodes=1 episode, 2014 	
+character=Man	name=Adam Behan	episodes=1 episode, 2016 	
+character=Jared	name=Adam Behan	episodes=1 episode, 2016 	
+character=Red Coat Soldier	name=Adam William Cahill	episodes=1 episode, 2016 	
+character=Waiter	name=Mirsad Ibisevic	episodes=1 episode, 2016 	
+character=Familiar 	name=Fabien Oman	episodes=1 episode, 2016 	
+character=Familiar	name=Henri Välikangas	episodes=1 episode, 2016 	
+character=Red Coat Officer	name=Darren Lyons	episodes=1 episode, 2016 	

@@ -1,0 +1,231 @@
+# http://fitlayout.github.io/resource/art94 -> https://www.imdb.com/title/tt13207736/fullcredits/
+character=Jeffrey Dahmer	name=Evan Peters	episodes=10 episodes, 2022 	
+character=Lionel Dahmer	name=Richard Jenkins	episodes=9 episodes, 2022 	
+character=Shari Dahmer	name=Molly Ringwald	episodes=8 episodes, 2022 	
+character=Glenda Cleveland	name=Niecy Nash	episodes=7 episodes, 2022 	
+character=Detective Murphy	name=Michael Beach	episodes=6 episodes, 2022 	
+character=Patrick Kennedy	name=Colby French	episodes=6 episodes, 2022 	
+character=Catherine Dahmer	name=Michael Learned	episodes=5 episodes, 2022 	
+character=Shirley Hughes	name=Karen Malina White	episodes=5 episodes, 2022 	
+character=Southone Sinthasomphone	name=Khetphet Phagnasay	episodes=5 episodes, 2022 	
+character=Somdy Sinthasomphone	name=Phet Mahathongdy	episodes=5 episodes, 2022 	
+character=Somsack Sinthasomphone	name=Brayden Maniago	episodes=5 episodes, 2022 	
+character=Anouke Sinthasomphone	name=Scott Paophavihanh	episodes=5 episodes, 2022 	
+character=Sayamone Sinthasomphone	name=Somlit Inthalangsy	episodes=4 episodes, 2022 	
+character=Ronald Flowers	name=Dyllon Burnside	episodes=4 episodes, 2022 	
+character=Mildred Lindsey	name=Nikea Gamby-Turner	episodes=4 episodes, 2022 	
+character=Chief Arreola	name=David Barrera	episodes=3 episodes, 2022 	
+character=Tony Hughes	name=Rodney Burford	episodes=3 episodes, 2022 	
+character=Tracy Edwards	name=Shaun J. Brown	episodes=3 episodes, 2022 	
+character=Officer Gabrish	name=Matthew Alan	episodes=3 episodes, 2022 	
+character=Joyce Dahmer	name=Penelope Ann Miller	episodes=3 episodes, 2022 	
+character=Rita Isbell	name=DaShawn Barnes	episodes=3 episodes, 2022 	
+character=Officer Balcerzak	name=Scott Michael Morgan	episodes=3 episodes, 2022 	
+character=Konerak Sinthasomphone	name=Kieran Tamondong	episodes=3 episodes, 2022 	
+character=Sandra Smith	name=Dia Nash	episodes=4 episodes, 2022 	
+character=Young Jeffrey Dahmer	name=Nick A. Fisher	episodes=3 episodes, 2022 	
+character=Lionel	name=Josh Braaten	episodes=2 episodes, 2022 	
+character=Jesse Jackson	name=Nigel Gibbs	episodes=2 episodes, 2022 	
+character=Young Joyce Dahmer	name=Savannah Brown	episodes=2 episodes, 2022 	
+character=Officer Rauth	name=Mac Brandt	episodes=2 episodes, 2022 	
+character=Officer Mueller	name=Grant Harvey	episodes=2 episodes, 2022 	
+character=Police Officer	name=Chris Gann	episodes=2 episodes, 2022 	
+character=Wally The Butcher	name=Ken Clement	episodes=2 episodes, 2022 	
+character=Jacob	name=Maurice Demus	episodes=2 episodes, 2022 	
+character=Young Police Officer	name=Mark Reininga	episodes=2 episodes, 2022 	
+character=On Camera Reporter	name=Leanne Suter	episodes=2 episodes, 2022 	
+character=Christopher Scarver	name=Furly Mac	episodes=2 episodes, 2022 	
+character=Officer Kelly	name=Jake Green	episodes=2 episodes, 2022 	
+character=Barbara Hughes	name=Amy Mack	episodes=2 episodes, 2022 	
+character=African American Sergeant	name=Rodney J. Hobbs	episodes=2 episodes, 2022 	
+character=Deputy Chief	name=Clark Moore	episodes=2 episodes, 2022 	
+character=Dorothy Straughter	name=Keyla McNeely	episodes=2 episodes, 2022 	
+character=Sopa Princewill	name=Raymond Watanga	episodes=2 episodes, 2022 	
+character=Will Hughes	name=Corey Timmons	episodes=2 episodes, 2022 	
+character=Kim Hughes	name=Kyrsten V. Williams	episodes=2 episodes, 2022 	
+character=Doctor	name=Alex Hyde-White	episodes=2 episodes, 2022 	
+character=Denise	name=Emma Kennedy	episodes=2 episodes, 2022 	
+character=Chaplain Berkum	name=Patrick Day	episodes=2 episodes, 2022 	
+character=Stone	name=Jackson Hurst	episodes=2 episodes, 2022 	
+character=Biology, NHS Student	name=Bottara Angele	episodes=2 episodes, 2022 	
+character=Prosecuting Attorney	name=Karman Graham	episodes=1 episode, 2022 	
+character=John Wayne Gacy	name=Dominic Burgess	episodes=1 episode, 2022 	
+character=Steven Tuomi	name=Vince Hill-Bedford	episodes=1 episode, 2022 	
+character=Chaplain Adams	name=Chris Greene	episodes=1 episode, 2022 	
+character=Lawyer	name=Michael Andrew Baker	episodes=1 episode, 2022 	
+character=Lionel	name=Michael Andrew Baker	episodes=1 episode, 2022 	
+character=Young Shirley Hughes	name=Nikyla Boxley	episodes=1 episode, 2022 	
+character=Officer Clyde Reynolds	name=Karl Makinen	episodes=1 episode, 2022 	
+character=Charles	name=Blake Cooper Griffin	episodes=1 episode, 2022 	
+character=Dean Vaughn	name=Brandon Black	episodes=1 episode, 2022 	
+character=Officer 	name=Jesse Bush	episodes=1 episode, 2022 	
+character=Detective Rauss	name=Matt Cordova	episodes=1 episode, 2022 	
+character=Julie Yang	name=Linda Park	episodes=1 episode, 2022 	
+character=Mayor John Norquist	name=Raphael Sbarge	episodes=1 episode, 2022 	
+character=Joe Zilber	name=Ken Lerner	episodes=1 episode, 2022 	
+character=Dr. Park Dietz - Psychologist	name=Mark Atteberry	episodes=1 episode, 2022 	
+character=Judge	name=Thomas Crawford	episodes=1 episode, 2022 	
+character=Doctor	name=Noel Arthur	episodes=1 episode, 2022 	
+character=Chazz	name=Colin Ford	episodes=1 episode, 2022 	
+character=Field Surgeon	name=Hollie Bahar	episodes=1 episode, 2022 	
+character=Aaron	name=Ato Blankson-Wood	episodes=1 episode, 2022 	
+character=Margaret	name=Olivia Baptista	episodes=1 episode, 2022 	
+character=Stenographer	name=Jamela Asha	episodes=1 episode, 2022 	
+character=Richard Guerrero	name=Skyler Bible	episodes=1 episode, 2022 	
+character=Dottie	name=Karole Foreman	episodes=1 episode, 2022 	
+character=Yearbook Girl	name=Fiona Bishop	episodes=1 episode, 2022 	
+character=Don	name=Rhoyle Ivy King	episodes=1 episode, 2022 	
+character=Judge	name=Ivar Brogger	episodes=1 episode, 2022 	
+character=Dr. Larry Weeks	name=Bruce Beatty	episodes=1 episode, 2022 	
+character=Blonde Jogger	name=Asa Germann	episodes=1 episode, 2022 	
+character=Checkout Woman	name=Ariella Amar	episodes=1 episode, 2022 	
+character=Kareem	name=Verton R. Banks	episodes=1 episode, 2022 	
+character=Manny	name=Christopher Bencomo	episodes=1 episode, 2022 	
+character=Mrs. Hempsill	name=Hope Banks	episodes=1 episode, 2022 	
+character=Officer 	name=Matthew Gilmore	episodes=1 episode, 2022 	
+character=Physician	name=Aaron Anastasi	episodes=1 episode, 2022 	
+character=Dean of Students	name=Aaron Coleman	episodes=1 episode, 2022 	
+character=Portage Prison Guard	name=Phil Biedron	episodes=1 episode, 2022 	
+character=Jeffrey	name=Ron Bush	episodes=1 episode, 2022 	
+character=Lawyer	name=Ron Bush	episodes=1 episode, 2022 	
+character=CSI Investigator	name=Joshua Edward Moore	episodes=1 episode, 2022 	
+character=Nurse	name=Crystal Coney	episodes=1 episode, 2022 	
+character=Larry King	name=J. Paul Boehmer	episodes=1 episode, 2022 	
+character=Guidance Counselor	name=Trilby Glover	episodes=1 episode, 2022 	
+character=Cashier	name=Anissa Borrego	episodes=1 episode, 2022 	
+character=Paul Myers	name=Jacob Chattman	episodes=1 episode, 2022 	
+character=Grandson	name=Anias Anozie	episodes=1 episode, 2022 	
+character=Glenda	name=Anias Anozie	episodes=1 episode, 2022 	
+character=Russell Goldstein	name=David Bowe	episodes=1 episode, 2022 	
+character=Roy Ratcliffe	name=Troy Blendell	episodes=1 episode, 2022 	
+character=Kevin	name=Cole Capps	episodes=1 episode, 2022 	
+character=Rico	name=Jared DeBusk	episodes=1 episode, 2022 	
+character=Special Agent	name=Bill Doyle	episodes=1 episode, 2022 	
+character=James Doxator	name=Samjai Daniels	episodes=1 episode, 2022 	
+character=Susan	name=Stephanie Erb	episodes=1 episode, 2022 	
+character=Dennis	name=Adwin Brown	episodes=1 episode, 2022 	
+character=Warden Jeff Endicott	name=Scott Broderick	episodes=1 episode, 2022 	
+character=Judge Lawrence Gram	name=Michael Adler	episodes=1 episode, 2022 	
+character=Clinician	name=Brie Eley	episodes=1 episode, 2022 	
+character=Other Kid	name=Brey Chanadet	episodes=1 episode, 2022 	
+character=Prisoner 	name=Lacy Diamond	episodes=1 episode, 2022 	
+character=Hairstylist	name=Jordan Michael Green	episodes=1 episode, 2022 	
+character=Mr. Bertoglio	name=Peter Mackenzie	episodes=1 episode, 2022 	
+character=Rick	name=Austin Cauldwell	episodes=1 episode, 2022 	
+character=Ron	name=Kyle Butenhoff	episodes=1 episode, 2022 	
+character=Bailiff	name=Carlos Arellano	episodes=1 episode, 2022 	
+character=Prisoner 	name=Dion LaMarr Harvey	episodes=1 episode, 2022 	
+character=Dan	name=Isaac Faulkner	episodes=1 episode, 2022 	
+character=Audience Member	name=Molly Baker	episodes=1 episode, 2022 	
+character=Young David Dahmer	name=Tenz McCall	episodes=1 episode, 2022 	
+character=Dana	name=Celestial	episodes=1 episode, 2022 	
+character=Pediatrics Nurse	name=Taneka Johnson	episodes=1 episode, 2022 	
+character=Seth	name=Michael Germant	episodes=1 episode, 2022 	
+character=Judge Daniel George	name=Grant Davis	episodes=1 episode, 2022 	
+character=Paramedic 	name=Tyler Crim	episodes=1 episode, 2022 	
+character=Math Teacher	name=Dave Theune	episodes=1 episode, 2022 	
+character=Front Desk Police Officer	name=Tempany Deckert	episodes=1 episode, 2022 	
+character=Emily Soo	name=Sarah Chang	episodes=1 episode, 2022 	
+character=Tina	name=Brittany Giles	episodes=1 episode, 2022 	
+character=African American Man	name=Ken Ivy	episodes=1 episode, 2022 	
+character=Makeup Artist	name=Caroline Klidonas	episodes=1 episode, 2022 	
+character=Prison Librarian	name=Nicole Lynn Evans	episodes=1 episode, 2022 	
+character=MPA President	name=Bill Chott	episodes=1 episode, 2022 	
+character=Police Officer	name=Peter Holden	episodes=1 episode, 2022 	
+character=Delivery Nurse	name=Eva La Dare	episodes=1 episode, 2022 	
+character=News Correspondent	name=Serene Branson	episodes=1 episode, 2022 	
+character=Photographer	name=Steve Hasley	episodes=1 episode, 2022 	
+character=Police Photographer	name=Daniel Curtis Lee	episodes=1 episode, 2022 	
+character=Fresno Reporter 	name=Markina Brown	episodes=1 episode, 2022 	
+character=Doug Brozovsky	name=John Ahle Kellar	episodes=1 episode, 2022 	
+character=Officer 	name=Robert Descant	episodes=1 episode, 2022 	
+character=Officer Melnick	name=Matthew Downs	episodes=1 episode, 2022 	
+character=Coroner	name=Roslyn Gentle	episodes=1 episode, 2022 	
+character=Department Store Clerk	name=Keylor Leigh	episodes=1 episode, 2022 	
+character=Male Employee	name=Brandon Papo	episodes=1 episode, 2022 	
+character=Geraldo Rivera	name=Demi Castro	episodes=1 episode, 2022 	
+character=Investigator	name=Andy Taylor Kim	episodes=1 episode, 2022 	
+character=White Prisoner	name=Adam Dunnells	episodes=1 episode, 2022 	
+character=Yearbook Guy	name=Eugene Ko	episodes=1 episode, 2022 	
+character=Manager of Pawn shop	name=Arthur Richardson	episodes=1 episode, 2022 	
+character=Police Lieutenant	name=Travon McCall	episodes=1 episode, 2022 	
+character=Marcus	name=John Shartzer	episodes=1 episode, 2022 	
+character=Osvaldo Durruthy	name=Leroy Edwards III	episodes=1 episode, 2022 	
+character=Bus Driver	name=Ben Scott	episodes=1 episode, 2022 	
+character=Jesse Anderson	name=Jeff Harms	episodes=1 episode, 2022 	
+character=Police Officer 	name=Chase Fein	episodes=1 episode, 2022 	
+character=Sticky Ricky	name=Teddy Margas	episodes=1 episode, 2022 	
+character=Frank Currier	name=Kiff VandenHeuvel	episodes=1 episode, 2022 	
+character=Rufus	name=Michael Anthony Spady	episodes=1 episode, 2022 	
+character=Lemar	name=Kareem Ferguson	episodes=1 episode, 2022 	
+character=Paramedic 	name=Curtis Nelson II	episodes=1 episode, 2022 	
+character=Bartender	name=Collie Jay Simmons	episodes=1 episode, 2022 	
+character=Portage Prison Guard 	name=Britt George	episodes=1 episode, 2022 	
+character=Derek	name=Justin Stella	episodes=1 episode, 2022 	
+character=Duane	name=Matt Steele	episodes=1 episode, 2022 	
+character=Police Officer 	name=Scott Thomas Reynolds	episodes=1 episode, 2022 	
+character=Fresno Reporter 	name=Vanessa Giordano	episodes=1 episode, 2022 	
+character=Nousone Sinthasomphone	name=Dieu Tran	episodes=1 episode, 2022 	
+character=Newscaster	name=Jay Jackson	episodes=1 episode, 2022 	
+character=Denim Employee 	name=Keanush Tafreshi	episodes=1 episode, 2022 	
+character=Barry Goldman	name=John Grady	episodes=1 episode, 2022 	
+character=Officer	name=Mark Weiler	episodes=1 episode, 2022 	
+character=Tanner	name=Carson Zone	episodes=1 episode, 2022 	
+character=Isaac Richards	name=Horace Gold	episodes=1 episode, 2022 	
+character=Gerald Boyle	name=Arye Gross	episodes=1 episode, 2022 	
+character=Walter Jacobson	name=Matt Kaminsky	episodes=1 episode, 2022 	
+character=Nicole Childress	name=Teshi Thomas	episodes=1 episode, 2022 	
+character=Joseph Bradehoft	name=Jacob Zukowski	episodes=1 episode, 2022 	
+character=Robert Fennig, Attorney	name=David Kelsey	episodes=1 episode, 2022 	
+character=Portage Prison Guard 	name=Andy Hernandez	episodes=1 episode, 2022 	
+character=Pastor	name=Antonio David Lyons	episodes=1 episode, 2022 	
+character=J.W. Smith	name=Bobbie Lee Jr.	episodes=1 episode, 2022 	
+character=Ed Gein	name=Shane Kerwin	episodes=1 episode, 2022 	
+character=Female Sergeant	name=Ericka Kreutz	episodes=1 episode, 2022 	
+character=Officer 	name=Doug Long	episodes=1 episode, 2022 	
+character=Prisoner	name=Anthony Omari	episodes=1 episode, 2022 	
+character=Milwaukee Reporter 	name=Mercy Malick	episodes=1 episode, 2022 	
+character=Linda	name=Amanda Reed	episodes=1 episode, 2022 	
+character=Statesville Warden	name=David Rockwell	episodes=1 episode, 2022 	
+character=Milwaukee Reporter 	name=Ed Mattiuzzi	episodes=1 episode, 2022 	
+character=Fresno Reporter 	name=Danny Max	episodes=1 episode, 2022 	
+character=Woman	name=Rachel Winfree	episodes=1 episode, 2022 	
+character=Gavin	name=Eric Normington	episodes=1 episode, 2022 	
+character=Sheriff - 1957	name=Jim McCaffree	episodes=1 episode, 2022 	
+character=Tattooed Prisoner	name=Paul Zies	episodes=1 episode, 2022 	
+character=Elder Woman	name=Onh S. Phabmixay	episodes=1 episode, 2022 	
+character=Officer Krause	name=Jonathan Stanley	episodes=1 episode, 2022 	
+character=Darryl	name=Jordan Wall	episodes=1 episode, 2022 	
+character=Donald Bradehoft	name=Tony Robinette	episodes=1 episode, 2022 	
+character=Nick	name=Spencer Squire	episodes=1 episode, 2022 	
+character=Catherine Straughter	name=Rosemary Thomas	episodes=1 episode, 2022 	
+character=Janie Hagen	name=Ava Ticotin	episodes=1 episode, 2022 	
+character=Father Hecker	name=Tom Virtue	episodes=1 episode, 2022 	
+character=Waiter	name=Noah Staggs	episodes=1 episode, 2022 	
+character=Lieutenant Perez	name=Mike Estes	episodes=1 episode, 2022 	
+character=Sam	name=Christian Weissmann	episodes=1 episode, 2022 	
+character=Coroner	name=Mathew Trent Hunnicutt	episodes=1 episode, 2022 	
+character=Detective	name=James Hunter	episodes=1 episode, 2022 	
+character=Officer P.D.	name=Aaron Segal	episodes=1 episode, 2022 	
+character=Sysamone	name=Michelle Ku	episodes=1 episode, 2022 	
+character=Club Patron	name=Süfyan Elmoumi	episodes=1 episode, 2022 	
+character=Club Patron	name=Harry L. Michaels Jr.	episodes=1 episode, 2022 	
+character=Officer	name=Robby Descant	episodes=1 episode, 2022 	
+character=Club Patron	name=Mark Arnold	episodes=1 episode, 2022 	
+character=Prisoner	name=Paul Krugman	episodes=1 episode, 2022 	
+character=Student	name=Ryan Rathbun	episodes=1 episode, 2022 	
+character=Mean Girl	name=Nicole Alicia Xavier	episodes=2 episodes, 2022 	
+character=Diner Patron	name=Johnny Mansbach	episodes=2 episodes, 2022 	
+character=Club Patron	name=Brent Curtis	episodes=2 episodes, 2022 	
+character=Realtor	name=Nancy Harding	episodes=1 episode, 2022 	
+character=City Hall Worker	name=Frank Scozzari	episodes=1 episode, 2022 	
+character=Loatian Wedding Guest	name=Ansa Woo	episodes=1 episode, 2022 	
+character=Friend	name=Lola Rae Crist	episodes=1 episode, 2022 	
+character=Factory Worker	name=Luke Matheis	episodes=1 episode, 2022 	
+character=Mourner	name=Vance Duplechin	episodes=1 episode, 2022 	
+character=Club Patron	name=Darren Shin	episodes=1 episode, 2022 	
+character=Guard	name=Jamal Lloyd Johnson	episodes=1 episode, 2022 	
+character=Chapel Inmate	name=Tyler Prince	episodes=1 episode, 2022 	
+character=Courtroom Gallery	name=Baker Wiles	episodes=1 episode, 2022 	
+character=Club Patron	name=Gaylord Swaby	episodes=1 episode, 2022 	
+character=Prisoner	name=Lion Orduño	episodes=1 episode, 2022 	

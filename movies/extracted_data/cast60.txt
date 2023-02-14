@@ -1,0 +1,149 @@
+# http://fitlayout.github.io/resource/art60 -> https://www.imdb.com/title/tt8682948/fullcredits/
+character=Dee Dee Blanchard	name=Patricia Arquette	episodes=8 episodes, 2019 	
+character=Gypsy Rose Blanchard	name=Joey King	episodes=8 episodes, 2019 	
+character=Lacey	name=AnnaSophia Robb	episodes=6 episodes, 2019 	
+character=Mel	name=Chloë Sevigny	episodes=6 episodes, 2019 	
+character=Nick Godejohn	name=Calum Worthy	episodes=5 episodes, 2019 	
+character=Shelly	name=Denitra Isler	episodes=5 episodes, 2019 	
+character=Gina	name=Rachel Ticotin	episodes=4 episodes, 2019 	
+character=Dr. Evan Harley	name=Steve Coulter	episodes=3 episodes, 2019 	
+character=Journalist	name=Ashley Dulaney	episodes=2 episodes, 2019 	
+character=Darren	name=Sawyer Schultz	episodes=2 episodes, 2019 	
+character=Random Neighbor	name=BettyLynn Allison	episodes=2 episodes, 2019 	
+character=Trey	name=William David Billions	episodes=2 episodes, 2019 	
+character=Child Gypsy	name=Ella Harrison	episodes=2 episodes, 2019 	
+character=Child Gypsy	name=Hanna Harrison	episodes=2 episodes, 2019 	
+character=Tina	name=Patricia French	episodes=1 episode, 2019 	
+character=Correctional Officer	name=Rasheda Randle	episodes=1 episode, 2019 	
+character=Nurse	name=Alisa Harris	episodes=1 episode, 2019 	
+character=Cabbie	name=Holli Saperstein	episodes=1 episode, 2019 	
+character=Speaker	name=Butch Hammett	episodes=2 episodes, 2019 	
+character=Teen Girl	name=Riley Patrick	episodes=2 episodes, 2019 	
+character=Doctor	name=Charles D. Clark	episodes=1 episode, 2019 	
+character=Angel	name=Paris Gerald	episodes=2 episodes, 2019 	
+character=Coroner Tunney	name=David Michael-Smith	episodes=1 episode, 2019 	
+character=Deputy Crisp	name=Deron Lillard	episodes=1 episode, 2019 	
+character=Journalist	name=Anthony Scott	episodes=1 episode, 2019 	
+character=Dee Dee	name=Margo Martindale	episodes=1 episode, 2019 	
+character=Mother	name=Margo Martindale	episodes=1 episode, 2019 	
+character=Janet	name=Rhea Seehorn	episodes=1 episode, 2019 	
+character=Russ	name=Dean Norris	episodes=1 episode, 2019 	
+character=Brian	name=Joshua Mikel	episodes=1 episode, 2019 	
+character=Kathy	name=Juliette Lewis	episodes=1 episode, 2019 	
+character=Lawyer	name=Molly Ephraim	episodes=1 episode, 2019 	
+character=Gypsy	name=Molly Ephraim	episodes=1 episode, 2019 	
+character=Myra Toppan	name=Brooke Smith	episodes=1 episode, 2019 	
+character=Dr. Lakshmi Chandra	name=Poorna Jagannathan	episodes=1 episode, 2019 	
+character=Curtis	name=Dave Hager	episodes=1 episode, 2019 	
+character=Detective	name=Adam Arkin	episodes=1 episode, 2019 	
+character=Scott	name=Joe Tippett	episodes=1 episode, 2019 	
+character=Kayla	name=Valyn Hall	episodes=1 episode, 2019 	
+character=Rod Blanchard	name=Cliff Chamberlain	episodes=1 episode, 2019 	
+character=Usher	name=Dawson Shea	episodes=1 episode, 2019 	
+character=Luke	name=Nicholas Cirillo	episodes=1 episode, 2019 	
+character=Dr. Ashley Longham	name=Melissa Tang	episodes=1 episode, 2019 	
+character=Judge Palmer	name=Wilbur Fitzgerald	episodes=1 episode, 2019 	
+character=Debbie	name=Lana Young	episodes=1 episode, 2019 	
+character=Bored Teenage Girl	name=Tyvonna Jones	episodes=1 episode, 2019 	
+character=Vance	name=John Ales	episodes=1 episode, 2019 	
+character=Dr. Romero	name=Robert C. Treveiler	episodes=1 episode, 2019 	
+character=Prosecutor Rippy	name=Joe Knezevich	episodes=1 episode, 2019 	
+character=Matt Southerland	name=Karson Kern	episodes=1 episode, 2019 	
+character=Angry Woman	name=Ingrid Alli	episodes=1 episode, 2019 	
+character=Allison Granger	name=Mary Hollis Inboden	episodes=1 episode, 2019 	
+character=Doctor	name=Elizabeth Becka	episodes=1 episode, 2019 	
+character=Doctor	name=Roy Williams Jr.	episodes=1 episode, 2019 	
+character=Angry Man	name=Hamilton Sage	episodes=1 episode, 2019 	
+character=Hayley	name=Alexandria DeBerry	episodes=1 episode, 2019 	
+character=Volunteer	name=Alicia Kelley	episodes=1 episode, 2019 	
+character=Prison Doctor	name=Krisha Fairchild	episodes=1 episode, 2019 	
+character=Jaden	name=Bruno Rose	episodes=1 episode, 2019 	
+character=Public Defender	name=Megan Leahy	episodes=1 episode, 2019 	
+character=Pink Fairy Godmother	name=Elizabeth Bond	episodes=1 episode, 2019 	
+character=Police Officer 	name=Michael Rubino	episodes=1 episode, 2019 	
+character=She-Hulk	name=Ashton Leigh	episodes=1 episode, 2019 	
+character=Justine	name=Jaidi Ventura	episodes=1 episode, 2019 	
+character=Customer Service Rep	name=Aniria Turney	episodes=1 episode, 2019 	
+character=Deputy	name=Jason Loughlin	episodes=1 episode, 2019 	
+character=Police Officer 	name=Brooke Jaye Taylor	episodes=1 episode, 2019 	
+character=Wonder Woman	name=Chelsea Rivera	episodes=1 episode, 2019 	
+character=Sheriff Lewis	name=Lee Spencer	episodes=1 episode, 2019 	
+character=Cellmate	name=Monique Grant	episodes=1 episode, 2019 	
+character=Officer 	name=Brandon Morris	episodes=1 episode, 2019 	
+character=Khaleesi	name=Stephanie Enderby	episodes=1 episode, 2019 	
+character=Stonefaced Guard	name=Hannah Lowther	episodes=1 episode, 2019 	
+character=Sailor Moon	name=Tyler Kay Whitley	episodes=1 episode, 2019 	
+character=Dentist	name=Jason Alan Smith	episodes=1 episode, 2019 	
+character=Prosecutor	name=Julia Flint	episodes=1 episode, 2019 	
+character=Neighbor 	name=Brien Gregorie	episodes=1 episode, 2019 	
+character=Patrick	name=Jon Stafford	episodes=1 episode, 2019 	
+character=Sheriff	name=Michael H. Cole	episodes=1 episode, 2019 	
+character=Another Neighbor	name=John Quick	episodes=1 episode, 2019 	
+character=Inmate 	name=Tracy P. Cummings	episodes=1 episode, 2019 	
+character=Receptionist	name=Naida Nelson	episodes=1 episode, 2019 	
+character=Waitress	name=Korbi Dean	episodes=1 episode, 2019 	
+character=Event Greeter	name=Chantal Maurice	episodes=1 episode, 2019 	
+character=Cop	name=Edward Michael Scott	episodes=1 episode, 2019 	
+character=Daughter	name=Brooklyn Frank	episodes=1 episode, 2019 	
+character=Attendant	name=Vince Pisani	episodes=1 episode, 2019 	
+character=Pupeteer	name=Todd Minobe	episodes=1 episode, 2019 	
+character=Mother	name=Rae Becka	episodes=1 episode, 2019 	
+character=Operator	name=Jared Farid Ward	episodes=1 episode, 2019 	
+character=Zack	name=Colby Boothman	episodes=1 episode, 2019 	
+character=Runway Model	name=Emily Towles	episodes=1 episode, 2019 	
+character=Security Guard	name=Tywayne Wheatt	episodes=1 episode, 2019 	
+character=Princess Leia Comic Con	name=Brittany Altenbach	episodes=1 episode, 2019 	
+character=Stoned Guy	name=Mike Forbs	episodes=1 episode, 2019 	
+character=Officer Cox	name=José Alfredo Fernandez	episodes=1 episode, 2019 	
+character=Cashier	name=Chris Rubeiz	episodes=1 episode, 2019 	
+character=Convention Attendee	name=William G. Tomek	episodes=1 episode, 2019 	
+character=Roommate	name=Parker Dowling	episodes=1 episode, 2019 	
+character=Mall Patron	name=Makesha Williamson	episodes=1 episode, 2019 	
+character=YouTuber	name=Anita Star	episodes=1 episode, 2019 	
+character=Teen Girl	name=Sydney Parks	episodes=1 episode, 2019 	
+character=Girl on bus	name=Ansley Trivedi	episodes=1 episode, 2019 	
+character=Duty Officer	name=Drew McDermott	episodes=1 episode, 2019 	
+character=Doctor	name=Elgin Lee	episodes=1 episode, 2019 	
+character=Inmate	name=Teish Williams	episodes=1 episode, 2019 	
+character=Featured Neighbor	name=Jeffrey S Smith	episodes=1 episode, 2019 	
+character=Neighbor	name=Sherry Parks	episodes=1 episode, 2019 	
+character=Prison Guard 2019	name=Matthew Burrell	episodes=1 episode, 2019 	
+character=Mall Shopper	name=Jeff Burhans	episodes=5 episodes, 2019 	
+character=Mall Shopper	name=Sandy Burhans	episodes=4 episodes, 2019 	
+character=CSI Lucas	name=Maxwell Highsmith	episodes=3 episodes, 2019 	
+character=Deputy Sheriff	name=Patrick Ashley O	episodes=3 episodes, 2019 	
+character=Deputy Sheriff	name=Neal	episodes=3 episodes, 2019 	
+character=Inmate	name=Brayhia Marshall	episodes=3 episodes, 2019 	
+character=Neighbor	name=Ginny Cameron	episodes=3 episodes, 2019 	
+character=Child Gypsy	name=Eva Ariel Binder	episodes=1 episode, 2019 	
+character=Cable News Reporter	name=Michael Shenefelt	episodes=1 episode, 2019 	
+character=The Prince	name=Jacob Lynn	episodes=1 episode, 2019 	
+character=Traveler	name=Scott Rapp	episodes=1 episode, 2019 	
+character=Bus Passenger	name=Felicia M. Reyes	episodes=1 episode, 2019 	
+character=Nurse	name=Shay Mack	episodes=1 episode, 2019 	
+character=Train Station Patron	name=Grayson Bane	episodes=1 episode, 2019 	
+character=Attendant	name=Aroon Nayer	episodes=1 episode, 2019 	
+character=Deputy Sheriff Gamble	name=James E. Hammond	episodes=1 episode, 2019 	
+character=Delorean Owner	name=Robert C. Moseley Jr.	episodes=1 episode, 2019 	
+character=Man in the Mall	name=Kenya Cabine	episodes=1 episode, 2019 	
+character=Kid in Hospital	name=Alejandra Stack	episodes=1 episode, 2019 	
+character=Sheriff	name=Marlene Rivera	episodes=1 episode, 2019 	
+character=Deputy sheriff Crisp	name=Jeremiah Cummings	episodes=1 episode, 2019 	
+character=Nick	name=Joel Laird	episodes=1 episode, 2019 	
+character=Lawyer	name=Joel Laird	episodes=1 episode, 2019 	
+character=Bus Passenger	name=Kerry McCoy	episodes=1 episode, 2019 	
+character=Prisoner	name=Alzie Williams	episodes=1 episode, 2019 	
+character=Woodshop Worker	name=Justin Barefield	episodes=1 episode, 2019 	
+character=Lacey	name=R.J. Miller	episodes=1 episode, 2019 	
+character=Friend	name=R.J. Miller	episodes=1 episode, 2019 	
+character=Prisoner	name=Shant Kazandjian	episodes=1 episode, 2019 	
+character=Hospital Administrator	name=Matthew Ezell	episodes=1 episode, 2019 	
+character=Inmate	name=Saul Cancel	episodes=1 episode, 2019 	
+character=Inmate	name=Crystal Vazquez	episodes=1 episode, 2019 	
+character=Photographer	name=Michael Cannady	episodes=1 episode, 2019 	
+character=Neighbor	name=Tyrell Hill	episodes=1 episode, 2019 	
+character=Police Detective	name=Jason Grabill	episodes=1 episode, 2019 	
+character=Fedex Driver	name=Andre Rodriguez II	episodes=1 episode, 2019 	
+character=Nosey Neighbor	name=Manuel Rivera	episodes=1 episode, 2019 	
+character=Bus Passenger	name=Kimberly McTaw	episodes=1 episode, 2019 	
+character=Orderly	name=Daniel Grantham Jr.	episodes=1 episode, 2019 	

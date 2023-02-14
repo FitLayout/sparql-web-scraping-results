@@ -1,0 +1,60 @@
+# http://fitlayout.github.io/resource/art96 -> https://www.imdb.com/title/tt12748084/fullcredits/
+character=Sophie Whitehouse	name=Sienna Miller	episodes=6 episodes, 2022 	
+character=Kate Woodcroft	name=Michelle Dockery	episodes=6 episodes, 2022 	
+character=James Whitehouse	name=Rupert Friend	episodes=6 episodes, 2022 	
+character=Finn Whitehouse	name=Sebastian Selwood	episodes=6 episodes, 2022 	
+character=Emily Whitehouse	name=Amelie Bea Smith	episodes=6 episodes, 2022 	
+character=Young James	name=Ben Radcliffe	episodes=6 episodes, 2022 	
+character=Olivia Lytton	name=Naomi Scott	episodes=5 episodes, 2022 	
+character=Angela Regan	name=Josette Simon	episodes=5 episodes, 2022 	
+character=Maggie	name=Kudzai Sitima	episodes=5 episodes, 2022 	
+character=Judge Aled Luckhurst	name=Jonathan Coy	episodes=5 episodes, 2022 	
+character=John Vestey	name=Tom Turner	episodes=5 episodes, 2022 	
+character=Chris Clarke	name=Joshua McGuire	episodes=5 episodes, 2022 	
+character=Holly	name=Nancy Farino	episodes=5 episodes, 2022 	
+character=Krystyna	name=Violet Verigo	episodes=5 episodes, 2022 	
+character=Female QC 1	name=Elizabeth Chan	episodes=5 episodes, 2022 	
+character=Clerk	name=Missy Malek	episodes=5 episodes, 2022 	
+character=Nikita 	name=Missy Malek	episodes=5 episodes, 2022 	
+character=Ali	name=Liz White	episodes=5 episodes, 2022 	
+character=Jury Foreperson	name=Julia Warr	episodes=5 episodes, 2022 	
+character=Young Sophie	name=Hannah Dodd	episodes=4 episodes, 2022 	
+character=Richard	name=Jonathan Firth	episodes=4 episodes, 2022 	
+character=Tom Southern	name=Geoffrey Streatfeild	episodes=4 episodes, 2022 	
+character=Brian Taylor	name=Richard McCabe	episodes=3 episodes, 2022 	
+character=Young Tom	name=Jake Simmance	episodes=3 episodes, 2022 	
+character=Libertine	name=Luka Sheppard	episodes=3 episodes, 2022 	
+character=Alec 	name=Luka Sheppard	episodes=3 episodes, 2022 	
+character=Junior Barrister 2	name=Arazou	episodes=2 episodes, 2022 	
+character=Junior Barrister 1	name=Ralph Davis	episodes=2 episodes, 2022 	
+character=Ellie Frisk	name=Anna Madeley	episodes=2 episodes, 2022 	
+character=Lucy	name=Rosalie Craig	episodes=2 episodes, 2022 	
+character=Madame Speaker	name=Jane How	episodes=2 episodes, 2022 	
+character=Mrs. Addington	name=Natasha Magigi	episodes=2 episodes, 2022 	
+character=Alison	name=Annie Haworth	episodes=2 episodes, 2022 	
+character=Kitty Ledger	name=Kathryn Wilder	episodes=2 episodes, 2022 	
+character=James Lookalike	name=George Stay	episodes=1 episode, 2022 	
+character=Mark Frisk	name=Edmund Kingsley	episodes=1 episode, 2022 	
+character=Sibyl Murray	name=Maggie Steed	episodes=1 episode, 2022 	
+character=Raj	name=Sid Sagar	episodes=1 episode, 2022 	
+character=Kenneth	name=Clayton Grover	episodes=1 episode, 2022 	
+character=Aitkin	name=Adrian Lukis	episodes=1 episode, 2022 	
+character=Tuppence Whitehouse	name=Phoebe Nicholls	episodes=1 episode, 2022 	
+character=TV Reporter	name=Richard Styles	episodes=1 episode, 2022 	
+character=PR Liaison	name=Jane Fowler	episodes=1 episode, 2022 	
+character=Anchor Woman	name=Chereen Buckley	episodes=1 episode, 2022 	
+character=Ollie	name=Junior Buron	episodes=1 episode, 2022 	
+character=Older Brother	name=Rudy Blue	episodes=1 episode, 2022 	
+character=Ollie	name=Rudy Blue	episodes=1 episode, 2022 	
+character=Dan	name=Sonny Poon Tip	episodes=1 episode, 2022 	
+character=Waitress	name=Niamh Lynch	episodes=1 episode, 2022 	
+character=Press 1	name=Rob Jarvis	episodes=1 episode, 2022 	
+character=Press 2	name=Munirih Grace	episodes=1 episode, 2022 	
+character=Lawrence Hughes-Davies	name=Clive Francis	episodes=1 episode, 2022 	
+character=Detective Sergeant Willis	name=Barnaby Kay	episodes=1 episode, 2022 	
+character=Dr. Howard Blackburn	name=Christopher Godwin	episodes=1 episode, 2022 	
+character=Detective Constable Rydon	name=Eleanor de Rohan	episodes=1 episode, 2022 	
+character=Patrick	name=Iwan Davies	episodes=1 episode, 2022 	
+character=Teacher	name=Ruth Clarson	episodes=1 episode, 2022 	
+character=Rolls-Royce Driver	name=Ray Burnet	episodes=1 episode, 2022 	
+character=Member of Parliament	name=Ian Harrod	episodes=1 episode, 2022 	
