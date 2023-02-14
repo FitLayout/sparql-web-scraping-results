@@ -12,7 +12,7 @@ We demonstrate the extraction of multiple repeating records from a hundred diffe
 
 ## Extraction from Different Web Sites
 
-We extract product title and price from four different e-commerce websites (the URLs are provided in the extraction results files).
+We extract product title and price from five different e-commerce websites (the URLs are provided in the extraction results files).
 
 - Tagger definitions: [tags_products.ttl](https://github.com/FitLayout/sparql-web-scraping/blob/main/src/main/resources/tags_products.ttl)
 - SPARQL query: [products.sparql](https://github.com/FitLayout/sparql-web-scraping/blob/main/sparql/products.sparql)
